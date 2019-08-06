@@ -8,7 +8,7 @@ Before you begin, if you haven't already, I recommend installing some packages f
 > install.packages("tidyverse")
 ```
 
-To download, for example, the standings data into R use the following command:
+To download, for example, the standings data into your R enviornment, run the following:
 
 ``` r
 > library(tidyverse)
