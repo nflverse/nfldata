@@ -2,7 +2,9 @@
 
 This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
 
-While you can of course use any tool of your choice, I recommend downloading and installing both R and RStudio if you don't already have them. Both are free!
+I want to thank [Ben Baldwin](https://twitter.com/benbbaldwin) who has created [a great tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) for getting started with play-by-play data from nflscrapR. That tutorial was the inspiration for this write-up.
+
+While you can of course use a variety of tools for looking at data, I recommend downloading and installing both R and RStudio. Both are free!
 - [Download R](https://cran.cnr.berkeley.edu/)
 - [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
