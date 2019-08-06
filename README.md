@@ -10,6 +10,7 @@ Once installed, run R Studio and look in the Console tab. This is where you can 
 
 ``` r
 > install.packages("tidyverse")
+> install.packages("ggplot2")
 ```
 
 To download, for example, the standings data into your R enviornment, run the following:
@@ -39,7 +40,7 @@ You can see how this data is structured. Each row corresponds to how well a cert
 For example, you can see the Jets were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams have `NA` listed which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
 
 ## Examining Data
-### Example: What playoff seeds have Super Bowl winners had?
+#### Example: What playoff seeds have Super Bowl winners had?
 
 Let's say you want to see how many times a team with a given playoff seed as has won the Super Bowl (since realignment in 2002, when this data set begins). This command first takes `standings` and filters it down only to the rows where the team won the Super Bowl that year. Second, it groups these rows by `seed`, so there's one row for each of the six playoff seeds. Finally, we want to count how many rows were collapsed into this each seed's new row, and we'll call that `count`.
 
@@ -60,9 +61,29 @@ Let's say you want to see how many times a team with a given playoff seed as has
 Wow, the team that won the Super Bowl was a 1st or 2nd seed most of the time. Those first round playoff byes sure do appear to be helpful!
 
 ## Plotting Data
-### Example: Are teams who score a lot of points more or less likely to be teams with a lot of points allowed?
+#### Example: Are teams who score a lot of points more or less likely to be teams with a lot of points allowed?
 
 Let's plot this data. We'll choose points scored to be the x-axis (or horizontal axis) while points allowed is the y-axis (or vertical axis). Then on the plot we can put a dot where each team falls. To help understand this data better, we'll also change the color of the dot based on their playoff outcome.
+
+``` r
+library(ggplot2)
+ggplot(standings,aes(x=scored,y=allowed)) +
+  theme_minimal() +
+  geom_point(aes(color=playoffs)) +
+  xlab("Points Scored") +
+  ylab("Points Allowed") +
+  labs(title="Points Scored vs. Points Allowed")
+```
+
+After running this command, you should see this in the Plots tab:
+
+![Points Scored vs. Points Allowed](http://www.habitatring.com/scored-vs-allowed.png)
+
+Two things should pop out at you as you look at this data. First: Non-gray dots, indicating a playoff team, are mostly toward the lower-right hand corner of the graph. This indicates that playoff teams tend to be teams that have scored a lot of points (suggesting a good offense), and have allowed their opponents to score relatively few points (suggesting a good defense). This makes sense, of course. You expect teams that are good at both to be in the playoffs!
+
+Second, teams are spread all over this graph. This indicates there's not a strong relationship between how many points team score and how many they allow, so knowing how many they score doesn't really help you know more about how many points they allow. This makes sense. As discussed above, points scored is mostly a reflection of how good the offense is, while points allowed is mostly a reflection of how good the defense is. And we can all think of examples of teams that were good on one side of the ball while being bad at the other.
+
+Let's look back at how we generated this plot and understand the command better:
 
 ``` r
 ggplot(standings,aes(x=scored,y=allowed)) +
@@ -73,8 +94,6 @@ ggplot(standings,aes(x=scored,y=allowed)) +
   labs(title="Points Scored vs. Points Allowed")
 ```
 
-![Points Scored vs. Points Allowed](http://www.habitatring.com/scored-vs-allowed.png)
+The `ggplot()` function is what tells R to create the plot. `standings` is the first argument, telling R what data it should use to make the plot. After that, we tell it which columns withing `standings` should represent the x and y axes. The `aes()` function in the middle is there to allow R to understand within that function, you'll be referring to columns of `standings` by name.
 
-Two things should pop out at you as you look at this data. First: Non-gray dots, indicating a playoff team, are mostly toward the lower-right hand corner of the graph. This indicates that playoff teams tend to be teams that have scored a lot of points (suggesting a good offense), and have allowed their opponents to score relatively few points (suggesting a good defense). This makes sense, of course. You expect teams that are good at both to be in the playoffs!
-
-Second, teams are spread all over this graph. This indicates there's not a strong relationship between how many points team score and how many they allow, so knowing how many they score doesn't really help you know more about how many points they allow. This makes sense. As discussed above, points scored is mostly a reflection of how good the offense is, while points allowed is mostly a reflection of how good the defense is. And we can all think of examples of teams that were good on one side of the ball while being bad at the other.
+After that we can add additional paramters to our plot. `theme_minimal()` is a good set of defaults for how the title, legend, axes, gridlines, and so forth should appear visually. More advanced options allow you to configure this if you wish. `geom_point()` puts a point for each row in `standings`. Again within `aes()`, we tell R that the color of the dot should be based on the `playoffs` column value for that row. R will assign colors on its own, but more advanced options allow for configuration here. Finally, we can use `xlab()`, `ylab()`, and `labs()` to specify the text labels that we want to appear on this plot to help the viewer understand what the data means.
