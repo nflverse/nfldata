@@ -31,6 +31,12 @@ You can examine with the head command as in below. The "%>%" operator sends the 
 6   2002 AFC        AFC North CIN       2     14     0   0.125        4 0.406 0.531    NA NA  
 ```
 
+You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. You can see not only that season and team abbreviation, but a bunch of other information about how team that year: their conference and division information, their record and win percentage, their rank within their division, their strength of victory and strength of schedule (used for NFL tiebreakers), and how they did in the playoffs.
+
+For example, you can see the Jets were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams have `NA` listed which means "not applicable". Usually you can figure out what `NA` means from context. In this case, it means those teams did not make the playoffs.
+
+## Simple Query Example
+
 Let's say you want to see how many times a team with a given playoff seed as has won the Super Bowl (since realignment in 2002, when this data set begins). This command first takes `standings` and filters it down only to the rows where the team won the Super Bowl that year. Second, it groups these rows by `seed`, so there's one row for each of the six playoff seeds. Finally, we want to count how many rows were collapsed into this each seed's new row, and we'll call that `count`.
 
 ``` r
