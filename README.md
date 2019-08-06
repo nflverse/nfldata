@@ -39,7 +39,7 @@ You can examine with the head command as in below. The `%>%` operator sends the 
 
 You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. This shows a lot of information about the team's performance that year.
 
-For example, you can see the Jets won the division with a 9-7 record, were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams shown have `NA` listed for `seed` and `playoffs` which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
+For example, you can see the Jets won the division with a 9-7 record, were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams shown have `NA` listed for `seed` and `playoff` which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
 
 ## Examining Data
 #### Example: What playoff seeds have Super Bowl winners had?
@@ -71,7 +71,7 @@ Let's plot this data. We'll choose points scored to be the x-axis (or horizontal
 library(ggplot2)
 ggplot(standings,aes(x=scored,y=allowed)) +
   theme_minimal() +
-  geom_point(aes(color=playoffs)) +
+  geom_point(aes(color=playoff)) +
   xlab("Points Scored") +
   ylab("Points Allowed") +
   labs(title="Points Scored vs. Points Allowed")
@@ -90,7 +90,7 @@ Let's look back at how we generated this plot and understand the command better:
 ``` r
 ggplot(standings,aes(x=scored,y=allowed)) +
   theme_minimal() +
-  geom_point(aes(color=playoffs)) +
+  geom_point(aes(color=playoff)) +
   xlab("Points Scored") +
   ylab("Points Allowed") +
   labs(title="Points Scored vs. Points Allowed")
@@ -98,4 +98,4 @@ ggplot(standings,aes(x=scored,y=allowed)) +
 
 The `ggplot()` function is what tells R to create the plot. `standings` is the first argument, telling R what data it should use to make the plot. After that, we tell it which columns withing `standings` should represent the x and y axes. The `aes()` function in the middle is there to allow R to understand within that function, you'll be referring to columns of `standings` by name.
 
-After that we can add additional paramters to our plot. `theme_minimal()` is a good set of defaults for how the title, legend, axes, gridlines, and so forth should appear visually. More advanced options allow you to configure this if you wish. `geom_point()` puts a point for each row in `standings`. Again within `aes()`, we tell R that the color of the dot should be based on the `playoffs` column value for that row. R will assign colors on its own, but more advanced options allow for configuration here. Finally, we can use `xlab()`, `ylab()`, and `labs()` to specify the text labels that we want to appear on this plot to help the viewer understand what the data means.
+After that we can add additional paramters to our plot. `theme_minimal()` is a good set of defaults for how the title, legend, axes, gridlines, and so forth should appear visually. More advanced options allow you to configure this if you wish. `geom_point()` puts a point for each row in `standings`. Again within `aes()`, we tell R that the color of the dot should be based on the `playoff` column value for that row. R will assign colors on its own, but more advanced options allow for configuration here. Finally, we can use `xlab()`, `ylab()`, and `labs()` to specify the text labels that we want to appear on this plot to help the viewer understand what the data means.
