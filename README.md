@@ -2,7 +2,11 @@
 
 This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
 
-Before you begin, if you haven't already, I recommend installing some packages for R (you'll only need to do this once):
+While you can of course use any tool of your choice, I recommend downloading and installing both R and RStudio if you don't already have them. Both are free!
+- [Download R](https://cran.cnr.berkeley.edu/)
+- [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+
+Once installed, run R Studio and look in the Console tab. This is where you can enter commands and see the results of those commands. if you haven't already, I recommend installing some packages for R (you'll only need to do this once):
 
 ``` r
 > install.packages("tidyverse")
