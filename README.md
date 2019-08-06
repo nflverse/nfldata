@@ -39,7 +39,7 @@ You can examine with the head command as in below. The `%>%` operator sends the 
 
 You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. This shows a lot of information about the team's performance that year.
 
-For example, you can see the Jets were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams have `NA` listed which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
+For example, you can see the Jets won the division with a 9-7 record, were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams shown have `NA` listed for `seed` and `playoffs` which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
 
 ## Examining Data
 #### Example: What playoff seeds have Super Bowl winners had?
