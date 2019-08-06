@@ -1,6 +1,6 @@
 # NFL Data for Public Consumption from @LeeSharpeNFL 
 
-This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL)
+This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
 
 Before you begin, if you haven't already, I recommend installing some packages for R (you'll only need to do this once):
 
