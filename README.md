@@ -48,4 +48,4 @@ Let's say you want to see how many times a team with a given playoff seed as has
 
 ```
 
-Wow, those first round byes sure are helpful, huh?
+Wow, the team that won the Super Bowl was a 1st or 2nd seed most of the time. Those first round playoff byes sure do appear to be helpful!
