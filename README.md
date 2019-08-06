@@ -33,7 +33,7 @@ You can examine with the head command as in below. The `%>%` operator sends the 
 
 You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. You can see not only that season and team abbreviation, but a bunch of other information about how team that year: their conference and division information, their record and win percentage, their rank within their division, their strength of victory and strength of schedule (used for NFL tiebreakers), and how they did in the playoffs.
 
-For example, you can see the Jets were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams have `NA` listed which means "not applicable". Usually you can figure out what `NA` means from context. In this case, it means those teams did not make the playoffs.
+For example, you can see the Jets were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams have `NA` listed which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
 
 ## Simple Query Example
 
