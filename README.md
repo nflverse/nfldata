@@ -15,7 +15,7 @@ To download, for example, the standings data into your R enviornment, run the fo
 > standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
 ```
 
-You can examine with the head command as in below. The "%>%" operator sends the standings data into the head() command.
+You can examine with the head command as in below. The `%>%` operator sends the standings data into the head() command.
 
 ``` r
 > standings %>% head()
