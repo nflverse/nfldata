@@ -1,4 +1,4 @@
-season,conference,division,team,wins,losses,ties,win_pct,div_rank,scored,allowed,points,sov,sos,seed,playoffs
+season,conference,division,team,wins,losses,ties,win_rate,div_rank,scored,allowed,points,sov,sos,seed,playoffs
 2002,AFC,AFC East,BUF,8,8,0,0.5,4,379,397,-18,0.351562,0.472656,,
 2002,AFC,AFC East,MIA,9,7,0,0.5625,3,378,301,77,0.486111,0.507812,,
 2002,AFC,AFC East,NE,9,7,0,0.5625,2,381,346,35,0.451389,0.523438,,
