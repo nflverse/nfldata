@@ -27,14 +27,14 @@ You can examine with the head command as in below. The `%>%` operator sends the 
 ``` r
 > standings %>% head()
 # A tibble: 6 x 16
-  season conf  division  team   wins losses  ties win_rate div_rank scored allowed points   sov   sos  seed playoffs
-   <dbl> <chr> <chr>     <chr> <dbl>  <dbl> <dbl>    <dbl>    <dbl>  <dbl>   <dbl>  <dbl> <dbl> <dbl> <dbl> <chr>   
-1   2002 AFC   AFC East  BUF       8      8     0    0.5          4    379     397    -18 0.352 0.473    NA NA      
-2   2002 AFC   AFC East  MIA       9      7     0    0.562        3    378     301     77 0.486 0.508    NA NA      
-3   2002 AFC   AFC East  NE        9      7     0    0.562        2    381     346     35 0.451 0.523    NA NA      
-4   2002 AFC   AFC East  NYJ       9      7     0    0.562        1    359     336     23 0.5   0.5       4 LostDV  
-5   2002 AFC   AFC North BAL       7      9     0    0.438        3    316     354    -38 0.384 0.5      NA NA      
-6   2002 AFC   AFC North CIN       2     14     0    0.125        4    279     456   -177 0.406 0.531    NA NA      
+  season conf  division  team   wins losses  ties win_pct div_rank scored allowed   net   sov   sos  seed playoffs
+   <dbl> <chr> <chr>     <chr> <dbl>  <dbl> <dbl>   <dbl>    <dbl>  <dbl>   <dbl> <dbl> <dbl> <dbl> <dbl> <chr>   
+1   2002 AFC   AFC East  BUF       8      8     0   0.5          4    379     397   -18 0.352 0.473    NA NA      
+2   2002 AFC   AFC East  MIA       9      7     0   0.562        3    378     301    77 0.486 0.508    NA NA      
+3   2002 AFC   AFC East  NE        9      7     0   0.562        2    381     346    35 0.451 0.523    NA NA      
+4   2002 AFC   AFC East  NYJ       9      7     0   0.562        1    359     336    23 0.5   0.5       4 LostDV  
+5   2002 AFC   AFC North BAL       7      9     0   0.438        3    316     354   -38 0.384 0.5      NA NA      
+6   2002 AFC   AFC North CIN       2     14     0   0.125        4    279     456  -177 0.406 0.531    NA NA      
 ```
 
 You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. This shows a lot of information about the team's performance that year.
