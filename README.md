@@ -47,7 +47,7 @@ For example, you can see the Jets won the division with a 9-7 record, were the 4
 Let's say you want to see how many times a team with a given playoff seed as has won the Super Bowl (since realignment in 2002, when this data set begins). This command first takes `standings` and filters it down only to the rows where the team won the Super Bowl that year. Second, it groups these rows by `seed`, so there's one row for each of the six playoff seeds. Finally, we want to count how many rows were collapsed into this each seed's new row, and we'll call that `count`.
 
 ``` r
-> standings %>% filter(playoffs == "WonSB") %>% group_by(seed) %>% summarize(count=n())
+> standings %>% filter(playoff == "WonSB") %>% group_by(seed) %>% summarize(count=n())
 # A tibble: 6 x 2
    seed count
   <dbl> <int>
