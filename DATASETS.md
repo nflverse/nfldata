@@ -6,6 +6,7 @@ Here is detailed information on each data set.
 - [Games](#games)  
 
 <a name="standings"/>
+
 ## Standings
 
 To import:
@@ -35,6 +36,7 @@ Columns:
 - `playoff`: The outcome of the team's playoff run. Is `NA` for teams which do not make the playoffs, otherwise will be one of `LostWC`, `LostDV`, `LostCC`, `LostSB`, or `WonSB`.
 
 <a name="games"/>
+
 ## Games
 
 To import:
