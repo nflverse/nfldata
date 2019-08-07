@@ -73,7 +73,7 @@ To import:
 > draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_picks.csv")
 ```
 
-Data begins with the 2000 season and comes from the excellent [Pro Football Reference](https://www.pro-football-reference.com/)
+Data begins with the 2000 season and comes from the excellent [Pro Football Reference](https://www.pro-football-reference.com/) and does not include picks the supplemental draft.
 
 - `season`: The season in which the draft occurred. This is the season after the draft, not the one before it, so this would represent the rookie year for drafted players.
 - `team`: The team that drafted the player. This team may have traded for this pick or already owned it.
