@@ -54,7 +54,7 @@ Columns:
 - `week`: The week of the NFL season the game occurs in. This will be 1-17 for the regular season, 18 for wildcard playoff games, 19 for divisional playoff games, 20 for conference championships and 21 for Super Bowls.
 - `gameday`: The date on which the game occurred.
 - `weekday`: The day of the week on which the game occcured.
-- `gametime`: The kickoff time of the game. This is represented in 24 hour time and the Eastern time zone, regardless of what time zone the actual game was being played in.
+- `gametime`: The kickoff time of the game. This is represented in 24-hour time and the Eastern time zone, regardless of what time zone the game was being played in.
 - `visitor`: The visiting team.
 - `v_score`: The number of points the visiting team scored. Is `NA` for games which haven't yet been played.
 - `home`: The home team. Note that this contains the designated home team for games which no team is playing at home such as Super Bowls or NFL International games.
