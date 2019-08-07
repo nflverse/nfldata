@@ -12,6 +12,7 @@ To import:
 
 Data begins with the 2002 NFL season.
 
+Columns:
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
 - `conf`: The conference the team is in. This will be either `AFC` or `NFC`.
 - `division`: The division the team is in. This will be the value of `conf` followed by either `East`, `North`, `South`, or `West`.
@@ -31,12 +32,15 @@ Data begins with the 2002 NFL season.
 
 ## Games
 
+To import:
+
 ``` r
 > games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
 ```
 
 Data begins with the 2006 NFL season.
 
+Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
 - `week`: The week of the NFL season the game occurs in. This will be 1-17 for the regular season, 18 for wildcard playoff games, 19 for divisional playoff games, 20 for conference championships and 21 for Super Bowls.
