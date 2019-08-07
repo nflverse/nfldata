@@ -27,7 +27,7 @@ Columns:
 - `losses`: The number of games the team lost in the regular season.
 - `ties`: The number of games the team tied in the regular season.
 - `pct`: The win rate of the team in the regular season. Equals `(wins + 0.5 * ties) / (wins + losses + ties)`.
-- `div_rank`: This is where this team ranks compared to the other teams in the division based on regular season games only. If the teams have identical `pct` values, NFL tiebreakers are applied.
+- `div_rank`: This is where this team ranks compared to the other teams in the division based on regular season games only. Will be a number 1-4. If the teams have identical `pct` values, NFL tiebreakers are applied.
 - `scored`: The number of points the team has scored in regular season games.
 - `allowed`: The number of points the team has allowed to be scored on them in regular season games.
 - `net`: Net points scored in regular season games. Equals `scored - allowed`.
