@@ -57,7 +57,7 @@ Columns:
 - `gametime`: The kickoff time of the game. This is represented in 24 hour time and the Eastern time zone, regardless of what time zone the actual game was being played in.
 - `visitor`: The visiting team.
 - `v_score`: The number of points the visiting team scored. Is `NA` for games which haven't yet been played.
-- `home`: The home team. Note that this contains the designated home team for games which no team is playing at home such as Super Bowl games or games played on a neutral site such as an NFL International Game.
+- `home`: The home team. Note that this contains the designated home team for games which no team is playing at home such as Super Bowls or NFL International games.
 - `h_score`: The number of points the home team scored. Is `NA` for games which haven't yet been played.
 - `location`: Either `Home` if the home team is playing in their home stadium, or `Neutral` if the game is being played at a neutral location. This still shows as `Home` for games between the Giants and Jets even though they share the same home stadium.
 - `result`: The number of points the home team scored minus the number of points the visiting team scored. Equals `h_score - v_score`. Is `NA` for games which haven't yet been played.
