@@ -4,6 +4,10 @@ Here is detailed information on each data set and what each column means:
 
 ## standings.csv
 
+``` r
+> standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
+```
+
 Data begins with the 2002 NFL season.
 
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
@@ -24,6 +28,10 @@ Data begins with the 2002 NFL season.
 - `playoff`: The outcome of the team's playoff run. Is `NA` for teams which do not make the playoffs, otherwise will be one of `LostWC`, `LostDV`, `LostCC`, `LostSB`, or `WonSB`.
 
 ## games.csv
+
+``` r
+> games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
+```
 
 Data begins with the 2006 NFL season.
 
