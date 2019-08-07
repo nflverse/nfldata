@@ -1,9 +1,10 @@
-# NFL Data for Public Consumption
+# NFL Data Sets
 
 Here is detailed information on each data set.
 
 - [Standings](#standings)  
-- [Games](#games)  
+- [Games](#games)
+- [Draft Picks](#draft_picks)
 
 <a name="standings"/>
 
@@ -61,3 +62,24 @@ Columns:
 - `location`: Either `Home` if the home team is playing in their home stadium, or `Neutral` if the game is being played at a neutral location. This still shows as `Home` for games between the Giants and Jets even though they share the same home stadium.
 - `result`: The number of points the home team scored minus the number of points the visiting team scored. Equals `h_score - v_score`. Is `NA` for games which haven't yet been played.
 - `total`: The sum of each team's score in the game. Equals `h_score + v_score`. Is `NA` for games which haven't yet been played.
+
+<a name="draft_picks"/>
+
+## Draft Picks
+
+To import:
+
+``` r
+> draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_picks.csv")
+```
+
+Data begins with the 2000 season and comes from the excellent [Pro Football Reference](https://www.pro-football-reference.com/)
+
+- `season`: The season in which the draft occurred. This is the season after the draft, not the one before it, so this would represent the rookie year for drafted players.
+- `team`: The team that drafted the player. This team may have traded for this pick or already owned it.
+- `round`: The round of the draft this pick occurred in.
+- `pick`: The number of the pick.
+- `position`: The NFL position the selected player plays.
+- `playerid`: The ID of the selected player as used by Pro Football Reference. If `NA`, the player was not assigned an ID by Pro Football Reference, which normally indicates they never played.
+- `name`: The name of the selected player.
+
