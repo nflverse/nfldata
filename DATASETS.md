@@ -2,7 +2,9 @@
 
 Here is detailed information on each data set and what each column means:
 
-## standings.csv
+## Standings
+
+To import:
 
 ``` r
 > standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
@@ -27,7 +29,7 @@ Data begins with the 2002 NFL season.
 - `seed`: The seed earned by the team in its conference for playoff games. Is `NA` for teams which do not make the playoffs.
 - `playoff`: The outcome of the team's playoff run. Is `NA` for teams which do not make the playoffs, otherwise will be one of `LostWC`, `LostDV`, `LostCC`, `LostSB`, or `WonSB`.
 
-## games.csv
+## Games
 
 ``` r
 > games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
