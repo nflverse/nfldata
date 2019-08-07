@@ -80,6 +80,6 @@ Data begins with the 2000 season, does not include picks from the supplemental d
 - `round`: The round of the draft this pick occurred in.
 - `pick`: The number of the pick.
 - `position`: The NFL position the selected player plays.
-- `playerid`: The ID of the selected player as used by Pro Football Reference. If `NA`, the player was not assigned an ID by Pro Football Reference, which normally indicates they never played.
+- `playerid`: The ID of the selected player as used by Pro Football Reference. If `NA`, the player was not assigned an ID by Pro Football Reference, which normally indicates they never played in an NFL game.
 - `name`: The name of the selected player.
 
