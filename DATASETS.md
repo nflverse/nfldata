@@ -76,7 +76,7 @@ To import:
 Data begins with the 2000 season, does not include picks from the supplemental draft, and comes from the excellent [Pro Football Reference](https://www.pro-football-reference.com/).
 
 - `season`: The season in which the draft occurred. This is the season after the draft, not the one before it, so this would represent the rookie year for drafted players.
-- `team`: The team that drafted the player. This team may have traded for this pick or already owned it.
+- `team`: The team that drafted the player. This team may have had this pick originally, or traded for it.
 - `round`: The round of the draft this pick occurred in.
 - `pick`: The number of the pick.
 - `position`: The NFL position the selected player plays.
