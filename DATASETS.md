@@ -83,3 +83,16 @@ Data begins with the 2000 season, does not include picks from the supplemental d
 - `playerid`: The ID of the selected player as used by Pro Football Reference. If `NA`, the player was not assigned an ID by Pro Football Reference, which normally indicates they never played in an NFL game.
 - `name`: The name of the selected player.
 
+## Draft Values
+
+To import:
+
+``` r
+> draft_values <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_values.csv")
+```
+- `pick`: The pick number in the NFL draft.
+- `stuart`: The value of the pick [according to Football Perspective's Chase Stuart](https://www.footballperspective.com/draft-value-chart/), based on [the AV metric from Pro Football Reference](https://www.pro-football-reference.com/blog/index37a8.html)
+- `johnson`: The value of the pick according to the original pick value chart created by then-Cowboys coach Jimmy Johnson
+- `hill`: The value of the pick [according to Rich Hill](https://www.patspulpit.com/2018/4/21/17256758/2018-nfl-draft-value-chart-rich-hill)
+
+It's worth noting that the Stuart scale is attempting to measure how teams *should* value draft picks, while the Johnson and Hill scales are attempting to measure how teams *in practice* value draft picks, and that these are different questions. The Hill versions is obviously based on more recent data. Also note the systems are using different numerical scales, so you should only compare values *within* a scale, not compare, say, a Stuart value to a Johnson value (the latter will essentially always be higher).
