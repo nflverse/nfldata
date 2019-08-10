@@ -1,4 +1,4 @@
-game_id,season,week,gameday,weekday,gametime,visitor,v_score,home,h_score,location,result,total
+game_id,season,week,gameday,weekday,gametime,away_team,away_score,home_team,home_score,location,result,total
 2006090700,2006,1,2006-09-07,Thursday,20:30,MIA,17,PIT,28,Home,11,45
 2006091000,2006,1,2006-09-10,Sunday,13:00,ATL,20,CAR,6,Home,-14,26
 2006091001,2006,1,2006-09-10,Sunday,13:00,NO,19,CLE,14,Home,-5,33
