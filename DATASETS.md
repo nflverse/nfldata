@@ -5,6 +5,7 @@ Here is detailed information on each data set.
 - [Standings](#standings)  
 - [Games](#games)
 - [Draft Picks](#draft_picks)
+- [Draft Values](#draft_values)
 
 <a name="standings"/>
 
@@ -16,7 +17,7 @@ To import:
 > standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
 ```
 
-Data begins with the 2002 NFL season.
+Data begins with the 2002 NFL season. This CSV should be updated within minutes of a game completing.
 
 Columns:
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
@@ -82,6 +83,8 @@ Data begins with the 2000 season, does not include picks from the supplemental d
 - `position`: The NFL position the selected player plays.
 - `playerid`: The ID of the selected player as used by Pro Football Reference. If `NA`, the player was not assigned an ID by Pro Football Reference, which normally indicates they never played in an NFL game.
 - `name`: The name of the selected player.
+
+<a name="draft_values"/>
 
 ## Draft Values
 
