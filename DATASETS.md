@@ -46,7 +46,7 @@ To import:
 > games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
 ```
 
-Data begins with the 2006 NFL season.
+Data begins with the 2006 NFL season. This CSV should be updated within minutes of a game completing. Does not include preseason.
 
 Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
@@ -90,6 +90,7 @@ To import:
 ``` r
 > draft_values <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_values.csv")
 ```
+Columns:
 - `pick`: The pick number in the NFL draft.
 - `stuart`: The value of the pick [according to Football Perspective's Chase Stuart](https://www.footballperspective.com/draft-value-chart/), based on [the AV metric from Pro Football Reference](https://www.pro-football-reference.com/blog/index37a8.html)
 - `johnson`: The value of the pick according to the original pick value chart created by then-Cowboys coach Jimmy Johnson
