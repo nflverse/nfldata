@@ -2,7 +2,7 @@
 
 Here is detailed information on each data set.
 
-- [Standings](#standings)  
+- [Standings](#standings)
 - [Games](#games)
 - [Draft Picks](#draft_picks)
 - [Draft Values](#draft_values)
@@ -51,6 +51,7 @@ Data begins with the 2006 NFL season. This CSV should be updated within minutes 
 
 Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
+- '`alt_game_id`: This is a more human-readable ID. It consists of: The season, an underscore, the two-digit week number, an underscore, the away team, an underscore, the home team.
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
 - `week`: The week of the NFL season the game occurs in. This will be 1-17 for the regular season, 18 for wildcard playoff games, 19 for divisional playoff games, 20 for conference championships and 21 for Super Bowls.
 - `gameday`: The date on which the game occurred.
