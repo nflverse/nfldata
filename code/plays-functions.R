@@ -64,6 +64,8 @@ apply_game_data <- function(p)
   {
     report("Applying game data")    
     games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+    games <- games %>%
+      mutate(game_id=as.character(game_id))
     p <- p %>% 
       fix_inconsistent_data_types() %>% 
       inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
@@ -137,35 +139,39 @@ apply_series_data <- function(p)
     }
     
     # game has changed
-    if (p$game_id[r] != p$game_id[r-1]) 
+    if (p$game_id[r] != p$game_id[r-lb]) 
     {
-      if (p$yards_gained[r-1] >= p$ydstogo[r-1])
+      if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
-        p$series_success[p$game_id == p$game_id[r-1] & p$series == series] <- 1
+        p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 1
+      } else if (p$down[r-lb] == 4) {
+        p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 0
       } else {
-        p$series_success[p$game_id == p$game_id[r-1] & p$series == series] <- NA
+        p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- NA
       }
       series <- 1
-      # beginning of 2nd half or overtime
+    # beginning of 2nd half or overtime
     } else if (p$qtr[r] != p$qtr[r-lb] && (p$qtr[r] == 3 || p$qtr[r] >= 5)) {
       if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- 1
+      } else if (p$down[r-lb] == 4) {
+        p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 0        
       } else {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA
       }
       series <- series + 1
-      # or drive has changed
+    # or drive has changed
     } else if (p$drive[r] != p$drive[r-lb]) {
       if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- 1
       }
       series <- series + 1
-      # first down or NA down with last play having enough yards or defensive penalty
+    # first down or NA down with last play having enough yards or defensive penalty
     } else if ((is.na(p$down[r]) || p$down[r] == 1) &&
-               (p$yards_gained[r-lb] >= p$ydstogo[r-lb] ||
-                any(p$first_down_penalty[(r-lb):(r-1)] == 1,na.rm=TRUE))) {
+              (((!is.na(p$yards_gained[r-lb]) && p$yards_gained[r-lb]) >= p$ydstogo[r-lb])
+               || any(p$first_down_penalty[(r-lb):(r-1)] == 1,na.rm=TRUE))) {
       if (p$play_type[r-lb] != "kickoff" ||
           any(p$first_down_penalty[(r-lb):(r-1)] == 1,na.rm=TRUE))
       {
@@ -202,6 +208,22 @@ apply_series_data <- function(p)
     }
     
   }
+  
+  # handle final series in the data
+  lb <- 0
+  while(is.na(p$play_type[nrow(p)-lb]) || p$play_type[nrow(p)-lb] == "no_play")
+  {
+    lb <- lb + 1
+  }
+  if (p$yards_gained[nrow(p)-lb] >= p$ydstogo[nrow(p)-lb])
+  {
+    p$series_success[p$game_id == p$game_id[nrow(p)-lb] & p$series == series] <- 1
+  } else if (p$down[nrow(p)-lb] == 4) {
+    p$series_success[p$game_id == p$game_id[nrow(p)-lb] & p$series == series] <- 0
+  } else {
+    p$series_success[p$game_id == p$game_id[nrow(p)] & p$series == series] <- NA
+  }
+  
   report(paste("Series Data Complete!"))
   return(p)
 }
