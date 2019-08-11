@@ -65,6 +65,7 @@ apply_game_data <- function(p)
     report("Applying game data")    
     games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
     p <- p %>% 
+      fix_inconsistent_data_types() %>% 
       inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
   }
   return(p)
