@@ -1,8 +1,3 @@
-########## INPUTS ##########
-
-# filename to store pbpdata
-plays_filename = "playdata" # replace this with file where you want to play data
-
 ########## HELPER FUNCTIONS ##########
 
 # report progress to console
