@@ -102,8 +102,6 @@ apply_baldwin_mutations <- function(p)
   return(p)
 }
 
-########## APPLY SERIES DATA ##########
-
 # add series data
 ## series = 
 ##  starts at 1, each new first down increments, numbers shared across both teams
