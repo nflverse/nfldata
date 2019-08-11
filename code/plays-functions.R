@@ -22,7 +22,7 @@ grep_col <- function(x,df=plays)
 # fix inconsistent data types
 fix_inconsistent_data_types <- function(p)
 {
-  df <- df %>% 
+  p <- p %>% 
     mutate(game_id=as.character(game_id),
            play_id=as.numeric(play_id),
            time=as.character(time),
