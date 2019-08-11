@@ -20,7 +20,7 @@ grep_col <- function(x,df=plays)
 }
 
 # fix inconsistent data types
-fix_inconsistent_data_types <- function(df)
+fix_inconsistent_data_types <- function(p)
 {
   df <- df %>% 
     mutate(game_id=as.character(game_id),
@@ -31,20 +31,20 @@ fix_inconsistent_data_types <- function(df)
            fumble_recovery_2_yards=as.numeric(fumble_recovery_2_yards),
            fumble_recovery_2_player_id=as.character(fumble_recovery_2_player_id),
            forced_fumble_player_2_player_id=as.character(forced_fumble_player_2_player_id))
-  return(df)
+  return(p)
 }
 
 # fix team abbreviations
 ## by default this just makes every team have the same abbreviation all season
 ## use old_to_new=TRUE to make teams that have moved use the new abbreviation in the past
-fix_team_abbreviations <- function(df,old_to_new=FALSE)
+fix_team_abbreviations <- function(p,old_to_new=FALSE)
 {
   for (col in grep_col("team",df))
   {
-    x <- df %>% pull(col)
+    x <- p %>% pull(col)
     if (typeof(x) == "character")
     {
-      df[,col] <- case_when(
+      p[,col] <- case_when(
         x == "JAC" ~ "JAX",
         x == "LA" ~ "LAR",
         x == "SD" & old_to_new ~ "LAC",
@@ -52,10 +52,23 @@ fix_team_abbreviations <- function(df,old_to_new=FALSE)
         TRUE ~ x)
     }
   }
-  return(df)
+  return(p)
 }
 
-########## BEN BALDWIN MUTATIONS ##########
+########## FUNCTIONS TO APPLY ADDITIONAL DATA ##########
+
+# game data
+apply_game_data <- function(p)
+{
+  if (!("alt_game_id" %in% colnames(p)))  # already included, don't reapply
+  {
+    report("Applying game data")    
+    games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+    p <- p %>% 
+      inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
+  }
+  return(p)
+}
 
 # mutations from Ben Baldwin (and some code from Keegan Abdoo)
 ## taken from https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701
@@ -88,7 +101,6 @@ apply_baldwin_mutations <- function(p)
       play=ifelse(!is.na(epa) & !is.na(posteam) & play_type %in% c("no_play","pass","run"),1,0))
   return(p)
 }
-
 
 ########## APPLY SERIES DATA ##########
 
