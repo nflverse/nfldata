@@ -123,11 +123,10 @@ The output will look like this:
 
 This tells us for each game when it happened and the final score. It also represents the score in another way which we'll make use of below: `result` which is defined as home team's score minus the visitor's score.
 
-Let's look at `result` for home games. To do this, first we want to make a new version of the `games` data frame that that has only the games where `location` has the value `Home`. This is accomplished with the `<-` operator in the below command, which takes the result of whatever expression comes that comes it and puts that value in `home_games`, which you can use to refer to it moving forward.
+To measure home field advantage we need to filter out neutral site games. To do this, first we want to make a new version of the `games` data frame that that has only the games where `location` has the value `Home`. This is accomplished with the `<-` operator in the below command, which takes the result of whatever expression comes that comes it and puts that value in `home_games`, which you can use to refer to it moving forward.
 
 ``` r
-home_games <- games %>%
-  filter(location == "Home")
+home_games <- games %>% filter(location == "Home")
 ```
 
 What ranges of values does it contain, what's the average and median? The R command function `summary` makes this super easy to find. In R, you can use the `$` between the name of the data frame and the name of a column in it to get R to look at that column.
