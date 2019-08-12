@@ -6,14 +6,19 @@ While you can of course use a variety of tools for looking at data, I recommend 
 - [Download R](https://cran.cnr.berkeley.edu/)
 - [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-Once installed, run R Studio and look in the Console tab. This is where you can enter commands and see the results of those commands. if you haven't already, I recommend installing some packages for R (you'll only need to do this once):
+
+Once RStudio is running, in the menu bar go to: `File` -> `New File` -> `New R Script`. You'll now see the four sections of R Studio, and can see what that they are each for. I've outlined them in the image below:
+
+![Blank RStudio Image With Explanations](http://www.habitatring.com/rstudio.png)
+
+Before we begin, we have to install some packages. Packages are helpful code other people have written that aren't part of the basic R. Fortunately, R has as simple command to install them:
 
 ``` r
 install.packages("tidyverse")
 install.packages("ggplot2")
 ```
 
-To download, for example, the standings data into your R enviornment and take a look at it, run the following:
+I've made a file of NFL Standings data. Let's download, this into your R enviornment and take a look at it. To do that, run the following:
 
 ``` r
 library(tidyverse)
