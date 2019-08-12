@@ -26,7 +26,7 @@ standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/maste
 standings %>% head()
 ```
 
-The `%>%` operator sends the information on the left (here, the `standings` we downloaded) into the command on the right (here, `head()`). The `head()` command says to to look at the first several rows. This is a good way to get a sense of the structure of the data. The output of the above will look like this:
+The `%>%` operator sends the information on the left (the `standings` we downloaded) into the command on the right, which here is `head()`. The `head()` command looks at the first several rows. This is a good way to get a sense of the structure of the data. The output of the above will look like this:
 
 ``` r
 # A tibble: 6 x 16
