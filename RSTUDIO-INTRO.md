@@ -100,14 +100,15 @@ Second, teams are spread all over this graph. This indicates there's not a stron
 Here's the command that created the plot again, except above each line I've written comments that begin with the pound sign/hashtag symbol `#`. These tell R to ignore whatever comes after them, which lets someone writing R explain what the code does within the code but without breaking it.
 
 ``` r
-# ggplot tells R to make a plot, standings tells it this is the data used to make a plot
+# ggplot makes a plot, and standings is the data used to make it
 # aes tells R to allow us to reference columns within standings here
-# x=scored tells R that the x-axis represents the scored column, while y=allowed does the same for the y-axis and allowed columns
+# x=scored, y=allowed indicated which columns are shown on the horizontal (x) and verical (y) axes
 ggplot(standings,aes(x=scored,y=allowed)) +
-  # this sets up a bunch of visual defaults in terms of how the plot appears and is a great set of defaults
+  # this sets up a bunch of great visual defaults in terms of how the plot appears
   theme_minimal() +
   # this means each row in standings gets represented by a point or dot (at its x,y values above)
-  # the point's color is reperesented by the playoff value, R will use a different color for each option and put a legend to the right
+  # each playoff value will be assigned a color (with legend to the right)
+  # each row's point will be colored based on the playoff value of that point
   geom_point(aes(color=playoff)) +
   # this label is what gets written at the bottom to explain what the x-axis represents
   xlab("Points Scored") +
