@@ -2,6 +2,8 @@
 
 This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
 
+I want to credit [Ben Baldwin](http://twitter.com/benbbaldwin) and his [excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) for the inspiration for this introduction.
+
 While you can of course use a variety of tools for looking at data, I recommend downloading and installing both R and RStudio. Both are free!
 - [Download R](https://cran.cnr.berkeley.edu/)
 - [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
