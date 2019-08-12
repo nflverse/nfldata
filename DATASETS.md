@@ -85,7 +85,7 @@ Columns:
 - `weekday`: The day of the week on which the game occcured.
 - `gametime`: The kickoff time of the game. This is represented in 24-hour time and the Eastern time zone, regardless of what time zone the game was being played in.
 - `away_team`: The away team.
-- `away_score`: The number of points the visiting away scored. Is `NA` for games which haven't yet been played.
+- `away_score`: The number of points the away team scored. Is `NA` for games which haven't yet been played.
 - `home_team`: The home team. Note that this contains the designated home team for games which no team is playing at home such as Super Bowls or NFL International games.
 - `home_score`: The number of points the home team scored. Is `NA` for games which haven't yet been played.
 - `location`: Either `Home` if the home team is playing in their home stadium, or `Neutral` if the game is being played at a neutral location. This still shows as `Home` for games between the Giants and Jets even though they share the same home stadium.
