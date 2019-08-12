@@ -16,7 +16,7 @@ Here is detailed information on each data set.
 To import and join to nflscrapR (using the Ben Baldwin `name` field):
 
 ``` r
-draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_picks.csv")
+draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/draft_picks.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
 plays <- plays %>%
   left_join(draft_picks,by=c("season"="season","posteam"="team","name"="name")
@@ -50,7 +50,7 @@ Data begins with the 2000 season, does not include picks from the supplemental d
 To import and join to draft pick data from above:
 
 ``` r
-draft_values <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/draft_values.csv")
+draft_values <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/draft_values.csv")
 draft_picks <- draft_picks %>%
   inner_join(draft_values,by=c("pick"="pick")
 ```
@@ -69,7 +69,7 @@ It's worth noting that the Stuart scale is attempting to measure how teams *shou
 To import and join to nflscrapR data:
 
 ``` r
-games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
+games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
 plays <- plays %>%
   inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team")
 ```
@@ -99,7 +99,7 @@ Columns:
 To import and join to nflscrapR data (for the offense):
 
 ``` r
-logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/logos.csv")
+logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
 plays <- plays %>%
   inner_join(logos,by=c("posteam"="team")
 ```
@@ -117,7 +117,7 @@ This is based off [a version](https://raw.githubusercontent.com/statsbylopez/Blo
 To import and join to nflscrapR (using the Ben Baldwin `name` field):
 
 ``` r
-logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/logos.csv")
+logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/rosters.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
 plays <- plays %>%
   left_join(logos,by=c("season"="season,"posteam"="team","name"="name")
@@ -154,7 +154,7 @@ Columns:
 To import and join to nflscrapR data (for the offense):
 
 ``` r
-standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
+standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/standings.csv")
 plays <- plays %>%
   inner_join(standings,by=c("season"="season","posteam"="team")
 ```
