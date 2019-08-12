@@ -21,7 +21,7 @@ install.packages("tidyverse")
 install.packages("ggplot2")
 ```
 
-I've made a file of NFL Standings data. Let's download, this into your R enviornment and take a look at it. To do that, run the following:
+Now that these packages are installed, let's download some NFL Standings data and take a look at it by running the following:
 
 ``` r
 library(tidyverse)
