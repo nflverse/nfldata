@@ -108,7 +108,7 @@ Columns:
 - `team`: The team.
 - `url`: URL of an image where a transparent team logo is located.
 
-This is based off [a version](https://raw.githubusercontent.com/statsbylopez/BlogPosts/master/nfl_teamlogos.csv) done by [Michael Lopez](https://twitter.com/StatsbyLopez), but includes a manual fix for the Tennessee Titans logo (which had a white rather than transparent background) and also supports older team abbreviations (`SD` and `STL`).
+This is based off [a version](https://raw.githubusercontent.com/statsbylopez/BlogPosts/master/nfl_teamlogos.csv) done by [Michael Lopez](https://twitter.com/StatsbyLopez), but includes a manual fix for the Tennessee Titans logo (which had a white rather than transparent background on Wikipedia for some reason) and also supports older team abbreviations (`SD` and `STL`).
 
 <a name="logos"/>
 
