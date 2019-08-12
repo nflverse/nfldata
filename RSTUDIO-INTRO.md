@@ -161,6 +161,6 @@ In a histogram, the higher the bar at a given number, the more rows there are in
 - In general, values closer to 0 are larger than values further from 0. This makes sense, there are more close games than there are blowouts (especially blowouts at a precise number).
 - There are spikes at certain numbers. The biggest ones are at -14, -10, -7, -3, 3, 7, 10, 14. Hopefully it is obvious to you why this is: In the NFL, points are typically scored in 3s and 7s, and so spikes will occur around numbers that are naturally arrived at by scoring that many points.
 - We can also see the home field advantage at work here. At each of the numbers listed above, the spike for the home team's positive number is greater than the spike for the visiting team's negative number, indicating the team wins more often.
-- Zero happens rarely compared to the numbers surrounding it. Why would this be? Well, since this value represents the difference between the two teams' scores, a value of 0 would indicated a tie! Since tie games are rare in the NFL, this being a low value should be expected and not surprising.
+- Zero happens rarely compared to the numbers surrounding it. Why would this be? Well, since this value represents the difference between the two teams' scores, a value of 0 would indicate a tie game! Since tie games are rare in the NFL due to overtime rules, this being a low value should be expected and not surprising.
 
 This supports our earlier conclusion that homefield advantage is real!
