@@ -100,28 +100,28 @@ Second, teams are spread all over this graph. This indicates there's not a stron
 ## Understanding The Data
 #### Example: Is homefield advantage real in football? How many points is it worth?
 
-To understand this, we need to look at the outcomes of games, so we need a new data set. Let's import and take a look at it.
+To understand this, we need to look at the outcomes of games, so we need a new data set. Let's import and use a command called `select` to examine certain columns, and `head()` to see the first several rows of those columns.
 
 ``` r
 games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
-games %>% head()
+games %>% select(season,week,gameday,gametime,location,away_team,away_score,home_team,home_score,result) %>% head()
 ```
 
 The output will look like this:
 
 ``` r
-# A tibble: 6 x 13
-     game_id season  week gameday    weekday  gametime visitor v_score home  h_score location result total
-       <dbl>  <dbl> <dbl> <date>     <chr>    <drtn>   <chr>     <dbl> <chr>   <dbl> <chr>     <dbl> <dbl>
-1 2006090700   2006     1 2006-09-07 Thursday 20:30    MIA          17 PIT        28 Home         11    45
-2 2006091000   2006     1 2006-09-10 Sunday   13:00    ATL          20 CAR         6 Home        -14    26
-3 2006091001   2006     1 2006-09-10 Sunday   13:00    NO           19 CLE        14 Home         -5    33
-4 2006091002   2006     1 2006-09-10 Sunday   13:00    SEA           9 DET         6 Home         -3    15
-5 2006091003   2006     1 2006-09-10 Sunday   13:00    PHI          24 HOU        10 Home        -14    34
-6 2006091004   2006     1 2006-09-10 Sunday   13:00    CIN          23 KC         10 Home        -13    33
+# A tibble: 6 x 10
+  season  week gameday    gametime location away_team away_score home_team home_score result
+   <dbl> <dbl> <date>     <drtn>   <chr>    <chr>          <dbl> <chr>          <dbl>  <dbl>
+1   2006     1 2006-09-07 20:30    Home     MIA               17 PIT               28     11
+2   2006     1 2006-09-10 13:00    Home     ATL               20 CAR                6    -14
+3   2006     1 2006-09-10 13:00    Home     NO                19 CLE               14     -5
+4   2006     1 2006-09-10 13:00    Home     SEA                9 DET                6     -3
+5   2006     1 2006-09-10 13:00    Home     PHI               24 HOU               10    -14
+6   2006     1 2006-09-10 13:00    Home     CIN               23 KC                10    -13
 ```
 
-This tells us for each game when it happened and the final score. It also represents the score in two other ways which can be useful in certain applications: `result` which is the home team's score minus the visitor's score, as well as `total` which is the sum of the two teams' scores.
+This tells us for each game when it happened and the final score. It also represents the score in another way which we'll make use of below: `result` which is defined as home team's score minus the visitor's score.
 
 Let's look at `result` for home games. To do this, first we want to make a new version of the `games` data frame that that has only the games where `location` has the value `Home`. This is accomplished with the `<-` operator in the below command, which takes the result of whatever expression comes that comes it and puts that value in `home_games`, which you can use to refer to it moving forward.
 
