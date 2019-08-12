@@ -89,13 +89,33 @@ ggplot(standings,aes(x=scored,y=allowed)) +
   ylab("Points Allowed") +
   labs(title="Points Scored vs. Points Allowed")
 ```
-The following plot will now appear in your Plots area:
+We'll break down this commmand later, but for now let's look at the plot it creates that now appears in your Plots area:
 
 ![Points Scored vs. Points Allowed](http://www.habitatring.com/scored-vs-allowed.png)
 
 Two things should pop out at you as you look at this data. First: Non-gray dots, indicating a playoff team, are mostly toward the lower-right hand corner of the graph. This indicates that playoff teams tend to be teams that have scored a lot of points (suggesting a good offense), and have allowed their opponents to score relatively few points (suggesting a good defense). This makes sense, of course. You expect teams that are good at both to be in the playoffs!
 
 Second, teams are spread all over this graph. This indicates there's not a strong relationship between how many points team score and how many they allow, so knowing how many they score doesn't really help you know more about how many points they allow. This makes sense. As discussed above, points scored is mostly a reflection of how good the offense is, while points allowed is mostly a reflection of how good the defense is. And we can all think of examples of teams that were good on one side of the ball while being bad at the other.
+
+Here's the command that created the plot again, except above each line I've written comments that begin with the pound sign/hashtag symbol `#`. These tell R to ignore whatever comes after them, which lets someone writing R explain what the code does within the code but without breaking it.
+
+``` r
+# ggplot tells R to make a plot, standings tells it this is the data used to make a plot
+# aes tells R to allow us to reference columns within standings here
+# x=scored tells R that the x-axis represents the scored column, while y=allowed does the same for the y-axis and allowed columns
+ggplot(standings,aes(x=scored,y=allowed)) +
+  # this sets up a bunch of visual defaults in terms of how the plot appears and is a great set of defaults
+  theme_minimal() +
+  # this means each row in standings gets represented by a point or dot (at its x,y values above)
+  # the point's color is reperesented by the playoff value, R will use a different color for each option and put a legend to the right
+  geom_point(aes(color=playoff)) +
+  # this label is what gets written at the bottom to explain what the x-axis represents
+  xlab("Points Scored") +
+  # this label is what gets written at the left to explain what the y-axis represents
+  ylab("Points Allowed") +
+  # this label is what gets written prominently at the top to explain the purpose of the overall plot
+  labs(title="Points Scored vs. Points Allowed")
+```
 
 ## Understanding The Data
 #### Example: Is homefield advantage real in football? How many points is it worth?
