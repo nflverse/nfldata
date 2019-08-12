@@ -1,19 +1,20 @@
 # R and RStudio Introduction
 
-This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
+This is an introduction to R and RStudio for NFL fans people who want to play with NFL data to have information to look at, but may find nflscrapR too large and intimidating of a data set to start with!
 
-I want to credit [Ben Baldwin](http://twitter.com/benbbaldwin) and his [excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) for the inspiration for this introduction.
+My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions! I want to credit [Ben Baldwin](http://twitter.com/benbbaldwin) and his [excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) for the inspiration for this introduction.
 
-While you can of course use a variety of tools for looking at data, I recommend downloading and installing both R and RStudio. Both are free!
+While you can of course use a variety of tools for looking at data, I recommend downloading and installing both R and RStudio. Both are free and can be downloaded at these links:
 - [Download R](https://cran.cnr.berkeley.edu/)
 - [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
-
-Once RStudio is running, in the menu bar go to: `File` -> `New File` -> `New R Script`. You'll now see the four sections of R Studio, and can see what that they are each for. I've outlined them in the image below:
+Once you have both installed, run RStudio. In the menu bar go to: `File` -> `New File` -> `New R Script`. You'll now see the four sections of R Studio, and can see what that they are each for. I've outlined them in the image below:
 
 ![Blank RStudio Image With Explanations](http://www.habitatring.com/rstudio.png)
 
-Before we begin, we have to install some packages. Packages are helpful code other people have written that aren't part of the basic R. Fortunately, R has an easy way to install them:
+Before we begin, we have to install some R packages. R packages are helpful code other people have written that aren't part of base R. Fortunately, R has an easy way to install them. Run the following commands.
+
+*In this introduction, you'll frequently see code segments like the below. You can either copy/paste into the Console area directly, or you can enter them in Source section, and then use the Run or Source buttons to execute them. Either way, the output will be displayed in the Console area.*
 
 ``` r
 install.packages("tidyverse")
