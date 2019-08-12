@@ -84,7 +84,7 @@ ggplot(standings,aes(x=scored,y=allowed)) +
   ylab("Points Allowed") +
   labs(title="Points Scored vs. Points Allowed")
 ```
-After running this command, you should see this plot:
+The following plot will now appear in your Plots area:
 
 ![Points Scored vs. Points Allowed](http://www.habitatring.com/scored-vs-allowed.png)
 
