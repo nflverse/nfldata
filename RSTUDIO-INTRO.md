@@ -13,7 +13,7 @@ Once RStudio is running, in the menu bar go to: `File` -> `New File` -> `New R S
 
 ![Blank RStudio Image With Explanations](http://www.habitatring.com/rstudio.png)
 
-Before we begin, we have to install some packages. Packages are helpful code other people have written that aren't part of the basic R. Fortunately, R has as simple command to install them:
+Before we begin, we have to install some packages. Packages are helpful code other people have written that aren't part of the basic R. Fortunately, R has an easy way to install them:
 
 ``` r
 install.packages("tidyverse")
