@@ -22,7 +22,7 @@ plays <- plays %>%
   left_join(draft_picks,by=c("posteam"="team","name"="name")
 ```
 
-*Note this will only match results for the player playing for the team that drafted them. You can remove `posteam=team` to change this, but it more likely results in false positives and duplicate rows for players with names that translate identically once in the NFL play-by-play format, so be  careful when you do this!*
+*Note this will only match results for the player playing for the team that drafted them. You can remove* `posteam=team` *to change this, but it more likely results in false positives and duplicate rows for players with names that translate identically once in the NFL play-by-play format, so be  careful when you do this!*
 
 Data begins with the 2000 season, does not include picks from the supplemental draft, and comes from the excellent [Pro Football Reference](https://www.pro-football-reference.com/).
 
