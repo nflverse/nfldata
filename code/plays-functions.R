@@ -108,28 +108,33 @@ apply_baldwin_mutations <- function(p)
 # add series data
 ## series = 
 ##  starts at 1, each new first down increments, numbers shared across both teams
-##  NA: kickoffs, extra point/two point conversion attempts
+##  NA: kickoffs, extra point/two point conversion attempts, non-plays, no posteam
 ##  Note: Also is broken for 2013 Week 12 & 13 games due to nflscrapR data issues
 ## series_success =
 ##  1: scored touchdown, gained enough yards for first down
 ##  0: punt, interception, fumble lost, turnover on downs, 4th down FG attempt or punt
-##  NA: series is NA, half ended with none of the above
+##  NA: series is NA, series contains QB spike/kneel, half ended with none of above
 apply_series_data <- function(p)
 {
-  report("Applying series and series success")
+  #report("Applying series and series success")
   broken_games <- unique(p$game_id[is.na(p$yards_gained) & p$play_type != "no_play"])
   p <- p %>% mutate(series=NA,series_success=0)
   
   # initialize loop trackers
   p$series[min(which(p$play_type != "kickoff"))] <- 1
+  p$series_success[1:(min(which(p$play_type != "kickoff"))-1)] <- NA
   series <- 1
   lb <- 1
   
   # play loop
   for (r in (min(which(p$play_type != "kickoff"))+1):nrow(p))
   {
-    # progress report
-    if (r %% 25000 == 0) report(paste("Series Data:",r,"of",nrow(p),"plays"))
+    #report(paste0("Series: ",series))
+    #report(paste0("== Processing play_id ",p$play_id[r]," (row ",r,", lb == ",lb,") ==="))
+    #report(paste0(p$down[r]," & ",p$ydstogo[r],": ",p$desc[r]))
+    
+    # progress #report
+    if (r %% 25000 == 0) #report(paste("Series Data:",r,"of",nrow(p),"plays"))
     
     # skip broken games
     if (p$game_id[r] %in% broken_games)
@@ -138,12 +143,25 @@ apply_series_data <- function(p)
       next
     }
     
+    # if posteam is not defined, mark as a non-series and skip
+    if (is.na(p$posteam[r]))
+    {
+      p$series[r] <- NA
+      p$series_success[r] <- NA
+      lb <- lb + 1
+      next
+    }
+    
     # game has changed
     if (p$game_id[r] != p$game_id[r-lb]) 
     {
+      #report("New game!")
       if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
         p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 1
+      } else if (any(p$play_type[p$game_id == p$game_id[r] & p$series == series]
+                     %in% c("qb_kneel","qb_spike"))) {
+        p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA        
       } else if (p$down[r-lb] == 4) {
         p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 0
       } else {
@@ -152,26 +170,35 @@ apply_series_data <- function(p)
       series <- 1
     # beginning of 2nd half or overtime
     } else if (p$qtr[r] != p$qtr[r-lb] && (p$qtr[r] == 3 || p$qtr[r] >= 5)) {
+      #report("New half/overtime!")
       if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- 1
+      } else if (any(p$play_type[p$game_id == p$game_id[r] & p$series == series]
+                     %in% c("qb_kneel","qb_spike"))) {
+        p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA
       } else if (p$down[r-lb] == 4) {
         p$series_success[p$game_id == p$game_id[r-lb] & p$series == series] <- 0        
       } else {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA
       }
       series <- series + 1
-    # or drive has changed
+    # or drive has changed  
     } else if (p$drive[r] != p$drive[r-lb]) {
+      #report("New drive!")
       if (p$yards_gained[r-lb] >= p$ydstogo[r-lb])
       {
         p$series_success[p$game_id == p$game_id[r] & p$series == series] <- 1
+      } else if (any(p$play_type[p$game_id == p$game_id[r] & p$series == series]
+                   %in% c("qb_kneel","qb_spike"))) {
+        p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA
       }
       series <- series + 1
     # first down or NA down with last play having enough yards or defensive penalty
     } else if ((is.na(p$down[r]) || p$down[r] == 1) &&
-              (((!is.na(p$yards_gained[r-lb]) && p$yards_gained[r-lb]) >= p$ydstogo[r-lb])
+              ((!is.na(p$yards_gained[r-lb]) && p$yards_gained[r-lb] >= p$ydstogo[r-lb])
                || any(p$first_down_penalty[(r-lb):(r-1)] == 1,na.rm=TRUE))) {
+      #report("First down!")
       if (p$play_type[r-lb] != "kickoff" ||
           any(p$first_down_penalty[(r-lb):(r-1)] == 1,na.rm=TRUE))
       {
@@ -183,15 +210,18 @@ apply_series_data <- function(p)
     # mark series for kickoffs as NA
     if (!is.na(p$play_type[r]) && p$play_type[r] == "kickoff")
     {
+      #report("Kickoff!")
       p$series_success[r] <- NA
       series <- series - 1  # otherwise it would advance 2, want to advance 1
-      # mark series for extra point or two point conversions attempts as NA
+    # mark series for extra point or two point conversions attempts as NA
     } else if ((!is.na(p$play_type[r]) && p$play_type[r] == "extra_point") ||
                (!is.na(p$two_point_attempt[r]) && p$two_point_attempt[r] == 1)) {
+      #report("XP/2PC attempt!")
       p$series_success[r] <- NA
       series <- series - 1  # otherwise it would advance 2, want to advance 1
-      # mark series for all other p
+    # mark series for all other p
     } else {
+      #report(paste0("Noting series #",series))
       p$series[r] <- series
     }
     
@@ -199,12 +229,14 @@ apply_series_data <- function(p)
     ## the looback defines the "previous" play
     ## we want to skip this for p that don't actually affect series data
     if (is.na(p$play_type[r]) || p$play_type[r] == "no_play" ||
-        p$play_type[r] == "extra_point" ||
+        p$play_type[r] == "extra_point" || is.na(p$posteam[r]) ||
         (!is.na(p$two_point_attempt[r]) && p$two_point_attempt[r] == 1))
     {
       lb <- lb + 1
+      #report(paste0("Incrementing lb to ",lb))
     } else {
       lb <- 1
+      #report(paste0("Reseting lb to 1"))
     }
     
   }
@@ -218,12 +250,15 @@ apply_series_data <- function(p)
   if (p$yards_gained[nrow(p)-lb] >= p$ydstogo[nrow(p)-lb])
   {
     p$series_success[p$game_id == p$game_id[nrow(p)-lb] & p$series == series] <- 1
+  } else if (any(p$play_type[p$game_id == p$game_id[r] & p$series == series]
+                 %in% c("qb_kneel","qb_spike"))) {
+    p$series_success[p$game_id == p$game_id[r] & p$series == series] <- NA    
   } else if (p$down[nrow(p)-lb] == 4) {
     p$series_success[p$game_id == p$game_id[nrow(p)-lb] & p$series == series] <- 0
   } else {
     p$series_success[p$game_id == p$game_id[nrow(p)] & p$series == series] <- NA
   }
   
-  report(paste("Series Data Complete!"))
+  #report(paste("Series Data Complete!"))
   return(p)
 }
