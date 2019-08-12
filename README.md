@@ -10,4 +10,4 @@ If you are brand new to R, data analysis, and programming generally, I wrote a s
 
 Before we get started:
 
-**This post assumes you already have gone through [Ben's tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) linked above**, so start there if you haven't.
+**This post assumes you already have gone through [Ben's tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)**, so start there if you haven't.
