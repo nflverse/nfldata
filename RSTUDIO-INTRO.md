@@ -1,4 +1,4 @@
-# NFL Data Sets
+# R and RStudio Introduction
 
 This is a repository for NFL data for people who want to play with NFL data to have information to look at! My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions!
 
