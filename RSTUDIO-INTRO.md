@@ -104,21 +104,21 @@ To understand this, we need to look at the outcomes of games, so we need a new d
 
 ``` r
 games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
-games %>% select(season,week,gameday,gametime,location,away_team,away_score,home_team,home_score,result) %>% head()
+games %>% select(season,week,location,away_team,away_score,home_team,home_score,result) %>% head()
 ```
 
 The output will look like this:
 
 ``` r
-# A tibble: 6 x 10
-  season  week gameday    gametime location away_team away_score home_team home_score result
-   <dbl> <dbl> <date>     <drtn>   <chr>    <chr>          <dbl> <chr>          <dbl>  <dbl>
-1   2006     1 2006-09-07 20:30    Home     MIA               17 PIT               28     11
-2   2006     1 2006-09-10 13:00    Home     ATL               20 CAR                6    -14
-3   2006     1 2006-09-10 13:00    Home     NO                19 CLE               14     -5
-4   2006     1 2006-09-10 13:00    Home     SEA                9 DET                6     -3
-5   2006     1 2006-09-10 13:00    Home     PHI               24 HOU               10    -14
-6   2006     1 2006-09-10 13:00    Home     CIN               23 KC                10    -13
+# A tibble: 6 x 8
+  season  week location away_team away_score home_team home_score result
+   <dbl> <dbl> <chr>    <chr>          <dbl> <chr>          <dbl>  <dbl>
+1   2006     1 Home     MIA               17 PIT               28     11
+2   2006     1 Home     ATL               20 CAR                6    -14
+3   2006     1 Home     NO                19 CLE               14     -5
+4   2006     1 Home     SEA                9 DET                6     -3
+5   2006     1 Home     PHI               24 HOU               10    -14
+6   2006     1 Home     CIN               23 KC                10    -13
 ```
 
 This tells us for each game when it happened and the final score. It also represents the score in another way which we'll make use of below: `result` which is defined as home team's score minus the visitor's score.
