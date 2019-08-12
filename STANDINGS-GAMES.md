@@ -44,7 +44,7 @@ For example, you can see the Jets won the division with a 9-7 record, were the 4
 Let's say you want to see how many times a team with a given playoff seed as has won the Super Bowl (since realignment in 2002, when this data set begins). This command first takes `standings` and filters it down only to the rows where the team won the Super Bowl that year. Second, it groups these rows by `seed`, so there's one row for each of the six playoff seeds. Finally, we want to count how many rows were collapsed into this each seed's new row, and we'll call that `count`.
 
 ``` r
-> standings %>% filter(playoff == "WonSB") %>% group_by(seed) %>% summarize(count=n())
+standings %>% filter(playoff == "WonSB") %>% group_by(seed) %>% summarize(count=n())
 ```
 
 The output will look like this:
@@ -92,8 +92,8 @@ Second, teams are spread all over this graph. This indicates there's not a stron
 To understand this, we need to look at the outcomes of games, so we need a new data set. Let's import and take a look at it.
 
 ``` r
-> games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
-> games %>% head()
+games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
+games %>% head()
 ```
 
 The output will look like this:
@@ -115,8 +115,8 @@ This tells us for each game when it happened and the final score. It also repres
 Let's look at `result` for home games. To do this, first we want to make a new version of the `games` data frame that that has only the games where `location` has the value `Home`. This is accomplished with the `<-` operator in the below command, which takes the result of whatever expression comes that comes it and puts that value in `home_games`, which you can use to refer to it moving forward.
 
 ``` r
-> home_games <- games %>%
-+     filter(location == "Home")
+home_games <- games %>%
+  filter(location == "Home")
 ```
 
 What ranges of values does it contain, what's the average and median? The R command function `summary` makes this super easy to find. In R, you can use the `$` between the name of the data frame and the name of a column in it to get R to look at that column.
