@@ -43,9 +43,9 @@ The `%>%` operator sends the information on the left (the `standings` we downloa
 6   2002 AFC   AFC North CIN       2     14     0 0.125        4    279     456  -177 0.406 0.531    NA NA     
 ```
 
-You can see how this data is structured. Each row corresponds to how well a certain team did in a certain season. This shows a lot of information about the team's performance that year.
+Look at the fourth row. You can see the Jets had a 9-7 record, won their division, were the 4th seed for the AFC that year, and lost in the divisional round of the playoffs. The other teams shown have `NA` listed for `seed` and `playoff` which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
 
-For example, you can see the Jets won the division with a 9-7 record, were the 4th seed for the AFC that year, but lost in the divisional round of the playoffs. The other teams shown have `NA` listed for `seed` and `playoff` which means "not applicable". Usually you can figure out why something wouldn't apply from context. In this case, it means those teams did not make the playoffs, so there's no seed or playoff result to show.
+Think more about how this is strucutred. Each horizontal row corresponds to how well a certain team did in a certain season, and each veritcal column shows a different piece of information about that team's year. In R, this is called a **data frame** and data frames are all organized in this sort of way. Each row represents a different instance of something occuring (a team's season), called an **observation**, while each column represents a different piece of information about each of the observations (number of games won, or points scored).
 
 ## Examining Data
 #### Example: What playoff seeds have Super Bowl winners had?
