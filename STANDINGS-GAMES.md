@@ -9,8 +9,8 @@ While you can of course use a variety of tools for looking at data, I recommend 
 Once installed, run R Studio and look in the Console tab. This is where you can enter commands and see the results of those commands. if you haven't already, I recommend installing some packages for R (you'll only need to do this once):
 
 ``` r
-> install.packages("tidyverse")
-> install.packages("ggplot2")
+install.packages("tidyverse")
+install.packages("ggplot2")
 ```
 
 To download, for example, the standings data into your R enviornment and take a look at it, run the following:
