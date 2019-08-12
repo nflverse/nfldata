@@ -25,7 +25,7 @@ Now that these packages are installed, let's download some NFL Standings data an
 
 ``` r
 library(tidyverse)
-standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/standings.csv")
+standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/standings.csv")
 standings %>% head()
 ```
 
@@ -103,7 +103,7 @@ Second, teams are spread all over this graph. This indicates there's not a stron
 To understand this, we need to look at the outcomes of games, so we need a new data set. Let's import and take a look at it.
 
 ``` r
-games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/games.csv")
+games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
 games %>% head()
 ```
 
