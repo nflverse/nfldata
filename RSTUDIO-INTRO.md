@@ -73,6 +73,8 @@ The output will look like this:
 
 Wow, the team that won the Super Bowl was a 1st or 2nd seed most of the time. Those first round playoff byes sure do appear to be helpful!
 
+It's worth noting this output also a data frame. Each row refers to a different seed's performance, and there are two columns: one identifying the seed, and the other identifying how many teams with that seed went on to win the Super Bowl.
+
 ## Plotting Data
 #### Example: Are teams who score a lot of points more or less likely to be teams with a lot of points allowed?
 
