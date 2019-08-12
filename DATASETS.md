@@ -19,7 +19,7 @@ To import and join to nflscrapR (using the Ben Baldwin `name` field):
 draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/draft_picks.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
 plays <- plays %>%
-  left_join(draft_picks,by=c("posteam"="team","name"="name")
+  left_join(draft_picks,by=c("posteam"="team","name"="name"))
 ```
 
 *Note this will only match results for the player playing for the team that drafted them. You can remove* `posteam=team` *to change this, but the weaker the join, the more likely it results the risk of false positives and duplicate rows for players with names that translate identically once in the NFL play-by-play format, so be careful when you do this! I'd add some additional filtering if you can. For example, if doing a QB analysis, do a* `filter(position == 'QB')` *so you're less likely to join to a wrong player.*
@@ -54,7 +54,7 @@ To import and join to draft pick data from above:
 ``` r
 draft_values <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/draft_values.csv")
 draft_picks <- draft_picks %>%
-  inner_join(draft_values,by=c("pick"="pick")
+  inner_join(draft_values,by=c("pick"="pick"))
 ```
 Columns:
 - `pick`: The pick number in the NFL draft.
@@ -73,7 +73,7 @@ To import and join to nflscrapR data:
 ``` r
 games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
 plays <- plays %>%
-  inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team")
+  inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
 ```
 
 Data begins with the 2006 NFL season. This CSV should be updated within minutes of a game completing. Does not include preseason.
@@ -103,7 +103,7 @@ To import and join to nflscrapR data (for the offense):
 ``` r
 logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
 plays <- plays %>%
-  inner_join(logos,by=c("posteam"="team")
+  inner_join(logos,by=c("posteam"="team"))
 ```
 
 Columns:
@@ -122,7 +122,7 @@ To import and join to nflscrapR (using the Ben Baldwin `name` field):
 logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/rosters.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
 plays <- plays %>%
-  left_join(logos,by=c("season"="season,"posteam"="team","name"="name")
+  left_join(logos,by=c("season"="season,"posteam"="team","name"="name"))
 ```
 
 Data begins with the 2006 NFL season and comes from [Pro Football Reference](https://www.pro-football-reference.com). 
@@ -158,7 +158,7 @@ To import and join to nflscrapR data (for the offense):
 ``` r
 standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/standings.csv")
 plays <- plays %>%
-  inner_join(standings,by=c("season"="season","posteam"="team")
+  inner_join(standings,by=c("season"="season","posteam"="team"))
 ```
 
 Data begins with the 2002 NFL season. This CSV should be updated within minutes of a game completing.
