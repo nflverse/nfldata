@@ -119,10 +119,10 @@ This is based off [a version](https://raw.githubusercontent.com/statsbylopez/Blo
 To import and join to nflscrapR (using the Ben Baldwin `name` field):
 
 ``` r
-logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/rosters.csv")
+rosters <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/rosters.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
 plays <- plays %>%
-  left_join(logos,by=c("season"="season,"posteam"="team","name"="name"))
+  left_join(rosters,by=c("season"="season,"posteam"="team","name"="name"))
 ```
 
 Data begins with the 2006 NFL season and comes from [Pro Football Reference](https://www.pro-football-reference.com). 
