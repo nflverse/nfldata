@@ -93,6 +93,9 @@ Columns:
 - `location`: Either `Home` if the home team is playing in their home stadium, or `Neutral` if the game is being played at a neutral location. This still shows as `Home` for games between the Giants and Jets even though they share the same home stadium.
 - `result`: The number of points the home team scored minus the number of points the visiting team scored. Equals `h_score - v_score`. Is `NA` for games which haven't yet been played. Convenient for evaluating against the spread bets.
 - `total`: The sum of each team's score in the game. Equals `h_score + v_score`. Is `NA` for games which haven't yet been played. Convenient for evaluating over/under total bets.
+- `gsis`: The id of the game issued by the NFL Game Statistics & Information System.
+- `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
+- `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
 
 <a name="logos"/>
 
