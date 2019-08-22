@@ -8,6 +8,7 @@ Here is detailed information on each data set.
 - [Logos](#logos)
 - [Rosters](#rosters)
 - [Standings](#standings)
+- [Teams](#teams)
 
 <a name="draft_picks"/>
 
@@ -183,3 +184,29 @@ Columns:
 - `sos`: As used in NFL tiebreakers, strength of schedule, defined as the combined win rates for teams this team has played.
 - `seed`: The seed earned by the team in its conference for playoff games. Is `NA` for teams which do not make the playoffs.
 - `playoff`: The outcome of the team's playoff run. Is `NA` for teams which do not make the playoffs, otherwise will be one of `LostWC`, `LostDV`, `LostCC`, `LostSB`, or `WonSB`.
+
+<a name="teams"/>
+
+## Teams
+
+To import and join to nflscrapR data (for the offense):
+
+``` r
+teams <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teams.csv")
+```
+
+This data set is designed to help scrape websites for additional NFL information.
+
+Columns:
+- `season`: The season of the team being referenced. Team data can change from season to season.
+- `team`: The team in question. This consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
+- `nfl`: The team abbreviation used by the NFL.
+- `pfr`: The team abbreviation used by the [Pro Football Reference](https://www.pro-football-reference.com).
+- `pff`: The team number used by [Pro Football Focus](https://www.pff.com).
+- `pfflabel`: The team abbreviation used by [Pro Football Focus](https://www.pff.com).
+- `fo`: The team abbreviation used by [Football Outsiders](https://www.footballoutsiders.com).
+- `full`: The long form name of the team, with both the location and nickname written out.
+- `location`: The part of the team name that identifies where it plays. Uses `St Louis` for Saint Louis. Still includes the nickname if it is ambiguous.
+- `short_location`: The part of the team name that identifies where it plays, except `Los Angeles` is shortened to `LA` and `New York` is shortened to `NY`. Uses `St. Louis` for Saint Louis. Still includes the nickname if it is ambiguous.
+- `nickname`: The part of the team name that identifies its mascot.
+- `hyphenated`: The same as `full`, except everything is lower case and spaces are replaced with hyphens. Uses older locations for team which have moved. This is designed for sites where you need to put the team in the URL to scrape.
