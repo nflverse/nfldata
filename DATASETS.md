@@ -189,7 +189,7 @@ Columns:
 
 ## Teams
 
-To import and join to nflscrapR data (for the offense):
+To import:
 
 ``` r
 teams <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teams.csv")
