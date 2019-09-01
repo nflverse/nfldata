@@ -10,22 +10,24 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 
 # What does this code do?
 
-## Checks to see if you have any nflscrapR data already, gets data for just the games you're missing!
+## Get data for just the games you're missing!
 
-If not, it will download everything from scratch. If so, it will check which NFL games are complete that you don't have data for, and get data for those games. When binding, it will automatically fix data types of fields that R likes to complain about through a custom function `fix_inconsistent_data_types` so the binding can happen cleanly.
+If you're starting from scratch, it will download everything. (This will take a long time.)
+
+But in subsequent executions, it will check which NFL games are complete that you don't have data for, and get data for those games. When binding, it will automatically fix data types of fields that R likes to complain about through a custom function `fix_inconsistent_data_types()` so the binding can happen cleanly.
 
 In either case, the rest of the modifications described below continue to apply.
 
-*Note: If you are trying to use nflscrapR for in-game purposes, this won't work for you. This is for complete games only.*
+*Note: If you are trying to use nflscrapR for live in-game data purposes, this won't work for you. This code only downloads data for games that have been completed.*
 
 ## Fix team abbreviations
 
-There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations`. In particular, it uses `JAX` to refer to the Jacksonville Jaguars, cleaning up old games that use `JAC`. For some reason, the NFL uses `LA` to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of these to `LAR`. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
+There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations()`. In particular, it uses `JAX` to refer to the Jacksonville Jaguars, cleaning up old games that use `JAC`. For some reason, the NFL uses `LA` to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of these to `LAR`. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
 
-The `fix_team_abbreviations` has an optional argument `old_to_new`. When set to FALSE (the default), it only does the updates described above. When set to TRUE, it goes back and updates older team abbreviations. So when `FALSE`, the San Diego Chargers for example are represented as `SD`. However, sometimes you want to group by franchises across seasons, and want the abbreviations to match for the past. You can modify this easily with the code:
+The `fix_team_abbreviations()` function has an optional argument `old_to_new`. When set to FALSE (the default), it only does the updates described above. When set to TRUE, it goes back and updates older team abbreviations. So when FALSE, the San Diego Chargers for example are represented as SD. However, sometimes you want to group by franchises across seasons, and want the abbreviations to match for the past. This means the old San Diego Chargers teams will be set to LAC instead. You can make this modification easily with the code:
 
 ``` r
-plays <- plays %>% fix_team_abbreviations(TRUE)
+plays <- plays %>% fix_team_abbreviations(old_to_new=TRUE)
 ```
 
 ## Add in columns about game data
@@ -56,7 +58,7 @@ If you don't want to add these columns, you can set the input for this to `FALSE
 - `pass`: Does the play description suggest this play was called as a pass?
 - `rush`: Does the play description suggest this play was called as a rush?
 - `success`: Was EPA for this play greater than 0?
-- `player_passer_name`: Fixes the existing nflscrapR column so this is filled in rather than NA on penalty plays
+- `player_passer_name`: Fixes the existing nflscrapR column so this is filled in rather than NA on penalty plays. Code for this taken from [Keegan Abdoo](http://twitter.com/KeeganAbdoo)
 - `receiver_passer_name`: See above.
 - `rusher_passer_name`: See above.
 - `name`: Equal to `passer_player_name` unless that is NA, in which case it is equal to `rusher_player_name`
