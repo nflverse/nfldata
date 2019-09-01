@@ -10,15 +10,25 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 
 # What does this code do?
 
+- [Get data for just the games you're missing!](#which_games)
+- [Fix team abbreviations](#fix_team_abbreviations)
+- [Add in columns about game data](#game_data)
+- [Add in columns from Ben Baldwin's excellent nflscrapR tutorial](#apply_baldwin) which you can [read here](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+- [Add in columns for series data](#apply_series)
+
+<a name="which_games"/>
+
 ## Get data for just the games you're missing!
 
-If you're starting from scratch, it will download everything. (This will take a long time.)
+The first time you run this, it will download everything. (This will take a long time.)
 
 But in subsequent executions, it will check which NFL games are complete that you don't have data for, and get data for those games. When binding, it will automatically fix data types of fields that R likes to complain about through a custom function `fix_inconsistent_data_types()` so the binding can happen cleanly.
 
 In either case, the rest of the modifications described below continue to apply.
 
 *Note: If you are trying to use nflscrapR for live in-game data purposes, this won't work for you. This code only downloads data for games that have been completed.*
+
+<a name="fix_team_abbreviations"/>
 
 ## Fix team abbreviations
 
@@ -29,6 +39,7 @@ The `fix_team_abbreviations()` function has an optional argument `old_to_new`. W
 ``` r
 plays <- plays %>% fix_team_abbreviations(old_to_new=TRUE)
 ```
+<a name="game_data"/>
 
 ## Add in columns about game data
 
@@ -51,6 +62,8 @@ If you don't care about these, you can safely ignore them. However, I think most
 - `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
 - `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
 
+<a name="apply_baldwin"/>
+
 ## Add in columns from [Ben Baldwin's excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
 
 If you don't want to add these columns, you can set the input for this to `FALSE` at the top of the file. It's done through the function `apply_baldwin_mutations()`.
@@ -64,6 +77,8 @@ If you don't want to add these columns, you can set the input for this to `FALSE
 - `name`: Equal to `passer_player_name` unless that is NA, in which case it is equal to `rusher_player_name`
 - `yards_gained`: Fixed the existing nflscrapR column so the value is NA for penalties rather than 0.
 - `play`: Is this a "normal" play (including penalties)? Specifically, are both `epa` and `posteam` not NA, and is the `play_type` either no_play, pass, or run?
+
+<a name="apply_series"/>
 
 ## Add in columns for series data
 
