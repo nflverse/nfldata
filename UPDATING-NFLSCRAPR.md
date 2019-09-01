@@ -22,7 +22,7 @@ In either case, the rest of the modifications described below continue to apply.
 
 ## Fix team abbreviations
 
-There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations()`. In particular, it uses `JAX` to refer to the Jacksonville Jaguars, cleaning up old games that use `JAC`. For some reason, the NFL uses `LA` to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of these to `LAR`. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
+There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations()`. In particular, it uses JAX to refer to the Jacksonville Jaguars, cleaning up old games that use JAC. For some reason, the NFL uses LA to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of the Los Angeles Rams abbreviations to LAR. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
 
 The `fix_team_abbreviations()` function has an optional argument `old_to_new`. When set to FALSE (the default), it only does the updates described above. When set to TRUE, it goes back and updates older team abbreviations. So when FALSE, the San Diego Chargers for example are represented as SD. However, sometimes you want to group by franchises across seasons, and want the abbreviations to match for the past. This means the old San Diego Chargers teams will be set to LAC instead. You can make this modification easily with the code:
 
@@ -69,7 +69,7 @@ If you don't want to add these columns, you can set the input for this to `FALSE
 
 If you don't want to add these columns, you can set the input for this to `FALSE` at the top of the file. It's done through the function `apply_series_data()`.
 
-This is something I've been working on for a while. If you discover bugs, please let me know. Anyway, this allows you to group by a series, and determine the success of that series.
+This is something I've been working on for a while. (If you discover bugs, please let me know!) Anyway, this code allows you to examine an individual series play makeup, and look at whether it succeeded. Below are the specifics.
 
 A series is defined as every time the offense receieves a new first down. This can happen because a team gained enough yards in the last play to advance the sticks, a defensive penalty resulted in a first down, a change in possession, or following a kickoff or punt. Much like the nflscrapR `drive` column, my new `series` column starts at 1 for each game, and increments each time there is a new series. Some plays will have NA when they aren't defined as part of a series, such as kickoffs or timeouts.
 
