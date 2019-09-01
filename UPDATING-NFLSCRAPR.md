@@ -49,7 +49,7 @@ If you don't care about these, you can safely ignore them. However, I think most
 - `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
 - `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
 
-## Add in columns from [Ben Baldwin's excellent nflscrapR tutorial]
+## Add in columns from [Ben Baldwin's excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
 
 If you don't want to add these columns, you can set the input for this to `FALSE` at the top of the file. It's done through the function `apply_baldwin_mutations()`.
 
