@@ -1,5 +1,3 @@
-library(nflscrapR)
-library(tidyverse)
 source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays-functions.R")
 
 ########## INPUTS ##########
