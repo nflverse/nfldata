@@ -129,7 +129,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
              TRUE ~ glue("")),
            text=ifelse(text == "","",glue("{text}\n{helped} +{abs(round(100*wpa))}%")),
            away_score=ifelse(posteam == away_team,posteam_score,defteam_score),
-           home_score=ifelse(defteam == home_team,defteam_score,posteam_score)) %>% 
+           home_score=ifelse(posteam == away_team,defteam_score,posteam_score)) %>% 
     select(play_id,qtr,s,wp,wpa,posteam,away_score,home_score,text)
 
   # points for plotting
