@@ -138,7 +138,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   x_lab_max <- x_max + 250
   x_score <- 320 - x_max
     
-  # determine the vertical location of the label
+  # determine the location of the label
   report("Preparing data for plot")
   wp_data$x_text <- NA
   wp_data$y_text <- NA
