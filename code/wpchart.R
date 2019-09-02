@@ -318,7 +318,6 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   }
   
   # animate
-  system(glue("del c:\\Users\\lsharpe\\Documents\\game_wp\\{game$alt_game_id}.gif"))
   saveGIF(draw_game(),interval=0.1,movie.name=glue("~/game_wp/{game$alt_game_id}.gif"))
 }
   
