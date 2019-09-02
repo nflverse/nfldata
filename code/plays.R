@@ -20,7 +20,7 @@ games <- games %>%
 report("Loading existing plays data")
 old_warning_level <- getOption("warn")
 options(warn=-1)
-tryCatch(plays <- readRDS(plays_filename),error=report_error)
+tryCatch(plays <- readRDS(plays_filename),error=report)
 options(warn=old_warning_level)
 
 ########## ADD MISSING GAMES ##########

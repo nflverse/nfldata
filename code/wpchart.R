@@ -1,4 +1,4 @@
-source("~/nfl/plays.R")
+source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R")
 library(animation)
 
 seq_fix <- function(start,end,move)
