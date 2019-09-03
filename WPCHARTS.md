@@ -36,11 +36,13 @@ This is the preferred approach as you can make changes to it yourself to suit yo
 ``` r
 source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/wpchart.R")
 ```
-This will load my code into memory, but also handle downloading the nflscrapR data to your computer if you don't already have it. Also before you do anything, you need to create a folder in your active directory to store these. Let's say you want to see the win probabilty chart of the Packers/Bears Week 12 Thanksgiving game in 2015. Just execute the following command:
+This will load the code into memory, but also handle downloading the nflscrapR data to your computer if you don't already have it! OK, now let's get it to make a plot!
 
 <a name="sample_plot"/>
 
 ## Sample Plot
+
+Let's say you want to see the win probabilty chart of the Packers/Bears Week 12 Thanksgiving game in 2015. Just execute the following command:
 
 ``` r
 create_wp_plot("2015_12_CHI_GB")
