@@ -87,7 +87,7 @@ The file should open automatically for you, but if not, R tells you the path it'
 
 Our plot looks like this!
 
-![2015_12_CHI_GB WP Chart](http://www.habitatring.com/rstudio.png)
+![2015_12_CHI_GB WP Chart](http://www.habitatring.com/2015_12_CHI_GB.gif)
 
 The x-axis represents time in the game, as you can see along the bottom. The y-axis represents the probability of each team winning. The closer to the top, the more likely the visiting team (here, the Bears) are to win, and the closer to the bottom, the more likely the home team (here, the Packers) are to win. The 50% line in in bold across the middle.
 
