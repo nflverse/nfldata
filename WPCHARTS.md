@@ -7,7 +7,7 @@
 - [Choose Your Own Game](#choose_game)
 - [Help Understanding the Code](#help_code)
 
-<a href="#initial_stuff"/>
+<a name="#initial_stuff"/>
 
 ## Initial Stuff To Make This Work
 
@@ -25,7 +25,7 @@ install.packages(c("nflscrapR","tidyverse","ggplot2","ggimage","glue","animation
 
 R may prompt you asking for various permissions/confirmations.
 
-<a href="#load_code"/>
+<a name="#load_code"/>
 
 ## Load WP Plot Code
 
@@ -38,7 +38,7 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/wpchart.
 ```
 This will load my code into memory, but also handle downloading the nflscrapR data to your computer if you don't already have it. Also before you do anything, you need to create a folder in your active directory to store these. Let's say you want to see the win probabilty chart of the Packers/Bears Week 12 Thanksgiving game in 2015. Just execute the following command:
 
-<a href="#sample_plot"/>
+<a name="#sample_plot"/>
 
 ## Sample Plot
 
@@ -96,7 +96,7 @@ You'll notice some of these label coordinates have values of NA. This means the 
 
 The GIF should open automatically, but if not, R tells you the path it's stored on your computer and you can open it from there.
 
-<a href="#interpret_plot"/>
+<a name="#interpret_plot"/>
 
 ## Interpreting the Plot
 
@@ -110,7 +110,7 @@ The red line being drawn represents how the win probability moves across time. A
 
 On the right hand side, you can see each team's logo, and a number representing how many points that team has scored so far at the furthest point in time the red line has reached so far. Once it hits the end, it shows the final score, and will remain paused there for a bit for you to review. Then the GIF will loop.
 
-<a href="#choose_game"/>
+<a name="#choose_game"/>
 
 ## Choosing Your Own Game
 
@@ -146,7 +146,7 @@ And it will kindly point them out to me, including the home playoff game.
 9 2011010801 2010_18_NO_SEA
 ```
 
-<a href="#help_code"/>
+<a name="#help_code"/>
 
 ## Help Understanding the Code
 
