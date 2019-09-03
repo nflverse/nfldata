@@ -77,7 +77,7 @@ plays <- plays %>%
   inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
 ```
 
-Data begins with the 2006 NFL season. This CSV should be updated within minutes of a game completing. Does not include preseason.
+Data begins with the 2006 NFL season. Does not include preseason.
 
 Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
@@ -165,7 +165,7 @@ plays <- plays %>%
   inner_join(standings,by=c("season"="season","posteam"="team"))
 ```
 
-Data begins with the 2002 NFL season. This CSV should be updated within minutes of a game completing.
+Data begins with the 2002 NFL season.
 
 Columns:
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
