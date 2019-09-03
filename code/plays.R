@@ -11,7 +11,7 @@ series_data <- TRUE         # do you want to apply series data?
 
 # load game data
 report("Loading game data")
-games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+games <- read_csv("http://www.habitatring.com/games.csv")
 games <- games %>%
   filter(season >= 2009 & !is.na(result)) %>% 
   mutate(game_id=as.character(game_id))

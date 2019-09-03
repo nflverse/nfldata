@@ -64,7 +64,7 @@ apply_game_data <- function(p)
   if (!("alt_game_id" %in% colnames(p)))  # already included, don't reapply
   {
     report("Applying game data")    
-    games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+    games <- read_csv("http://www.habitatring.com/games.csv")
     games <- games %>%
       mutate(game_id=as.character(game_id))
     p <- p %>% 
