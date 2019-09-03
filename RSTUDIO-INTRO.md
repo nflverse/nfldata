@@ -25,7 +25,7 @@ Now that these packages are installed, let's download some NFL Standings data an
 
 ``` r
 library(tidyverse)
-standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/standings.csv")
+standings <- read_csv("http://www.habitatring.com/standings.csv")
 standings %>% head()
 ```
 
@@ -124,7 +124,7 @@ ggplot(standings,aes(x=scored,y=allowed)) +
 To understand this, we need to look at the outcomes of games, so we need a new data set. Let's import and use a command called `select` to examine certain columns, and `head()` to see the first several rows of those columns.
 
 ``` r
-games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+games <- read_csv("http://www.habitatring.com/games.csv")
 games %>% select(season,week,location,away_team,away_score,home_team,home_score,result) %>% head()
 ```
 
