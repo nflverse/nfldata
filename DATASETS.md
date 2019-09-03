@@ -72,7 +72,7 @@ It's worth noting that the Stuart scale is attempting to measure how teams *shou
 To import and join to nflscrapR data:
 
 ``` r
-games <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/games.csv")
+games <- read_csv("http://www.habitatring.com/games.csv")
 plays <- plays %>%
   inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
 ```
@@ -160,7 +160,7 @@ Columns:
 To import and join to nflscrapR data (for the offense):
 
 ``` r
-standings <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/standings.csv")
+standings <- read_csv("http://www.habitatring.com/standings.csv")
 plays <- plays %>%
   inner_join(standings,by=c("season"="season","posteam"="team"))
 ```
