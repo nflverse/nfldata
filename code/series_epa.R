@@ -4,8 +4,7 @@ series_data <- plays %>%
   filter(season == 2018) %>% 
   filter(!is.na(series) & !is.na(series_success)) %>% 
   filter(!is.na(epa) & wp >= 0.2 & wp <= 0.8) %>% 
-  group_by(posteam,series,series_success) %>% 
-  ungroup() %>% 
+  distinct(posteam,game_id,series,series_success) %>% 
   group_by(posteam) %>% 
   summarize(series_success_rate=mean(series_success))
 
