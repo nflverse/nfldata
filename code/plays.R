@@ -39,7 +39,7 @@ if (exists("plays"))
     new_plays <- NULL
     for (g in missing)
     {
-      report(paste0("Scraping from plays from game: ",g))
+      report(paste0("Scraping plays from game: ",g))
       game_plays <- scrape_json_play_by_play(g)
       game_plays <- game_plays %>%
         fix_inconsistent_data_types() %>% 
@@ -47,7 +47,7 @@ if (exists("plays"))
       new_plays <- bind_rows(new_plays,game_plays)
     }
     
-    # 
+    # apply game data to new plays
     report("Adding in game data for new plays")
     new_plays <- new_plays %>%
       apply_game_data()
@@ -87,7 +87,6 @@ if (exists("plays"))
     post <- post %>% fix_inconsistent_data_types()
     plays <- bind_rows(plays,post)
   }
-  saveRDS(plays,file=plays_filename)
   
   # remove these, no need to take up memory, it's all in plays now
   rm(reg)
@@ -102,6 +101,9 @@ if (exists("plays"))
   # additional optional modifications
   if (baldwin_mutations) plays <- apply_baldwin_mutations(plays)
   if (series_data) plays <- apply_series_data(plays)
+  
+  # save
+  saveRDS(plays,file=plays_filename)
   
 }
 
