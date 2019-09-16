@@ -32,6 +32,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   # game's plays
   report(glue("Processing play data for {game$alt_game_id}"))
   game_plays <- plays %>% filter(game_id == g | alt_game_id == g)
+  if (nrow(game_plays) == 0) stop("No plays for {game$alt_game_id} found")
   
   # overtime clock conversion data
   overtime <- (game_plays %>% pull(qtr) %>% max()) > 4
@@ -101,9 +102,9 @@ create_wp_plot <- function(g=sample(games$game_id,1))
              touchdown == 1 ~
                glue("{rusher_player_name} TD"),
              safety == 1 ~ glue("SAFETY"),
-             field_goal_result == "made" ~ glue("FG GOOD"),
+             field_goal_result == "made" ~ glue("{posteam} FG GOOD"),
              abs(wpa) < 0.045 ~ glue(""),  # significance cutoff
-             field_goal_attempt == 1 ~ glue("FG {toupper(field_goal_result)}"),
+             field_goal_attempt == 1 ~ glue("{posteam} FG {toupper(field_goal_result)}"),
              interception == 1 ~
                glue("{interception_player_name} INT"),
              fumble_recovery_2_team == posteam & play_type == "punt" ~
@@ -220,7 +221,12 @@ create_wp_plot <- function(g=sample(games$game_id,1))
                          "{gsub('\n',' ',wp_data$text[r])}")))
     }
   }
-  wp_data <- wp_data %>% arrange(play_id)
+  
+  # filter out fullshit and reorder
+  wp_data <- wp_data %>%
+    filter(posteam != "") %>% 
+    filter(wpa != 0) %>% 
+    arrange(play_id)
   
   # add on WP boundaries
   first_row <- data.frame(qtr=1,s=3600,wp=0.5,wpa=NA,text=as.character(""),
@@ -234,7 +240,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   wp_data <- wp_data %>%
     bind_rows(first_row) %>% 
     bind_rows(last_row) %>%
-    arrange(desc(s))
+    arrange(play_id)
   
   # output wp_data
   print(wp_data %>% filter(text != ""),n=nrow(wp_data %>% filter(text != "")))
@@ -260,8 +266,8 @@ create_wp_plot <- function(g=sample(games$game_id,1))
       geom_vline(xintercept=3600,color="#5555AA") +
       geom_vline(xintercept=x_max,color="#5555AA") +
       geom_hline(yintercept=0.5,size=0.75) +
-      geom_image(x=x_score,y=0.67,image=game$away_logo,size=0.12) +
-      geom_image(x=x_score,y=0.33,image=game$home_logo,size=0.12) +
+      geom_image(x=x_score,y=0.67,image=game$away_logo,size=0.12,asp=1.5) +
+      geom_image(x=x_score,y=0.33,image=game$home_logo,size=0.12,asp=1.5) +
       geom_line(color="#FF0000",size=1) +
       scale_x_continuous(trans="reverse",
                          minor_breaks=NULL,
@@ -320,4 +326,3 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   # animate
   saveGIF(draw_game(),interval=0.1,movie.name=glue("~/game_wp/{game$alt_game_id}.gif"))
 }
-  
