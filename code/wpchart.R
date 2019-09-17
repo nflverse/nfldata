@@ -229,10 +229,10 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     arrange(play_id)
   
   # add on WP boundaries
-  first_row <- data.frame(qtr=1,s=3600,wp=0.5,wpa=NA,text=as.character(""),
+  first_row <- data.frame(play_id=0,qtr=1,s=3600,wp=0.5,wpa=NA,text=as.character(""),
                           x_text=3600,y_text=0.5,away_score=0,home_score=0,
                           stringsAsFactors=FALSE)
-  last_row <- data.frame(qtr=max(wp_data$qtr),s=x_max-1,
+  last_row <- data.frame(play_id=999999,qtr=max(wp_data$qtr),s=x_max-1,
                          wp=ifelse(game$result < 0,1,ifelse(game$result > 0,0,0.5)),
                          wpa=NA,text=as.character(""),x_text=x_max,y_text=0.5,
                          away_score=game$away_score,home_score=game$home_score,
