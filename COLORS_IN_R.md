@@ -9,7 +9,9 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 team_colors <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teamcolors.csv")
 
 offense <- plays %>% 
-  filter(season == 2019 & week <= 4 & !is.na(epa)) %>% 
+  filter(season == 2019 & week <= 4) %>% 
+  filter(!is.na(epa)) %>% 
+  filter(pass == 1 | rush == 1) %>% 
   group_by(posteam) %>% 
   summarize(mean_epa=mean(epa)) %>% 
   ungroup() %>% 
