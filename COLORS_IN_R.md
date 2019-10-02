@@ -26,16 +26,16 @@ When we examine `offense`, we get data that looks like this:
 # A tibble: 32 x 6
    posteam mean_epa color   color2  color3  color4 
    <chr>      <dbl> <chr>   <chr>   <chr>   <chr>  
- 1 ARI     -0.00907 #97233f #000000 #ffb612 #a5acaf
- 2 ATL      0.0240  #a71930 #000000 #a5acaf #a30d2d
- 3 BAL      0.199   #241773 #000000 #9e7c0c #c60c30
- 4 BUF     -0.0625  #00338d #c60c30 #0c2e82 #d50a0a
- 5 CAR     -0.0178  #0085ca #000000 #bfc0bf #0085ca
- 6 CHI     -0.0231  #0b162a #c83803 #0b162a #c83803
- 7 CIN     -0.134   #000000 #fb4f14 #000000 #d32f1e
- 8 CLE     -0.0299  #fb4f14 #22150c #a5acaf #d32f1e
- 9 DAL      0.175   #002244 #b0b7bc #acc0c6 #a5acaf
-10 DEN      0.0448  #002244 #fb4f14 #00234c #ff5200
+ 1 MIA     -0.333   #008e97 #f58220 #005778 #008e97
+ 2 NYJ     -0.284   #203731 #1c2d25 NA      NA     
+ 3 CIN     -0.153   #000000 #fb4f14 #000000 #d32f1e
+ 4 WAS     -0.0929  #773141 #ffb612 #000000 #5b2b2f
+ 5 PIT     -0.0807  #000000 #ffb612 #c60c30 #00539b
+ 6 CHI     -0.0588  #0b162a #c83803 #0b162a #c83803
+ 7 CAR     -0.0527  #0085ca #000000 #bfc0bf #0085ca
+ 8 BUF     -0.0315  #00338d #c60c30 #0c2e82 #d50a0a
+ 9 CLE     -0.0278  #fb4f14 #22150c #a5acaf #d32f1e
+10 ARI     -0.00614 #97233f #000000 #ffb612 #a5acaf
 # ... with 22 more rows
 ```
 
