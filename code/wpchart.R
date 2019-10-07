@@ -266,8 +266,8 @@ create_wp_plot <- function(g=sample(games$game_id,1))
       geom_vline(xintercept=3600,color="#5555AA") +
       geom_vline(xintercept=x_max,color="#5555AA") +
       geom_hline(yintercept=0.5,size=0.75) +
-      geom_image(x=x_score,y=0.67,image=game$away_logo,size=0.12,asp=1.5) +
-      geom_image(x=x_score,y=0.33,image=game$home_logo,size=0.12,asp=1.5) +
+      geom_image(x=x_score,y=0.67,image=game$away_logo,size=0.12) +
+      geom_image(x=x_score,y=0.33,image=game$home_logo,size=0.12) +
       geom_line(color="#FF0000",size=1) +
       scale_x_continuous(trans="reverse",
                          minor_breaks=NULL,
