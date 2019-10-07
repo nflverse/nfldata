@@ -125,7 +125,7 @@ create_wp_plot("2019020300")
 create_wp_plot("2019_21_NE_LAR")
 ```
 
-If you want to find a game, you can filter the `games` tibble this brings into memory to find it. For example, if I knew I was looking for a 2013 Seahawks home game, I can run this command:
+If you want to find a game, you can filter the `games` tibble this brings into memory to find it. For example, if I knew I was looking for a 2010 Seahawks home game, I can run this command:
 
 ``` r
 games %>% filter(season == 2010 & home_team == "SEA") %>% select(game_id,alt_game_id)
