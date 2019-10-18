@@ -31,7 +31,8 @@ fix_inconsistent_data_types <- function(p)
            blocked_player_id=as.character(blocked_player_id),
            fumble_recovery_2_yards=as.numeric(fumble_recovery_2_yards),
            fumble_recovery_2_player_id=as.character(fumble_recovery_2_player_id),
-           forced_fumble_player_2_player_id=as.character(forced_fumble_player_2_player_id))
+           forced_fumble_player_2_player_id=as.character(forced_fumble_player_2_player_id),
+           tackle_for_loss_2_player_id=as.character(forced_fumble_player_2_player_id))
   return(p)
 }
 
