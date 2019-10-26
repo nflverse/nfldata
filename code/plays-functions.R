@@ -84,14 +84,14 @@ apply_baldwin_mutations <- function(p)
     mutate(
       # identify passes and rushes
       ## note this treats qb scrambles as passes since a pass was called
-      pass=ifelse(str_detect(desc,"(pass)|(sacked)|(scramble)"),1,0),
+      pass=ifelse(str_detect(desc,"( pass)|(sacked)|(scramble)"),1,0),
       rush=ifelse(str_detect(desc,"(left end)|(left tackle)|(left guard)|(up the middle)|(right guard)|(right tackle)|(right end)") & pass == 0,1,0),
       # plays are defined as successful when EPA is positive
       success=ifelse(is.na(epa),NA,ifelse(epa>0,1,0)),
       # fix player name fields so they aren't NA on penalty plays
       ## code for this from Keenan Abdoo
       passer_player_name=ifelse(play_type == "no_play" & pass == 1, 
-                                str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s((pass)|(sack)|(scramble)))"),
+                                str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s(( pass)|(sack)|(scramble)))"),
                                 passer_player_name),
       receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc, "pass"), 
                                   str_extract(desc,"(?<=to\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?"),
