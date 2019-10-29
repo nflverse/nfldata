@@ -70,7 +70,12 @@ if (exists("plays"))
   
   # no plays variable, so we're from scratch
   report("No play data found, loading plays from scratch")
-  seasons <- games %>% filter(!is.na(result)) %>% pull(season) %>% unique()
+  seasons <- games %>%
+    group_by(season) %>% 
+    summarize(count=n()) %>% 
+    ungroup() %>% 
+    filter(count == 267) %>% 
+    pull(season)
   plays <- NULL
   
   # season loop
