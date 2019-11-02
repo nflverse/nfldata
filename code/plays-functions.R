@@ -93,7 +93,7 @@ apply_baldwin_mutations <- function(p)
       passer_player_name=ifelse(play_type == "no_play" & pass == 1, 
                                 str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s(( pass)|(sack)|(scramble)))"),
                                 passer_player_name),
-      receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc, "pass"), 
+      receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc, " pass"), 
                                   str_extract(desc,"(?<=to\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?"),
                                   receiver_player_name),
       rusher_player_name=ifelse(play_type == "no_play" & rush == 1, 
@@ -104,7 +104,9 @@ apply_baldwin_mutations <- function(p)
       # set yards_gained to be NA on penalties rather then 0
       yards_gained=ifelse(play_type == "no_play",NA,yards_gained),
       # easy filter: play is 1 if a "normal" play (including penalties), or 0 otherwise
-      play=ifelse(!is.na(epa) & !is.na(posteam) & play_type %in% c("no_play","pass","run"),1,0))
+      play=ifelse(!is.na(epa) & !is.na(posteam) & 
+                    substr(desc,1,8) != "Timeout " &
+                    play_type %in% c("no_play","pass","run"),1,0))
   return(p)
 }
 
