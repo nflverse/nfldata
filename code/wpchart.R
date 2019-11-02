@@ -120,7 +120,8 @@ create_wp_plot <- function(g=sample(games$game_id,1))
              !is.na(kickoff_returner_player_name) ~
                glue("{kickoff_returner_player_name} KR"),
              !is.na(punt_returner_player_name) ~
-               glue("{punt_returner_player_name} PR"),         
+               glue("{punt_returner_player_name} PR"),
+             down == 4 & yards_gained < ydstogo ~ glue("4D STOP"),             
              !is.na(receiver_player_name) & complete_pass == 1 ~
                glue("{receiver_player_name} Catch"),
              !is.na(rusher_player_name) & incomplete_pass == 1 ~
@@ -131,7 +132,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
            text=ifelse(text == "","",glue("{text}\n{helped} +{abs(round(100*wpa))}%")),
            away_score=ifelse(posteam == away_team,posteam_score,defteam_score),
            home_score=ifelse(posteam == away_team,defteam_score,posteam_score)) %>% 
-    select(play_id,qtr,s,wp,wpa,posteam,away_score,home_score,text)
+    select(play_id,qtr,time,s,wp,wpa,posteam,away_score,home_score,text)
 
   # points for plotting
   x_max <- ifelse(overtime,-(max_sec-min_sec)-1,0)
@@ -229,10 +230,12 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     arrange(play_id)
   
   # add on WP boundaries
-  first_row <- data.frame(play_id=0,qtr=1,s=3600,wp=0.5,wpa=NA,text=as.character(""),
+  first_row <- data.frame(play_id=0,qtr=1,time="15:00",s=3600,
+                          wp=0.5,wpa=NA,text=as.character(""),
                           x_text=3600,y_text=0.5,away_score=0,home_score=0,
                           stringsAsFactors=FALSE)
   last_row <- data.frame(play_id=999999,qtr=max(wp_data$qtr),s=x_max-1,
+                         time=ifelse(max(wp_data$qtr) >= 5,"FINAL\nOT","FINAL"),
                          wp=ifelse(game$result < 0,1,ifelse(game$result > 0,0,0.5)),
                          wpa=NA,text=as.character(""),x_text=x_max,y_text=0.5,
                          away_score=game$away_score,home_score=game$home_score,
@@ -263,11 +266,10 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     frm_plot <- frm_data %>% 
       ggplot(aes(x=s,y=wp)) +
       theme_minimal() +
-      geom_vline(xintercept=3600,color="#5555AA") +
-      geom_vline(xintercept=x_max,color="#5555AA") +
-      geom_hline(yintercept=0.5,size=0.75) +
-      geom_image(x=x_score,y=0.67,image=game$away_logo,size=0.12) +
-      geom_image(x=x_score,y=0.33,image=game$home_logo,size=0.12) +
+      geom_vline(xintercept=c(3600,x_max),color="#5555AA") +
+      geom_segment(x=-3600,xend=-x_max,y=0.5,yend=0.5,size=0.75) +
+      geom_image(x=x_score,y=0.82,image=game$away_logo,size=0.08,asp=1.5) +
+      geom_image(x=x_score,y=0.18,image=game$home_logo,size=0.08,asp=1.5) +
       geom_line(color="#FF0000",size=1) +
       scale_x_continuous(trans="reverse",
                          minor_breaks=NULL,
@@ -288,12 +290,29 @@ create_wp_plot <- function(g=sample(games$game_id,1))
       labs(title=glue("Game Summary: {game$season} Week {game$week} {game$away_team} {ifelse(game$location == 'Home','@','vs.')} {game$home_team} on {game$gameday}"),
            caption="Data from nflscrapR, Visualization by @LeeSharpeNFL")      
   
-    # annotate score
+    # score display 
+    away_score <- max(frm_data$away_score)
+    home_score <- max(frm_data$home_score)
+    
+    # clock display
+    qtr <- case_when(
+      max(frm_data$qtr) == 1 ~ "1st",
+      max(frm_data$qtr) == 2 ~ "2nd",
+      max(frm_data$qtr) == 3 ~ "3rd",
+      max(frm_data$qtr) == 4 ~ "4th",
+      max(frm_data$qtr) == 5 ~ "OT",
+      TRUE ~ as.character(max(frm_data$qtr))
+    )
+    clock <- tail(frm_data$time,1)
+    clock <- ifelse(substr(clock,1,1) == "0",substr(clock,2,100),clock)
+    clock <- paste0(qtr,"\n",clock)
+    clock <- ifelse(grepl("FINAL",tail(frm_data$time,1)),tail(frm_data$time,1),clock)
+    
+    # add score and clock to plot
     frm_plot <- frm_plot + 
-      annotate("text",x=-x_score,y=0.56,label=frm_data$away_score[nrow(frm_data)],
-               color="#0000FF",size=8) +
-      annotate("text",x=-x_score,y=0.44,label=frm_data$home_score[nrow(frm_data)],
-               color="#0000FF",size=8)
+      annotate("text",x=-x_score,y=0.71,label=away_score,color="#0000FF",size=8) +
+      annotate("text",x=-x_score,y=0.29,label=home_score,color="#0000FF",size=8) +
+      annotate("text",x=-x_score,y=0.50,label=clock,color="#0000FF",size=6)
     
     # label key moments
     frm_labels <- frm_data %>% 
@@ -307,9 +326,12 @@ create_wp_plot <- function(g=sample(games$game_id,1))
                  size=3,color="#0000FF",na.rm=TRUE)      
     
     # plot the frame
-    print(frm_plot)
+    plot(frm_plot,width=12.5,height=6.47,dpi=500)
   }
   
+  # DEBUG
+  #draw_frame(400)
+  #return(1)
   
   # function to draw the game
   draw_game <- function()
