@@ -15,7 +15,8 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 - [Add in columns about game data](#game_data)
 - [Add in columns from Ben Baldwin's excellent nflscrapR tutorial](#apply_baldwin) which you can [read here](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
 - [Add in columns for colors and logos](#apply_colors_logos) **(NEW as of 2019-11-10)**
-- [Add in columns for completion probability](#apply_cp) **(NEW as of 2019-11-10, must one-timeexecute install.packages("mgcv") first!)**
+- [Add in columns for completion probability](#apply_cp) **(NEW as of 2019-11-10)**
+  - You must do a one-time install the mgcv package first with command: `install.packages("mgcv")`
 - [Add in columns for series data](#apply_series)
 
 <a name="which_games"/>
