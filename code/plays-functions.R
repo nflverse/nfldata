@@ -17,7 +17,7 @@ team_logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/mast
 # report progress to console
 report <- function(msg)
 {
-  print(as.character(glue("{Sys.time()}: {glue(msg)}")))
+  print(paste0(Sys.time(),": ",msg))
 }
 
 # look for text in names of columns of data frame
