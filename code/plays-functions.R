@@ -1,23 +1,90 @@
-########## HELPER FUNCTIONS ##########
+############# LIBRARIES ##############
 
-library(nflscrapR)
 library(tidyverse)
 library(ggplot2)
 library(ggimage)
 library(glue)
+library(nflscrapR)
+
+############ HELPER DATA #############
+
+team_colors <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teamcolors.csv")
+team_logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
 
 ########## HELPER FUNCTIONS ##########
 
 # report progress to console
 report <- function(msg)
 {
-  print(paste0(Sys.time(),": ",msg))
+  print(as.character(glue("{Sys.time()}: {glue(msg)}")))
 }
 
 # look for text in names of columns of data frame
 grep_col <- function(x,df=plays)
 {
   return(colnames(df)[grepl(x,colnames(df))])
+}
+
+# apply logos and colors
+apply_colors_and_logos <- function(p,team_col="")
+{
+  # default team_col values
+  team_col <- case_when(
+    team_col != "" ~ team_col,
+    "team" %in% colnames(p) ~ "team",
+    "posteam" %in% colnames(p) ~ "posteam",
+    "defteam" %in% colnames(p) ~ "defteam",
+    TRUE ~ team_col
+  )
+  
+  # raise error if column not present
+  if (!(team_col %in% colnames(p))) stop(glue("Column {team_col} is not present"))
+  
+  # load data
+  if (!exists("team_colors"))
+    team_colors <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teamcolors.csv")
+  if (!exists("team_logos"))
+    team_logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
+  
+  # function to determine the brightness of a color
+  brightness <- function(hex)
+  {
+    result <- rep(0,length(hex))
+    for (i in 2:7)
+    {
+      ch <- substr(hex,i,i)
+      result <- result + ifelse(i %% 2 == 0,16,1) * case_when(
+        ch == "0" ~ 0,
+        ch == "1" ~ 1,
+        ch == "2" ~ 2,
+        ch == "3" ~ 3,
+        ch == "4" ~ 4,
+        ch == "5" ~ 5,
+        ch == "6" ~ 6,
+        ch == "7" ~ 7,
+        ch == "8" ~ 8,
+        ch == "9" ~ 9,        
+        ch == "a" | ch == "A" ~ 10,
+        ch == "b" | ch == "B" ~ 11,
+        ch == "c" | ch == "C" ~ 12,
+        ch == "d" | ch == "D" ~ 13,
+        ch == "e" | ch == "E" ~ 14,
+        ch == "f" | ch == "F" ~ 15,
+        TRUE ~ 0
+      )
+    }
+    return(result)
+  }
+  
+  # use the primary color if brightness > 128, else grab secondary
+  team_colors <- team_colors %>% 
+    mutate(use_color=ifelse(brightness(color) > 128,color,color2)) %>% 
+    select(team,use_color)
+  
+  # add to p
+  p <- p %>% 
+    inner_join(team_colors,by=setNames("team",team_col)) %>% 
+    inner_join(team_logos,by=setNames("team",team_col))
 }
 
 # fix inconsistent data types
@@ -64,19 +131,20 @@ apply_game_data <- function(p)
 {
   if (!("alt_game_id" %in% colnames(p)))  # already included, don't reapply
   {
-    report("Applying game data")    
-    games <- read_csv("http://www.habitatring.com/games.csv")
+    report("Applying game data")
+    if (!exists("games"))
+      games <- read_csv("http://www.habitatring.com/games.csv")
     games <- games %>%
       mutate(game_id=as.character(game_id))
     p <- p %>% 
       fix_inconsistent_data_types() %>% 
-      inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
+      inner_join(games,by=c("game_id","away_team","home_team"))
   }
   return(p)
 }
 
-# mutations from Ben Baldwin (and some code from Keegan Abdoo)
-## taken from https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701
+# apply mutations from Ben Baldwin (and some code from Keegan Abdoo)
+## taken from https://github.com/guga31bb/nflstats/blob/master/helpers.R
 apply_baldwin_mutations <- function(p)
 {
   report("Applying Ben Baldwin mutations")
@@ -93,7 +161,7 @@ apply_baldwin_mutations <- function(p)
       passer_player_name=ifelse(play_type == "no_play" & pass == 1, 
                                 str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s(( pass)|(sack)|(scramble)))"),
                                 passer_player_name),
-      receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc, " pass"), 
+      receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc," pass"), 
                                   str_extract(desc,"(?<=to\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?"),
                                   receiver_player_name),
       rusher_player_name=ifelse(play_type == "no_play" & rush == 1, 
@@ -106,11 +174,58 @@ apply_baldwin_mutations <- function(p)
       # easy filter: play is 1 if a "normal" play (including penalties), or 0 otherwise
       play=ifelse(!is.na(epa) & !is.na(posteam) & 
                     substr(desc,1,8) != "Timeout " &
-                    play_type %in% c("no_play","pass","run"),1,0))
+                    play_type %in% c("no_play","pass","run"),1,0),
+      # name changes
+      name=ifelse(name == "G.Minshew II","G.Minshew",name),
+      receiver_player_name=ifelse(receiver_player_name == "D.Chark Jr.","D.Chark",receiver_player_name))
   return(p)
 }
 
-# add series data
+# apply completion probability
+## formula from Ben Baldwin
+apply_completion_probability <- function(p) 
+{
+  report("Applying completion probability")
+  
+  # sort p and create cp column
+  p$cp <- NA
+  
+  # season loop
+  ## since our data only goes back to 2009, no CP for 2009
+  seasons <- unique(p$season[p$season > 2009])
+  for (s in seasons)
+  {
+    # get data from previous three seasons
+    old_data <- plays %>%
+      filter(play == 1 & season >= s-3 & season <= s-1) %>% 
+      filter(complete_pass == 1 | incomplete_pass == 1 | interception == 1) %>% 
+      filter(air_yards >= -10 & !is.na(receiver_player_id) & !is.na(pass_location)) %>% 
+      mutate(air_is_zero=ifelse(air_yards,1,0))
+    
+    # determine CPOE formula
+    cp_model <- gam(complete_pass ~ s(air_yards) + air_is_zero + factor(pass_location),
+                      data=old_data,method="REML")
+    
+    # apply CPOE to current season
+    new_data <- p %>%
+      filter(play == 1 & season == s) %>% 
+      filter(complete_pass == 1 | incomplete_pass == 1 | interception == 1) %>% 
+      filter(air_yards >= -10 & !is.na(receiver_player_id) & !is.na(pass_location)) %>% 
+      mutate(air_is_zero=ifelse(air_yards,1,0))
+    new_data$cp <- predict.gam(cp_model,new_data)
+    new_data <- new_data %>% 
+      select(game_id,play_id,cp)
+    
+    # merge into p
+    p <- p %>%
+      left_join(new_data,by=c("game_id","play_id")) %>% 
+      mutate(cp=ifelse(!is.na(cp.y),cp.y,cp.x)) %>% 
+      select(-cp.x,-cp.y)
+  }
+  return(p)
+}
+
+# apply series data
 ## series = 
 ##  starts at 1, each new first down increments, numbers shared across both teams
 ##  NA: kickoffs, extra point/two point conversion attempts, non-plays, no posteam
