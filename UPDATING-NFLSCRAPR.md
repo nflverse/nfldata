@@ -14,6 +14,8 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 - [Fix team abbreviations](#fix_team_abbreviations)
 - [Add in columns about game data](#game_data)
 - [Add in columns from Ben Baldwin's excellent nflscrapR tutorial](#apply_baldwin) which you can [read here](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+- [Add in columns for colors and logos](#apply_colors_logos) **(NEW as of 2019-11-10)**
+- [Add in columns for completion probability](#apply_cp) **(NEW as of 2019-11-10)**
 - [Add in columns for series data](#apply_series)
 
 <a name="which_games"/>
@@ -78,7 +80,7 @@ If you don't want to add these columns, you can set the input for this to FALSE 
 - `yards_gained`: Fixed the existing nflscrapR column so the value is NA for penalties rather than **0**.
 - `play`: Is this a "normal" play (including penalties)? Specifically, are both `epa` and `posteam` not NA, and is the `play_type` either **no_play**, **pass**, or **run**?
 
-<a name="apply_series"/>
+<a name="apply_colors_logos"/>
 
 ## Add team logos and team colors   (NEW as of 2019-11-10)
 
@@ -98,6 +100,8 @@ This will add two columns:
 - `logo`: This is a URL that points to a transparent image file of the teams logo. Useful for `geom_image` plots.
 
 The function has an additional optional argument to tell it which column in the exisitng data to use as the team abbreviation to join against. It will default to (in this order): `team`, `posteam`, `defteam`. It will raise an error if you don't specify and none of those columns are present.
+
+<a name="apply_cp"/>
 
 ## Add in completion probability   (NEW as of 2019-11-10)
 
@@ -122,6 +126,8 @@ In creating the `cp` column, I used Ben's model trained as follows:
 - 2010: This is trained from 2009 data.
 - 2011: This is trained from 2009 and 2010 data.
 - 2012+: Moving forward, each season is trained using the prior three seasons.
+
+<a name="apply_series"/>
 
 ## Add in columns for series data
 
