@@ -80,6 +80,49 @@ If you don't want to add these columns, you can set the input for this to FALSE 
 
 <a name="apply_series"/>
 
+## Add team logos and team colors   (NEW as of 2019-11-10)
+
+For making NFL plots, often you want logos and colors. I usually just added them individually, but now I made a function `apply_colors_and_logos()` to just easily add them as follows:
+
+``` r
+team_epa <- plays %>%
+  filter(season == max(season) & !is.na(epa)) %>%
+  group_by(posteam) %>%
+  summarize(mean_epa=mean(epa)) %>%
+  ungroup() %>%
+  apply_colors_and_logos()
+```
+
+This will add two columns:
+- `use_color`: The hexadecimal color value to use for that team. It will use their primary color unless it is quite dark, in which case it uses their secondary color.
+- `logo`: This is a URL that points to a transparent image file of the teams logo. Useful for `geom_image` plots.
+
+The function has an additional optional argument to tell it which column in the exisitng data to use as the team abbreviation to join against. It will default to (in this order): `team`, `posteam`, `defteam`. It will raise an error if you don't specify and none of those columns are present.
+
+## Add in completion probability   (NEW as of 2019-11-10)
+
+*Note: This requires the Ben Baldwin mutations from above*
+
+This uses a model designed by Ben Baldwin to estimate the completion probability of a pass based on air yards (how many yards from the line of scrimmage the receiver is when the pass arrives) and whether the pass is to the left, middle, or right side of the field. The completion probability is stored in a new column called `cp`. This column will be `NA` for plays where no pass was thrown, when there was no intended receiver (throaways), or if the the number of air yards is -10 or less (very rare).
+
+Completion probability is used in calculating a metric called Completion Percentage Over Expected (CPOE) which is highly stable metric from year-to-year for a given quarterback.  Here's an example of code calculating this which gives you each quarterback's CPOE for the current season.
+
+``` r
+plays %>%
+  filter(season == max(season) & !is.na(cp)) %>%
+  group_by(name) %>%
+  summarize(cpoe=100*mean(complete_pass-cp),count=n()) %>%
+  ungroup() %>%
+  filter(count >= 0.25*max(count)) %>%
+  arrange(desc(cpoe))
+```
+
+In creating the `cp` column, I used Ben's model trained as follows:
+- 2009: This is the earliest season, so no previous training data exists. `cp` is `NA` for all 2009 plays.
+- 2010: This is trained from 2009 data.
+- 2011: This is trained from 2009 and 2010 data.
+- 2012+: Moving forward, each season is trained using the prior three seasons.
+
 ## Add in columns for series data
 
 If you don't want to add these columns, you can set the input for this to FALSE at the top of the file. It's done through the function `apply_series_data()`.
