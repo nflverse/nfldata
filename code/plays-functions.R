@@ -5,6 +5,7 @@ library(ggplot2)
 library(ggimage)
 library(glue)
 library(nflscrapR)
+library(mgcv)
 
 ############ HELPER DATA #############
 
