@@ -20,14 +20,13 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   
   # team logos
   report("Loading team logos")
-  logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
   game <- game %>% 
-    inner_join(logos,by=c("away_team"="team")) %>% 
-    mutate(away_logo=url) %>% 
-    select(-url) %>% 
-    inner_join(logos,by=c("home_team"="team")) %>% 
-    mutate(home_logo=url) %>% 
-    select(-url)
+    inner_join(team_logos,by=c("away_team"="team")) %>% 
+    mutate(away_logo=team_logo) %>% 
+    select(-team_logo) %>% 
+    inner_join(team_logos,by=c("home_team"="team")) %>% 
+    mutate(home_logo=team_logo) %>% 
+    select(-team_logo)
   
   # game's plays
   report(glue("Processing play data for {game$alt_game_id}"))
@@ -54,13 +53,11 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   
   # fix if play other than last is NA
   report("Fixing plays with a WPA of NA")
-  for (r in 1:(nrow(base_wp_data)-1))
+  for (r in (nrow(base_wp_data)-1):1)
   {
     if (!is.na(base_wp_data$wp[r]) && is.na(base_wp_data$wpa[r]))
     {
       target_wp <- base_wp_data$wp[r+1]
-      target_wp <- ifelse(base_wp_data$posteam[r] == base_wp_data$posteam[r+1],
-                          target_wp,1-target_wp)
       base_wp_data$wpa[r] <- target_wp - base_wp_data$wp[r]
     }
   }
