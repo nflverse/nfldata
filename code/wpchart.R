@@ -1,6 +1,3 @@
-source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R")
-library(animation)
-
 seq_fix <- function(start,end,move)
 {
   if (move < 0 && start < end) return(end)
@@ -22,11 +19,9 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   report("Loading team logos")
   game <- game %>% 
     inner_join(team_logos,by=c("away_team"="team")) %>% 
-    mutate(away_logo=team_logo) %>% 
-    select(-team_logo) %>% 
+    rename(away_logo=team_logo) %>% 
     inner_join(team_logos,by=c("home_team"="team")) %>% 
-    mutate(home_logo=team_logo) %>% 
-    select(-team_logo)
+    rename(home_logo=team_logo)
   
   # game's plays
   report(glue("Processing play data for {game$alt_game_id}"))
