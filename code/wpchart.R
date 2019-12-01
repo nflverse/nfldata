@@ -279,7 +279,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
                          limits=c(0,1)) +
       xlab("") +
       ylab("") +
-      labs(title=glue("Game Summary: {game$season} Week {game$week} {game$away_team} {ifelse(game$location == 'Home','@','vs.')} {game$home_team} on {game$gameday}"),
+      labs(title=glue("Win Probability Chart: {game$season} Week {game$week} {game$away_team} {ifelse(game$location == 'Home','@','vs.')} {game$home_team} on {game$gameday}"),
            caption="Data from nflscrapR, Visualization by @LeeSharpeNFL")      
   
     # score display 
