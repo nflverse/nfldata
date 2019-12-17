@@ -5,6 +5,8 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays-fu
 # filename to store plays
 plays_filename = "playdata" # replace this with file where you want to play data
 baldwin_mutations <- TRUE   # do you want to apply Ben Baldwin's mutations?
+sharpe_mutations <- TRUE    # do you want to apply Lee Sharpe's mutations?
+name_fixes <- TRUE          # do you want to apply name fixes?
 comp_prob <- TRUE           # do you want to apply completion probability?
 series_data <- TRUE         # do you want to apply series data?
 
@@ -68,8 +70,10 @@ if (!exists("plays"))
   
   # additional optional modifications
   if (baldwin_mutations) plays <- apply_baldwin_mutations(plays)
+  if (sharpe_mutations) plays <- apply_sharpe_mutations(plays)
+  if (name_fixes) plays <- apply_name_fixes(plays)
   if (baldwin_mutations & comp_prob)
-    plays <- apply_completion_probability(plays)
+    plays <- apply_completion_probability(plays,plays)
   if (series_data) plays <- apply_series_data(plays)
 }
 
@@ -108,10 +112,12 @@ if (length(missing) > 0)
   
     # additional optional modifications
     if (baldwin_mutations) new_plays <- apply_baldwin_mutations(new_plays)
+    if (sharpe_mutations) new_plays <- apply_sharpe_mutations(new_plays)
+    if (name_fixes) new_plays <- apply_name_fixes(new_plays)
     if (baldwin_mutations & comp_prob)
-      new_plays <- apply_completion_probability(new_plays)
+      new_plays <- apply_completion_probability(new_plays,plays)
     if (series_data) new_plays <- apply_series_data(new_plays)
-  
+    
     # finally merge things together
     report("Merging existing plays and new plays")
     plays <- bind_rows(plays,new_plays) %>% arrange(game_id,play_id)

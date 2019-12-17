@@ -55,16 +55,8 @@ apply_colors_and_logos <- function(p,team_col="")
     {
       ch <- substr(hex,i,i)
       result <- result + ifelse(i %% 2 == 0,16,1) * case_when(
-        ch == "0" ~ 0,
-        ch == "1" ~ 1,
-        ch == "2" ~ 2,
-        ch == "3" ~ 3,
-        ch == "4" ~ 4,
-        ch == "5" ~ 5,
-        ch == "6" ~ 6,
-        ch == "7" ~ 7,
-        ch == "8" ~ 8,
-        ch == "9" ~ 9,        
+        ch == "0" ~ 0, ch == "1" ~ 1, ch == "2" ~ 2, ch == "3" ~ 3, ch == "4" ~ 4,
+        ch == "5" ~ 5, ch == "6" ~ 6, ch == "7" ~ 7, ch == "8" ~ 8, ch == "9" ~ 9,        
         ch == "a" | ch == "A" ~ 10,
         ch == "b" | ch == "B" ~ 11,
         ch == "c" | ch == "C" ~ 12,
@@ -171,20 +163,50 @@ apply_baldwin_mutations <- function(p)
       # this is shorthand so "name" is the QB (if pass) or runner (if run)
       name=ifelse(!is.na(passer_player_name),passer_player_name,rusher_player_name),
       # set yards_gained to be NA on penalties rather then 0
-      yards_gained=ifelse(play_type == "no_play",NA,yards_gained),
+      yards_gained=ifelse(play_type == "no_play" | play_type == "note",NA,yards_gained),
       # easy filter: play is 1 if a "normal" play (including penalties), or 0 otherwise
       play=ifelse(!is.na(epa) & !is.na(posteam) & 
+                    desc != "*** play under review ***" &
                     substr(desc,1,8) != "Timeout " &
-                    play_type %in% c("no_play","pass","run"),1,0),
-      # name changes
+                    play_type %in% c("no_play","pass","run"),1,0))
+  return(p)
+}
+
+# apply Lee Sharpe mutations
+apply_sharpe_mutations <- function(p)
+{
+  report("Applying Lee Sharpe mutations")
+  p <- p %>% 
+    mutate(
+      play_type=case_when(
+        is.na(posteam) ~ "note",
+        substr(desc,1,8) == "Timeout " ~ "note",
+        desc == "*** play under review ***" ~ "note",
+        TRUE ~ play_type
+      ),
+      special=ifelse(play_type %in% 
+                       c("extra_point","field_goal","kickoff","punt"),1,0))
+}
+
+# apply name fixes
+apply_name_fixes <- function(p)
+{
+  report("Applying name fixes")
+  p <- p %>% 
+    mutate(
       name=ifelse(name == "G.Minshew II","G.Minshew",name),
+      passer_player_name=ifelse(name == "G.Minshew II","G.Minshew",passer_player_name),
+      rusher_player_name=ifelse(name == "G.Minshew II","G.Minshew",rusher_player_name),
+      name=ifelse(name == "Jos.Allen","J.Allen",name),
+      passer_player_name=ifelse(name == "Jos.Allen","J.Allen",passer_player_name),
+      rusher_player_name=ifelse(name == "Jos.Allen","J.Allen",rusher_player_name),
       receiver_player_name=ifelse(receiver_player_name == "D.Chark Jr.","D.Chark",receiver_player_name))
   return(p)
 }
 
 # apply completion probability
 ## formula from Ben Baldwin
-apply_completion_probability <- function(p) 
+apply_completion_probability <- function(p,all_plays) 
 {
   report("Applying completion probability")
   
@@ -197,7 +219,7 @@ apply_completion_probability <- function(p)
   for (s in seasons)
   {
     # get data from previous three seasons
-    old_data <- plays %>%
+    old_data <- all_plays %>%
       filter(play == 1 & season >= s-3 & season <= s-1) %>% 
       filter(complete_pass == 1 | incomplete_pass == 1 | interception == 1) %>% 
       filter(air_yards >= -10 & !is.na(receiver_player_id) & !is.na(pass_location)) %>% 
@@ -241,7 +263,8 @@ apply_series_data <- function(p)
   
   # identify broken games
   broken_games <- unique(p$game_id[is.na(p$yards_gained)
-                    & !(is.na(p$play_type) | p$play_type == "no_play")])
+                    & !(is.na(p$play_type) |
+                          p$play_type %in% c("note","no_play"))])
   
   # add in series and series_success variables
   p <- p %>% mutate(series=NA,series_success=0)
@@ -257,7 +280,11 @@ apply_series_data <- function(p)
   {
     
     # progress report
-    if (r %% 10000 == 0) report(paste("Series Data:",r,"of",nrow(p),"plays"))
+    if (r %% 10000 == 0) 
+    {
+      report(paste("Series Data:",r,"of",nrow(p),"plays"))
+      saveRDS(p,file=plays_filename)
+    }
     
     # skip broken games or no-description plays
     if (p$game_id[r] %in% broken_games || is.na(p$desc[r]))
@@ -267,7 +294,7 @@ apply_series_data <- function(p)
     }
     
     # if posteam is not defined or is a timeout, mark as a non-series and skip
-    if (is.na(p$posteam[r]) || substr(p$desc[r],1,7) == "Timeout")
+    if (p$play_type[r] == "note")
     {
       p$series[r] <- NA
       p$series_success[r] <- NA
@@ -350,8 +377,8 @@ apply_series_data <- function(p)
     # if this is a real play, reset lookback to 1, otherwise increment it
     ## the looback defines the "previous" play
     ## we want to skip this for p that don't actually affect series data
-    if (is.na(p$play_type[r]) || p$play_type[r] == "no_play" ||
-        p$play_type[r] == "extra_point" || is.na(p$posteam[r]) ||
+    if (is.na(p$play_type[r]) ||
+        p$play_type[r] %in% c("no_play","extra_point","note") ||
         (!is.na(p$two_point_attempt[r]) && p$two_point_attempt[r] == 1))
     {
       lb <- lb + 1
@@ -363,7 +390,8 @@ apply_series_data <- function(p)
   
   # handle final series in the data
   lb <- 0
-  while(is.na(p$play_type[nrow(p)-lb]) || p$play_type[nrow(p)-lb] == "no_play")
+  while(is.na(p$play_type[nrow(p)-lb]) ||
+        p$play_type[nrow(p)-lb] %in% c("no_play","note"))
   {
     lb <- lb + 1
   }
