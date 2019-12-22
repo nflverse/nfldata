@@ -413,7 +413,7 @@ apply_series_data <- function(p)
 
 # double games
 ## takes input where each game has one row with teams as `away_team` and `home_team`
-## returns with each game having two rows listed as `team` and `opp`
+## returns with each game having two rows with teams listed as `team` and `opp`
 double_games <- function(g)
 {
   g1 <- g %>% 
@@ -425,6 +425,6 @@ double_games <- function(g)
     rename(team=home_team,team_score=home_score,
            opp=away_team,opp_score=away_score)
   g <- bind_rows(g1,g2) %>% 
-    arrange(gameday,gametime,game_id)
+    arrange(gameday,gametime,game_id,location)
   return(g)
 }
