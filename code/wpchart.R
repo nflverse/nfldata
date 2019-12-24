@@ -42,7 +42,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
   # grab WP data
   base_wp_data <- game_plays %>% 
     filter(!is.na(wp)) %>% 
-    filter(!(wp == 0 & grepl("Timeout",desc))) %>% 
+    filter(play_type != "note") %>% 
     mutate(s=ifelse(qtr <= 4,game_seconds_remaining,-(max_sec-game_seconds_remaining)-1),
            wp=ifelse(posteam == away_team,wp,1-wp))
   
