@@ -26,6 +26,14 @@ grep_col <- function(x,df=plays)
   return(colnames(df)[grepl(x,colnames(df))])
 }
 
+# express values as percentages
+## character vector with the "%" sign at the end
+## designed for labeling axes in plots
+make_pct <- function(x)
+{
+  return(paste0(round(100*x,0),"%"))
+}
+
 # apply logos and colors
 apply_colors_and_logos <- function(p,team_col="")
 {
@@ -71,7 +79,7 @@ apply_colors_and_logos <- function(p,team_col="")
   
   # use the primary color if brightness > 128, else grab secondary
   team_colors <- team_colors %>% 
-    mutate(use_color=ifelse(brightness(color) > 128,color,color2)) %>% 
+    mutate(use_color=ifelse(brightness(color) > 140,color,color2)) %>% 
     select(team,use_color)
   
   # add to p
@@ -111,6 +119,7 @@ fix_team_abbreviations <- function(p,old_to_new=FALSE)
         x == "LA" ~ "LAR",
         x == "SD" & old_to_new ~ "LAC",
         x == "STL" & old_to_new ~ "LAR",
+        x == "OAK" & old_to_new ~ "LV",
         TRUE ~ x)
     }
   }
