@@ -420,6 +420,9 @@ apply_series_data <- function(p)
   return(p)
 }
 
+########## FUNCTIONS TO HELP TRANSFORM DATA OR MAKE PLOTS ##########
+
+
 # double games
 ## takes input where each game has one row with teams as `away_team` and `home_team`
 ## returns with each game having two rows with teams listed as `team` and `opp`
@@ -436,4 +439,12 @@ double_games <- function(g)
   g <- bind_rows(g1,g2) %>% 
     arrange(gameday,gametime,game_id,location)
   return(g)
+}
+
+# save plot
+## takes input as a filename
+## applies my default settings for the file saved
+save_plot <- function(fn)
+{
+  ggsave(filename=fn,plot=last_plot(),dpi=500,units="in",width=12,height=9)
 }
