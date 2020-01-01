@@ -98,7 +98,7 @@ team_epa <- plays %>%
 
 This will add two columns:
 - `use_color`: The hexadecimal color value to use for that team. It will use their primary color unless it is quite dark, in which case it uses their secondary color.
-- `logo`: This is a URL that points to a transparent image file of the teams logo. Useful for `geom_image` plots.
+- `team_logo`: This is a URL that points to a transparent image file of the teams logo. Useful for `geom_image` plots.
 
 The function has an additional optional argument to tell it which column in the exisitng data to use as the team abbreviation to join against. It will default to (in this order): `team`, `posteam`, `defteam`. It will raise an error if you don't specify and none of those columns are present.
 
