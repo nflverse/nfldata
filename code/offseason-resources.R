@@ -8,7 +8,7 @@ season <- 2020
 # round 1 draft order (based on finish from previous season)
 rd <- query(glue(
   "SELECT (CASE WHEN tm.new IS NULL THEN d.team ELSE tm.new END) AS team,
-           d.wins, d.playoff, 1 AS round, d.draft_order AS pick
+           d.wins+0.5*d.ties AS wins, d.playoff, 1 AS round, d.draft_order AS pick
    FROM divisions d
    LEFT OUTER JOIN team_moves tm
       ON d.season+1 = tm.season
