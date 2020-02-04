@@ -49,7 +49,7 @@ picks <- picks %>%
   bind_rows(comp_picks) %>% 
   arrange(round,pick)
 
-# change pick numbering
+# change pick numbering so it's overall instead of resetting to 1 every round
 picks$pick <- 1:nrow(picks)
 
 # add in draft values
