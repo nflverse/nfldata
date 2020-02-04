@@ -5,7 +5,7 @@ library(glue)
 # season
 season <- 2020
 
-# round 1 (based on finish 
+# round 1 draft order (based on finish from previous season)
 rd <- query(glue(
   "SELECT (CASE WHEN tm.new IS NULL THEN d.team ELSE tm.new END) AS team,
            d.wins, d.playoff, 1 AS round, d.draft_order AS pick
