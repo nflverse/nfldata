@@ -96,6 +96,12 @@ fix_inconsistent_data_types <- function(p)
            play_id=as.numeric(play_id),
            time=substr(as.character(time),1,5),
            down=as.numeric(down),
+           air_yards=as.numeric(air_yards),
+           yards_after_catch=as.numeric(yards_after_catch),
+           comp_air_epa=as.numeric(comp_air_epa),
+           comp_yac_epa=as.numeric(comp_yac_epa),
+           air_wpa=as.numeric(air_wpa),
+           yac_wpa=as.numeric(yac_wpa),
            blocked_player_id=as.character(blocked_player_id),
            fumble_recovery_2_yards=as.numeric(fumble_recovery_2_yards),
            fumble_recovery_2_player_id=as.character(fumble_recovery_2_player_id),
@@ -178,6 +184,50 @@ apply_baldwin_mutations <- function(p)
                     desc != "*** play under review ***" &
                     substr(desc,1,8) != "Timeout " &
                     play_type %in% c("no_play","pass","run"),1,0))
+  
+  # passer_ep(a)
+  ## adjust epa for WR catches-and-fumbles as if tackled at spot of fumble
+  wr_fumbled <- p %>% 
+    filter(complete_pass == 1 & fumble_lost == 1 & !is.na(epa)) %>%
+    select(desc, game_id, play_id, epa, posteam, half_seconds_remaining, yardline_100, down, ydstogo, yards_gained, goal_to_go, ep) %>%
+    mutate(
+      #save old stuff for testing/checking
+      down_old=down,ydstogo_old=ydstogo,epa_old=epa,
+      #update yard line, down, yards to go from play result
+      yardline_100=yardline_100 - yards_gained,
+      down=ifelse(yards_gained >= ydstogo,1,down+1),
+      #if the fumble spot would have resulted in turnover on downs, need to give other team the ball and fix
+      change = ifelse(down == 5,1,0),down=ifelse(down == 5,1,down),
+      #yards to go is 10 if its a first down, update otherwise
+      ydstogo = ifelse(down == 1,10,ydstogo - yards_gained), 
+      #fix yards to go for goal line (eg can't have 1st & 10 inside opponent 10 yard line)
+      ydstogo = ifelse(yardline_100 < ydstogo,yardline_100,ydstogo), 
+      #10 yards to go if possession change
+      ydstogo = ifelse(change == 1,10,ydstogo),
+      #flip field for possession change
+      yardline_100 = ifelse(change == 1,100 - yardline_100,yardline_100),
+      goal_to_go = ifelse(yardline_100 == ydstogo,1,0),
+      ep_old = ep) %>% 
+    select(-ep,-epa)
+  # adjust epa
+  wr_fumbled_ep <- calculate_expected_points(wr_fumbled,
+                                  "half_seconds_remaining", "yardline_100", 
+                                  "down", "ydstogo", "goal_to_go") %>%
+    mutate(passer_ep=ifelse(change == 1,-ep,ep),passer_epa=ep-ep_old) %>%
+    select(game_id,play_id,passer_epa)
+  # add to p
+  p <- p %>%
+    left_join(wr_fumbled_ep,by=c("game_id","play_id")) %>% 
+    mutate(passer_epa=ifelse(!is.na(passer_epa),passer_epa,
+                             ifelse(!is.na(epa) & pass == 1,epa,NA)))
+  if ("passer_epa.y" %in% colnames(p))
+  {
+    p <- p %>% 
+      rename(passer_epa=passer_epa.y) %>% 
+      select(-passer_epa.x)
+  }
+  
+  # return p
   return(p)
 }
 
@@ -201,15 +251,23 @@ apply_sharpe_mutations <- function(p)
 apply_name_fixes <- function(p)
 {
   report("Applying name fixes")
-  p <- p %>% 
-    mutate(
-      name=ifelse(name == "G.Minshew II","G.Minshew",name),
-      passer_player_name=ifelse(name == "G.Minshew II","G.Minshew",passer_player_name),
-      rusher_player_name=ifelse(name == "G.Minshew II","G.Minshew",rusher_player_name),
-      name=ifelse(name == "Jos.Allen","J.Allen",name),
-      passer_player_name=ifelse(name == "Jos.Allen","J.Allen",passer_player_name),
-      rusher_player_name=ifelse(name == "Jos.Allen","J.Allen",rusher_player_name),
-      receiver_player_name=ifelse(receiver_player_name == "D.Chark Jr.","D.Chark",receiver_player_name))
+  p <- p %>% mutate(
+    name=case_when(
+      name == "Ryan" ~ "M.Ryan",
+      name == "Matt.Moore" ~ "M.Moore",
+      name == "Alex Smith" ~ "A.Smith",
+      name == "R.Griffin III" ~ "R.Griffin",
+      name == "Jos.Allen" ~ "J.Allen",
+      name == "G.Minshew II" ~ "G.Minshew",
+      TRUE ~ name
+    ),
+    passer_player_name=ifelse(!is.na(passer_player_name),name,NA),
+    rusher_player_name=ifelse(!is.na(rusher_player_name),name,NA),
+    receiver_player_name=case_when(
+      receiver_player_name == "D.Chark Jr." ~ "D.Chark",
+      TRUE ~ receiver_player_name
+    )
+  )
   return(p)
 }
 
@@ -223,8 +281,8 @@ apply_completion_probability <- function(p,all_plays)
   p$cp <- NA
   
   # season loop
-  ## since our data only goes back to 2009, no CP for 2009
-  seasons <- unique(p$season[p$season > 2009])
+  ## since our data only goes back to 2007, no CP for 2007
+  seasons <- unique(p$season[p$season > 2007])
   for (s in seasons)
   {
     # get data from previous three seasons
@@ -430,12 +488,14 @@ double_games <- function(g)
 {
   g1 <- g %>% 
     rename(team=away_team,team_score=away_score,
-           opp=home_team,opp_score=home_score) %>% 
+           opp=home_team,opp_score=home_score,
+           team_coach=away_coach,opp_coach=home_coach) %>% 
     mutate(location=ifelse(location == "Home","Away",location),
-           result=-1*result)
+           result=-1*result,spread_line=-1*result)
   g2 <- g %>% 
     rename(team=home_team,team_score=home_score,
-           opp=away_team,opp_score=away_score)
+           opp=away_team,opp_score=away_score,
+           team_coach=home_coach,opp_coach=away_coach)
   g <- bind_rows(g1,g2) %>% 
     arrange(gameday,gametime,game_id,location)
   return(g)
