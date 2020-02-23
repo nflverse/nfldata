@@ -83,6 +83,7 @@ Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
 - `alt_game_id`: This is a more human-readable ID. It consists of: The season, an underscore, the two-digit week number, an underscore, the away team, an underscore, the home team.
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
+- **NEW Feb 2020** `game_type`: Either `reg` for a regular season game, or `post` for a postseason game
 - `week`: The week of the NFL season the game occurs in. This will be 1-17 for the regular season, 18 for wildcard playoff games, 19 for divisional playoff games, 20 for conference championships and 21 for Super Bowls.
 - `gameday`: The date on which the game occurred.
 - `weekday`: The day of the week on which the game occcured.
@@ -97,6 +98,21 @@ Columns:
 - `gsis`: The id of the game issued by the NFL Game Statistics & Information System.
 - `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
 - `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
+- **NEW Feb 2020** `spread_line`: The spread line for the game. A positive number means the home team was favored by that many points, a negative number means the away team was favored by that many points. This lines up with the `result` column.
+- **NEW Feb 2020** `total_line`: The total line for the game.
+- **NEW Feb 2020** `roof`: What was the status of the stadium's roof? Will be one of the following values:
+  - `outdoors`: An outdoor stadium
+  - `open`: Stadium has a retractable roof which was open
+  - `closed`: Stadium has a retractable roof which was closed
+  - `dome`: An indoor stadium
+- **NEW Feb 2020** `surface`: What type of ground the game was played on
+- **NEW Feb 2020** `temp`: The temperature at the stadium (for `outdoors` and `open` only)
+- **NEW Feb 2020** `wind`: The speed of the wind in miles/hour (for `outdoors` and `open` only)
+- **NEW Feb 2020** `away_coach`: Name of the head coach of the away team
+- **NEW Feb 2020** `home_coach`: Name of the head coach of the home team
+- **NEW Feb 2020** `referee`: Name of the game's referee (head official)
+- **NEW Feb 2020** `stadium`: Name of the stadium
+
 
 <a name="logos"/>
 
@@ -112,9 +128,9 @@ plays <- plays %>%
 
 Columns:
 - `team`: The team.
-- `url`: URL of an image where a transparent team logo is located.
+- `team_logo`: URL of an image where a transparent team logo is located.
 
-This is based off [a version](https://raw.githubusercontent.com/statsbylopez/BlogPosts/master/nfl_teamlogos.csv) done by [Michael Lopez](https://twitter.com/StatsbyLopez), but includes a manual fix for the Tennessee Titans logo (which had a white rather than transparent background on Wikipedia for some reason) and also supports older team abbreviations (`SD` and `STL`).
+This is based off [a version](https://raw.githubusercontent.com/statsbylopez/BlogPosts/master/nfl_teamlogos.csv) done by [Michael Lopez](https://twitter.com/StatsbyLopez), but includes a manual fix for the Tennessee Titans logo (which had a white rather than transparent background on Wikipedia for some reason) and also supports older team abbreviations (`OAK`, `SD`, and `STL`).
 
 <a name="logos"/>
 
