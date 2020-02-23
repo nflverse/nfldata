@@ -447,3 +447,35 @@ season,team,nfl,pfr,pff,pfflabel,fo,full,location,short_location,nickname,hyphen
 2019,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
 2019,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
 2019,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2020,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2020,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2020,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2020,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2020,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2020,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2020,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2020,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2020,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2020,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2020,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2020,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2020,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2020,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2020,JAX,JAX,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2020,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2020,LAC,LAC,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2020,LAR,LA,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2020,LV,LV,RAI,23,LV,LV,Las Vegas Raiders,Las Vegas,Las Vegas,Raiders,las-vegas-raiders
+2020,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2020,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2020,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2020,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2020,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2020,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2020,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2020,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2020,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2020,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2020,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2020,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2020,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
