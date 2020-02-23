@@ -46,28 +46,14 @@ plays <- plays %>% fix_team_abbreviations(old_to_new=TRUE)
 
 ## Add in columns about game data
 
+This adds in all the columns mentioned [here](https://github.com/leesharpe/nfldata/blob/master/DATASETS.md#games).
+
 If you don't care about these, you can safely ignore them. However, I think most people will find `season` and `week` particularly helpful. I know that I do.
 
-- `alt_game_id`: This is a more human-readable way to refer to a game. It consists of: The season, an underscore, the two-digit week number, an underscore, the away team, an underscore, the home team.
-- `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
-- `week`: The week of the NFL season the game occurs in. This will be **1**-**17** for the regular season, **18** for wildcard playoff games, **19** for divisional playoff games, **20** for conference championships and **21** for Super Bowls.
-- `gameday`: The date on which the game occurred.
-- `weekday`: The day of the week on which the game occcured.
-- `gametime`: The kickoff time of the game. This is represented in 24-hour time and the Eastern time zone, regardless of what time zone the game was being played in.
-- `away_team`: The away team.
-- `away_score`: The number of points the away team scored (at end of game). Is NA for games which haven't yet been played.
-- `home_team`: The home team. Note that this contains the designated home team for games which no team is playing at home such as Super Bowls or NFL International games.
-- `home_score`: The number of points the home team scored (at end of game). Is NA for games which haven't yet been played.
-- `location`: Either **Home** if the home team is playing in their home stadium, or **Neutral** if the game is being played at a neutral location. This still shows as **Home** for games between the Giants and Jets even though they share the same home stadium.
-- `result`: The number of points the home team scored minus the number of points the visiting team scored (at end of game). Equals **h_score - v_score**. Is NA for games which haven't yet been played. Convenient for evaluating against the spread bets.
-- `total`: The sum of each team's score in the game (at end of game). Equals **h_score + v_score**. Is NA for games which haven't yet been played. Convenient for evaluating over/under total bets.
-- `gsis`: The id of the game issued by the NFL Game Statistics & Information System.
-- `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
-- `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
 
 <a name="apply_baldwin"/>
 
-## Add in columns from [Ben Baldwin's excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+## Add in columns from [Ben Baldwin's code](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
 
 If you don't want to add these columns, you can set the input for this to FALSE at the top of the file. It's done through the function `apply_baldwin_mutations()`.
 
@@ -80,10 +66,11 @@ If you don't want to add these columns, you can set the input for this to FALSE 
 - `name`: Equal to `passer_player_name` unless that is NA, in which case it is equal to `rusher_player_name`
 - `yards_gained`: Fixed the existing nflscrapR column so the value is NA for penalties rather than **0**.
 - `play`: Is this a "normal" play (including penalties)? Specifically, are both `epa` and `posteam` not NA, and is the `play_type` either **no_play**, **pass**, or **run**?
+- **NEW Feb 2020** `passer_epa`: This is the epa value to use if focused only on the passer. Usually it's equal to `epa`, but it avoids punishing the passer for plays where the receiver catches the ball but fumbles.
 
 <a name="apply_colors_logos"/>
 
-## Add team logos and team colors   (NEW as of 2019-11-10)
+## Add team logos and team colors
 
 For making NFL plots, often you want logos and colors. I usually just added them individually, but now I made a function `apply_colors_and_logos()` to just easily add them as follows:
 
@@ -104,7 +91,7 @@ The function has an additional optional argument to tell it which column in the 
 
 <a name="apply_cp"/>
 
-## Add in completion probability   (NEW as of 2019-11-10)
+## Add in completion probability
 
 *Note: This requires the Ben Baldwin mutations from above*
 
@@ -130,7 +117,9 @@ In creating the `cp` column, I used Ben's model trained as follows:
 
 <a name="apply_series"/>
 
-## Add in columns for series data
+## Add in columns for series data 
+
+**NEW in Feb 2020** This now defaults to FALSE.
 
 If you don't want to add these columns, you can set the input for this to FALSE at the top of the file. It's done through the function `apply_series_data()`.
 
