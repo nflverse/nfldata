@@ -503,6 +503,7 @@ fetch_otc_cap_data <- function()
     rename(team=V1,cap_space_actual=V2,cap_space=V3,
            num_players=V4,active_cap_spend=V5,dead_money=V6)
   result <- teams %>% 
+    filter(season == max(season)) %>% 
     select(team,nickname) %>% 
     inner_join(cap,by=c("nickname"="team")) %>% 
     select(-nickname)
