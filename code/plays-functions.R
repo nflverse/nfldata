@@ -167,7 +167,7 @@ apply_baldwin_mutations <- function(p)
       # fix player name fields so they aren't NA on penalty plays
       ## code for this from Keenan Abdoo
       passer_player_name=ifelse(play_type == "no_play" & pass == 1, 
-                                str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s(( pass)|(sack)|(scramble)))"),
+                                str_extract(desc,"(?<=\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?(?=\\s((pass)|(sack)|(scramble)))"),
                                 passer_player_name),
       receiver_player_name=ifelse(play_type == "no_play" & str_detect(desc," pass"), 
                                   str_extract(desc,"(?<=to\\s)[A-Z][a-z]*\\.\\s?[A-Z][A-z]+(\\s(I{2,3})|(IV))?"),
