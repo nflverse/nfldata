@@ -209,22 +209,28 @@ apply_baldwin_mutations <- function(p)
       goal_to_go = ifelse(yardline_100 == ydstogo,1,0),
       ep_old = ep) %>% 
     select(-ep,-epa)
-  # adjust epa
-  wr_fumbled_ep <- calculate_expected_points(wr_fumbled,
-                                  "half_seconds_remaining", "yardline_100", 
-                                  "down", "ydstogo", "goal_to_go") %>%
-    mutate(passer_ep=ifelse(change == 1,-ep,ep),passer_epa=ep-ep_old) %>%
-    select(game_id,play_id,passer_epa)
-  # add to p
-  p <- p %>%
-    left_join(wr_fumbled_ep,by=c("game_id","play_id")) %>% 
-    mutate(passer_epa=ifelse(!is.na(passer_epa),passer_epa,
-                             ifelse(!is.na(epa) & pass == 1,epa,NA)))
-  if ("passer_epa.y" %in% colnames(p))
+  # were there any WR fumbles?
+  if (nrow(wr_fumbled) > 0)
   {
-    p <- p %>% 
-      rename(passer_epa=passer_epa.y) %>% 
-      select(-passer_epa.x)
+    # calculate epa as if reciever did not fumble
+    wr_fumbled_ep <- calculate_expected_points(wr_fumbled,
+                                    "half_seconds_remaining", "yardline_100", 
+                                    "down", "ydstogo", "goal_to_go") %>%
+      mutate(passer_ep=ifelse(change == 1,-ep,ep),passer_epa=ep-ep_old) %>%
+      select(game_id,play_id,passer_epa)
+    # add to p
+    p <- p %>%
+      left_join(wr_fumbled_ep,by=c("game_id","play_id")) %>% 
+      mutate(passer_epa=ifelse(!is.na(passer_epa),passer_epa,
+                               ifelse(!is.na(epa) & pass == 1,epa,NA)))
+    if ("passer_epa.y" %in% colnames(p))
+    {
+      p <- p %>% 
+        rename(passer_epa=passer_epa.y) %>% 
+        select(-passer_epa.x)
+    }
+  } else {
+    p$passer_epa <- p$epa
   }
   
   # return p
@@ -309,8 +315,8 @@ apply_completion_probability <- function(p,all_plays)
     # merge into p
     p <- p %>%
       left_join(new_data,by=c("game_id","play_id")) %>% 
-      mutate(cp=ifelse(!is.na(cp.y),cp.y,cp.x)) %>% 
-      select(-cp.x,-cp.y)
+        mutate(cp=ifelse(!is.na(cp.y),cp.y,cp.x)) %>% 
+        select(-cp.x,-cp.y)
   }
   return(p)
 }

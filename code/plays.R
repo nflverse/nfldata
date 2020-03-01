@@ -1,4 +1,4 @@
-source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays-functions.R")
+#source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays-functions.R")
 
 ########## INPUTS ##########
 
