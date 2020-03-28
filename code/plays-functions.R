@@ -121,9 +121,15 @@ fix_team_abbreviations <- function(p,old_to_new=FALSE)
     if (typeof(x) == "character")
     {
       p[,col] <- case_when(
+        x == "ARZ" ~ "ARI",
+        x == "BLT" ~ "BAL",
+        x == "CLV" ~ "CLE",
+        x == "HST" ~ "HOU",
         x == "JAC" ~ "JAX",
-        x == "LA" ~ "LAR",
-        x == "SD" & old_to_new ~ "LAC",
+        x == "LA"  ~ "LAR",
+        x == "SD"  & old_to_new ~ "LAC",
+        x == "SL"  & old_to_new ~ "LAR",
+        x == "SL"  & !old_to_new ~ "STL",
         x == "STL" & old_to_new ~ "LAR",
         x == "OAK" & old_to_new ~ "LV",
         TRUE ~ x)
