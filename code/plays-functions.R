@@ -486,66 +486,6 @@ apply_series_data <- function(p)
 
 ########## FUNCTIONS TO HELP TRANSFORM DATA OR MAKE PLOTS ##########
 
-# get data from over the cap
-fetch_tankathon_draft_order <- function()
-{
-  teams <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teams.csv")
-  otc_raw <- readLines("https://overthecap.com/salary-cap-space/")
-  otc_text <- otc_raw[56]
-  otc_text <- gsub('</tr></thead><tbody><tr class="sortable">',"\n",otc_text)
-  otc_text <- gsub('</tr><tr class="sortable">',"\n",otc_text)
-  otc_text <- gsub("<[^>]+>","%",otc_text)
-  otc_text <- gsub("%+","%",otc_text)
-  otc_text <- gsub(",","",otc_text)
-  otc_text <- gsub("\\$","",otc_text)
-  otc_text <- gsub("\\(","-",otc_text)
-  otc_text <- gsub(")","",otc_text)
-  otc_split <- str_split(otc_text,"\n")[[1]][2:33]
-  otc_split <- gsub("^%","",otc_split)
-  otc_split <- gsub("%$","",otc_split)
-  cap <- as_tibble(str_split_fixed(otc_split,"%",6)) %>% 
-    mutate(V2=as.numeric(V2),V3=as.numeric(V3),V4=as.numeric(V4),
-           V5=as.numeric(V5),V6=as.numeric(V6)) %>% 
-    rename(team=V1,cap_space_actual=V2,cap_space=V3,
-           num_players=V4,active_cap_spend=V5,dead_money=V6)
-  result <- teams %>% 
-    filter(season == max(season)) %>% 
-    select(team,nickname) %>% 
-    inner_join(cap,by=c("nickname"="team")) %>% 
-    select(-nickname)
-  return(result)
-}
-
-# get data from over the cap
-fetch_otc_cap_data <- function()
-{
-  teams <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teams.csv")
-  otc_raw <- readLines("https://overthecap.com/salary-cap-space/")
-  otc_text <- paste(otc_raw[51:54],collapse="")
-  otc_text <- gsub('</tr></thead><tbody><tr class="sortable">',"\n",otc_text)
-  otc_text <- gsub('</tr><tr class="sortable">',"\n",otc_text)
-  otc_text <- gsub("<[^>]+>","%",otc_text)
-  otc_text <- gsub("%+","%",otc_text)
-  otc_text <- gsub(",","",otc_text)
-  otc_text <- gsub("\\$","",otc_text)
-  otc_text <- gsub("\\(","-",otc_text)
-  otc_text <- gsub(")","",otc_text)
-  otc_split <- str_split(otc_text,"\n")[[1]][2:33]
-  otc_split <- gsub("^%","",otc_split)
-  otc_split <- gsub("%$","",otc_split)
-  cap <- as_tibble(str_split_fixed(otc_split,"%",6)) %>% 
-    mutate(V2=as.numeric(V2),V3=as.numeric(V3),V4=as.numeric(V4),
-           V5=as.numeric(V5),V6=as.numeric(V6)) %>% 
-    rename(team=V1,cap_space_actual=V2,cap_space=V3,
-           num_players=V4,active_cap_spend=V5,dead_money=V6)
-  result <- teams %>% 
-    filter(season == max(season)) %>% 
-    select(team,nickname) %>% 
-    inner_join(cap,by=c("nickname"="team")) %>% 
-    select(-nickname)
-  return(result)
-}
-
 # double games
 ## takes input where each game has one row with teams as `away_team` and `home_team`
 ## returns with each game having two rows with teams listed as `team` and `opp`
