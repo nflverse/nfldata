@@ -98,6 +98,7 @@ Columns:
 - `gsis`: The id of the game issued by the NFL Game Statistics & Information System.
 - `pfr`: The id of the game issued by [Pro Football Reference](https://www.pro-football-reference.com/)
 - `pff`: The id of the game issued by [Pro Football Focus](https://www.pff.com/)
+- **NEW Apr 2020** `espn`: The id of the game issued by [ESPN](https://www.espn.com/)
 - **NEW Feb 2020** `spread_line`: The spread line for the game. A positive number means the home team was favored by that many points, a negative number means the away team was favored by that many points. This lines up with the `result` column.
 - **NEW Feb 2020** `total_line`: The total line for the game.
 - **NEW Feb 2020** `roof`: What was the status of the stadium's roof? Will be one of the following values:
