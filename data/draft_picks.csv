@@ -5059,11 +5059,11 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2019,DAL,7,218,WebeMi00,Mike Weber,M.Weber,O,RB,RB
 2019,PIT,7,219,GrayDe01,Derwin Gray,D.Gray,O,OL,OT
 2019,HOU,7,220,GillCu00,Cullen Gillaspia,C.Gillaspia,O,RB,RB
-2019,CLE,7,221,LewiDo00,Donnie Lewis Jr.,D.Jr.,D,DB,CB
-2019,CHI,7,222,WhytKe00,Kerrith Whyte Jr.,K.Jr.,O,RB,RB
+2019,CLE,7,221,LewiDo00,Donnie Lewis Jr.,D.Lewis,D,DB,CB
+2019,CHI,7,222,WhytKe00,Kerrith Whyte Jr.,K.Whyte,O,RB,RB
 2019,CIN,7,223,BrowJo04,Jordan Brown,J.Brown,D,DB,CB
 2019,DET,7,224,NautIs00,Isaac Nauta,I.Nauta,O,TE,TE
-2019,BUF,7,225,JohnDa10,Darryl Johnson Jr.,D.Jr.,D,DL,DE
+2019,BUF,7,225,JohnDa10,Darryl Johnson Jr.,D.Johnson,D,DL,DE
 2019,GB,7,226,SummTy00,Ty Summers,T.Summers,D,LB,LB
 2019,WAS,7,227,MoreJi00,Jimmy Moreland,J.Moreland,D,DB,CB
 2019,BUF,7,228,SweeTo00,Tommy Sweeney,T.Sweeney,O,TE,TE
@@ -5102,9 +5102,9 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,CAR,1,7,BrowDe05,Derrick Brown,D.Brown,D,DL,DT
 2020,ARI,1,8,SimmIs00,Isaiah Simmons,I.Simmons,D,LB,LB
 2020,JAX,1,9,HendCJ00,C.J. Henderson,C.Henderson,D,DB,CB
-2020,CLE,1,10,WillJe04,Jedrick Wills Jr.,J.Jr.,O,OL,OT
+2020,CLE,1,10,WillJe04,Jedrick Wills Jr.,J.Wills,O,OL,OT
 2020,NYJ,1,11,BectMe00,Mekhi Becton,M.Becton,O,OL,OT
-2020,VEG,1,12,RuggHe00,Henry Ruggs III,H.III,O,WR,WR
+2020,VEG,1,12,RuggHe00,Henry Ruggs III,H.Ruggs,O,WR,WR
 2020,TB,1,13,WirfTr00,Tristan Wirfs,T.Wirfs,O,OL,OT
 2020,SF,1,14,KinlJa00,Javon Kinlaw,J.Kinlaw,D,DL,DT
 2020,DEN,1,15,JeudJe00,Jerry Jeudy,J.Jeudy,O,WR,WR
@@ -5126,7 +5126,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,MIN,1,31,GladJe00,Jeff Gladney,J.Gladney,D,DB,CB
 2020,KC,1,32,EdwaCl00,Clyde Edwards-Helaire,C.Edwards-Helaire,O,RB,RB
 2020,CIN,2,33,HiggTe00,Tee Higgins,T.Higgins,O,WR,WR
-2020,IND,2,34,PittMi01,Michael Pittman Jr.,M.Jr.,O,WR,WR
+2020,IND,2,34,PittMi01,Michael Pittman Jr.,M.Pittman,O,WR,WR
 2020,DET,2,35,SwifDA00,D'Andre Swift,D.Swift,O,RB,RB
 2020,NYG,2,36,McKiXa00,Xavier McKinney,X.McKinney,D,DB,S
 2020,NE,2,37,DuggKy00,Kyle Dugger,K.Dugger,D,DB,S
@@ -5137,7 +5137,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,JAX,2,42,ShenLa00,Laviska Shenault Jr.,L.Jr.,O,WR,WR
 2020,CHI,2,43,KmetCo00,Cole Kmet,C.Kmet,O,TE,TE
 2020,CLE,2,44,DelpGr00,Grant Delpit,G.Delpit,D,DB,S
-2020,TB,2,45,WinfAn00,Antoine Winfield Jr.,A.Jr.,D,DB,S
+2020,TB,2,45,WinfAn00,Antoine Winfield Jr.,A.Winfield,D,DB,S
 2020,DEN,2,46,HamlKJ00,KJ Hamler,K.Hamler,O,WR,WR
 2020,ATL,2,47,DaviMa01,Marlon Davidson,M.Davidson,D,DL,DE
 2020,SEA,2,48,TaylDa00,Darrell Taylor,D.Taylor,D,DL,DE
@@ -5155,7 +5155,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,NE,2,60,UcheJo00,Josh Uche,J.Uche,D,LB,LB
 2020,TEN,2,61,FultKr00,Kristian Fulton,K.Fulton,D,DB,CB
 2020,GB,2,62,DillAJ00,AJ Dillon,A.Dillon,O,RB,RB
-2020,KC,2,63,GayJWi00,Willie Gay Jr.,W.Jr.,D,LB,LB
+2020,KC,2,63,GayJWi00,Willie Gay Jr.,W.Gay,D,LB,LB
 2020,CAR,2,64,ChinJe00,Jeremy Chinn,J.Chinn,D,DB,S
 2020,CIN,3,65,WilsLo00,Logan Wilson,L.Wilson,D,LB,LB
 2020,WAS,3,66,GibsAn00,Antonio Gibson,A.Gibson,O,RB,RB
@@ -5172,10 +5172,10 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,DEN,3,77,OjemMi00,Michael Ojemudia,M.Ojemudia,D,DB,CB
 2020,ATL,3,78,HennMa00,Matt Hennessy,M.Hennessy,O,OL,C
 2020,NYJ,3,79,ZuniJa00,Jabari Zuniga,J.Zuniga,D,DL,DE
-2020,VEG,3,80,BowdLy00,Lynn Bowden Jr.,L.Jr.,O,WR,WR
+2020,VEG,3,80,BowdLy00,Lynn Bowden Jr.,L.Bowden,O,WR,WR
 2020,VEG,3,81,EdwaBr01,Bryan Edwards,B.Edwards,O,WR,WR
 2020,DAL,3,82,GallNe00,Neville Gallimore,N.Gallimore,D,DL,DT
-2020,DEN,3,83,CushLl00,Lloyd Cushenberry III,L.III,O,OL,C
+2020,DEN,3,83,CushLl00,Lloyd Cushenberry III,L.Cushenberry,O,OL,C
 2020,LAR,3,84,LewiTe00,Terrell Lewis,T.Lewis,D,LB,LB
 2020,IND,3,85,BlacJu01,Julian Blackmon,J.Blackmon,D,DB,S
 2020,BUF,3,86,MossZa00,Zack Moss,Z.Moss,O,RB,RB
@@ -5205,7 +5205,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,NYG,4,110,HolmDa01,Darnay Holmes,D.Holmes,D,DB,CB
 2020,MIA,4,111,KindSo00,Solomon Kindley,S.Kindley,O,OL,G
 2020,LAC,4,112,KellJo01,Joshua Kelley,J.Kelley,O,RB,RB
-2020,CAR,4,113,PridTr00,Troy Pride Jr.,T.Jr.,D,DB,CB
+2020,CAR,4,113,PridTr00,Troy Pride Jr.,T.Pride,D,DB,CB
 2020,ARI,4,114,FotuLe00,Leki Fotu,L.Fotu,D,DL,DT
 2020,CLE,4,115,BryaHa00,Harrison Bryant,H.Bryant,O,TE,TE
 2020,JAX,4,116,BartBe00,Ben Bartch,B.Bartch,O,OL,G
@@ -5215,8 +5215,8 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,NYJ,4,120,PeriLa00,La'Mical Perine,L.Perine,O,RB,RB
 2020,DET,4,121,StenLo00,Logan Stenberg,L.Stenberg,O,OL,G
 2020,IND,4,122,EasoJa00,Jacob Eason,J.Eason,O,QB,QB
-2020,DAL,4,123,RobiRe00,Reggie Robinson II,R.II,D,DB,CB
-2020,PIT,4,124,McFaAn00,Anthony McFarland Jr.,A.Jr.,O,RB,RB
+2020,DAL,4,123,RobiRe00,Reggie Robinson II,R.Robinson,D,DB,CB
+2020,PIT,4,124,McFaAn00,Anthony McFarland Jr.,A.McFarland,O,RB,RB
 2020,NYJ,4,125,MorgJa00,James Morgan,J.Morgan,O,QB,QB
 2020,HOU,4,126,HeckCh00,Charlie Heck,C.Heck,O,OL,OT
 2020,PHI,4,127,WallKV00,K'Von Wallace,K.Wallace,D,DB,S
@@ -5244,7 +5244,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,IND,5,149,PintDa00,Danny Pinter,D.Pinter,O,OL,G
 2020,NYG,5,150,LemiSh00,Shane Lemieux,S.Lemieux,O,OL,G
 2020,LAC,5,151,ReedJo03,Joe Reed,J.Reed,O,WR,WR
-2020,CAR,5,152,RobiKe02,Kenny Robinson Jr.,K.Jr.,D,DB,S
+2020,CAR,5,152,RobiKe02,Kenny Robinson Jr.,K.Robinson,D,DB,S
 2020,SF,5,153,McKiCo00,Colton McKivitz,C.McKivitz,O,OL,OT
 2020,MIA,5,154,StroJa02,Jason Strowbridge,J.Strowbridge,D,DL,DE
 2020,CHI,5,155,GipsTr00,Trevis Gipson,T.Gipson,D,DL,DE
@@ -5262,7 +5262,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,BUF,5,167,FromJa00,Jake Fromm,J.Fromm,O,QB,QB
 2020,PHI,5,168,HighJo00,John Hightower,J.Hightower,O,WR,WR
 2020,MIN,5,169,HandHa00,Harrison Hand,H.Hand,D,DB,CB
-2020,BAL,5,170,WashBr01,Broderick Washington Jr.,B.Jr.,D,DL,DT
+2020,BAL,5,170,WashBr01,Broderick Washington Jr.,B.Washington,D,DL,DT
 2020,HOU,5,171,CoulIs00,Isaiah Coulter,I.Coulter,O,WR,WR
 2020,DET,5,172,HuntJa01,Jason Huntley,J.Huntley,O,RB,RB
 2020,CHI,5,173,MoonDa00,Darnell Mooney,D.Mooney,O,WR,WR
@@ -5290,7 +5290,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,NE,6,195,HerrJu00,Justin Herron,J.Herron,O,OL,OT
 2020,PHI,6,196,BradSh00,Shaun Bradley,S.Bradley,D,LB,LB
 2020,DET,6,197,PeniJo00,John Penisini,J.Penisini,D,DL,DT
-2020,PIT,6,198,BrooAn00,Antoine Brooks Jr.,A.Jr.,D,DB,S
+2020,PIT,6,198,BrooAn00,Antoine Brooks Jr.,A.Brooks,D,DB,S
 2020,LAR,6,199,FullJo01,Jordan Fuller,J.Fuller,D,DB,S
 2020,PHI,6,200,WatkQu00,Quez Watkins,Q.Watkins,O,WR,WR
 2020,BAL,6,201,ProcJa00,James Proche,J.Proche,O,WR,WR
@@ -5341,7 +5341,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,MIA,7,246,PerrMa00,Malcolm Perry,M.Perry,O,RB,RB
 2020,NYG,7,247,WillCh07,Chris Williamson,C.Williamson,D,DB,CB
 2020,LAR,7,248,SlomSa00,Sam Sloman,S.Sloman,S,K,K
-2020,MIN,7,249,ColeBr01,Brian Cole II,B.II,D,DB,S
+2020,MIN,7,249,ColeBr01,Brian Cole II,B.Cole,D,DB,S
 2020,LAR,7,250,AnchTr00,Tremayne Anchrum,T.Anchrum,O,OL,G
 2020,SEA,7,251,SullSt00,Stephen Sullivan,S.Sullivan,O,TE,TE
 2020,DEN,7,252,ClevTy00,Tyrie Cleveland,T.Cleveland,O,WR,WR
