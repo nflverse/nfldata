@@ -5104,14 +5104,14 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,JAX,1,9,HendCJ00,C.J. Henderson,C.Henderson,D,DB,CB
 2020,CLE,1,10,WillJe04,Jedrick Wills Jr.,J.Wills,O,OL,OT
 2020,NYJ,1,11,BectMe00,Mekhi Becton,M.Becton,O,OL,OT
-2020,VEG,1,12,RuggHe00,Henry Ruggs III,H.Ruggs,O,WR,WR
+2020,LV,1,12,RuggHe00,Henry Ruggs III,H.Ruggs,O,WR,WR
 2020,TB,1,13,WirfTr00,Tristan Wirfs,T.Wirfs,O,OL,OT
 2020,SF,1,14,KinlJa00,Javon Kinlaw,J.Kinlaw,D,DL,DT
 2020,DEN,1,15,JeudJe00,Jerry Jeudy,J.Jeudy,O,WR,WR
 2020,ATL,1,16,TerrAJ00,AJ Terrell,A.Terrell,D,DB,CB
 2020,DAL,1,17,LambCe00,CeeDee Lamb,C.Lamb,O,WR,WR
 2020,MIA,1,18,JackAu00,Austin Jackson,A.Jackson,O,OL,OT
-2020,VEG,1,19,ArneDa00,Damon Arnette,D.Arnette,D,DB,CB
+2020,LV,1,19,ArneDa00,Damon Arnette,D.Arnette,D,DB,CB
 2020,JAX,1,20,ChaiKL00,K'Lavon Chaisson,K.Chaisson,D,DL,DE
 2020,PHI,1,21,ReagJa00,Jalen Reagor,J.Reagor,O,WR,WR
 2020,MIN,1,22,JeffJu00,Justin Jefferson,J.Jefferson,O,WR,WR
@@ -5172,8 +5172,8 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,DEN,3,77,OjemMi00,Michael Ojemudia,M.Ojemudia,D,DB,CB
 2020,ATL,3,78,HennMa00,Matt Hennessy,M.Hennessy,O,OL,C
 2020,NYJ,3,79,ZuniJa00,Jabari Zuniga,J.Zuniga,D,DL,DE
-2020,VEG,3,80,BowdLy00,Lynn Bowden Jr.,L.Bowden,O,WR,WR
-2020,VEG,3,81,EdwaBr01,Bryan Edwards,B.Edwards,O,WR,WR
+2020,LV,3,80,BowdLy00,Lynn Bowden Jr.,L.Bowden,O,WR,WR
+2020,LV,3,81,EdwaBr01,Bryan Edwards,B.Edwards,O,WR,WR
 2020,DAL,3,82,GallNe00,Neville Gallimore,N.Gallimore,D,DL,DT
 2020,DEN,3,83,CushLl00,Lloyd Cushenberry III,L.Cushenberry,O,OL,C
 2020,LAR,3,84,LewiTe00,Terrell Lewis,T.Lewis,D,LB,LB
@@ -5192,7 +5192,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,CLE,3,97,PhilJa01,Jacob Phillips,J.Phillips,D,LB,LB
 2020,BAL,3,98,HarrMa06,Malik Harrison,M.Harrison,D,LB,LB
 2020,NYG,3,99,PearMa00,Matt Peart,M.Peart,O,OL,OT
-2020,VEG,3,100,MuseTa00,Tanner Muse,T.Muse,D,DB,S
+2020,LV,3,100,MuseTa00,Tanner Muse,T.Muse,D,DB,S
 2020,NE,3,101,KeenDa00,Dalton Keene,D.Keene,O,TE,TE
 2020,PIT,3,102,HighAl02,Alex Highsmith,A.Highsmith,D,LB,LB
 2020,PHI,3,103,TaylDa01,Davion Taylor,D.Taylor,D,LB,LB
@@ -5201,7 +5201,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,BAL,3,106,PhilTy00,Tyre Phillips,T.Phillips,O,OL,OT
 2020,CIN,4,107,DaviAk01,Akeem Davis-Gaither,A.Davis-Gaither,D,LB,LB
 2020,WAS,4,108,CharSa00,Saahdiq Charles,S.Charles,O,OL,OT
-2020,VEG,4,109,SimpJo00,John Simpson,J.Simpson,O,OL,G
+2020,LV,4,109,SimpJo00,John Simpson,J.Simpson,O,OL,G
 2020,NYG,4,110,HolmDa01,Darnay Holmes,D.Holmes,D,DB,CB
 2020,MIA,4,111,KindSo00,Solomon Kindley,S.Kindley,O,OL,G
 2020,LAC,4,112,KellJo01,Joshua Kelley,J.Kelley,O,RB,RB
@@ -5231,7 +5231,7 @@ season,team,round,pick,playerid,full_name,name,side,category,position
 2020,LAR,4,136,HopkBr01,Brycen Hopkins,B.Hopkins,O,TE,TE
 2020,JAX,4,137,ScotJo00,Josiah Scott,J.Scott,D,DB,CB
 2020,KC,4,138,SneeLJ00,L'Jarius Sneed,L.Sneed,D,DB,S
-2020,VEG,4,139,RobeAm00,Amik Robertson,A.Robertson,D,DB,CB
+2020,LV,4,139,RobeAm00,Amik Robertson,A.Robertson,D,DB,CB
 2020,JAX,4,140,QuarSh00,Shaquille Quarterman,S.Quarterman,D,LB,LB
 2020,HOU,4,141,ReidJo00,John Reid,J.Reid,D,DB,CB
 2020,WAS,4,142,GandAn00,Antonio Gandy-Golden,A.Gandy-Golden,O,WR,WR
