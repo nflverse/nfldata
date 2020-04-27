@@ -83,7 +83,12 @@ Columns:
 - `game_id`: The ID of the game as assigned by the NFL. Note that this value matches the `game_id` field in nflscrapR if you wish to join the data.
 - `alt_game_id`: This is a more human-readable ID. It consists of: The season, an underscore, the two-digit week number, an underscore, the away team, an underscore, the home team.
 - `season`: The year of the NFL season. This reperesents the whole season, so regular season games that happen in January as well as playoff games will occur in the year after this number.
-- **NEW Feb 2020** `game_type`: Either `reg` for a regular season game, or `post` for a postseason game
+- **UPDATED Apr 2020** `game_type`: What type of game? One of the following values:
+  - `REG`: a regular season game
+  - `WC`: a wildcard playoff game
+  - `DIV`: a divisional round playoff game
+  - `CON`: a conference championship
+  - `SB': a Super Bowl
 - `week`: The week of the NFL season the game occurs in. This will be 1-17 for the regular season, 18 for wildcard playoff games, 19 for divisional playoff games, 20 for conference championships and 21 for Super Bowls.
 - `gameday`: The date on which the game occurred.
 - `weekday`: The day of the week on which the game occcured.
