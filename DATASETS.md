@@ -9,6 +9,7 @@ Here is detailed information on each data set.
 - [Rosters](#rosters)
 - [Standings](#standings)
 - [Teams](#teams)
+- [Trades](#trades)
 
 <a name="draft_picks"/>
 
@@ -232,3 +233,25 @@ Columns:
 - `short_location`: The part of the team name that identifies where it plays, except `Los Angeles` is shortened to `LA` and `New York` is shortened to `NY`. Uses `St. Louis` for Saint Louis. Still includes the nickname if it is ambiguous.
 - `nickname`: The part of the team name that identifies its mascot.
 - `hyphenated`: The same as `full`, except everything is lower case and spaces are replaced with hyphens. Uses older locations for team which have moved. This is designed for sites where you need to put the team in the URL to scrape.
+
+## Trades
+To import:
+
+``` r
+trades <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/trades.csv")
+```
+Credit to [Pro Football Reference](https://www.pro-football-reference.com) for this information. Data begins with trades affecting the 2011 NFL Draft.
+
+Columns:
+- `trade_id`: Arbitrary integer identifying the trade. 
+- `season`: The season in which the trade was executed.
+- `trade_date`: The date the trade was executed.
+- `gave`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. 
+It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
+- `received`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
+- `pick_season`: The season of the draft in which this traded pick occurs. `NA` if this row refers to a traded player.
+- `pick_round`: The round of the draft in which this traded pick occurs. `NA` if this row referring to a traded player.
+- `pick_number`: The pick of the draft in which this traded pick occurs. Note that this may not have been known at the time the trade was executed.
+- `conditional`: Either `1` if this pick was conditional on some other criteria being met or `0` otherwise. This is a `1` regardless of whether the condition ended up being true.
+- `pfr_id`: The ID used by Pro Football Reference to refer to the player.
+- `pfr_name`: The player's name as shown by Pro Football Reference.
