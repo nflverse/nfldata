@@ -248,7 +248,7 @@ Columns:
 - `trade_date`: The date the trade was executed.
 - `gave`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. 
 It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
-- `received`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
+- `received`: The team who received this pick or player. This is the current abbrevation for this franchise, not the one it had at the time. It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
 - `pick_season`: The season of the draft in which this traded pick occurs. `NA` if this row refers to a traded player.
 - `pick_round`: The round of the draft in which this traded pick occurs. `NA` if this row referring to a traded player or round number is unknown.
 - `pick_number`: The pick of the draft in which this traded pick occurs. `NA` if this row referring to a traded player or pick number is unknown. Note that this may not have been known at the time the trade was executed.
