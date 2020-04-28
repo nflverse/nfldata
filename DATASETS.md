@@ -243,7 +243,7 @@ trades <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/d
 Credit to [Pro Football Reference](https://www.pro-football-reference.com) for this information. Data begins with trades affecting the 2011 NFL Draft.
 
 Columns:
-- `trade_id`: Arbitrary integer identifying the trade. 
+- `trade_id`: Arbitrary integer identifying the trade. All rows with the same number are part of the same trade.
 - `season`: The season in which the trade was executed.
 - `trade_date`: The date the trade was executed.
 - `gave`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. 
