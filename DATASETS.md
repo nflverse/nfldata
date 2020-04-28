@@ -250,8 +250,8 @@ Columns:
 It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
 - `received`: The team who gave this pick or player up. This is the current abbrevation for this franchise, not the one it had at the time. It consistently favors `JAX` over `JAC`, and `LAR` over `LA`.
 - `pick_season`: The season of the draft in which this traded pick occurs. `NA` if this row refers to a traded player.
-- `pick_round`: The round of the draft in which this traded pick occurs. `NA` if this row referring to a traded player.
-- `pick_number`: The pick of the draft in which this traded pick occurs. Note that this may not have been known at the time the trade was executed.
+- `pick_round`: The round of the draft in which this traded pick occurs. `NA` if this row referring to a traded player or round number is unknown.
+- `pick_number`: The pick of the draft in which this traded pick occurs. `NA` if this row referring to a traded player or pick number is unknown. Note that this may not have been known at the time the trade was executed.
 - `conditional`: Either `1` if this pick was conditional on some other criteria being met or `0` otherwise. This is a `1` regardless of whether the condition ended up being true.
-- `pfr_id`: The ID used by Pro Football Reference to refer to the player.
-- `pfr_name`: The player's name as shown by Pro Football Reference.
+- `pfr_id`: The ID used by Pro Football Reference to refer to the player. If `pick_season` is `NA`, this player was part of the trade directly. Otherwise, this player was the player chosen for this pick. Another team may have chosen the player if the pick was subsequently traded.
+- `pfr_name`: The player's name as shown by Pro Football Reference. If `pick_season` is `NA`, this player was part of the trade directly. Otherwise, this player was the player chosen for this pick. Another team may have chosen the player if the pick was subsequently traded.
