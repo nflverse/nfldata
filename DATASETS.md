@@ -240,7 +240,7 @@ To import:
 ``` r
 trades <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/trades.csv")
 ```
-Credit to [Pro Football Reference](https://www.pro-football-reference.com) for this information. Data begins with trades occurring in 2010 or later than affected the 2011 or future drafts.
+Credit to [Pro Football Reference](https://www.pro-football-reference.com) for this information. Data begins with trades occurring 2010-05-01 or later
 
 Columns:
 - `trade_id`: Arbitrary integer identifying the trade. All rows with the same number are part of the same trade.
