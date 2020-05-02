@@ -1,481 +1,609 @@
-season,team,nfl,pfr,pff,pfflabel,fo,full,location,short_location,nickname,hyphenated
-2006,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2006,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2006,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2006,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2006,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2006,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2006,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2006,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2006,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2006,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2006,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2006,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2006,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2006,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2006,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2006,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2006,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2006,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2006,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2006,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2006,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2006,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2006,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2006,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2006,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2006,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2006,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2006,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2006,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2006,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2006,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2006,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2007,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2007,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2007,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2007,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2007,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2007,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2007,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2007,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2007,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2007,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2007,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2007,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2007,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2007,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2007,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2007,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2007,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2007,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2007,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2007,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2007,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2007,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2007,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2007,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2007,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2007,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2007,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2007,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2007,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2007,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2007,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2007,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2008,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2008,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2008,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2008,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2008,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2008,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2008,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2008,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2008,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2008,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2008,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2008,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2008,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2008,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2008,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2008,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2008,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2008,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2008,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2008,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2008,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2008,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2008,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2008,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2008,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2008,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2008,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2008,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2008,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2008,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2008,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2008,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2009,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2009,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2009,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2009,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2009,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2009,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2009,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2009,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2009,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2009,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2009,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2009,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2009,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2009,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2009,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2009,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2009,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2009,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2009,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2009,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2009,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2009,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2009,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2009,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2009,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2009,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2009,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2009,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2009,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2009,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2009,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2009,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2010,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2010,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2010,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2010,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2010,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2010,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2010,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2010,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2010,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2010,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2010,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2010,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2010,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2010,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2010,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2010,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2010,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2010,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2010,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2010,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2010,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2010,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2010,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2010,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2010,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2010,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2010,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2010,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2010,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2010,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2010,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2010,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2011,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2011,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2011,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2011,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2011,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2011,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2011,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2011,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2011,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2011,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2011,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2011,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2011,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2011,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2011,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2011,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2011,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2011,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2011,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2011,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2011,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2011,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2011,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2011,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2011,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2011,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2011,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2011,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2011,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2011,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2011,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2011,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2012,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2012,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2012,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2012,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2012,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2012,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2012,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2012,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2012,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2012,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2012,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2012,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2012,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2012,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2012,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2012,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2012,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2012,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2012,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2012,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2012,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2012,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2012,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2012,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2012,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2012,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2012,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2012,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2012,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2012,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2012,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2012,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2013,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2013,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2013,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2013,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2013,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2013,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2013,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2013,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2013,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2013,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2013,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2013,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2013,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2013,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2013,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2013,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2013,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2013,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2013,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2013,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2013,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2013,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2013,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2013,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2013,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2013,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2013,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2013,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2013,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2013,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2013,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2013,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2014,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2014,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2014,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2014,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2014,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2014,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2014,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2014,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2014,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2014,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2014,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2014,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2014,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2014,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2014,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2014,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2014,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2014,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2014,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2014,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2014,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2014,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2014,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2014,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2014,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2014,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2014,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2014,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2014,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2014,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2014,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2014,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2015,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2015,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2015,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2015,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2015,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2015,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2015,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2015,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2015,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2015,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2015,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2015,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2015,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2015,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2015,JAX,JAC,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2015,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2015,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2015,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2015,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2015,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2015,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2015,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2015,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2015,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2015,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2015,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2015,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2015,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2015,STL,STL,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
-2015,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2015,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2015,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2016,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2016,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2016,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2016,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2016,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2016,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2016,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2016,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2016,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2016,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2016,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2016,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2016,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2016,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2016,JAX,JAX,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2016,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2016,LAR,LA,RAM,26,LA,LARM,Los Angeles Rams,Los Angeles Rams,Los Angeles,Rams,los-angeles-rams
-2016,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2016,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2016,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2016,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2016,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2016,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2016,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2016,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2016,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2016,SD,SD,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
-2016,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2016,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2016,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2016,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2016,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2017,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2017,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2017,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2017,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2017,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2017,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2017,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2017,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2017,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2017,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2017,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2017,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2017,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2017,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2017,JAX,JAX,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2017,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2017,LAC,LAC,SDG,27,LAC,LACH,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
-2017,LAR,LA,RAM,26,LA,LARM,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
-2017,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2017,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2017,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2017,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2017,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2017,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2017,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2017,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2017,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2017,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2017,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2017,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2017,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2017,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2018,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2018,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2018,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2018,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2018,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2018,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2018,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2018,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2018,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2018,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2018,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2018,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2018,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2018,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2018,JAX,JAX,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2018,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2018,LAC,LAC,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
-2018,LAR,LA,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
-2018,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2018,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2018,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2018,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2018,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2018,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2018,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2018,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2018,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2018,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2018,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2018,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2018,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2018,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2019,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2019,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2019,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2019,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2019,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2019,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2019,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2019,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2019,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2019,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2019,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2019,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2019,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2019,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2019,JAX,JAX,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2019,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2019,LAC,LAC,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
-2019,LAR,LA,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
-2019,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2019,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2019,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2019,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2019,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2019,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2019,OAK,OAK,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
-2019,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2019,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2019,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2019,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2019,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2019,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2019,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
-2020,ARI,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
-2020,ATL,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
-2020,BAL,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
-2020,BUF,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
-2020,CAR,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
-2020,CHI,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
-2020,CIN,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
-2020,CLE,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
-2020,DAL,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
-2020,DEN,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
-2020,DET,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
-2020,GB,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
-2020,HOU,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
-2020,IND,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2020,JAX,JAX,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
-2020,KC,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
-2020,LAC,LAC,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
-2020,LAR,LA,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
-2020,LV,LV,RAI,23,LV,LV,Las Vegas Raiders,Las Vegas,Las Vegas,Raiders,las-vegas-raiders
-2020,MIA,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
-2020,MIN,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
-2020,NE,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
-2020,NO,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
-2020,NYG,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
-2020,NYJ,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
-2020,PHI,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
-2020,PIT,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
-2020,SEA,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
-2020,SF,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
-2020,TB,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
-2020,TEN,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2020,WAS,WAS,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+season,team,nfl,nfl_team_id,pfr,pff,pfflabel,fo,full,location,short_location,nickname,hyphenated
+2002,ARI,ARI,3800,CRD,,,ARI,Arizona Cardinals,Arizona,,Cardinals,arizona-cardinals
+2002,ATL,ATL,0200,ATL,,,ATL,Atlanta Falcons,Atlanta,,Falcons,atlanta-falcons
+2002,BAL,BAL,0325,RAV,,,BAL,Baltimore Ravens,Baltimore,,Ravens,baltimore-ravens
+2002,BUF,BUF,0610,BUF,,,BUF,Buffalo Bills,Buffalo,,Bills,buffalo-bills
+2002,CAR,CAR,0750,CAR,,,CAR,Carolina Panthers,Carolina,,Panthers,carolina-panthers
+2002,CHI,CHI,0810,CHI,,,CHI,Chicago Bears,Chicago,,Bears,chicago-bears
+2002,CIN,CIN,0920,CIN,,,CIN,Cincinnati Bengals,Cincinnati,,Bengals,cincinnati-bengals
+2002,CLE,CLE,1050,CLE,,,CLE,Cleveland Browns,Cleveland,,Browns,cleveland-browns
+2002,DAL,DAL,1200,DAL,,,DAL,Dallas Cowboys,Dallas,,Cowboys,dallas-cowboys
+2002,DEN,DEN,1400,DEN,,,DEN,Denver Broncos,Denver,,Broncos,denver-broncos
+2002,DET,DET,1540,DET,,,DET,Detroit Lions,Detroit,,Lions,detroit-lions
+2002,GB,GB,1800,GNB,,,GB,Green Bay Packers,Green Bay,,Packers,green-bay-packers
+2002,HOU,HOU,2120,HTX,,,HOU,Houston Texans,Houston,,Texans,houston-texans
+2002,IND,IND,2200,CLT,,,IND,Indianapolis Colts,Indianapolis,,Colts,indianapolis-colts
+2002,JAX,JAC,2250,JAX,,,JAC,Jacksonville Jaguars,Jacksonville,,Jaguars,jacksonville-jaguars
+2002,KC,KC,2310,KAN,,,KC,Kansas City Chiefs,Kansas City,,Chiefs,kansas-city-chiefs
+2002,MIA,MIA,2700,MIA,,,MIA,Miami Dolphins,Miami,,Dolphins,miami-dolphins
+2002,MIN,MIN,3000,MIN,,,MIN,Minnesota Vikings,Minnesota,,Vikings,minnesota-vikings
+2002,NE,NE,3200,NWE,,,NE,New England Patriots,New England,,Patriots,new-england-patriots
+2002,NO,NO,3300,NOR,,,NO,New Orleans Saints,New Orleans,,Saints,new-orleans-saints
+2002,NYG,NYG,3410,NYG,,,NYG,New York Giants,New York Giants,,Giants,new-york-giants
+2002,NYJ,NYJ,3430,NYJ,,,NYJ,New York Jets,New York Jets,,Jets,new-york-jets
+2002,OAK,OAK,2520,RAI,,,OAK,Oakland Raiders,Oakland,,Raiders,oakland-raiders
+2002,PHI,PHI,3700,PHI,,,PHI,Philadelphia Eagles,Philadelphia,,Eagles,philadelphia-eagles
+2002,PIT,PIT,3900,PIT,,,PIT,Pittsburgh Steelers,Pittsburgh,,Steelers,pittsburgh-steelers
+2002,SD,SD,4400,SDG,,,SD,San Diego Chargers,San Diego,,Chargers,san-diego-chargers
+2002,SEA,SEA,4600,SEA,,,SEA,Seattle Seahawks,Seattle,,Seahawks,seattle-seahawks
+2002,SF,SF,4500,SFO,,,SF,San Francisco 49ers,San Francisco,,49ers,san-francisco-49ers
+2002,STL,STL,2510,RAM,,,STL,St Louis Rams,St Louis,,Rams,st-louis-rams
+2002,TB,TB,4900,TAM,,,TB,Tampa Bay Buccaneers,Tampa Bay,,Buccaneers,tampa-bay-buccaneers
+2002,TEN,TEN,2100,OTI,,,TEN,Tennessee Titans,Tennessee,,Titans,tennessee-titans
+2002,WAS,WAS,5110,WAS,,,WAS,Washington Redskins,Washington,,Redskins,washington-redskins
+2003,ARI,ARI,3800,CRD,,,ARI,Arizona Cardinals,Arizona,,Cardinals,arizona-cardinals
+2003,ATL,ATL,0200,ATL,,,ATL,Atlanta Falcons,Atlanta,,Falcons,atlanta-falcons
+2003,BAL,BAL,0325,RAV,,,BAL,Baltimore Ravens,Baltimore,,Ravens,baltimore-ravens
+2003,BUF,BUF,0610,BUF,,,BUF,Buffalo Bills,Buffalo,,Bills,buffalo-bills
+2003,CAR,CAR,0750,CAR,,,CAR,Carolina Panthers,Carolina,,Panthers,carolina-panthers
+2003,CHI,CHI,0810,CHI,,,CHI,Chicago Bears,Chicago,,Bears,chicago-bears
+2003,CIN,CIN,0920,CIN,,,CIN,Cincinnati Bengals,Cincinnati,,Bengals,cincinnati-bengals
+2003,CLE,CLE,1050,CLE,,,CLE,Cleveland Browns,Cleveland,,Browns,cleveland-browns
+2003,DAL,DAL,1200,DAL,,,DAL,Dallas Cowboys,Dallas,,Cowboys,dallas-cowboys
+2003,DEN,DEN,1400,DEN,,,DEN,Denver Broncos,Denver,,Broncos,denver-broncos
+2003,DET,DET,1540,DET,,,DET,Detroit Lions,Detroit,,Lions,detroit-lions
+2003,GB,GB,1800,GNB,,,GB,Green Bay Packers,Green Bay,,Packers,green-bay-packers
+2003,HOU,HOU,2120,HTX,,,HOU,Houston Texans,Houston,,Texans,houston-texans
+2003,IND,IND,2200,CLT,,,IND,Indianapolis Colts,Indianapolis,,Colts,indianapolis-colts
+2003,JAX,JAC,2250,JAX,,,JAC,Jacksonville Jaguars,Jacksonville,,Jaguars,jacksonville-jaguars
+2003,KC,KC,2310,KAN,,,KC,Kansas City Chiefs,Kansas City,,Chiefs,kansas-city-chiefs
+2003,MIA,MIA,2700,MIA,,,MIA,Miami Dolphins,Miami,,Dolphins,miami-dolphins
+2003,MIN,MIN,3000,MIN,,,MIN,Minnesota Vikings,Minnesota,,Vikings,minnesota-vikings
+2003,NE,NE,3200,NWE,,,NE,New England Patriots,New England,,Patriots,new-england-patriots
+2003,NO,NO,3300,NOR,,,NO,New Orleans Saints,New Orleans,,Saints,new-orleans-saints
+2003,NYG,NYG,3410,NYG,,,NYG,New York Giants,New York Giants,,Giants,new-york-giants
+2003,NYJ,NYJ,3430,NYJ,,,NYJ,New York Jets,New York Jets,,Jets,new-york-jets
+2003,OAK,OAK,2520,RAI,,,OAK,Oakland Raiders,Oakland,,Raiders,oakland-raiders
+2003,PHI,PHI,3700,PHI,,,PHI,Philadelphia Eagles,Philadelphia,,Eagles,philadelphia-eagles
+2003,PIT,PIT,3900,PIT,,,PIT,Pittsburgh Steelers,Pittsburgh,,Steelers,pittsburgh-steelers
+2003,SD,SD,4400,SDG,,,SD,San Diego Chargers,San Diego,,Chargers,san-diego-chargers
+2003,SEA,SEA,4600,SEA,,,SEA,Seattle Seahawks,Seattle,,Seahawks,seattle-seahawks
+2003,SF,SF,4500,SFO,,,SF,San Francisco 49ers,San Francisco,,49ers,san-francisco-49ers
+2003,STL,STL,2510,RAM,,,STL,St Louis Rams,St Louis,,Rams,st-louis-rams
+2003,TB,TB,4900,TAM,,,TB,Tampa Bay Buccaneers,Tampa Bay,,Buccaneers,tampa-bay-buccaneers
+2003,TEN,TEN,2100,OTI,,,TEN,Tennessee Titans,Tennessee,,Titans,tennessee-titans
+2003,WAS,WAS,5110,WAS,,,WAS,Washington Redskins,Washington,,Redskins,washington-redskins
+2004,ARI,ARI,3800,CRD,,,ARI,Arizona Cardinals,Arizona,,Cardinals,arizona-cardinals
+2004,ATL,ATL,0200,ATL,,,ATL,Atlanta Falcons,Atlanta,,Falcons,atlanta-falcons
+2004,BAL,BAL,0325,RAV,,,BAL,Baltimore Ravens,Baltimore,,Ravens,baltimore-ravens
+2004,BUF,BUF,0610,BUF,,,BUF,Buffalo Bills,Buffalo,,Bills,buffalo-bills
+2004,CAR,CAR,0750,CAR,,,CAR,Carolina Panthers,Carolina,,Panthers,carolina-panthers
+2004,CHI,CHI,0810,CHI,,,CHI,Chicago Bears,Chicago,,Bears,chicago-bears
+2004,CIN,CIN,0920,CIN,,,CIN,Cincinnati Bengals,Cincinnati,,Bengals,cincinnati-bengals
+2004,CLE,CLE,1050,CLE,,,CLE,Cleveland Browns,Cleveland,,Browns,cleveland-browns
+2004,DAL,DAL,1200,DAL,,,DAL,Dallas Cowboys,Dallas,,Cowboys,dallas-cowboys
+2004,DEN,DEN,1400,DEN,,,DEN,Denver Broncos,Denver,,Broncos,denver-broncos
+2004,DET,DET,1540,DET,,,DET,Detroit Lions,Detroit,,Lions,detroit-lions
+2004,GB,GB,1800,GNB,,,GB,Green Bay Packers,Green Bay,,Packers,green-bay-packers
+2004,HOU,HOU,2120,HTX,,,HOU,Houston Texans,Houston,,Texans,houston-texans
+2004,IND,IND,2200,CLT,,,IND,Indianapolis Colts,Indianapolis,,Colts,indianapolis-colts
+2004,JAX,JAC,2250,JAX,,,JAC,Jacksonville Jaguars,Jacksonville,,Jaguars,jacksonville-jaguars
+2004,KC,KC,2310,KAN,,,KC,Kansas City Chiefs,Kansas City,,Chiefs,kansas-city-chiefs
+2004,MIA,MIA,2700,MIA,,,MIA,Miami Dolphins,Miami,,Dolphins,miami-dolphins
+2004,MIN,MIN,3000,MIN,,,MIN,Minnesota Vikings,Minnesota,,Vikings,minnesota-vikings
+2004,NE,NE,3200,NWE,,,NE,New England Patriots,New England,,Patriots,new-england-patriots
+2004,NO,NO,3300,NOR,,,NO,New Orleans Saints,New Orleans,,Saints,new-orleans-saints
+2004,NYG,NYG,3410,NYG,,,NYG,New York Giants,New York Giants,,Giants,new-york-giants
+2004,NYJ,NYJ,3430,NYJ,,,NYJ,New York Jets,New York Jets,,Jets,new-york-jets
+2004,OAK,OAK,2520,RAI,,,OAK,Oakland Raiders,Oakland,,Raiders,oakland-raiders
+2004,PHI,PHI,3700,PHI,,,PHI,Philadelphia Eagles,Philadelphia,,Eagles,philadelphia-eagles
+2004,PIT,PIT,3900,PIT,,,PIT,Pittsburgh Steelers,Pittsburgh,,Steelers,pittsburgh-steelers
+2004,SD,SD,4400,SDG,,,SD,San Diego Chargers,San Diego,,Chargers,san-diego-chargers
+2004,SEA,SEA,4600,SEA,,,SEA,Seattle Seahawks,Seattle,,Seahawks,seattle-seahawks
+2004,SF,SF,4500,SFO,,,SF,San Francisco 49ers,San Francisco,,49ers,san-francisco-49ers
+2004,STL,STL,2510,RAM,,,STL,St Louis Rams,St Louis,,Rams,st-louis-rams
+2004,TB,TB,4900,TAM,,,TB,Tampa Bay Buccaneers,Tampa Bay,,Buccaneers,tampa-bay-buccaneers
+2004,TEN,TEN,2100,OTI,,,TEN,Tennessee Titans,Tennessee,,Titans,tennessee-titans
+2004,WAS,WAS,5110,WAS,,,WAS,Washington Redskins,Washington,,Redskins,washington-redskins
+2005,ARI,ARI,3800,CRD,,,ARI,Arizona Cardinals,Arizona,,Cardinals,arizona-cardinals
+2005,ATL,ATL,0200,ATL,,,ATL,Atlanta Falcons,Atlanta,,Falcons,atlanta-falcons
+2005,BAL,BAL,0325,RAV,,,BAL,Baltimore Ravens,Baltimore,,Ravens,baltimore-ravens
+2005,BUF,BUF,0610,BUF,,,BUF,Buffalo Bills,Buffalo,,Bills,buffalo-bills
+2005,CAR,CAR,0750,CAR,,,CAR,Carolina Panthers,Carolina,,Panthers,carolina-panthers
+2005,CHI,CHI,0810,CHI,,,CHI,Chicago Bears,Chicago,,Bears,chicago-bears
+2005,CIN,CIN,0920,CIN,,,CIN,Cincinnati Bengals,Cincinnati,,Bengals,cincinnati-bengals
+2005,CLE,CLE,1050,CLE,,,CLE,Cleveland Browns,Cleveland,,Browns,cleveland-browns
+2005,DAL,DAL,1200,DAL,,,DAL,Dallas Cowboys,Dallas,,Cowboys,dallas-cowboys
+2005,DEN,DEN,1400,DEN,,,DEN,Denver Broncos,Denver,,Broncos,denver-broncos
+2005,DET,DET,1540,DET,,,DET,Detroit Lions,Detroit,,Lions,detroit-lions
+2005,GB,GB,1800,GNB,,,GB,Green Bay Packers,Green Bay,,Packers,green-bay-packers
+2005,HOU,HOU,2120,HTX,,,HOU,Houston Texans,Houston,,Texans,houston-texans
+2005,IND,IND,2200,CLT,,,IND,Indianapolis Colts,Indianapolis,,Colts,indianapolis-colts
+2005,JAX,JAC,2250,JAX,,,JAC,Jacksonville Jaguars,Jacksonville,,Jaguars,jacksonville-jaguars
+2005,KC,KC,2310,KAN,,,KC,Kansas City Chiefs,Kansas City,,Chiefs,kansas-city-chiefs
+2005,MIA,MIA,2700,MIA,,,MIA,Miami Dolphins,Miami,,Dolphins,miami-dolphins
+2005,MIN,MIN,3000,MIN,,,MIN,Minnesota Vikings,Minnesota,,Vikings,minnesota-vikings
+2005,NE,NE,3200,NWE,,,NE,New England Patriots,New England,,Patriots,new-england-patriots
+2005,NO,NO,3300,NOR,,,NO,New Orleans Saints,New Orleans,,Saints,new-orleans-saints
+2005,NYG,NYG,3410,NYG,,,NYG,New York Giants,New York Giants,,Giants,new-york-giants
+2005,NYJ,NYJ,3430,NYJ,,,NYJ,New York Jets,New York Jets,,Jets,new-york-jets
+2005,OAK,OAK,2520,RAI,,,OAK,Oakland Raiders,Oakland,,Raiders,oakland-raiders
+2005,PHI,PHI,3700,PHI,,,PHI,Philadelphia Eagles,Philadelphia,,Eagles,philadelphia-eagles
+2005,PIT,PIT,3900,PIT,,,PIT,Pittsburgh Steelers,Pittsburgh,,Steelers,pittsburgh-steelers
+2005,SD,SD,4400,SDG,,,SD,San Diego Chargers,San Diego,,Chargers,san-diego-chargers
+2005,SEA,SEA,4600,SEA,,,SEA,Seattle Seahawks,Seattle,,Seahawks,seattle-seahawks
+2005,SF,SF,4500,SFO,,,SF,San Francisco 49ers,San Francisco,,49ers,san-francisco-49ers
+2005,STL,STL,2510,RAM,,,STL,St Louis Rams,St Louis,,Rams,st-louis-rams
+2005,TB,TB,4900,TAM,,,TB,Tampa Bay Buccaneers,Tampa Bay,,Buccaneers,tampa-bay-buccaneers
+2005,TEN,TEN,2100,OTI,,,TEN,Tennessee Titans,Tennessee,,Titans,tennessee-titans
+2005,WAS,WAS,5110,WAS,,,WAS,Washington Redskins,Washington,,Redskins,washington-redskins
+2006,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2006,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2006,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2006,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2006,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2006,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2006,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2006,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2006,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2006,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2006,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2006,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2006,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2006,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2006,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2006,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2006,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2006,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2006,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2006,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2006,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2006,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2006,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2006,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2006,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2006,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2006,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2006,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2006,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2006,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2006,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2006,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2007,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2007,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2007,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2007,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2007,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2007,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2007,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2007,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2007,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2007,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2007,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2007,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2007,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2007,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2007,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2007,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2007,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2007,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2007,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2007,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2007,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2007,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2007,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2007,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2007,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2007,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2007,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2007,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2007,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2007,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2007,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2007,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2008,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2008,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2008,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2008,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2008,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2008,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2008,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2008,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2008,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2008,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2008,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2008,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2008,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2008,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2008,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2008,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2008,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2008,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2008,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2008,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2008,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2008,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2008,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2008,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2008,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2008,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2008,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2008,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2008,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2008,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2008,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2008,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2009,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2009,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2009,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2009,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2009,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2009,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2009,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2009,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2009,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2009,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2009,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2009,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2009,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2009,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2009,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2009,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2009,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2009,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2009,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2009,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2009,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2009,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2009,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2009,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2009,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2009,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2009,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2009,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2009,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2009,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2009,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2009,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2010,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2010,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2010,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2010,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2010,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2010,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2010,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2010,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2010,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2010,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2010,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2010,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2010,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2010,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2010,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2010,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2010,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2010,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2010,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2010,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2010,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2010,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2010,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2010,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2010,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2010,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2010,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2010,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2010,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2010,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2010,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2010,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2011,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2011,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2011,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2011,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2011,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2011,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2011,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2011,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2011,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2011,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2011,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2011,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2011,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2011,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2011,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2011,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2011,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2011,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2011,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2011,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2011,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2011,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2011,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2011,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2011,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2011,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2011,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2011,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2011,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2011,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2011,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2011,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2012,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2012,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2012,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2012,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2012,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2012,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2012,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2012,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2012,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2012,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2012,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2012,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2012,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2012,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2012,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2012,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2012,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2012,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2012,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2012,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2012,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2012,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2012,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2012,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2012,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2012,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2012,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2012,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2012,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2012,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2012,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2012,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2013,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2013,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2013,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2013,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2013,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2013,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2013,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2013,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2013,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2013,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2013,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2013,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2013,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2013,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2013,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2013,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2013,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2013,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2013,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2013,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2013,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2013,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2013,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2013,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2013,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2013,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2013,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2013,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2013,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2013,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2013,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2013,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2014,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2014,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2014,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2014,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2014,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2014,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2014,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2014,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2014,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2014,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2014,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2014,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2014,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2014,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2014,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2014,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2014,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2014,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2014,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2014,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2014,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2014,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2014,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2014,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2014,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2014,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2014,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2014,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2014,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2014,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2014,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2014,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2015,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2015,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2015,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2015,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2015,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2015,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2015,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2015,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2015,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2015,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2015,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2015,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2015,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2015,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2015,JAX,JAC,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2015,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2015,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2015,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2015,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2015,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2015,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2015,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2015,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2015,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2015,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2015,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2015,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2015,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2015,STL,STL,2510,RAM,26,LA,STL,St Louis Rams,St Louis,St. Louis,Rams,los-angeles-rams
+2015,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2015,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2015,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2016,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2016,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2016,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2016,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2016,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2016,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2016,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2016,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2016,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2016,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2016,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2016,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2016,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2016,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2016,JAX,JAX,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2016,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2016,LA,LA,2510,RAM,26,LA,LARM,Los Angeles Rams,Los Angeles Rams,Los Angeles,Rams,los-angeles-rams
+2016,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2016,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2016,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2016,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2016,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2016,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2016,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2016,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2016,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2016,SD,SD,4400,SDG,27,LAC,SD,San Diego Chargers,San Diego,San Diego,Chargers,los-angeles-chargers
+2016,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2016,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2016,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2016,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2016,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2017,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2017,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2017,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2017,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2017,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2017,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2017,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2017,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2017,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2017,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2017,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2017,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2017,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2017,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2017,JAX,JAX,2250,JAX,15,JAX,JAC,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2017,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2017,LAC,LAC,4400,SDG,27,LAC,LACH,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2017,LA,LA,2510,RAM,26,LA,LARM,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2017,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2017,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2017,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2017,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2017,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2017,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2017,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2017,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2017,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2017,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2017,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2017,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2017,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2017,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2018,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2018,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2018,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2018,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2018,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2018,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2018,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2018,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2018,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2018,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2018,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2018,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2018,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2018,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2018,JAX,JAX,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2018,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2018,LAC,LAC,4400,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2018,LA,LA,2510,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2018,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2018,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2018,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2018,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2018,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2018,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2018,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2018,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2018,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2018,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2018,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2018,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2018,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2018,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2019,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2019,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2019,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2019,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2019,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2019,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2019,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2019,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2019,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2019,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2019,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2019,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2019,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2019,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2019,JAX,JAX,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2019,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2019,LAC,LAC,4400,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2019,LA,LA,2510,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2019,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2019,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2019,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2019,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2019,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2019,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2019,OAK,OAK,2520,RAI,23,OAK,OAK,Oakland Raiders,Oakland,Oakland,Raiders,oakland-raiders
+2019,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2019,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2019,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2019,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2019,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2019,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2019,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2020,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2020,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2020,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2020,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2020,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2020,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2020,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2020,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2020,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2020,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2020,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2020,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2020,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2020,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2020,JAX,JAX,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2020,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2020,LAC,LAC,4400,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2020,LA,LA,2510,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2020,LV,LV,2520,VEG,23,LV,LV,Las Vegas Raiders,Las Vegas,Las Vegas,Raiders,las-vegas-raiders
+2020,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2020,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2020,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2020,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2020,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2020,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2020,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2020,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2020,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2020,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2020,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2020,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2020,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins

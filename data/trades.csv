@@ -22,9 +22,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 9,2010,2010-09-04,WAS,IND,,,,,TryoJu99,Justin Tryon
 10,2010,2010-09-04,PHI,BAL,2011,7,225,0,AlleAn01,Anthony Allen
 10,2010,2010-09-04,BAL,PHI,,,,,BarnAn99,Antwan Barnes
-11,2010,2010-09-07,BAL,LAR,,,,,ClayMa01,Mark Clayton
-11,2010,2010-09-07,BAL,LAR,2011,7,228,0,WillJa12,Jabara Williams
-11,2010,2010-09-07,LAR,BAL,2011,6,180,0,TaylTy00,Tyrod Taylor
+11,2010,2010-09-07,BAL,LA,,,,,ClayMa01,Mark Clayton
+11,2010,2010-09-07,BAL,LA,2011,7,228,0,WillJa12,Jabara Williams
+11,2010,2010-09-07,LA,BAL,2011,6,180,0,TaylTy00,Tyrod Taylor
 12,2010,2010-09-15,NE,DEN,,,,,MaroLa00,Laurence Maroney
 12,2010,2010-09-15,NE,DEN,2011,6,189,0,MohaMi00,Mike Mohamed
 12,2010,2010-09-15,DEN,NE,2011,4,99,0,WrigK.00,K.J. Wright
@@ -102,9 +102,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 33,2011,2011-04-30,DEN,GB,2011,6,186,0,SmitD.00,D.J. Smith
 33,2011,2011-04-30,GB,DEN,2011,4,129,0,ThomJu00,Julius Thomas
 33,2011,2011-04-30,GB,DEN,2011,7,204,0,GreeVi00,Virgil Green
-34,2011,2011-04-30,LAR,ATL,2011,5,145,0,RodgJa00,Jacquizz Rodgers
-34,2011,2011-04-30,ATL,LAR,2011,5,158,0,HineJe00,Jermale Hines
-34,2011,2011-04-30,ATL,LAR,2011,7,229,0,NelsJo01,Jonathan Nelson
+34,2011,2011-04-30,LA,ATL,2011,5,145,0,RodgJa00,Jacquizz Rodgers
+34,2011,2011-04-30,ATL,LA,2011,5,158,0,HineJe00,Jermale Hines
+34,2011,2011-04-30,ATL,LA,2011,7,229,0,NelsJo01,Jonathan Nelson
 35,2011,2011-04-30,NYJ,PHI,2011,5,161,0,VandJu00,Julian Vandervelde
 35,2011,2011-04-30,NYJ,PHI,2011,6,194,0,CartMa01,Markell Carter
 35,2011,2011-04-30,PHI,NYJ,2011,5,153,0,KerlJe00,Jeremy Kerley
@@ -135,8 +135,8 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 44,2011,2011-07-29,NE,CIN,2013,6,197,0,HamiCo00,Cobi Hamilton
 44,2011,2011-07-29,NE,CIN,2012,5,166,0,JoneMa02,Marvin Jones
 44,2011,2011-07-29,CIN,NE,,,,,JohnCh01,Chad Johnson
-45,2011,2011-07-31,CLE,LAR,2012,,,1,,
-45,2011,2011-07-31,LAR,CLE,,,,,GrecJo20,John Greco
+45,2011,2011-07-31,CLE,LA,2012,,,1,,
+45,2011,2011-07-31,LA,CLE,,,,,GrecJo20,John Greco
 46,2011,2011-08-01,WAS,ARI,,,,,HollVo20,Vonnie Holliday
 46,2011,2011-08-01,WAS,ARI,2012,6,177,0,BethJu00,Justin Bethel
 46,2011,2011-08-01,ARI,WAS,,,,,HighTi00,Tim Hightower
@@ -156,11 +156,11 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 53,2011,2011-10-18,OAK,CIN,2013,2,37,0,BernGi00,Giovani Bernard
 53,2011,2011-10-18,OAK,CIN,2012,1,17,0,KirkDr00,Dre Kirkpatrick
 53,2011,2011-10-18,CIN,OAK,,,,,PalmCa00,Carson Palmer
-54,2012,2012-03-14,LAR,WAS,2012,1,2,0,GrifRo01,Robert Griffin
-54,2012,2012-03-14,WAS,LAR,2014,1,2,0,RobiGr01,Greg Robinson
-54,2012,2012-03-14,WAS,LAR,2012,1,6,0,ClaiMo00,Morris Claiborne
-54,2012,2012-03-14,WAS,LAR,2012,2,39,0,JenkJa03,Janoris Jenkins
-54,2012,2012-03-14,WAS,LAR,2013,1,22,0,TrufDe00,Desmond Trufant
+54,2012,2012-03-14,LA,WAS,2012,1,2,0,GrifRo01,Robert Griffin
+54,2012,2012-03-14,WAS,LA,2014,1,2,0,RobiGr01,Greg Robinson
+54,2012,2012-03-14,WAS,LA,2012,1,6,0,ClaiMo00,Morris Claiborne
+54,2012,2012-03-14,WAS,LA,2012,2,39,0,JenkJa03,Janoris Jenkins
+54,2012,2012-03-14,WAS,LA,2013,1,22,0,TrufDe00,Desmond Trufant
 55,2012,2012-03-14,CHI,MIA,2012,3,73,0,TaylBr02,Brandon Taylor
 55,2012,2012-03-14,CHI,MIA,2013,3,82,0,JenkJo00,John Jenkins
 55,2012,2012-03-14,MIA,CHI,,,,,MarsBr00,Brandon Marshall
@@ -180,8 +180,8 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 59,2012,2012-03-26,NYJ,DEN,2012,6,188,0,TrevDa00,Danny Trevathan
 60,2012,2012-04-12,NYG,CIN,2012,5,167,0,IlokGe00,George Iloka
 60,2012,2012-04-12,CIN,NYG,,,,,RiveKe99,Keith Rivers
-61,2012,2012-04-12,LAR,DEN,2012,5,167,0,IlokGe00,George Iloka
-61,2012,2012-04-12,DEN,LAR,,,,,LloyBr00,Brandon Lloyd
+61,2012,2012-04-12,LA,DEN,2012,5,167,0,IlokGe00,George Iloka
+61,2012,2012-04-12,DEN,LA,,,,,LloyBr00,Brandon Lloyd
 62,2012,2012-04-26,MIN,CLE,2012,1,3,0,RichTr00,Trent Richardson
 62,2012,2012-04-26,CLE,MIN,2012,4,118,0,WrigJa02,Jarius Wright
 62,2012,2012-04-26,CLE,MIN,2012,1,4,0,KaliMa00,Matt Kalil
@@ -190,9 +190,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 63,2012,2012-04-26,JAX,TB,2012,1,7,0,BarrMa00,Mark Barron
 63,2012,2012-04-26,JAX,TB,2012,4,101,0,BoldOm00,Omar Bolden
 63,2012,2012-04-26,TB,JAX,2012,1,5,0,BlacJu00,Justin Blackmon
-64,2012,2012-04-26,DAL,LAR,2012,1,14,0,BrocMi00,Michael Brockers
-64,2012,2012-04-26,DAL,LAR,2012,2,45,0,JeffAl00,Alshon Jeffery
-64,2012,2012-04-26,LAR,DAL,2012,1,6,0,ClaiMo00,Morris Claiborne
+64,2012,2012-04-26,DAL,LA,2012,1,14,0,BrocMi00,Michael Brockers
+64,2012,2012-04-26,DAL,LA,2012,2,45,0,JeffAl00,Alshon Jeffery
+64,2012,2012-04-26,LA,DAL,2012,1,6,0,ClaiMo00,Morris Claiborne
 65,2012,2012-04-26,PHI,SEA,2012,1,15,0,IrviBr00,Bruce Irvin
 65,2012,2012-04-26,PHI,SEA,2012,4,114,0,HowaJa00,Jaye Howard
 65,2012,2012-04-26,PHI,SEA,2012,6,172,0,LaneJe00,Jeremy Lane
@@ -216,9 +216,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 71,2012,2012-04-27,NYJ,SEA,2012,2,47,0,WagnBo00,Bobby Wagner
 71,2012,2012-04-27,NYJ,SEA,2012,5,154,0,ToomKo00,Korey Toomer
 71,2012,2012-04-27,NYJ,SEA,2012,7,232,0,ScruGr00,Greg Scruggs
-72,2012,2012-04-27,LAR,CHI,2012,2,45,0,JeffAl00,Alshon Jeffery
-72,2012,2012-04-27,CHI,LAR,2012,2,50,0,PeadIs00,Isaiah Pead
-72,2012,2012-04-27,CHI,LAR,2012,5,150,0,WatkRo00,Rokevious Watkins
+72,2012,2012-04-27,LA,CHI,2012,2,45,0,JeffAl00,Alshon Jeffery
+72,2012,2012-04-27,CHI,LA,2012,2,50,0,PeadIs00,Isaiah Pead
+72,2012,2012-04-27,CHI,LA,2012,5,150,0,WatkRo00,Rokevious Watkins
 73,2012,2012-04-27,PHI,GB,2012,2,51,0,WortJe00,Jerel Worthy
 73,2012,2012-04-27,GB,PHI,2012,2,59,0,CurrVi00,Vinny Curry
 73,2012,2012-04-27,GB,PHI,2012,4,123,0,BoykBr00,Brandon Boykin
@@ -323,20 +323,20 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 106,2013,2013-04-25,OAK,MIA,2013,1,3,0,JordDi00,Dion Jordan
 106,2013,2013-04-25,MIA,OAK,2013,1,12,0,HaydDJ00,D.J. Hayden
 106,2013,2013-04-25,MIA,OAK,2013,2,42,0,WatsMe00,Menelik Watson
-107,2013,2013-04-25,BUF,LAR,2013,1,8,0,AustTa00,Tavon Austin
-107,2013,2013-04-25,BUF,LAR,2013,3,71,0,McDoTJ00,T.J. McDonald
-107,2013,2013-04-25,LAR,BUF,2013,1,16,0,ManuEJ00,EJ Manuel
-107,2013,2013-04-25,LAR,BUF,2013,2,46,0,AlonKi00,Kiko Alonso
-107,2013,2013-04-25,LAR,BUF,2013,3,78,0,GoodMa00,Marquise Goodwin
-107,2013,2013-04-25,LAR,BUF,2013,7,222,0,GragCh00,Chris Gragg
+107,2013,2013-04-25,BUF,LA,2013,1,8,0,AustTa00,Tavon Austin
+107,2013,2013-04-25,BUF,LA,2013,3,71,0,McDoTJ00,T.J. McDonald
+107,2013,2013-04-25,LA,BUF,2013,1,16,0,ManuEJ00,EJ Manuel
+107,2013,2013-04-25,LA,BUF,2013,2,46,0,AlonKi00,Kiko Alonso
+107,2013,2013-04-25,LA,BUF,2013,3,78,0,GoodMa00,Marquise Goodwin
+107,2013,2013-04-25,LA,BUF,2013,7,222,0,GragCh00,Chris Gragg
 108,2013,2013-04-25,DAL,SF,2013,1,18,0,ReidEr00,Eric Reid
 108,2013,2013-04-25,SF,DAL,2013,1,31,0,FredTr00,Travis Frederick
 108,2013,2013-04-25,SF,DAL,2013,3,74,0,WillTe01,Terrance Williams
-109,2013,2013-04-25,LAR,ATL,2013,1,22,0,TrufDe00,Desmond Trufant
-109,2013,2013-04-25,LAR,ATL,2015,7,249,0,KingAk00,Akeem King
-109,2013,2013-04-25,ATL,LAR,2013,1,30,0,OgleAl00,Alec Ogletree
-109,2013,2013-04-25,ATL,LAR,2013,3,92,0,BailSt01,Stedman Bailey
-109,2013,2013-04-25,ATL,LAR,2013,6,198,0,JoneCh04,Chris Jones
+109,2013,2013-04-25,LA,ATL,2013,1,22,0,TrufDe00,Desmond Trufant
+109,2013,2013-04-25,LA,ATL,2015,7,249,0,KingAk00,Akeem King
+109,2013,2013-04-25,ATL,LA,2013,1,30,0,OgleAl00,Alec Ogletree
+109,2013,2013-04-25,ATL,LA,2013,3,92,0,BailSt01,Stedman Bailey
+109,2013,2013-04-25,ATL,LA,2013,6,198,0,JoneCh04,Chris Jones
 110,2013,2013-04-25,NE,MIN,2013,1,29,0,PattCo00,Cordarrelle Patterson
 110,2013,2013-04-25,MIN,NE,2013,2,52,0,CollJa00,Jamie Collins
 110,2013,2013-04-25,MIN,NE,2013,3,83,0,RyanLo00,Logan Ryan
@@ -395,9 +395,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 127,2013,2013-04-27,CHI,ATL,2013,5,153,0,MapoSt00,Stansly Maponga
 127,2013,2013-04-27,ATL,CHI,2013,5,163,0,MillJo02,Jordan Mills
 127,2013,2013-04-27,ATL,CHI,2013,7,236,0,WilsMa02,Marquess Wilson
-128,2013,2013-04-27,HOU,LAR,2013,5,160,0,StacZa00,Zac Stacy
-128,2013,2013-04-27,LAR,HOU,2013,6,184,0,RiveMy00,Mychal Rivera
-128,2013,2013-04-27,LAR,HOU,2013,6,198,0,JoneCh04,Chris Jones
+128,2013,2013-04-27,HOU,LA,2013,5,160,0,StacZa00,Zac Stacy
+128,2013,2013-04-27,LA,HOU,2013,6,184,0,RiveMy00,Mychal Rivera
+128,2013,2013-04-27,LA,HOU,2013,6,198,0,JoneCh04,Chris Jones
 129,2013,2013-04-27,OAK,HOU,2013,6,176,0,QuesDa00,David Quessenberry
 129,2013,2013-04-27,HOU,OAK,2013,6,184,0,RiveMy00,Mychal Rivera
 129,2013,2013-04-27,HOU,OAK,2013,7,233,0,BassDa00,David Bass
@@ -477,12 +477,12 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 158,2015,2015-03-10,NO,SEA,2015,4,112,0,KouaAr00,Arie Koujio
 158,2015,2015-03-10,SEA,NO,,,,,UngeMa20,Max Unger
 158,2015,2015-03-10,SEA,NO,2015,1,31,0,AnthSt00,Stephone Anthony
-159,2015,2015-03-10,PHI,LAR,,,,,FoleNi00,Nick Foles
-159,2015,2015-03-10,PHI,LAR,2015,4,119,0,DonnAn00,Andrew Donnal
-159,2015,2015-03-10,PHI,LAR,2016,2,43,0,JohnAu01,Austin Johnson
-159,2015,2015-03-10,LAR,PHI,,,,,BradSa00,Sam Bradford
-159,2015,2015-03-10,LAR,PHI,2015,5,145,0,McCaBo01,Bobby McCain
-159,2015,2015-03-10,LAR,PHI,2016,,,1,,
+159,2015,2015-03-10,PHI,LA,,,,,FoleNi00,Nick Foles
+159,2015,2015-03-10,PHI,LA,2015,4,119,0,DonnAn00,Andrew Donnal
+159,2015,2015-03-10,PHI,LA,2016,2,43,0,JohnAu01,Austin Johnson
+159,2015,2015-03-10,LA,PHI,,,,,BradSa00,Sam Bradford
+159,2015,2015-03-10,LA,PHI,2015,5,145,0,McCaBo01,Bobby McCain
+159,2015,2015-03-10,LA,PHI,2016,,,1,,
 160,2015,2015-03-10,MIN,BUF,,,,,CassMa00,Matt Cassel
 160,2015,2015-03-10,MIN,BUF,2015,6,187,0,SpenEv00,Evan Spencer
 160,2015,2015-03-10,BUF,MIN,2015,5,137,0,JarrGr00,Grady Jarrett
@@ -563,15 +563,15 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 189,2016,2016-03-17,CHI,NE,,,,,BennMa00,Martellus Bennett
 189,2016,2016-03-17,CHI,NE,2016,6,204,0,LucaJo00,Jordan Lucas
 189,2016,2016-03-17,NE,CHI,2016,4,127,0,HallDe02,Deiondre' Hall
-190,2016,2016-04-14,LAR,TEN,2016,1,15,0,ColeCo00,Corey Coleman
-190,2016,2016-04-14,LAR,TEN,2016,2,43,0,JohnAu01,Austin Johnson
-190,2016,2016-04-14,LAR,TEN,2016,2,45,0,HenrDe00,Derrick Henry
-190,2016,2016-04-14,LAR,TEN,2016,3,76,0,ColeSh00,Shon Coleman
-190,2016,2016-04-14,LAR,TEN,2017,1,5,0,DaviCo03,Corey Davis
-190,2016,2016-04-14,LAR,TEN,2017,3,100,0,SmitJo01,Jonnu Smith
-190,2016,2016-04-14,TEN,LAR,2016,1,1,0,GoffJa00,Jared Goff
-190,2016,2016-04-14,TEN,LAR,2016,4,113,0,KwiaNi00,Nick Kwiatkoski
-190,2016,2016-04-14,TEN,LAR,2016,6,177,0,HemiTe00,Temarrick Hemingway
+190,2016,2016-04-14,LA,TEN,2016,1,15,0,ColeCo00,Corey Coleman
+190,2016,2016-04-14,LA,TEN,2016,2,43,0,JohnAu01,Austin Johnson
+190,2016,2016-04-14,LA,TEN,2016,2,45,0,HenrDe00,Derrick Henry
+190,2016,2016-04-14,LA,TEN,2016,3,76,0,ColeSh00,Shon Coleman
+190,2016,2016-04-14,LA,TEN,2017,1,5,0,DaviCo03,Corey Davis
+190,2016,2016-04-14,LA,TEN,2017,3,100,0,SmitJo01,Jonnu Smith
+190,2016,2016-04-14,TEN,LA,2016,1,1,0,GoffJa00,Jared Goff
+190,2016,2016-04-14,TEN,LA,2016,4,113,0,KwiaNi00,Nick Kwiatkoski
+190,2016,2016-04-14,TEN,LA,2016,6,177,0,HemiTe00,Temarrick Hemingway
 191,2016,2016-04-20,CLE,PHI,2016,1,2,0,WentCa00,Carson Wentz
 191,2016,2016-04-20,CLE,PHI,2017,4,139,0,ChesJe00,Jehu Chesson
 191,2016,2016-04-20,PHI,CLE,2016,1,8,0,ConkJa00,Jack Conklin
@@ -635,9 +635,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 207,2016,2016-04-30,OAK,CLE,2016,4,114,0,LouiRi00,Ricardo Louis
 207,2016,2016-04-30,OAK,CLE,2016,5,154,0,PaytJo00,Jordan Payton
 207,2016,2016-04-30,CLE,OAK,2016,4,100,0,CookCo00,Connor Cook
-208,2016,2016-04-30,CHI,LAR,2016,4,117,0,CoopPh00,Pharoh Cooper
-208,2016,2016-04-30,CHI,LAR,2016,6,206,0,ThomMi04,Mike Thomas
-208,2016,2016-04-30,LAR,CHI,2016,4,113,0,KwiaNi00,Nick Kwiatkoski
+208,2016,2016-04-30,CHI,LA,2016,4,117,0,CoopPh00,Pharoh Cooper
+208,2016,2016-04-30,CHI,LA,2016,6,206,0,ThomMi04,Mike Thomas
+208,2016,2016-04-30,LA,CHI,2016,4,113,0,KwiaNi00,Nick Kwiatkoski
 209,2016,2016-04-30,NO,WAS,2016,5,152,0,IoanMa01,Matthew Ioannidis
 209,2016,2016-04-30,NO,WAS,2017,5,154,0,SpriJe00,Jeremy Sprinkle
 209,2016,2016-04-30,WAS,NO,2016,4,120,0,OnyeDa00,David Onyemata
@@ -691,9 +691,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 226,2017,2017-03-09,IND,NE,,,,,AlleDw00,Dwayne Allen
 226,2017,2017-03-09,IND,NE,2017,6,200,0,BisnAd00,Adam Bisnowaty
 226,2017,2017-03-09,NE,IND,2017,4,137,0,BannZa00,Zach Banner
-227,2017,2017-03-09,LAR,MIA,,,,,HayeWi99,William Hayes
-227,2017,2017-03-09,LAR,MIA,2017,7,223,0,TuikSt00,Stevie Tu'ikolovatu
-227,2017,2017-03-09,MIA,LAR,2017,6,206,0,RogeSa00,Sam Rogers
+227,2017,2017-03-09,LA,MIA,,,,,HayeWi99,William Hayes
+227,2017,2017-03-09,LA,MIA,2017,7,223,0,TuikSt00,Stevie Tu'ikolovatu
+227,2017,2017-03-09,MIA,LA,2017,6,206,0,RogeSa00,Sam Rogers
 228,2017,2017-03-09,MIA,JAX,2017,7,240,0,WillMa09,Marquez Williams
 228,2017,2017-03-09,JAX,MIA,,,,,ThomJu00,Julius Thomas
 229,2017,2017-03-10,CAR,NE,,,,,EalyKo00,Kony Ealy
@@ -733,10 +733,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 238,2017,2017-04-28,ARI,CHI,2017,4,119,0,CoheTa00,Tarik Cohen
 238,2017,2017-04-28,ARI,CHI,2017,6,197,0,ClarJe04,Jeremy Clark
 238,2017,2017-04-28,ARI,CHI,2018,4,115,0,IyieJo00,Joel Iyiegbuniwe
-239,2017,2017-04-28,LAR,BUF,2017,2,37,0,JoneZa00,Zay Jones
-239,2017,2017-04-28,LAR,BUF,2017,5,149,0,KazeDa00,Damontae Kazee
-239,2017,2017-04-28,BUF,LAR,2017,2,44,0,EverGe00,Gerald Everett
-239,2017,2017-04-28,BUF,LAR,2017,3,91,0,JohnJo10,John Johnson
+239,2017,2017-04-28,LA,BUF,2017,2,37,0,JoneZa00,Zay Jones
+239,2017,2017-04-28,LA,BUF,2017,5,149,0,KazeDa00,Damontae Kazee
+239,2017,2017-04-28,BUF,LA,2017,2,44,0,EverGe00,Gerald Everett
+239,2017,2017-04-28,BUF,LA,2017,3,91,0,JohnJo10,John Johnson
 240,2017,2017-04-28,CIN,MIN,2017,2,41,0,CookDa01,Dalvin Cook
 240,2017,2017-04-28,MIN,CIN,2017,2,48,0,MixoJo00,Joe Mixon
 240,2017,2017-04-28,MIN,CIN,2017,4,128,0,MaloJo00,Josh Malone
@@ -773,15 +773,15 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 250,2017,2017-04-28,KC,NE,2017,6,216,0,WhitMa03,Marquez White
 250,2017,2017-04-28,KC,NE,,,,,O'ShJa00,James O'Shaughnessy
 250,2017,2017-04-28,NE,KC,2017,5,183,0,EligUk00,Ukeme Eligwe
-251,2017,2017-04-29,LAR,CHI,2017,4,112,0,JackEd01,Eddie Jackson
-251,2017,2017-04-29,CHI,LAR,2017,4,117,0,ReynJo00,Josh Reynolds
-251,2017,2017-04-29,CHI,LAR,2017,6,197,0,ClarJe04,Jeremy Clark
+251,2017,2017-04-29,LA,CHI,2017,4,112,0,JackEd01,Eddie Jackson
+251,2017,2017-04-29,CHI,LA,2017,4,117,0,ReynJo00,Josh Reynolds
+251,2017,2017-04-29,CHI,LA,2017,6,197,0,ClarJe04,Jeremy Clark
 252,2017,2017-04-29,IND,SF,2017,4,121,0,WillJo12,Joe Williams
 252,2017,2017-04-29,SF,IND,2017,4,143,0,MackMa00,Marlon Mack
 252,2017,2017-04-29,SF,IND,2017,5,161,0,WalkAn01,Anthony Walker
-253,2017,2017-04-29,NYJ,LAR,2017,4,125,0,EbukSa00,Samson Ebukam
-253,2017,2017-04-29,LAR,NYJ,2017,4,141,0,HansCh00,Chad Hansen
-253,2017,2017-04-29,LAR,NYJ,2017,6,197,0,ClarJe04,Jeremy Clark
+253,2017,2017-04-29,NYJ,LA,2017,4,125,0,EbukSa00,Samson Ebukam
+253,2017,2017-04-29,LA,NYJ,2017,4,141,0,HansCh00,Chad Hansen
+253,2017,2017-04-29,LA,NYJ,2017,6,197,0,ClarJe04,Jeremy Clark
 254,2017,2017-04-29,DEN,CLE,2017,4,126,0,WilsHo00,Howard Wilson
 254,2017,2017-04-29,DEN,CLE,2017,7,252,0,DayeMa00,Matthew Dayes
 254,2017,2017-04-29,CLE,DEN,2017,5,145,0,ButtJa00,Jake Butt
@@ -830,15 +830,15 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 268,2017,2017-04-29,MIA,TB,2017,7,223,0,TuikSt00,Stevie Tu'ikolovatu
 268,2017,2017-04-29,TB,MIA,2017,7,237,0,FordIs00,Isaiah Ford
 268,2017,2017-04-29,TB,MIA,2018,7,223,0,TaylJu00,Jullian Taylor
-269,2017,2017-06-15,DET,LAR,2018,6,194,0,GageRu00,Russell Gage
-269,2017,2017-06-15,LAR,DET,,,,,RobiGr01,Greg Robinson
+269,2017,2017-06-15,DET,LA,2018,6,194,0,GageRu00,Russell Gage
+269,2017,2017-06-15,LA,DET,,,,,RobiGr01,Greg Robinson
 270,2017,2017-08-11,PHI,BUF,,,,,MattJo00,Jordan Matthews
 270,2017,2017-08-11,PHI,BUF,2018,3,96,0,PhilHa00,Harrison Phillips
 270,2017,2017-08-11,BUF,PHI,,,,,DarbRo00,Ronald Darby
-271,2017,2017-08-11,BUF,LAR,,,,,WatkSa00,Sammy Watkins
-271,2017,2017-08-11,BUF,LAR,2018,6,195,0,JoseSe00,Sebastian Joseph
-271,2017,2017-08-11,LAR,BUF,,,,,GainE.00,EJ Gaines
-271,2017,2017-08-11,LAR,BUF,2018,2,56,0,DawsDu00,Duke Dawson
+271,2017,2017-08-11,BUF,LA,,,,,WatkSa00,Sammy Watkins
+271,2017,2017-08-11,BUF,LA,2018,6,195,0,JoseSe00,Sebastian Joseph
+271,2017,2017-08-11,LA,BUF,,,,,GainE.00,EJ Gaines
+271,2017,2017-08-11,LA,BUF,2018,2,56,0,DawsDu00,Duke Dawson
 272,2017,2017-08-22,PHI,SEA,,,,,TobiMa00,Matt Tobin
 272,2017,2017-08-22,PHI,SEA,2018,7,250,0,IzzoRy00,Ryan Izzo
 272,2017,2017-08-22,SEA,PHI,2018,5,156,0,FumaTr00,Troy Fumagalli
@@ -864,8 +864,8 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 280,2017,2017-09-02,PIT,CLE,2019,7,234,0,GaskMy00,Myles Gaskin
 281,2017,2017-09-02,NYG,PIT,2018,7,220,1,McGoAl00,Alex McGough
 281,2017,2017-09-02,PIT,NYG,,,,,CockRo00,Ross Cockrell
-282,2017,2017-09-02,LAR,WAS,2018,7,241,0,StroGr00,Greg Stroman
-282,2017,2017-09-02,WAS,LAR,,,,,CarrDe00,Derek Carrier
+282,2017,2017-09-02,LA,WAS,2018,7,241,0,StroGr00,Greg Stroman
+282,2017,2017-09-02,WAS,LA,,,,,CarrDe00,Derek Carrier
 283,2017,2017-10-26,CHI,LAC,2018,,,1,,
 283,2017,2017-10-26,LAC,CHI,,,,,InmaDo00,Dontrelle Inman
 284,2017,2017-10-28,JAX,BUF,2018,5,166,0,TellWy00,Wyatt Teller
@@ -902,23 +902,23 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 294,2018,2018-03-14,CLE,GB,,,,,KizeDe00,DeShone Kizer
 294,2018,2018-03-14,CLE,GB,2018,4,101,0,ThomIa00,Ian Thomas
 294,2018,2018-03-14,CLE,GB,2018,5,138,0,MadiCo01,Cole Madison
-295,2018,2018-03-14,NYG,LAR,2018,4,135,0,FranJo02,John Franklin-Myers
-295,2018,2018-03-14,NYG,LAR,2018,6,176,0,KellJo00,John Kelly
-295,2018,2018-03-14,LAR,NYG,,,,,OgleAl00,Alec Ogletree
-295,2018,2018-03-14,LAR,NYG,2019,7,245,0,SlayCh00,Chris Slayton
+295,2018,2018-03-14,NYG,LA,2018,4,135,0,FranJo02,John Franklin-Myers
+295,2018,2018-03-14,NYG,LA,2018,6,176,0,KellJo00,John Kelly
+295,2018,2018-03-14,LA,NYG,,,,,OgleAl00,Alec Ogletree
+295,2018,2018-03-14,LA,NYG,2019,7,245,0,SlayCh00,Chris Slayton
 296,2018,2018-03-14,CLE,NE,,,,,ShelDa01,Danny Shelton
 296,2018,2018-03-14,CLE,NE,2018,5,159,0,FounDa00,Daurice Fountain
 296,2018,2018-03-14,NE,CLE,2019,3,95,0,XimiOs00,Oshane Ximines
-297,2018,2018-03-14,LAR,DEN,2018,5,160,0,OkorOg00,Ogbonnia Okoronkwo
-297,2018,2018-03-14,DEN,LAR,,,,,TaliAq99,Aqib Talib
-298,2018,2018-03-14,KC,LAR,,,,,PeteMa00,Marcus Peters
-298,2018,2018-03-14,KC,LAR,2018,6,209,0,ArmsCo00,Cornell Armstrong
-298,2018,2018-03-14,LAR,KC,2018,4,124,0,WattAr00,Armani Watts
-298,2018,2018-03-14,LAR,KC,2019,2,63,0,ThorJu00,Juan Thornhill
-299,2018,2018-03-14,LAR,MIA,,,,,QuinRo00,Robert Quinn
-299,2018,2018-03-14,LAR,MIA,2018,6,209,0,ArmsCo00,Cornell Armstrong
-299,2018,2018-03-14,MIA,LAR,2018,4,111,0,AlleBr02,Brian Allen
-299,2018,2018-03-14,MIA,LAR,2018,6,183,0,JoneSa00,Sam Jones
+297,2018,2018-03-14,LA,DEN,2018,5,160,0,OkorOg00,Ogbonnia Okoronkwo
+297,2018,2018-03-14,DEN,LA,,,,,TaliAq99,Aqib Talib
+298,2018,2018-03-14,KC,LA,,,,,PeteMa00,Marcus Peters
+298,2018,2018-03-14,KC,LA,2018,6,209,0,ArmsCo00,Cornell Armstrong
+298,2018,2018-03-14,LA,KC,2018,4,124,0,WattAr00,Armani Watts
+298,2018,2018-03-14,LA,KC,2019,2,63,0,ThorJu00,Juan Thornhill
+299,2018,2018-03-14,LA,MIA,,,,,QuinRo00,Robert Quinn
+299,2018,2018-03-14,LA,MIA,2018,6,209,0,ArmsCo00,Cornell Armstrong
+299,2018,2018-03-14,MIA,LA,2018,4,111,0,AlleBr02,Brian Allen
+299,2018,2018-03-14,MIA,LA,2018,6,183,0,JoneSa00,Sam Jones
 300,2018,2018-03-14,DEN,MIN,,,,,SiemTr00,Trevor Siemian
 300,2018,2018-03-14,DEN,MIN,2018,7,225,0,DownDe00,Devante Downs
 300,2018,2018-03-14,MIN,DEN,2019,5,156,0,HollJu00,Justin Hollins
@@ -948,10 +948,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 306,2018,2018-03-29,DEN,WAS,2018,5,142,0,ReedD.00,D.J. Reed
 306,2018,2018-03-29,DEN,WAS,2018,5,163,0,SettTi00,Tim Settle
 306,2018,2018-03-29,DEN,WAS,2020,7,,1,,
-307,2018,2018-04-04,NE,LAR,,,,,CookBr00,Brandin Cooks
-307,2018,2018-04-04,NE,LAR,2018,4,136,0,HaynMa01,Marquis Haynes
-307,2018,2018-04-04,LAR,NE,2018,1,23,0,WynnIs00,Isaiah Wynn
-307,2018,2018-04-04,LAR,NE,2018,6,198,0,McKeKa00,Kahlil McKenzie
+307,2018,2018-04-04,NE,LA,,,,,CookBr00,Brandin Cooks
+307,2018,2018-04-04,NE,LA,2018,4,136,0,HaynMa01,Marquis Haynes
+307,2018,2018-04-04,LA,NE,2018,1,23,0,WynnIs00,Isaiah Wynn
+307,2018,2018-04-04,LA,NE,2018,6,198,0,McKeKa00,Kahlil McKenzie
 308,2018,2018-04-26,TB,BUF,2018,1,7,0,AlleJo02,Josh Allen
 308,2018,2018-04-26,BUF,TB,2018,1,12,0,VeaxVi00,Vita Vea
 308,2018,2018-04-26,BUF,TB,2018,2,53,0,StewM.00,M.J. Stewart
@@ -1020,9 +1020,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 326,2018,2018-04-27,SEA,PIT,2018,3,76,0,RudoMa00,Mason Rudolph
 326,2018,2018-04-27,PIT,SEA,2018,3,79,0,GreeRa01,Rasheem Green
 326,2018,2018-04-27,PIT,SEA,2018,7,220,0,McGoAl00,Alex McGough
-327,2018,2018-04-27,LAR,OAK,2018,3,87,0,KeyxAr00,Arden Key
-327,2018,2018-04-27,OAK,LAR,2018,3,89,0,NoteJo00,Joseph Noteboom
-327,2018,2018-04-27,OAK,LAR,2018,6,217,0,BierKe00,Keishawn Bierria
+327,2018,2018-04-27,LA,OAK,2018,3,87,0,KeyxAr00,Arden Key
+327,2018,2018-04-27,OAK,LA,2018,3,89,0,NoteJo00,Joseph Noteboom
+327,2018,2018-04-27,OAK,LA,2018,6,217,0,BierKe00,Keishawn Bierria
 328,2018,2018-04-27,CAR,GB,2018,3,88,0,BurkOr00,Oren Burks
 328,2018,2018-04-27,GB,CAR,2018,4,101,0,ThomIa00,Ian Thomas
 328,2018,2018-04-27,GB,CAR,2018,5,147,0,KiseMi00,Micah Kiser
@@ -1037,9 +1037,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 331,2018,2018-04-28,CLE,NE,2018,6,178,0,SamxCh00,Christian Sam
 332,2018,2018-04-28,NE,DET,2018,4,114,0,HandDa00,Da'Shawn Hand
 332,2018,2018-04-28,DET,NE,2019,3,73,0,MontDa01,David Montgomery
-333,2018,2018-04-28,LAR,CAR,2018,4,136,0,HaynMa01,Marquis Haynes
-333,2018,2018-04-28,CAR,LAR,2018,5,147,0,KiseMi00,Micah Kiser
-333,2018,2018-04-28,CAR,LAR,2018,6,197,0,DionSh00,Shaun Dion Hamilton
+333,2018,2018-04-28,LA,CAR,2018,4,136,0,HaynMa01,Marquis Haynes
+333,2018,2018-04-28,CAR,LA,2018,5,147,0,KiseMi00,Micah Kiser
+333,2018,2018-04-28,CAR,LA,2018,6,197,0,DionSh00,Shaun Dion Hamilton
 334,2018,2018-04-28,IND,OAK,2018,5,140,0,HursMa00,Maurice Hurst
 334,2018,2018-04-28,OAK,IND,2018,5,159,0,FounDa00,Daurice Fountain
 334,2018,2018-04-28,OAK,IND,2018,6,185,0,CainDe00,Deon Cain
@@ -1052,22 +1052,22 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 337,2018,2018-04-28,NYJ,MIN,2018,5,157,0,ConkTy00,Tyler Conklin
 337,2018,2018-04-28,MIN,NYJ,2018,5,167,0,CarlDa00,Daniel Carlson
 337,2018,2018-04-28,MIN,NYJ,2018,7,225,0,DownDe00,Devante Downs
-338,2018,2018-04-28,DEN,LAR,2018,5,160,0,OkorOg00,Ogbonnia Okoronkwo
-338,2018,2018-04-28,LAR,DEN,2018,6,183,0,JoneSa00,Sam Jones
-338,2018,2018-04-28,LAR,DEN,2018,6,217,0,BierKe00,Keishawn Bierria
+338,2018,2018-04-28,DEN,LA,2018,5,160,0,OkorOg00,Ogbonnia Okoronkwo
+338,2018,2018-04-28,LA,DEN,2018,6,183,0,JoneSa00,Sam Jones
+338,2018,2018-04-28,LA,DEN,2018,6,217,0,BierKe00,Keishawn Bierria
 339,2018,2018-04-28,NYJ,MIN,2018,5,167,0,CarlDa00,Daniel Carlson
 339,2018,2018-04-28,NYJ,MIN,2018,7,225,0,DownDe00,Devante Downs
 339,2018,2018-04-28,MIN,NYJ,2018,6,180,0,FatuFo00,Folorunso Fatukasi
 339,2018,2018-04-28,MIN,NYJ,2018,6,204,0,CannTr00,Trenton Cannon
-340,2018,2018-04-28,DAL,LAR,2018,6,192,0,DembJa00,Jamil Demby
-340,2018,2018-04-28,LAR,DAL,,,,,AustTa00,Tavon Austin
-341,2018,2018-04-28,LAR,ATL,2018,6,194,0,GageRu00,Russell Gage
-341,2018,2018-04-28,ATL,LAR,2018,7,244,0,LawlJu00,Justin Lawler
-341,2018,2018-04-28,ATL,LAR,2018,7,256,0,QuinTr00,Trey Quinn
-342,2018,2018-04-28,LAR,WAS,2018,6,197,0,DionSh00,Shaun Dion Hamilton
-342,2018,2018-04-28,LAR,WAS,2018,7,256,0,QuinTr00,Trey Quinn
-342,2018,2018-04-28,WAS,LAR,2018,6,205,0,YounTr00,Trevon Young
-342,2018,2018-04-28,WAS,LAR,2018,7,231,0,HowaTr00,Travin Howard
+340,2018,2018-04-28,DAL,LA,2018,6,192,0,DembJa00,Jamil Demby
+340,2018,2018-04-28,LA,DAL,,,,,AustTa00,Tavon Austin
+341,2018,2018-04-28,LA,ATL,2018,6,194,0,GageRu00,Russell Gage
+341,2018,2018-04-28,ATL,LA,2018,7,244,0,LawlJu00,Justin Lawler
+341,2018,2018-04-28,ATL,LA,2018,7,256,0,QuinTr00,Trey Quinn
+342,2018,2018-04-28,LA,WAS,2018,6,197,0,DionSh00,Shaun Dion Hamilton
+342,2018,2018-04-28,LA,WAS,2018,7,256,0,QuinTr00,Trey Quinn
+342,2018,2018-04-28,WAS,LA,2018,6,205,0,YounTr00,Trevon Young
+342,2018,2018-04-28,WAS,LA,2018,7,231,0,HowaTr00,Travin Howard
 343,2018,2018-04-28,NE,KC,2018,6,198,0,McKeKa00,Kahlil McKenzie
 343,2018,2018-04-28,KC,NE,2018,7,233,0,MailJo00,Jordan Mailata
 343,2018,2018-04-28,KC,NE,2018,7,243,0,CrosKe00,Keion Crossen
@@ -1123,9 +1123,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 363,2018,2018-10-25,NYG,DET,,,,,HarrDa03,Damon Harrison
 364,2018,2018-10-30,PHI,DET,2019,3,88,0,BartCo00,Cody Barton
 364,2018,2018-10-30,DET,PHI,,,,,TateGo00,Golden Tate
-365,2018,2018-10-30,LAR,JAX,2019,3,98,0,WillQu01,Quincy Williams
-365,2018,2018-10-30,LAR,JAX,2020,5,,0,,
-365,2018,2018-10-30,JAX,LAR,,,,,FowlDa00,Dante Fowler
+365,2018,2018-10-30,LA,JAX,2019,3,98,0,WillQu01,Quincy Williams
+365,2018,2018-10-30,LA,JAX,2020,5,,0,,
+365,2018,2018-10-30,JAX,LA,,,,,FowlDa00,Dante Fowler
 366,2018,2018-10-30,WAS,GB,2019,4,118,0,FrohHj00,Hjalte Froholdt
 366,2018,2018-10-30,GB,WAS,,,,,ClinHa00,Ha Ha Clinton-Dix
 367,2018,2018-10-30,DEN,HOU,,,,,ThomDe03,Demaryius Thomas
@@ -1177,10 +1177,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 380,2019,2019-04-25,NYG,SEA,2019,2,37,0,LittGr01,Greg Little
 380,2019,2019-04-25,NYG,SEA,2019,4,132,0,AmadUg00,Ugochukwu Amadi
 380,2019,2019-04-25,NYG,SEA,2019,5,142,0,BurrBe00,Ben Burr-Kirven
-381,2019,2019-04-25,LAR,ATL,2019,1,31,0,McGaKa00,Kaleb McGary
-381,2019,2019-04-25,LAR,ATL,2019,6,203,0,GreeMa02,Marcus Green
-381,2019,2019-04-25,ATL,LAR,2019,2,45,0,WillJo13,Joejuan Williams
-381,2019,2019-04-25,ATL,LAR,2019,3,79,0,LongDa02,David Long
+381,2019,2019-04-25,LA,ATL,2019,1,31,0,McGaKa00,Kaleb McGary
+381,2019,2019-04-25,LA,ATL,2019,6,203,0,GreeMa02,Marcus Green
+381,2019,2019-04-25,ATL,LA,2019,2,45,0,WillJo13,Joejuan Williams
+381,2019,2019-04-25,ATL,LA,2019,3,79,0,LongDa02,David Long
 382,2019,2019-04-26,OAK,JAX,2019,2,35,0,TaylJa02,Jawaan Taylor
 382,2019,2019-04-26,OAK,JAX,2019,5,140,0,ArmsRy00,Ryquell Armstead
 382,2019,2019-04-26,OAK,JAX,2019,7,235,0,RussDo00,Dontavius Russell
@@ -1196,9 +1196,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 385,2019,2019-04-26,DEN,CIN,2019,2,52,0,SampDr00,Drew Sample
 385,2019,2019-04-26,DEN,CIN,2019,4,125,0,WrenRe00,Renell Wren
 385,2019,2019-04-26,DEN,CIN,2019,6,182,0,WillTr06,Trayveon Williams
-386,2019,2019-04-26,LAR,NE,2019,2,45,0,WillJo13,Joejuan Williams
-386,2019,2019-04-26,NE,LAR,2019,2,56,0,HardMe00,Mecole Hardman
-386,2019,2019-04-26,NE,LAR,2019,3,101,0,CajuYo00,Yodny Cajuste
+386,2019,2019-04-26,LA,NE,2019,2,45,0,WillJo13,Joejuan Williams
+386,2019,2019-04-26,NE,LA,2019,2,56,0,HardMe00,Mecole Hardman
+386,2019,2019-04-26,NE,LA,2019,3,101,0,CajuYo00,Yodny Cajuste
 387,2019,2019-04-26,IND,CLE,2019,2,46,0,WillGr00,Greedy Williams
 387,2019,2019-04-26,CLE,IND,2019,2,49,0,BanoBe00,Ben Banogu
 387,2019,2019-04-26,CLE,IND,2019,5,144,0,TellMa00,Marvell Tell
@@ -1207,15 +1207,15 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 388,2019,2019-04-26,NO,MIA,2019,2,62,0,IsabAn00,Andy Isabella
 388,2019,2019-04-26,NO,MIA,2019,6,202,0,PrinIs00,Isaiah Prince
 388,2019,2019-04-26,NO,MIA,2020,2,56,1,,
-389,2019,2019-04-26,LAR,KC,2019,2,56,0,HardMe00,Mecole Hardman
-389,2019,2019-04-26,KC,LAR,2019,2,61,0,RappTa00,Taylor Rapp
-389,2019,2019-04-26,KC,LAR,2019,5,167,0,ThorCl00,Clayton Thorson
+389,2019,2019-04-26,LA,KC,2019,2,56,0,HardMe00,Mecole Hardman
+389,2019,2019-04-26,KC,LA,2019,2,61,0,RappTa00,Taylor Rapp
+389,2019,2019-04-26,KC,LA,2019,5,167,0,ThorCl00,Clayton Thorson
 390,2019,2019-04-26,MIA,ARI,2019,2,62,0,IsabAn00,Andy Isabella
 390,2019,2019-04-26,MIA,ARI,2020,5,,0,,
 390,2019,2019-04-26,ARI,MIA,,,,,RoseJo01,Josh Rosen
-391,2019,2019-04-26,TB,LAR,2019,3,70,0,HendDa00,Darrell Henderson
-391,2019,2019-04-26,LAR,TB,2019,3,94,0,DeanJa00,Jamel Dean
-391,2019,2019-04-26,LAR,TB,2019,3,99,0,EdwaMi01,Mike Edwards
+391,2019,2019-04-26,TB,LA,2019,3,70,0,HendDa00,Darrell Henderson
+391,2019,2019-04-26,LA,TB,2019,3,94,0,DeanJa00,Jamel Dean
+391,2019,2019-04-26,LA,TB,2019,3,99,0,EdwaMi01,Mike Edwards
 392,2019,2019-04-26,SEA,NE,2019,3,77,0,WinoCh00,Chase Winovich
 392,2019,2019-04-26,SEA,NE,2019,4,118,0,FrohHj00,Hjalte Froholdt
 392,2019,2019-04-26,NE,SEA,2019,2,64,0,MetcDK00,D.K. Metcalf
@@ -1234,10 +1234,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 396,2019,2019-04-26,MIN,NYJ,2019,3,92,0,EdogCh00,Chuma Edoga
 396,2019,2019-04-26,NYJ,MIN,2019,3,93,0,BoykMi00,Miles Boykin
 396,2019,2019-04-26,NYJ,MIN,2019,7,217,0,BoydKr00,Kris Boyd
-397,2019,2019-04-26,NE,LAR,2019,3,97,0,EvanBo00,Bobby Evans
-397,2019,2019-04-26,NE,LAR,2019,5,162,0,SmitCa01,Cameron Smith
-397,2019,2019-04-26,LAR,NE,2019,3,101,0,CajuYo00,Yodny Cajuste
-397,2019,2019-04-26,LAR,NE,2019,4,133,0,StidJa00,Jarrett Stidham
+397,2019,2019-04-26,NE,LA,2019,3,97,0,EvanBo00,Bobby Evans
+397,2019,2019-04-26,NE,LA,2019,5,162,0,SmitCa01,Cameron Smith
+397,2019,2019-04-26,LA,NE,2019,3,101,0,CajuYo00,Yodny Cajuste
+397,2019,2019-04-26,LA,NE,2019,4,133,0,StidJa00,Jarrett Stidham
 398,2019,2019-04-26,BAL,MIN,2019,3,102,0,MattAl01,Alexander Mattison
 398,2019,2019-04-26,BAL,MIN,2019,6,191,0,EppsMa00,Marcus Epps
 398,2019,2019-04-26,BAL,MIN,2019,6,193,0,UdohOl00,Oli Udoh
@@ -1264,10 +1264,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 405,2019,2019-04-27,NYJ,TEN,2019,5,168,0,WalkDA02,D'Andre Walker
 405,2019,2019-04-27,TEN,NYJ,2019,4,121,0,WescTr00,Trevon Wesco
 405,2019,2019-04-27,TEN,NYJ,2019,5,157,0,CashBl00,Blake Cashman
-406,2019,2019-04-27,NE,LAR,2019,4,134,0,GainGr00,Greg Gaines
-406,2019,2019-04-27,NE,LAR,2019,7,243,0,ScotNi01,Nick Scott
-406,2019,2019-04-27,LAR,NE,2019,5,162,0,SmitCa01,Cameron Smith
-406,2019,2019-04-27,LAR,NE,2019,5,167,0,ThorCl00,Clayton Thorson
+406,2019,2019-04-27,NE,LA,2019,4,134,0,GainGr00,Greg Gaines
+406,2019,2019-04-27,NE,LA,2019,7,243,0,ScotNi01,Nick Scott
+406,2019,2019-04-27,LA,NE,2019,5,162,0,SmitCa01,Cameron Smith
+406,2019,2019-04-27,LA,NE,2019,5,167,0,ThorCl00,Clayton Thorson
 407,2019,2019-04-27,OAK,ATL,2019,4,135,0,ComiJo00,John Cominsky
 407,2019,2019-04-27,ATL,OAK,2019,4,137,0,MoreFo00,Foster Moreau
 407,2019,2019-04-27,ATL,OAK,2019,7,230,0,BellQu00,Quinton Bell
@@ -1363,13 +1363,13 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 439,2019,2019-10-01,PHI,ATL,2020,7,228,0,HofrSt00,Sterling Hofrichter
 439,2019,2019-10-01,ATL,PHI,,,,,RileDu00,Duke Riley
 439,2019,2019-10-01,ATL,PHI,2020,6,190,0,WoerCh00,Charlie Woerner
-440,2019,2019-10-16,LAR,JAX,2020,1,20,0,ChaiKL00,K'Lavon Chaisson
-440,2019,2019-10-16,LAR,JAX,2021,1,,0,,
-440,2019,2019-10-16,LAR,JAX,2021,4,,0,,
-440,2019,2019-10-16,JAX,LAR,,,,,RamsJa00,Jalen Ramsey
-441,2019,2019-10-16,BAL,LAR,,,,,YounKe03,Kenny Young
-441,2019,2019-10-16,BAL,LAR,2020,5,173,0,MoonDa00,Darnell Mooney
-441,2019,2019-10-16,LAR,BAL,,,,,PeteMa00,Marcus Peters
+440,2019,2019-10-16,LA,JAX,2020,1,20,0,ChaiKL00,K'Lavon Chaisson
+440,2019,2019-10-16,LA,JAX,2021,1,,0,,
+440,2019,2019-10-16,LA,JAX,2021,4,,0,,
+440,2019,2019-10-16,JAX,LA,,,,,RamsJa00,Jalen Ramsey
+441,2019,2019-10-16,BAL,LA,,,,,YounKe03,Kenny Young
+441,2019,2019-10-16,BAL,LA,2020,5,173,0,MoonDa00,Darnell Mooney
+441,2019,2019-10-16,LA,BAL,,,,,PeteMa00,Marcus Peters
 442,2019,2019-10-21,HOU,OAK,2020,3,91,0,AsiaDe00,Devin Asiasi
 442,2019,2019-10-21,OAK,HOU,,,,,ConlGa00,Gareon Conley
 443,2019,2019-10-22,NE,ATL,2020,2,55,0,DobbJK00,J.K. Dobbins
@@ -1383,9 +1383,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 445,2019,2019-10-28,NYJ,NYG,,,,,WillLe02,Leonard Williams
 446,2019,2019-10-28,ARI,MIA,2020,5,153,0,McKiCo00,Colton McKivitz
 446,2019,2019-10-28,MIA,ARI,,,,,DrakKe00,Kenyan Drake
-447,2019,2019-10-29,LAR,MIA,,,,,TaliAq99,Aqib Talib
-447,2019,2019-10-29,LAR,MIA,2020,5,173,0,MoonDa00,Darnell Mooney
-447,2019,2019-10-29,MIA,LAR,2022,7,,0,,
+447,2019,2019-10-29,LA,MIA,,,,,TaliAq99,Aqib Talib
+447,2019,2019-10-29,LA,MIA,2020,5,173,0,MoonDa00,Darnell Mooney
+447,2019,2019-10-29,MIA,LA,2022,7,,0,,
 448,2020,2020-03-03,DEN,JAX,2020,4,137,0,ScotJo00,Josiah Scott
 448,2020,2020-03-03,JAX,DEN,,,,,BouyA.00,A.J. Bouye
 449,2020,2020-03-15,BAL,JAX,2020,5,157,0,ThomDa07,Daniel Thomas
@@ -1421,9 +1421,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 458,2020,2020-03-23,CAR,WAS,,,,,AlleKy00,Kyle Allen
 459,2020,2020-03-23,SEA,WAS,2020,5,162,0,HudsKh00,Khaleke Hudson
 459,2020,2020-03-23,WAS,SEA,,,,,DunbQu00,Quinton Dunbar
-460,2020,2020-04-09,HOU,LAR,2020,2,57,0,JeffVa00,Van Jefferson
-460,2020,2020-04-09,LAR,HOU,,,,,CookBr00,Brandin Cooks
-460,2020,2020-04-09,LAR,HOU,2022,4,,0,,
+460,2020,2020-04-09,HOU,LA,2020,2,57,0,JeffVa00,Van Jefferson
+460,2020,2020-04-09,LA,HOU,,,,,CookBr00,Brandin Cooks
+460,2020,2020-04-09,LA,HOU,2022,4,,0,,
 461,2020,2020-04-21,NE,TB,,,,,GronRo00,Rob Gronkowski
 461,2020,2020-04-21,NE,TB,2020,7,241,0,RussCh00,Chapelle Russell
 461,2020,2020-04-21,TB,NE,2020,4,117,0,WonnDJ00,D.J. Wonnum
@@ -1483,10 +1483,10 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 476,2020,2020-04-25,HOU,MIA,2020,4,111,0,KindSo00,Solomon Kindley
 476,2020,2020-04-25,MIA,HOU,2020,4,136,0,HopkBr01,Brycen Hopkins
 476,2020,2020-04-25,MIA,HOU,2020,4,141,0,ReidJo00,John Reid
-477,2020,2020-04-25,LAR,HOU,2020,4,126,0,HeckCh00,Charlie Heck
-477,2020,2020-04-25,HOU,LAR,2020,4,136,0,HopkBr01,Brycen Hopkins
-477,2020,2020-04-25,HOU,LAR,2020,7,248,0,SlomSa00,Sam Sloman
-477,2020,2020-04-25,HOU,LAR,2020,7,250,0,AnchTr00,Tremayne Anchrum
+477,2020,2020-04-25,LA,HOU,2020,4,126,0,HeckCh00,Charlie Heck
+477,2020,2020-04-25,HOU,LA,2020,4,136,0,HopkBr01,Brycen Hopkins
+477,2020,2020-04-25,HOU,LA,2020,7,248,0,SlomSa00,Sam Sloman
+477,2020,2020-04-25,HOU,LA,2020,7,250,0,AnchTr00,Tremayne Anchrum
 478,2020,2020-04-25,PHI,DAL,2020,4,146,0,BiadTy00,Tyler Biadasz
 478,2020,2020-04-25,DAL,PHI,2020,5,164,0,WeavCu00,Curtis Weaver
 478,2020,2020-04-25,DAL,PHI,2021,5,,0,,
