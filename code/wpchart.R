@@ -1,3 +1,6 @@
+source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R")
+library(animation)
+
 seq_fix <- function(start,end,move)
 {
   if (move < 0 && start < end) return(end)
@@ -23,37 +26,41 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     inner_join(team_logos,by=c("home_team"="team")) %>% 
     rename(home_logo=team_logo)
   
-  # game's plays
+  # game's pbp
   report(glue("Processing play data for {game$alt_game_id}"))
-  game_plays <- plays %>% filter(game_id == g | alt_game_id == g)
-  if (nrow(game_plays) == 0) stop("No plays for {game$alt_game_id} found")
+  game_pbp <- pbp %>% filter(game_id == g | alt_game_id == g)
+  if (nrow(game_pbp) == 0) stop("No pbp for {game$alt_game_id} found")
   
   # overtime clock conversion data
-  overtime <- (game_plays %>% pull(qtr) %>% max()) > 4
+  overtime <- (game_pbp %>% pull(qtr) %>% max()) > 4
   if (overtime)
   {
-    min_sec <- (game_plays %>% filter(qtr == 5) %>% pull(game_seconds_remaining) %>% min())
-    max_sec <- (game_plays %>% filter(qtr == 5) %>% pull(game_seconds_remaining) %>% max())
+    min_sec <- (game_pbp %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% min())
+    max_sec <- (game_pbp %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% max())
   } else {
     min_sec <- 0
     max_sec <- 0
   }
   
   # grab WP data
-  base_wp_data <- game_plays %>% 
+  base_wp_data <- game_pbp %>% 
     filter(!is.na(wp)) %>% 
     filter(play_type != "note") %>% 
     mutate(s=ifelse(qtr <= 4,game_seconds_remaining,-(max_sec-game_seconds_remaining)-1),
            wp=ifelse(posteam == away_team,wp,1-wp))
   
   # fix if play other than last is NA
-  report("Fixing plays with a WPA of NA")
+  report("Fixing pbp with a WPA of NA")
   for (r in (nrow(base_wp_data)-1):1)
   {
     if (!is.na(base_wp_data$wp[r]) && is.na(base_wp_data$wpa[r]))
     {
       target_wp <- base_wp_data$wp[r+1]
       base_wp_data$wpa[r] <- target_wp - base_wp_data$wp[r]
+    }
+    if (g == "2019_18_BUF_HOU" & base_wp_data$play_id[r] == 4780)
+    {
+      base_wp_data$wpa[r] <- 0.36
     }
   }
   
@@ -66,7 +73,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     base_wp_data$wpa[r] <- ifelse(base_wp_data$posteam[r] == game$away_team,delta,-delta)
   }  
   
-  # mark labels for relevant plays
+  # mark labels for relevant pbp
   wp_data <- base_wp_data %>% 
     mutate(helped=ifelse(wpa>0,posteam,defteam),
            text=case_when(
@@ -80,7 +87,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
                & penalty_type == "Unnecessary Roughness" ~ glue("{penalty_team} PEN-UR"),
              abs(wpa) > 0.1 & play_type == "no_play" ~
                glue("{penalty_team} PENALTY"),             
-             play_type == "no_play" ~ glue(""), # don't act like no_plays happened
+             play_type == "no_play" ~ glue(""), # don't act like no_pbp happened
              touchdown == 1 & !is.na(kickoff_returner_player_name) ~
                glue("{kickoff_returner_player_name} KR TD"),
              touchdown == 1 & !is.na(punt_returner_player_name) ~
@@ -251,7 +258,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     # output quarter changes
     if (nrow(frm_data %>% filter(qtr == max(qtr))) == 1)
     {
-      report(glue("Plotting plays in quarter {max(frm_data$qtr)}"))
+      report(glue("Plotting pbp in quarter {max(frm_data$qtr)}"))
     }
     
     # plot

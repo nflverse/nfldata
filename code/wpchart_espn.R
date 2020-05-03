@@ -47,29 +47,29 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     filter(play_id == 1) %>% 
     pull(wp)
   
-  # game's plays
+  # game's pbp
   report(glue("Processing play data for {game$alt_game_id}"))
-  game_plays <- plays %>% filter(game_id == g | alt_game_id == g)
-  if (nrow(game_plays) == 0) stop("No plays for {game$alt_game_id} found")
+  game_pbp <- pbp %>% filter(game_id == g | alt_game_id == g)
+  if (nrow(game_pbp) == 0) stop("No pbp for {game$alt_game_id} found")
   
   # overtime clock conversion data
-  overtime <- (game_plays %>% pull(qtr) %>% max()) > 4
+  overtime <- (game_pbp %>% pull(qtr) %>% max()) > 4
   if (overtime)
   {
-    min_sec <- (game_plays %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% min())
-    max_sec <- (game_plays %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% max())
+    min_sec <- (game_pbp %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% min())
+    max_sec <- (game_pbp %>% filter(qtr == 5 & play_type != "note") %>% pull(game_seconds_remaining) %>% max())
   } else {
     min_sec <- 0
     max_sec <- 0
   }
   
   # grab WP data
-  base_wp_data <- game_plays %>% 
+  base_wp_data <- game_pbp %>% 
     select(-wp,-wpa) %>% 
     inner_join(espn_wp,by="play_id") %>% 
     mutate(s=ifelse(qtr <= 4,game_seconds_remaining,-(max_sec-game_seconds_remaining)-1))
 
-  # mark labels for relevant plays
+  # mark labels for relevant pbp
   wp_data <- base_wp_data %>% 
     mutate(helped=ifelse(wpa>0,away_team,home_team),
            off_wpa=ifelse(away_team == posteam,wpa,-wpa),
@@ -84,7 +84,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
                & penalty_type == "Unnecessary Roughness" ~ glue("{penalty_team} PEN-UR"),
              abs(wpa) > 0.1 & play_type == "no_play" ~
                glue("{penalty_team} PENALTY"),             
-             play_type == "no_play" ~ glue(""), # don't act like no_plays happened
+             play_type == "no_play" ~ glue(""), # don't act like no_pbp happened
              touchdown == 1 & !is.na(kickoff_returner_player_name) ~
                glue("{kickoff_returner_player_name} KR TD"),
              touchdown == 1 & !is.na(punt_returner_player_name) ~
@@ -249,7 +249,7 @@ create_wp_plot <- function(g=sample(games$game_id,1))
     # output quarter changes
     if (nrow(frm_data %>% filter(qtr == max(qtr))) == 1)
     {
-      report(glue("Plotting plays in quarter {max(frm_data$qtr)}"))
+      report(glue("Plotting pbp in quarter {max(frm_data$qtr)}"))
     }
     
     # plot

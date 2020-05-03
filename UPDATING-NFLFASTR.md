@@ -1,4 +1,13 @@
-# R Code for Updating nflscrapR data
+# Get nflfastR
+
+You only need to do this part once, but you must first install nflfastR, which you can do with the following commands:
+
+``` r
+install.packages("devtools")
+devtools::install_github("mrcaseb/nflfastR")
+```
+
+# Use this R code to update your nflfastR data
 
 You can download my file here: https://github.com/leesharpe/nfldata/blob/master/code/plays.R
 
@@ -11,51 +20,30 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 # What does this code do?
 
 - [Get data for just the games you're missing!](#which_games)
-- [Fix team abbreviations](#fix_team_abbreviations)
-- [Add in columns about game data](#game_data)
-- [Add in columns from Ben Baldwin's excellent nflscrapR tutorial](#apply_baldwin) which you can [read here](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
-- [Add in columns for colors and logos](#apply_colors_logos) **(NEW as of 2019-11-10)**
-- [Add in columns for completion probability](#apply_cp) **(NEW as of 2019-11-10)**
-  - You must do a one-time install the mgcv package first with command: `install.packages("mgcv")`
-- [Add in columns for series data](#apply_series)
+- [Apply Ben Baldwin's mutations](#apply_baldwin)
+- [Apply Lee Sharpe's mutations](#apply_sharpe)
+- [Add in columns for positional data](#positions)
+- [Add in columns for colors and logos](#apply_colors_logos)
 
 <a name="which_games"/>
 
 ## Get data for just the games you're missing!
 
-The first time you run this, it will download everything. (This will take a long time.)
+The first time you run this, it will download everything. In this case it takes a shortcut and begins with preexisting scraped files hosted by Ben Baldwin rather than actually scrape them all from the NFL which would take longer.
 
 But in subsequent executions, it will check which NFL games are complete that you don't have data for, and get data for those games. When binding, it will automatically fix data types of fields that R likes to complain about through a custom function `fix_inconsistent_data_types()` so the binding can happen cleanly.
 
 In either case, the rest of the modifications described below continue to apply.
 
-*Note: If you are trying to use nflscrapR for live in-game data purposes, this won't work for you. This code only downloads data for games that have been completed.*
-
-<a name="fix_team_abbreviations"/>
-
-## Fix team abbreviations
-
-There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations()`. In particular, it uses JAX to refer to the Jacksonville Jaguars, cleaning up old games that use **JAC**. Additionally, for some reason, the NFL uses **LA** to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of the Los Angeles Rams abbreviations to **LAR**. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
-
-The `fix_team_abbreviations()` function has an optional argument `old_to_new`. When set to **FALSE** (the default), it only does the updates described above. When set to **TRUE**, it goes back and updates older team abbreviations. So when **FALSE**, the San Diego Chargers for example are represented as **SD**. However, sometimes you want to group by franchises across seasons, and want the abbreviations to match for the past. This means the old San Diego Chargers teams will be set to **LAC** instead. You can make this modification easily with the code:
-
-``` r
-plays <- plays %>% fix_team_abbreviations(old_to_new=TRUE)
-```
-<a name="game_data"/>
-
-## Add in columns about game data
-
-This adds in all the columns mentioned [here](https://github.com/leesharpe/nfldata/blob/master/DATASETS.md#games).
-
-If you don't care about these, you can safely ignore them. However, I think most people will find `season` and `week` particularly helpful. I know that I do.
-
+*Note: If you are trying to use nflfastR for live in-game data purposes, this code won't work for you. This code only downloads data for games that have been completed.*
 
 <a name="apply_baldwin"/>
 
-## Add in columns from [Ben Baldwin's code](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+## Apply Ben Baldwin mutations
 
-If you don't want to add these columns, you can set the input for this to FALSE at the top of the file. It's done through the function `apply_baldwin_mutations()`.
+If you don't want to add these columns, you can set the input for this to FALSE at the top of the file.
+
+Ben Baldwin's mutations add the following columns:
 
 - `pass`: Does the play description suggest this play was called as a pass?
 - `rush`: Does the play description suggest this play was called as a rush?
@@ -66,16 +54,76 @@ If you don't want to add these columns, you can set the input for this to FALSE 
 - `name`: Equal to `passer_player_name` unless that is NA, in which case it is equal to `rusher_player_name`
 - `yards_gained`: Fixed the existing nflscrapR column so the value is NA for penalties rather than **0**.
 - `play`: Is this a "normal" play (including penalties)? Specifically, are both `epa` and `posteam` not NA, and is the `play_type` either **no_play**, **pass**, or **run**?
-- **NEW Feb 2020** `passer_epa`: This is the epa value to use if focused only on the passer. Usually it's equal to `epa`, but it avoids punishing the passer for plays where the receiver catches the ball but fumbles.
+- `qb_epa`: This is the epa value to use if focused only on the passer. Usually it's equal to `epa`, but it avoids punishing the passer for plays where the receiver catches the ball but fumbles.
+
+<a name="apply_sharpe"/>
+
+## Apply Lee Sharpe mutations
+
+If you don't want to add these columns, you can set the input for this to FALSE at the top of the file.
+
+Lee Sharpe's mutations will:
+
+- Convert all **JAC** to **JAX** to align usage. The NFL has been inconsistent about this over time.
+- Adds in all the columns mentioned [here](https://github.com/leesharpe/nfldata/blob/master/DATASETS.md#games), except for `gametime` as it's redundant with the existing `game_time_eastern`
+- Adds the column `special`, which is **1** for extra point attempts, field goal attempts, kickoffs, and punts, and **0** otherwise.
+- Change `play_type` to **note** when it's not referring to any kind of play, but rather something like a timeout being called or a notation of the end of a quarter or an injured player leaving or returning to the game. These generally used to be either **NA** or **no_play**. **no_play** is now utilized only for plays where penalties nullified the result of the play. 
+- Convert players who are referred to inconsistently. For example, in 2019, Buffalo Bills quarterback Josh Allen was sometimes referred to as **J.Allen** and sometimes referred to as **Jos.Allen**. This standardizes his name to **J.Allen**.
+
+<a name="positions"/>
+
+## Add Position Columns
+
+If you don't want to add these columns, you can set the input for this to FALSE at the top of the file.
+
+nflfastR includes the ability to scrape the NFL's website for roster data. For each column in nflfastR output that references a player, this joins to the roster data to determine the position the player plays, and makes a separate column to notate that information. The added columns are:
+
+- `passer_player_position`
+- `receiver_player_position`
+- `rusher_player_position`
+- `lateral_receiver_player_position`
+- `lateral_rusher_player_position`
+- `lateral_sack_player_position`
+- `interception_player_position`
+- `lateral_interception_player_position`
+- `punt_returner_player_position`
+- `lateral_punt_returner_player_position`
+- `kickoff_returner_player_position`
+- `lateral_kickoff_returner_player_position`
+- `punter_player_position`
+- `kicker_player_position`
+- `own_kickoff_recovery_player_position`
+- `blocked_player_position`
+- `tackle_for_loss_1_player_position`
+- `tackle_for_loss_2_player_position`
+- `qb_hit_1_player_position`
+- `qb_hit_2_player_position`
+- `forced_fumble_player_1_player_position`
+- `forced_fumble_player_2_player_position`
+- `solo_tackle_1_player_position`
+- `solo_tackle_2_player_position`
+- `assist_tackle_1_player_position`
+- `assist_tackle_2_player_position`
+- `assist_tackle_3_player_position`
+- `assist_tackle_4_player_position`
+- `pass_defense_1_player_position`
+- `pass_defense_2_player_position`
+- `fumbled_1_player_position`
+- `fumbled_2_player_position`
+- `fumble_recovery_1_player_position`
+- `fumble_recovery_2_player_position`
+- `penalty_player_position`
 
 <a name="apply_colors_logos"/>
 
 ## Add team logos and team colors
 
+Note that this is a function available to you, but it's not integrated with the nflfastR output using this code.
+
 For making NFL plots, often you want logos and colors. I usually just added them individually, but now I made a function `apply_colors_and_logos()` to just easily add them as follows:
 
 ``` r
-team_epa <- plays %>%
+team_epa <- pbp %>%
   filter(season == max(season) & !is.na(epa)) %>%
   group_by(posteam) %>%
   summarize(mean_epa=mean(epa)) %>%
@@ -89,41 +137,11 @@ This will add two columns:
 
 The function has an additional optional argument to tell it which column in the exisitng data to use as the team abbreviation to join against. It will default to (in this order): `team`, `posteam`, `defteam`. It will raise an error if you don't specify and none of those columns are present.
 
-<a name="apply_cp"/>
-
-## Add in completion probability
-
-*Note: This requires the Ben Baldwin mutations from above*
-
-This uses a model designed by Ben Baldwin to estimate the completion probability of a pass based on air yards (how many yards from the line of scrimmage the receiver is when the pass arrives) and whether the pass is to the left, middle, or right side of the field. The completion probability is stored in a new column called `cp`. This column will be `NA` for plays where no pass was thrown, when there was no intended receiver (throaways), or if the the number of air yards is -10 or less (very rare).
-
-Completion probability is used in calculating a metric called Completion Percentage Over Expected (CPOE) which is highly stable metric from year-to-year for a given quarterback.  Here's an example of code calculating this which gives you each quarterback's CPOE for the current season.
-
-``` r
-plays %>%
-  filter(season == max(season) & !is.na(cp)) %>%
-  group_by(name) %>%
-  summarize(cpoe=100*mean(complete_pass-cp),count=n()) %>%
-  ungroup() %>%
-  filter(count >= 0.25*max(count)) %>%
-  arrange(desc(cpoe))
-```
-
-In creating the `cp` column, I used Ben's model trained as follows:
-- 2009: This is the earliest season, so no previous training data exists. `cp` is `NA` for all 2009 plays.
-- 2010: This is trained from 2009 data.
-- 2011: This is trained from 2009 and 2010 data.
-- 2012+: Moving forward, each season is trained using the prior three seasons.
-
 <a name="apply_series"/>
 
 ## Add in columns for series data 
 
-**NEW in Feb 2020** This now defaults to FALSE.
-
-If you don't want to add these columns, you can set the input for this to FALSE at the top of the file. It's done through the function `apply_series_data()`.
-
-This is something I've been working on for a while. (If you discover bugs, please let me know!) Anyway, this code allows you to examine an individual series play makeup, and look at whether it succeeded.
+_NOTE: This is now part of the default nflfastR column, but I'm leaving the documentation here for posterity._
 
 A series is defined as every time the offense receieves a new first down. This can happen because a team gained enough yards in the last play to advance the sticks, a defensive penalty resulted in a first down, a change in possession, or following a kickoff or punt. Much like the nflscrapR `drive` column, my new `series` column starts at **1** for each game, and increments each time there is a new series. Some plays will have NA when they aren't defined as part of a series, such as kickoffs or timeouts.
 
