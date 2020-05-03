@@ -39,7 +39,7 @@ In either case, the rest of the modifications described below continue to apply.
 
 <a name="apply_baldwin"/>
 
-## Add in mutations from Ben Baldwin
+## Apply Ben Baldwin mutations
 
 If you don't want to add these columns, you can set the input for this to FALSE at the top of the file.
 
