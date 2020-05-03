@@ -1,4 +1,13 @@
-# R Code for Updating nflfastR data
+# Get nflfastR
+
+You only need to do this part once, but you must first install nflfastR, which you can do with the following commands:
+
+``` r
+install.packages("devtools")
+devtools::install_github("mrcaseb/nflfastR")
+```
+
+# Use this R code to update your nflfastR data
 
 You can download my file here: https://github.com/leesharpe/nfldata/blob/master/code/plays.R
 
