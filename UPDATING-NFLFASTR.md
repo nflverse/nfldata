@@ -39,7 +39,7 @@ In either case, the rest of the modifications described below continue to apply.
 
 <a name="apply_baldwin"/>
 
-## Add in columns from [Ben Baldwin's code](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+## Add in mutations from Ben Baldwin
 
 If you don't want to add these columns, you can set the input for this to FALSE at the top of the file.
 
