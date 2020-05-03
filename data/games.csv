@@ -257,7 +257,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2000011601,1999_19_TEN_IND,1999,DIV,19,2000-01-16,Sunday,,TEN,19,IND,16,Home,-3,35,916,200001160clt,,200116011,5.5,46.5,dome,astroturf,,,Jeff Fisher,Jim Mora,Johnny Grier,RCA Dome
 2000012300,1999_20_TB_STL,1999,CON,20,2000-01-23,Sunday,,TB,6,STL,11,Home,5,17,918,200001230ram,,200123014,14,46,dome,astroturf,,,Tony Dungy,Dick Vermeil,Bill Carollo,TWA Dome
 2000012301,1999_20_TEN_JAX,1999,CON,20,2000-01-23,Sunday,,TEN,33,JAX,14,Home,-19,47,917,200001230jax,,200123030,7,39.5,outdoors,grass,68,12,Jeff Fisher,Tom Coughlin,Bernie Kukar,Alltel Stadium
-2000013000,1999_21_TEN_STL,1999,SB,21,2000-01-30,Sunday,,TEN,16,STL,23,Neutral,7,39,919,200001300oti,,200130010,7,48,dome,astroturf,,,Jeff Fisher,Dick Vermeil,Bob McElwee,Georgia Dome
+2000013000,1999_21_STL_TEN,1999,SB,21,2000-01-30,Sunday,,STL,23,TEN,16,Neutral,-7,39,919,200001300oti,,200130010,7,48,dome,astroturf,,,Dick Vermeil,Jeff Fisher,Bob McElwee,Georgia Dome
 2000090300,2000_01_ARI_NYG,2000,REG,1,2000-09-03,Sunday,13:00:00,ARI,16,NYG,21,Home,5,37,987,200009030nyg,,200903019,6.5,40,outdoors,grass,80,3,Vince Tobin,Jim Fassel,Bill Carollo,Giants Stadium
 2000090301,2000_01_BAL_PIT,2000,REG,1,2000-09-03,Sunday,13:00:00,BAL,16,PIT,0,Home,-16,16,988,200009030pit,,200903023,-2.5,37,outdoors,astroturf,74,8,Brian Billick,Bill Cowher,Phil Luckett,Three Rivers Stadium
 2000090302,2000_01_CAR_WAS,2000,REG,1,2000-09-03,Sunday,13:00:00,CAR,17,WAS,20,Home,3,37,990,200009030was,,200903028,10.5,47.5,outdoors,grass,80,0,George Seifert,Norv Turner,Bob McElwee,FedExField
@@ -516,7 +516,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2001010701,2000_19_PHI_NYG,2000,DIV,19,2001-01-07,Sunday,16:00:00,PHI,10,NYG,20,Home,10,30,1252,200101070nyg,,210107019,4.5,33.5,outdoors,grass,39,5,Andy Reid,Jim Fassel,Ed Hochuli,Giants Stadium
 2001011401,2000_20_MIN_NYG,2000,CON,20,2001-01-14,Sunday,13:00:00,MIN,0,NYG,41,Home,41,41,1253,200101140nyg,,210114019,-1,41.5,outdoors,grass,35,5,Dennis Green,Jim Fassel,Tony Corrente,Giants Stadium
 2001011400,2000_20_BAL_OAK,2000,CON,20,2001-01-14,Sunday,16:00:00,BAL,16,OAK,3,Home,-13,19,1254,200101140rai,,210114013,6,38,outdoors,grass,56,12,Brian Billick,Jon Gruden,Bill Carollo,Network Associates Coliseum
-2001012800,2000_21_NYG_BAL,2000,SB,21,2001-01-28,Sunday,18:18:00,NYG,7,BAL,34,Neutral,27,41,1255,200101280nyg,,210128019,3,33,outdoors,grass,65,8,Jim Fassel,Brian Billick,Gerry Austin,Raymond James Stadium
+2001012800,2000_21_BAL_NYG,2000,SB,21,2001-01-28,Sunday,18:18:00,BAL,34,NYG,7,Neutral,-27,41,1255,200101280nyg,,210128019,3,33,outdoors,grass,65,8,Brian Billick,Jim Fassel,Gerry Austin,Raymond James Stadium
 2001090901,2001_01_CAR_MIN,2001,REG,1,2001-09-09,Sunday,13:00:00,CAR,24,MIN,13,Home,-11,37,17671,200109090min,,210909016,10,45,dome,astroturf,,,George Seifert,Dennis Green,Wayne McKreight,Hubert H. Humphrey Metrodome
 2001090902,2001_01_CHI_BAL,2001,REG,1,2001-09-09,Sunday,13:00:00,CHI,6,BAL,17,Home,11,23,17672,200109090rav,,210909033,10.5,33.5,outdoors,grass,83,10,Dick Jauron,Brian Billick,Joseph Rider,PSINet Stadium
 2001090903,2001_01_DET_GB,2001,REG,1,2001-09-09,Sunday,13:00:00,DET,6,GB,28,Home,22,34,17673,200109090gnb,,210909009,5.5,41.5,outdoors,grass,60,5,Marty Mornhinweg,Mike Sherman,Aster Sizemore,Lambeau Field
@@ -775,7 +775,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2002012000,2001_19_GB_STL,2001,DIV,19,2002-01-20,Sunday,16:00:00,GB,17,STL,45,Home,28,62,18008,200201200ram,,220120014,11,54.5,dome,astroturf,,,Mike Sherman,Mike Martz,Jeff Triplette,Dome at America's Center
 2002012700,2001_20_NE_PIT,2001,CON,20,2002-01-27,Sunday,12:30:00,NE,24,PIT,17,Home,-7,41,18009,200201270pit,,220127023,10,35.5,outdoors,grass,50,16,Bill Belichick,Bill Cowher,Ed Hochuli,Heinz Field
 2002012701,2001_20_PHI_STL,2001,CON,20,2002-01-27,Sunday,16:00:00,PHI,24,STL,29,Home,5,53,18010,200201270ram,,220127014,11,51,dome,astroturf,,,Andy Reid,Mike Martz,Gerry Austin,Dome at America's Center
-2002020300,2001_21_NE_STL,2001,SB,21,2002-02-03,Sunday,18:40:00,NE,20,STL,17,Neutral,-3,37,18012,200202030nwe,,220203017,14,52.5,dome,astroturf,,,Bill Belichick,Mike Martz,Bernie Kukar,Louisiana Superdome
+2002020300,2001_21_STL_NE,2001,SB,21,2002-02-03,Sunday,18:40:00,STL,17,NE,20,Neutral,3,37,18012,200202030nwe,,220203017,14,52.5,dome,astroturf,,,Mike Martz,Bill Belichick,Bernie Kukar,Louisiana Superdome
 2002090500,2002_01_SF_NYG,2002,REG,1,2002-09-05,Thursday,20:30:00,SF,16,NYG,13,Home,-3,29,18094,200209050nyg,,220905019,-4,39,outdoors,grass,73,7,Steve Mariucci,Jim Fassel,Gerry Austin,Giants Stadium
 2002090800,2002_01_ARI_WAS,2002,REG,1,2002-09-08,Sunday,13:00:00,ARI,23,WAS,31,Home,8,54,18104,200209080was,,220908028,6,44.5,outdoors,grass,76,5,Dave McGinnis,Steve Spurrier,Tom White,FedExField
 2002090801,2002_01_NYJ_BUF,2002,REG,1,2002-09-08,Sunday,13:00:00,NYJ,37,BUF,31,Home,-6,68,18095,200209080buf,,220908002,-3,43,outdoors,astroturf,86,6,Herm Edwards,Gregg Williams,Bob McElwee,Ralph Wilson Stadium
@@ -1042,7 +1042,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2003011200,2002_19_NYJ_OAK,2002,DIV,19,2003-01-12,Sunday,16:30:00,NYJ,10,OAK,30,Home,20,40,26313,200301120rai,,230112013,5.5,47,outdoors,grass,61,13,Herm Edwards,Bill Callahan,Dick Hantak,Network Associates Coliseum
 2003011900,2002_20_TB_PHI,2002,CON,20,2003-01-19,Sunday,15:00:00,TB,27,PHI,10,Home,-17,37,26315,200301190phi,,230119021,4,33.5,outdoors,fieldturf,26,14,Jon Gruden,Andy Reid,Terry McAulay,Veterans Stadium
 2003011901,2002_20_TEN_OAK,2002,CON,20,2003-01-19,Sunday,18:30:00,TEN,24,OAK,41,Home,17,65,26316,200301190rai,,230119013,9,46,outdoors,grass,52,9,Jeff Fisher,Bill Callahan,Ed Hochuli,Network Associates Coliseum
-2003012600,2002_21_TB_OAK,2002,SB,21,2003-01-26,Sunday,18:18:00,TB,48,OAK,21,Neutral,-27,69,26317,200301260rai,,230126027,3.5,44,outdoors,grass,81,0,Jon Gruden,Bill Callahan,Bill Carollo,Qualcomm Stadium
+2003012600,2002_21_OAK_TB,2002,SB,21,2003-01-26,Sunday,18:18:00,OAK,21,TB,48,Neutral,27,69,26317,200301260rai,,230126027,3.5,44,outdoors,grass,81,0,Bill Callahan,Jon Gruden,Bill Carollo,Qualcomm Stadium
 2003090400,2003_01_NYJ_WAS,2003,REG,1,2003-09-04,Thursday,09:00:00,NYJ,13,WAS,16,Home,3,29,26494,200309040was,,230904028,3,40,outdoors,grass,72,7,Herm Edwards,Steve Spurrier,Walt Coleman,FedExField
 2003090700,2003_01_ARI_DET,2003,REG,1,2003-09-07,Sunday,13:00:00,ARI,24,DET,42,Home,18,66,26499,200309070det,,230907008,3.5,39,dome,fieldturf,,,Dave McGinnis,Steve Mariucci,Bill Carollo,Ford Field
 2003090701,2003_01_DEN_CIN,2003,REG,1,2003-09-07,Sunday,13:00:00,DEN,30,CIN,10,Home,-20,40,26497,200309070cin,,230907004,-6,43.5,outdoors,grass,72,6,Mike Shanahan,Marvin Lewis,Gerry Austin,Paul Brown Stadium
@@ -2911,7 +2911,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2010011701,2009_19_NYJ_SD,2009,DIV,19,2010-01-17,Sunday,16:40:00,NYJ,17,SD,14,Home,-3,31,54811,201001170sdg,1658,300117024,9,42.5,outdoors,grass,63,8,Rex Ryan,Norv Turner,Jerome Boger,Qualcomm Stadium
 2010012400,2009_20_NYJ_IND,2009,CON,20,2010-01-24,Sunday,15:05:00,NYJ,17,IND,30,Home,13,47,54812,201001240clt,1659,300124011,8.5,40.5,closed,fieldturf,,,Rex Ryan,Jim Caldwell,Tony Corrente,Lucas Oil Stadium
 2010012401,2009_20_MIN_NO,2009,CON,20,2010-01-24,Sunday,18:40:00,MIN,28,NO,31,Home,3,59,54813,201001240nor,1660,300124018,3.5,54,dome,fieldturf,,,Brad Childress,Sean Payton,Peter Morelli,Louisiana Superdome
-2010020700,2009_21_NO_IND,2009,SB,21,2010-02-07,Sunday,18:32:00,NO,31,IND,17,Neutral,-14,48,54814,201002070clt,1661,300207011,4.5,56.5,outdoors,grass,60,6,Sean Payton,Jim Caldwell,Scott Green,Dolphin Stadium
+2010020700,2009_22_NO_IND,2009,SB,22,2010-02-07,Sunday,18:32:00,NO,31,IND,17,Neutral,-14,48,54814,201002070clt,1661,300207011,4.5,56.5,outdoors,grass,60,6,Sean Payton,Jim Caldwell,Scott Green,Dolphin Stadium
 2010090900,2010_01_MIN_NO,2010,REG,1,2010-09-09,Thursday,20:30:00,MIN,9,NO,14,Home,5,23,54863,201009090nor,1727,300909018,5,49.5,dome,sportturf,,,Brad Childress,Sean Payton,Terry McAulay,Louisiana Superdome
 2010091200,2010_01_CLE_TB,2010,REG,1,2010-09-12,Sunday,13:00:00,CLE,14,TB,17,Home,3,31,54871,201009120tam,1728,300912027,2.5,37,outdoors,grass ,87,6,Eric Mangini,Raheem Morris,Jeff Triplette,Raymond James Stadium
 2010091201,2010_01_MIA_BUF,2010,REG,1,2010-09-12,Sunday,13:00:00,MIA,15,BUF,10,Home,-5,25,54864,201009120buf,1729,300912002,-3,39,outdoors,astroplay ,62,7,Tony Sparano,Chan Gailey,Clete Blakeman,Ralph Wilson Stadium
@@ -3178,7 +3178,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2011011600,2010_19_NYJ_NE,2010,DIV,19,2011-01-16,Sunday,16:30:00,NYJ,28,NE,21,Home,-7,49,55159,201101160nwe,1990,310116017,9.5,45,outdoors,fieldturf ,30,14,Rex Ryan,Bill Belichick,Bill Leavy,Gillette Stadium
 2011012301,2010_20_GB_CHI,2010,CON,20,2011-01-23,Sunday,15:00:00,GB,21,CHI,14,Home,-7,35,55160,201101230chi,1991,310123003,-3.5,42.5,outdoors,grass ,20,14,Mike McCarthy,Lovie Smith,Terry McAulay,Soldier Field
 2011012300,2010_20_NYJ_PIT,2010,CON,20,2011-01-23,Sunday,18:30:00,NYJ,19,PIT,24,Home,5,43,55161,201101230pit,1992,310123023,4,38,outdoors,grass ,17,10,Rex Ryan,Mike Tomlin,Ed Hochuli,Heinz Field
-2011020600,2010_21_PIT_GB,2010,SB,21,2011-02-06,Sunday,18:30:00,PIT,25,GB,31,Neutral,6,56,55162,201102060pit,1993,310206009,3,45,closed,grass ,,,Mike Tomlin,Mike McCarthy,Walt Anderson,Cowboys Stadium
+2011020600,2010_22_PIT_GB,2010,SB,22,2011-02-06,Sunday,18:30:00,PIT,25,GB,31,Neutral,6,56,55162,201102060pit,1993,310206009,3,45,closed,grass ,,,Mike Tomlin,Mike McCarthy,Walt Anderson,Cowboys Stadium
 2011090800,2011_01_NO_GB,2011,REG,1,2011-09-08,Thursday,20:30:00,NO,34,GB,42,Home,8,76,55164,201109080gnb,2058,310908009,5,48,outdoors,grass ,68,5,Sean Payton,Mike McCarthy,Clete Blakeman,Lambeau Field
 2011091100,2011_01_PIT_BAL,2011,REG,1,2011-09-11,Sunday,13:00:00,PIT,7,BAL,35,Home,28,42,55165,201109110rav,2069,310911033,1.5,37,outdoors,sportturf,75,2,Mike Tomlin,John Harbaugh,Tony Corrente,M&T Bank Stadium
 2011091101,2011_01_CIN_CLE,2011,REG,1,2011-09-11,Sunday,13:00:00,CIN,27,CLE,17,Home,-10,44,55167,201109110cle,2061,310911005,7,36.5,outdoors,grass ,72,9,Marvin Lewis,Pat Shurmur,Bill Leavy,Cleveland Browns Stadium
@@ -3445,7 +3445,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2012011501,2011_19_NYG_GB,2011,DIV,19,2012-01-15,Sunday,16:30:00,NYG,37,GB,20,Home,-17,57,55497,201201150gnb,2321,320115009,8,54.5,outdoors,grass ,31,20,Tom Coughlin,Mike McCarthy,Bill Leavy,Lambeau Field
 2012012200,2011_20_BAL_NE,2011,CON,20,2012-01-22,Sunday,15:00:00,BAL,20,NE,23,Home,3,43,55498,201201220nwe,2322,320122017,7,50,outdoors,fieldturf ,29,6,John Harbaugh,Bill Belichick,Alberto Riveron,Gillette Stadium
 2012012201,2011_20_NYG_SF,2011,CON,20,2012-01-22,Sunday,18:30:00,NYG,20,SF,17,Home,-3,37,55501,201201220sfo,2323,320122025,2,41.5,outdoors,grass ,52,15,Tom Coughlin,Jim Harbaugh,Ed Hochuli,Candlestick Park
-2012020500,2011_21_NYG_NE,2011,SB,21,2012-02-05,Sunday,18:30:00,NYG,21,NE,17,Neutral,-4,38,55502,201202050nwe,2324,320205017,3,53.5,closed,fieldturf ,,,Tom Coughlin,Bill Belichick,John Parry,Lucas Oil Stadium
+2012020500,2011_22_NYG_NE,2011,SB,22,2012-02-05,Sunday,18:30:00,NYG,21,NE,17,Neutral,-4,38,55502,201202050nwe,2324,320205017,3,53.5,closed,fieldturf ,,,Tom Coughlin,Bill Belichick,John Parry,Lucas Oil Stadium
 2012090500,2012_01_DAL_NYG,2012,REG,1,2012-09-05,Wednesday,20:30:00,DAL,24,NYG,17,Home,-7,41,55504,201209050nyg,2390,320905019,4,46,outdoors,fieldturf,77,5,Jason Garrett,Tom Coughlin,Jim Core,MetLife Stadium
 2012090900,2012_01_IND_CHI,2012,REG,1,2012-09-09,Sunday,13:00:00,IND,21,CHI,41,Home,20,62,55505,201209090chi,2394,320909003,10,42.5,outdoors,grass ,67,13,Chuck Pagano,Lovie Smith,Wayne Elliott,Soldier Field
 2012090901,2012_01_JAX_MIN,2012,REG,1,2012-09-09,Sunday,13:00:00,JAX,23,MIN,26,Home,3,49,55510,201209090min,2395,320909016,3.5,38,dome,sportturf,,,Mike Mularkey,Leslie Frazier,Robert Dalton,Mall of America Field
@@ -3712,7 +3712,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2013011300,2012_19_HOU_NE,2012,DIV,19,2013-01-13,Sunday,16:30:00,HOU,28,NE,41,Home,13,69,55832,201301130nwe,2673,330113017,9.5,51,outdoors,fieldturf ,51,10,Gary Kubiak,Bill Belichick,Tony Corrente,Gillette Stadium
 2013012001,2012_20_SF_ATL,2012,CON,20,2013-01-20,Sunday,15:00:00,SF,28,ATL,24,Home,-4,52,55833,201301200atl,2674,330120001,-4.5,49,dome,fieldturf ,,,Jim Harbaugh,Mike Smith,Terry McAulay,Georgia Dome
 2013012000,2012_20_BAL_NE,2012,CON,20,2013-01-20,Sunday,18:30:00,BAL,28,NE,13,Home,-15,41,55834,201301200nwe,2675,330120017,7.5,51.5,outdoors,fieldturf ,41,18,John Harbaugh,Bill Belichick,Bill Leavy,Gillette Stadium
-2013020300,2012_21_BAL_SF,2012,SB,21,2013-02-03,Sunday,18:30:00,BAL,34,SF,31,Neutral,-3,65,55835,201302030sfo,2676,330203025,4.5,48,dome,astroturf,,,John Harbaugh,Jim Harbaugh,Jerome Boger,Mercedes-Benz Superdome
+2013020300,2012_22_BAL_SF,2012,SB,22,2013-02-03,Sunday,18:30:00,BAL,34,SF,31,Neutral,-3,65,55835,201302030sfo,2676,330203025,4.5,48,dome,astroturf,,,John Harbaugh,Jim Harbaugh,Jerome Boger,Mercedes-Benz Superdome
 2013090500,2013_01_BAL_DEN,2013,REG,1,2013-09-05,Thursday,20:30:00,BAL,27,DEN,49,Home,22,76,55837,201309050den,2742,330905007,7.5,48,outdoors,grass ,83,7,John Harbaugh,John Fox,Walt Coleman,Sports Authority Field at Mile High
 2013090800,2013_01_NE_BUF,2013,REG,1,2013-09-08,Sunday,13:00:00,NE,23,BUF,21,Home,-2,44,55838,201309080buf,2743,330908002,-10.5,50.5,outdoors,a_turf,65,11,Bill Belichick,Doug Marrone,Walt Anderson,Ralph Wilson Stadium
 2013090801,2013_01_SEA_CAR,2013,REG,1,2013-09-08,Sunday,13:00:00,SEA,12,CAR,7,Home,-5,19,55839,201309080car,2744,330908029,-3.5,44.5,outdoors,grass ,87,7,Pete Carroll,Ron Rivera,Jeff Triplette,Bank of America Stadium
@@ -3979,7 +3979,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2014011201,2013_19_SD_DEN,2013,DIV,19,2014-01-12,Sunday,16:40:00,SD,17,DEN,24,Home,7,41,56165,201401120den,3005,340112007,7.5,55,outdoors,grass ,41,17,Mike McCoy,John Fox,Clete Blakeman,Sports Authority Field at Mile High
 2014011900,2013_20_NE_DEN,2013,CON,20,2014-01-19,Sunday,15:00:00,NE,16,DEN,26,Home,10,42,56166,201401190den,3006,340119007,5,56.5,outdoors,grass,63,9,Bill Belichick,John Fox,Tony Corrente,Sports Authority Field at Mile High
 2014011901,2013_20_SF_SEA,2013,CON,20,2014-01-19,Sunday,18:30:00,SF,17,SEA,23,Home,6,40,56167,201401190sea,3007,340119026,4,40.5,outdoors,fieldturf,43,1,Jim Harbaugh,Pete Carroll,Gene Steratore,CenturyLink Field
-2014020200,2013_21_SEA_DEN,2013,SB,21,2014-02-02,Sunday,18:25:00,SEA,43,DEN,8,Neutral,-35,51,56169,201402020den,3008,340202007,2.5,47.5,outdoors,fieldturf,49,4,Pete Carroll,John Fox,Terry McAulay,MetLife Stadium
+2014020200,2013_22_SEA_DEN,2013,SB,22,2014-02-02,Sunday,18:25:00,SEA,43,DEN,8,Neutral,-35,51,56169,201402020den,3008,340202007,2.5,47.5,outdoors,fieldturf,49,4,Pete Carroll,John Fox,Terry McAulay,MetLife Stadium
 2014090400,2014_01_GB_SEA,2014,REG,1,2014-09-04,Thursday,20:30:00,GB,16,SEA,36,Home,20,52,56170,201409040sea,3074,400554214,8.5,45,outdoors,fieldturf ,71,11,Mike McCarthy,Pete Carroll,John Parry,CenturyLink Field
 2014090700,2014_01_NO_ATL,2014,REG,1,2014-09-07,Sunday,13:00:00,NO,34,ATL,37,Home,3,71,56171,201409070atl,3075,400554215,-3,51.5,dome,fieldturf ,,,Sean Payton,Mike Smith,Bill Leavy,Georgia Dome
 2014090701,2014_01_CIN_BAL,2014,REG,1,2014-09-07,Sunday,13:00:00,CIN,23,BAL,16,Home,-7,39,56172,201409070rav,3076,400554229,2,43,outdoors,sportturf,74,8,Marvin Lewis,John Harbaugh,Gene Stetatore,M&T Bank Stadium
@@ -4246,7 +4246,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2015011101,2014_19_IND_DEN,2014,DIV,19,2015-01-11,Sunday,16:40:00,IND,24,DEN,13,Home,-11,37,56498,201501110den,3337,400749517,7,53.5,outdoors,grass ,40,7,Chuck Pagano,John Fox,Bill Leavy,Sports Authority Field at Mile High
 2015011800,2014_20_GB_SEA,2014,CON,20,2015-01-18,Sunday,15:05:00,GB,22,SEA,28,Home,6,50,56499,201501180sea,3338,400749519,8.5,45,outdoors,fieldturf ,52,15,Mike McCarthy,Pete Carroll,Tony Corrente,CenturyLink Field
 2015011801,2014_20_IND_NE,2014,CON,20,2015-01-18,Sunday,18:50:00,IND,7,NE,45,Home,38,52,56500,201501180nwe,3339,400749520,7,52,outdoors,fieldturf ,51,15,Chuck Pagano,Bill Belichick,Walt Anderson,Gillette Stadium
-2015020100,2014_21_NE_SEA,2014,SB,21,2015-02-01,Sunday,18:30:00,NE,28,SEA,24,Neutral,-4,52,56502,201502010sea,3340,400749027,0,47,closed,grass ,,,Bill Belichick,Pete Carroll,Bill Vinovich,University of Phoenix Stadium
+2015020100,2014_22_NE_SEA,2014,SB,22,2015-02-01,Sunday,18:30:00,NE,28,SEA,24,Neutral,-4,52,56502,201502010sea,3340,400749027,0,47,closed,grass ,,,Bill Belichick,Pete Carroll,Bill Vinovich,University of Phoenix Stadium
 2015091000,2015_01_PIT_NE,2015,REG,1,2015-09-10,Thursday,20:30:00,PIT,21,NE,28,Home,7,49,56503,201509100nwe,3406,400791485,7,52,outdoors,fieldturf ,65,7,Mike Tomlin,Bill Belichick,Carl Cheffers,Gillette Stadium
 2015091300,2015_01_GB_CHI,2015,REG,1,2015-09-13,Sunday,13:00:00,GB,31,CHI,23,Home,-8,54,56505,201509130chi,3407,400791489,-6.5,49,outdoors,grass ,72,11,Mike McCarthy,John Fox,Craig Wrolstad,Soldier Field
 2015091301,2015_01_SEA_STL,2015,REG,1,2015-09-13,Sunday,13:00:00,SEA,31,STL,34,Home,3,65,56509,201509130ram,3408,400791550,-4,40.5,dome,astroplay,,,Pete Carroll,Jeff Fisher,Jeff Triplette,Edward Jones Dome
@@ -4513,7 +4513,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2016011701,2015_19_PIT_DEN,2015,DIV,19,2016-01-17,Sunday,16:40:00,PIT,16,DEN,23,Home,7,39,56831,201601170den,3669,400820434,7.5,41,outdoors,grass ,43,9,Mike Tomlin,Gary Kubiak,Terry McAulay,Sports Authority Field at Mile High
 2016012400,2015_20_NE_DEN,2015,CON,20,2016-01-24,Sunday,15:05:00,NE,18,DEN,20,Home,2,38,56832,201601240den,3670,400820436,-3,44.5,outdoors,grass ,46,6,Bill Belichick,Gary Kubiak,Ed Hochuli,Sports Authority Field at Mile High
 2016012401,2015_20_ARI_CAR,2015,CON,20,2016-01-24,Sunday,18:40:00,ARI,15,CAR,49,Home,34,64,56833,201601240car,3671,400820437,3,47.5,outdoors,grass ,39,4,Bruce Arians,Ron Rivera,Bill Vinovich,Bank of America Stadium
-2016020700,2015_21_CAR_DEN,2015,SB,21,2016-02-07,Sunday,18:30:00,CAR,10,DEN,24,Neutral,14,34,56834,201602070den,3672,400820438,-5,44,outdoors,grass,76,16,Ron Rivera,Gary Kubiak,Clete Blakeman,Levi's Stadium
+2016020700,2015_22_CAR_DEN,2015,SB,22,2016-02-07,Sunday,18:30:00,CAR,10,DEN,24,Neutral,14,34,56834,201602070den,3672,400820438,-5,44,outdoors,grass,76,16,Ron Rivera,Gary Kubiak,Clete Blakeman,Levi's Stadium
 2016090800,2016_01_CAR_DEN,2016,REG,1,2016-09-08,Thursday,20:30:00,CAR,20,DEN,21,Home,1,41,56901,201609080den,4094,400874484,-3,40.5,outdoors,grass ,85,10,Ron Rivera,Gary Kubiak,Gene Steratore,Sports Authority Field at Mile High
 2016091100,2016_01_TB_ATL,2016,REG,1,2016-09-11,Sunday,13:00:00,TB,31,ATL,24,Home,-7,55,56902,201609110atl,4095,400874522,2.5,46.5,dome,fieldturf ,,,Dirk Koetter,Dan Quinn,Jeff Triplette,Georgia Dome
 2016091101,2016_01_BUF_BAL,2016,REG,1,2016-09-11,Sunday,13:00:00,BUF,7,BAL,13,Home,6,20,56903,201609110rav,4096,400874510,3,44.5,outdoors,grass,84,8,Rex Ryan,John Harbaugh,Brad Allen,M&T Bank Stadium
@@ -4780,7 +4780,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2017011500,2016_19_PIT_KC,2016,DIV,19,2017-01-15,Sunday,20:20:00,PIT,18,KC,16,Home,-2,34,57163,201701150kan,4356,400927748,2.5,45.5,outdoors,grass ,33,9,Mike Tomlin,Andy Reid,Carl Cheffers,Arrowhead Stadium
 2017012200,2016_20_GB_ATL,2016,CON,20,2017-01-22,Sunday,15:05:00,GB,21,ATL,44,Home,23,65,57165,201701220atl,4359,400927751,6.5,59.5,dome,fieldturf ,,,Mike McCarthy,Dan Quinn,Bill Vinovich,Georgia Dome
 2017012201,2016_20_PIT_NE,2016,CON,20,2017-01-22,Sunday,18:40:00,PIT,17,NE,36,Home,19,53,57166,201701220nwe,4360,400927750,5.5,50,outdoors,fieldturf ,41,10,Mike Tomlin,Bill Belichick,Terry McAulay,Gillette Stadium
-2017020500,2016_21_NE_ATL,2016,SB,21,2017-02-05,Sunday,18:30:00,NE,34,ATL,28,Neutral,-6,62,57167,201702050atl,4361,400927752,-3,57,closed,fieldturf,,,Bill Belichick,Dan Quinn,Carl Cheffers,NRG Stadium
+2017020500,2016_22_NE_ATL,2016,SB,22,2017-02-05,Sunday,18:30:00,NE,34,ATL,28,Neutral,-6,62,57167,201702050atl,4361,400927752,-3,57,closed,fieldturf,,,Bill Belichick,Dan Quinn,Carl Cheffers,NRG Stadium
 2017090700,2017_01_KC_NE,2017,REG,1,2017-09-07,Thursday,20:30:00,KC,42,NE,27,Home,-15,69,57234,201709070nwe,7922,400951566,8,47.5,outdoors,fieldturf ,63,8,Andy Reid,Bill Belichick,Bill Vinovich,Gillette Stadium
 2017091000,2017_01_NYJ_BUF,2017,REG,1,2017-09-10,Sunday,13:00:00,NYJ,12,BUF,21,Home,9,33,57235,201709100buf,7927,400951567,7,42,outdoors,a_turf,65,6,Todd Bowles,Sean McDermott,John Hussey,New Era Field
 2017091001,2017_01_ATL_CHI,2017,REG,1,2017-09-10,Sunday,13:00:00,ATL,23,CHI,17,Home,-6,40,57236,201709100chi,7924,400951570,-6.5,48,outdoors,grass ,64,10,Dan Quinn,John Fox,Jeff Triplette,Soldier Field
@@ -5047,7 +5047,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2018011401,2017_19_NO_MIN,2017,DIV,19,2018-01-14,Sunday,16:40:00,NO,24,MIN,29,Home,5,53,57497,201801140min,9305,400999180,5.5,46.5,dome,sportturf,,,Sean Payton,Mike Zimmer,Gene Steratore,U.S. Bank Stadium
 2018012100,2017_20_JAX_NE,2017,CON,20,2018-01-21,Sunday,15:05:00,JAX,20,NE,24,Home,4,44,57498,201801210nwe,9306,400999172,7.5,46,outdoors,fieldturf ,48,3,Doug Marrone,Bill Belichick,Clete Blakeman,Gillette Stadium
 2018012101,2017_20_MIN_PHI,2017,CON,20,2018-01-21,Sunday,18:41:00,MIN,7,PHI,38,Home,31,45,57499,201801210phi,9307,400999174,-3,39,outdoors,grass ,47,5,Mike Zimmer,Doug Pederson,Ed Hochuli,Lincoln Financial Field
-2018020400,2017_21_PHI_NE,2017,SB,21,2018-02-04,Sunday,18:31:00,PHI,41,NE,33,Neutral,-8,74,57500,201802040nwe,9312,400999173,4.5,48.5,dome,sportturf,,,Doug Pederson,Bill Belichick,Gene Steratore,U.S. Bank Stadium
+2018020400,2017_22_PHI_NE,2017,SB,22,2018-02-04,Sunday,18:31:00,PHI,41,NE,33,Neutral,-8,74,57500,201802040nwe,9312,400999173,4.5,48.5,dome,sportturf,,,Doug Pederson,Bill Belichick,Gene Steratore,U.S. Bank Stadium
 2018090600,2018_01_ATL_PHI,2018,REG,1,2018-09-06,Thursday,20:20:00,ATL,12,PHI,18,Home,6,30,57567,201809060phi,9338,401030710,1,44.5,outdoors,grass ,81,8,Dan Quinn,Doug Pederson,John Hussey,Lincoln Financial Field
 2018090900,2018_01_BUF_BAL,2018,REG,1,2018-09-09,Sunday,13:00:00,BUF,3,BAL,47,Home,44,50,57568,201809090rav,9346,401030711,7.5,39,outdoors,grass,61,12,Sean McDermott,John Harbaugh,Shawn Hochuli,M&T Bank Stadium
 2018090901,2018_01_PIT_CLE,2018,REG,1,2018-09-09,Sunday,13:00:00,PIT,21,CLE,21,Home,0,42,57569,201809090cle,9339,401030718,-3.5,41,outdoors,grass ,58,11,Mike Tomlin,Hue Jackson,Shawn Smith,FirstEnergy Stadium
@@ -5314,7 +5314,7 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2019011301,2018_19_PHI_NO,2018,DIV,19,2019-01-13,Sunday,16:40:00,PHI,14,NO,20,Home,6,34,57830,201901130nor,13614,401038958,8.5,52,dome,sportturf,,,Doug Pederson,Sean Payton,Carl Cheffers,Mercedes-Benz Superdome
 2019012000,2018_20_LA_NO,2018,CON,20,2019-01-20,Sunday,15:05:00,LA,26,NO,23,Home,-3,49,57831,201901200nor,13615,401038118,3,55.5,dome,sportturf,,,Sean McVay,Sean Payton,Bill Vinovich,Mercedes-Benz Superdome
 2019012001,2018_20_NE_KC,2018,CON,20,2019-01-20,Sunday,18:40:00,NE,37,KC,31,Home,-6,68,57832,201901200kan,13616,401038850,3,56,outdoors,grass ,19,14,Bill Belichick,Andy Reid,Clete Blakeman,Arrowhead Stadium
-2019020300,2018_21_NE_LA,2018,SB,21,2019-02-03,Sunday,18:30:00,NE,13,LA,3,Neutral,-10,16,57833,201902030ram,13635,401038115,-2,55.5,dome,fieldturf,,,Bill Belichick,Sean McVay,John Parry,Mercedes-Benz Stadium
+2019020300,2018_22_NE_LA,2018,SB,22,2019-02-03,Sunday,18:30:00,NE,13,LA,3,Neutral,-10,16,57833,201902030ram,13635,401038115,-2,55.5,dome,fieldturf,,,Bill Belichick,Sean McVay,John Parry,Mercedes-Benz Stadium
 2019090500,2019_01_GB_CHI,2019,REG,1,2019-09-05,Thursday,20:20:00,GB,10,CHI,3,Home,-7,13,57900,201909050chi,13762,401127913,3.5,47,outdoors,grass,65,10,Matt LaFleur,Matt Nagy,Tony Corrente,Soldier Field
 2019090800,2019_01_LA_CAR,2019,REG,1,2019-09-08,Sunday,13:00:00,LA,30,CAR,27,Home,-3,57,57901,201909080car,13768,401127923,-1.5,49.5,outdoors,grass,87,3,Sean McVay,Ron Rivera,Shawn Hochuli,Bank of America Stadium
 2019090801,2019_01_TEN_CLE,2019,REG,1,2019-09-08,Sunday,13:00:00,TEN,43,CLE,13,Home,-30,56,57902,201909080cle,13763,401127928,5.5,44,outdoors,grass,71,10,Mike Vrabel,Freddie Kitchens,Brad Allen,FirstEnergy Stadium
@@ -5581,4 +5581,4 @@ game_id,alt_game_id,season,game_type,week,gameday,weekday,gametime,away_team,awa
 2020011201,2019_19_SEA_GB,2019,DIV,19,2020-01-12,Sunday,18:40:00,SEA,23,GB,28,Home,5,51,58163,202001120gnb,16808,401131042,4.5,46,outdoors,grass,23,8,Pete Carroll,Matt LaFleur,Clete Blakeman,Lambeau Field
 2020011900,2019_20_TEN_KC,2019,CON,20,2020-01-19,Sunday,15:05:00,TEN,24,KC,35,Home,11,59,58164,202001190kan,16809,401131044,7.5,51,outdoors,astroturf,,,Mike Vrabel,Andy Reid,Tony Corrente,Arrowhead Stadium
 2020011901,2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40:00,GB,20,SF,37,Home,17,57,58165,202001190sfo,16810,401131045,8,46.5,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,Levi's Stadium
-2020020200,2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30:00,SF,20,KC,31,Neutral,11,51,58166,202002020kan,16813,401131047,1.5,52.5,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,Hard Rock Stadium
+2020020200,2019_22_SF_KC,2019,SB,22,2020-02-02,Sunday,18:30:00,SF,20,KC,31,Neutral,11,51,58166,202002020kan,16813,401131047,1.5,52.5,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,Hard Rock Stadium
