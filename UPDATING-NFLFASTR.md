@@ -20,7 +20,7 @@ source("https://raw.githubusercontent.com/leesharpe/nfldata/master/code/plays.R"
 # What does this code do?
 
 - [Get data for just the games you're missing!](#which_games)
-- [Apply Ben Baldwin's mutations](#apply_baldwin) which you can [read here](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701)
+- [Apply Ben Baldwin's mutations](#apply_baldwin)
 - [Apply Lee Sharpe's mutations](#apply_sharpe)
 - [Add in columns for positional data](#positions)
 - [Add in columns for colors and logos](#apply_colors_logos)
