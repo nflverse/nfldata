@@ -64,11 +64,11 @@ If you don't want to add these columns, you can set the input for this to FALSE 
 
 Lee Sharpe's mutations will:
 
-- Convert all `JAC` to `JAX` to align usage. The NFL has been inconsistent about this over time.
+- Convert all **JAC** to **JAX** to align usage. The NFL has been inconsistent about this over time.
 - Adds in all the columns mentioned [here](https://github.com/leesharpe/nfldata/blob/master/DATASETS.md#games), except for `gametime` as it's redundant with the existing `game_time_eastern`
-- Adds the column `special`, which is `1` for extra point attempts, field goal attempts, kickoffs, and punts, and `0` otherwise.
-- Change `play_type` to `note` when it's not referring to any kind of play, but rather something like a timeout being called or a notation of the end of a quarter or an injured player leaving or returning to the game. These generally used to be either `NA` or `no_play`. `no_play` is now utilized only for plays where penalties nullified the result of the play. 
-- Convert players who are referred to inconsistently. For example, in 2019, Buffalo Bills quarterback Josh Allen was sometimes referred to as `J.Allen` and sometimes referred to as `Jos.Allen`. This standardizes his name to `J.Allen`.
+- Adds the column `special`, which is **1** for extra point attempts, field goal attempts, kickoffs, and punts, and **0** otherwise.
+- Change `play_type` to **note** when it's not referring to any kind of play, but rather something like a timeout being called or a notation of the end of a quarter or an injured player leaving or returning to the game. These generally used to be either **NA** or **no_play**. **no_play** is now utilized only for plays where penalties nullified the result of the play. 
+- Convert players who are referred to inconsistently. For example, in 2019, Buffalo Bills quarterback Josh Allen was sometimes referred to as **J.Allen** and sometimes referred to as **Jos.Allen**. This standardizes his name to **J.Allen**.
 
 <a name="positions"/>
 
