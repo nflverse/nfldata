@@ -121,8 +121,7 @@ Columns:
 - **NEW Feb 2020** `referee`: Name of the game's referee (head official)
 - **NEW Feb 2020** `stadium`: Name of the stadium
 
-
-<a name="logos"/>
+<a name="colors"/>
 
 ## Colors
 
@@ -138,6 +137,17 @@ pbp <- pbp %>%
   inner_join(logos,by=c("posteam"="team"))
 ```
 
+Columns:
+- `team`: The team.
+- `color`: The team's primary color in hexadecimal
+- `color2`: The team's secondary color in hexadecimal
+- `color3`: The team's tertiary color in hexadecimal
+- `color3`: The team's quaternary color in hexadecimal
+
+Special thanks to (@StatsInTheWild)[https://twitter.com/StatsInTheWild] and (@BaumerBen) [https://twitter.com/StatsInTheWild] who did the work of identifying team colors.
+
+<a name="logos"/>
+
 ## Logos
 
 To import and join to nflfastR data (for the offense):
@@ -147,15 +157,7 @@ logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/da
 plays <- plays %>%
   inner_join(logos,by=c("posteam"="team"))
 ```
-
-Columns:
-- `team`: The team.
-- `color`: The team's primary color in hexadecimal
-- `color2`: The team's secondary color in hexadecimal
-- `color3`: The team's tertiary color in hexadecimal
-- `color3`: The team's quaternary color in hexadecimal
-
-Special thanks to (@StatsInTheWild)[https://twitter.com/StatsInTheWild] and (@BaumerBen) [https://twitter.com/StatsInTheWild] who did the work of identifying team colors.
+This is based off an original version from (Michael Lopez) [https://twitter.com/StatsbyLopez]. Logos mostly come from Wikipedia, except the Tennessee Titans logo image which comes from Hex Sharpe.
 
 <a name="logos"/>
 
