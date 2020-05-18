@@ -5,6 +5,7 @@ Here is detailed information on each data set.
 - [Draft Picks](#draft_picks)
 - [Draft Values](#draft_values)
 - [Games](#games)
+- [Colors](#colors)
 - [Logos](#logos)
 - [Rosters](#rosters)
 - [Standings](#standings)
@@ -15,12 +16,12 @@ Here is detailed information on each data set.
 
 ## Draft Picks
 
-To import and join to nflscrapR (using the Ben Baldwin `name` field):
+To import and join to nflfastR (using the Ben Baldwin `name` field):
 
 ``` r
 draft_picks <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/draft_picks.csv")
 # we do a left join here because the names won't always match but don't want to lose any nflscrapR rows
-plays <- plays %>%
+pbp <- pbp %>%
   left_join(draft_picks,by=c("posteam"="team","name"="name"))
 ```
 
@@ -70,11 +71,11 @@ It's worth noting that the Stuart scale is attempting to measure how teams *shou
 
 ## Games
 
-To import and join to nflscrapR data:
+To import and join to nflfastR data:
 
 ``` r
 games <- read_csv("http://www.habitatring.com/games.csv")
-plays <- plays %>%
+pbp <- pbp %>%
   inner_join(games,by=c("game_id"="game_id","away_team"="away_team","home_team"="home_team"))
 ```
 
@@ -120,30 +121,49 @@ Columns:
 - **NEW Feb 2020** `referee`: Name of the game's referee (head official)
 - **NEW Feb 2020** `stadium`: Name of the stadium
 
+<a name="colors"/>
+
+## Colors
+
+To import and join to nflfastR data (for the offense):
+
+Columns:
+- `team`: The team.
+- `team_logo`: URL of an image where a transparent team logo is located.
+
+``` r
+logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teamcolors.csv")
+pbp <- pbp %>%
+  inner_join(logos,by=c("posteam"="team"))
+```
+
+Columns:
+- `team`: The team.
+- `color`: The team's primary color in hexadecimal
+- `color2`: The team's secondary color in hexadecimal
+- `color3`: The team's tertiary color in hexadecimal
+- `color3`: The team's quaternary color in hexadecimal
+
+Special thanks to (@StatsInTheWild)[https://twitter.com/StatsInTheWild] and (@BaumerBen) [https://twitter.com/StatsInTheWild] who did the work of identifying team colors.
 
 <a name="logos"/>
 
 ## Logos
 
-To import and join to nflscrapR data (for the offense):
+To import and join to nflfastR data (for the offense):
 
 ``` r
 logos <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/logos.csv")
 plays <- plays %>%
   inner_join(logos,by=c("posteam"="team"))
 ```
-
-Columns:
-- `team`: The team.
-- `team_logo`: URL of an image where a transparent team logo is located.
-
-This is based off [a version](https://raw.githubusercontent.com/statsbylopez/BlogPosts/master/nfl_teamlogos.csv) done by [Michael Lopez](https://twitter.com/StatsbyLopez), but includes a manual fix for the Tennessee Titans logo (which had a white rather than transparent background on Wikipedia for some reason) and also supports older team abbreviations (`OAK`, `SD`, and `STL`).
+This is based off an original version from (Michael Lopez) [https://twitter.com/StatsbyLopez]. Logos mostly come from Wikipedia, except the Tennessee Titans logo image which comes from Hex Sharpe.
 
 <a name="logos"/>
 
 ## Rosters
 
-To import and join to nflscrapR (using the Ben Baldwin `name` field):
+To import and join to nflfastR (using the Ben Baldwin `name` field):
 
 ``` r
 rosters <- read_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/rosters.csv")
@@ -180,7 +200,7 @@ Columns:
 
 ## Standings
 
-To import and join to nflscrapR data (for the offense):
+To import and join to nflfastR data (for the offense):
 
 ``` r
 standings <- read_csv("http://www.habitatring.com/standings.csv")
