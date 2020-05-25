@@ -5582,54 +5582,54 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_20_TEN_KC,2019,CON,20,2020-01-19,Sunday,15:05:00,TEN,24,KC,35,Home,11,59,2020011900,10160000-0581-64c8-f2b4-b71d917e2c2a,58164,202001190kan,16809,401131044,7.5,51,0,outdoors,astroturf,,,Mike Vrabel,Andy Reid,Tony Corrente,KAN00,Arrowhead Stadium
 2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40:00,GB,20,SF,37,Home,17,57,2020011901,10160000-0581-65c7-ca95-6b57e43638bf,58165,202001190sfo,16810,401131045,8,46.5,0,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,SFO01,Levi's Stadium
 2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30:00,SF,20,KC,31,Neutral,11,51,2020020200,10160000-0581-67fb-ad5d-d6d26f7b6c74,58166,202002020kan,16813,401131047,1.5,52.5,0,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,MIA00,Hard Rock Stadium
-2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20:00,HOU,,KC,,Home,,,2020091000,NA,58168,202009100kan,,401220225,,,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
-2020_01_CHI_DET,2020,REG,1,2020-09-13,Sunday,13:00:00,CHI,,DET,,Home,,,2020091304,NA,58173,202009130det,,401220282,,,1,dome,,,,Matt Nagy,Matt Patricia,,DET00,Ford Field
-2020_01_CLE_BAL,2020,REG,1,2020-09-13,Sunday,13:00:00,CLE,,BAL,,Home,,,2020091301,NA,58170,202009130rav,,401220147,,,1,outdoors,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
-2020_01_GB_MIN,2020,REG,1,2020-09-13,Sunday,13:00:00,GB,,MIN,,Home,,,2020091306,NA,58175,202009130min,,401220300,,,1,dome,,,,Matt LaFleur,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2020_01_IND_JAX,2020,REG,1,2020-09-13,Sunday,13:00:00,IND,,JAX,,Home,,,2020091305,NA,58174,202009130jax,,401220195,,,1,outdoors,,,,Frank Reich,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_01_LV_CAR,2020,REG,1,2020-09-13,Sunday,13:00:00,LV,,CAR,,Home,,,2020091303,NA,58172,202009130car,,401220370,,,0,outdoors,,,,Jon Gruden,Matt Rhule,,CAR00,Bank of America Stadium
-2020_01_MIA_NE,2020,REG,1,2020-09-13,Sunday,13:00:00,MIA,,NE,,Home,,,2020091307,NA,58176,202009130nwe,,401220131,,,1,outdoors,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
-2020_01_NYJ_BUF,2020,REG,1,2020-09-13,Sunday,13:00:00,NYJ,,BUF,,Home,,,2020091302,NA,58171,202009130buf,,401220116,,,1,outdoors,,,,Adam Gase,Sean McDermott,,BUF00,New Era Field
-2020_01_PHI_WAS,2020,REG,1,2020-09-13,Sunday,13:00:00,PHI,,WAS,,Home,,,2020091308,NA,58177,202009130was,,401220268,,,1,outdoors,,,,Doug Pederson,Ron Rivera,,WAS00,FedExField
-2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00:00,SEA,,ATL,,Home,,,2020091300,NA,58169,202009130atl,,401220313,,,0,dome,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
-2020_01_LAC_CIN,2020,REG,1,2020-09-13,Sunday,16:05:00,LAC,,CIN,,Home,,,2020091309,NA,58178,202009130cin,,401220161,,,0,outdoors,,,,Anthony Lynn,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_01_ARI_SF,2020,REG,1,2020-09-13,Sunday,16:25:00,ARI,,SF,,Home,,,2020091311,NA,58180,202009130sfo,,401220352,,,1,outdoors,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
-2020_01_TB_NO,2020,REG,1,2020-09-13,Sunday,16:25:00,TB,,NO,,Home,,,2020091310,NA,58179,202009130nor,,401220369,,,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_01_DAL_LA,2020,REG,1,2020-09-13,Sunday,20:20:00,DAL,,LA,,Home,,,2020091312,NA,58181,202009130ram,,401220347,,,0,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
-2020_01_PIT_NYG,2020,REG,1,2020-09-14,Monday,19:15:00,PIT,,NYG,,Home,,,2020091400,NA,58182,202009140nyg,,401220256,,,0,outdoors,,,,Mike Tomlin,Joe Judge,,NYC01,MetLife Stadium
-2020_01_TEN_DEN,2020,REG,1,2020-09-14,Monday,22:10:00,TEN,,DEN,,Home,,,2020091401,NA,58183,202009140den,,401220217,,,0,outdoors,,,,Mike Vrabel,Vic Fangio,,DEN00,Empower Field at Mile High
-2020_02_CIN_CLE,2020,REG,2,2020-09-17,Thursday,20:20:00,CIN,,CLE,,Home,,,2020091700,NA,58184,202009170cle,,401220163,,,1,outdoors,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2020_02_ATL_DAL,2020,REG,2,2020-09-20,Sunday,13:00:00,ATL,,DAL,,Home,,,2020092001,NA,58186,202009200dal,,401220249,,,0,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
-2020_02_BUF_MIA,2020,REG,2,2020-09-20,Sunday,13:00:00,BUF,,MIA,,Home,,,2020092004,NA,58189,202009200mia,,401220122,,,1,outdoors,,,,Sean McDermott,Brian Flores,,MIA00,Hard Rock Stadium
-2020_02_CAR_TB,2020,REG,2,2020-09-20,Sunday,13:00:00,CAR,,TB,,Home,,,2020092008,NA,58193,202009200tam,,401220329,,,1,outdoors,,,,Matt Rhule,Bruce Arians,,TAM00,Raymond James Stadium
-2020_02_DEN_PIT,2020,REG,2,2020-09-20,Sunday,13:00:00,DEN,,PIT,,Home,,,2020092007,NA,58192,202009200pit,,401220177,,,0,outdoors,,,,Vic Fangio,Mike Tomlin,,PIT00,Heinz Field
-2020_02_DET_GB,2020,REG,2,2020-09-20,Sunday,13:00:00,DET,,GB,,Home,,,2020092002,NA,58187,202009200gnb,,401220291,,,1,outdoors,,,,Matt Patricia,Matt LaFleur,,GNB00,Lambeau Field
-2020_02_JAX_TEN,2020,REG,2,2020-09-20,Sunday,13:00:00,JAX,,TEN,,Home,,,2020092009,NA,58194,202009200oti,,401220204,,,1,outdoors,,,,Doug Marrone,Mike Vrabel,,NAS00,Nissan Stadium
-2020_02_LA_PHI,2020,REG,2,2020-09-20,Sunday,13:00:00,LA,,PHI,,Home,,,2020092006,NA,58191,202009200phi,,401220261,,,0,outdoors,,,,Sean McVay,Doug Pederson,,PHI00,Lincoln Financial Field
-2020_02_MIN_IND,2020,REG,2,2020-09-20,Sunday,13:00:00,MIN,,IND,,Home,,,2020092003,NA,58188,202009200clt,,401220192,,,0,,,,,Mike Zimmer,Frank Reich,,IND00,Lucas Oil Stadium
-2020_02_NYG_CHI,2020,REG,2,2020-09-20,Sunday,13:00:00,NYG,,CHI,,Home,,,2020092000,NA,58185,202009200chi,,401220281,,,0,outdoors,,,,Joe Judge,Matt Nagy,,CHI98,Soldier Field
-2020_02_SF_NYJ,2020,REG,2,2020-09-20,Sunday,13:00:00,SF,,NYJ,,Home,,,2020092005,NA,58190,202009200nyj,,401220144,,,0,outdoors,,,,Kyle Shanahan,Adam Gase,,NYC01,MetLife Stadium
-2020_02_WAS_ARI,2020,REG,2,2020-09-20,Sunday,16:05:00,WAS,,ARI,,Home,,,2020092010,NA,58195,202009200crd,,401220340,,,0,,,,,Ron Rivera,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_02_BAL_HOU,2020,REG,2,2020-09-20,Sunday,16:25:00,BAL,,HOU,,Home,,,2020092011,NA,58196,202009200htx,,401220181,,,0,,,,,John Harbaugh,Bill O'Brien,,HOU00,NRG Stadium
-2020_02_KC_LAC,2020,REG,2,2020-09-20,Sunday,16:25:00,KC,,LAC,,Home,,,2020092012,NA,58197,202009200sdg,,401220235,,,1,,,,,Andy Reid,Anthony Lynn,,LAX01,SoFi Stadium
-2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20:00,NE,,SEA,,Home,,,2020092013,NA,58198,202009200sea,,401220365,,,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
-2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15:00,NO,,LV,,Home,,,2020092100,NA,58199,202009210veg,,401220231,,,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
-2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20:00,MIA,,JAX,,Home,,,2020092400,NA,58200,202009240jax,,401220201,,,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00:00,CHI,,ATL,,Home,,,2020092700,NA,58201,202009270atl,,401220309,,,0,dome,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
-2020_03_CIN_PHI,2020,REG,3,2020-09-27,Sunday,13:00:00,CIN,,PHI,,Home,,,2020092706,NA,58207,202009270phi,,401220264,,,0,outdoors,,,,Zac Taylor,Doug Pederson,,PHI00,Lincoln Financial Field
-2020_03_HOU_PIT,2020,REG,3,2020-09-27,Sunday,13:00:00,HOU,,PIT,,Home,,,2020092707,NA,58208,202009270pit,,401220173,,,0,outdoors,,,,Bill O'Brien,Mike Tomlin,,PIT00,Heinz Field
-2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00:00,LA,,BUF,,Home,,,2020092701,NA,58202,202009270buf,,401220119,,,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
-2020_03_LV_NE,2020,REG,3,2020-09-27,Sunday,13:00:00,LV,,NE,,Home,,,2020092704,NA,58205,202009270nwe,,401220134,,,0,outdoors,,,,Jon Gruden,Bill Belichick,,BOS00,Gillette Stadium
-2020_03_SF_NYG,2020,REG,3,2020-09-27,Sunday,13:00:00,SF,,NYG,,Home,,,2020092705,NA,58206,202009270nyg,,401220254,,,0,outdoors,,,,Kyle Shanahan,Joe Judge,,NYC01,MetLife Stadium
-2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00:00,TEN,,MIN,,Home,,,2020092703,NA,58204,202009270min,,401220304,,,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2020_03_WAS_CLE,2020,REG,3,2020-09-27,Sunday,13:00:00,WAS,,CLE,,Home,,,2020092702,NA,58203,202009270cle,,401220168,,,0,outdoors,,,,Ron Rivera,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2020_03_CAR_LAC,2020,REG,3,2020-09-27,Sunday,16:05:00,CAR,,LAC,,Home,,,2020092709,NA,58210,202009270sdg,,401220240,,,0,,,,,Matt Rhule,Anthony Lynn,,LAX01,SoFi Stadium
-2020_03_NYJ_IND,2020,REG,3,2020-09-27,Sunday,16:05:00,NYJ,,IND,,Home,,,2020092708,NA,58209,202009270clt,,401220193,,,0,,,,,Adam Gase,Frank Reich,,IND00,Lucas Oil Stadium
-2020_03_DAL_SEA,2020,REG,3,2020-09-27,Sunday,16:25:00,DAL,,SEA,,Home,,,2020092712,NA,58213,202009270sea,,401220363,,,0,outdoors,,,,Mike McCarthy,Pete Carroll,,SEA00,CenturyLink Field
-2020_03_DET_ARI,2020,REG,3,2020-09-27,Sunday,16:25:00,DET,,ARI,,Home,,,2020092710,NA,58211,202009270crd,,401220343,,,0,,,,,Matt Patricia,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_03_TB_DEN,2020,REG,3,2020-09-27,Sunday,16:25:00,TB,,DEN,,Home,,,2020092711,NA,58212,202009270den,,401220216,,,0,outdoors,,,,Bruce Arians,Vic Fangio,,DEN00,Empower Field at Mile High
-2020_03_GB_NO,2020,REG,3,2020-09-27,Sunday,20:20:00,GB,,NO,,Home,,,2020092713,NA,58214,202009270nor,,401220323,,,0,dome,,,,Matt LaFleur,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_03_KC_BAL,2020,REG,3,2020-09-28,Monday,20:15:00,KC,,BAL,,Home,,,2020092800,NA,58215,202009280rav,,401220153,,,0,outdoors,,,,Andy Reid,John Harbaugh,,BAL00,M&T Bank Stadium
+2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20:00,HOU,,KC,,Home,,,2020091000,,58168,202009100kan,,401220225,,,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
+2020_01_CHI_DET,2020,REG,1,2020-09-13,Sunday,13:00:00,CHI,,DET,,Home,,,2020091304,,58173,202009130det,,401220282,,,1,dome,,,,Matt Nagy,Matt Patricia,,DET00,Ford Field
+2020_01_CLE_BAL,2020,REG,1,2020-09-13,Sunday,13:00:00,CLE,,BAL,,Home,,,2020091301,,58170,202009130rav,,401220147,,,1,outdoors,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
+2020_01_GB_MIN,2020,REG,1,2020-09-13,Sunday,13:00:00,GB,,MIN,,Home,,,2020091306,,58175,202009130min,,401220300,,,1,dome,,,,Matt LaFleur,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_01_IND_JAX,2020,REG,1,2020-09-13,Sunday,13:00:00,IND,,JAX,,Home,,,2020091305,,58174,202009130jax,,401220195,,,1,outdoors,,,,Frank Reich,Doug Marrone,,JAX00,TIAA Bank Stadium
+2020_01_LV_CAR,2020,REG,1,2020-09-13,Sunday,13:00:00,LV,,CAR,,Home,,,2020091303,,58172,202009130car,,401220370,,,0,outdoors,,,,Jon Gruden,Matt Rhule,,CAR00,Bank of America Stadium
+2020_01_MIA_NE,2020,REG,1,2020-09-13,Sunday,13:00:00,MIA,,NE,,Home,,,2020091307,,58176,202009130nwe,,401220131,,,1,outdoors,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
+2020_01_NYJ_BUF,2020,REG,1,2020-09-13,Sunday,13:00:00,NYJ,,BUF,,Home,,,2020091302,,58171,202009130buf,,401220116,,,1,outdoors,,,,Adam Gase,Sean McDermott,,BUF00,New Era Field
+2020_01_PHI_WAS,2020,REG,1,2020-09-13,Sunday,13:00:00,PHI,,WAS,,Home,,,2020091308,,58177,202009130was,,401220268,,,1,outdoors,,,,Doug Pederson,Ron Rivera,,WAS00,FedExField
+2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00:00,SEA,,ATL,,Home,,,2020091300,,58169,202009130atl,,401220313,,,0,dome,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_01_LAC_CIN,2020,REG,1,2020-09-13,Sunday,16:05:00,LAC,,CIN,,Home,,,2020091309,,58178,202009130cin,,401220161,,,0,outdoors,,,,Anthony Lynn,Zac Taylor,,CIN00,Paul Brown Stadium
+2020_01_ARI_SF,2020,REG,1,2020-09-13,Sunday,16:25:00,ARI,,SF,,Home,,,2020091311,,58180,202009130sfo,,401220352,,,1,outdoors,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_01_TB_NO,2020,REG,1,2020-09-13,Sunday,16:25:00,TB,,NO,,Home,,,2020091310,,58179,202009130nor,,401220369,,,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_01_DAL_LA,2020,REG,1,2020-09-13,Sunday,20:20:00,DAL,,LA,,Home,,,2020091312,,58181,202009130ram,,401220347,,,0,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
+2020_01_PIT_NYG,2020,REG,1,2020-09-14,Monday,19:15:00,PIT,,NYG,,Home,,,2020091400,,58182,202009140nyg,,401220256,,,0,outdoors,,,,Mike Tomlin,Joe Judge,,NYC01,MetLife Stadium
+2020_01_TEN_DEN,2020,REG,1,2020-09-14,Monday,22:10:00,TEN,,DEN,,Home,,,2020091401,,58183,202009140den,,401220217,,,0,outdoors,,,,Mike Vrabel,Vic Fangio,,DEN00,Empower Field at Mile High
+2020_02_CIN_CLE,2020,REG,2,2020-09-17,Thursday,20:20:00,CIN,,CLE,,Home,,,2020091700,,58184,202009170cle,,401220163,,,1,outdoors,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2020_02_ATL_DAL,2020,REG,2,2020-09-20,Sunday,13:00:00,ATL,,DAL,,Home,,,2020092001,,58186,202009200dal,,401220249,,,0,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
+2020_02_BUF_MIA,2020,REG,2,2020-09-20,Sunday,13:00:00,BUF,,MIA,,Home,,,2020092004,,58189,202009200mia,,401220122,,,1,outdoors,,,,Sean McDermott,Brian Flores,,MIA00,Hard Rock Stadium
+2020_02_CAR_TB,2020,REG,2,2020-09-20,Sunday,13:00:00,CAR,,TB,,Home,,,2020092008,,58193,202009200tam,,401220329,,,1,outdoors,,,,Matt Rhule,Bruce Arians,,TAM00,Raymond James Stadium
+2020_02_DEN_PIT,2020,REG,2,2020-09-20,Sunday,13:00:00,DEN,,PIT,,Home,,,2020092007,,58192,202009200pit,,401220177,,,0,outdoors,,,,Vic Fangio,Mike Tomlin,,PIT00,Heinz Field
+2020_02_DET_GB,2020,REG,2,2020-09-20,Sunday,13:00:00,DET,,GB,,Home,,,2020092002,,58187,202009200gnb,,401220291,,,1,outdoors,,,,Matt Patricia,Matt LaFleur,,GNB00,Lambeau Field
+2020_02_JAX_TEN,2020,REG,2,2020-09-20,Sunday,13:00:00,JAX,,TEN,,Home,,,2020092009,,58194,202009200oti,,401220204,,,1,outdoors,,,,Doug Marrone,Mike Vrabel,,NAS00,Nissan Stadium
+2020_02_LA_PHI,2020,REG,2,2020-09-20,Sunday,13:00:00,LA,,PHI,,Home,,,2020092006,,58191,202009200phi,,401220261,,,0,outdoors,,,,Sean McVay,Doug Pederson,,PHI00,Lincoln Financial Field
+2020_02_MIN_IND,2020,REG,2,2020-09-20,Sunday,13:00:00,MIN,,IND,,Home,,,2020092003,,58188,202009200clt,,401220192,,,0,,,,,Mike Zimmer,Frank Reich,,IND00,Lucas Oil Stadium
+2020_02_NYG_CHI,2020,REG,2,2020-09-20,Sunday,13:00:00,NYG,,CHI,,Home,,,2020092000,,58185,202009200chi,,401220281,,,0,outdoors,,,,Joe Judge,Matt Nagy,,CHI98,Soldier Field
+2020_02_SF_NYJ,2020,REG,2,2020-09-20,Sunday,13:00:00,SF,,NYJ,,Home,,,2020092005,,58190,202009200nyj,,401220144,,,0,outdoors,,,,Kyle Shanahan,Adam Gase,,NYC01,MetLife Stadium
+2020_02_WAS_ARI,2020,REG,2,2020-09-20,Sunday,16:05:00,WAS,,ARI,,Home,,,2020092010,,58195,202009200crd,,401220340,,,0,,,,,Ron Rivera,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_02_BAL_HOU,2020,REG,2,2020-09-20,Sunday,16:25:00,BAL,,HOU,,Home,,,2020092011,,58196,202009200htx,,401220181,,,0,,,,,John Harbaugh,Bill O'Brien,,HOU00,NRG Stadium
+2020_02_KC_LAC,2020,REG,2,2020-09-20,Sunday,16:25:00,KC,,LAC,,Home,,,2020092012,,58197,202009200sdg,,401220235,,,1,,,,,Andy Reid,Anthony Lynn,,LAX01,SoFi Stadium
+2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20:00,NE,,SEA,,Home,,,2020092013,,58198,202009200sea,,401220365,,,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
+2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15:00,NO,,LV,,Home,,,2020092100,,58199,202009210veg,,401220231,,,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
+2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20:00,MIA,,JAX,,Home,,,2020092400,,58200,202009240jax,,401220201,,,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
+2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00:00,CHI,,ATL,,Home,,,2020092700,,58201,202009270atl,,401220309,,,0,dome,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_03_CIN_PHI,2020,REG,3,2020-09-27,Sunday,13:00:00,CIN,,PHI,,Home,,,2020092706,,58207,202009270phi,,401220264,,,0,outdoors,,,,Zac Taylor,Doug Pederson,,PHI00,Lincoln Financial Field
+2020_03_HOU_PIT,2020,REG,3,2020-09-27,Sunday,13:00:00,HOU,,PIT,,Home,,,2020092707,,58208,202009270pit,,401220173,,,0,outdoors,,,,Bill O'Brien,Mike Tomlin,,PIT00,Heinz Field
+2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00:00,LA,,BUF,,Home,,,2020092701,,58202,202009270buf,,401220119,,,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
+2020_03_LV_NE,2020,REG,3,2020-09-27,Sunday,13:00:00,LV,,NE,,Home,,,2020092704,,58205,202009270nwe,,401220134,,,0,outdoors,,,,Jon Gruden,Bill Belichick,,BOS00,Gillette Stadium
+2020_03_SF_NYG,2020,REG,3,2020-09-27,Sunday,13:00:00,SF,,NYG,,Home,,,2020092705,,58206,202009270nyg,,401220254,,,0,outdoors,,,,Kyle Shanahan,Joe Judge,,NYC01,MetLife Stadium
+2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00:00,TEN,,MIN,,Home,,,2020092703,,58204,202009270min,,401220304,,,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_03_WAS_CLE,2020,REG,3,2020-09-27,Sunday,13:00:00,WAS,,CLE,,Home,,,2020092702,,58203,202009270cle,,401220168,,,0,outdoors,,,,Ron Rivera,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2020_03_CAR_LAC,2020,REG,3,2020-09-27,Sunday,16:05:00,CAR,,LAC,,Home,,,2020092709,,58210,202009270sdg,,401220240,,,0,,,,,Matt Rhule,Anthony Lynn,,LAX01,SoFi Stadium
+2020_03_NYJ_IND,2020,REG,3,2020-09-27,Sunday,16:05:00,NYJ,,IND,,Home,,,2020092708,,58209,202009270clt,,401220193,,,0,,,,,Adam Gase,Frank Reich,,IND00,Lucas Oil Stadium
+2020_03_DAL_SEA,2020,REG,3,2020-09-27,Sunday,16:25:00,DAL,,SEA,,Home,,,2020092712,,58213,202009270sea,,401220363,,,0,outdoors,,,,Mike McCarthy,Pete Carroll,,SEA00,CenturyLink Field
+2020_03_DET_ARI,2020,REG,3,2020-09-27,Sunday,16:25:00,DET,,ARI,,Home,,,2020092710,,58211,202009270crd,,401220343,,,0,,,,,Matt Patricia,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_03_TB_DEN,2020,REG,3,2020-09-27,Sunday,16:25:00,TB,,DEN,,Home,,,2020092711,,58212,202009270den,,401220216,,,0,outdoors,,,,Bruce Arians,Vic Fangio,,DEN00,Empower Field at Mile High
+2020_03_GB_NO,2020,REG,3,2020-09-27,Sunday,20:20:00,GB,,NO,,Home,,,2020092713,,58214,202009270nor,,401220323,,,0,dome,,,,Matt LaFleur,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_03_KC_BAL,2020,REG,3,2020-09-28,Monday,20:15:00,KC,,BAL,,Home,,,2020092800,,58215,202009280rav,,401220153,,,0,outdoors,,,,Andy Reid,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_04_DEN_NYJ,2020,REG,4,2020-10-01,Thursday,20:20:00,DEN,,NYJ,,Home,,,2020100100,,58216,202010010nyj,,401220141,,,0,outdoors,,,,Vic Fangio,Adam Gase,,NYC01,MetLife Stadium
 2020_04_ARI_CAR,2020,REG,4,2020-10-04,Sunday,13:00:00,ARI,,CAR,,Home,,,2020100400,,58217,202010040car,,401220320,,,0,outdoors,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
 2020_04_BAL_WAS,2020,REG,4,2020-10-04,Sunday,13:00:00,BAL,,WAS,,Home,,,2020100409,,58226,202010040was,,401220271,,,0,outdoors,,,,John Harbaugh,Ron Rivera,,WAS00,FedExField
