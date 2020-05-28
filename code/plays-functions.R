@@ -21,6 +21,12 @@ silent_csv <- function(location)
   return(suppressWarnings(suppressMessages(read_csv(location))))
 }
 
+# read csv silently
+silent_readLines <- function(location)
+{
+  return(suppressWarnings(suppressMessages(readLines(location))))
+}
+
 # look for text in names of columns of data frame
 grep_col <- function(x,df=pbp)
 {
@@ -132,11 +138,18 @@ apply_game_data <- function(p)
   {
     report("Applying game data")
     if (!exists("games"))
+    {
       games <- silent_csv("http://www.habitatring.com/games.csv") %>% 
         mutate(game_id=as.character(game_id)) %>% 
+        select(-gametime)
+    }
     p <- p %>% 
       fix_inconsistent_data_types() %>% 
-      inner_join(games,by=c("game_id","season","week","game_type","away_team","home_team"))
+      mutate_at(vars(posteam,defteam,home_team,away_team,
+                     timeout_team,td_team,return_team,penalty_team),
+                function(var) ifelse(var == "JAC","JAX",var)) %>% 
+      inner_join(games,by=c("game_id","season","week","game_type",
+                            "away_team","home_team"))
   }
   return(p)
 }
