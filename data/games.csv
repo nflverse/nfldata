@@ -4810,7 +4810,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_02_DAL_DEN,2017,REG,2,2017-09-17,Sunday,16:25,DAL,17,DEN,42,Home,25,59,2017091710,57261,201709170den,7949,400951673,-2.5,44,0,outdoors,grass ,72,5,Jason Garrett,Vance Joseph,Brad Allen,DEN00,Sports Authority Field at Mile High
 2017_02_WAS_LA,2017,REG,2,2017-09-17,Sunday,16:25,WAS,27,LA,20,Home,-7,47,2017091711,57262,201709170ram,7951,400951674,3,46.5,0,outdoors,grass,74,3,Jay Gruden,Sean McVay,Jerome Boger,LAX99,Los Angeles Memorial Coliseum
 2017_02_SF_SEA,2017,REG,2,2017-09-17,Sunday,16:25,SF,9,SEA,12,Home,3,21,2017091712,57263,201709170sea,7950,400951676,13.5,42,1,outdoors,fieldturf ,65,12,Kyle Shanahan,Pete Carroll,Bill Vinovich,SEA00,CenturyLink Field
-2017_02_GB_ATL,2017,REG,2,2017-09-17,Sunday,20:30,GB,23,ATL,34,Home,11,57,2017091713,57264,201709170atl,7952,400951679,3,55,0,dome,fieldturf,,,Mike McCarthy,Dan Quinn,Walt Anderson,ATL97,Mercedes-Benz Stadium
+2017_02_GB_ATL,2017,REG,2,2017-09-17,Sunday,20:30,GB,23,ATL,34,Home,11,57,2017091713,57264,201709170atl,7952,400951679,3,55,0,open,fieldturf,,,Mike McCarthy,Dan Quinn,Walt Anderson,ATL97,Mercedes-Benz Stadium
 2017_02_DET_NYG,2017,REG,2,2017-09-18,Monday,20:30,DET,24,NYG,10,Home,-14,34,2017091800,57265,201709180nyg,7953,400951681,3,42,0,outdoors,fieldturf ,72,5,Jim Caldwell,Ben McAdoo,John Parry,NYC01,MetLife Stadium
 2017_03_LA_SF,2017,REG,3,2017-09-21,Thursday,20:25,LA,41,SF,39,Home,-2,80,2017092100,57266,201709210sfo,7954,400951568,-3,40.5,1,outdoors,grass,68,13,Sean McVay,Kyle Shanahan,Jeff Triplette,SFO01,Levi's Stadium
 2017_03_DEN_BUF,2017,REG,3,2017-09-24,Sunday,13:00,DEN,16,BUF,26,Home,10,42,2017092401,57268,201709240buf,7958,400951583,-3.5,40,0,outdoors,a_turf,83,5,Vance Joseph,Sean McDermott,Carl Cheffers,BUF00,New Era Field
@@ -4829,7 +4829,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_03_BAL_JAX,2017,REG,3,2017-09-24,Sunday,21:30,BAL,7,JAX,44,Neutral,37,51,2017092400,57267,201709240jax,7955,400951579,-3,38,0,outdoors,grass ,70,10,John Harbaugh,Doug Marrone,Peter Morelli,LON00,Wembley Stadium
 2017_03_DAL_ARI,2017,REG,3,2017-09-25,Monday,20:30,DAL,28,ARI,17,Home,-11,45,2017092500,57281,201709250crd,7969,400951668,-3,46.5,0,closed,grass ,,,Jason Garrett,Bruce Arians,Craig Wrolstad,PHO00,University of Phoenix Stadium
 2017_04_CHI_GB,2017,REG,4,2017-09-28,Thursday,20:25,CHI,14,GB,35,Home,21,49,2017092800,57282,201709280gnb,7970,400951678,7.5,44,1,outdoors,grass ,65,5,John Fox,Mike McCarthy,John Hussey,GNB00,Lambeau Field
-2017_04_BUF_ATL,2017,REG,4,2017-10-01,Sunday,13:00,BUF,23,ATL,17,Home,-6,40,2017100101,57284,201710010atl,7972,400951685,8,48,0,dome,fieldturf,,,Sean McDermott,Dan Quinn,Terry McAulay,ATL97,Mercedes-Benz Stadium
+2017_04_BUF_ATL,2017,REG,4,2017-10-01,Sunday,13:00,BUF,23,ATL,17,Home,-6,40,2017100101,57284,201710010atl,7972,400951685,8,48,0,closed,fieldturf,,,Sean McDermott,Dan Quinn,Terry McAulay,ATL97,Mercedes-Benz Stadium
 2017_04_PIT_BAL,2017,REG,4,2017-10-01,Sunday,13:00,PIT,26,BAL,9,Home,-17,35,2017100102,57285,201710010rav,7978,400951708,-3.5,42,1,outdoors,grass,64,6,Mike Tomlin,John Harbaugh,Walt Anderson,BAL00,M&T Bank Stadium
 2017_04_CIN_CLE,2017,REG,4,2017-10-01,Sunday,13:00,CIN,31,CLE,7,Home,-24,38,2017100103,57286,201710010cle,7974,400951712,-3,41.5,1,outdoors,grass ,63,6,Marvin Lewis,Hue Jackson,Ron Torbert,CLE00,FirstEnergy Stadium
 2017_04_LA_DAL,2017,REG,4,2017-10-01,Sunday,13:00,LA,35,DAL,30,Home,-5,65,2017100104,57287,201710010dal,7977,400951716,5,51,0,closed,matrixturf,,,Sean McVay,Jason Garrett,Clete Blakeman,DAL00,AT&T Stadium
@@ -4859,7 +4859,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_05_KC_HOU,2017,REG,5,2017-10-08,Sunday,20:30,KC,42,HOU,34,Home,-8,76,2017100811,57310,201710080htx,7998,400951664,-2,45,0,closed,astroturf,,,Andy Reid,Bill O'Brien,Ron Torbert,HOU00,NRG Stadium
 2017_05_MIN_CHI,2017,REG,5,2017-10-09,Monday,20:30,MIN,20,CHI,17,Home,-3,37,2017100900,57311,201710090chi,7999,400951691,-3.5,41,1,outdoors,grass ,70,10,Mike Zimmer,John Fox,Jerome Boger,CHI98,Soldier Field
 2017_06_PHI_CAR,2017,REG,6,2017-10-12,Thursday,20:25,PHI,28,CAR,23,Home,-5,51,2017101200,57312,201710120car,8000,400951695,3,44,0,outdoors,grass ,72,6,Doug Pederson,Ron Rivera,Peter Morelli,CAR00,Bank of America Stadium
-2017_06_MIA_ATL,2017,REG,6,2017-10-15,Sunday,13:00,MIA,20,ATL,17,Home,-3,37,2017101500,57313,201710150atl,8005,400951697,14,46,0,dome,fieldturf,,,Adam Gase,Dan Quinn,John Hussey,ATL97,Mercedes-Benz Stadium
+2017_06_MIA_ATL,2017,REG,6,2017-10-15,Sunday,13:00,MIA,20,ATL,17,Home,-3,37,2017101500,57313,201710150atl,8005,400951697,14,46,0,closed,fieldturf,,,Adam Gase,Dan Quinn,John Hussey,ATL97,Mercedes-Benz Stadium
 2017_06_CHI_BAL,2017,REG,6,2017-10-15,Sunday,13:00,CHI,27,BAL,24,Home,-3,51,2017101501,57314,201710150rav,8001,400951699,5.5,39.5,0,outdoors,grass,69,7,John Fox,John Harbaugh,Ed Hochuli,BAL00,M&T Bank Stadium
 2017_06_CLE_HOU,2017,REG,6,2017-10-15,Sunday,13:00,CLE,17,HOU,33,Home,16,50,2017101502,57315,201710150htx,8002,400951700,7.5,46,0,closed,astroturf,,,Hue Jackson,Bill O'Brien,Brad Allen,HOU00,NRG Stadium
 2017_06_GB_MIN,2017,REG,6,2017-10-15,Sunday,13:00,GB,10,MIN,23,Home,13,33,2017101503,57316,201710150min,8004,400951702,-3,46,1,dome,sportturf,,,Mike McCarthy,Mike Zimmer,Ron Torbert,MIN01,U.S. Bank Stadium
@@ -4923,7 +4923,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_10_CIN_TEN,2017,REG,10,2017-11-12,Sunday,13:00,CIN,20,TEN,24,Home,4,44,2017111206,57374,201711120oti,8056,400951656,4.5,40.5,0,outdoors,grass ,53,4,Marvin Lewis,Mike Mularkey,Jeff Triplette,NAS00,Nissan Stadium
 2017_10_MIN_WAS,2017,REG,10,2017-11-12,Sunday,13:00,MIN,38,WAS,30,Home,-8,68,2017111207,57375,201711120was,8060,400951658,-1,43,0,outdoors,grass ,44,4,Mike Zimmer,Jay Gruden,Bill Vinovich,WAS00,FedExField
 2017_10_HOU_LA,2017,REG,10,2017-11-12,Sunday,16:05,HOU,7,LA,33,Home,26,40,2017111208,57376,201711120ram,8064,400951663,12,45,0,outdoors,grass,68,0,Bill O'Brien,Sean McVay,Peter Morelli,LAX99,Los Angeles Memorial Coliseum
-2017_10_DAL_ATL,2017,REG,10,2017-11-12,Sunday,16:25,DAL,7,ATL,27,Home,20,34,2017111209,57377,201711120atl,8065,400951686,3.5,49,0,dome,fieldturf,,,Jason Garrett,Dan Quinn,Ed Hochuli,ATL97,Mercedes-Benz Stadium
+2017_10_DAL_ATL,2017,REG,10,2017-11-12,Sunday,16:25,DAL,7,ATL,27,Home,20,34,2017111209,57377,201711120atl,8065,400951686,3.5,49,0,closed,fieldturf,,,Jason Garrett,Dan Quinn,Ed Hochuli,ATL97,Mercedes-Benz Stadium
 2017_10_NYG_SF,2017,REG,10,2017-11-12,Sunday,16:25,NYG,21,SF,31,Home,10,52,2017111210,57378,201711120sfo,8066,400951688,-3,41.5,0,outdoors,grass,68,5,Ben McAdoo,Kyle Shanahan,Jerome Boger,SFO01,Levi's Stadium
 2017_10_NE_DEN,2017,REG,10,2017-11-12,Sunday,20:30,NE,41,DEN,16,Home,-25,57,2017111211,57379,201711120den,8067,400951690,-7,45,0,outdoors,grass ,48,5,Bill Belichick,Vance Joseph,Walt Coleman,DEN00,Sports Authority Field at Mile High
 2017_10_MIA_CAR,2017,REG,10,2017-11-13,Monday,20:30,MIA,21,CAR,45,Home,24,66,2017111300,57380,201711130car,8068,400951693,8,38.5,0,outdoors,grass ,49,6,Adam Gase,Ron Rivera,Gene Steratore,CAR00,Bank of America Stadium
@@ -4944,7 +4944,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_12_MIN_DET,2017,REG,12,2017-11-23,Thursday,12:30,MIN,30,DET,23,Home,-7,53,2017112300,57394,201711230det,8082,400951569,-2.5,46,1,dome,fieldturf ,,,Mike Zimmer,Jim Caldwell,Tony Corrente,DET00,Ford Field
 2017_12_LAC_DAL,2017,REG,12,2017-11-23,Thursday,16:30,LAC,28,DAL,6,Home,-22,34,2017112301,57395,201711230dal,8083,400951573,-1,46.5,0,closed,matrixturf,,,Anthony Lynn,Jason Garrett,Jerome Boger,DAL00,AT&T Stadium
 2017_12_NYG_WAS,2017,REG,12,2017-11-23,Thursday,20:30,NYG,10,WAS,20,Home,10,30,2017112302,57396,201711230was,8084,400951577,7,44,1,outdoors,grass ,33,0,Ben McAdoo,Jay Gruden,Terry McAulay,WAS00,FedExField
-2017_12_TB_ATL,2017,REG,12,2017-11-26,Sunday,13:00,TB,20,ATL,34,Home,14,54,2017112600,57397,201711260atl,8090,400951586,10.5,47,1,dome,fieldturf,,,Dirk Koetter,Dan Quinn,Jeff Triplette,ATL97,Mercedes-Benz Stadium
+2017_12_TB_ATL,2017,REG,12,2017-11-26,Sunday,13:00,TB,20,ATL,34,Home,14,54,2017112600,57397,201711260atl,8090,400951586,10.5,47,1,closed,fieldturf,,,Dirk Koetter,Dan Quinn,Jeff Triplette,ATL97,Mercedes-Benz Stadium
 2017_12_CLE_CIN,2017,REG,12,2017-11-26,Sunday,13:00,CLE,16,CIN,30,Home,14,46,2017112601,57398,201711260cin,8088,400951588,7.5,39,1,outdoors,fieldturf ,46,3,Hue Jackson,Marvin Lewis,John Hussey,CIN00,Paul Brown Stadium
 2017_12_TEN_IND,2017,REG,12,2017-11-26,Sunday,13:00,TEN,20,IND,16,Home,-4,36,2017112602,57399,201711260clt,8091,400951591,-3,46.5,1,open,fieldturf ,,,Mike Mularkey,Chuck Pagano,Craig Wrolstad,IND00,Lucas Oil Stadium
 2017_12_BUF_KC,2017,REG,12,2017-11-26,Sunday,13:00,BUF,16,KC,10,Home,-6,26,2017112603,57400,201711260kan,8085,400951595,8.5,47,0,outdoors,grass ,62,9,Sean McDermott,Andy Reid,Bill Vinovich,KAN00,Arrowhead Stadium
@@ -4958,7 +4958,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_12_GB_PIT,2017,REG,12,2017-11-26,Sunday,20:30,GB,28,PIT,31,Home,3,59,2017112611,57408,201711260pit,8096,400951633,14,42.5,0,outdoors,grass ,38,7,Mike McCarthy,Mike Tomlin,Ed Hochuli,PIT00,Heinz Field
 2017_12_HOU_BAL,2017,REG,12,2017-11-27,Monday,20:30,HOU,16,BAL,23,Home,7,39,2017112700,57409,201711270rav,8097,400951640,7.5,39.5,0,outdoors,grass,50,1,Bill O'Brien,John Harbaugh,Brad Allen,BAL00,M&T Bank Stadium
 2017_13_WAS_DAL,2017,REG,13,2017-11-30,Thursday,20:25,WAS,14,DAL,38,Home,24,52,2017113000,57410,201711300dal,8098,400951672,-1.5,47,1,closed,matrixturf,,,Jay Gruden,Jason Garrett,Craig Wrolstad,DAL00,AT&T Stadium
-2017_13_MIN_ATL,2017,REG,13,2017-12-03,Sunday,13:00,MIN,14,ATL,9,Home,-5,23,2017120300,57411,201712030atl,8105,400951677,2,48.5,0,dome,fieldturf,,,Mike Zimmer,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
+2017_13_MIN_ATL,2017,REG,13,2017-12-03,Sunday,13:00,MIN,14,ATL,9,Home,-5,23,2017120300,57411,201712030atl,8105,400951677,2,48.5,0,closed,fieldturf,,,Mike Zimmer,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
 2017_13_DET_BAL,2017,REG,13,2017-12-03,Sunday,13:00,DET,20,BAL,44,Home,24,64,2017120301,57412,201712030rav,8101,400951680,2.5,43,0,outdoors,grass,53,4,Jim Caldwell,John Harbaugh,Jerome Boger,BAL00,M&T Bank Stadium
 2017_13_NE_BUF,2017,REG,13,2017-12-03,Sunday,13:00,NE,23,BUF,3,Home,-20,26,2017120302,57413,201712030buf,8106,400951684,-7.5,48.5,1,outdoors,a_turf,48,13,Bill Belichick,Sean McDermott,Gene Steratore,BUF00,New Era Field
 2017_13_SF_CHI,2017,REG,13,2017-12-03,Sunday,13:00,SF,15,CHI,14,Home,-1,29,2017120303,57414,201712030chi,8107,400951707,2.5,42,0,outdoors,grass ,54,6,Kyle Shanahan,John Fox,Ed Hochuli,CHI98,Soldier Field
@@ -4973,7 +4973,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_13_NYG_OAK,2017,REG,13,2017-12-03,Sunday,16:25,NYG,17,OAK,24,Home,7,41,2017120312,57423,201712030rai,8111,400951740,10,43,0,outdoors,grass ,58,11,Ben McAdoo,Jack Del Rio,Peter Morelli,OAK00,Oakland-Alameda County Coliseum
 2017_13_PHI_SEA,2017,REG,13,2017-12-03,Sunday,20:30,PHI,10,SEA,24,Home,14,34,2017120313,57424,201712030sea,8112,400951746,-3.5,46.5,0,outdoors,fieldturf ,44,3,Doug Pederson,Pete Carroll,Tony Corrente,SEA00,CenturyLink Field
 2017_13_PIT_CIN,2017,REG,13,2017-12-04,Monday,20:30,PIT,23,CIN,20,Home,-3,43,2017120400,57425,201712040cin,8113,400951754,-4.5,42.5,1,outdoors,fieldturf ,61,9,Mike Tomlin,Marvin Lewis,Walt Anderson,CIN00,Paul Brown Stadium
-2017_14_NO_ATL,2017,REG,14,2017-12-07,Thursday,20:25,NO,17,ATL,20,Home,3,37,2017120700,57426,201712070atl,8114,400951557,2.5,51.5,1,dome,fieldturf,,,Sean Payton,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
+2017_14_NO_ATL,2017,REG,14,2017-12-07,Thursday,20:25,NO,17,ATL,20,Home,3,37,2017120700,57426,201712070atl,8114,400951557,2.5,51.5,1,closed,fieldturf,,,Sean Payton,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
 2017_14_IND_BUF,2017,REG,14,2017-12-10,Sunday,13:00,IND,7,BUF,13,Home,6,20,2017121000,57427,201712100buf,8118,400951560,3.5,36.5,0,outdoors,a_turf,32,15,Chuck Pagano,Sean McDermott,Brad Allen,BUF00,New Era Field
 2017_14_MIN_CAR,2017,REG,14,2017-12-10,Sunday,13:00,MIN,24,CAR,31,Home,7,55,2017121001,57428,201712100car,8119,400951561,-2.5,40.5,0,outdoors,grass ,41,5,Mike Zimmer,Ron Rivera,Terry McAulay,CAR00,Bank of America Stadium
 2017_14_CHI_CIN,2017,REG,14,2017-12-10,Sunday,13:00,CHI,33,CIN,7,Home,-26,40,2017121002,57429,201712100cin,8115,400951564,6,40.5,0,outdoors,fieldturf ,31,11,John Fox,Marvin Lewis,John Parry,CIN00,Paul Brown Stadium
@@ -5028,7 +5028,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2017_17_WAS_NYG,2017,REG,17,2017-12-31,Sunday,13:00,WAS,10,NYG,18,Home,8,28,2017123107,57481,201712310nyg,8173,400951757,-4.5,41,1,outdoors,fieldturf ,16,16,Jay Gruden,Steve Spagnuolo,John Hussey,NYC01,MetLife Stadium
 2017_17_DAL_PHI,2017,REG,17,2017-12-31,Sunday,13:00,DAL,6,PHI,0,Home,-6,6,2017123108,57482,201712310phi,8167,400951759,-3.5,41,1,outdoors,grass ,19,17,Jason Garrett,Doug Pederson,John Parry,PHI00,Lincoln Financial Field
 2017_17_CLE_PIT,2017,REG,17,2017-12-31,Sunday,13:00,CLE,24,PIT,28,Home,4,52,2017123109,57483,201712310pit,8166,400951762,5,38.5,1,outdoors,grass ,11,3,Hue Jackson,Mike Tomlin,Jerome Boger,PIT00,Heinz Field
-2017_17_CAR_ATL,2017,REG,17,2017-12-31,Sunday,16:25,CAR,10,ATL,22,Home,12,32,2017123100,57474,201712310atl,8163,400951734,5,44.5,1,dome,fieldturf,,,Ron Rivera,Dan Quinn,Bill Vinovich,ATL97,Mercedes-Benz Stadium
+2017_17_CAR_ATL,2017,REG,17,2017-12-31,Sunday,16:25,CAR,10,ATL,22,Home,12,32,2017123100,57474,201712310atl,8163,400951734,5,44.5,1,closed,fieldturf,,,Ron Rivera,Dan Quinn,Bill Vinovich,ATL97,Mercedes-Benz Stadium
 2017_17_CIN_BAL,2017,REG,17,2017-12-31,Sunday,16:25,CIN,31,BAL,27,Home,-4,58,2017123101,57475,201712310rav,8165,400951739,8,40,1,outdoors,grass,19,12,Marvin Lewis,John Harbaugh,Ron Torbert,BAL00,M&T Bank Stadium
 2017_17_KC_DEN,2017,REG,17,2017-12-31,Sunday,16:25,KC,27,DEN,24,Home,-3,51,2017123112,57486,201712310den,8175,400951789,3,37.5,1,outdoors,grass ,17,4,Andy Reid,Vance Joseph,Clete Blakeman,DEN00,Sports Authority Field at Mile High
 2017_17_SF_LA,2017,REG,17,2017-12-31,Sunday,16:25,SF,34,LA,13,Home,-21,47,2017123114,57488,201712310ram,8177,400951792,-6,44.5,1,outdoors,grass,67,3,Kyle Shanahan,Sean McVay,Terry McAulay,LAX99,Los Angeles Memorial Coliseum
@@ -5065,7 +5065,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_01_NYJ_DET,2018,REG,1,2018-09-10,Monday,19:10,NYJ,48,DET,17,Home,-31,65,2018091000,57581,201809100det,9352,401030728,7,44,0,dome,fieldturf ,,,Todd Bowles,Matt Patricia,Bill Vinovich,DET00,Ford Field
 2018_01_LA_OAK,2018,REG,1,2018-09-10,Monday,22:20,LA,33,OAK,13,Home,-20,46,2018091001,57582,201809100rai,9353,401030751,-6.5,47.5,0,outdoors,grass ,69,10,Sean McVay,Jon Gruden,Ron Torbert,OAK00,Oakland-Alameda County Coliseum
 2018_02_BAL_CIN,2018,REG,2,2018-09-13,Thursday,20:20,BAL,23,CIN,34,Home,11,57,2018091300,57583,201809130cin,9354,401030690,1,43,1,outdoors,fieldturf ,82,3,John Harbaugh,Marvin Lewis,Walt Anderson,CIN00,Paul Brown Stadium
-2018_02_CAR_ATL,2018,REG,2,2018-09-16,Sunday,13:00,CAR,24,ATL,31,Home,7,55,2018091600,57584,201809160atl,9355,401030691,5.5,44,1,dome,fieldturf,,,Ron Rivera,Dan Quinn,Bill Vinovich,ATL97,Mercedes-Benz Stadium
+2018_02_CAR_ATL,2018,REG,2,2018-09-16,Sunday,13:00,CAR,24,ATL,31,Home,7,55,2018091600,57584,201809160atl,9355,401030691,5.5,44,1,closed,fieldturf,,,Ron Rivera,Dan Quinn,Bill Vinovich,ATL97,Mercedes-Benz Stadium
 2018_02_LAC_BUF,2018,REG,2,2018-09-16,Sunday,13:00,LAC,31,BUF,20,Home,-11,51,2018091601,57585,201809160buf,9356,401030704,-7.5,41.5,0,outdoors,a_turf,83,6,Anthony Lynn,Sean McDermott,Clay Martin,BUF00,New Era Field
 2018_02_MIN_GB,2018,REG,2,2018-09-16,Sunday,13:00,MIN,29,GB,29,Home,0,58,2018091602,57586,201809160gnb,9357,401030705,-2,45,1,outdoors,grass ,80,5,Mike Zimmer,Mike McCarthy,Tony Corrente,GNB00,Lambeau Field
 2018_02_CLE_NO,2018,REG,2,2018-09-16,Sunday,13:00,CLE,18,NO,21,Home,3,39,2018091603,57587,201809160nor,9358,401030708,10,51,0,dome,sportturf,,,Hue Jackson,Sean Payton,Ron Torbert,NOR00,Mercedes-Benz Superdome
@@ -5081,7 +5081,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_02_NYG_DAL,2018,REG,2,2018-09-16,Sunday,20:20,NYG,13,DAL,20,Home,7,33,2018091613,57597,201809160dal,9368,401030738,3,42,1,closed,matrixturf,,,Pat Shurmur,Jason Garrett,John Parry,DAL00,AT&T Stadium
 2018_02_SEA_CHI,2018,REG,2,2018-09-17,Monday,20:15,SEA,17,CHI,24,Home,7,41,2018091700,57598,201809170chi,9369,401030739,4.5,42.5,0,outdoors,grass ,79,2,Pete Carroll,Matt Nagy,Walt Coleman,CHI98,Soldier Field
 2018_03_NYJ_CLE,2018,REG,3,2018-09-20,Thursday,20:20,NYJ,17,CLE,21,Home,4,38,2018092000,57599,201809200cle,9370,401030775,3,41,0,outdoors,grass ,83,11,Todd Bowles,Hue Jackson,Jerome Boger,CLE00,FirstEnergy Stadium
-2018_03_NO_ATL,2018,REG,3,2018-09-23,Sunday,13:00,NO,43,ATL,37,Home,-6,80,2018092300,57600,201809230atl,9371,401030777,1.5,54,1,dome,fieldturf,,,Sean Payton,Dan Quinn,Walt Anderson,ATL97,Mercedes-Benz Stadium
+2018_03_NO_ATL,2018,REG,3,2018-09-23,Sunday,13:00,NO,43,ATL,37,Home,-6,80,2018092300,57600,201809230atl,9371,401030777,1.5,54,1,closed,fieldturf,,,Sean Payton,Dan Quinn,Walt Anderson,ATL97,Mercedes-Benz Stadium
 2018_03_DEN_BAL,2018,REG,3,2018-09-23,Sunday,13:00,DEN,14,BAL,27,Home,13,41,2018092301,57601,201809230rav,9379,401030788,5.5,46,0,outdoors,grass,61,5,Vance Joseph,John Harbaugh,Ron Torbert,BAL00,M&T Bank Stadium
 2018_03_CIN_CAR,2018,REG,3,2018-09-23,Sunday,13:00,CIN,21,CAR,31,Home,10,52,2018092302,57602,201809230car,9372,401030790,2.5,44,0,outdoors,grass ,80,3,Marvin Lewis,Ron Rivera,John Parry,CAR00,Bank of America Stadium
 2018_03_NYG_HOU,2018,REG,3,2018-09-23,Sunday,13:00,NYG,27,HOU,22,Home,-5,49,2018092303,57603,201809230htx,9373,401030791,6.5,44,0,closed,astroturf,,,Pat Shurmur,Bill O'Brien,Walt Coleman,HOU00,NRG Stadium
@@ -5097,7 +5097,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_03_NE_DET,2018,REG,3,2018-09-23,Sunday,20:20,NE,10,DET,26,Home,16,36,2018092313,57613,201809230det,9384,401030802,-7,55,0,dome,fieldturf ,,,Bill Belichick,Matt Patricia,Clete Blakeman,DET00,Ford Field
 2018_03_PIT_TB,2018,REG,3,2018-09-24,Monday,20:15,PIT,30,TB,27,Home,-3,57,2018092400,57614,201809240tam,9385,401030805,1,55,0,outdoors,grass ,77,5,Mike Tomlin,Dirk Koetter,Peter Morelli,TAM00,Raymond James Stadium
 2018_04_MIN_LA,2018,REG,4,2018-09-27,Thursday,20:20,MIN,31,LA,38,Home,7,69,2018092700,57615,201809270ram,9386,401030839,7.5,48.5,0,outdoors,grass,75,3,Mike Zimmer,Sean McVay,Brad Allen,LAX99,Los Angeles Memorial Coliseum
-2018_04_CIN_ATL,2018,REG,4,2018-09-30,Sunday,13:00,CIN,37,ATL,36,Home,-1,73,2018093000,57616,201809300atl,9387,401030847,3.5,52.5,0,dome,fieldturf,,,Marvin Lewis,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
+2018_04_CIN_ATL,2018,REG,4,2018-09-30,Sunday,13:00,CIN,37,ATL,36,Home,-1,73,2018093000,57616,201809300atl,9387,401030847,3.5,52.5,0,closed,fieldturf,,,Marvin Lewis,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
 2018_04_TB_CHI,2018,REG,4,2018-09-30,Sunday,13:00,TB,10,CHI,48,Home,38,58,2018093001,57617,201809300chi,9388,401030846,3,46,0,outdoors,grass ,66,5,Dirk Koetter,Matt Nagy,Jerome Boger,CHI98,Soldier Field
 2018_04_DET_DAL,2018,REG,4,2018-09-30,Sunday,13:00,DET,24,DAL,26,Home,2,50,2018093002,57618,201809300dal,9390,401030845,2.5,43.5,0,closed,matrixturf,,,Matt Patricia,Jason Garrett,Walt Coleman,DAL00,AT&T Stadium
 2018_04_BUF_GB,2018,REG,4,2018-09-30,Sunday,13:00,BUF,0,GB,22,Home,22,22,2018093003,57619,201809300gnb,9391,401030844,8.5,43.5,0,outdoors,grass ,49,9,Sean McDermott,Mike McCarthy,Bill Vinovich,GNB00,Lambeau Field
@@ -5127,7 +5127,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_05_DAL_HOU,2018,REG,5,2018-10-07,Sunday,20:20,DAL,16,HOU,19,Home,3,35,2018100712,57643,201810070htx,9414,401030831,3.5,45.5,0,closed,astroturf,,,Jason Garrett,Bill O'Brien,Bill Vinovich,HOU00,NRG Stadium
 2018_05_WAS_NO,2018,REG,5,2018-10-08,Monday,20:15,WAS,19,NO,43,Home,24,62,2018100800,57644,201810080nor,9415,401030834,5.5,51.5,0,dome,sportturf,,,Jay Gruden,Sean Payton,Carl Cheffers,NOR00,Mercedes-Benz Superdome
 2018_06_PHI_NYG,2018,REG,6,2018-10-11,Thursday,20:20,PHI,34,NYG,13,Home,-21,47,2018101100,57645,201810110nyg,9416,401030692,-1.5,45,1,outdoors,fieldturf ,70,3,Doug Pederson,Pat Shurmur,Ron Torbert,NYC01,MetLife Stadium
-2018_06_TB_ATL,2018,REG,6,2018-10-14,Sunday,13:00,TB,29,ATL,34,Home,5,63,2018101400,57646,201810140atl,9417,401030695,3,57,1,dome,fieldturf,,,Dirk Koetter,Dan Quinn,Walt Coleman,ATL97,Mercedes-Benz Stadium
+2018_06_TB_ATL,2018,REG,6,2018-10-14,Sunday,13:00,TB,29,ATL,34,Home,5,63,2018101400,57646,201810140atl,9417,401030695,3,57,1,closed,fieldturf,,,Dirk Koetter,Dan Quinn,Walt Coleman,ATL97,Mercedes-Benz Stadium
 2018_06_PIT_CIN,2018,REG,6,2018-10-14,Sunday,13:00,PIT,28,CIN,21,Home,-7,49,2018101401,57647,201810140cin,9418,401030743,1.5,49.5,1,outdoors,fieldturf ,51,6,Mike Tomlin,Marvin Lewis,Clete Blakeman,CIN00,Paul Brown Stadium
 2018_06_LAC_CLE,2018,REG,6,2018-10-14,Sunday,13:00,LAC,38,CLE,14,Home,-24,52,2018101402,57648,201810140cle,9419,401030746,1,47,0,outdoors,grass ,51,9,Anthony Lynn,Hue Jackson,Brad Allen,CLE00,FirstEnergy Stadium
 2018_06_BUF_HOU,2018,REG,6,2018-10-14,Sunday,13:00,BUF,13,HOU,20,Home,7,33,2018101403,57649,201810140htx,9420,401030748,10.5,40.5,0,closed,astroturf,,,Sean McDermott,Bill O'Brien,Craig Wrolstad,HOU00,NRG Stadium
@@ -5154,7 +5154,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_07_DAL_WAS,2018,REG,7,2018-10-21,Sunday,16:25,DAL,17,WAS,20,Home,3,37,2018102110,57671,201810210was,9442,401030837,-1,40.5,1,outdoors,grass ,52,12,Jason Garrett,Jay Gruden,John Hussey,WAS00,FedExField
 2018_07_CIN_KC,2018,REG,7,2018-10-21,Sunday,20:20,CIN,10,KC,45,Home,35,55,2018102105,57666,201810210kan,9436,401030804,6.5,56,0,outdoors,grass ,59,10,Marvin Lewis,Andy Reid,Bill Vinovich,KAN00,Arrowhead Stadium
 2018_07_TEN_LAC,2018,REG,7,2018-10-21,Sunday,21:30,TEN,19,LAC,20,Neutral,1,39,2018102100,57661,201810210sdg,9432,401030792,6.5,46,0,outdoors,grass ,66,6,Mike Vrabel,Anthony Lynn,Walt Coleman,LON00,Wembley Stadium
-2018_07_NYG_ATL,2018,REG,7,2018-10-22,Monday,20:15,NYG,20,ATL,23,Home,3,43,2018102200,57673,201810220atl,9444,401030796,4.5,52,0,dome,fieldturf,,,Pat Shurmur,Dan Quinn,Tony Corrente,ATL97,Mercedes-Benz Stadium
+2018_07_NYG_ATL,2018,REG,7,2018-10-22,Monday,20:15,NYG,20,ATL,23,Home,3,43,2018102200,57673,201810220atl,9444,401030796,4.5,52,0,closed,fieldturf,,,Pat Shurmur,Dan Quinn,Tony Corrente,ATL97,Mercedes-Benz Stadium
 2018_08_MIA_HOU,2018,REG,8,2018-10-25,Thursday,20:20,MIA,23,HOU,42,Home,19,65,2018102500,57674,201810250htx,9445,401030703,7.5,45,0,closed,astroturf,,,Adam Gase,Bill O'Brien,Shawn Smith,HOU00,NRG Stadium
 2018_08_BAL_CAR,2018,REG,8,2018-10-28,Sunday,13:00,BAL,21,CAR,36,Home,15,57,2018102801,57676,201810280car,9447,401030849,-2.5,44,0,outdoors,grass ,61,10,John Harbaugh,Ron Rivera,Peter Morelli,CAR00,Bank of America Stadium
 2018_08_NYJ_CHI,2018,REG,8,2018-10-28,Sunday,13:00,NYJ,10,CHI,24,Home,14,34,2018102802,57677,201810280chi,9448,401030747,8.5,42.5,0,outdoors,grass ,48,18,Todd Bowles,Matt Nagy,Clete Blakeman,CHI98,Soldier Field
@@ -5197,7 +5197,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_10_DAL_PHI,2018,REG,10,2018-11-11,Sunday,20:20,DAL,27,PHI,20,Home,-7,47,2018111111,57713,201811110phi,9484,401030869,7.5,45.5,1,outdoors,grass ,38,5,Jason Garrett,Doug Pederson,John Parry,PHI00,Lincoln Financial Field
 2018_10_NYG_SF,2018,REG,10,2018-11-12,Monday,20:15,NYG,27,SF,23,Home,-4,50,2018111200,57714,201811120sfo,9485,401030873,3,45,0,outdoors,grass,62,0,Pat Shurmur,Kyle Shanahan,Shawn Hochuli,SFO01,Levi's Stadium
 2018_11_GB_SEA,2018,REG,11,2018-11-15,Thursday,20:20,GB,24,SEA,27,Home,3,51,2018111500,57715,201811150sea,9486,401030878,3,49,0,outdoors,fieldturf ,54,6,Mike McCarthy,Pete Carroll,Tony Corrente,SEA00,CenturyLink Field
-2018_11_DAL_ATL,2018,REG,11,2018-11-18,Sunday,13:00,DAL,22,ATL,19,Home,-3,41,2018111800,57716,201811180atl,9487,401030929,3.5,50,0,dome,fieldturf,,,Jason Garrett,Dan Quinn,Craig Wrolstad,ATL97,Mercedes-Benz Stadium
+2018_11_DAL_ATL,2018,REG,11,2018-11-18,Sunday,13:00,DAL,22,ATL,19,Home,-3,41,2018111800,57716,201811180atl,9487,401030929,3.5,50,0,closed,fieldturf,,,Jason Garrett,Dan Quinn,Craig Wrolstad,ATL97,Mercedes-Benz Stadium
 2018_11_CIN_BAL,2018,REG,11,2018-11-18,Sunday,13:00,CIN,21,BAL,24,Home,3,45,2018111801,57717,201811180rav,9493,401030894,6.5,44,1,outdoors,grass,48,8,Marvin Lewis,John Harbaugh,Walt Coleman,BAL00,M&T Bank Stadium
 2018_11_CAR_DET,2018,REG,11,2018-11-18,Sunday,13:00,CAR,19,DET,20,Home,1,39,2018111803,57719,201811180det,9490,401030910,-4,48,0,dome,fieldturf ,,,Ron Rivera,Matt Patricia,Clay Martin,DET00,Ford Field
 2018_11_TEN_IND,2018,REG,11,2018-11-18,Sunday,13:00,TEN,10,IND,38,Home,28,48,2018111804,57720,201811180clt,9489,401030922,1,50,1,closed,fieldturf ,,,Mike Vrabel,Frank Reich,John Hussey,IND00,Lucas Oil Stadium
@@ -5225,7 +5225,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_12_GB_MIN,2018,REG,12,2018-11-25,Sunday,20:20,GB,17,MIN,24,Home,7,41,2018112510,57741,201811250min,9512,401030908,3.5,48,1,dome,sportturf,,,Mike McCarthy,Mike Zimmer,Bill Vinovich,MIN01,U.S. Bank Stadium
 2018_12_TEN_HOU,2018,REG,12,2018-11-26,Monday,20:15,TEN,17,HOU,34,Home,17,51,2018112600,57742,201811260htx,9513,401030762,3.5,42.5,1,closed,astroturf,,,Mike Vrabel,Bill O'Brien,Craig Wrolstad,HOU00,NRG Stadium
 2018_13_NO_DAL,2018,REG,13,2018-11-29,Thursday,20:20,NO,10,DAL,13,Home,3,23,2018112900,57743,201811290dal,9514,401030899,-7.5,51.5,0,closed,matrixturf,,,Sean Payton,Jason Garrett,Walt Anderson,DAL00,AT&T Stadium
-2018_13_BAL_ATL,2018,REG,13,2018-12-02,Sunday,13:00,BAL,26,ATL,16,Home,-10,42,2018120200,57744,201812020atl,9515,401030928,2.5,46.5,0,dome,fieldturf,,,John Harbaugh,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
+2018_13_BAL_ATL,2018,REG,13,2018-12-02,Sunday,13:00,BAL,26,ATL,16,Home,-10,42,2018120200,57744,201812020atl,9515,401030928,2.5,46.5,0,closed,fieldturf,,,John Harbaugh,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
 2018_13_DEN_CIN,2018,REG,13,2018-12-02,Sunday,13:00,DEN,24,CIN,10,Home,-14,34,2018120201,57745,201812020cin,9516,401030955,-4,45,0,outdoors,fieldturf ,63,12,Vance Joseph,Marvin Lewis,Ron Torbert,CIN00,Paul Brown Stadium
 2018_13_LA_DET,2018,REG,13,2018-12-02,Sunday,13:00,LA,30,DET,16,Home,-14,46,2018120202,57746,201812020det,9517,401030957,-10.5,54,0,dome,fieldturf ,,,Sean McVay,Matt Patricia,John Parry,DET00,Ford Field
 2018_13_ARI_GB,2018,REG,13,2018-12-02,Sunday,13:00,ARI,20,GB,17,Home,-3,37,2018120203,57747,201812020gnb,9518,401030965,13.5,41,0,outdoors,grass ,34,20,Steve Wilks,Mike McCarthy,Peter Morelli,GNB00,Lambeau Field
@@ -5259,7 +5259,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_15_LAC_KC,2018,REG,15,2018-12-13,Thursday,20:20,LAC,29,KC,28,Home,-1,57,2018121300,57775,201812130kan,9546,401030874,3.5,54,1,outdoors,grass ,39,5,Anthony Lynn,Andy Reid,Walt Anderson,KAN00,Arrowhead Stadium
 2018_15_HOU_NYJ,2018,REG,15,2018-12-15,Saturday,16:30,HOU,29,NYJ,22,Home,-7,51,2018121500,57776,201812150nyj,9548,401030891,-7,44,0,outdoors,fieldturf ,51,8,Bill O'Brien,Todd Bowles,Brad Allen,NYC01,MetLife Stadium
 2018_15_CLE_DEN,2018,REG,15,2018-12-15,Saturday,20:20,CLE,17,DEN,16,Home,-1,33,2018121501,57777,201812150den,9547,401030876,1,47,0,outdoors,grass ,46,0,Gregg Williams,Vance Joseph,Clay Martin,DEN00,Sports Authority Field at Mile High
-2018_15_ARI_ATL,2018,REG,15,2018-12-16,Sunday,13:00,ARI,14,ATL,40,Home,26,54,2018121600,57778,201812160atl,9549,401030900,10,43.5,0,dome,fieldturf,,,Steve Wilks,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
+2018_15_ARI_ATL,2018,REG,15,2018-12-16,Sunday,13:00,ARI,14,ATL,40,Home,26,54,2018121600,57778,201812160atl,9549,401030900,10,43.5,0,closed,fieldturf,,,Steve Wilks,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
 2018_15_TB_BAL,2018,REG,15,2018-12-16,Sunday,13:00,TB,12,BAL,20,Home,8,32,2018121601,57779,201812160rav,9557,401030898,8.5,45,0,outdoors,grass,43,10,Dirk Koetter,John Harbaugh,Ron Torbert,BAL00,M&T Bank Stadium
 2018_15_DET_BUF,2018,REG,15,2018-12-16,Sunday,13:00,DET,13,BUF,14,Home,1,27,2018121602,57780,201812160buf,9550,401030896,2.5,40,0,outdoors,a_turf,39,7,Matt Patricia,Sean McDermott,Jerome Boger,BUF00,New Era Field
 2018_15_GB_CHI,2018,REG,15,2018-12-16,Sunday,13:00,GB,17,CHI,24,Home,7,41,2018121603,57781,201812160chi,9551,401030893,5.5,46.5,1,outdoors,grass ,45,10,Joe Philbin,Matt Nagy,John Hussey,CHI98,Soldier Field
@@ -5314,7 +5314,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2018_19_PHI_NO,2018,DIV,19,2019-01-13,Sunday,16:40,PHI,14,NO,20,Home,6,34,2019011301,57830,201901130nor,13614,401038958,8.5,52,0,dome,sportturf,,,Doug Pederson,Sean Payton,Carl Cheffers,NOR00,Mercedes-Benz Superdome
 2018_20_LA_NO,2018,CON,20,2019-01-20,Sunday,15:05,LA,26,NO,23,Home,-3,49,2019012000,57831,201901200nor,13615,401038118,3,55.5,0,dome,sportturf,,,Sean McVay,Sean Payton,Bill Vinovich,NOR00,Mercedes-Benz Superdome
 2018_20_NE_KC,2018,CON,20,2019-01-20,Sunday,18:40,NE,37,KC,31,Home,-6,68,2019012001,57832,201901200kan,13616,401038850,3,56,0,outdoors,grass ,19,14,Bill Belichick,Andy Reid,Clete Blakeman,KAN00,Arrowhead Stadium
-2018_21_NE_LA,2018,SB,21,2019-02-03,Sunday,18:30,NE,13,LA,3,Neutral,-10,16,2019020300,57833,201902030ram,13635,401038115,-2,55.5,0,dome,fieldturf,,,Bill Belichick,Sean McVay,John Parry,ATL97,Mercedes-Benz Stadium
+2018_21_NE_LA,2018,SB,21,2019-02-03,Sunday,18:30,NE,13,LA,3,Neutral,-10,16,2019020300,57833,201902030ram,13635,401038115,-2,55.5,0,closed,fieldturf,,,Bill Belichick,Sean McVay,John Parry,ATL97,Mercedes-Benz Stadium
 2019_01_GB_CHI,2019,REG,1,2019-09-05,Thursday,20:20,GB,10,CHI,3,Home,-7,13,2019090500,57900,201909050chi,13762,401127913,3.5,47,1,outdoors,grass,65,10,Matt LaFleur,Matt Nagy,Tony Corrente,CHI98,Soldier Field
 2019_01_LA_CAR,2019,REG,1,2019-09-08,Sunday,13:00,LA,30,CAR,27,Home,-3,57,2019090800,57901,201909080car,13768,401127923,-1.5,49.5,0,outdoors,grass,87,3,Sean McVay,Ron Rivera,Shawn Hochuli,CAR00,Bank of America Stadium
 2019_01_TEN_CLE,2019,REG,1,2019-09-08,Sunday,13:00,TEN,43,CLE,13,Home,-30,56,2019090801,57902,201909080cle,13763,401127928,5.5,44,0,outdoors,grass,71,10,Mike Vrabel,Freddie Kitchens,Brad Allen,CLE00,FirstEnergy Stadium
@@ -5345,7 +5345,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_02_KC_OAK,2019,REG,2,2019-09-15,Sunday,16:05,KC,28,OAK,10,Home,-18,38,2019091510,57927,201909150rai,13789,401128118,-7,53.5,1,outdoors,grass,70,13,Andy Reid,Jon Gruden,Clay Martin,OAK00,Ring Central Coliseum
 2019_02_CHI_DEN,2019,REG,2,2019-09-15,Sunday,16:25,CHI,16,DEN,14,Home,-2,30,2019091511,57928,201909150den,13790,401128120,-3,41,0,outdoors,grass,87,3,Matt Nagy,Vic Fangio,Adrian Hill,DEN00,Empower Field at Mile High
 2019_02_NO_LA,2019,REG,2,2019-09-15,Sunday,16:25,NO,9,LA,27,Home,18,36,2019091512,57929,201909150ram,13791,401128122,2,52.5,0,outdoors,grass,85,4,Sean Payton,Sean McVay,Walt Anderson,LAX99,Los Angeles Memorial Coliseum
-2019_02_PHI_ATL,2019,REG,2,2019-09-15,Sunday,20:20,PHI,20,ATL,24,Home,4,44,2019091513,57930,201909150atl,13792,401128124,-1,53,0,dome,fieldturf,,,Doug Pederson,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
+2019_02_PHI_ATL,2019,REG,2,2019-09-15,Sunday,20:20,PHI,20,ATL,24,Home,4,44,2019091513,57930,201909150atl,13792,401128124,-1,53,0,closed,fieldturf,,,Doug Pederson,Dan Quinn,Brad Allen,ATL97,Mercedes-Benz Stadium
 2019_02_CLE_NYJ,2019,REG,2,2019-09-16,Monday,20:15,CLE,23,NYJ,3,Home,-20,26,2019091600,57931,201909160nyj,13793,401128127,-6.5,45.5,0,outdoors,fieldturf ,72,3,Freddie Kitchens,Adam Gase,Alex Kemp,NYC01,MetLife Stadium
 2019_03_TEN_JAX,2019,REG,3,2019-09-19,Thursday,20:20,TEN,7,JAX,20,Home,13,27,2019091900,57932,201909190jax,13794,401127859,-1.5,38,1,outdoors,grass,73,9,Mike Vrabel,Doug Marrone,Shawn Hochuli,JAX00,TIAA Bank Stadium
 2019_03_CIN_BUF,2019,REG,3,2019-09-22,Sunday,13:00,CIN,17,BUF,21,Home,4,38,2019092200,57933,201909220buf,13795,401127915,5.5,43.5,0,outdoors,astroturf,83,13,Zac Taylor,Sean McDermott,Clete Blakeman,BUF00,New Era Field
@@ -5364,7 +5364,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_03_LA_CLE,2019,REG,3,2019-09-22,Sunday,20:20,LA,20,CLE,13,Home,-7,33,2019092213,57946,201909220cle,13808,401128125,-4,48,0,outdoors,grass,83,12,Sean McVay,Freddie Kitchens,Shawn Smith,CLE00,FirstEnergy Stadium
 2019_03_CHI_WAS,2019,REG,3,2019-09-23,Monday,20:15,CHI,31,WAS,15,Home,-16,46,2019092300,57947,201909230was,13809,401128003,-5,41,0,outdoors,grass,87,5,Matt Nagy,Jay Gruden,Walt Anderson,WAS00,FedExField
 2019_04_PHI_GB,2019,REG,4,2019-09-26,Thursday,20:20,PHI,34,GB,27,Home,-7,61,2019092600,57948,201909260gnb,13810,401127863,3.5,46,0,outdoors,grass,60,3,Doug Pederson,Matt LaFleur,Clay Martin,GNB00,Lambeau Field
-2019_04_TEN_ATL,2019,REG,4,2019-09-29,Sunday,13:00,TEN,24,ATL,10,Home,-14,34,2019092900,57949,201909290atl,13811,401128016,3.5,46,0,dome,fieldturf,,,Mike Vrabel,Dan Quinn,John Hussey,ATL97,Mercedes-Benz Stadium
+2019_04_TEN_ATL,2019,REG,4,2019-09-29,Sunday,13:00,TEN,24,ATL,10,Home,-14,34,2019092900,57949,201909290atl,13811,401128016,3.5,46,0,closed,fieldturf,,,Mike Vrabel,Dan Quinn,John Hussey,ATL97,Mercedes-Benz Stadium
 2019_04_CLE_BAL,2019,REG,4,2019-09-29,Sunday,13:00,CLE,40,BAL,25,Home,-15,65,2019092901,57950,201909290rav,13817,401128018,7.5,47,1,outdoors,grass,83,8,Freddie Kitchens,John Harbaugh,Shawn Hochuli,BAL00,M&T Bank Stadium
 2019_04_NE_BUF,2019,REG,4,2019-09-29,Sunday,13:00,NE,16,BUF,10,Home,-6,26,2019092902,57951,201909290buf,13812,401127866,-7,41.5,1,outdoors,astroturf,58,10,Bill Belichick,Sean McDermott,Craig Wrolstad,BUF00,New Era Field
 2019_04_KC_DET,2019,REG,4,2019-09-29,Sunday,13:00,KC,34,DET,30,Home,-4,64,2019092903,57952,201909290det,13813,401128023,-7.5,54.5,0,dome,fieldturf,,,Andy Reid,Matt Patricia,Walt Anderson,DET00,Ford Field
@@ -5408,7 +5408,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_06_PIT_LAC,2019,REG,6,2019-10-13,Sunday,20:20,PIT,24,LAC,17,Home,-7,41,2019101311,57990,201910130sdg,13852,401128131,6,42.5,0,outdoors,grass,71,9,Mike Tomlin,Anthony Lynn,John Hussey,LAX97,StubHub Center
 2019_06_DET_GB,2019,REG,6,2019-10-14,Monday,20:15,DET,22,GB,23,Home,1,45,2019101400,57991,201910140gnb,13853,401128132,3.5,47,1,outdoors,grass,43,5,Matt Patricia,Matt LaFleur,Clete Blakeman,GNB00,Lambeau Field
 2019_07_KC_DEN,2019,REG,7,2019-10-17,Thursday,20:20,KC,30,DEN,6,Home,-24,36,2019101700,57992,201910170den,13854,401127902,-3,49.5,1,outdoors,grass,75,6,Andy Reid,Vic Fangio,Shawn Smith,DEN00,Empower Field at Mile High
-2019_07_LA_ATL,2019,REG,7,2019-10-20,Sunday,13:00,LA,37,ATL,10,Home,-27,47,2019102000,57993,201910200atl,13855,401127940,-3,54.5,0,dome,fieldturf,,,Sean McVay,Dan Quinn,Ronald Torbert,ATL97,Mercedes-Benz Stadium
+2019_07_LA_ATL,2019,REG,7,2019-10-20,Sunday,13:00,LA,37,ATL,10,Home,-27,47,2019102000,57993,201910200atl,13855,401127940,-3,54.5,0,closed,fieldturf,,,Sean McVay,Dan Quinn,Ronald Torbert,ATL97,Mercedes-Benz Stadium
 2019_07_MIA_BUF,2019,REG,7,2019-10-20,Sunday,13:00,MIA,21,BUF,31,Home,10,52,2019102001,57994,201910200buf,13856,401127942,17,42.5,1,outdoors,astroturf,65,7,Brian Flores,Sean McDermott,Carl Cheffers,BUF00,New Era Field
 2019_07_JAX_CIN,2019,REG,7,2019-10-20,Sunday,13:00,JAX,27,CIN,17,Home,-10,44,2019102002,57995,201910200cin,13857,401127945,-4,44.5,0,outdoors,grass,70,2,Doug Marrone,Zac Taylor,Craig Wrolstad,CIN00,Paul Brown Stadium
 2019_07_MIN_DET,2019,REG,7,2019-10-20,Sunday,13:00,MIN,42,DET,30,Home,-12,72,2019102003,57996,201910200det,13858,401127947,-2.5,43.5,1,dome,fieldturf,,,Mike Zimmer,Matt Patricia,Bradley Rogers,DET00,Ford Field
@@ -5422,7 +5422,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_07_PHI_DAL,2019,REG,7,2019-10-20,Sunday,20:20,PHI,10,DAL,37,Home,27,47,2019102011,58004,201910200dal,13866,401127987,3,50,1,closed,fieldturf,,,Doug Pederson,Jason Garrett,Jerome Boger,DAL00,AT&T Stadium
 2019_07_NE_NYJ,2019,REG,7,2019-10-21,Monday,20:15,NE,33,NYJ,0,Home,-33,33,2019102100,58005,201910210nyj,13867,401127894,-9.5,43,1,outdoors,fieldturf ,58,0,Bill Belichick,Adam Gase,Shawn Hochuli,NYC01,MetLife Stadium
 2019_08_WAS_MIN,2019,REG,8,2019-10-24,Thursday,20:20,WAS,9,MIN,19,Home,10,28,2019102400,58006,201910240min,13868,401127905,16.5,42,0,dome,sportturf,,,Bill Callahan,Mike Zimmer,Carl Cheffers,MIN01,U.S. Bank Stadium
-2019_08_SEA_ATL,2019,REG,8,2019-10-27,Sunday,13:00,SEA,27,ATL,20,Home,-7,47,2019102700,58007,201910270atl,13869,401128035,-7.5,48.5,0,dome,fieldturf,,,Pete Carroll,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
+2019_08_SEA_ATL,2019,REG,8,2019-10-27,Sunday,13:00,SEA,27,ATL,20,Home,-7,47,2019102700,58007,201910270atl,13869,401128035,-7.5,48.5,0,closed,fieldturf,,,Pete Carroll,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
 2019_08_PHI_BUF,2019,REG,8,2019-10-27,Sunday,13:00,PHI,31,BUF,13,Home,-18,44,2019102701,58008,201910270buf,13870,401128037,1,39.5,0,outdoors,astroturf,54,23,Doug Pederson,Sean McDermott,John Hussey,BUF00,New Era Field
 2019_08_LAC_CHI,2019,REG,8,2019-10-27,Sunday,13:00,LAC,17,CHI,16,Home,-1,33,2019102702,58009,201910270chi,13871,401128039,3.5,41,0,outdoors,grass,52,9,Anthony Lynn,Matt Nagy,Bradley Rogers,CHI98,Soldier Field
 2019_08_NYG_DET,2019,REG,8,2019-10-27,Sunday,13:00,NYG,26,DET,31,Home,5,57,2019102703,58010,201910270det,13872,401128042,6.5,49,0,dome,fieldturf,,,Pat Shurmur,Matt Patricia,Scott Novak,DET00,Ford Field
@@ -5478,7 +5478,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_11_CHI_LA,2019,REG,11,2019-11-17,Sunday,20:20,CHI,7,LA,17,Home,10,24,2019111711,58060,201911170ram,13922,401128133,5,40,0,outdoors,grass,79,0,Matt Nagy,Sean McVay,John Hussey,LAX99,Los Angeles Memorial Coliseum
 2019_11_KC_LAC,2019,REG,11,2019-11-18,Monday,20:15,KC,24,LAC,17,Neutral,-7,41,2019111800,58061,201911180sdg,13923,401128134,-5.5,52.5,1,outdoors,grass,67,7,Andy Reid,Anthony Lynn,Brad Allen,MEX00,Azteca Stadium
 2019_12_IND_HOU,2019,REG,12,2019-11-21,Thursday,20:20,IND,17,HOU,20,Home,3,37,2019112100,58062,201911210htx,13924,401127865,3.5,46,1,closed,grass,,,Frank Reich,Bill O'Brien,Ronald Torbert,HOU00,NRG Stadium
-2019_12_TB_ATL,2019,REG,12,2019-11-24,Sunday,13:00,TB,35,ATL,22,Home,-13,57,2019112400,58063,201911240atl,13925,401127870,3.5,51.5,1,dome,fieldturf,,,Bruce Arians,Dan Quinn,Clay Martin,ATL97,Mercedes-Benz Stadium
+2019_12_TB_ATL,2019,REG,12,2019-11-24,Sunday,13:00,TB,35,ATL,22,Home,-13,57,2019112400,58063,201911240atl,13925,401127870,3.5,51.5,1,closed,fieldturf,,,Bruce Arians,Dan Quinn,Clay Martin,ATL97,Mercedes-Benz Stadium
 2019_12_DEN_BUF,2019,REG,12,2019-11-24,Sunday,13:00,DEN,3,BUF,20,Home,17,23,2019112401,58064,201911240buf,13926,401127872,3.5,37,0,outdoors,astroturf,40,17,Vic Fangio,Sean McDermott,Jerome Boger,BUF00,New Era Field
 2019_12_NYG_CHI,2019,REG,12,2019-11-24,Sunday,13:00,NYG,14,CHI,19,Home,5,33,2019112402,58065,201911240chi,13927,401127914,6,41,0,outdoors,grass,48,12,Pat Shurmur,Matt Nagy,Shawn Hochuli,CHI98,Soldier Field
 2019_12_PIT_CIN,2019,REG,12,2019-11-24,Sunday,13:00,PIT,16,CIN,10,Home,-6,26,2019112403,58066,201911240cin,13928,401127918,-5.5,37.5,1,outdoors,grass,46,10,Mike Tomlin,Zac Taylor,Adrian Hill,CIN00,Paul Brown Stadium
@@ -5493,7 +5493,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_12_BAL_LA,2019,REG,12,2019-11-25,Monday,20:15,BAL,45,LA,6,Home,-39,51,2019112500,58075,201911250ram,13937,401128012,-3.5,47,0,outdoors,grass,62,5,John Harbaugh,Sean McVay,Craig Wrolstad,LAX99,Los Angeles Memorial Coliseum
 2019_13_CHI_DET,2019,REG,13,2019-11-28,Thursday,12:30,CHI,24,DET,20,Home,-4,44,2019112800,58076,201911280det,13938,401128015,-5.5,37.5,1,dome,fieldturf,,,Matt Nagy,Matt Patricia,Jerome Boger,DET00,Ford Field
 2019_13_BUF_DAL,2019,REG,13,2019-11-28,Thursday,16:30,BUF,26,DAL,15,Home,-11,41,2019112801,58077,201911280dal,13939,401128017,6.5,46.5,0,closed,fieldturf,,,Sean McDermott,Jason Garrett,Bill Vinovich,DAL00,AT&T Stadium
-2019_13_NO_ATL,2019,REG,13,2019-11-28,Thursday,20:20,NO,26,ATL,18,Home,-8,44,2019112802,58078,201911280atl,13940,401128022,-7,48,1,dome,fieldturf,,,Sean Payton,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
+2019_13_NO_ATL,2019,REG,13,2019-11-28,Thursday,20:20,NO,26,ATL,18,Home,-8,44,2019112802,58078,201911280atl,13940,401128022,-7,48,1,closed,fieldturf,,,Sean Payton,Dan Quinn,Shawn Smith,ATL97,Mercedes-Benz Stadium
 2019_13_SF_BAL,2019,REG,13,2019-12-01,Sunday,13:00,SF,17,BAL,20,Home,3,37,2019120100,58079,201912010rav,13948,401128027,5.5,45,0,outdoors,grass,40,13,Kyle Shanahan,John Harbaugh,Brad Allen,BAL00,M&T Bank Stadium
 2019_13_WAS_CAR,2019,REG,13,2019-12-01,Sunday,13:00,WAS,29,CAR,21,Home,-8,50,2019120101,58080,201912010car,13946,401128032,10.5,38.5,0,outdoors,grass,64,16,Bill Callahan,Ron Rivera,Scott Novak,CAR00,Bank of America Stadium
 2019_13_NYJ_CIN,2019,REG,13,2019-12-01,Sunday,13:00,NYJ,6,CIN,22,Home,16,28,2019120102,58081,201912010cin,13941,401128057,-2.5,43,0,outdoors,grass,46,15,Adam Gase,Zac Taylor,Ronald Torbert,CIN00,Paul Brown Stadium
@@ -5508,7 +5508,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_13_NE_HOU,2019,REG,13,2019-12-01,Sunday,20:20,NE,22,HOU,28,Home,6,50,2019120111,58090,201912010htx,13952,401127967,-3.5,47,0,closed,grass,,,Bill Belichick,Bill O'Brien,Tony Corrente,HOU00,NRG Stadium
 2019_13_MIN_SEA,2019,REG,13,2019-12-02,Monday,20:15,MIN,30,SEA,37,Home,7,67,2019120200,58091,201912020sea,13953,401128112,2.5,48,0,outdoors,fieldturf,51,1,Mike Zimmer,Pete Carroll,Clete Blakeman,SEA00,CenturyLink Field
 2019_14_DAL_CHI,2019,REG,14,2019-12-05,Thursday,20:20,DAL,24,CHI,31,Home,7,55,2019120500,58092,201912050chi,13954,401127871,-3,43,0,outdoors,grass,44,9,Jason Garrett,Matt Nagy,Bradley Rogers,CHI98,Soldier Field
-2019_14_CAR_ATL,2019,REG,14,2019-12-08,Sunday,13:00,CAR,20,ATL,40,Home,20,60,2019120800,58093,201912080atl,13955,401127869,3.5,48,1,dome,fieldturf,,,Ron Rivera,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
+2019_14_CAR_ATL,2019,REG,14,2019-12-08,Sunday,13:00,CAR,20,ATL,40,Home,20,60,2019120800,58093,201912080atl,13955,401127869,3.5,48,1,closed,fieldturf,,,Ron Rivera,Dan Quinn,Clete Blakeman,ATL97,Mercedes-Benz Stadium
 2019_14_BAL_BUF,2019,REG,14,2019-12-08,Sunday,13:00,BAL,24,BUF,17,Home,-7,41,2019120801,58094,201912080buf,13956,401127868,-6.5,44,0,outdoors,astroturf,43,18,John Harbaugh,Sean McDermott,Shawn Smith,BUF00,New Era Field
 2019_14_CIN_CLE,2019,REG,14,2019-12-08,Sunday,13:00,CIN,19,CLE,27,Home,8,46,2019120802,58095,201912080cle,13957,401127867,6.5,43,1,outdoors,grass,48,16,Zac Taylor,Freddie Kitchens,Carl Cheffers,CLE00,FirstEnergy Stadium
 2019_14_WAS_GB,2019,REG,14,2019-12-08,Sunday,13:00,WAS,15,GB,20,Home,5,35,2019120803,58096,201912080gnb,13958,401127916,13,42.5,0,outdoors,grass,37,10,Bill Callahan,Matt LaFleur,Clay Martin,GNB00,Lambeau Field
@@ -5542,7 +5542,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_16_HOU_TB,2019,REG,16,2019-12-21,Saturday,13:00,HOU,23,TB,20,Home,-3,43,2019122100,58128,201912210tam,13990,401127901,-3,50,0,outdoors,grass,73,11,Bill O'Brien,Bruce Arians,Scott Novak,TAM00,Raymond James Stadium
 2019_16_BUF_NE,2019,REG,16,2019-12-21,Saturday,16:30,BUF,17,NE,24,Home,7,41,2019122101,58126,201912210nwe,13987,401127898,7,38.5,1,outdoors,grass,33,2,Sean McDermott,Bill Belichick,John Hussey,BOS00,Gillette Stadium
 2019_16_LA_SF,2019,REG,16,2019-12-21,Saturday,20:15,LA,31,SF,34,Home,3,65,2019122102,58127,201912210sfo,13989,401127900,7,45.5,1,outdoors,grass,58,12,Sean McVay,Kyle Shanahan,Clete Blakeman,SFO01,Levi's Stadium
-2019_16_JAX_ATL,2019,REG,16,2019-12-22,Sunday,13:00,JAX,12,ATL,24,Home,12,36,2019122205,58129,201912220atl,13991,401127903,7.5,48,0,dome,fieldturf,,,Doug Marrone,Dan Quinn,Adrian Hill,ATL97,Mercedes-Benz Stadium
+2019_16_JAX_ATL,2019,REG,16,2019-12-22,Sunday,13:00,JAX,12,ATL,24,Home,12,36,2019122205,58129,201912220atl,13991,401127903,7.5,48,0,closed,fieldturf,,,Doug Marrone,Dan Quinn,Adrian Hill,ATL97,Mercedes-Benz Stadium
 2019_16_BAL_CLE,2019,REG,16,2019-12-22,Sunday,13:00,BAL,31,CLE,15,Home,-16,46,2019122206,58130,201912220cle,13992,401127904,-9.5,48.5,1,outdoors,grass,49,10,John Harbaugh,Freddie Kitchens,Alex Kemp,CLE00,FirstEnergy Stadium
 2019_16_CAR_IND,2019,REG,16,2019-12-22,Sunday,13:00,CAR,6,IND,38,Home,32,44,2019122207,58131,201912220clt,13994,401127906,7.5,46,0,closed,fieldturf,,,Ron Rivera,Frank Reich,Walt Anderson,IND00,Lucas Oil Stadium
 2019_16_CIN_MIA,2019,REG,16,2019-12-22,Sunday,13:00,CIN,35,MIA,38,Home,3,73,2019122208,58132,201912220mia,13995,401127910,-1.5,46,0,outdoors,grass,76,15,Zac Taylor,Brian Flores,Brad Allen,MIA00,Hard Rock Stadium
@@ -5583,7 +5583,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40,GB,20,SF,37,Home,17,57,2020011901,58165,202001190sfo,16810,401131045,8,46.5,0,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,SFO01,Levi's Stadium
 2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30,SF,20,KC,31,Neutral,11,51,2020020200,58166,202002020kan,16813,401131047,1.5,52.5,0,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,MIA00,Hard Rock Stadium
 2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20,HOU,,KC,,Home,,,2020091000,58168,202009100kan,,401220225,,,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
-2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,,ATL,,Home,,,2020091300,58169,202009130atl,,401220313,,,0,dome,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,,ATL,,Home,,,2020091300,58169,202009130atl,,401220313,,,0,,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_01_CLE_BAL,2020,REG,1,2020-09-13,Sunday,13:00,CLE,,BAL,,Home,,,2020091301,58170,202009130rav,,401220147,,,1,outdoors,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_01_NYJ_BUF,2020,REG,1,2020-09-13,Sunday,13:00,NYJ,,BUF,,Home,,,2020091302,58171,202009130buf,,401220116,,,1,outdoors,,,,Adam Gase,Sean McDermott,,BUF00,New Era Field
 2020_01_LV_CAR,2020,REG,1,2020-09-13,Sunday,13:00,LV,,CAR,,Home,,,2020091303,58172,202009130car,,401220370,,,0,outdoors,,,,Jon Gruden,Matt Rhule,,CAR00,Bank of America Stadium
@@ -5615,7 +5615,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20,NE,,SEA,,Home,,,2020092013,58198,202009200sea,,401220365,,,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
 2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15,NO,,LV,,Home,,,2020092100,58199,202009210veg,,401220231,,,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
 2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20,MIA,,JAX,,Home,,,2020092400,58200,202009240jax,,401220201,,,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,58201,202009270atl,,401220309,,,0,dome,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,58201,202009270atl,,401220309,,,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00,LA,,BUF,,Home,,,2020092701,58202,202009270buf,,401220119,,,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
 2020_03_WAS_CLE,2020,REG,3,2020-09-27,Sunday,13:00,WAS,,CLE,,Home,,,2020092702,58203,202009270cle,,401220168,,,0,outdoors,,,,Ron Rivera,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00,TEN,,MIN,,Home,,,2020092703,58204,202009270min,,401220304,,,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
@@ -5647,7 +5647,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_04_PHI_SF,2020,REG,4,2020-10-04,Sunday,20:20,PHI,,SF,,Home,,,2020100413,58230,202010040sfo,,401220355,,,0,outdoors,,,,Doug Pederson,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_04_ATL_GB,2020,REG,4,2020-10-05,Monday,20:15,ATL,,GB,,Home,,,2020100500,58231,202010050gnb,,401220293,,,0,outdoors,,,,Dan Quinn,Matt LaFleur,,GNB00,Lambeau Field
 2020_05_TB_CHI,2020,REG,5,2020-10-08,Thursday,20:20,TB,,CHI,,Home,,,2020100800,58232,202010080chi,,401220278,,,0,outdoors,,,,Bruce Arians,Matt Nagy,,CHI98,Soldier Field
-2020_05_CAR_ATL,2020,REG,5,2020-10-11,Sunday,13:00,CAR,,ATL,,Home,,,2020101100,58233,202010110atl,,401220306,,,1,dome,,,,Matt Rhule,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_05_CAR_ATL,2020,REG,5,2020-10-11,Sunday,13:00,CAR,,ATL,,Home,,,2020101100,58233,202010110atl,,401220306,,,1,,,,,Matt Rhule,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_05_CIN_BAL,2020,REG,5,2020-10-11,Sunday,13:00,CIN,,BAL,,Home,,,2020101101,58234,202010110rav,,401220146,,,1,outdoors,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_05_JAX_HOU,2020,REG,5,2020-10-11,Sunday,13:00,JAX,,HOU,,Home,,,2020101102,58235,202010110htx,,401220179,,,1,,,,,Doug Marrone,Bill O'Brien,,HOU00,NRG Stadium
 2020_05_LV_KC,2020,REG,5,2020-10-11,Sunday,13:00,LV,,KC,,Home,,,2020101103,58236,202010110kan,,401220219,,,1,outdoors,,,,Jon Gruden,Andy Reid,,KAN00,Arrowhead Stadium
@@ -5676,7 +5676,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_06_LA_SF,2020,REG,6,2020-10-18,Sunday,20:20,LA,,SF,,Home,,,2020101811,58259,202010180sfo,,401220353,,,1,outdoors,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_06_ARI_DAL,2020,REG,6,2020-10-19,Monday,20:15,ARI,,DAL,,Home,,,2020101900,58260,202010190dal,,401220245,,,0,,,,,Kliff Kingsbury,Mike McCarthy,,DAL00,AT&T Stadium
 2020_07_NYG_PHI,2020,REG,7,2020-10-22,Thursday,20:20,NYG,,PHI,,Home,,,2020102200,58261,202010220phi,,401220259,,,1,outdoors,,,,Joe Judge,Doug Pederson,,PHI00,Lincoln Financial Field
-2020_07_DET_ATL,2020,REG,7,2020-10-25,Sunday,13:00,DET,,ATL,,Home,,,2020102500,58262,202010250atl,,401220310,,,0,dome,,,,Matt Patricia,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_07_DET_ATL,2020,REG,7,2020-10-25,Sunday,13:00,DET,,ATL,,Home,,,2020102500,58262,202010250atl,,401220310,,,0,,,,,Matt Patricia,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_07_PIT_BAL,2020,REG,7,2020-10-25,Sunday,13:00,PIT,,BAL,,Home,,,2020102501,58263,202010250rav,,401220148,,,1,outdoors,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_07_CLE_CIN,2020,REG,7,2020-10-25,Sunday,13:00,CLE,,CIN,,Home,,,2020102502,58264,202010250cin,,401220155,,,1,outdoors,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,,HOU,,Home,,,2020102503,58265,202010250htx,,401220183,,,0,,,,,Matt LaFleur,Bill O'Brien,,HOU00,NRG Stadium
@@ -5703,7 +5703,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_08_DAL_PHI,2020,REG,8,2020-11-01,Sunday,20:20,DAL,,PHI,,Home,,,2020110110,58286,202011010phi,,401220258,,,1,outdoors,,,,Mike McCarthy,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_08_TB_NYG,2020,REG,8,2020-11-02,Monday,20:15,TB,,NYG,,Home,,,2020110200,58287,202011020nyg,,401220257,,,0,outdoors,,,,Bruce Arians,Joe Judge,,NYC01,MetLife Stadium
 2020_09_GB_SF,2020,REG,9,2020-11-05,Thursday,20:20,GB,,SF,,Home,,,2020110500,58288,202011050sfo,,401220359,,,0,outdoors,,,,Matt LaFleur,Kyle Shanahan,,SFO01,Levi's Stadium
-2020_09_DEN_ATL,2020,REG,9,2020-11-08,Sunday,13:00,DEN,,ATL,,Home,,,2020110800,58289,202011080atl,,401220311,,,0,dome,,,,Vic Fangio,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_09_DEN_ATL,2020,REG,9,2020-11-08,Sunday,13:00,DEN,,ATL,,Home,,,2020110800,58289,202011080atl,,401220311,,,0,,,,,Vic Fangio,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_09_SEA_BUF,2020,REG,9,2020-11-08,Sunday,13:00,SEA,,BUF,,Home,,,2020110801,58290,202011080buf,,401220120,,,0,outdoors,,,,Pete Carroll,Sean McDermott,,BUF00,New Era Field
 2020_09_BAL_IND,2020,REG,9,2020-11-08,Sunday,13:00,BAL,,IND,,Home,,,2020110802,58291,202011080clt,,401220189,,,0,,,,,John Harbaugh,Frank Reich,,IND00,Lucas Oil Stadium
 2020_09_HOU_JAX,2020,REG,9,2020-11-08,Sunday,13:00,HOU,,JAX,,Home,,,2020110803,58292,202011080jax,,401220194,,,1,outdoors,,,,Bill O'Brien,Doug Marrone,,JAX00,TIAA Bank Stadium
@@ -5746,7 +5746,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,,DET,,Home,,,2020112600,58329,202011260det,,401220287,,,0,dome,,,,Bill O'Brien,Matt Patricia,,DET00,Ford Field
 2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,,DAL,,Home,,,2020112601,58330,202011260dal,,401220244,,,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
 2020_12_BAL_PIT,2020,REG,12,2020-11-26,Thursday,20:20,BAL,,PIT,,Home,,,2020112602,58331,202011260pit,,401220170,,,1,outdoors,,,,John Harbaugh,Mike Tomlin,,PIT00,Heinz Field
-2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,2020112900,58332,202011290atl,,401220312,,,0,dome,,,,Jon Gruden,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,2020112900,58332,202011290atl,,401220312,,,0,,,,,Jon Gruden,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,,BUF,,Home,,,2020112901,58333,202011290buf,,401220118,,,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
 2020_12_NYG_CIN,2020,REG,12,2020-11-29,Sunday,13:00,NYG,,CIN,,Home,,,2020112902,58334,202011290cin,,401220160,,,0,outdoors,,,,Joe Judge,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_12_TEN_IND,2020,REG,12,2020-11-29,Sunday,13:00,TEN,,IND,,Home,,,2020112903,58335,202011290clt,,401220188,,,1,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
@@ -5760,7 +5760,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_12_CHI_GB,2020,REG,12,2020-11-29,Sunday,20:20,CHI,,GB,,Home,,,2020112911,58343,202011290gnb,,401220290,,,1,outdoors,,,,Matt Nagy,Matt LaFleur,,GNB00,Lambeau Field
 2020_12_SEA_PHI,2020,REG,12,2020-11-30,Monday,20:15,SEA,,PHI,,Home,,,2020113000,58344,202011300phi,,401220262,,,0,outdoors,,,,Pete Carroll,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_13_DAL_BAL,2020,REG,13,2020-12-03,Thursday,20:20,DAL,,BAL,,Home,,,2020120300,58345,202012030rav,,401220151,,,0,outdoors,,,,Mike McCarthy,John Harbaugh,,BAL00,M&T Bank Stadium
-2020_13_NO_ATL,2020,REG,13,2020-12-06,Sunday,13:00,NO,,ATL,,Home,,,2020120600,58346,202012060atl,,401220307,,,1,dome,,,,Sean Payton,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_13_NO_ATL,2020,REG,13,2020-12-06,Sunday,13:00,NO,,ATL,,Home,,,2020120600,58346,202012060atl,,401220307,,,1,,,,,Sean Payton,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_13_DET_CHI,2020,REG,13,2020-12-06,Sunday,13:00,DET,,CHI,,Home,,,2020120601,58347,202012060chi,,401220274,,,1,outdoors,,,,Matt Patricia,Matt Nagy,,CHI98,Soldier Field
 2020_13_IND_HOU,2020,REG,13,2020-12-06,Sunday,13:00,IND,,HOU,,Home,,,2020120602,58348,202012060htx,,401220178,,,1,,,,,Frank Reich,Bill O'Brien,,HOU00,NRG Stadium
 2020_13_CIN_MIA,2020,REG,13,2020-12-06,Sunday,13:00,CIN,,MIA,,Home,,,2020120603,58349,202012060mia,,401220129,,,0,outdoors,,,,Zac Taylor,Brian Flores,,MIA00,Hard Rock Stadium
@@ -5791,7 +5791,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_14_PIT_BUF,2020,REG,14,2020-12-13,Sunday,20:20,PIT,,BUF,,Home,,,2020121313,58374,202012130buf,,401220121,,,0,outdoors,,,,Mike Tomlin,Sean McDermott,,BUF00,New Era Field
 2020_14_BAL_CLE,2020,REG,14,2020-12-14,Monday,20:15,BAL,,CLE,,Home,,,2020121400,58375,202012140cle,,401220162,,,1,outdoors,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_15_LAC_LV,2020,REG,15,2020-12-17,Thursday,20:20,LAC,,LV,,Home,,,2020121700,58376,202012170veg,,401220228,,,1,,,,,Anthony Lynn,Jon Gruden,,VEG00,Allegiant Stadium
-2020_15_TB_ATL,2020,REG,15,2020-12-20,Sunday,13:00,TB,,ATL,,Home,,,2020122005,58382,202012200atl,,401220308,,,1,dome,,,,Bruce Arians,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_15_TB_ATL,2020,REG,15,2020-12-20,Sunday,13:00,TB,,ATL,,Home,,,2020122005,58382,202012200atl,,401220308,,,1,,,,,Bruce Arians,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_15_JAX_BAL,2020,REG,15,2020-12-20,Sunday,13:00,JAX,,BAL,,Home,,,2020122006,58383,202012200rav,,401220149,,,0,outdoors,,,,Doug Marrone,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_15_BUF_DEN,2020,REG,15,2020-12-20,Sunday,13:00,BUF,,DEN,,Home,,,2020122000,58377,202012200den,,401220213,,,0,outdoors,,,,Sean McDermott,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_15_CAR_GB,2020,REG,15,2020-12-20,Sunday,13:00,CAR,,GB,,Home,,,2020122001,58378,202012200gnb,,401220294,,,0,outdoors,,,,Matt Rhule,Matt LaFleur,,GNB00,Lambeau Field
