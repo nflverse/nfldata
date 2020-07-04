@@ -132,6 +132,7 @@ double_games <- function(g)
   g1 <- g %>% 
     rename(team=away_team,team_score=away_score,
            opp=home_team,opp_score=home_score,
+           team_rest=away_rest,opp_rest=home_rest,
            team_moneyline=away_moneyline,opp_moneyline=home_moneyline,
            team_spread_odds=away_spread_odds,opp_spread_odds=home_spread_odds,
            team_coach=away_coach,opp_coach=home_coach) %>% 
@@ -140,6 +141,7 @@ double_games <- function(g)
   g2 <- g %>% 
     rename(team=home_team,team_score=home_score,
            opp=away_team,opp_score=away_score,
+           team_rest=home_rest,opp_rest=away_rest,
            team_moneyline=home_moneyline,opp_moneyline=away_moneyline,
            team_spread_odds=home_spread_odds,opp_spread_odds=away_spread_odds,           
            team_coach=home_coach,opp_coach=away_coach)
