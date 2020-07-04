@@ -45,28 +45,6 @@ provided <- function(data,condition,call)
   } 
 }
 
-# fix inconsistent data types
-fix_inconsistent_data_types <- function(p)
-{
-  p <- p %>% 
-    mutate(game_id=as.character(game_id),
-           play_id=as.numeric(play_id),
-           time=substr(as.character(time),1,5),
-           down=as.numeric(down),
-           air_yards=as.numeric(air_yards),
-           yards_after_catch=as.numeric(yards_after_catch),
-           comp_air_epa=as.numeric(comp_air_epa),
-           comp_yac_epa=as.numeric(comp_yac_epa),
-           air_wpa=as.numeric(air_wpa),
-           yac_wpa=as.numeric(yac_wpa),
-           blocked_player_id=as.character(blocked_player_id),
-           fumble_recovery_2_yards=as.numeric(fumble_recovery_2_yards),
-           fumble_recovery_2_player_id=as.character(fumble_recovery_2_player_id),
-           forced_fumble_player_2_player_id=as.character(forced_fumble_player_2_player_id),
-           tackle_for_loss_2_player_id=as.character(forced_fumble_player_2_player_id))
-  return(p)
-}
-
 # express values as percentages
 ## character vector with the "%" sign at the end
 ## designed for labeling axes in plots
@@ -131,126 +109,17 @@ apply_colors_and_logos <- function(p,team_col="")
 
 ########## FUNCTIONS TO APPLY ADDITIONAL DATA ##########
 
-# game data
-apply_game_data <- function(p)
-{
-  if (!("alt_game_id" %in% colnames(p)))  # already included, don't reapply
-  {
-    report("Applying game data")
-    if (!exists("games"))
-    {
-      games <- silent_csv("http://www.habitatring.com/games.csv") %>% 
-        mutate(game_id=as.character(game_id)) %>% 
-        select(-gametime)
-    }
-    p <- p %>% 
-      fix_inconsistent_data_types() %>% 
-      mutate_at(vars(posteam,defteam,home_team,away_team,
-                     timeout_team,td_team,return_team,penalty_team),
-                function(var) ifelse(var == "JAC","JAX",var)) %>% 
-      inner_join(games,by=c("game_id","season","week","game_type",
-                            "away_team","home_team"))
-  }
-  return(p)
-}
-
 # apply Lee Sharpe mutations
 apply_sharpe_mutations <- function(p)
 {
-  report("Applying Lee Sharpe mutations")
   p <- p %>% 
-    apply_game_data() %>% 
     mutate(
       play_type=case_when(
         is.na(posteam) ~ "note",
         substr(desc,1,8) == "Timeout " ~ "note",
         desc == "*** play under review ***" ~ "note",
         TRUE ~ play_type
-      ),
-      special=ifelse(play_type %in% 
-                       c("extra_point","field_goal","kickoff","punt"),1,0))
-}
-
-# apply name fixes
-apply_name_fixes <- function(p)
-{
-  report("Applying name fixes")
-  p <- p %>% mutate(
-    name=case_when(
-      name == "Ryan" ~ "M.Ryan",
-      name == "Matt.Moore" ~ "M.Moore",
-      name == "Alex Smith" ~ "A.Smith",
-      name == "R.Griffin III" ~ "R.Griffin",
-      name == "Jos.Allen" ~ "J.Allen",
-      name == "G.Minshew II" ~ "G.Minshew",
-      TRUE ~ name
-    ),
-    passer_player_name=ifelse(!is.na(passer_player_name),name,NA),
-    rusher_player_name=ifelse(!is.na(rusher_player_name),name,NA),
-    receiver_player_name=case_when(
-      receiver_player_name == "D.Chark Jr." ~ "D.Chark",
-      TRUE ~ receiver_player_name
-    )
-  )
-  return(p)
-}
-
-# update rosters
-fetch_rosters <- function(s)
-{
-  report(glue("Scraping roster data from {s} season"))
-  
-  teams <- silent_csv("https://raw.githubusercontent.com/leesharpe/nfldata/master/data/teams.csv") %>% 
-    filter(season == s) %>% 
-    pull(nfl_team_id)
-  
-  rosters <- fast_scraper_roster(teams,s) %>% 
-    as_tibble() %>% 
-    clean_names()
-  colnames(rosters) <- colnames(rosters) %>% 
-    str_replace("team_","") %>% 
-    str_replace("players_","")
-  rosters <- rosters %>% 
-    mutate(position=ifelse(position == "SAF","S",position),
-           height=12*as.integer(substr(height,1,1))+as.integer(substr(height,3,4)),
-           birth_date=paste(substr(birth_date,7,10),
-                            substr(birth_date,1,2),
-                            substr(birth_date,4,5),
-                            sep="-"),
-           birth_date=as.Date(birth_date)) %>% 
-    rename(team=abbr,
-           id=gsis_id,
-           jersey=jersey_number,
-           name=display_name,
-           headshot=headshot_url) %>% 
-    arrange(team,jersey,last_name,first_name) %>% 
-    select(season,team,id,position,jersey,name,birth_date,height,weight,headshot)
-  return(rosters)
-}
-
-# apply positions
-apply_positions <- function(p,r)
-{
-  # trim roster info down
-  r <- r %>%
-    filter(!is.na(id)) %>% 
-    select(id,position) %>% 
-    group_by(id) %>% 
-    slice(1) %>% 
-    ungroup()
-  
-  # id columns
-  id_cols <- grep_col("_player_id",p)
-  
-  # add new columns
-  for (col in id_cols)
-  {
-    p <- p %>% 
-      left_join(r,by=setNames("id",col))
-    colnames(p)[ncol(p)] <- str_replace(col,"_player_id","_player_position")
-  }
-    
-  return(p)
+      ))
 }
 
 ########## FUNCTIONS TO HELP TRANSFORM DATA OR MAKE PLOTS ##########
@@ -263,15 +132,19 @@ double_games <- function(g)
   g1 <- g %>% 
     rename(team=away_team,team_score=away_score,
            opp=home_team,opp_score=home_score,
+           team_moneyline=away_moneyline,opp_moneyline=home_moneyline,
+           team_spread_odds=away_spread_odds,opp_spread_odds=home_spread_odds,
            team_coach=away_coach,opp_coach=home_coach) %>% 
     mutate(location=ifelse(location == "Home","Away",location),
-           result=-1*result,spread_line=-1*result)
+           result=-1*result,spread_line=-1*spread_line)
   g2 <- g %>% 
     rename(team=home_team,team_score=home_score,
            opp=away_team,opp_score=away_score,
+           team_moneyline=home_moneyline,opp_moneyline=away_moneyline,
+           team_spread_odds=home_spread_odds,opp_spread_odds=away_spread_odds,           
            team_coach=home_coach,opp_coach=away_coach)
   g <- bind_rows(g1,g2) %>% 
-    arrange(gameday,gametime,game_id,location)
+    arrange(gameday,gametime,old_game_id,location)
   return(g)
 }
 
