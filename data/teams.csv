@@ -589,7 +589,7 @@ season,team,nfl,nfl_team_id,pfr,pff,pfflabel,fo,full,location,short_location,nic
 2020,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
 2020,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
 2020,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
-2020,JAX,JAX,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2020,JAX,JAC,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
 2020,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
 2020,LAC,LAC,4400,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
 2020,LA,LA,2510,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
@@ -606,4 +606,4 @@ season,team,nfl,nfl_team_id,pfr,pff,pfflabel,fo,full,location,short_location,nic
 2020,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
 2020,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
 2020,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
-2020,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Redskins,Washington,Washington,Redskins,washington-redskins
+2020,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Football Team,Washington,Washington,Football Team,washington-football-team
