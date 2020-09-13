@@ -5593,7 +5593,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_01_MIA_NE,2020,REG,1,2020-09-13,Sunday,13:00,MIA,11,NE,21,Home,10,32,2020091307,7,7,278,-327,7.5,-112,102,41.5,-110,-101,1,outdoors,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
 2020_01_PHI_WAS,2020,REG,1,2020-09-13,Sunday,13:00,PHI,17,WAS,27,Home,10,44,2020091308,7,7,-227,200,-5.5,-106,-104,41.5,-111,-100,1,outdoors,,,,Doug Pederson,Ron Rivera,,WAS00,FedExField
 2020_01_LAC_CIN,2020,REG,1,2020-09-13,Sunday,16:05,LAC,16,CIN,13,Home,-3,29,2020091309,7,7,-129,117,-2.5,-100,-110,41.5,-114,102,0,outdoors,,,,Anthony Lynn,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_01_TB_NO,2020,REG,1,2020-09-13,Sunday,16:25,TB,,NO,,Home,,,2020091310,7,7,174,-196,4,102,-113,48.5,-112,101,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_01_TB_NO,2020,REG,1,2020-09-13,Sunday,16:25,TB,23,NO,34,Home,11,57,2020091310,7,7,174,-196,4,102,-113,48.5,-112,101,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_01_ARI_SF,2020,REG,1,2020-09-13,Sunday,16:25,ARI,24,SF,20,Home,-4,44,2020091311,7,7,242,-280,7,-123,111,48.5,106,-118,1,outdoors,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_01_DAL_LA,2020,REG,1,2020-09-13,Sunday,20:20,DAL,,LA,,Home,,,2020091312,7,7,-101,-109,1,-107,-103,52,-112,101,0,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
 2020_01_PIT_NYG,2020,REG,1,2020-09-14,Monday,19:15,PIT,,NYG,,Home,,,2020091400,7,7,-238,209,-6,101,-111,45,-101,-110,0,outdoors,,,,Mike Tomlin,Joe Judge,,NYC01,MetLife Stadium
