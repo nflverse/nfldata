@@ -575,8 +575,10 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2019,NFC,NFC West,LA,9,7,0,0.5625,3,394,364,30,0.430556,0.53125,,
 2019,NFC,NFC West,SEA,11,5,0,0.6875,2,405,398,7,0.460227,0.527344,5,LostDV
 2019,NFC,NFC West,SF,13,3,0,0.8125,1,479,310,169,0.461538,0.5,1,LostSB
-2020,AFC,AFC East,MIA,0,1,0,0.0,4,11,21,-10,0.0,0.0,,
-2020,AFC,AFC East,NE,1,0,0,1.0,1,21,11,10,0.0,0.0,,
+2020,AFC,AFC East,BUF,1,0,0,1.0,1,27,17,10,0.0,0.0,,
+2020,AFC,AFC East,MIA,0,1,0,0.0,3,11,21,-10,0.0,0.0,,
+2020,AFC,AFC East,NE,1,0,0,1.0,2,21,11,10,0.0,0.0,,
+2020,AFC,AFC East,NYJ,0,1,0,0.0,4,17,27,-10,0.0,0.0,,
 2020,AFC,AFC North,BAL,1,0,0,1.0,1,38,6,32,0.0,0.0,,
 2020,AFC,AFC North,CLE,0,1,0,0.0,4,6,38,-32,0.0,0.0,,
 2020,AFC,AFC South,HOU,0,1,0,0.0,3,20,34,-14,0.0,0.0,,
@@ -584,4 +586,6 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2020,AFC,AFC South,JAX,1,0,0,1.0,1,27,20,7,0.0,0.0,,
 2020,AFC,AFC West,KC,1,0,0,1.0,1,34,20,14,0.0,0.0,,
 2020,AFC,AFC West,LV,1,0,0,1.0,2,34,30,4,0.0,0.0,,
+2020,NFC,NFC South,ATL,0,1,0,0.0,3,25,38,-13,0.0,0.0,,
 2020,NFC,NFC South,CAR,0,1,0,0.0,4,30,34,-4,0.0,0.0,,
+2020,NFC,NFC West,SEA,1,0,0,1.0,1,38,25,13,0.0,0.0,,

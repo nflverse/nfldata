@@ -5583,7 +5583,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40,GB,20,SF,37,Home,17,57,2020011901,7,8,315,-375,8,-107,-103,46.5,-105,-106,0,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,SFO01,Levi's Stadium
 2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30,SF,20,KC,31,Neutral,11,51,2020020200,14,14,113,-125,1.5,-101,-109,52.5,-101,-110,0,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,MIA00,Hard Rock Stadium
 2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20,HOU,20,KC,34,Home,14,54,2020091000,7,7,349,-423,9.5,-105,-105,53.5,-109,-102,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
-2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,,ATL,,Home,,,2020091300,7,7,102,-112,1,-105,-105,49.5,-108,-103,0,,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,38,ATL,25,Home,-13,63,2020091300,7,7,102,-112,1,-105,-105,49.5,-108,-103,0,,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_01_CLE_BAL,2020,REG,1,2020-09-13,Sunday,13:00,CLE,6,BAL,38,Home,32,44,2020091301,7,7,260,-302,7,-107,-103,47,100,-112,1,outdoors,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_01_NYJ_BUF,2020,REG,1,2020-09-13,Sunday,13:00,NYJ,,BUF,,Home,,,2020091302,7,7,242,-279,6.5,-110,100,39.5,-114,102,1,outdoors,,,,Adam Gase,Sean McDermott,,BUF00,New Era Field
 2020_01_LV_CAR,2020,REG,1,2020-09-13,Sunday,13:00,LV,34,CAR,30,Home,-4,64,2020091303,7,7,-124,134,-1.5,-112,-113,48,-101,-110,0,outdoors,,,,Jon Gruden,Matt Rhule,,CAR00,Bank of America Stadium
