@@ -5597,7 +5597,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_01_ARI_SF,2020,REG,1,2020-09-13,Sunday,16:25,ARI,24,SF,20,Home,-4,44,2020091311,7,7,242,-280,7,-123,111,48.5,106,-118,1,outdoors,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_01_DAL_LA,2020,REG,1,2020-09-13,Sunday,20:20,DAL,17,LA,20,Home,3,37,2020091312,7,7,103,-114,1,-103,-107,52,-111,-100,0,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
 2020_01_PIT_NYG,2020,REG,1,2020-09-14,Monday,19:15,PIT,26,NYG,16,Home,-10,42,2020091400,7,7,-253,221,-6,-105,-105,44,-105,-106,0,outdoors,,,,Mike Tomlin,Joe Judge,,NYC01,MetLife Stadium
-2020_01_TEN_DEN,2020,REG,1,2020-09-14,Monday,22:10,TEN,,DEN,,Home,,,2020091401,7,7,-175,157,-3,-121,109,41,100,-112,0,outdoors,,,,Mike Vrabel,Vic Fangio,,DEN00,Empower Field at Mile High
+2020_01_TEN_DEN,2020,REG,1,2020-09-14,Monday,22:10,TEN,16,DEN,14,Home,-2,30,2020091401,7,7,-175,157,-3,-121,109,41,100,-112,0,outdoors,,,,Mike Vrabel,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_02_CIN_CLE,2020,REG,2,2020-09-17,Thursday,20:20,CIN,,CLE,,Home,,,2020091700,4,4,224,-257,6,-104,-106,44.5,-116,104,1,outdoors,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_02_NYG_CHI,2020,REG,2,2020-09-20,Sunday,13:00,NYG,,CHI,,Home,,,2020092000,6,7,,,,,,,,,0,outdoors,,,,Joe Judge,Matt Nagy,,CHI98,Soldier Field
 2020_02_ATL_DAL,2020,REG,2,2020-09-20,Sunday,13:00,ATL,,DAL,,Home,,,2020092001,7,7,200,-227,5,-107,-103,52,100,-112,0,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
