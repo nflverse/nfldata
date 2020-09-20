@@ -5609,10 +5609,10 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_02_DEN_PIT,2020,REG,2,2020-09-20,Sunday,13:00,DEN,21,PIT,26,Home,5,47,2020092007,6,6,232,-267,6,-100,-110,41,-114,102,0,outdoors,,,,Vic Fangio,Mike Tomlin,,PIT00,Heinz Field
 2020_02_CAR_TB,2020,REG,2,2020-09-20,Sunday,13:00,CAR,17,TB,31,Home,14,48,2020092008,7,7,290,-342,7.5,-106,-104,47,-108,-103,1,outdoors,,,,Matt Rhule,Bruce Arians,,TAM00,Raymond James Stadium
 2020_02_JAX_TEN,2020,REG,2,2020-09-20,Sunday,13:00,JAX,30,TEN,33,Home,3,63,2020092009,7,6,254,-295,7,-116,105,44.5,-103,-108,1,outdoors,,,,Doug Marrone,Mike Vrabel,,NAS00,Nissan Stadium
-2020_02_WAS_ARI,2020,REG,2,2020-09-20,Sunday,16:05,WAS,,ARI,,Home,,,2020092010,7,7,265,-309,7.5,-122,111,46.5,-107,-104,0,,,,,Ron Rivera,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_02_BAL_HOU,2020,REG,2,2020-09-20,Sunday,16:25,BAL,,HOU,,Home,,,2020092011,7,10,-334,284,-7.5,101,-112,49.5,-105,-106,0,,,,,John Harbaugh,Bill O'Brien,,HOU00,NRG Stadium
-2020_02_KC_LAC,2020,REG,2,2020-09-20,Sunday,16:25,KC,,LAC,,Home,,,2020092012,10,7,-364,307,-8.5,-102,-109,47,-111,-101,1,,,,,Andy Reid,Anthony Lynn,,LAX01,SoFi Stadium
-2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20,NE,,SEA,,Home,,,2020092013,7,7,171,-192,4,-106,-104,45,-101,-111,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
+2020_02_WAS_ARI,2020,REG,2,2020-09-20,Sunday,16:05,WAS,15,ARI,30,Home,15,45,2020092010,7,7,268,-313,7.5,-120,109,46.5,-110,-101,0,,,,,Ron Rivera,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_02_BAL_HOU,2020,REG,2,2020-09-20,Sunday,16:25,BAL,,HOU,,Home,,,2020092011,7,10,-344,292,-7.5,-102,-108,49.5,-118,106,0,,,,,John Harbaugh,Bill O'Brien,,HOU00,NRG Stadium
+2020_02_KC_LAC,2020,REG,2,2020-09-20,Sunday,16:25,KC,,LAC,,Home,,,2020092012,10,7,-370,311,-8.5,-104,-106,47,-110,-102,1,,,,,Andy Reid,Anthony Lynn,,LAX01,SoFi Stadium
+2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20,NE,,SEA,,Home,,,2020092013,7,7,175,-196,4,-104,-106,45,-107,-104,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
 2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15,NO,,LV,,Home,,,2020092100,8,8,,,,,,,,,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
 2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20,MIA,,JAX,,Home,,,2020092400,4,4,,,,,,,,,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,7,7,,,,,,,,,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
