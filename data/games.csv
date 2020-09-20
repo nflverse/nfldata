@@ -5603,7 +5603,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_02_ATL_DAL,2020,REG,2,2020-09-20,Sunday,13:00,ATL,39,DAL,40,Home,1,79,2020092001,7,7,131,-145,3,-119,108,53,-102,-109,0,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
 2020_02_DET_GB,2020,REG,2,2020-09-20,Sunday,13:00,DET,21,GB,42,Home,21,63,2020092002,7,7,245,-284,7,-113,102,51,-101,-110,1,outdoors,,,,Matt Patricia,Matt LaFleur,,GNB00,Lambeau Field
 2020_02_MIN_IND,2020,REG,2,2020-09-20,Sunday,13:00,MIN,11,IND,28,Home,17,39,2020092003,7,7,158,-176,3.5,-111,101,49,-107,-104,0,,,,,Mike Zimmer,Frank Reich,,IND00,Lucas Oil Stadium
-2020_02_BUF_MIA,2020,REG,2,2020-09-20,Sunday,13:00,BUF,,MIA,,Home,,,2020092004,7,7,-244,214,-5.5,-109,-101,42.5,-102,-109,1,outdoors,,,,Sean McDermott,Brian Flores,,MIA00,Hard Rock Stadium
+2020_02_BUF_MIA,2020,REG,2,2020-09-20,Sunday,13:00,BUF,31,MIA,28,Home,-3,59,2020092004,7,7,-244,214,-5.5,-109,-101,42.5,-102,-109,1,outdoors,,,,Sean McDermott,Brian Flores,,MIA00,Hard Rock Stadium
 2020_02_SF_NYJ,2020,REG,2,2020-09-20,Sunday,13:00,SF,31,NYJ,13,Home,-18,44,2020092005,7,7,-301,259,-7,101,-111,41.5,-108,-103,0,outdoors,,,,Kyle Shanahan,Adam Gase,,NYC01,MetLife Stadium
 2020_02_LA_PHI,2020,REG,2,2020-09-20,Sunday,13:00,LA,37,PHI,19,Home,-18,56,2020092006,7,7,111,-123,2,-107,-103,46,-105,-106,0,outdoors,,,,Sean McVay,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_02_DEN_PIT,2020,REG,2,2020-09-20,Sunday,13:00,DEN,21,PIT,26,Home,5,47,2020092007,6,6,232,-267,6,-100,-110,41,-114,102,0,outdoors,,,,Vic Fangio,Mike Tomlin,,PIT00,Heinz Field
