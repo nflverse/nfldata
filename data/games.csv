@@ -5613,7 +5613,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_02_BAL_HOU,2020,REG,2,2020-09-20,Sunday,16:25,BAL,33,HOU,16,Home,-17,49,2020092011,7,10,-344,292,-7.5,-102,-108,49.5,-118,106,0,,,,,John Harbaugh,Bill O'Brien,,HOU00,NRG Stadium
 2020_02_KC_LAC,2020,REG,2,2020-09-20,Sunday,16:25,KC,23,LAC,20,Home,-3,43,2020092012,10,7,-370,311,-8.5,-104,-106,47,-110,-102,1,,,,,Andy Reid,Anthony Lynn,,LAX01,SoFi Stadium
 2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20,NE,30,SEA,35,Home,5,65,2020092013,7,7,177,-199,4,-102,-108,45,-113,101,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
-2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15,NO,,LV,,Home,,,2020092100,8,8,-201,180,-4,-102,-107,47.5,-109,-102,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
+2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15,NO,24,LV,34,Home,10,58,2020092100,8,8,-201,180,-4,-102,-107,47.5,-109,-102,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
 2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20,MIA,,JAX,,Home,,,2020092400,4,4,141,-157,2.5,110,-121,47,102,-114,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,7,7,169,-189,3.5,-106,-104,47.5,-100,-111,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00,LA,,BUF,,Home,,,2020092701,7,7,132,-147,2.5,103,-114,47.5,-105,-106,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
