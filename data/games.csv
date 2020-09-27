@@ -5618,7 +5618,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,7,7,122,-135,2.5,101,-111,46,-102,-109,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00,LA,32,BUF,35,Home,3,67,2020092701,7,7,114,-126,1.5,-100,-110,46.5,-112,100,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
 2020_03_WAS_CLE,2020,REG,3,2020-09-27,Sunday,13:00,WAS,20,CLE,34,Home,14,54,2020092702,7,10,282,-331,7.5,-115,104,45,-101,-110,0,outdoors,,,,Ron Rivera,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00,TEN,,MIN,,Home,,,2020092703,7,7,-155,139,-3,-101,-109,49.5,-116,104,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00,TEN,31,MIN,30,Home,-1,61,2020092703,7,7,-155,139,-3,-101,-109,49.5,-116,104,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_03_LV_NE,2020,REG,3,2020-09-27,Sunday,13:00,LV,,NE,,Home,,,2020092704,6,7,266,-311,7,-105,-105,47,-102,-110,0,outdoors,,,,Jon Gruden,Bill Belichick,,BOS00,Gillette Stadium
 2020_03_SF_NYG,2020,REG,3,2020-09-27,Sunday,13:00,SF,36,NYG,9,Home,-27,45,2020092705,7,7,-149,134,-3,-101,-109,44,-111,-100,0,outdoors,,,,Kyle Shanahan,Joe Judge,,NYC01,MetLife Stadium
 2020_03_CIN_PHI,2020,REG,3,2020-09-27,Sunday,13:00,CIN,,PHI,,Home,,,2020092706,10,7,205,-233,5.5,-105,-105,46.5,100,-112,0,outdoors,,,,Zac Taylor,Doug Pederson,,PHI00,Lincoln Financial Field
