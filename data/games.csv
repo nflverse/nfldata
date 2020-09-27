@@ -5615,7 +5615,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_02_NE_SEA,2020,REG,2,2020-09-20,Sunday,20:20,NE,30,SEA,35,Home,5,65,2020092013,7,7,177,-199,4,-102,-108,45,-113,101,0,outdoors,,,,Bill Belichick,Pete Carroll,,SEA00,CenturyLink Field
 2020_02_NO_LV,2020,REG,2,2020-09-21,Monday,20:15,NO,24,LV,34,Home,10,58,2020092100,8,8,-201,180,-4,-102,-107,47.5,-109,-102,0,,,,,Sean Payton,Jon Gruden,,VEG00,Allegiant Stadium
 2020_03_MIA_JAX,2020,REG,3,2020-09-24,Thursday,20:20,MIA,31,JAX,13,Home,-18,44,2020092400,4,4,124,-138,3,-126,114,49,-105,-106,0,outdoors,,,,Brian Flores,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,,ATL,,Home,,,2020092700,7,7,122,-135,2.5,101,-111,46,-102,-109,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_03_CHI_ATL,2020,REG,3,2020-09-27,Sunday,13:00,CHI,30,ATL,26,Home,-4,56,2020092700,7,7,122,-135,2.5,101,-111,46,-102,-109,0,,,,,Matt Nagy,Dan Quinn,,ATL97,Mercedes-Benz Stadium
 2020_03_LA_BUF,2020,REG,3,2020-09-27,Sunday,13:00,LA,32,BUF,35,Home,3,67,2020092701,7,7,114,-126,1.5,-100,-110,46.5,-112,100,0,outdoors,,,,Sean McVay,Sean McDermott,,BUF00,New Era Field
 2020_03_WAS_CLE,2020,REG,3,2020-09-27,Sunday,13:00,WAS,20,CLE,34,Home,14,54,2020092702,7,10,282,-331,7.5,-115,104,45,-101,-110,0,outdoors,,,,Ron Rivera,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_03_TEN_MIN,2020,REG,3,2020-09-27,Sunday,13:00,TEN,31,MIN,30,Home,-1,61,2020092703,7,7,-155,139,-3,-101,-109,49.5,-116,104,0,dome,,,,Mike Vrabel,Mike Zimmer,,MIN01,U.S. Bank Stadium
