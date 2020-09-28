@@ -5628,7 +5628,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_03_DET_ARI,2020,REG,3,2020-09-27,Sunday,16:25,DET,26,ARI,23,Home,-3,49,2020092710,7,7,193,-218,4.5,-105,-105,55.5,-113,101,0,,,,,Matt Patricia,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_03_TB_DEN,2020,REG,3,2020-09-27,Sunday,16:25,TB,28,DEN,10,Home,-18,38,2020092711,7,7,-264,230,-6,-105,-105,42.5,-103,-108,0,outdoors,,,,Bruce Arians,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_03_DAL_SEA,2020,REG,3,2020-09-27,Sunday,16:25,DAL,31,SEA,38,Home,7,69,2020092712,7,7,208,-237,5.5,-104,-106,58,-116,104,0,outdoors,,,,Mike McCarthy,Pete Carroll,,SEA00,CenturyLink Field
-2020_03_GB_NO,2020,REG,3,2020-09-27,Sunday,20:20,GB,,NO,,Home,,,2020092713,7,6,154,-172,3.5,-112,102,52,-108,-103,0,dome,,,,Matt LaFleur,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_03_GB_NO,2020,REG,3,2020-09-27,Sunday,20:20,GB,37,NO,30,Home,-7,67,2020092713,7,6,154,-172,3.5,-112,102,52,-108,-103,0,dome,,,,Matt LaFleur,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_03_KC_BAL,2020,REG,3,2020-09-28,Monday,20:15,KC,,BAL,,Home,,,2020092800,8,8,154,-172,3.5,-110,-101,54,-109,-102,0,outdoors,,,,Andy Reid,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_04_DEN_NYJ,2020,REG,4,2020-10-01,Thursday,20:20,DEN,,NYJ,,Home,,,2020100100,4,4,,,,,,,,,0,outdoors,,,,Vic Fangio,Adam Gase,,NYC01,MetLife Stadium
 2020_04_ARI_CAR,2020,REG,4,2020-10-04,Sunday,13:00,ARI,,CAR,,Home,,,2020100400,7,7,,,,,,,,,0,outdoors,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
