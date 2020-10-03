@@ -5582,6 +5582,22 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_20_TEN_KC,2019,CON,20,2020-01-19,Sunday,15:05,TEN,24,KC,35,Home,11,59,2020011900,8,7,286,-337,7.5,-117,106,51,-103,-108,0,outdoors,astroturf,,,Mike Vrabel,Andy Reid,Tony Corrente,KAN00,Arrowhead Stadium
 2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40,GB,20,SF,37,Home,17,57,2020011901,7,8,315,-375,8,-107,-103,46.5,-105,-106,0,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,SFO01,Levi's Stadium
 2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30,SF,20,KC,31,Neutral,11,51,2020020200,14,14,113,-125,1.5,-101,-109,52.5,-101,-110,0,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,MIA00,Hard Rock Stadium
+2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20,HOU,20,KC,34,Home,14,54,2020091000,7,7,349,-423,9.5,-105,-105,53.5,-109,-102,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
+2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,38,ATL,25,Home,-13,63,2020091300,7,7,102,-112,1,-105,-105,49.5,-108,-103,0,,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
+2020_01_CLE_BAL,2020,REG,1,2020-09-13,Sunday,13:00,CLE,6,BAL,38,Home,32,44,2020091301,7,7,260,-302,7,-107,-103,47,100,-112,1,outdoors,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
+2020_01_NYJ_BUF,2020,REG,1,2020-09-13,Sunday,13:00,NYJ,17,BUF,27,Home,10,44,2020091302,7,7,242,-279,6.5,-110,100,39.5,-114,102,1,outdoors,,,,Adam Gase,Sean McDermott,,BUF00,New Era Field
+2020_01_LV_CAR,2020,REG,1,2020-09-13,Sunday,13:00,LV,34,CAR,30,Home,-4,64,2020091303,7,7,-124,134,-3,-112,-113,48,-101,-110,0,outdoors,,,,Jon Gruden,Matt Rhule,,CAR00,Bank of America Stadium
+2020_01_CHI_DET,2020,REG,1,2020-09-13,Sunday,13:00,CHI,27,DET,23,Home,-4,50,2020091304,7,7,116,-128,2.5,-108,-102,42.5,-108,-103,1,dome,,,,Matt Nagy,Matt Patricia,,DET00,Ford Field
+2020_01_IND_JAX,2020,REG,1,2020-09-13,Sunday,13:00,IND,20,JAX,27,Home,7,47,2020091305,7,7,-309,265,-7,-108,-102,44,-103,-108,1,outdoors,,,,Frank Reich,Doug Marrone,,JAX00,TIAA Bank Stadium
+2020_01_GB_MIN,2020,REG,1,2020-09-13,Sunday,13:00,GB,43,MIN,34,Home,-9,77,2020091306,7,7,103,-114,1,-103,-107,45,-110,-102,1,dome,,,,Matt LaFleur,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_01_MIA_NE,2020,REG,1,2020-09-13,Sunday,13:00,MIA,11,NE,21,Home,10,32,2020091307,7,7,278,-327,7.5,-112,102,41.5,-110,-101,1,outdoors,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
+2020_01_PHI_WAS,2020,REG,1,2020-09-13,Sunday,13:00,PHI,17,WAS,27,Home,10,44,2020091308,7,7,-227,200,-5.5,-106,-104,41.5,-111,-100,1,outdoors,,,,Doug Pederson,Ron Rivera,,WAS00,FedExField
+2020_01_LAC_CIN,2020,REG,1,2020-09-13,Sunday,16:05,LAC,16,CIN,13,Home,-3,29,2020091309,7,7,-129,117,-2.5,-100,-110,41.5,-114,102,0,outdoors,,,,Anthony Lynn,Zac Taylor,,CIN00,Paul Brown Stadium
+2020_01_TB_NO,2020,REG,1,2020-09-13,Sunday,16:25,TB,23,NO,34,Home,11,57,2020091310,7,7,174,-196,4,102,-113,48.5,-112,101,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_01_ARI_SF,2020,REG,1,2020-09-13,Sunday,16:25,ARI,24,SF,20,Home,-4,44,2020091311,7,7,242,-280,7,-123,111,48.5,106,-118,1,outdoors,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_01_DAL_LA,2020,REG,1,2020-09-13,Sunday,20:20,DAL,17,LA,20,Home,3,37,2020091312,7,7,103,-114,1,-103,-107,52,-111,-100,0,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
+2020_01_PIT_NYG,2020,REG,1,2020-09-14,Monday,19:15,PIT,26,NYG,16,Home,-10,42,2020091400,7,7,-253,221,-6,-105,-105,44,-105,-106,0,outdoors,,,,Mike Tomlin,Joe Judge,,NYC01,MetLife Stadium
+2020_01_TEN_DEN,2020,REG,1,2020-09-14,Monday,22:10,TEN,16,DEN,14,Home,-2,30,2020091401,7,7,-175,157,-3,-121,109,41,100,-112,0,outdoors,,,,Mike Vrabel,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_02_CIN_CLE,2020,REG,2,2020-09-17,Thursday,20:20,CIN,30,CLE,35,Home,5,65,2020091700,4,4,213,-243,6,-111,100,44.5,101,-113,1,outdoors,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_02_NYG_CHI,2020,REG,2,2020-09-20,Sunday,13:00,NYG,13,CHI,17,Home,4,30,2020092000,6,7,196,-222,4.5,-105,-105,42.5,-103,-108,0,outdoors,,,,Joe Judge,Matt Nagy,,CHI98,Soldier Field
 2020_02_ATL_DAL,2020,REG,2,2020-09-20,Sunday,13:00,ATL,39,DAL,40,Home,1,79,2020092001,7,7,131,-145,3,-119,108,53,-102,-109,0,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
