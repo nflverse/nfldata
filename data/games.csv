@@ -5640,9 +5640,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_04_LAC_TB,2020,REG,4,2020-10-04,Sunday,13:00,LAC,31,TB,38,Home,7,69,2020100407,7,7,282,-331,7.5,-114,103,42.5,-111,-100,0,outdoors,,,,Anthony Lynn,Bruce Arians,,TAM00,Raymond James Stadium
 2020_04_BAL_WAS,2020,REG,4,2020-10-04,Sunday,13:00,BAL,31,WAS,17,Home,-14,48,2020100409,6,7,-958,692,-14.5,104,-115,45,-113,102,0,outdoors,,,,John Harbaugh,Ron Rivera,,WAS00,FedExField
 2020_04_NYG_LA,2020,REG,4,2020-10-04,Sunday,16:05,NYG,9,LA,17,Home,8,26,2020100410,7,7,652,-890,13.5,-103,-107,49.5,101,-112,0,,,,,Joe Judge,Sean McVay,,LAX01,SoFi Stadium
-2020_04_IND_CHI,2020,REG,4,2020-10-04,Sunday,16:25,IND,,CHI,,Home,,,2020100401,7,7,-174,156,-3.5,102,-112,43.5,-110,-101,0,outdoors,,,,Frank Reich,Matt Nagy,,CHI98,Soldier Field
+2020_04_IND_CHI,2020,REG,4,2020-10-04,Sunday,16:25,IND,19,CHI,11,Home,-8,30,2020100401,7,7,-174,156,-3.5,102,-112,43.5,-110,-101,0,outdoors,,,,Frank Reich,Matt Nagy,,CHI98,Soldier Field
 2020_04_BUF_LV,2020,REG,4,2020-10-04,Sunday,16:25,BUF,,LV,,Home,,,2020100412,7,7,-172,154,-3,-115,104,53,-108,-103,0,,,,,Sean McDermott,Jon Gruden,,VEG00,Allegiant Stadium
-2020_04_PHI_SF,2020,REG,4,2020-10-04,Sunday,20:20,PHI,,SF,,Home,,,2020100413,7,7,321,-383,9.5,-114,103,45.5,-107,-104,0,outdoors,,,,Doug Pederson,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_04_PHI_SF,2020,REG,4,2020-10-04,Sunday,20:20,PHI,,SF,,Home,,,2020100413,7,7,322,-385,9.5,-113,103,45.5,-104,-107,0,outdoors,,,,Doug Pederson,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_04_NE_KC,2020,REG,4,2020-10-05,Monday,19:05,NE,,KC,,Home,,,2020100411,7,6,257,-299,7,-114,103,52.5,-106,-105,0,outdoors,,,,Bill Belichick,Andy Reid,,KAN00,Arrowhead Stadium
 2020_04_ATL_GB,2020,REG,4,2020-10-05,Monday,20:50,ATL,,GB,,Home,,,2020100500,8,8,252,-292,6.5,-101,-109,56.5,-104,-107,0,outdoors,,,,Dan Quinn,Matt LaFleur,,GNB00,Lambeau Field
 2020_05_TB_CHI,2020,REG,5,2020-10-08,Thursday,20:20,TB,,CHI,,Home,,,2020100800,4,4,,,,,,,,,0,outdoors,,,,Bruce Arians,Matt Nagy,,CHI98,Soldier Field
