@@ -5637,7 +5637,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_04_NO_DET,2020,REG,4,2020-10-04,Sunday,13:00,NO,35,DET,29,Home,-6,64,2020100404,7,7,-155,139,-3,-103,-107,51.5,-102,-109,0,dome,,,,Sean Payton,Matt Patricia,,DET00,Ford Field
 2020_04_MIN_HOU,2020,REG,4,2020-10-04,Sunday,13:00,MIN,31,HOU,23,Home,-8,54,2020100405,7,7,154,-172,3.5,-114,104,52.5,100,-112,0,,,,,Mike Zimmer,Bill O'Brien,,HOU00,NRG Stadium
 2020_04_SEA_MIA,2020,REG,4,2020-10-04,Sunday,13:00,SEA,31,MIA,23,Home,-8,54,2020100406,7,10,-223,196,-4.5,-106,-104,55,-113,101,0,outdoors,,,,Pete Carroll,Brian Flores,,MIA00,Hard Rock Stadium
-2020_04_LAC_TB,2020,REG,4,2020-10-04,Sunday,13:00,LAC,,TB,,Home,,,2020100407,7,7,282,-331,7.5,-114,103,42.5,-111,-100,0,outdoors,,,,Anthony Lynn,Bruce Arians,,TAM00,Raymond James Stadium
+2020_04_LAC_TB,2020,REG,4,2020-10-04,Sunday,13:00,LAC,31,TB,38,Home,7,69,2020100407,7,7,282,-331,7.5,-114,103,42.5,-111,-100,0,outdoors,,,,Anthony Lynn,Bruce Arians,,TAM00,Raymond James Stadium
 2020_04_BAL_WAS,2020,REG,4,2020-10-04,Sunday,13:00,BAL,31,WAS,17,Home,-14,48,2020100409,6,7,-958,692,-14.5,104,-115,45,-113,102,0,outdoors,,,,John Harbaugh,Ron Rivera,,WAS00,FedExField
 2020_04_NYG_LA,2020,REG,4,2020-10-04,Sunday,16:05,NYG,,LA,,Home,,,2020100410,7,7,652,-890,13.5,-103,-107,49.5,101,-112,0,,,,,Joe Judge,Sean McVay,,LAX01,SoFi Stadium
 2020_04_IND_CHI,2020,REG,4,2020-10-04,Sunday,16:25,IND,,CHI,,Home,,,2020100401,7,7,-180,161,-3.5,-102,-109,43,-103,-108,0,outdoors,,,,Frank Reich,Matt Nagy,,CHI98,Soldier Field
