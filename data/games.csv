@@ -5656,8 +5656,8 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_05_MIA_SF,2020,REG,5,2020-10-11,Sunday,16:05,MIA,,SF,,Home,,,2020101109,7,7,301,-357,8.5,-119,108,50.5,-110,-101,0,outdoors,,,,Brian Flores,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_05_IND_CLE,2020,REG,5,2020-10-11,Sunday,16:25,IND,,CLE,,Home,,,2020101110,7,7,-101,-110,1,-107,-103,48.5,-112,101,0,outdoors,,,,Frank Reich,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_05_NYG_DAL,2020,REG,5,2020-10-11,Sunday,16:25,NYG,,DAL,,Home,,,2020101111,7,7,293,-347,7.5,-114,103,52,-107,-104,1,,,,,Joe Judge,Mike McCarthy,,DAL00,AT&T Stadium
-2020_05_MIN_SEA,2020,REG,5,2020-10-11,Sunday,20:20,MIN,,SEA,,Home,,,2020101112,7,7,245,-283,6.5,-108,-102,54.5,-104,-107,0,outdoors,,,,Mike Zimmer,Pete Carroll,,SEA00,CenturyLink Field
-2020_05_LAC_NO,2020,REG,5,2020-10-12,Monday,20:15,LAC,,NO,,Home,,,2020101200,8,8,287,-338,7.5,-117,106,50,-111,-100,0,dome,,,,Anthony Lynn,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_05_MIN_SEA,2020,REG,5,2020-10-11,Sunday,20:20,MIN,,SEA,,Home,,,2020101112,7,7,244,-283,6.5,-108,-102,54.5,-104,-107,0,outdoors,,,,Mike Zimmer,Pete Carroll,,SEA00,CenturyLink Field
+2020_05_LAC_NO,2020,REG,5,2020-10-12,Monday,20:15,LAC,,NO,,Home,,,2020101200,8,8,272,-318,7.5,-128,116,50,-110,-101,0,dome,,,,Anthony Lynn,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_05_BUF_TEN,2020,REG,5,2020-10-13,Tuesday,18:00,BUF,,TEN,,Home,,,2020101107,9,16,,,,,,,,,0,outdoors,,,,Sean McDermott,Mike Vrabel,,NAS00,Nissan Stadium
 2020_06_CHI_CAR,2020,REG,6,2020-10-18,Sunday,13:00,CHI,,CAR,,Home,,,2020101800,10,7,,,,,,,,,0,outdoors,,,,Matt Nagy,Matt Rhule,,CAR00,Bank of America Stadium
 2020_06_CIN_IND,2020,REG,6,2020-10-18,Sunday,13:00,CIN,,IND,,Home,,,2020101801,7,7,,,,,,,,,0,,,,,Zac Taylor,Frank Reich,,IND00,Lucas Oil Stadium
