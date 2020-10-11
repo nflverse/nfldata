@@ -5651,7 +5651,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_05_JAX_HOU,2020,REG,5,2020-10-11,Sunday,13:00,JAX,14,HOU,30,Home,16,44,2020101102,7,7,243,-281,6.5,100,-110,55,-108,-103,1,,,,,Doug Marrone,Romeo Crennel,,HOU00,NRG Stadium
 2020_05_LV_KC,2020,REG,5,2020-10-11,Sunday,13:00,LV,,KC,,Home,,,2020101103,7,6,387,-476,11,-114,104,54.5,-102,-109,1,outdoors,,,,Jon Gruden,Andy Reid,,KAN00,Arrowhead Stadium
 2020_05_ARI_NYJ,2020,REG,5,2020-10-11,Sunday,13:00,ARI,30,NYJ,10,Home,-20,40,2020101105,7,10,-295,254,-7,106,-117,48.5,-112,100,0,outdoors,,,,Kliff Kingsbury,Adam Gase,,NYC01,MetLife Stadium
-2020_05_PHI_PIT,2020,REG,5,2020-10-11,Sunday,13:00,PHI,,PIT,,Home,,,2020101106,7,14,312,-372,7.5,-103,-107,44,-107,-104,0,outdoors,,,,Doug Pederson,Mike Tomlin,,PIT00,Heinz Field
+2020_05_PHI_PIT,2020,REG,5,2020-10-11,Sunday,13:00,PHI,29,PIT,38,Home,9,67,2020101106,7,14,312,-372,7.5,-103,-107,44,-107,-104,0,outdoors,,,,Doug Pederson,Mike Tomlin,,PIT00,Heinz Field
 2020_05_LA_WAS,2020,REG,5,2020-10-11,Sunday,13:00,LA,30,WAS,10,Home,-20,40,2020101108,7,7,-305,262,-7,-101,-109,45,-108,-103,0,outdoors,,,,Sean McVay,Ron Rivera,,WAS00,FedExField
 2020_05_MIA_SF,2020,REG,5,2020-10-11,Sunday,16:05,MIA,,SF,,Home,,,2020101109,7,7,313,-373,8.5,-111,101,50.5,-114,102,0,outdoors,,,,Brian Flores,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_05_IND_CLE,2020,REG,5,2020-10-11,Sunday,16:25,IND,,CLE,,Home,,,2020101110,7,7,101,-112,1,-104,-106,49.5,-107,-104,0,outdoors,,,,Frank Reich,Kevin Stefanski,,CLE00,FirstEnergy Stadium
