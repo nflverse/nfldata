@@ -5661,15 +5661,15 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_05_BUF_TEN,2020,REG,5,2020-10-13,Tuesday,19:00,BUF,16,TEN,42,Home,26,58,2020101300,9,16,-168,150,-3,-108,-102,52,-106,-105,0,outdoors,,,,Sean McDermott,Mike Vrabel,,NAS00,Nissan Stadium
 2020_06_CHI_CAR,2020,REG,6,2020-10-18,Sunday,13:00,CHI,,CAR,,Home,,,2020101800,10,7,104,-115,1,-102,-108,45,-106,-105,0,outdoors,,,,Matt Nagy,Matt Rhule,,CAR00,Bank of America Stadium
 2020_06_CIN_IND,2020,REG,6,2020-10-18,Sunday,13:00,CIN,,IND,,Home,,,2020101801,7,7,313,-373,8,-109,-101,46,102,-114,0,,,,,Zac Taylor,Frank Reich,,IND00,Lucas Oil Stadium
-2020_06_DET_JAX,2020,REG,6,2020-10-18,Sunday,13:00,DET,,JAX,,Home,,,2020101802,14,7,-172,154,-3,-117,106,54,101,-113,0,outdoors,,,,Matt Patricia,Doug Marrone,,JAX00,TIAA Bank Stadium
+2020_06_DET_JAX,2020,REG,6,2020-10-18,Sunday,13:00,DET,,JAX,,Home,,,2020101802,14,7,-173,155,-3,-118,107,54,101,-113,0,outdoors,,,,Matt Patricia,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_06_ATL_MIN,2020,REG,6,2020-10-18,Sunday,13:00,ATL,,MIN,,Home,,,2020101803,7,7,183,-206,3.5,110,-122,54.5,-108,-103,0,dome,,,,Dan Quinn,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2020_06_DEN_NE,2020,REG,6,2020-10-18,Sunday,13:00,DEN,,NE,,Home,,,2020101104,17,13,369,-451,10,-108,-102,45,-109,-102,0,outdoors,,,,Vic Fangio,Bill Belichick,,BOS00,Gillette Stadium
+2020_06_DEN_NE,2020,REG,6,2020-10-18,Sunday,13:00,DEN,,NE,,Home,,,2020101104,17,13,372,-454,10,-107,-103,45,-113,101,0,outdoors,,,,Vic Fangio,Bill Belichick,,BOS00,Gillette Stadium
 2020_06_WAS_NYG,2020,REG,6,2020-10-18,Sunday,13:00,WAS,,NYG,,Home,,,2020101804,7,7,127,-141,2.5,104,-115,42.5,-102,-109,1,outdoors,,,,Ron Rivera,Joe Judge,,NYC01,MetLife Stadium
 2020_06_BAL_PHI,2020,REG,6,2020-10-18,Sunday,13:00,BAL,,PHI,,Home,,,2020101805,7,7,-346,293,-7.5,-102,-108,48,-111,-101,0,outdoors,,,,John Harbaugh,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_06_CLE_PIT,2020,REG,6,2020-10-18,Sunday,13:00,CLE,,PIT,,Home,,,2020101806,7,7,158,-176,3.5,-118,107,51,-107,-104,1,outdoors,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
 2020_06_HOU_TEN,2020,REG,6,2020-10-18,Sunday,13:00,HOU,,TEN,,Home,,,2020101807,7,5,166,-185,3,112,-123,53,-111,-100,1,outdoors,,,,Romeo Crennel,Mike Vrabel,,NAS00,Nissan Stadium
 2020_06_NYJ_MIA,2020,REG,6,2020-10-18,Sunday,16:05,NYJ,,MIA,,Home,,,2020111508,7,7,320,-382,10,-124,112,47.5,-114,103,1,outdoors,,,,Adam Gase,Brian Flores,,MIA00,Hard Rock Stadium
-2020_06_GB_TB,2020,REG,6,2020-10-18,Sunday,16:25,GB,,TB,,Home,,,2020101810,13,10,-106,-104,-1,-100,-110,55,-105,-106,0,outdoors,,,,Matt LaFleur,Bruce Arians,,TAM00,Raymond James Stadium
+2020_06_GB_TB,2020,REG,6,2020-10-18,Sunday,16:25,GB,,TB,,Home,,,2020101810,13,10,-106,-104,-1,-100,-110,55,-104,-107,0,outdoors,,,,Matt LaFleur,Bruce Arians,,TAM00,Raymond James Stadium
 2020_06_LA_SF,2020,REG,6,2020-10-18,Sunday,20:20,LA,,SF,,Home,,,2020101811,7,7,-172,154,-3.5,107,-118,51,105,-117,1,outdoors,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_06_KC_BUF,2020,REG,6,2020-10-19,Monday,17:00,KC,,BUF,,Home,,,2020101500,8,6,-197,175,-4,-104,-106,57.5,-105,-106,0,outdoors,,,,Andy Reid,Sean McDermott,,BUF00,New Era Field
 2020_06_ARI_DAL,2020,REG,6,2020-10-19,Monday,20:15,ARI,,DAL,,Home,,,2020101900,8,8,-122,110,-2.5,106,-117,55,-108,-103,0,,,,,Kliff Kingsbury,Mike McCarthy,,DAL00,AT&T Stadium
