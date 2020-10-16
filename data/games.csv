@@ -5662,8 +5662,8 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_06_CHI_CAR,2020,REG,6,2020-10-18,Sunday,13:00,CHI,,CAR,,Home,,,2020101800,10,7,102,-113,1,-104,-106,44.5,-107,-105,0,outdoors,,,,Matt Nagy,Matt Rhule,,CAR00,Bank of America Stadium
 2020_06_CIN_IND,2020,REG,6,2020-10-18,Sunday,13:00,CIN,,IND,,Home,,,2020101801,7,7,313,-373,8,-109,-101,46,-103,-109,0,,,,,Zac Taylor,Frank Reich,,IND00,Lucas Oil Stadium
 2020_06_DET_JAX,2020,REG,6,2020-10-18,Sunday,13:00,DET,,JAX,,Home,,,2020101802,14,7,-167,150,-3,-116,105,54,103,-115,0,outdoors,,,,Matt Patricia,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_06_ATL_MIN,2020,REG,6,2020-10-18,Sunday,13:00,ATL,,MIN,,Home,,,2020101803,7,7,181,-204,4,-101,-110,54,-103,-108,0,dome,,,,Dan Quinn,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2020_06_DEN_NE,2020,REG,6,2020-10-18,Sunday,13:00,DEN,,NE,,Home,,,2020101104,17,13,351,-425,10,-122,111,45,-113,102,0,outdoors,,,,Vic Fangio,Bill Belichick,,BOS00,Gillette Stadium
+2020_06_ATL_MIN,2020,REG,6,2020-10-18,Sunday,13:00,ATL,,MIN,,Home,,,2020101803,7,7,184,-207,4,101,-112,54,-103,-108,0,dome,,,,Dan Quinn,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_06_DEN_NE,2020,REG,6,2020-10-18,Sunday,13:00,DEN,,NE,,Home,,,2020101104,17,13,352,-426,10,-122,110,45,-113,102,0,outdoors,,,,Vic Fangio,Bill Belichick,,BOS00,Gillette Stadium
 2020_06_WAS_NYG,2020,REG,6,2020-10-18,Sunday,13:00,WAS,,NYG,,Home,,,2020101804,7,7,129,-143,2.5,106,-117,42.5,105,-117,1,outdoors,,,,Ron Rivera,Joe Judge,,NYC01,MetLife Stadium
 2020_06_BAL_PHI,2020,REG,6,2020-10-18,Sunday,13:00,BAL,,PHI,,Home,,,2020101805,7,7,-360,303,-7.5,-107,-103,48,-110,-101,0,outdoors,,,,John Harbaugh,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_06_CLE_PIT,2020,REG,6,2020-10-18,Sunday,13:00,CLE,,PIT,,Home,,,2020101806,7,7,179,-202,4,-107,-103,51,-110,-101,1,outdoors,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
