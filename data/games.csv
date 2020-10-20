@@ -5675,8 +5675,8 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_06_WAS_NYG,2020,REG,6,2020-10-18,Sunday,13:00,WAS,19,NYG,20,Home,1,39,2020101804,7,7,116,-128,2,-103,-107,42.5,-114,103,1,outdoors,,,,Ron Rivera,Joe Judge,,NYC01,MetLife Stadium
 2020_07_BUF_NYJ,2020,REG,7,2020-10-25,Sunday,13:00,BUF,,NYJ,,Home,,,2020102506,6,7,,,,,,,,,1,outdoors,,,,Sean McDermott,Adam Gase,,NYC01,MetLife Stadium
 2020_07_CAR_NO,2020,REG,7,2020-10-25,Sunday,13:00,CAR,,NO,,Home,,,2020102505,7,13,293,-346,7.5,-109,-101,51,102,-114,1,dome,,,,Matt Rhule,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_07_CHI_LA,2020,REG,7,2020-10-26,Monday,20:15,CHI,,LA,,Home,,,2020102600,8,8,216,-246,5.5,-101,-110,46,-110,-101,0,,,,,Matt Nagy,Sean McVay,,LAX01,SoFi Stadium
-2020_07_CLE_CIN,2020,REG,7,2020-10-25,Sunday,13:00,CLE,,CIN,,Home,,,2020102502,7,7,-172,154,-3.5,105,-116,51,-109,-102,1,outdoors,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
+2020_07_CHI_LA,2020,REG,7,2020-10-26,Monday,20:15,CHI,,LA,,Home,,,2020102600,8,8,216,-246,5.5,-101,-110,46,-112,101,0,,,,,Matt Nagy,Sean McVay,,LAX01,SoFi Stadium
+2020_07_CLE_CIN,2020,REG,7,2020-10-25,Sunday,13:00,CLE,,CIN,,Home,,,2020102502,7,7,-172,155,-3.5,105,-116,51,-109,-102,1,outdoors,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_07_DAL_WAS,2020,REG,7,2020-10-25,Sunday,13:00,DAL,,WAS,,Home,,,2020102507,6,7,,,,,,,,,1,outdoors,,,,Mike McCarthy,Ron Rivera,,WAS00,FedExField
 2020_07_DET_ATL,2020,REG,7,2020-10-25,Sunday,13:00,DET,,ATL,,Home,,,2020102500,7,7,129,-143,3,-118,107,56.5,-105,-106,0,,,,,Matt Patricia,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,,HOU,,Home,,,2020102503,7,7,-192,171,-3.5,-107,-103,56,-102,-109,0,,,,,Matt LaFleur,Romeo Crennel,,HOU00,NRG Stadium
