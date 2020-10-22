@@ -5685,7 +5685,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_07_NYG_PHI,2020,REG,7,2020-10-22,Thursday,20:20,NYG,,PHI,,Home,,,2020102200,4,4,202,-230,4.5,-105,-105,45,-106,-105,1,outdoors,,,,Joe Judge,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_07_PIT_TEN,2020,REG,7,2020-10-25,Sunday,13:00,PIT,,TEN,,Home,,,2020100408,7,7,-144,130,-3,104,-115,47.5,-118,106,0,outdoors,,,,Mike Tomlin,Mike Vrabel,,NAS00,Nissan Stadium
 2020_07_SEA_ARI,2020,REG,7,2020-10-25,Sunday,16:05,SEA,,ARI,,Home,,,2020102508,14,6,-179,160,-3.5,103,-113,56,-108,-103,1,,,,,Pete Carroll,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_07_SF_NE,2020,REG,7,2020-10-25,Sunday,16:25,SF,,NE,,Home,,,2020102510,7,7,111,-122,1.5,-103,-108,44,-113,102,0,outdoors,,,,Kyle Shanahan,Bill Belichick,,BOS00,Gillette Stadium
+2020_07_SF_NE,2020,REG,7,2020-10-25,Sunday,16:25,SF,,NE,,Home,,,2020102510,7,7,111,-123,1.5,-102,-108,44,-113,102,0,outdoors,,,,Kyle Shanahan,Bill Belichick,,BOS00,Gillette Stadium
 2020_07_TB_LV,2020,REG,7,2020-10-25,Sunday,20:20,TB,,LV,,Home,,,2020102511,7,14,-203,180,-4,-105,-105,51.5,-105,-106,0,,,,,Bruce Arians,Jon Gruden,,VEG00,Allegiant Stadium
 2020_08_ATL_CAR,2020,REG,8,2020-10-29,Thursday,20:20,ATL,,CAR,,Home,,,2020102900,4,4,,,,,,,,,1,outdoors,,,,Raheem Morris,Matt Rhule,,CAR00,Bank of America Stadium
 2020_08_DAL_PHI,2020,REG,8,2020-11-01,Sunday,20:20,DAL,,PHI,,Home,,,2020110110,7,10,,,,,,,,,1,outdoors,,,,Mike McCarthy,Doug Pederson,,PHI00,Lincoln Financial Field
