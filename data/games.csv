@@ -5676,9 +5676,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_07_NYG_PHI,2020,REG,7,2020-10-22,Thursday,20:20,NYG,21,PHI,22,Home,1,43,2020102200,4,4,197,-223,5,-109,-101,44.5,-107,-104,1,outdoors,,,,Joe Judge,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_07_DET_ATL,2020,REG,7,2020-10-25,Sunday,13:00,DET,,ATL,,Home,,,2020102500,7,7,123,-136,2.5,-103,-107,55,-110,-101,0,,,,,Matt Patricia,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_07_CLE_CIN,2020,REG,7,2020-10-25,Sunday,13:00,CLE,,CIN,,Home,,,2020102502,7,7,-179,160,-3,-120,109,50.5,102,-114,1,outdoors,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,,HOU,,Home,,,2020102503,7,7,-184,164,-3.5,101,-112,57,-106,-105,0,,,,,Matt LaFleur,Romeo Crennel,,HOU00,NRG Stadium
+2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,,HOU,,Home,,,2020102503,7,7,-185,165,-3.5,101,-111,57,-105,-106,0,,,,,Matt LaFleur,Romeo Crennel,,HOU00,NRG Stadium
 2020_07_CAR_NO,2020,REG,7,2020-10-25,Sunday,13:00,CAR,,NO,,Home,,,2020102505,7,13,280,-328,7.5,-118,107,49.5,-104,-107,1,dome,,,,Matt Rhule,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_07_BUF_NYJ,2020,REG,7,2020-10-25,Sunday,13:00,BUF,,NYJ,,Home,,,2020102506,6,7,-547,436,-11,102,-112,46.5,-109,-102,1,outdoors,,,,Sean McDermott,Adam Gase,,NYC01,MetLife Stadium
+2020_07_BUF_NYJ,2020,REG,7,2020-10-25,Sunday,13:00,BUF,,NYJ,,Home,,,2020102506,6,7,-549,437,-11,101,-112,46.5,-109,-102,1,outdoors,,,,Sean McDermott,Adam Gase,,NYC01,MetLife Stadium
 2020_07_PIT_TEN,2020,REG,7,2020-10-25,Sunday,13:00,PIT,,TEN,,Home,,,2020100408,7,7,-144,130,-3,104,-115,47.5,-118,106,0,outdoors,,,,Mike Tomlin,Mike Vrabel,,NAS00,Nissan Stadium
 2020_07_DAL_WAS,2020,REG,7,2020-10-25,Sunday,13:00,DAL,,WAS,,Home,,,2020102507,6,7,-104,-106,-1,103,-113,44.5,102,-114,1,outdoors,,,,Mike McCarthy,Ron Rivera,,WAS00,FedExField
 2020_07_TB_LV,2020,REG,7,2020-10-25,Sunday,16:05,TB,,LV,,Home,,,2020102511,7,14,-203,180,-4,-105,-105,51.5,-105,-106,0,,,,,Bruce Arians,Jon Gruden,,VEG00,Allegiant Stadium
