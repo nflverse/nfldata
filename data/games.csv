@@ -5676,7 +5676,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_07_NYG_PHI,2020,REG,7,2020-10-22,Thursday,20:20,NYG,21,PHI,22,Home,1,43,2020102200,4,4,197,-223,5,-109,-101,44.5,-107,-104,1,outdoors,,,,Joe Judge,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_07_DET_ATL,2020,REG,7,2020-10-25,Sunday,13:00,DET,,ATL,,Home,,,2020102500,7,7,102,-113,1,-106,-104,54,-105,-106,0,,,,,Matt Patricia,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_07_CLE_CIN,2020,REG,7,2020-10-25,Sunday,13:00,CLE,,CIN,,Home,,,2020102502,7,7,-201,179,-4.5,103,-114,50,-114,102,1,outdoors,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,,HOU,,Home,,,2020102503,7,7,-140,127,-2.5,-113,102,55.5,-110,-101,0,,,,,Matt LaFleur,Romeo Crennel,,HOU00,NRG Stadium
+2020_07_GB_HOU,2020,REG,7,2020-10-25,Sunday,13:00,GB,35,HOU,20,Home,-15,55,2020102503,7,7,-140,127,-2.5,-113,102,55.5,-110,-101,0,,,,,Matt LaFleur,Romeo Crennel,,HOU00,NRG Stadium
 2020_07_CAR_NO,2020,REG,7,2020-10-25,Sunday,13:00,CAR,24,NO,27,Home,3,51,2020102505,7,13,271,-317,7,-107,-103,49.5,-110,-101,1,dome,,,,Matt Rhule,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_07_BUF_NYJ,2020,REG,7,2020-10-25,Sunday,13:00,BUF,18,NYJ,10,Home,-8,28,2020102506,6,7,-391,327,-9.5,101,-111,47,-115,103,1,outdoors,,,,Sean McDermott,Adam Gase,,NYC01,MetLife Stadium
 2020_07_PIT_TEN,2020,REG,7,2020-10-25,Sunday,13:00,PIT,,TEN,,Home,,,2020102512,7,7,103,-114,1,-102,-108,51,-111,-100,0,outdoors,,,,Mike Tomlin,Mike Vrabel,,NAS00,Nissan Stadium
