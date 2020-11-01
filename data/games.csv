@@ -5688,7 +5688,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_07_SEA_ARI,2020,REG,7,2020-10-25,Sunday,20:20,SEA,34,ARI,37,Home,3,71,1,2020102508,14,6,-186,166,-3.5,-102,-108,55.5,-108,-103,1,,,,,Pete Carroll,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_07_CHI_LA,2020,REG,7,2020-10-26,Monday,20:15,CHI,10,LA,24,Home,14,34,0,2020102600,8,8,251,-291,6.5,101,-112,44,-109,-102,0,,,,,Matt Nagy,Sean McVay,,LAX01,SoFi Stadium
 2020_08_ATL_CAR,2020,REG,8,2020-10-29,Thursday,20:20,ATL,25,CAR,17,Home,-8,42,0,2020102900,4,4,104,-115,1.5,-109,-102,52,-110,-101,1,outdoors,,,,Raheem Morris,Matt Rhule,,CAR00,Bank of America Stadium
-2020_08_PIT_BAL,2020,REG,8,2020-11-01,Sunday,13:00,PIT,,BAL,,Home,,,,2020110111,7,14,178,-200,4,-109,-102,44,-108,-103,1,outdoors,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
+2020_08_PIT_BAL,2020,REG,8,2020-11-01,Sunday,13:00,PIT,28,BAL,24,Home,-4,52,0,2020110111,7,14,178,-200,4,-109,-102,44,-108,-103,1,outdoors,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_08_NE_BUF,2020,REG,8,2020-11-01,Sunday,13:00,NE,21,BUF,24,Home,3,45,0,2020110100,7,7,175,-197,4,-105,-105,41,-102,-109,1,outdoors,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
 2020_08_TEN_CIN,2020,REG,8,2020-11-01,Sunday,13:00,TEN,20,CIN,31,Home,11,51,0,2020110101,7,7,-321,274,-7.5,107,-118,49.5,-115,103,0,outdoors,,,,Mike Vrabel,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_08_LV_CLE,2020,REG,8,2020-11-01,Sunday,13:00,LV,16,CLE,6,Home,-10,22,0,2020110102,7,7,117,-130,1,111,-123,48,-117,105,0,outdoors,,,,Jon Gruden,Kevin Stefanski,,CLE00,FirstEnergy Stadium
