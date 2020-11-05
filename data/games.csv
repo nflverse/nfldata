@@ -5702,18 +5702,18 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_08_DAL_PHI,2020,REG,8,2020-11-01,Sunday,20:20,DAL,9,PHI,23,Home,14,32,0,2020110110,7,10,335,-403,10,-100,-110,43,-105,-106,1,outdoors,,,,Mike McCarthy,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_08_TB_NYG,2020,REG,8,2020-11-02,Monday,20:15,TB,25,NYG,23,Home,-2,48,0,2020110200,8,11,-598,470,-13,105,-115,47,-115,103,0,outdoors,,,,Bruce Arians,Joe Judge,,NYC01,MetLife Stadium
 2020_09_GB_SF,2020,REG,9,2020-11-05,Thursday,20:20,GB,,SF,,Home,,,,2020110500,4,4,-328,280,-7.5,102,-113,48,-101,-110,0,outdoors,,,,Matt LaFleur,Kyle Shanahan,,SFO01,Levi's Stadium
-2020_09_DEN_ATL,2020,REG,9,2020-11-08,Sunday,13:00,DEN,,ATL,,Home,,,,2020110800,7,10,179,-201,4,-108,-102,50,-104,-107,0,,,,,Vic Fangio,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2020_09_SEA_BUF,2020,REG,9,2020-11-08,Sunday,13:00,SEA,,BUF,,Home,,,,2020110801,7,7,-151,136,-2.5,-115,104,55,-110,-101,0,outdoors,,,,Pete Carroll,Sean McDermott,,BUF00,New Era Field
-2020_09_BAL_IND,2020,REG,9,2020-11-08,Sunday,13:00,BAL,,IND,,Home,,,,2020110802,7,7,-126,114,-2.5,106,-116,47,-106,-105,0,,,,,John Harbaugh,Frank Reich,,IND00,Lucas Oil Stadium
+2020_09_DEN_ATL,2020,REG,9,2020-11-08,Sunday,13:00,DEN,,ATL,,Home,,,,2020110800,7,10,178,-201,4,-108,-102,50,-104,-107,0,,,,,Vic Fangio,Raheem Morris,,ATL97,Mercedes-Benz Stadium
+2020_09_SEA_BUF,2020,REG,9,2020-11-08,Sunday,13:00,SEA,,BUF,,Home,,,,2020110801,7,7,-160,144,-2.5,-123,111,55,-110,-101,0,outdoors,,,,Pete Carroll,Sean McDermott,,BUF00,New Era Field
+2020_09_BAL_IND,2020,REG,9,2020-11-08,Sunday,13:00,BAL,,IND,,Home,,,,2020110802,7,7,-124,113,-2.5,107,-118,47,-106,-105,0,,,,,John Harbaugh,Frank Reich,,IND00,Lucas Oil Stadium
 2020_09_HOU_JAX,2020,REG,9,2020-11-08,Sunday,13:00,HOU,,JAX,,Home,,,,2020110803,14,14,-280,242,-7,110,-122,50,100,-112,1,outdoors,,,,Romeo Crennel,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_09_CAR_KC,2020,REG,9,2020-11-08,Sunday,13:00,CAR,,KC,,Home,,,,2020110804,10,7,433,-542,10.5,-102,-108,53,-118,106,0,outdoors,,,,Matt Rhule,Andy Reid,,KAN00,Arrowhead Stadium
 2020_09_DET_MIN,2020,REG,9,2020-11-08,Sunday,13:00,DET,,MIN,,Home,,,,2020110805,7,7,176,-197,4,-106,-104,52,105,-117,1,dome,,,,Matt Patricia,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_09_CHI_TEN,2020,REG,9,2020-11-08,Sunday,13:00,CHI,,TEN,,Home,,,,2020110806,7,7,235,-271,6,-100,-110,46.5,-103,-108,0,outdoors,,,,Matt Nagy,Mike Vrabel,,NAS00,Nissan Stadium
 2020_09_NYG_WAS,2020,REG,9,2020-11-08,Sunday,13:00,NYG,,WAS,,Home,,,,2020110807,6,14,126,-140,2.5,-103,-107,42,-102,-109,1,outdoors,,,,Joe Judge,Ron Rivera,,WAS00,FedExField
-2020_09_LV_LAC,2020,REG,9,2020-11-08,Sunday,16:05,LV,,LAC,,Home,,,,2020110808,7,7,-105,-105,1,-110,-101,52,-111,-100,1,,,,,Jon Gruden,Anthony Lynn,,LAX01,SoFi Stadium
+2020_09_LV_LAC,2020,REG,9,2020-11-08,Sunday,16:05,LV,,LAC,,Home,,,,2020110808,7,7,-105,-105,1,-110,-101,52,-107,-104,1,,,,,Jon Gruden,Anthony Lynn,,LAX01,SoFi Stadium
 2020_09_MIA_ARI,2020,REG,9,2020-11-08,Sunday,16:25,MIA,,ARI,,Home,,,,2020110809,7,14,180,-203,4.5,-114,103,48.5,-106,-105,0,,,,,Brian Flores,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_09_PIT_DAL,2020,REG,9,2020-11-08,Sunday,16:25,PIT,,DAL,,Home,,,,2020110810,7,7,-770,579,-14,102,-113,42,-112,100,0,,,,,Mike Tomlin,Mike McCarthy,,DAL00,AT&T Stadium
-2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,192,-218,4.5,-108,-102,52,-118,106,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
+2020_09_PIT_DAL,2020,REG,9,2020-11-08,Sunday,16:25,PIT,,DAL,,Home,,,,2020110810,7,7,-771,580,-14,102,-113,42,-112,100,0,,,,,Mike Tomlin,Mike McCarthy,,DAL00,AT&T Stadium
+2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,191,-216,4.5,-109,-101,52,-117,105,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
 2020_09_NE_NYJ,2020,REG,9,2020-11-09,Monday,20:15,NE,,NYJ,,Home,,,,2020110900,8,8,-323,275,-7.5,111,-123,42.5,-107,-104,1,outdoors,,,,Bill Belichick,Adam Gase,,NYC01,MetLife Stadium
 2020_10_IND_TEN,2020,REG,10,2020-11-12,Thursday,20:20,IND,,TEN,,Home,,,,2020111200,4,4,,,1,-110,-110,50.5,-110,-110,1,outdoors,,,,Frank Reich,Mike Vrabel,,NAS00,Nissan Stadium
 2020_10_TB_CAR,2020,REG,10,2020-11-15,Sunday,13:00,TB,,CAR,,Home,,,,2020111500,7,7,,,-6.5,-111,-109,47,-110,-110,1,outdoors,,,,Bruce Arians,Matt Rhule,,CAR00,Bank of America Stadium
