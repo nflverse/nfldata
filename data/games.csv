@@ -5711,9 +5711,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_09_CHI_TEN,2020,REG,9,2020-11-08,Sunday,13:00,CHI,,TEN,,Home,,,,2020110806,7,7,237,-274,6,101,-112,46.5,-104,-107,0,outdoors,,,,Matt Nagy,Mike Vrabel,,NAS00,Nissan Stadium
 2020_09_NYG_WAS,2020,REG,9,2020-11-08,Sunday,13:00,NYG,,WAS,,Home,,,,2020110807,6,14,126,-140,2.5,-103,-107,42,-102,-109,1,outdoors,,,,Joe Judge,Ron Rivera,,WAS00,FedExField
 2020_09_LV_LAC,2020,REG,9,2020-11-08,Sunday,16:05,LV,,LAC,,Home,,,,2020110808,7,7,-105,-105,1,-110,-100,52,-107,-104,1,,,,,Jon Gruden,Anthony Lynn,,LAX01,SoFi Stadium
-2020_09_MIA_ARI,2020,REG,9,2020-11-08,Sunday,16:25,MIA,,ARI,,Home,,,,2020110809,7,14,181,-204,4.5,-113,103,48.5,-106,-105,0,,,,,Brian Flores,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_09_MIA_ARI,2020,REG,9,2020-11-08,Sunday,16:25,MIA,,ARI,,Home,,,,2020110809,7,14,181,-204,4.5,-113,102,48.5,-106,-105,0,,,,,Brian Flores,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_09_PIT_DAL,2020,REG,9,2020-11-08,Sunday,16:25,PIT,,DAL,,Home,,,,2020110810,7,7,-771,580,-14,102,-113,42,-112,100,0,,,,,Mike Tomlin,Mike McCarthy,,DAL00,AT&T Stadium
-2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,191,-216,4.5,-109,-101,52,-117,105,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
+2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,190,-215,4.5,-110,-101,52,-117,105,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
 2020_09_NE_NYJ,2020,REG,9,2020-11-09,Monday,20:15,NE,,NYJ,,Home,,,,2020110900,8,8,-323,275,-7.5,111,-123,42.5,-107,-104,1,outdoors,,,,Bill Belichick,Adam Gase,,NYC01,MetLife Stadium
 2020_10_IND_TEN,2020,REG,10,2020-11-12,Thursday,20:20,IND,,TEN,,Home,,,,2020111200,4,4,,,1,-110,-110,50.5,-110,-110,1,outdoors,,,,Frank Reich,Mike Vrabel,,NAS00,Nissan Stadium
 2020_10_TB_CAR,2020,REG,10,2020-11-15,Sunday,13:00,TB,,CAR,,Home,,,,2020111500,7,7,,,-6.5,-114,-106,47,-110,-110,1,outdoors,,,,Bruce Arians,Matt Rhule,,CAR00,Bank of America Stadium
