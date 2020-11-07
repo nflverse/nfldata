@@ -5722,7 +5722,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_10_JAX_GB,2020,REG,10,2020-11-15,Sunday,13:00,JAX,,GB,,Home,,,,2020111503,7,10,,,14,-110,-110,54.5,-116,-104,0,outdoors,,,,Doug Marrone,Matt LaFleur,,GNB00,Lambeau Field
 2020_10_PHI_NYG,2020,REG,10,2020-11-15,Sunday,13:00,PHI,,NYG,,Home,,,,2020111504,14,7,,,-3,-114,-106,41,-110,-110,1,outdoors,,,,Doug Pederson,Joe Judge,,NYC01,MetLife Stadium
 2020_10_BUF_ARI,2020,REG,10,2020-11-15,Sunday,16:05,BUF,,ARI,,Home,,,,2020111506,7,7,,,3,-120,100,49,-109,-111,0,,,,,Sean McDermott,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_10_DEN_LV,2020,REG,10,2020-11-15,Sunday,16:05,DEN,,LV,,Home,,,,2020111507,7,7,,,4,-110,-110,51,-110,-110,1,,,,,Vic Fangio,Jon Gruden,,VEG00,Allegiant Stadium
+2020_10_DEN_LV,2020,REG,10,2020-11-15,Sunday,16:05,DEN,,LV,,Home,,,,2020111507,7,7,,,4,-110,-110,51,-109,-111,1,,,,,Vic Fangio,Jon Gruden,,VEG00,Allegiant Stadium
 2020_10_LAC_MIA,2020,REG,10,2020-11-15,Sunday,16:05,LAC,,MIA,,Home,,,,2020102504,7,7,,,,,,,,,0,outdoors,,,,Anthony Lynn,Brian Flores,,MIA00,Hard Rock Stadium
 2020_10_SEA_LA,2020,REG,10,2020-11-15,Sunday,16:25,SEA,,LA,,Home,,,,2020111509,7,14,,,1,-122,101,53.5,-110,-110,1,,,,,Pete Carroll,Sean McVay,,LAX01,SoFi Stadium
 2020_10_SF_NO,2020,REG,10,2020-11-15,Sunday,16:25,SF,,NO,,Home,,,,2020111510,10,7,,,6.5,100,-120,53,-112,-108,0,dome,,,,Kyle Shanahan,Sean Payton,,NOR00,Mercedes-Benz Superdome
