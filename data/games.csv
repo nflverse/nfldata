@@ -5712,9 +5712,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_09_NYG_WAS,2020,REG,9,2020-11-08,Sunday,13:00,NYG,,WAS,,Home,,,,2020110807,6,14,135,-149,2.5,105,-116,43,-106,-105,1,outdoors,,,,Joe Judge,Ron Rivera,,WAS00,FedExField
 2020_09_LV_LAC,2020,REG,9,2020-11-08,Sunday,16:05,LV,,LAC,,Home,,,,2020110808,7,7,-102,-108,1,-109,-101,52,100,-111,1,,,,,Jon Gruden,Anthony Lynn,,LAX01,SoFi Stadium
 2020_09_MIA_ARI,2020,REG,9,2020-11-08,Sunday,16:25,MIA,,ARI,,Home,,,,2020110809,7,14,189,-213,4.5,-108,-102,49.5,-114,102,0,,,,,Brian Flores,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_09_PIT_DAL,2020,REG,9,2020-11-08,Sunday,16:25,PIT,,DAL,,Home,,,,2020110810,7,7,-970,698,-14.5,102,-112,44,-104,-107,0,,,,,Mike Tomlin,Mike McCarthy,,DAL00,AT&T Stadium
-2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,192,-218,4,-101,-109,51,-108,-103,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
-2020_09_NE_NYJ,2020,REG,9,2020-11-09,Monday,20:15,NE,,NYJ,,Home,,,,2020110900,8,8,-424,350,-10,101,-111,41,-106,-105,1,outdoors,,,,Bill Belichick,Adam Gase,,NYC01,MetLife Stadium
+2020_09_PIT_DAL,2020,REG,9,2020-11-08,Sunday,16:25,PIT,,DAL,,Home,,,,2020110810,7,7,-989,710,-15,103,-114,44,-109,-102,0,,,,,Mike Tomlin,Mike McCarthy,,DAL00,AT&T Stadium
+2020_09_NO_TB,2020,REG,9,2020-11-08,Sunday,20:20,NO,,TB,,Home,,,,2020110811,7,6,193,-218,4,-101,-110,51,-108,-103,1,outdoors,,,,Sean Payton,Bruce Arians,,TAM00,Raymond James Stadium
+2020_09_NE_NYJ,2020,REG,9,2020-11-09,Monday,20:15,NE,,NYJ,,Home,,,,2020110900,8,8,-417,345,-10,104,-114,41,-106,-105,1,outdoors,,,,Bill Belichick,Adam Gase,,NYC01,MetLife Stadium
 2020_10_IND_TEN,2020,REG,10,2020-11-12,Thursday,20:20,IND,,TEN,,Home,,,,2020111200,4,4,,,1,-110,-110,50.5,-110,-110,1,outdoors,,,,Frank Reich,Mike Vrabel,,NAS00,Nissan Stadium
 2020_10_TB_CAR,2020,REG,10,2020-11-15,Sunday,13:00,TB,,CAR,,Home,,,,2020111500,7,7,,,-6.5,-120,100,47,-115,-105,1,outdoors,,,,Bruce Arians,Matt Rhule,,CAR00,Bank of America Stadium
 2020_10_HOU_CLE,2020,REG,10,2020-11-15,Sunday,13:00,HOU,,CLE,,Home,,,,2020111501,7,14,,,2.5,-109,-111,54.5,-110,-110,0,outdoors,,,,Romeo Crennel,Kevin Stefanski,,CLE00,FirstEnergy Stadium
