@@ -5703,7 +5703,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_08_TB_NYG,2020,REG,8,2020-11-02,Monday,20:15,TB,25,NYG,23,Home,-2,48,0,2020110200,8,11,-598,470,-13,105,-115,47,-115,103,0,outdoors,,,,Bruce Arians,Joe Judge,,NYC01,MetLife Stadium
 2020_09_GB_SF,2020,REG,9,2020-11-05,Thursday,20:20,GB,34,SF,17,Home,-17,51,0,2020110500,4,4,-246,215,-6,100,-110,48.5,-113,101,0,outdoors,,,,Matt LaFleur,Kyle Shanahan,,SFO01,Levi's Stadium
 2020_09_DEN_ATL,2020,REG,9,2020-11-08,Sunday,13:00,DEN,,ATL,,Home,,,,2020110800,7,10,193,-218,4.5,-108,-102,50,-101,-110,0,,,,,Vic Fangio,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2020_09_SEA_BUF,2020,REG,9,2020-11-08,Sunday,13:00,SEA,,BUF,,Home,,,,2020110801,7,7,-164,147,-3,-109,-101,55,-101,-110,0,outdoors,,,,Pete Carroll,Sean McDermott,,BUF00,New Era Field
+2020_09_SEA_BUF,2020,REG,9,2020-11-08,Sunday,13:00,SEA,34,BUF,44,Home,10,78,0,2020110801,7,7,-164,147,-3,-109,-101,55,-101,-110,0,outdoors,,,,Pete Carroll,Sean McDermott,,BUF00,New Era Field
 2020_09_BAL_IND,2020,REG,9,2020-11-08,Sunday,13:00,BAL,24,IND,10,Home,-14,34,0,2020110802,7,7,-106,-104,1,-113,102,48,-114,102,0,,,,,John Harbaugh,Frank Reich,,IND00,Lucas Oil Stadium
 2020_09_HOU_JAX,2020,REG,9,2020-11-08,Sunday,13:00,HOU,27,JAX,25,Home,-2,52,0,2020110803,14,14,-289,249,-7,106,-117,49,-107,-104,1,outdoors,,,,Romeo Crennel,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_09_CAR_KC,2020,REG,9,2020-11-08,Sunday,13:00,CAR,,KC,,Home,,,,2020110804,10,7,365,-445,10,-106,-104,51.5,-102,-109,0,outdoors,,,,Matt Rhule,Andy Reid,,KAN00,Arrowhead Stadium
