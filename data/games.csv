@@ -5735,10 +5735,10 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_PHI_CLE,2020,REG,11,2020-11-22,Sunday,13:00,PHI,,CLE,,Home,,,,2020112202,7,7,163,-182,3.5,-112,102,47.5,-105,-106,0,outdoors,,,,Doug Pederson,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_11_NE_HOU,2020,REG,11,2020-11-22,Sunday,13:00,NE,,HOU,,Home,,,,2020112203,7,7,-142,128,-2.5,-107,-103,47,-103,-108,0,,,,,Bill Belichick,Romeo Crennel,,HOU00,NRG Stadium
 2020_11_PIT_JAX,2020,REG,11,2020-11-22,Sunday,13:00,PIT,,JAX,,Home,,,,2020112205,7,7,-424,350,-10.5,111,-123,48,-111,100,0,outdoors,,,,Mike Tomlin,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_11_ATL_NO,2020,REG,11,2020-11-22,Sunday,13:00,ATL,,NO,,Home,,,,2020112206,14,7,193,-218,5,-111,100,51,100,-112,1,dome,,,,Raheem Morris,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_11_ATL_NO,2020,REG,11,2020-11-22,Sunday,13:00,ATL,,NO,,Home,,,,2020112206,14,7,193,-219,5,-110,-100,51,100,-112,1,dome,,,,Raheem Morris,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_11_CIN_WAS,2020,REG,11,2020-11-22,Sunday,13:00,CIN,,WAS,,Home,,,,2020112207,7,7,116,-128,1,109,-120,46.5,-101,-110,0,outdoors,,,,Zac Taylor,Ron Rivera,,WAS00,FedExField
 2020_11_MIA_DEN,2020,REG,11,2020-11-22,Sunday,16:05,MIA,,DEN,,Home,,,,2020101808,7,7,,,1,-106,-114,,,,0,outdoors,,,,Brian Flores,Vic Fangio,,DEN00,Empower Field at Mile High
-2020_11_NYJ_LAC,2020,REG,11,2020-11-22,Sunday,16:05,NYJ,,LAC,,Home,,,,2020101809,13,7,340,-410,7.5,110,-121,47,-107,-104,0,,,,,Adam Gase,Anthony Lynn,,LAX01,SoFi Stadium
+2020_11_NYJ_LAC,2020,REG,11,2020-11-22,Sunday,16:05,NYJ,,LAC,,Home,,,,2020101809,13,7,340,-410,7.5,109,-121,47,-107,-104,0,,,,,Adam Gase,Anthony Lynn,,LAX01,SoFi Stadium
 2020_11_GB_IND,2020,REG,11,2020-11-22,Sunday,16:25,GB,,IND,,Home,,,,2020112204,7,10,128,-141,2.5,102,-113,51,-102,-109,0,,,,,Matt LaFleur,Frank Reich,,IND00,Lucas Oil Stadium
 2020_11_DAL_MIN,2020,REG,11,2020-11-22,Sunday,16:25,DAL,,MIN,,Home,,,,2020112209,14,6,,,9.5,-123,101,,,,0,dome,,,,Mike McCarthy,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_11_KC_LV,2020,REG,11,2020-11-22,Sunday,20:20,KC,,LV,,Home,,,,2020112210,14,7,-269,234,-6.5,104,-115,57,-117,105,1,,,,,Andy Reid,Jon Gruden,,VEG00,Allegiant Stadium
