@@ -5736,7 +5736,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_NE_HOU,2020,REG,11,2020-11-22,Sunday,13:00,NE,,HOU,,Home,,,,2020112203,7,7,-147,132,-2.5,-117,106,49.5,-103,-108,0,,,,,Bill Belichick,Romeo Crennel,,HOU00,NRG Stadium
 2020_11_PIT_JAX,2020,REG,11,2020-11-22,Sunday,13:00,PIT,,JAX,,Home,,,,2020112205,7,7,-475,386,-11,-103,-107,47,101,-113,0,outdoors,,,,Mike Tomlin,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_11_ATL_NO,2020,REG,11,2020-11-22,Sunday,13:00,ATL,,NO,,Home,,,,2020112206,14,7,162,-181,3.5,-109,-101,49.5,-103,-108,1,dome,,,,Raheem Morris,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_11_CIN_WAS,2020,REG,11,2020-11-22,Sunday,13:00,CIN,,WAS,,Home,,,,2020112207,7,7,110,-121,2,-109,-101,48,-106,-105,0,outdoors,,,,Zac Taylor,Ron Rivera,,WAS00,FedExField
+2020_11_CIN_WAS,2020,REG,11,2020-11-22,Sunday,13:00,CIN,9,WAS,20,Home,11,29,0,2020112207,7,7,110,-121,2,-109,-101,48,-106,-105,0,outdoors,,,,Zac Taylor,Ron Rivera,,WAS00,FedExField
 2020_11_MIA_DEN,2020,REG,11,2020-11-22,Sunday,16:05,MIA,,DEN,,Home,,,,2020112211,7,7,-190,170,-3.5,-111,101,46,-110,-101,0,outdoors,,,,Brian Flores,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_11_NYJ_LAC,2020,REG,11,2020-11-22,Sunday,16:05,NYJ,,LAC,,Home,,,,2020112212,13,7,349,-422,10,-110,-100,47,-109,-102,0,,,,,Adam Gase,Anthony Lynn,,LAX01,SoFi Stadium
 2020_11_GB_IND,2020,REG,11,2020-11-22,Sunday,16:25,GB,,IND,,Home,,,,2020112204,7,10,110,-122,1.5,-102,-108,52.5,-108,-103,0,,,,,Matt LaFleur,Frank Reich,,IND00,Lucas Oil Stadium
