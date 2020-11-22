@@ -5732,7 +5732,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_ARI_SEA,2020,REG,11,2020-11-19,Thursday,20:20,ARI,21,SEA,28,Home,7,49,0,2020111900,4,4,147,-164,3,-105,-105,56.5,-101,-110,1,outdoors,,,,Kliff Kingsbury,Pete Carroll,,SEA00,Lumen Field
 2020_11_TEN_BAL,2020,REG,11,2020-11-22,Sunday,13:00,TEN,30,BAL,24,Home,-6,54,1,2020112200,10,7,221,-253,6,-103,-107,50.5,-102,-109,0,outdoors,,,,Mike Vrabel,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_11_DET_CAR,2020,REG,11,2020-11-22,Sunday,13:00,DET,0,CAR,20,Home,20,20,0,2020112201,7,7,-169,152,-3,-119,108,47,-105,-106,0,outdoors,,,,Matt Patricia,Matt Rhule,,CAR00,Bank of America Stadium
-2020_11_PHI_CLE,2020,REG,11,2020-11-22,Sunday,13:00,PHI,,CLE,,Home,,,,2020112202,7,7,122,-135,2.5,-104,-106,45.5,-109,-103,0,outdoors,,,,Doug Pederson,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2020_11_PHI_CLE,2020,REG,11,2020-11-22,Sunday,13:00,PHI,17,CLE,22,Home,5,39,0,2020112202,7,7,122,-135,2.5,-104,-106,45.5,-109,-103,0,outdoors,,,,Doug Pederson,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_11_NE_HOU,2020,REG,11,2020-11-22,Sunday,13:00,NE,20,HOU,27,Home,7,47,0,2020112203,7,7,-147,132,-2.5,-117,106,49.5,-103,-108,0,,,,,Bill Belichick,Romeo Crennel,,HOU00,NRG Stadium
 2020_11_PIT_JAX,2020,REG,11,2020-11-22,Sunday,13:00,PIT,27,JAX,3,Home,-24,30,0,2020112205,7,7,-475,386,-11,-103,-107,47,101,-113,0,outdoors,,,,Mike Tomlin,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_11_ATL_NO,2020,REG,11,2020-11-22,Sunday,13:00,ATL,9,NO,24,Home,15,33,0,2020112206,14,7,162,-181,3.5,-109,-101,49.5,-103,-108,1,dome,,,,Raheem Morris,Sean Payton,,NOR00,Mercedes-Benz Superdome
