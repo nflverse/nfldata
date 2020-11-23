@@ -5738,7 +5738,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_ATL_NO,2020,REG,11,2020-11-22,Sunday,13:00,ATL,9,NO,24,Home,15,33,0,2020112206,14,7,162,-181,3.5,-109,-101,49.5,-103,-108,1,dome,,,,Raheem Morris,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_11_CIN_WAS,2020,REG,11,2020-11-22,Sunday,13:00,CIN,9,WAS,20,Home,11,29,0,2020112207,7,7,110,-121,2,-109,-101,48,-106,-105,0,outdoors,,,,Zac Taylor,Ron Rivera,,WAS00,FedExField
 2020_11_MIA_DEN,2020,REG,11,2020-11-22,Sunday,16:05,MIA,13,DEN,20,Home,7,33,0,2020112211,7,7,-196,174,-4,-105,-105,46,-108,-103,0,outdoors,,,,Brian Flores,Vic Fangio,,DEN00,Empower Field at Mile High
-2020_11_NYJ_LAC,2020,REG,11,2020-11-22,Sunday,16:05,NYJ,,LAC,,Home,,,,2020112212,13,7,351,-425,10,-110,-101,47,-104,-107,0,,,,,Adam Gase,Anthony Lynn,,LAX01,SoFi Stadium
+2020_11_NYJ_LAC,2020,REG,11,2020-11-22,Sunday,16:05,NYJ,28,LAC,34,Home,6,62,0,2020112212,13,7,351,-425,10,-110,-101,47,-104,-107,0,,,,,Adam Gase,Anthony Lynn,,LAX01,SoFi Stadium
 2020_11_GB_IND,2020,REG,11,2020-11-22,Sunday,16:25,GB,,IND,,Home,,,,2020112204,7,10,109,-120,1.5,-104,-106,52,102,-114,0,,,,,Matt LaFleur,Frank Reich,,IND00,Lucas Oil Stadium
 2020_11_DAL_MIN,2020,REG,11,2020-11-22,Sunday,16:25,DAL,,MIN,,Home,,,,2020112209,14,6,261,-304,7,-110,-100,50,-111,-101,0,dome,,,,Mike McCarthy,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_11_KC_LV,2020,REG,11,2020-11-22,Sunday,20:20,KC,,LV,,Home,,,,2020112210,14,7,-352,297,-7.5,-105,-105,56,-105,-106,1,,,,,Andy Reid,Jon Gruden,,VEG00,Allegiant Stadium
