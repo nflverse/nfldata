@@ -5742,9 +5742,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_GB_IND,2020,REG,11,2020-11-22,Sunday,16:25,GB,31,IND,34,Home,3,65,1,2020112204,7,10,109,-120,1.5,-104,-106,52,102,-114,0,,,,,Matt LaFleur,Frank Reich,,IND00,Lucas Oil Stadium
 2020_11_DAL_MIN,2020,REG,11,2020-11-22,Sunday,16:25,DAL,31,MIN,28,Home,-3,59,0,2020112209,14,6,261,-304,7,-110,-100,50,-111,-101,0,dome,,,,Mike McCarthy,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_11_KC_LV,2020,REG,11,2020-11-22,Sunday,20:20,KC,35,LV,31,Home,-4,66,0,2020112210,14,7,-351,296,-7.5,-108,-102,56.5,-104,-107,1,,,,,Andy Reid,Jon Gruden,,VEG00,Allegiant Stadium
-2020_11_LA_TB,2020,REG,11,2020-11-23,Monday,20:15,LA,,TB,,Home,,,,2020112300,8,8,185,-209,4,-103,-108,48.5,-103,-108,0,outdoors,,,,Sean McVay,Bruce Arians,,TAM00,Raymond James Stadium
-2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,,DET,,Home,,,,2020112600,4,4,-127,115,-1.5,-112,102,51,-109,-102,0,dome,,,,Romeo Crennel,Matt Patricia,,DET00,Ford Field
-2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,,DAL,,Home,,,,2020112601,4,4,137,-152,3,-112,101,48,-114,103,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
+2020_11_LA_TB,2020,REG,11,2020-11-23,Monday,20:15,LA,,TB,,Home,,,,2020112300,8,8,185,-208,4,-103,-107,48.5,-104,-107,0,outdoors,,,,Sean McVay,Bruce Arians,,TAM00,Raymond James Stadium
+2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,,DET,,Home,,,,2020112600,4,4,-127,115,-1.5,-112,102,51,-106,-105,0,dome,,,,Romeo Crennel,Matt Patricia,,DET00,Ford Field
+2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,,DAL,,Home,,,,2020112601,4,4,137,-152,3,-112,101,48,-117,105,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
 2020_12_BAL_PIT,2020,REG,12,2020-11-26,Thursday,20:20,BAL,,PIT,,Home,,,,2020112602,4,4,154,-172,3.5,-120,109,46,-106,-105,1,outdoors,,,,John Harbaugh,Mike Tomlin,,PIT00,Heinz Field
 2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,,2020112900,7,7,,,1,-111,-109,,,,0,,,,,Jon Gruden,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,,BUF,,Home,,,,2020112901,7,14,216,-247,5.5,100,-110,52.5,106,-118,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
