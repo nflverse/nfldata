@@ -5744,7 +5744,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_KC_LV,2020,REG,11,2020-11-22,Sunday,20:20,KC,35,LV,31,Home,-4,66,0,2020112210,14,7,-351,296,-7.5,-108,-102,56.5,-104,-107,1,,,,,Andy Reid,Jon Gruden,,VEG00,Allegiant Stadium
 2020_11_LA_TB,2020,REG,11,2020-11-23,Monday,20:15,LA,27,TB,24,Home,-3,51,0,2020112300,8,8,173,-195,4,-109,-102,47.5,-109,-102,0,outdoors,,,,Sean McVay,Bruce Arians,,TAM00,Raymond James Stadium
 2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,41,DET,25,Home,-16,66,0,2020112600,4,4,-155,139,-3,-104,-106,52.5,-110,-101,0,dome,,,,Romeo Crennel,Matt Patricia,,DET00,Ford Field
-2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,,DAL,,Home,,,,2020112601,4,4,122,-135,2.5,-104,-106,46,-105,-106,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
+2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,41,DAL,16,Home,-25,57,0,2020112601,4,4,122,-135,2.5,-104,-106,46,-105,-106,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
 2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,,2020112900,7,7,-155,140,-3,-101,-109,54,-105,-106,0,,,,,Jon Gruden,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,,BUF,,Home,,,,2020112901,7,14,195,-221,5.5,-116,106,52.5,105,-117,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
 2020_12_NYG_CIN,2020,REG,12,2020-11-29,Sunday,13:00,NYG,,CIN,,Home,,,,2020112902,14,7,-255,223,-5.5,-115,105,44,-102,-110,0,outdoors,,,,Joe Judge,Zac Taylor,,CIN00,Paul Brown Stadium
