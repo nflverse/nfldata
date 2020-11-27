@@ -5756,7 +5756,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_12_BAL_PIT,2020,REG,12,2020-11-29,Sunday,13:15,BAL,,PIT,,Home,,,,2020112912,4,4,187,-211,4,-101,-109,45,-111,100,1,outdoors,,,,John Harbaugh,Mike Tomlin,,PIT00,Heinz Field
 2020_12_NO_DEN,2020,REG,12,2020-11-29,Sunday,16:05,NO,,DEN,,Home,,,,2020112908,7,7,-255,223,-6,-104,-106,44,-116,105,0,outdoors,,,,Sean Payton,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_12_SF_LA,2020,REG,12,2020-11-29,Sunday,16:05,SF,,LA,,Home,,,,2020112909,14,6,256,-297,6.5,-103,-107,45.5,-117,105,1,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
-2020_12_KC_TB,2020,REG,12,2020-11-29,Sunday,16:25,KC,,TB,,Home,,,,2020112910,7,6,-182,162,-3,-117,106,55.5,105,-117,0,outdoors,,,,Andy Reid,Bruce Arians,,TAM00,Raymond James Stadium
+2020_12_KC_TB,2020,REG,12,2020-11-29,Sunday,16:25,KC,,TB,,Home,,,,2020112910,7,6,-182,163,-3,-117,106,55.5,105,-116,0,outdoors,,,,Andy Reid,Bruce Arians,,TAM00,Raymond James Stadium
 2020_12_CHI_GB,2020,REG,12,2020-11-29,Sunday,20:20,CHI,,GB,,Home,,,,2020112911,13,7,,,7.5,-107,-103,45,-113,-107,1,outdoors,,,,Matt Nagy,Matt LaFleur,,GNB00,Lambeau Field
 2020_12_SEA_PHI,2020,REG,12,2020-11-30,Monday,20:15,SEA,,PHI,,Home,,,,2020113000,11,8,-235,206,-5,-104,-106,50,-104,-107,0,outdoors,,,,Pete Carroll,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_13_DAL_BAL,2020,REG,13,2020-12-03,Thursday,20:20,DAL,,BAL,,Home,,,,2020120300,7,7,,,7,-106,-115,,,,0,outdoors,,,,Mike McCarthy,John Harbaugh,,BAL00,M&T Bank Stadium
