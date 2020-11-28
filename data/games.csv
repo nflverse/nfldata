@@ -5745,17 +5745,17 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_11_LA_TB,2020,REG,11,2020-11-23,Monday,20:15,LA,27,TB,24,Home,-3,51,0,2020112300,8,8,173,-195,4,-109,-102,47.5,-109,-102,0,outdoors,,,,Sean McVay,Bruce Arians,,TAM00,Raymond James Stadium
 2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,41,DET,25,Home,-16,66,0,2020112600,4,4,-155,139,-3,-104,-106,52.5,-110,-101,0,dome,,,,Romeo Crennel,Matt Patricia,,DET00,Ford Field
 2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,41,DAL,16,Home,-25,57,0,2020112601,4,4,122,-135,2.5,-104,-106,46,-105,-106,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
-2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,,2020112900,7,7,-169,152,-3,-116,105,53,-101,-110,0,,,,,Jon Gruden,Raheem Morris,,ATL97,Mercedes-Benz Stadium
+2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,,2020112900,7,7,-169,151,-3,-115,104,53,-101,-110,0,,,,,Jon Gruden,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,,BUF,,Home,,,,2020112901,7,14,185,-209,4.5,-111,101,52.5,-104,-107,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
 2020_12_NYG_CIN,2020,REG,12,2020-11-29,Sunday,13:00,NYG,,CIN,,Home,,,,2020112902,14,7,-253,221,-6.5,105,-116,44.5,-107,-104,0,outdoors,,,,Joe Judge,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_12_TEN_IND,2020,REG,12,2020-11-29,Sunday,13:00,TEN,,IND,,Home,,,,2020112903,7,7,152,-169,3,104,-115,51.5,-107,-104,1,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
 2020_12_CLE_JAX,2020,REG,12,2020-11-29,Sunday,13:00,CLE,,JAX,,Home,,,,2020112904,7,7,-310,266,-7,-103,-107,49.5,-104,-107,0,outdoors,,,,Kevin Stefanski,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_12_CAR_MIN,2020,REG,12,2020-11-29,Sunday,13:00,CAR,,MIN,,Home,,,,2020112905,7,7,165,-185,3.5,-114,103,51.5,-113,102,0,dome,,,,Matt Rhule,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2020_12_ARI_NE,2020,REG,12,2020-11-29,Sunday,13:00,ARI,,NE,,Home,,,,2020112906,10,7,-123,111,-1,-115,104,49,-113,102,0,outdoors,,,,Kliff Kingsbury,Bill Belichick,,BOS00,Gillette Stadium
-2020_12_MIA_NYJ,2020,REG,12,2020-11-29,Sunday,13:00,MIA,,NYJ,,Home,,,,2020112907,7,7,-278,241,-6.5,-105,-105,44.5,-105,-106,1,outdoors,,,,Brian Flores,Adam Gase,,NYC01,MetLife Stadium
+2020_12_CAR_MIN,2020,REG,12,2020-11-29,Sunday,13:00,CAR,,MIN,,Home,,,,2020112905,7,7,165,-185,3.5,-114,103,51.5,-119,107,0,dome,,,,Matt Rhule,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_12_ARI_NE,2020,REG,12,2020-11-29,Sunday,13:00,ARI,,NE,,Home,,,,2020112906,10,7,-125,113,-1,-117,106,49,-113,102,0,outdoors,,,,Kliff Kingsbury,Bill Belichick,,BOS00,Gillette Stadium
+2020_12_MIA_NYJ,2020,REG,12,2020-11-29,Sunday,13:00,MIA,,NYJ,,Home,,,,2020112907,7,7,-278,241,-6.5,-105,-105,44.5,-100,-111,1,outdoors,,,,Brian Flores,Adam Gase,,NYC01,MetLife Stadium
 2020_12_NO_DEN,2020,REG,12,2020-11-29,Sunday,16:05,NO,,DEN,,Home,,,,2020112908,7,7,-256,224,-6,-105,-105,44,-117,105,0,outdoors,,,,Sean Payton,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_12_SF_LA,2020,REG,12,2020-11-29,Sunday,16:05,SF,,LA,,Home,,,,2020112909,14,6,251,-291,6.5,-106,-104,45.5,-117,105,1,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
-2020_12_KC_TB,2020,REG,12,2020-11-29,Sunday,16:25,KC,,TB,,Home,,,,2020112910,7,6,-185,165,-3,-119,108,55.5,104,-115,0,outdoors,,,,Andy Reid,Bruce Arians,,TAM00,Raymond James Stadium
+2020_12_KC_TB,2020,REG,12,2020-11-29,Sunday,16:25,KC,,TB,,Home,,,,2020112910,7,6,-186,166,-3,-120,109,55.5,104,-116,0,outdoors,,,,Andy Reid,Bruce Arians,,TAM00,Raymond James Stadium
 2020_12_CHI_GB,2020,REG,12,2020-11-29,Sunday,20:20,CHI,,GB,,Home,,,,2020112911,13,7,345,-425,7.5,-107,-103,44.5,-110,-110,1,outdoors,,,,Matt Nagy,Matt LaFleur,,GNB00,Lambeau Field
 2020_12_SEA_PHI,2020,REG,12,2020-11-30,Monday,20:15,SEA,,PHI,,Home,,,,2020113000,11,8,-251,219,-5.5,-110,-100,49,-108,-103,0,outdoors,,,,Pete Carroll,Doug Pederson,,PHI00,Lincoln Financial Field
 2020_12_BAL_PIT,2020,REG,12,2020-12-01,Tuesday,20:00,BAL,,PIT,,Home,,,,2020120100,4,4,184,-220,4.5,-110,-110,45,-110,-110,1,outdoors,,,,John Harbaugh,Mike Tomlin,,PIT00,Heinz Field
