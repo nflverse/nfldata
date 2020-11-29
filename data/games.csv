@@ -5746,7 +5746,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_12_HOU_DET,2020,REG,12,2020-11-26,Thursday,12:30,HOU,41,DET,25,Home,-16,66,0,2020112600,4,4,-155,139,-3,-104,-106,52.5,-110,-101,0,dome,,,,Romeo Crennel,Matt Patricia,,DET00,Ford Field
 2020_12_WAS_DAL,2020,REG,12,2020-11-26,Thursday,16:30,WAS,41,DAL,16,Home,-25,57,0,2020112601,4,4,122,-135,2.5,-104,-106,46,-105,-106,1,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
 2020_12_LV_ATL,2020,REG,12,2020-11-29,Sunday,13:00,LV,,ATL,,Home,,,,2020112900,7,7,-184,164,-3.5,-105,-105,53,-109,-102,0,,,,,Jon Gruden,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,,BUF,,Home,,,,2020112901,7,14,189,-214,4.5,-107,-103,51,103,-114,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
+2020_12_LAC_BUF,2020,REG,12,2020-11-29,Sunday,13:00,LAC,17,BUF,27,Home,10,44,0,2020112901,7,14,189,-214,4.5,-107,-103,51,103,-114,0,outdoors,,,,Anthony Lynn,Sean McDermott,,BUF00,New Era Field
 2020_12_NYG_CIN,2020,REG,12,2020-11-29,Sunday,13:00,NYG,19,CIN,17,Home,-2,36,0,2020112902,14,7,-260,227,-6.5,-103,-107,45,-109,-102,0,outdoors,,,,Joe Judge,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_12_TEN_IND,2020,REG,12,2020-11-29,Sunday,13:00,TEN,,IND,,Home,,,,2020112903,7,7,133,-147,3,-114,103,51.5,-107,-104,1,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
 2020_12_CLE_JAX,2020,REG,12,2020-11-29,Sunday,13:00,CLE,27,JAX,25,Home,-2,52,0,2020112904,7,7,-334,284,-7.5,102,-112,48.5,-112,100,0,outdoors,,,,Kevin Stefanski,Doug Marrone,,JAX00,TIAA Bank Stadium
