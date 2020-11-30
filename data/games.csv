@@ -5773,7 +5773,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_13_NE_LAC,2020,REG,13,2020-12-06,Sunday,16:25,NE,,LAC,,Home,,,,2020120611,7,7,-105,-105,1.5,-122,110,47,101,-112,0,,,,,Bill Belichick,Anthony Lynn,,LAX01,SoFi Stadium
 2020_13_DEN_KC,2020,REG,13,2020-12-06,Sunday,20:20,DEN,,KC,,Home,,,,2020120612,7,7,572,-757,14,-114,104,50,101,-112,1,outdoors,,,,Vic Fangio,Andy Reid,,KAN00,Arrowhead Stadium
 2020_13_DAL_BAL,2020,REG,13,2020-12-07,Monday,17:00,DAL,,BAL,,Home,,,,2020120701,7,7,,,7,-106,-115,,,,0,outdoors,,,,Mike McCarthy,John Harbaugh,,BAL00,M&T Bank Stadium
-2020_13_BUF_SF,2020,REG,13,2020-12-07,Monday,20:15,BUF,,SF,,Home,,,,2020120700,8,8,-139,119,-2.5,-110,-110,48,-110,-110,0,outdoors,,,,Sean McDermott,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_13_BUF_SF,2020,REG,13,2020-12-07,Monday,20:15,BUF,,SF,,Neutral,,,,2020120700,8,8,-139,119,-2.5,-110,-110,48,-110,-110,0,outdoors,,,,Sean McDermott,Kyle Shanahan,,PHO00,State Farm Stadium
 2020_14_NE_LA,2020,REG,14,2020-12-10,Thursday,20:20,NE,,LA,,Home,,,,2020121000,4,4,,,,,,,,,0,,,,,Bill Belichick,Sean McVay,,LAX01,SoFi Stadium
 2020_14_DEN_CAR,2020,REG,14,2020-12-13,Sunday,13:00,DEN,,CAR,,Home,,,,2020121300,7,14,,,,,,,,,0,outdoors,,,,Vic Fangio,Matt Rhule,,CAR00,Bank of America Stadium
 2020_14_HOU_CHI,2020,REG,14,2020-12-13,Sunday,13:00,HOU,,CHI,,Home,,,,2020121301,7,7,,,,,,,,,0,outdoors,,,,Romeo Crennel,Matt Nagy,,CHI98,Soldier Field
@@ -5787,7 +5787,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_14_NYJ_SEA,2020,REG,14,2020-12-13,Sunday,16:05,NYJ,,SEA,,Home,,,,2020121309,7,7,,,,,,,,,0,outdoors,,,,Adam Gase,Pete Carroll,,SEA00,Lumen Field
 2020_14_ATL_LAC,2020,REG,14,2020-12-13,Sunday,16:25,ATL,,LAC,,Home,,,,2020121310,7,7,,,,,,,,,0,,,,,Raheem Morris,Anthony Lynn,,LAX01,SoFi Stadium
 2020_14_NO_PHI,2020,REG,14,2020-12-13,Sunday,16:25,NO,,PHI,,Home,,,,2020121311,7,7,,,,,,,,,0,outdoors,,,,Sean Payton,Doug Pederson,,PHI00,Lincoln Financial Field
-2020_14_WAS_SF,2020,REG,14,2020-12-13,Sunday,16:25,WAS,,SF,,Home,,,,2020121312,7,6,,,,,,,,,0,outdoors,,,,Ron Rivera,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_14_WAS_SF,2020,REG,14,2020-12-13,Sunday,16:25,WAS,,SF,,Neutral,,,,2020121312,7,6,,,,,,,,,0,outdoors,,,,Ron Rivera,Kyle Shanahan,,PHO00,State Farm Stadium
 2020_14_PIT_BUF,2020,REG,14,2020-12-13,Sunday,20:20,PIT,,BUF,,Home,,,,2020121313,7,6,,,,,,,,,0,outdoors,,,,Mike Tomlin,Sean McDermott,,BUF00,New Era Field
 2020_14_BAL_CLE,2020,REG,14,2020-12-14,Monday,20:15,BAL,,CLE,,Home,,,,2020121400,11,8,,,,,,,,,1,outdoors,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_15_LAC_LV,2020,REG,15,2020-12-17,Thursday,20:20,LAC,,LV,,Home,,,,2020121700,4,4,,,,,,,,,1,,,,,Anthony Lynn,Jon Gruden,,VEG00,Allegiant Stadium
