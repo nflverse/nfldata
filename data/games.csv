@@ -5761,7 +5761,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_12_BAL_PIT,2020,REG,12,2020-12-02,Wednesday,15:40,BAL,,PIT,,Home,,,,2020120200,10,10,389,-479,10.5,-113,103,42.5,-105,-106,1,outdoors,,,,John Harbaugh,Mike Tomlin,,PIT00,Heinz Field
 2020_13_NO_ATL,2020,REG,13,2020-12-06,Sunday,13:00,NO,,ATL,,Home,,,,2020120600,7,7,-166,149,-3,-112,102,45.5,-101,-111,1,,,,,Sean Payton,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_13_DET_CHI,2020,REG,13,2020-12-06,Sunday,13:00,DET,,CHI,,Home,,,,2020120601,10,7,145,-161,3,101,-111,44,-105,-106,1,outdoors,,,,Darrell Bevell,Matt Nagy,,CHI98,Soldier Field
-2020_13_IND_HOU,2020,REG,13,2020-12-06,Sunday,13:00,IND,,HOU,,Home,,,,2020120602,7,10,-180,161,-3,-121,110,51,-106,-105,1,,,,,Frank Reich,Romeo Crennel,,HOU00,NRG Stadium
+2020_13_IND_HOU,2020,REG,13,2020-12-06,Sunday,13:00,IND,,HOU,,Home,,,,2020120602,7,10,-180,161,-3,-122,110,51,-106,-105,1,,,,,Frank Reich,Romeo Crennel,,HOU00,NRG Stadium
 2020_13_CIN_MIA,2020,REG,13,2020-12-06,Sunday,13:00,CIN,,MIA,,Home,,,,2020120603,7,7,434,-544,11.5,-103,-108,42,-102,-109,0,outdoors,,,,Zac Taylor,Brian Flores,,MIA00,Hard Rock Stadium
 2020_13_JAX_MIN,2020,REG,13,2020-12-06,Sunday,13:00,JAX,,MIN,,Home,,,,2020120604,7,7,348,-421,9.5,-106,-104,51.5,105,-116,0,dome,,,,Doug Marrone,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_13_LV_NYJ,2020,REG,13,2020-12-06,Sunday,13:00,LV,,NYJ,,Home,,,,2020120605,7,7,-351,297,-7.5,-106,-104,47,-107,-104,0,outdoors,,,,Jon Gruden,Adam Gase,,NYC01,MetLife Stadium
