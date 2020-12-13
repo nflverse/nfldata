@@ -5779,7 +5779,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_14_HOU_CHI,2020,REG,14,2020-12-13,Sunday,13:00,HOU,7,CHI,36,Home,29,43,0,2020121301,7,7,-114,104,-1,-107,-103,46,101,-112,0,outdoors,,,,Romeo Crennel,Matt Nagy,,CHI98,Soldier Field
 2020_14_DAL_CIN,2020,REG,14,2020-12-13,Sunday,13:00,DAL,30,CIN,7,Home,-23,37,0,2020121302,5,7,-164,148,-3,-114,103,44,-106,-105,0,outdoors,,,,Mike McCarthy,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_14_TEN_JAX,2020,REG,14,2020-12-13,Sunday,13:00,TEN,31,JAX,10,Home,-21,41,0,2020121304,7,7,-364,307,-7.5,-106,-104,53,-112,101,1,outdoors,,,,Mike Vrabel,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_14_KC_MIA,2020,REG,14,2020-12-13,Sunday,13:00,KC,,MIA,,Home,,,,2020121305,7,7,-330,281,-7.5,109,-121,51.5,-102,-109,0,outdoors,,,,Andy Reid,Brian Flores,,MIA00,Hard Rock Stadium
+2020_14_KC_MIA,2020,REG,14,2020-12-13,Sunday,13:00,KC,33,MIA,27,Home,-6,60,0,2020121305,7,7,-330,281,-7.5,109,-121,51.5,-102,-109,0,outdoors,,,,Andy Reid,Brian Flores,,MIA00,Hard Rock Stadium
 2020_14_ARI_NYG,2020,REG,14,2020-12-13,Sunday,13:00,ARI,26,NYG,7,Home,-19,33,0,2020121306,7,7,-154,139,-3,-106,-104,47,-101,-111,0,outdoors,,,,Kliff Kingsbury,Joe Judge,,NYC01,MetLife Stadium
 2020_14_MIN_TB,2020,REG,14,2020-12-13,Sunday,13:00,MIN,14,TB,26,Home,12,40,0,2020121307,7,14,271,-317,7,-106,-104,52.5,-116,104,0,outdoors,,,,Mike Zimmer,Bruce Arians,,TAM00,Raymond James Stadium
 2020_14_IND_LV,2020,REG,14,2020-12-13,Sunday,16:05,IND,,LV,,Home,,,,2020121308,7,7,-135,122,-2.5,-108,-103,51.5,-102,-109,0,,,,,Frank Reich,Jon Gruden,,VEG00,Allegiant Stadium
