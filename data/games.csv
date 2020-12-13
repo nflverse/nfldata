@@ -5775,7 +5775,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_13_BUF_SF,2020,REG,13,2020-12-07,Monday,20:15,BUF,34,SF,24,Neutral,-10,58,0,2020120700,8,8,110,-122,1.5,-103,-107,48,-103,-108,0,,,,,Sean McDermott,Kyle Shanahan,,PHO00,State Farm Stadium
 2020_13_DAL_BAL,2020,REG,13,2020-12-08,Tuesday,20:05,DAL,17,BAL,34,Home,17,51,0,2020120800,12,6,326,-390,8.5,-103,-108,46,-108,-103,0,outdoors,,,,Mike McCarthy,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_14_NE_LA,2020,REG,14,2020-12-10,Thursday,20:20,NE,3,LA,24,Home,21,27,0,2020121000,4,4,201,-228,5,-103,-107,43.5,-102,-110,0,,,,,Bill Belichick,Sean McVay,,LAX01,SoFi Stadium
-2020_14_DEN_CAR,2020,REG,14,2020-12-13,Sunday,13:00,DEN,,CAR,,Home,,,,2020121300,7,14,177,-199,4,-101,-109,46,-101,-110,0,outdoors,,,,Vic Fangio,Matt Rhule,,CAR00,Bank of America Stadium
+2020_14_DEN_CAR,2020,REG,14,2020-12-13,Sunday,13:00,DEN,32,CAR,27,Home,-5,59,0,2020121300,7,14,177,-199,4,-101,-109,46,-101,-110,0,outdoors,,,,Vic Fangio,Matt Rhule,,CAR00,Bank of America Stadium
 2020_14_HOU_CHI,2020,REG,14,2020-12-13,Sunday,13:00,HOU,,CHI,,Home,,,,2020121301,7,7,-114,104,-1,-107,-103,46,101,-112,0,outdoors,,,,Romeo Crennel,Matt Nagy,,CHI98,Soldier Field
 2020_14_DAL_CIN,2020,REG,14,2020-12-13,Sunday,13:00,DAL,30,CIN,7,Home,-23,37,0,2020121302,5,7,-164,148,-3,-114,103,44,-106,-105,0,outdoors,,,,Mike McCarthy,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_14_TEN_JAX,2020,REG,14,2020-12-13,Sunday,13:00,TEN,31,JAX,10,Home,-21,41,0,2020121304,7,7,-364,307,-7.5,-106,-104,53,-112,101,1,outdoors,,,,Mike Vrabel,Doug Marrone,,JAX00,TIAA Bank Stadium
