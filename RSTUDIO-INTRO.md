@@ -5,7 +5,7 @@ This is an introduction to R and RStudio for NFL fans people who want to play wi
 My name is Lee Sharpe, and you can find me on Twitter at [@LeeSharpeNFL](https://twitter.com/LeeSharpeNFL). Feel free to reach out if you have questions! I want to credit [Ben Baldwin](http://twitter.com/benbbaldwin) and his [excellent nflscrapR tutorial](https://gist.github.com/guga31bb/5634562c5a2a7b1e9961ac9b6c568701) for the inspiration for this introduction.
 
 While you can of course use a variety of tools for looking at data, I recommend downloading and installing both R and RStudio. Both are free and can be downloaded at these links:
-- [Download R](https://cran.cnr.berkeley.edu/)
+- [Download R](https://cran.wustl.edu/)
 - [Download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 Once you have both installed, run RStudio. In the menu bar go to: `File` -> `New File` -> `New R Script`. You'll now see the four sections of R Studio, and can see what that they are each for. I've outlined them in the image below:
@@ -25,7 +25,7 @@ Now that these packages are installed, let's download some NFL Standings data an
 
 ``` r
 library(tidyverse)
-standings <- read_csv("http://www.habitatring.com/standings.csv")
+standings <- read_csv("http://nflgamedata.com/standings.csv")
 standings %>% head()
 ```
 
