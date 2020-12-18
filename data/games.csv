@@ -5803,7 +5803,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_15_SEA_WAS,2020,REG,15,2020-12-20,Sunday,13:00,SEA,,WAS,,Home,,,,2020122010,7,7,-257,224,-6,-109,-101,44,-102,-109,0,outdoors,,,,Pete Carroll,Ron Rivera,,WAS00,FedExField
 2020_15_PHI_ARI,2020,REG,15,2020-12-20,Sunday,16:05,PHI,,ARI,,Home,,,,2020122011,7,7,223,-255,6.5,-114,103,48.5,105,-116,0,,,,,Doug Pederson,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_15_NYJ_LA,2020,REG,15,2020-12-20,Sunday,16:05,NYJ,,LA,,Home,,,,2020122003,7,10,1010,-1725,17.5,-113,103,44,-116,104,0,,,,,Adam Gase,Sean McVay,,LAX01,SoFi Stadium
-2020_15_KC_NO,2020,REG,15,2020-12-20,Sunday,16:25,KC,,NO,,Home,,,,2020122012,7,7,-168,151,-3,-113,103,51.5,-113,101,0,dome,,,,Andy Reid,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_15_KC_NO,2020,REG,15,2020-12-20,Sunday,16:25,KC,,NO,,Home,,,,2020122012,7,7,-168,151,-3,-114,103,51.5,-113,101,0,dome,,,,Andy Reid,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_15_CLE_NYG,2020,REG,15,2020-12-20,Sunday,20:20,CLE,,NYG,,Home,,,,2020122009,6,7,-280,242,-6.5,-105,-105,44,-106,-105,0,outdoors,,,,Kevin Stefanski,Joe Judge,,NYC01,MetLife Stadium
 2020_15_PIT_CIN,2020,REG,15,2020-12-21,Monday,20:15,PIT,,CIN,,Home,,,,2020122100,8,8,-767,578,-13,-103,-107,40,-103,-108,1,outdoors,,,,Mike Tomlin,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_16_MIN_NO,2020,REG,16,2020-12-25,Friday,16:30,MIN,,NO,,Home,,,,2020122500,5,5,,,6.5,-110,-110,,,,0,dome,,,,Mike Zimmer,Sean Payton,,NOR00,Mercedes-Benz Superdome
