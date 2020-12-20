@@ -5792,7 +5792,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_14_BAL_CLE,2020,REG,14,2020-12-14,Monday,20:15,BAL,47,CLE,42,Home,-5,89,0,2020121400,6,8,-174,156,-3,-116,105,45.5,-100,-111,1,outdoors,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_15_LAC_LV,2020,REG,15,2020-12-17,Thursday,20:20,LAC,30,LV,27,Home,-3,57,1,2020121700,4,4,156,-174,3.5,-123,111,52,-101,-110,1,,,,,Anthony Lynn,Jon Gruden,,VEG00,Allegiant Stadium
 2020_15_BUF_DEN,2020,REG,15,2020-12-19,Saturday,16:30,BUF,48,DEN,19,Home,-29,67,0,2020121900,6,6,-242,212,-5.5,-105,-105,49,-103,-108,0,outdoors,,,,Sean McDermott,Vic Fangio,,DEN00,Empower Field at Mile High
-2020_15_CAR_GB,2020,REG,15,2020-12-19,Saturday,20:15,CAR,,GB,,Home,,,,2020121901,6,6,346,-419,9.5,-103,-107,53,-104,-107,0,outdoors,,,,Matt Rhule,Matt LaFleur,,GNB00,Lambeau Field
+2020_15_CAR_GB,2020,REG,15,2020-12-19,Saturday,20:15,CAR,16,GB,24,Home,8,40,0,2020121901,6,6,346,-419,9.5,-103,-107,53,-104,-107,0,outdoors,,,,Matt Rhule,Matt LaFleur,,GNB00,Lambeau Field
 2020_15_TB_ATL,2020,REG,15,2020-12-20,Sunday,13:00,TB,,ATL,,Home,,,,2020122005,7,7,-286,247,-6.5,-110,-100,49.5,-109,-102,1,,,,,Bruce Arians,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2020_15_JAX_BAL,2020,REG,15,2020-12-20,Sunday,13:00,JAX,,BAL,,Home,,,,2020122006,7,6,562,-742,13,-117,106,48,-105,-106,0,outdoors,,,,Doug Marrone,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_15_SF_DAL,2020,REG,15,2020-12-20,Sunday,13:00,SF,,DAL,,Home,,,,2020122013,7,7,-184,164,-3,-123,111,45,-101,-110,0,,,,,Kyle Shanahan,Mike McCarthy,,DAL00,AT&T Stadium
