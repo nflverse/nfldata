@@ -5798,9 +5798,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_15_SF_DAL,2020,REG,15,2020-12-20,Sunday,13:00,SF,,DAL,,Home,,,,2020122013,7,7,-202,180,-4,-106,-104,46,-106,-105,0,,,,,Kyle Shanahan,Mike McCarthy,,DAL00,AT&T Stadium
 2020_15_HOU_IND,2020,REG,15,2020-12-20,Sunday,13:00,HOU,20,IND,27,Home,7,47,0,2020122002,7,7,311,-370,7.5,-108,-102,52.5,-106,-105,1,,,,,Romeo Crennel,Frank Reich,,IND00,Lucas Oil Stadium
 2020_15_NE_MIA,2020,REG,15,2020-12-20,Sunday,13:00,NE,12,MIA,22,Home,10,34,0,2020122007,10,7,-120,109,-1.5,-106,-104,40,100,-112,1,outdoors,,,,Bill Belichick,Brian Flores,,MIA00,Hard Rock Stadium
-2020_15_CHI_MIN,2020,REG,15,2020-12-20,Sunday,13:00,CHI,,MIN,,Home,,,,2020122008,7,7,137,-152,2.5,111,-123,47.5,-111,-101,1,dome,,,,Matt Nagy,Mike Zimmer,,MIN01,U.S. Bank Stadium
+2020_15_CHI_MIN,2020,REG,15,2020-12-20,Sunday,13:00,CHI,33,MIN,27,Home,-6,60,0,2020122008,7,7,137,-152,2.5,111,-123,47.5,-111,-101,1,dome,,,,Matt Nagy,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_15_DET_TEN,2020,REG,15,2020-12-20,Sunday,13:00,DET,25,TEN,46,Home,21,71,0,2020122004,7,7,325,-389,9.5,-113,102,54.5,-109,-103,0,outdoors,,,,Darrell Bevell,Mike Vrabel,,NAS00,Nissan Stadium
-2020_15_SEA_WAS,2020,REG,15,2020-12-20,Sunday,13:00,SEA,,WAS,,Home,,,,2020122010,7,7,-251,219,-6,-103,-107,44.5,-103,-108,0,outdoors,,,,Pete Carroll,Ron Rivera,,WAS00,FedExField
+2020_15_SEA_WAS,2020,REG,15,2020-12-20,Sunday,13:00,SEA,20,WAS,15,Home,-5,35,0,2020122010,7,7,-251,219,-6,-103,-107,44.5,-103,-108,0,outdoors,,,,Pete Carroll,Ron Rivera,,WAS00,FedExField
 2020_15_PHI_ARI,2020,REG,15,2020-12-20,Sunday,16:05,PHI,,ARI,,Home,,,,2020122011,7,7,224,-257,6.5,-115,104,49.5,-106,-105,0,,,,,Doug Pederson,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_15_NYJ_LA,2020,REG,15,2020-12-20,Sunday,16:05,NYJ,,LA,,Home,,,,2020122003,7,10,1041,-1800,17.5,-116,106,44.5,-104,-107,0,,,,,Adam Gase,Sean McVay,,LAX01,SoFi Stadium
 2020_15_KC_NO,2020,REG,15,2020-12-20,Sunday,16:25,KC,,NO,,Home,,,,2020122012,7,7,-139,125,-2.5,-116,105,53.5,-106,-105,0,dome,,,,Andy Reid,Sean Payton,,NOR00,Mercedes-Benz Superdome
