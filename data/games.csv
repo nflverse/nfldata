@@ -5801,7 +5801,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_15_CHI_MIN,2020,REG,15,2020-12-20,Sunday,13:00,CHI,33,MIN,27,Home,-6,60,0,2020122008,7,7,137,-152,2.5,111,-123,47.5,-111,-101,1,dome,,,,Matt Nagy,Mike Zimmer,,MIN01,U.S. Bank Stadium
 2020_15_DET_TEN,2020,REG,15,2020-12-20,Sunday,13:00,DET,25,TEN,46,Home,21,71,0,2020122004,7,7,325,-389,9.5,-113,102,54.5,-109,-103,0,outdoors,,,,Darrell Bevell,Mike Vrabel,,NAS00,Nissan Stadium
 2020_15_SEA_WAS,2020,REG,15,2020-12-20,Sunday,13:00,SEA,20,WAS,15,Home,-5,35,0,2020122010,7,7,-251,219,-6,-103,-107,44.5,-103,-108,0,outdoors,,,,Pete Carroll,Ron Rivera,,WAS00,FedExField
-2020_15_PHI_ARI,2020,REG,15,2020-12-20,Sunday,16:05,PHI,,ARI,,Home,,,,2020122011,7,7,226,-259,6.5,-114,103,49.5,-103,-108,0,,,,,Doug Pederson,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_15_PHI_ARI,2020,REG,15,2020-12-20,Sunday,16:05,PHI,26,ARI,33,Home,7,59,0,2020122011,7,7,226,-259,6.5,-114,103,49.5,-103,-108,0,,,,,Doug Pederson,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_15_NYJ_LA,2020,REG,15,2020-12-20,Sunday,16:05,NYJ,23,LA,20,Home,-3,43,0,2020122003,7,10,957,-1601,17.5,-115,104,44.5,-102,-110,0,,,,,Adam Gase,Sean McVay,,LAX01,SoFi Stadium
 2020_15_KC_NO,2020,REG,15,2020-12-20,Sunday,16:25,KC,,NO,,Home,,,,2020122012,7,7,-137,124,-2.5,-113,102,53.5,101,-112,0,dome,,,,Andy Reid,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_15_CLE_NYG,2020,REG,15,2020-12-20,Sunday,20:20,CLE,,NYG,,Home,,,,2020122009,6,7,-263,229,-6.5,102,-113,44.5,-108,-103,0,outdoors,,,,Kevin Stefanski,Joe Judge,,NYC01,MetLife Stadium
