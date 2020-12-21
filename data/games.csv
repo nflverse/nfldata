@@ -5805,22 +5805,22 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_15_NYJ_LA,2020,REG,15,2020-12-20,Sunday,16:05,NYJ,23,LA,20,Home,-3,43,0,2020122003,7,10,957,-1601,17.5,-115,104,44.5,-102,-110,0,,,,,Adam Gase,Sean McVay,,LAX01,SoFi Stadium
 2020_15_KC_NO,2020,REG,15,2020-12-20,Sunday,16:25,KC,32,NO,29,Home,-3,61,0,2020122012,7,7,-137,124,-2.5,-113,102,53.5,101,-112,0,dome,,,,Andy Reid,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_15_CLE_NYG,2020,REG,15,2020-12-20,Sunday,20:20,CLE,20,NYG,6,Home,-14,26,0,2020122009,6,7,-271,235,-6,-108,-102,44.5,-100,-111,0,outdoors,,,,Kevin Stefanski,Joe Judge,,NYC01,MetLife Stadium
-2020_15_PIT_CIN,2020,REG,15,2020-12-21,Monday,20:15,PIT,,CIN,,Home,,,,2020122100,8,8,-985,707,-14.5,101,-111,40.5,-102,-109,1,outdoors,,,,Mike Tomlin,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_16_MIN_NO,2020,REG,16,2020-12-25,Friday,16:30,MIN,,NO,,Home,,,,2020122500,5,5,265,-309,7.5,-121,110,52.5,-116,105,0,dome,,,,Mike Zimmer,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_16_TB_DET,2020,REG,16,2020-12-26,Saturday,13:00,TB,,DET,,Home,,,,2020122600,6,6,-351,297,-7.5,-105,-105,54,-105,-106,0,dome,,,,Bruce Arians,Darrell Bevell,,DET00,Ford Field
-2020_16_SF_ARI,2020,REG,16,2020-12-26,Saturday,16:30,SF,,ARI,,Home,,,,2020122601,6,6,182,-205,4,-104,-106,50.5,-106,-105,1,,,,,Kyle Shanahan,Kliff Kingsbury,,PHO00,State Farm Stadium
-2020_16_MIA_LV,2020,REG,16,2020-12-26,Saturday,20:15,MIA,,LV,,Home,,,,2020122602,6,9,-155,139,-2.5,-118,107,48,-106,-105,0,,,,,Brian Flores,Jon Gruden,,VEG00,Allegiant Stadium
+2020_15_PIT_CIN,2020,REG,15,2020-12-21,Monday,20:15,PIT,,CIN,,Home,,,,2020122100,8,8,-976,702,-14.5,102,-112,40.5,-101,-110,1,outdoors,,,,Mike Tomlin,Zac Taylor,,CIN00,Paul Brown Stadium
+2020_16_MIN_NO,2020,REG,16,2020-12-25,Friday,16:30,MIN,,NO,,Home,,,,2020122500,5,5,249,-289,6.5,-102,-108,52,-111,100,0,dome,,,,Mike Zimmer,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_16_TB_DET,2020,REG,16,2020-12-26,Saturday,13:00,TB,,DET,,Home,,,,2020122600,6,6,-341,289,-7.5,-101,-109,54,-105,-106,0,dome,,,,Bruce Arians,Darrell Bevell,,DET00,Ford Field
+2020_16_SF_ARI,2020,REG,16,2020-12-26,Saturday,16:30,SF,,ARI,,Home,,,,2020122601,6,6,165,-185,4,-118,107,49.5,-108,-103,1,,,,,Kyle Shanahan,Kliff Kingsbury,,PHO00,State Farm Stadium
+2020_16_MIA_LV,2020,REG,16,2020-12-26,Saturday,20:15,MIA,,LV,,Home,,,,2020122602,6,9,-136,123,-2.5,-105,-105,48,-106,-105,0,,,,,Brian Flores,Jon Gruden,,VEG00,Allegiant Stadium
 2020_16_NYG_BAL,2020,REG,16,2020-12-27,Sunday,13:00,NYG,,BAL,,Home,,,,2020122705,7,7,,,10.5,-110,-110,,,,0,outdoors,,,,Joe Judge,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_16_CIN_HOU,2020,REG,16,2020-12-27,Sunday,13:00,CIN,,HOU,,Home,,,,2020122706,6,7,,,8.5,-110,-110,,,,0,,,,,Zac Taylor,Romeo Crennel,,HOU00,NRG Stadium
-2020_16_CHI_JAX,2020,REG,16,2020-12-27,Sunday,13:00,CHI,,JAX,,Home,,,,2020122707,7,7,-338,287,-7.5,-101,-109,47,-106,-105,0,outdoors,,,,Matt Nagy,Doug Marrone,,JAX00,TIAA Bank Stadium
-2020_16_ATL_KC,2020,REG,16,2020-12-27,Sunday,13:00,ATL,,KC,,Home,,,,2020122708,7,7,380,-466,11,-125,113,53,-105,-106,0,outdoors,,,,Raheem Morris,Andy Reid,,KAN00,Arrowhead Stadium
+2020_16_CHI_JAX,2020,REG,16,2020-12-27,Sunday,13:00,CHI,,JAX,,Home,,,,2020122707,7,7,-343,290,-7.5,-103,-107,47,-106,-105,0,outdoors,,,,Matt Nagy,Doug Marrone,,JAX00,TIAA Bank Stadium
+2020_16_ATL_KC,2020,REG,16,2020-12-27,Sunday,13:00,ATL,,KC,,Home,,,,2020122708,7,7,381,-467,11,-125,113,53,-105,-106,0,outdoors,,,,Raheem Morris,Andy Reid,,KAN00,Arrowhead Stadium
 2020_16_CLE_NYJ,2020,REG,16,2020-12-27,Sunday,13:00,CLE,,NYJ,,Home,,,,2020122704,7,7,,,-10,-110,-110,,,,0,outdoors,,,,Kevin Stefanski,Adam Gase,,NYC01,MetLife Stadium
 2020_16_IND_PIT,2020,REG,16,2020-12-27,Sunday,13:00,IND,,PIT,,Home,,,,2020122709,7,6,,,2.5,100,-120,,,,0,outdoors,,,,Frank Reich,Mike Tomlin,,PIT00,Heinz Field
 2020_16_CAR_WAS,2020,REG,16,2020-12-27,Sunday,13:00,CAR,,WAS,,Home,,,,2020122710,8,7,,,2,-103,-107,,,,0,outdoors,,,,Matt Rhule,Ron Rivera,,WAS00,FedExField
 2020_16_DEN_LAC,2020,REG,16,2020-12-27,Sunday,16:05,DEN,,LAC,,Home,,,,2020122702,8,10,163,-183,3.5,-113,102,50,-107,-104,1,,,,,Vic Fangio,Anthony Lynn,,LAX01,SoFi Stadium
-2020_16_PHI_DAL,2020,REG,16,2020-12-27,Sunday,16:25,PHI,,DAL,,Home,,,,2020122712,7,7,-126,114,-1,-120,109,49.5,102,-114,1,,,,,Doug Pederson,Mike McCarthy,,DAL00,AT&T Stadium
+2020_16_PHI_DAL,2020,REG,16,2020-12-27,Sunday,16:25,PHI,,DAL,,Home,,,,2020122712,7,7,-122,110,-1,-117,106,49.5,103,-114,1,,,,,Doug Pederson,Mike McCarthy,,DAL00,AT&T Stadium
 2020_16_LA_SEA,2020,REG,16,2020-12-27,Sunday,16:25,LA,,SEA,,Home,,,,2020122711,7,7,115,-127,2.5,-115,104,46.5,102,-114,1,outdoors,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
-2020_16_TEN_GB,2020,REG,16,2020-12-27,Sunday,20:20,TEN,,GB,,Home,,,,2020122713,7,8,165,-185,4,-119,108,55.5,-103,-108,0,outdoors,,,,Mike Vrabel,Matt LaFleur,,GNB00,Lambeau Field
+2020_16_TEN_GB,2020,REG,16,2020-12-27,Sunday,20:20,TEN,,GB,,Home,,,,2020122713,7,8,158,-177,3.5,-116,105,55.5,-103,-108,0,outdoors,,,,Mike Vrabel,Matt LaFleur,,GNB00,Lambeau Field
 2020_16_BUF_NE,2020,REG,16,2020-12-28,Monday,20:15,BUF,,NE,,Home,,,,2020122800,9,8,-282,244,-6.5,-112,101,45.5,-117,105,1,outdoors,,,,Sean McDermott,Bill Belichick,,BOS00,Gillette Stadium
 2020_17_MIA_BUF,2020,REG,17,2021-01-03,Sunday,13:00,MIA,,BUF,,Home,,,,2021010300,8,6,,,,,,,,,1,outdoors,,,,Brian Flores,Sean McDermott,,BUF00,New Era Field
 2020_17_NO_CAR,2020,REG,17,2021-01-03,Sunday,13:00,NO,,CAR,,Home,,,,2021010301,9,7,,,,,,,,,1,outdoors,,,,Sean Payton,Matt Rhule,,CAR00,Bank of America Stadium
