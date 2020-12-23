@@ -3808,7 +3808,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2013_07_SEA_ARI,2013,REG,7,2013-10-17,Thursday,20:25,SEA,34,ARI,22,Home,-12,56,0,2013101700,4,4,-227,203,-5,-104,-106,41,101,-111,1,closed,grass,,,Pete Carroll,Bruce Arians,Terry McAulay,PHO00,University of Phoenix Stadium
 2013_07_TB_ATL,2013,REG,7,2013-10-20,Sunday,13:00,TB,23,ATL,31,Home,8,54,0,2013102000,7,13,222,-250,6,-105,-105,43,-105,-105,1,dome,fieldturf,,,Greg Schiano,Mike Smith,Walt Anderson,ATL00,Georgia Dome
 2013_07_STL_CAR,2013,REG,7,2013-10-20,Sunday,13:00,STL,15,CAR,30,Home,15,45,0,2013102001,7,7,286,-326,8,-110,100,42,-103,-107,0,outdoors,grass,68,4,Jeff Fisher,Ron Rivera,Bill Vinovich,CAR00,Bank of America Stadium
-2013_07_CIN_DET,2013,REG,7,2013-10-20,Sunday,13:00,CIN,27,DET,24,Home,3,51,0,2013102002,7,7,136,-150,2.5,111,-123,45.5,-102,-108,0,dome,fieldturf,,,Marvin Lewis,Jim Schwartz,Scott Green,DET00,Ford Field
+2013_07_CIN_DET,2013,REG,7,2013-10-20,Sunday,13:00,CIN,27,DET,24,Home,-3,51,0,2013102002,7,7,136,-150,2.5,111,-123,45.5,-102,-108,0,dome,fieldturf,,,Marvin Lewis,Jim Schwartz,Scott Green,DET00,Ford Field
 2013_07_SD_JAX,2013,REG,7,2013-10-20,Sunday,13:00,SD,24,JAX,6,Home,-18,30,0,2013102004,6,7,-310,273,-7.5,106,-117,44.5,-102,-108,0,outdoors,grass,73,12,Mike McCoy,Gus Bradley,Walt Coleman,JAX00,EverBank Field
 2013_07_BUF_MIA,2013,REG,7,2013-10-20,Sunday,13:00,BUF,23,MIA,21,Home,-2,44,0,2013102006,7,14,227,-255,6,-108,-102,43.5,-110,100,1,outdoors,grass,87,5,Doug Marrone,Joe Philbin,Gene Steratore,MIA00,Sun Life Stadium
 2013_07_NE_NYJ,2013,REG,7,2013-10-20,Sunday,13:00,NE,27,NYJ,30,Home,3,57,1,2013102007,7,7,-180,162,-3.5,-101,-109,43,100,-110,1,outdoors,fieldturf,63,11,Bill Belichick,Rex Ryan,Jerome Boger,NYC01,MetLife Stadium
