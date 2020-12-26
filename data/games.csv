@@ -5837,4 +5837,4 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_17_ATL_TB,2020,REG,17,2021-01-03,Sunday,13:00,ATL,,TB,,Home,,,,2021010310,7,8,,,6.5,-120,100,,,,1,outdoors,,,,Raheem Morris,Bruce Arians,,TAM00,Raymond James Stadium
 2020_17_LV_DEN,2020,REG,17,2021-01-03,Sunday,16:25,LV,,DEN,,Home,,,,2021010311,8,7,,,1.5,-105,-115,,,,1,outdoors,,,,Jon Gruden,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_17_ARI_LA,2020,REG,17,2021-01-03,Sunday,16:25,ARI,,LA,,Home,,,,2021010314,8,7,,,4,-115,-105,,,,1,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
-2020_17_SEA_SF,2020,REG,17,2021-01-03,Sunday,16:25,SEA,,SF,,Home,,,,2021010315,7,8,,,-6,100,-120,,,,1,outdoors,,,,Pete Carroll,Kyle Shanahan,,SFO01,Levi's Stadium
+2020_17_SEA_SF,2020,REG,17,2021-01-03,Sunday,16:25,SEA,,SF,,Neutral,,,,2021010315,7,8,,,-6,100,-120,,,,1,,,,,Pete Carroll,Kyle Shanahan,,PHO00,State Farm Stadium
