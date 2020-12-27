@@ -5814,7 +5814,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_16_CIN_HOU,2020,REG,16,2020-12-27,Sunday,13:00,CIN,37,HOU,31,Home,-6,68,0,2020122706,6,7,276,-324,7.5,-113,102,46,-105,-106,0,,,,,Zac Taylor,Romeo Crennel,,HOU00,NRG Stadium
 2020_16_CHI_JAX,2020,REG,16,2020-12-27,Sunday,13:00,CHI,41,JAX,17,Home,-24,58,0,2020122707,7,7,-452,370,-9.5,-108,-103,47,-105,-106,0,outdoors,,,,Matt Nagy,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_16_ATL_KC,2020,REG,16,2020-12-27,Sunday,13:00,ATL,14,KC,17,Home,3,31,0,2020122708,7,7,409,-508,11,-110,-100,54,-106,-105,0,outdoors,,,,Raheem Morris,Andy Reid,,KAN00,Arrowhead Stadium
-2020_16_CLE_NYJ,2020,REG,16,2020-12-27,Sunday,13:00,CLE,,NYJ,,Home,,,,2020122704,7,7,-303,260,-6.5,-114,103,45,-105,-106,0,outdoors,,,,Kevin Stefanski,Adam Gase,,NYC01,MetLife Stadium
+2020_16_CLE_NYJ,2020,REG,16,2020-12-27,Sunday,13:00,CLE,16,NYJ,23,Home,7,39,0,2020122704,7,7,-303,260,-6.5,-114,103,45,-105,-106,0,outdoors,,,,Kevin Stefanski,Adam Gase,,NYC01,MetLife Stadium
 2020_16_IND_PIT,2020,REG,16,2020-12-27,Sunday,13:00,IND,24,PIT,28,Home,4,52,0,2020122709,7,6,-106,-104,-1,100,-111,43,-105,-106,0,outdoors,,,,Frank Reich,Mike Tomlin,,PIT00,Heinz Field
 2020_16_DEN_LAC,2020,REG,16,2020-12-27,Sunday,16:05,DEN,,LAC,,Home,,,,2020122702,8,10,109,-120,2.5,-115,104,47.5,-102,-109,1,,,,,Vic Fangio,Anthony Lynn,,LAX01,SoFi Stadium
 2020_16_CAR_WAS,2020,REG,16,2020-12-27,Sunday,16:05,CAR,,WAS,,Home,,,,2020122710,8,7,-114,103,-1,-107,-103,41,-102,-109,0,outdoors,,,,Matt Rhule,Ron Rivera,,WAS00,FedExField
