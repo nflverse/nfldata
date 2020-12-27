@@ -5810,7 +5810,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_16_TB_DET,2020,REG,16,2020-12-26,Saturday,13:00,TB,47,DET,7,Home,-40,54,0,2020122600,6,6,-591,455,-12,101,-111,55,-107,-104,0,dome,,,,Bruce Arians,Darrell Bevell,,DET00,Ford Field
 2020_16_SF_ARI,2020,REG,16,2020-12-26,Saturday,16:30,SF,20,ARI,12,Home,-8,32,0,2020122601,6,6,242,-280,6,-108,-102,49,-104,-107,1,,,,,Kyle Shanahan,Kliff Kingsbury,,PHO00,State Farm Stadium
 2020_16_MIA_LV,2020,REG,16,2020-12-26,Saturday,20:15,MIA,26,LV,25,Home,-1,51,0,2020122602,6,9,-125,113,-2,-104,-106,50,101,-112,0,,,,,Brian Flores,Jon Gruden,,VEG00,Allegiant Stadium
-2020_16_NYG_BAL,2020,REG,16,2020-12-27,Sunday,13:00,NYG,,BAL,,Home,,,,2020122705,7,7,348,-420,10,-116,105,43.5,-110,-101,0,outdoors,,,,Joe Judge,John Harbaugh,,BAL00,M&T Bank Stadium
+2020_16_NYG_BAL,2020,REG,16,2020-12-27,Sunday,13:00,NYG,13,BAL,27,Home,14,40,0,2020122705,7,7,348,-420,10,-116,105,43.5,-110,-101,0,outdoors,,,,Joe Judge,John Harbaugh,,BAL00,M&T Bank Stadium
 2020_16_CIN_HOU,2020,REG,16,2020-12-27,Sunday,13:00,CIN,,HOU,,Home,,,,2020122706,6,7,276,-324,7.5,-113,102,46,-105,-106,0,,,,,Zac Taylor,Romeo Crennel,,HOU00,NRG Stadium
 2020_16_CHI_JAX,2020,REG,16,2020-12-27,Sunday,13:00,CHI,41,JAX,17,Home,-24,58,0,2020122707,7,7,-452,370,-9.5,-108,-103,47,-105,-106,0,outdoors,,,,Matt Nagy,Doug Marrone,,JAX00,TIAA Bank Stadium
 2020_16_ATL_KC,2020,REG,16,2020-12-27,Sunday,13:00,ATL,14,KC,17,Home,3,31,0,2020122708,7,7,409,-508,11,-110,-100,54,-106,-105,0,outdoors,,,,Raheem Morris,Andy Reid,,KAN00,Arrowhead Stadium
