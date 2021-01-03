@@ -5822,7 +5822,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_16_LA_SEA,2020,REG,16,2020-12-27,Sunday,16:25,LA,9,SEA,20,Home,11,29,0,2020122711,7,7,115,-127,1.5,103,-114,48,-111,100,1,outdoors,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
 2020_16_TEN_GB,2020,REG,16,2020-12-27,Sunday,20:20,TEN,14,GB,40,Home,26,54,0,2020122713,7,8,159,-177,3,107,-118,52.5,-104,-107,0,outdoors,,,,Mike Vrabel,Matt LaFleur,,GNB00,Lambeau Field
 2020_16_BUF_NE,2020,REG,16,2020-12-28,Monday,20:15,BUF,38,NE,9,Home,-29,47,0,2020122800,9,8,-313,268,-7,-102,-108,47,100,-112,1,outdoors,,,,Sean McDermott,Bill Belichick,,BOS00,Gillette Stadium
-2020_17_MIA_BUF,2020,REG,17,2021-01-03,Sunday,13:00,MIA,,BUF,,Home,,,,2021010300,8,6,-153,138,-3.5,113,-125,42.5,102,-114,1,outdoors,,,,Brian Flores,Sean McDermott,,BUF00,New Era Field
+2020_17_MIA_BUF,2020,REG,17,2021-01-03,Sunday,13:00,MIA,26,BUF,56,Home,30,82,0,2021010300,8,6,-153,138,-3.5,113,-125,42.5,102,-114,1,outdoors,,,,Brian Flores,Sean McDermott,,BUF00,New Era Field
 2020_17_BAL_CIN,2020,REG,17,2021-01-03,Sunday,13:00,BAL,38,CIN,3,Home,-35,41,0,2021010303,7,7,-799,597,-13.5,106,-117,46,-109,-102,1,outdoors,,,,John Harbaugh,Zac Taylor,,CIN00,Paul Brown Stadium
 2020_17_PIT_CLE,2020,REG,17,2021-01-03,Sunday,13:00,PIT,22,CLE,24,Home,2,46,0,2021010304,7,7,376,-460,10.5,-111,100,45,-112,101,1,outdoors,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_17_MIN_DET,2020,REG,17,2021-01-03,Sunday,13:00,MIN,37,DET,35,Home,-2,72,0,2021010305,9,8,-161,145,-3,-110,-100,54,-112,101,1,dome,,,,Mike Zimmer,Darrell Bevell,,DET00,Ford Field
