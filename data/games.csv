@@ -5824,7 +5824,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_16_BUF_NE,2020,REG,16,2020-12-28,Monday,20:15,BUF,38,NE,9,Home,-29,47,0,2020122800,9,8,-313,268,-7,-102,-108,47,100,-112,1,outdoors,,,,Sean McDermott,Bill Belichick,,BOS00,Gillette Stadium
 2020_17_MIA_BUF,2020,REG,17,2021-01-03,Sunday,13:00,MIA,,BUF,,Home,,,,2021010300,8,6,-153,138,-3.5,113,-125,42.5,102,-114,1,outdoors,,,,Brian Flores,Sean McDermott,,BUF00,New Era Field
 2020_17_BAL_CIN,2020,REG,17,2021-01-03,Sunday,13:00,BAL,38,CIN,3,Home,-35,41,0,2021010303,7,7,-799,597,-13.5,106,-117,46,-109,-102,1,outdoors,,,,John Harbaugh,Zac Taylor,,CIN00,Paul Brown Stadium
-2020_17_PIT_CLE,2020,REG,17,2021-01-03,Sunday,13:00,PIT,,CLE,,Home,,,,2021010304,7,7,376,-460,10.5,-111,100,45,-112,101,1,outdoors,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2020_17_PIT_CLE,2020,REG,17,2021-01-03,Sunday,13:00,PIT,22,CLE,24,Home,2,46,0,2021010304,7,7,376,-460,10.5,-111,100,45,-112,101,1,outdoors,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2020_17_MIN_DET,2020,REG,17,2021-01-03,Sunday,13:00,MIN,,DET,,Home,,,,2021010305,9,8,-161,145,-3,-110,-100,54,-112,101,1,dome,,,,Mike Zimmer,Darrell Bevell,,DET00,Ford Field
 2020_17_NYJ_NE,2020,REG,17,2021-01-03,Sunday,13:00,NYJ,14,NE,28,Home,14,42,0,2021010307,7,6,145,-161,3,-101,-110,41,-102,-109,1,outdoors,,,,Adam Gase,Bill Belichick,,BOS00,Gillette Stadium
 2020_17_DAL_NYG,2020,REG,17,2021-01-03,Sunday,13:00,DAL,,NYG,,Home,,,,2021010308,7,7,-121,109,-1.5,-106,-104,44.5,-109,-103,1,outdoors,,,,Mike McCarthy,Joe Judge,,NYC01,MetLife Stadium
