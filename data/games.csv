@@ -5835,6 +5835,6 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_17_TEN_HOU,2020,REG,17,2021-01-03,Sunday,16:25,TEN,,HOU,,Home,,,,2021010312,7,7,-301,259,-7,101,-111,55.5,-113,101,1,,,,,Mike Vrabel,Romeo Crennel,,HOU00,NRG Stadium
 2020_17_JAX_IND,2020,REG,17,2021-01-03,Sunday,16:25,JAX,,IND,,Home,,,,2021010313,7,7,906,-1350,15.5,104,-115,48,-112,100,1,,,,,Doug Marrone,Frank Reich,,IND00,Lucas Oil Stadium
 2020_17_LAC_KC,2020,REG,17,2021-01-03,Sunday,16:25,LAC,,KC,,Home,,,,2021010306,7,7,-282,244,-7,106,-117,43,-103,-108,1,outdoors,,,,Anthony Lynn,Andy Reid,,KAN00,Arrowhead Stadium
-2020_17_ARI_LA,2020,REG,17,2021-01-03,Sunday,16:25,ARI,,LA,,Home,,,,2021010314,8,7,113,-125,1,105,-116,42,-107,-104,1,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
+2020_17_ARI_LA,2020,REG,17,2021-01-03,Sunday,16:25,ARI,7,LA,18,Home,11,25,0,2021010314,8,7,113,-125,1,105,-116,42,-107,-104,1,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
 2020_17_SEA_SF,2020,REG,17,2021-01-03,Sunday,16:25,SEA,,SF,,Neutral,,,,2021010315,7,8,-310,266,-7,101,-112,45,-113,102,1,,,,,Pete Carroll,Kyle Shanahan,,PHO00,State Farm Stadium
 2020_17_WAS_PHI,2020,REG,17,2021-01-03,Sunday,20:20,WAS,,PHI,,Home,,,,2021010309,7,7,-289,250,-6.5,-108,-102,43,-103,-108,1,outdoors,,,,Ron Rivera,Doug Pederson,,PHI00,Lincoln Financial Field
