@@ -5830,7 +5830,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_17_DAL_NYG,2020,REG,17,2021-01-03,Sunday,13:00,DAL,19,NYG,23,Home,4,42,0,2021010308,7,7,-121,109,-1.5,-106,-104,44.5,-109,-103,1,outdoors,,,,Mike McCarthy,Joe Judge,,NYC01,MetLife Stadium
 2020_17_ATL_TB,2020,REG,17,2021-01-03,Sunday,13:00,ATL,27,TB,44,Home,17,71,0,2021010310,7,8,276,-323,7.5,-123,111,51,-100,-111,1,outdoors,,,,Raheem Morris,Bruce Arians,,TAM00,Raymond James Stadium
 2020_17_NO_CAR,2020,REG,17,2021-01-03,Sunday,16:25,NO,33,CAR,7,Home,-26,40,0,2021010301,9,7,-250,219,-6,100,-110,47,-108,-104,1,outdoors,,,,Sean Payton,Matt Rhule,,CAR00,Bank of America Stadium
-2020_17_GB_CHI,2020,REG,17,2021-01-03,Sunday,16:25,GB,,CHI,,Home,,,,2021010302,7,7,-207,184,-4.5,-103,-107,48.5,-112,100,1,outdoors,,,,Matt LaFleur,Matt Nagy,,CHI98,Soldier Field
+2020_17_GB_CHI,2020,REG,17,2021-01-03,Sunday,16:25,GB,35,CHI,16,Home,-19,51,0,2021010302,7,7,-207,184,-4.5,-103,-107,48.5,-112,100,1,outdoors,,,,Matt LaFleur,Matt Nagy,,CHI98,Soldier Field
 2020_17_LV_DEN,2020,REG,17,2021-01-03,Sunday,16:25,LV,,DEN,,Home,,,,2021010311,8,7,-144,130,-2.5,-115,104,50.5,-103,-108,1,outdoors,,,,Jon Gruden,Vic Fangio,,DEN00,Empower Field at Mile High
 2020_17_TEN_HOU,2020,REG,17,2021-01-03,Sunday,16:25,TEN,,HOU,,Home,,,,2021010312,7,7,-301,259,-7,101,-111,55.5,-113,101,1,,,,,Mike Vrabel,Romeo Crennel,,HOU00,NRG Stadium
 2020_17_JAX_IND,2020,REG,17,2021-01-03,Sunday,16:25,JAX,,IND,,Home,,,,2021010313,7,7,906,-1350,15.5,104,-115,48,-112,100,1,,,,,Doug Marrone,Frank Reich,,IND00,Lucas Oil Stadium
