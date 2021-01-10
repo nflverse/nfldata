@@ -5841,6 +5841,6 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_18_IND_BUF,2020,WC,18,2021-01-09,Saturday,13:05,IND,24,BUF,27,Home,3,51,0,2021010900,6,6,277,-325,7,-118,107,50.5,-106,-105,0,outdoors,,,,Frank Reich,Sean McDermott,,BUF00,New Era Field
 2020_18_LA_SEA,2020,WC,18,2021-01-09,Saturday,16:40,LA,30,SEA,20,Home,-10,50,0,2021010901,6,6,154,-172,3,102,-113,42,-101,-111,1,outdoors,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
 2020_18_TB_WAS,2020,WC,18,2021-01-09,Saturday,20:15,TB,31,WAS,23,Home,-8,54,0,2021010902,6,6,-456,373,-10,-101,-109,45,-104,-107,0,outdoors,,,,Bruce Arians,Ron Rivera,,WAS00,FedExField
-2020_18_BAL_TEN,2020,WC,18,2021-01-10,Sunday,13:05,BAL,,TEN,,Home,,,,2021011000,7,7,-164,147,-3.5,111,-122,54,-104,-107,0,outdoors,,,,John Harbaugh,Mike Vrabel,,NAS00,Nissan Stadium
-2020_18_CHI_NO,2020,WC,18,2021-01-10,Sunday,16:40,CHI,,NO,,Home,,,,2021011001,7,7,416,-518,10.5,-117,106,48,102,-114,0,dome,,,,Matt Nagy,Sean Payton,,NOR00,Mercedes-Benz Superdome
-2020_18_CLE_PIT,2020,WC,18,2021-01-10,Sunday,20:15,CLE,,PIT,,Home,,,,2021011002,7,7,234,-270,6,-101,-109,47.5,-103,-108,1,outdoors,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
+2020_18_BAL_TEN,2020,WC,18,2021-01-10,Sunday,13:05,BAL,,TEN,,Home,,,,2021011000,7,7,-165,148,-3.5,110,-122,54,-106,-105,0,outdoors,,,,John Harbaugh,Mike Vrabel,,NAS00,Nissan Stadium
+2020_18_CHI_NO,2020,WC,18,2021-01-10,Sunday,16:40,CHI,,NO,,Home,,,,2021011001,7,7,412,-513,10.5,-119,108,48,102,-113,0,dome,,,,Matt Nagy,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_18_CLE_PIT,2020,WC,18,2021-01-10,Sunday,20:15,CLE,,PIT,,Home,,,,2021011002,7,7,234,-269,6,-102,-108,47.5,-103,-108,1,outdoors,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
