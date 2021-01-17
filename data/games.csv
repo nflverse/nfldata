@@ -5850,5 +5850,5 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_18_CLE_PIT,2020,WC,18,2021-01-10,Sunday,20:15,CLE,48,PIT,37,Home,-11,85,0,2021011002,7,7,210,-239,5,-100,-110,47.5,-110,-101,1,outdoors,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
 2020_19_LA_GB,2020,DIV,19,2021-01-16,Saturday,16:35,LA,18,GB,32,Home,14,50,0,2021011600,7,13,296,-351,7,-109,-101,45,-107,-105,0,outdoors,,,,Sean McVay,Matt LaFleur,,GNB00,Lambeau Field
 2020_19_BAL_BUF,2020,DIV,19,2021-01-16,Saturday,20:15,BAL,3,BUF,17,Home,14,20,0,2021011601,6,7,124,-137,2.5,103,-114,50,-108,-103,0,outdoors,,,,John Harbaugh,Sean McDermott,,BUF00,New Era Field
-2020_19_CLE_KC,2020,DIV,19,2021-01-17,Sunday,15:05,CLE,,KC,,Home,,,,2021011700,7,14,316,-376,7.5,-105,-105,55.5,-106,-105,0,outdoors,,,,Kevin Stefanski,Andy Reid,,KAN00,Arrowhead Stadium
+2020_19_CLE_KC,2020,DIV,19,2021-01-17,Sunday,15:05,CLE,17,KC,22,Home,5,39,0,2021011700,7,14,316,-376,7.5,-105,-105,55.5,-106,-105,0,outdoors,,,,Kevin Stefanski,Andy Reid,,KAN00,Arrowhead Stadium
 2020_19_TB_NO,2020,DIV,19,2021-01-17,Sunday,18:40,TB,,NO,,Home,,,,2021011701,8,7,122,-135,2.5,-104,-106,53,-108,-103,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
