@@ -5847,7 +5847,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_19_LA_GB,2020,DIV,19,2021-01-16,Saturday,16:35,LA,18,GB,32,Home,14,50,0,2021011600,7,13,296,-351,7,-109,-101,45,-107,-105,0,outdoors,,,,Sean McVay,Matt LaFleur,,GNB00,Lambeau Field
 2020_19_BAL_BUF,2020,DIV,19,2021-01-16,Saturday,20:15,BAL,3,BUF,17,Home,14,20,0,2021011601,6,7,124,-137,2.5,103,-114,50,-108,-103,0,outdoors,,,,John Harbaugh,Sean McDermott,,BUF00,New Era Field
 2020_19_CLE_KC,2020,DIV,19,2021-01-17,Sunday,15:05,CLE,17,KC,22,Home,5,39,0,2021011700,7,14,316,-376,7.5,-105,-105,55.5,-106,-105,0,outdoors,,,,Kevin Stefanski,Andy Reid,,KAN00,Arrowhead Stadium
-2020_19_TB_NO,2020,DIV,19,2021-01-17,Sunday,18:40,TB,,NO,,Home,,,,2021011701,8,7,120,-133,2.5,-104,-106,53,-108,-103,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_19_TB_NO,2020,DIV,19,2021-01-17,Sunday,18:40,TB,30,NO,20,Home,-10,50,0,2021011701,8,7,120,-133,2.5,-104,-106,53,-108,-103,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2020_20_NO_GB,2020,CON,20,2021-01-24,Sunday,15:05,NO,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Sean Payton,Matt LaFleur,,GNB00,Lambeau Field
 2020_20_TB_GB,2020,CON,20,2021-01-24,Sunday,15:05,TB,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Bruce Arians,Matt LaFleur,,GNB00,Lambeau Field
-2020_20_BUF_KC,2020,CON,20,2021-01-24,Sunday,18:40,BUF,,KC,,Home,,,,2020012400,8,7,135,-149,2.5,111,-122,55,-101,-110,0,outdoors,,,,Sean McDermott,Andy Reid,,KAN00,Arrowhead Stadium
+2020_20_BUF_KC,2020,CON,20,2021-01-24,Sunday,18:40,BUF,,KC,,Home,,,,2020012400,8,7,136,-150,2.5,113,-125,55,-101,-110,0,outdoors,,,,Sean McDermott,Andy Reid,,KAN00,Arrowhead Stadium
