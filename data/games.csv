@@ -5581,9 +5581,6 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2019_19_SEA_GB,2019,DIV,19,2020-01-12,Sunday,18:40,SEA,23,GB,28,Home,5,51,0,2020011201,7,14,197,-224,4.5,-102,-108,46,-114,103,0,outdoors,grass,23,8,Pete Carroll,Matt LaFleur,Clete Blakeman,GNB00,Lambeau Field
 2019_20_TEN_KC,2019,CON,20,2020-01-19,Sunday,15:05,TEN,24,KC,35,Home,11,59,0,2020011900,8,7,286,-337,7.5,-117,106,51,-103,-108,0,outdoors,astroturf,,,Mike Vrabel,Andy Reid,Tony Corrente,KAN00,Arrowhead Stadium
 2019_20_GB_SF,2019,CON,20,2020-01-19,Sunday,18:40,GB,20,SF,37,Home,17,57,0,2020011901,7,8,315,-375,8,-107,-103,46.5,-105,-106,0,outdoors,grass,58,5,Matt LaFleur,Kyle Shanahan,John Hussey,SFO01,Levi's Stadium
-2020_20_NO_GB,2020,CON,20,2020-01-24,Sunday,15:05,NO,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Sean Payton,Matt LaFleur,,GNB00,Lambeau Field
-2020_20_TB_GB,2020,CON,20,2020-01-24,Sunday,15:05,TB,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Bruce Arians,Matt LaFleur,,GNB00,Lambeau Field
-2020_20_BUF_KC,2020,CON,20,2020-01-24,Sunday,18:40,BUF,,KC,,Home,,,,2020012400,8,7,,,,,,,,,0,outdoors,,,,Sean McDermott,Andy Reid,,KAN00,Arrowhead Stadium
 2019_21_SF_KC,2019,SB,21,2020-02-02,Sunday,18:30,SF,20,KC,31,Neutral,11,51,0,2020020200,14,14,113,-125,1.5,-101,-109,52.5,-101,-110,0,outdoors,grass,,,Kyle Shanahan,Andy Reid,Bill Vinovich,MIA00,Hard Rock Stadium
 2020_01_HOU_KC,2020,REG,1,2020-09-10,Thursday,20:20,HOU,20,KC,34,Home,14,54,0,2020091000,7,7,349,-423,9.5,-105,-105,53.5,-109,-102,0,outdoors,,,,Bill O'Brien,Andy Reid,,KAN00,Arrowhead Stadium
 2020_01_SEA_ATL,2020,REG,1,2020-09-13,Sunday,13:00,SEA,38,ATL,25,Home,-13,63,0,2020091300,7,7,102,-112,1,-105,-105,49.5,-108,-103,0,,,,,Pete Carroll,Dan Quinn,,ATL97,Mercedes-Benz Stadium
@@ -5851,3 +5848,6 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2020_19_BAL_BUF,2020,DIV,19,2021-01-16,Saturday,20:15,BAL,3,BUF,17,Home,14,20,0,2021011601,6,7,124,-137,2.5,103,-114,50,-108,-103,0,outdoors,,,,John Harbaugh,Sean McDermott,,BUF00,New Era Field
 2020_19_CLE_KC,2020,DIV,19,2021-01-17,Sunday,15:05,CLE,17,KC,22,Home,5,39,0,2021011700,7,14,316,-376,7.5,-105,-105,55.5,-106,-105,0,outdoors,,,,Kevin Stefanski,Andy Reid,,KAN00,Arrowhead Stadium
 2020_19_TB_NO,2020,DIV,19,2021-01-17,Sunday,18:40,TB,,NO,,Home,,,,2021011701,8,7,120,-133,2.5,-104,-106,53,-108,-103,1,dome,,,,Bruce Arians,Sean Payton,,NOR00,Mercedes-Benz Superdome
+2020_20_NO_GB,2020,CON,20,2021-01-24,Sunday,15:05,NO,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Sean Payton,Matt LaFleur,,GNB00,Lambeau Field
+2020_20_TB_GB,2020,CON,20,2021-01-24,Sunday,15:05,TB,,GB,,Home,,,,2020012400,7,8,,,,,,,,,0,outdoors,,,,Bruce Arians,Matt LaFleur,,GNB00,Lambeau Field
+2020_20_BUF_KC,2020,CON,20,2021-01-24,Sunday,18:40,BUF,,KC,,Home,,,,2020012400,8,7,,,,,,,,,0,outdoors,,,,Sean McDermott,Andy Reid,,KAN00,Arrowhead Stadium
