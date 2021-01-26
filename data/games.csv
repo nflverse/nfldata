@@ -257,7 +257,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 1999_19_MIN_STL,1999,DIV,19,2000-01-16,Sunday,,MIN,37,STL,49,Home,12,86,0,2000011600,7,14,,,7,,,52,,,0,dome,astroturf,,,Dennis Green,Dick Vermeil,Walt Coleman,STL00,TWA Dome
 1999_20_TEN_JAX,1999,CON,20,2000-01-23,Sunday,,TEN,33,JAX,14,Home,-19,47,0,2000012301,7,8,,,7,,,39.5,,,1,outdoors,grass,68,12,Jeff Fisher,Tom Coughlin,Bernie Kukar,JAX00,Alltel Stadium
 1999_20_TB_STL,1999,CON,20,2000-01-23,Sunday,,TB,6,STL,11,Home,5,17,0,2000012300,8,7,,,14,,,46,,,0,dome,astroturf,,,Tony Dungy,Dick Vermeil,Bill Carollo,STL00,TWA Dome
-1999_21_STL_TEN,1999,SB,21,2000-01-30,Sunday,,STL,23,TEN,16,Neutral,-7,39,0,2000013000,7,7,,,7,,,48,,,0,dome,astroturf,,,Dick Vermeil,Jeff Fisher,Bob McElwee,ATL00,Georgia Dome
+1999_21_STL_TEN,1999,SB,21,2000-01-30,Sunday,,STL,23,TEN,16,Neutral,-7,39,0,2000013000,7,7,,,-7,,,48,,,0,dome,astroturf,,,Dick Vermeil,Jeff Fisher,Bob McElwee,ATL00,Georgia Dome
 2000_01_SF_ATL,2000,REG,1,2000-09-03,Sunday,13:00,SF,28,ATL,36,Home,8,64,0,2000090310,7,7,,,6.5,,,46.5,,,1,dome,astroturf,,,Steve Mariucci,Dan Reeves,Walt Coleman,ATL00,Georgia Dome
 2000_01_JAX_CLE,2000,REG,1,2000-09-03,Sunday,13:00,JAX,27,CLE,7,Home,-20,34,0,2000090306,7,7,,,-10.5,,,38.5,,,1,outdoors,grass,78,6,Tom Coughlin,Chris Palmer,Bernie Kukar,CLE00,Cleveland Browns Stadium
 2000_01_IND_KC,2000,REG,1,2000-09-03,Sunday,13:00,IND,27,KC,14,Home,-13,41,0,2000090305,7,7,,,-3.5,,,44,,,0,outdoors,grass,90,5,Jim Mora,Gunther Cunningham,Larry Nemmers,KAN00,Arrowhead Stadium
@@ -516,7 +516,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2000_19_PHI_NYG,2000,DIV,19,2001-01-07,Sunday,16:00,PHI,10,NYG,20,Home,10,30,0,2001010701,7,15,,,4.5,,,33.5,,,1,outdoors,grass,39,5,Andy Reid,Jim Fassel,Ed Hochuli,NYC00,Giants Stadium
 2000_20_MIN_NYG,2000,CON,20,2001-01-14,Sunday,13:00,MIN,0,NYG,41,Home,41,41,0,2001011401,8,7,,,-1,,,41.5,,,0,outdoors,grass,35,5,Dennis Green,Jim Fassel,Tony Corrente,NYC00,Giants Stadium
 2000_20_BAL_OAK,2000,CON,20,2001-01-14,Sunday,16:00,BAL,16,OAK,3,Home,-13,19,0,2001011400,7,8,,,6,,,38,,,0,outdoors,grass,56,12,Brian Billick,Jon Gruden,Bill Carollo,OAK00,Network Associates Coliseum
-2000_21_BAL_NYG,2000,SB,21,2001-01-28,Sunday,18:18,BAL,34,NYG,7,Neutral,-27,41,0,2001012800,14,14,,,3,,,33,,,0,outdoors,grass,65,8,Brian Billick,Jim Fassel,Gerry Austin,TAM00,Raymond James Stadium
+2000_21_BAL_NYG,2000,SB,21,2001-01-28,Sunday,18:18,BAL,34,NYG,7,Neutral,-27,41,0,2001012800,14,14,,,-3,,,33,,,0,outdoors,grass,65,8,Brian Billick,Jim Fassel,Gerry Austin,TAM00,Raymond James Stadium
 2001_01_CHI_BAL,2001,REG,1,2001-09-09,Sunday,13:00,CHI,6,BAL,17,Home,11,23,0,2001090902,7,7,,,10.5,,,33.5,,,0,outdoors,grass,83,10,Dick Jauron,Brian Billick,Joseph Rider,BAL00,PSINet Stadium
 2001_01_NO_BUF,2001,REG,1,2001-09-09,Sunday,13:00,NO,24,BUF,6,Home,-18,30,0,2001090906,7,7,,,-1.5,,,37.5,,,0,outdoors,astroturf,87,10,Jim Haslett,Gregg Williams,Larry Mallam,BUF00,Ralph Wilson Stadium
 2001_01_NE_CIN,2001,REG,1,2001-09-09,Sunday,13:00,NE,17,CIN,23,Home,6,40,0,2001090905,7,7,,,0,,,36,,,0,outdoors,grass,79,8,Bill Belichick,Dick LeBeau,John Smith,CIN00,Paul Brown Stadium
@@ -775,7 +775,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2001_19_GB_STL,2001,DIV,19,2002-01-20,Sunday,16:00,GB,17,STL,45,Home,28,62,0,2002012000,7,14,,,11,,,54.5,,,0,dome,astroturf,,,Mike Sherman,Mike Martz,Jeff Triplette,STL00,Dome at America's Center
 2001_20_NE_PIT,2001,CON,20,2002-01-27,Sunday,12:30,NE,24,PIT,17,Home,-7,41,0,2002012700,8,7,,,10,,,35.5,,,0,outdoors,grass,50,16,Bill Belichick,Bill Cowher,Ed Hochuli,PIT00,Heinz Field
 2001_20_PHI_STL,2001,CON,20,2002-01-27,Sunday,16:00,PHI,24,STL,29,Home,5,53,0,2002012701,8,7,,,11,,,51,,,0,dome,astroturf,,,Andy Reid,Mike Martz,Gerry Austin,STL00,Dome at America's Center
-2001_21_STL_NE,2001,SB,21,2002-02-03,Sunday,18:40,STL,17,NE,20,Neutral,3,37,0,2002020300,7,7,,,14,,,52.5,,,0,dome,astroturf,,,Mike Martz,Bill Belichick,Bernie Kukar,NOR00,Louisiana Superdome
+2001_21_STL_NE,2001,SB,21,2002-02-03,Sunday,18:40,STL,17,NE,20,Neutral,3,37,0,2002020300,7,7,,,-14,,,52.5,,,0,dome,astroturf,,,Mike Martz,Bill Belichick,Bernie Kukar,NOR00,Louisiana Superdome
 2002_01_SF_NYG,2002,REG,1,2002-09-05,Thursday,20:30,SF,16,NYG,13,Home,-3,29,0,2002090500,7,7,,,-4,,,39,,,0,outdoors,grass,73,7,Steve Mariucci,Jim Fassel,Gerry Austin,NYC00,Giants Stadium
 2002_01_NYJ_BUF,2002,REG,1,2002-09-08,Sunday,13:00,NYJ,37,BUF,31,Home,-6,68,1,2002090801,7,7,,,-3,,,43,,,1,outdoors,astroturf,86,6,Herm Edwards,Gregg Williams,Bob McElwee,BUF00,Ralph Wilson Stadium
 2002_01_BAL_CAR,2002,REG,1,2002-09-08,Sunday,13:00,BAL,7,CAR,10,Home,3,17,0,2002090804,7,7,,,0,,,33,,,0,outdoors,grass,78,12,Brian Billick,John Fox,Walt Coleman,CAR00,Ericsson Stadium
@@ -1042,7 +1042,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2002_19_NYJ_OAK,2002,DIV,19,2003-01-12,Sunday,16:30,NYJ,10,OAK,30,Home,20,40,0,2003011200,8,15,,,5.5,,,47,,,0,outdoors,grass,61,13,Herm Edwards,Bill Callahan,Dick Hantak,OAK00,Network Associates Coliseum
 2002_20_TB_PHI,2002,CON,20,2003-01-19,Sunday,15:00,TB,27,PHI,10,Home,-17,37,0,2003011900,7,8,,,4,,,33.5,,,0,outdoors,fieldturf,26,14,Jon Gruden,Andy Reid,Terry McAulay,PHI99,Veterans Stadium
 2002_20_TEN_OAK,2002,CON,20,2003-01-19,Sunday,18:30,TEN,24,OAK,41,Home,17,65,0,2003011901,8,7,,,9,,,46,,,0,outdoors,grass,52,9,Jeff Fisher,Bill Callahan,Ed Hochuli,OAK00,Network Associates Coliseum
-2002_21_OAK_TB,2002,SB,21,2003-01-26,Sunday,18:18,OAK,21,TB,48,Neutral,27,69,0,2003012600,7,7,,,3.5,,,44,,,0,outdoors,grass,81,0,Bill Callahan,Jon Gruden,Bill Carollo,SDG00,Qualcomm Stadium
+2002_21_OAK_TB,2002,SB,21,2003-01-26,Sunday,18:18,OAK,21,TB,48,Neutral,27,69,0,2003012600,7,7,,,-3.5,,,44,,,0,outdoors,grass,81,0,Bill Callahan,Jon Gruden,Bill Carollo,SDG00,Qualcomm Stadium
 2003_01_NYJ_WAS,2003,REG,1,2003-09-04,Thursday,09:00,NYJ,13,WAS,16,Home,3,29,0,2003090400,7,7,,,3,,,40,,,0,outdoors,grass,72,7,Herm Edwards,Steve Spurrier,Walt Coleman,WAS00,FedExField
 2003_01_NE_BUF,2003,REG,1,2003-09-07,Sunday,13:00,NE,0,BUF,31,Home,31,31,0,2003090707,7,7,,,1,,,44.5,,,1,outdoors,astroplay,72,15,Bill Belichick,Gregg Williams,Jeff Triplette,BUF00,Ralph Wilson Stadium
 2003_01_JAX_CAR,2003,REG,1,2003-09-07,Sunday,13:00,JAX,23,CAR,24,Home,1,47,0,2003090705,7,7,,,4,,,34.5,,,0,outdoors,grass,72,9,Jack Del Rio,John Fox,Johnny Grier,CAR00,Ericsson Stadium
