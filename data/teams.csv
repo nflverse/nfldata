@@ -607,3 +607,35 @@ season,team,nfl,nfl_team_id,pfr,pff,pfflabel,fo,full,location,short_location,nic
 2020,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
 2020,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
 2020,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Football Team,Washington,Washington,Football Team,washington-football-team
+2021,ARI,ARI,3800,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals
+2021,ATL,ATL,0200,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons
+2021,BAL,BAL,0325,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens
+2021,BUF,BUF,0610,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills
+2021,CAR,CAR,0750,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers
+2021,CHI,CHI,0810,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears
+2021,CIN,CIN,0920,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals
+2021,CLE,CLE,1050,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns
+2021,DAL,DAL,1200,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys
+2021,DEN,DEN,1400,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos
+2021,DET,DET,1540,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions
+2021,GB,GB,1800,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers
+2021,HOU,HOU,2120,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans
+2021,IND,IND,2200,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts
+2021,JAX,JAC,2250,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars
+2021,KC,KC,2310,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs
+2021,LAC,LAC,4400,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers
+2021,LA,LA,2510,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams
+2021,LV,LV,2520,VEG,23,LV,LV,Las Vegas Raiders,Las Vegas,Las Vegas,Raiders,las-vegas-raiders
+2021,MIA,MIA,2700,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins
+2021,MIN,MIN,3000,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings
+2021,NE,NE,3200,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots
+2021,NO,NO,3300,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints
+2021,NYG,NYG,3410,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants
+2021,NYJ,NYJ,3430,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets
+2021,PHI,PHI,3700,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles
+2021,PIT,PIT,3900,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers
+2021,SEA,SEA,4600,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks
+2021,SF,SF,4500,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers
+2021,TB,TB,4900,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers
+2021,TEN,TEN,2100,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans
+2021,WAS,WAS,5110,WAS,32,WAS,WAS,Washington Football Team,Washington,Washington,Football Team,washington-football-team
