@@ -485,8 +485,9 @@ trade_id,season,trade_date,gave,received,pick_season,pick_round,pick_number,cond
 70,2005,2005-03-18,MIN,TEN,2005,7,230,0,CassMa00,Matt Cassel
 70,2005,2005-03-18,TEN,MIN,,,,,HallCa20,Carlos Hall
 71,2005,2005-04-20,DEN,WAS,2005,1,25,0,CampJa00,Jason Campbell
-71,2005,2005-04-20,WAS,DEN,2005,,,0,,
 71,2005,2005-04-20,WAS,DEN,2005,3,76,0,PaymKa20,Karl Paymah
+71,2005,2005-04-20,WAS,DEN,2006,1,22,0,LawsMa20,Manny Lawson
+71,2005,2005-04-20,WAS,DEN,2006,4,126,0,DumeEl20,Elvis Dumervil
 72,2005,2005-04-21,HOU,OAK,2005,2,47,0,nugenmik01,Mike Nugent
 72,2005,2005-04-21,HOU,OAK,2005,3,78,0,MorrKi20,Kirk Morrison
 72,2005,2005-04-21,OAK,HOU,,,,,BuchPh20,Phillip Buchanon
