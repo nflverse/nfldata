@@ -11407,14 +11407,14 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,JAX,2,33,CampTy01,Tyson Campbell,,D,DB,DB
 2021,NYJ,2,34,MoorEl00,Elijah Moore,,O,WR,WR
 2021,DEN,2,35,WillJa10,Javonte Williams,,O,RB,RB
-2021,MIA,2,36,HollJe02,Jevon Holland,,,,
+2021,MIA,2,36,HollJe02,Jevon Holland,,D,DB,S
 2021,PHI,2,37,DickLa00,Landon Dickerson,,O,OL,OL
 2021,NE,2,38,BarmCh00,Christian Barmore,,D,DL,DL
 2021,CHI,2,39,JenkTe00,Teven Jenkins,,O,OL,OL
 2021,ATL,2,40,GranRi00,Richie Grant,,D,DB,DB
 2021,DET,2,41,OnwuLe00,Levi Onwuzurike,,D,DL,DL
 2021,MIA,2,42,EichLi00,Liam Eichenberg,,O,OL,OL
-2021,LV,2,43,MoehTr00,Trevon Moehrig,,,,
+2021,LV,2,43,MoehTr00,Trevon Moehrig,,D,DB,S
 2021,DAL,2,44,JoseKe02,Kelvin Joseph,,D,DB,DB
 2021,JAX,2,45,LittWa00,Walker Little,,O,OL,T
 2021,CIN,2,46,CarmJa00,Jackson Carman,,O,OL,T
@@ -11514,7 +11514,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,PIT,4,140,JohnBu01,Buddy Johnson,,D,LB,LB
 2021,LA,4,141,,Jacob Harris,,O,WR,WR
 2021,GB,4,142,,Royce Newman,,O,OL,G
-2021,LV,4,143,GillTy00,Tyree Gillespie,,,,
+2021,LV,4,143,GillTy00,Tyree Gillespie,,D,DB,S
 2021,KC,4,144,KainJo00,Joshua Kaindoh,,D,DL,DE
 2021,JAX,5,145,FarrLu00,Luke Farrell,,O,TE,TE
 2021,NYJ,5,146,SherJa00,Jamien Sherwood,,D,DB,DB
@@ -11525,7 +11525,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,CHI,5,151,BoroLa00,Larry Borom,,O,OL,OL
 2021,DEN,5,152,SterCa00,Caden Sterns,,D,DB,DB
 2021,CLE,5,153,FielTo00,Tony Fields II,,D,LB,LB
-2021,NYJ,5,154,CartMi02,Michael Carter II,,,,
+2021,NYJ,5,154,CartMi02,Michael Carter II,,D,DB,S
 2021,SF,5,155,,Jaylon Moore,,O,OL,T
 2021,PIT,5,156,LoudIs00,Isaiahh Loudermilk,,D,DL,DE
 2021,MIN,5,157,SmitIh00,Ihmir Smith-Marsette,,O,WR,WR
@@ -11534,7 +11534,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,BAL,5,160,WadeSh00,Shaun Wade,,D,DB,CB
 2021,BUF,5,161,DoylTo00,Tommy Doyle,,O,OL,OL
 2021,KC,5,162,GrayNo00,Noah Gray,,O,TE,TE
-2021,WAS,5,163,ForrDa00,Darrick Forrest,,,,
+2021,WAS,5,163,ForrDa00,Darrick Forrest,,D,DB,S
 2021,DEN,5,164,JohnJa15,Jamar Johnson,,D,DB,DB
 2021,IND,5,165,DaviSh02,Shawn Davis,,D,DB,DB
 2021,CAR,5,166,TaylKe03,Keith Taylor,,D,DB,DB
@@ -11551,7 +11551,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,NE,5,177,McGrCa00,Cameron McGrone,,D,LB,LB
 2021,GB,5,178,,Shemar Jean-Charles,,D,DB,DB
 2021,DAL,5,179,FehoSi00,Simi Fehoko,,O,WR,WR
-2021,SF,5,180,HufaTa00,Talanoa Hufanga,,,,
+2021,SF,5,180,HufaTa00,Talanoa Hufanga,,D,DB,S
 2021,KC,5,181,PoweCo00,Cornell Powell,,O,WR,WR
 2021,ATL,5,182,OgunAd01,Adetokunbo Ogundeji,,D,DL,DL
 2021,ATL,5,183,WillAv02,Avery Williams,,D,DB,CB
@@ -11559,7 +11559,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,LAC,6,185,,Nick Niemann,,D,LB,LB
 2021,NYJ,6,186,NasiHa00,Hamsah Nasirildeen,,D,DB,DB
 2021,ATL,6,187,DarbFr00,Frank Darby,,O,WR,WR
-2021,NE,6,188,BledJo00,Joshuah Bledsoe,,,,
+2021,NE,6,188,BledJo00,Joshuah Bledsoe,,D,DB,S
 2021,PHI,6,189,TuipMa00,Marlon Tuipulotu,,D,DL,DL
 2021,CIN,6,190,HillTr03,Trey Hill,,O,OL,OL
 2021,PHI,6,191,JackTa02,Tarron Jackson,,D,DL,DE
@@ -11585,7 +11585,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,BUF,6,212,HamlDa00,Damar Hamlin,,D,DB,DB
 2021,BUF,6,213,WildRa00,Rachad Wildgoose Jr.,,D,DB,CB
 2021,GB,6,214,VanxCo00,Cole Van Lanen,,O,OL,OL
-2021,TEN,6,215,BreeBr00,Brady Breeze,,,,
+2021,TEN,6,215,BreeBr00,Brady Breeze,,D,DB,S
 2021,PIT,6,216,RochQu00,Quincy Roche,,D,DL,DL
 2021,CHI,6,217,HerbKh00,Khalil Herbert,,O,RB,RB
 2021,IND,6,218,EhliSa00,Sam Ehlinger,,O,QB,QB
@@ -11594,7 +11594,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,CHI,6,221,NewsDa00,Dazz Newsome,,O,WR,WR
 2021,CAR,6,222,,Thomas Fletcher,,S,LS,LS
 2021,ARI,6,223,GowaTa00,Tay Gowan,,D,DB,DB
-2021,PHI,6,224,StevJa00,JaCoby Stevens,,,,
+2021,PHI,6,224,StevJa00,JaCoby Stevens,,D,DB,S
 2021,WAS,6,225,,Camaron Cheeseman,,S,LS,LS
 2021,KC,6,226,SmitTr05,Trey Smith,,O,OL,OL
 2021,DAL,6,227,MukuIs00,Israel Mukuamu,,D,DB,DB
@@ -11608,3 +11608,25 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,CIN,7,235,HubeWy00,Wyatt Hubert,,D,DL,DE
 2021,BUF,7,236,AndeJa01,Jack Anderson,,O,OL,OL
 2021,DEN,7,237,VincKa00,Kary Vincent Jr.,,D,DB,CB
+2021,DAL,7,238,,Matt Farniok,,O,OL,G
+2021,DEN,7,239,CoopJo02,Jonathon Cooper,,D,DL,DE
+2021,WAS,7,240,BradWi00,William Bradley-King,,D,LB,LB
+2021,LAC,7,241,WebbMa01,Mark Webb,,D,DB,DB
+2021,NE,7,242,NixoTr01,Tre Nixon,,O,WR,WR
+2021,ARI,7,243,WiggJa00,James Wiggins,,D,DB,S
+2021,MIA,7,244,,Gerrid Doaks,,O,RB,RB
+2021,PIT,7,245,NorwTr00,Tre Norwood,,D,DB,DB
+2021,WAS,7,246,ToneSh00,Shaka Toney,,D,DL,DE
+2021,ARI,7,247,MeneMi00,Michal Menet,,O,OL,OL
+2021,IND,7,248,FrieWi00,Will Fries,,O,OL,OL
+2021,LA,7,249,,Ben Skowronek,,O,WR,WR
+2021,CHI,7,250,TongKh00,Khyiris Tonga,,D,DL,DL
+2021,TB,7,251,WilcCh00,Chris Wilcox,,D,DB,DB
+2021,LA,7,252,,Chris Garrett,,D,DL,DE
+2021,DEN,7,253,SpenMa00,Marquiss Spencer,,D,DL,DE
+2021,PIT,7,254,,Pressley Harvin III,,S,P,P
+2021,NO,7,255,,Kawaan Baker,,O,WR,WR
+2021,GB,7,256,HillKy00,Kylin Hill,,O,RB,RB
+2021,DET,7,257,JeffJe00,Jermar Jefferson,,O,RB,RB
+2021,WAS,7,258,MilnDa00,Dax Milne,,O,WR,WR
+2021,TB,7,259,,Grant Stuard,,D,LB,LB
