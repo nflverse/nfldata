@@ -11428,7 +11428,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,IND,2,54,OdeyDa00,Dayo Odeyingbo,,D,DL,DL
 2021,PIT,2,55,FreiPa00,Pat Freiermuth,,O,TE,TE
 2021,SEA,2,56,EskrDW00,D'Wayne Eskridge,,O,WR,WR
-2021,LAR,2,57,AtweTu00,Tutu Atwell,,O,WR,WR
+2021,LA,2,57,AtweTu00,Tutu Atwell,,O,WR,WR
 2021,KC,2,58,BoltNi00,Nick Bolton,,D,LB,LB
 2021,CAR,2,59,MarsTe00,Terrace Marshall Jr.,,O,WR,WR
 2021,NO,2,60,WernPe00,Pete Werner,,D,LB,LB
@@ -11474,6 +11474,73 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,TEN,3,100,MoldEl00,Elijah Molden,,D,DB,DB
 2021,DET,3,101,MeliIf00,Ifeatu Melifonwu,,D,DB,DB
 2021,SF,3,102,ThomAm00,Ambry Thomas,,D,DB,DB
-2021,LAR,3,103,JoneEr01,Ernest Jones,,D,LB,LB
+2021,LA,3,103,JoneEr01,Ernest Jones,,D,LB,LB
 2021,BAL,3,104,,Brandon Stephens,,D,DB,CB
 2021,DEN,3,105,BrowBa01,Baron Browning,,D,LB,LB
+2021,JAX,4,106,TufeJa00,Jay Tufele,,D,DL,DL
+2021,NYJ,4,107,CartMi03,Michael Carter,,O,RB,RB
+2021,ATL,4,108,HallDa03,Darren Hall,,D,DB,CB
+2021,TEN,4,109,FitzDe00,Dez Fitzpatrick,,O,WR,WR
+2021,CLE,4,110,HudsJa00,James Hudson,,O,OL,OL
+2021,CIN,4,111,,Cameron Sample,,D,DL,DE
+2021,DET,4,112,StxxAm00,Amon-Ra St. Brown,,O,WR,WR
+2021,DET,4,113,BarnDe02,Derrick Barnes,,D,DL,DE
+2021,ATL,4,114,DalmDr00,Drew Dalman,,O,OL,C
+2021,DAL,4,115,CoxxJa00,Jabril Cox,,D,LB,LB
+2021,NYG,4,116,SmitEl00,Elerson G. Smith,,D,DL,DL
+2021,LA,4,117,BrowBo04,Bobby Brown III,,D,DL,DL
+2021,LAC,4,118,RumpCh00,Chris Rumph II,,D,DL,DE
+2021,MIN,4,119,,Kene Nwangwu,,O,RB,RB
+2021,NE,4,120,StevRh00,Rhamondre Stevenson,,O,RB,RB
+2021,JAX,4,121,SmitJo03,Jordan Smith,,D,LB,LB
+2021,CIN,4,122,ShelTy00,Tyler Shelvin,,D,DL,DT
+2021,PHI,4,123,,Zech McPhearson,,D,DB,DB
+2021,WAS,4,124,,John Bates,,O,TE,TE
+2021,MIN,4,125,BynuCa00,Camryn Bynum,,D,DB,CB
+2021,CAR,4,126,HubbCh01,Chuba Hubbard,,O,RB,RB
+2021,IND,4,127,,Kylen Granson,,O,TE,TE
+2021,PIT,4,128,MoorDa05,Dan Moore Jr.,,O,OL,OL
+2021,TB,4,129,DardJa00,Jaelon Darden,,O,WR,WR
+2021,LA,4,130,RochRo00,Robert Rochell,,D,DB,DB
+2021,BAL,4,131,WallTy00,Tylan Wallace,,O,WR,WR
+2021,CLE,4,132,TogiTo00,Tommy Togiai,,D,DL,DT
+2021,NO,4,133,BookIa00,Ian Book,,O,QB,QB
+2021,MIN,4,134,RobiJa04,Janarius Robinson,,D,DL,DE
+2021,TEN,4,135,WeavRa00,Rashad Weaver,,D,DL,DL
+2021,ARI,4,136,WilsMa04,Marco Wilson,,D,DB,CB
+2021,SEA,4,137,BrowTr03,Tre Brown,,D,DB,CB
+2021,DAL,4,138,BallJo00,Josh Ball,,O,OL,OL
+2021,CIN,4,139,,D'Ante Smith,,O,OL,T
+2021,PIT,4,140,JohnBu01,Buddy Johnson,,D,LB,LB
+2021,LA,4,141,,Jacob Harris,,O,WR,WR
+2021,GB,4,142,,Royce Newman,,O,OL,G
+2021,LV,4,143,GillTy00,Tyree Gillespie,,,,
+2021,KC,4,144,KainJo00,Joshua Kaindoh,,D,DL,DE
+2021,JAX,5,145,FarrLu00,Luke Farrell,,O,TE,TE
+2021,NYJ,5,146,SherJa00,Jamien Sherwood,,D,DB,DB
+2021,HOU,5,147,JordBr00,Brevin Jordan,,O,TE,TE
+2021,ATL,5,148,GrahTa00,Ta'Quon Graham,,D,DL,DL
+2021,CIN,5,149,,Evan McPherson,,S,K,K
+2021,PHI,5,150,GainKe00,Kenneth Gainwell,,O,RB,RB
+2021,CHI,5,151,BoroLa00,Larry Borom,,O,OL,OL
+2021,DEN,5,152,SterCa00,Caden Sterns,,D,DB,DB
+2021,CLE,5,153,FielTo00,Tony Fields II,,D,LB,LB
+2021,NYJ,5,154,CartMi02,Michael Carter II,,,,
+2021,SF,5,155,,Jaylon Moore,,O,OL,T
+2021,PIT,5,156,LoudIs00,Isaiahh Loudermilk,,D,DL,DE
+2021,MIN,5,157,SmitIh00,Ihmir Smith-Marsette,,O,WR,WR
+2021,CAR,5,158,NixoDa00,Daviyon Nixon,,D,DL,DT
+2021,LAC,5,159,JaimBr00,Brenden Jaimes,,O,OL,OL
+2021,BAL,5,160,WadeSh00,Shaun Wade,,D,DB,CB
+2021,BUF,5,161,DoylTo00,Tommy Doyle,,O,OL,OL
+2021,KC,5,162,GrayNo00,Noah Gray,,O,TE,TE
+2021,WAS,5,163,ForrDa00,Darrick Forrest,,,,
+2021,DEN,5,164,JohnJa15,Jamar Johnson,,D,DB,DB
+2021,IND,5,165,DaviSh02,Shawn Davis,,D,DB,DB
+2021,CAR,5,166,TaylKe03,Keith Taylor,,D,DB,DB
+2021,LV,5,167,,Nate Hobbs,,D,DB,CB
+2021,MIN,5,168,,Zach Davidson,,O,TE,TE
+2021,CLE,5,169,LeCoRi00,Richard LeCounte,,D,DB,DB
+2021,HOU,5,170,WallGa00,Garret Wallow,,D,LB,LB
+2021,BAL,5,171,HayeDa00,Daelin Hayes,,D,DL,DL
+2021,SF,5,172,LenoDe00,Deommodore Lenoir,,D,DB,CB
