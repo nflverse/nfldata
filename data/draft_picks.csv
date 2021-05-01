@@ -11388,7 +11388,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,NYJ,1,14,VeraAl00,Alijah Vera-Tucker,,O,OL,OL
 2021,NE,1,15,JoneMa05,Mac Jones,,O,QB,QB
 2021,ARI,1,16,CollZa00,Zaven Collins,,D,LB,LB
-2021,LVR,1,17,LeatAl00,Alex Leatherwood,,O,OL,OL
+2021,LV,1,17,LeatAl00,Alex Leatherwood,,O,OL,OL
 2021,MIA,1,18,PhilJa02,Jaelan Phillips,,D,DL,DL
 2021,WAS,1,19,DaviJa11,Jamin Davis,,D,LB,LB
 2021,NYG,1,20,ToneKa00,Kadarius Toney,,O,WR,WR
@@ -11414,7 +11414,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,ATL,2,40,GranRi00,Richie Grant,,D,DB,DB
 2021,DET,2,41,OnwuLe00,Levi Onwuzurike,,D,DL,DL
 2021,MIA,2,42,EichLi00,Liam Eichenberg,,O,OL,OL
-2021,LVR,2,43,MoehTr00,Trevon Moehrig,,,,
+2021,LV,2,43,MoehTr00,Trevon Moehrig,,,,
 2021,DAL,2,44,JoseKe02,Kelvin Joseph,,D,DB,DB
 2021,JAX,2,45,LittWa00,Walker Little,,O,OL,T
 2021,CIN,2,46,CarmJa00,Jackson Carman,,O,OL,T
@@ -11450,8 +11450,8 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,NO,3,76,AdebPa00,Paulson Adebo,,D,DB,CB
 2021,LAC,3,77,PalmJo00,Josh Palmer,,O,WR,WR
 2021,MIN,3,78,SurrCh00,Chazz Surratt,,D,LB,LB
-2021,LVR,3,79,KoonMa00,Malcolm Koonce,,D,DL,DE
-2021,LVR,3,80,DeabDi00,Divine Deablo,,D,DB,DB
+2021,LV,3,79,KoonMa00,Malcolm Koonce,,D,DL,DE
+2021,LV,3,80,DeabDi00,Divine Deablo,,D,DB,DB
 2021,MIA,3,81,LongHu00,Hunter Long,,O,TE,TE
 2021,WAS,3,82,BrowDy00,Dyami Brown,,O,WR,WR
 2021,CAR,3,83,TremTo00,Tommy Tremble,,O,TE,TE
