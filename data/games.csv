@@ -5865,8 +5865,8 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_01_MIA_NE,2021,REG,1,2021-09-12,Sunday,16:25,MIA,,NE,,Home,,,,2021091210,401326313,7,7,105,-127,2,-112,-109,45.5,-115,-106,1,outdoors,grass,,,,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
 2021_01_GB_NO,2021,REG,1,2021-09-12,Sunday,16:25,GB,,NO,,Home,,,,2021091211,401326319,7,7,112,-137,2.5,-109,-112,,,,0,dome,astroturf,,,,,,,Matt LaFleur,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2021_01_DEN_NYG,2021,REG,1,2021-09-12,Sunday,16:25,DEN,,NYG,,Home,,,,2021091212,401326320,7,7,-117,-105,-1.5,-105,-115,42.5,-110,-110,0,outdoors,fieldturf ,,,,,,,Vic Fangio,Joe Judge,,NYC01,MetLife Stadium
-2021_01_CHI_LA,2021,REG,1,2021-09-12,Sunday,20:20,CHI,,LA,,Home,,,,2021091213,401326323,7,7,235,-295,7,-113,-108,45,-110,-110,0,dome,matrixturf,,,,,,,Matt Nagy,Sean McVay,,LAX01,SoFi Stadium
-2021_01_BAL_LV,2021,REG,1,2021-09-13,Monday,20:15,BAL,,LV,,Home,,,,2021091300,401326321,7,7,-225,180,-4.5,-112,-109,51.5,-115,-106,0,dome,grass,,,,,,,John Harbaugh,Jon Gruden,,VEG00,Allegiant Stadium
+2021_01_CHI_LA,2021,REG,1,2021-09-12,Sunday,20:20,CHI,,LA,,Home,,,,2021091213,401326323,7,7,260,-335,7,-112,-109,45,-109,-112,0,dome,matrixturf,,,,,,,Matt Nagy,Sean McVay,,LAX01,SoFi Stadium
+2021_01_BAL_LV,2021,REG,1,2021-09-13,Monday,20:15,BAL,,LV,,Home,,,,2021091300,401326321,7,7,-210,170,-4.5,-105,-115,51.5,-118,-104,0,dome,grass,,,,,,,John Harbaugh,Jon Gruden,,VEG00,Allegiant Stadium
 2021_02_NYG_WAS,2021,REG,2,2021-09-16,Thursday,20:20,NYG,,WAS,,Home,,,,2021091600,401326127,4,4,128,-157,3.5,-122,100,,,,1,outdoors,grass,,,,,,,Joe Judge,Ron Rivera,,WAS00,FedExField
 2021_02_NO_CAR,2021,REG,2,2021-09-19,Sunday,13:00,NO,,CAR,,Home,,,,2021091908,401326128,7,7,-159,130,-2.5,-121,100,,,,1,outdoors,grass,,,,,,,Sean Payton,Matt Rhule,,CAR00,Bank of America Stadium
 2021_02_CIN_CHI,2021,REG,2,2021-09-19,Sunday,13:00,CIN,,CHI,,Home,,,,2021091906,401326129,7,7,190,-240,5,-115,-106,,,,0,outdoors,grass,,,,,,,Zac Taylor,Matt Nagy,,CHI98,Soldier Field
