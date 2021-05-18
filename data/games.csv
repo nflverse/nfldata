@@ -5916,6 +5916,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_04_TB_NE,2021,REG,4,2021-10-03,Sunday,20:20,TB,,NE,,Home,,,,2021100313,401326393,7,7,-190,155,-3.5,-112,-109,,,,0,outdoors,grass,,,,,,,Bruce Arians,Bill Belichick,,BOS00,Gillette Stadium
 2021_04_LV_LAC,2021,REG,4,2021-10-04,Monday,20:15,LV,,LAC,,Home,,,,2021100400,401326394,8,8,,,,,,,,,1,dome,matrixturf,,,,,,,Jon Gruden,Brandon Staley,,LAX01,SoFi Stadium
 2021_05_LA_SEA,2021,REG,5,2021-10-07,Thursday,20:20,LA,,SEA,,Home,,,,2021100700,401326395,4,4,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
+2021_05_NYJ_ATL,2021,REG,5,2021-10-10,Sunday,09:30,NYJ,,ATL,,Neutral,,,,2021101000,401326324,7,7,,,,,,,,,0,,fieldturf,,,,,,,Robert Saleh,Arthur Smith,,Tottenham ,Mercedes-Benz Stadium
 2021_05_PHI_CAR,2021,REG,5,2021-10-10,Sunday,13:00,PHI,,CAR,,Home,,,,2021101007,401326396,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Matt Rhule,,CAR00,Bank of America Stadium
 2021_05_GB_CIN,2021,REG,5,2021-10-10,Sunday,13:00,GB,,CIN,,Home,,,,2021101005,401326397,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Zac Taylor,,CIN00,Paul Brown Stadium
 2021_05_NE_HOU,2021,REG,5,2021-10-10,Sunday,13:00,NE,,HOU,,Home,,,,2021101003,401326398,7,7,,,,,,,,,0,,grass,,,,,,,Bill Belichick,David Culley,,HOU00,NRG Stadium
@@ -5929,9 +5930,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_05_SF_ARI,2021,REG,5,2021-10-10,Sunday,16:25,SF,,ARI,,Home,,,,2021101011,401326406,7,7,,,,,,,,,1,closed,grass,,,,,,,Kyle Shanahan,Kliff Kingsbury,,PHO00,State Farm Stadium
 2021_05_NYG_DAL,2021,REG,5,2021-10-10,Sunday,16:25,NYG,,DAL,,Home,,,,2021101012,401326407,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Joe Judge,Mike McCarthy,,DAL00,AT&T Stadium
 2021_05_BUF_KC,2021,REG,5,2021-10-10,Sunday,20:20,BUF,,KC,,Home,,,,2021101013,401326408,7,7,150,-182,3.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Sean McDermott,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2021_05_NYJ_ATL,2021,REG,5,2021-10-10,Sunday,21:30,NYJ,,ATL,,Neutral,,,,2021101000,401326324,7,7,,,,,,,,,0,,fieldturf,,,,,,,Robert Saleh,Arthur Smith,,Tottenham ,Mercedes-Benz Stadium
 2021_05_IND_BAL,2021,REG,5,2021-10-11,Monday,20:15,IND,,BAL,,Home,,,,2021101100,401326409,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Frank Reich,John Harbaugh,,BAL00,M&T Bank Stadium
 2021_06_TB_PHI,2021,REG,6,2021-10-14,Thursday,20:20,TB,,PHI,,Home,,,,2021101400,401326410,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Bruce Arians,Nick Sirianni,,PHI00,Lincoln Financial Field
+2021_06_MIA_JAX,2021,REG,6,2021-10-17,Sunday,09:30,MIA,,JAX,,Neutral,,,,2021101700,401326325,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Flores,Urban Meyer,,Tottenham ,TIAA Bank Stadium
 2021_06_LAC_BAL,2021,REG,6,2021-10-17,Sunday,13:00,LAC,,BAL,,Home,,,,2021101706,401326411,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Brandon Staley,John Harbaugh,,BAL00,M&T Bank Stadium
 2021_06_MIN_CAR,2021,REG,6,2021-10-17,Sunday,13:00,MIN,,CAR,,Home,,,,2021101707,401326412,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Zimmer,Matt Rhule,,CAR00,Bank of America Stadium
 2021_06_GB_CHI,2021,REG,6,2021-10-17,Sunday,13:00,GB,,CHI,,Home,,,,2021101705,401326413,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Nagy,,CHI98,Soldier Field
@@ -5943,7 +5944,6 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_06_LV_DEN,2021,REG,6,2021-10-17,Sunday,16:25,LV,,DEN,,Home,,,,2021101709,401326419,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Jon Gruden,Vic Fangio,,DEN00,Empower Field at Mile High
 2021_06_DAL_NE,2021,REG,6,2021-10-17,Sunday,16:25,DAL,,NE,,Home,,,,2021101710,401326420,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Bill Belichick,,BOS00,Gillette Stadium
 2021_06_SEA_PIT,2021,REG,6,2021-10-17,Sunday,20:20,SEA,,PIT,,Home,,,,2021101711,401326421,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Pete Carroll,Mike Tomlin,,PIT00,Heinz Field
-2021_06_MIA_JAX,2021,REG,6,2021-10-17,Sunday,21:30,MIA,,JAX,,Neutral,,,,2021101700,401326325,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Flores,Urban Meyer,,Tottenham ,TIAA Bank Stadium
 2021_06_BUF_TEN,2021,REG,6,2021-10-18,Monday,20:15,BUF,,TEN,,Home,,,,2021101800,401326422,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Sean McDermott,Mike Vrabel,,NAS00,Nissan Stadium
 2021_07_DEN_CLE,2021,REG,7,2021-10-21,Thursday,20:20,DEN,,CLE,,Home,,,,2021102100,401326423,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Vic Fangio,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2021_07_CIN_BAL,2021,REG,7,2021-10-24,Sunday,13:00,CIN,,BAL,,Home,,,,2021102405,401326424,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
