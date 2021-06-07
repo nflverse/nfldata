@@ -5859,7 +5859,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_01_SF_DET,2021,REG,1,2021-09-12,Sunday,13:00,SF,,DET,,Home,,,,2021091204,401326317,7,7,-400,300,-7.5,-105,-105,46,-106,-106,0,dome,fieldturf,,,,,,,Kyle Shanahan,Dan Campbell,,DET00,Ford Field
 2021_01_JAX_HOU,2021,REG,1,2021-09-12,Sunday,13:00,JAX,,HOU,,Home,,,,2021091205,401326310,7,7,-148,123,-2.5,-126,106,45.5,-110,-110,1,,grass,,,,,,,Urban Meyer,David Culley,,HOU00,NRG Stadium
 2021_01_SEA_IND,2021,REG,1,2021-09-12,Sunday,13:00,SEA,,IND,,Home,,,,2021091206,401326318,7,7,116,-141,2.5,104,-115,52,-106,-106,0,,fieldturf,,,,,,,Pete Carroll,Frank Reich,,IND00,Lucas Oil Stadium
-2021_01_ARI_TEN,2021,REG,1,2021-09-12,Sunday,13:00,ARI,,TEN,,Home,,,,2021091207,401326311,7,7,,,2.5,106,-117,51,104,-116,0,outdoors,grass,,,,,,,Kliff Kingsbury,Mike Vrabel,,NAS00,Nissan Stadium
+2021_01_ARI_TEN,2021,REG,1,2021-09-12,Sunday,13:00,ARI,,TEN,,Home,,,,2021091207,401326311,7,7,125,-152,2.5,106,-117,51,104,-116,0,outdoors,grass,,,,,,,Kliff Kingsbury,Mike Vrabel,,NAS00,Nissan Stadium
 2021_01_LAC_WAS,2021,REG,1,2021-09-12,Sunday,13:00,LAC,,WAS,,Home,,,,2021091208,401326312,7,7,-117,-105,-0,-115,104,44.5,-106,-106,0,outdoors,grass,,,,,,,Brandon Staley,Ron Rivera,,WAS00,FedExField
 2021_01_CLE_KC,2021,REG,1,2021-09-12,Sunday,16:25,CLE,,KC,,Home,,,,2021091209,401326314,7,7,210,-265,6,-105,-105,52.5,-106,-106,0,outdoors,astroturf,,,,,,,Kevin Stefanski,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2021_01_MIA_NE,2021,REG,1,2021-09-12,Sunday,16:25,MIA,,NE,,Home,,,,2021091210,401326313,7,7,105,-127,2,-105,-105,45.5,-112,101,1,outdoors,grass,,,,,,,Brian Flores,Bill Belichick,,BOS00,Gillette Stadium
@@ -5880,7 +5880,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_02_MIN_ARI,2021,REG,2,2021-09-19,Sunday,16:05,MIN,,ARI,,Home,,,,2021091909,401326357,7,7,107,-130,1.5,-110,-110,,,,0,closed,grass,,,,,,,Mike Zimmer,Kliff Kingsbury,,PHO00,State Farm Stadium
 2021_02_ATL_TB,2021,REG,2,2021-09-19,Sunday,16:05,ATL,,TB,,Home,,,,2021091910,401326358,7,10,275,-360,7.5,-115,-106,,,,1,outdoors,grass,,,,,,,Arthur Smith,Bruce Arians,,TAM00,Raymond James Stadium
 2021_02_DAL_LAC,2021,REG,2,2021-09-19,Sunday,16:25,DAL,,LAC,,Home,,,,2021091912,401326359,10,7,100,-121,1.5,-113,-108,,,,0,dome,matrixturf,,,,,,,Mike McCarthy,Brandon Staley,,LAX01,SoFi Stadium
-2021_02_TEN_SEA,2021,REG,2,2021-09-19,Sunday,16:25,TEN,,SEA,,Home,,,,2021091911,401326360,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Mike Vrabel,Pete Carroll,,SEA00,Lumen Field
+2021_02_TEN_SEA,2021,REG,2,2021-09-19,Sunday,16:25,TEN,,SEA,,Home,,,,2021091911,401326360,7,7,160,-195,4.5,-112,-109,,,,0,outdoors,fieldturf,,,,,,,Mike Vrabel,Pete Carroll,,SEA00,Lumen Field
 2021_02_KC_BAL,2021,REG,2,2021-09-19,Sunday,20:20,KC,,BAL,,Home,,,,2021091913,401326361,7,6,-129,106,-2,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,John Harbaugh,,BAL00,M&T Bank Stadium
 2021_02_DET_GB,2021,REG,2,2021-09-20,Monday,20:15,DET,,GB,,Home,,,,2021092000,401326362,8,8,260,-335,7.5,-122,100,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
 2021_03_CAR_HOU,2021,REG,3,2021-09-23,Thursday,20:20,CAR,,HOU,,Home,,,,2021092300,401326363,4,4,,,,,,,,,0,,grass,,,,,,,Matt Rhule,David Culley,,HOU00,NRG Stadium
