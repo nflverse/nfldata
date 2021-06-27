@@ -32,17 +32,18 @@ dk_games <- games %>%
   mutate(dk_label = glue("{away_full} @ {home_full}")) %>% 
   select(game_id, dk_label)
 
-
 # draft kings query
 response <- "https://sportsbook.draftkings.com/leagues/football/3" %>% 
   utils::URLdecode() %>% 
   httr::GET() %>%
-  httr::content(as="text",encoding="UTF-8") %>% 
+  httr::content(as = "text", encoding = "UTF-8") %>% 
   stringi::stri_trans_general("latin-ascii") %>% 
   stringi::stri_split_lines1()
-  bets_str <- response[nchar(response) == max(nchar(response))]
-  start_char <- str_locate(bets_str,"\\{")
-  dk_bets <- substr(bets_str,start_char,nchar(bets_str)-1) %>% 
+
+# extract betting json
+bets_str <- response[nchar(response) == max(nchar(response))]
+start_char <- str_locate(bets_str, "\\{")
+dk_bets <- substr(bets_str, start_char, nchar(bets_str)-1) %>% 
   jsonlite::fromJSON(flatten=TRUE)
 
 # collecting event names
