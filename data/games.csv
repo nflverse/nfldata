@@ -6107,7 +6107,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_17_DET_SEA,2021,REG,17,2022-01-02,Sunday,16:25,DET,,SEA,,Home,,,,2022010213,401326582,7,7,,,9.5,-110,-110,45,-110,-110,0,outdoors,fieldturf,,,,,,,Dan Campbell,Pete Carroll,,SEA00,Lumen Field
 2021_17_MIN_GB,2021,REG,17,2022-01-02,Sunday,20:20,MIN,,GB,,Home,,,,2022010214,401326583,7,8,,,6,-110,-110,44.5,-110,-110,1,outdoors,grass,,,,,,,Mike Zimmer,Matt LaFleur,,GNB00,Lambeau Field
 2021_17_CLE_PIT,2021,REG,17,2022-01-03,Monday,20:15,CLE,,PIT,,Home,,,,2022010300,401326584,9,8,,,-0,-110,-110,43.5,-110,-110,1,outdoors,grass,,,,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Heinz Field
-2021_18_NO_ATL,2021,REG,18,2022-01-09,Sunday,13:00,NO,,ATL,,Home,,,,2022010907,401326585,7,7,,,,,,,,,1,,fieldturf,,,,,,,Sean Payton,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2021_18_NO_ATL,2021,REG,18,2022-01-09,Sunday,13:00,NO,,ATL,,Home,,,,2022010907,401326585,7,7,,,1.5,-110,-110,48,-110,-110,1,,fieldturf,,,,,,,Sean Payton,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2021_18_PIT_BAL,2021,REG,18,2022-01-09,Sunday,13:00,PIT,,BAL,,Home,,,,2022010909,401326586,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
 2021_18_NYJ_BUF,2021,REG,18,2022-01-09,Sunday,13:00,NYJ,,BUF,,Home,,,,2022010910,401326587,7,7,,,,,,,,,1,outdoors,astroturf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
 2021_18_CIN_CLE,2021,REG,18,2022-01-09,Sunday,13:00,CIN,,CLE,,Home,,,,2022010911,401326588,7,6,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
