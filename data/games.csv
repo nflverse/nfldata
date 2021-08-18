@@ -5909,7 +5909,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_04_NYG_NO,2021,REG,4,2021-10-03,Sunday,13:00,NYG,,NO,,Home,,,,2021100303,401326386,7,7,,,5,-110,-110,47,-110,-110,0,dome,astroturf,,,,,,,Joe Judge,Sean Payton,,NOR00,Mercedes-Benz Superdome
 2021_04_TEN_NYJ,2021,REG,4,2021-10-03,Sunday,13:00,TEN,,NYJ,,Home,,,,2021100300,401326387,7,7,,,-3.5,-110,-110,47,-110,-110,0,outdoors,fieldturf ,,,,,,,Mike Vrabel,Robert Saleh,,NYC01,MetLife Stadium
 2021_04_KC_PHI,2021,REG,4,2021-10-03,Sunday,13:00,KC,,PHI,,Home,,,,2021100301,401326388,7,6,,,-8.5,-110,-110,50,-110,-110,0,outdoors,grass,,,,,,,Andy Reid,Nick Sirianni,,PHI00,Lincoln Financial Field
-2021_04_ARI_LA,2021,REG,4,2021-10-03,Sunday,16:05,ARI,,LA,,Home,,,,2021100310,401326389,7,7,,,4.5,-110,-110,49,-110,-110,1,dome,matrixturf,,,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
+2021_04_ARI_LA,2021,REG,4,2021-10-03,Sunday,16:05,ARI,,LA,,Home,,,,2021100310,401326389,7,7,,,4.5,-105,-115,49,-110,-110,1,dome,matrixturf,,,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
 2021_04_SEA_SF,2021,REG,4,2021-10-03,Sunday,16:05,SEA,,SF,,Home,,,,2021100309,401326390,7,7,,,3.5,-115,-105,46.5,-110,-110,1,outdoors,grass,,,,,,,Pete Carroll,Kyle Shanahan,,SFO01,Levi's Stadium
 2021_04_BAL_DEN,2021,REG,4,2021-10-03,Sunday,16:25,BAL,,DEN,,Home,,,,2021100312,401326391,7,7,,,-3,-110,-110,45,-110,-110,0,outdoors,grass,,,,,,,John Harbaugh,Vic Fangio,,DEN00,Empower Field at Mile High
 2021_04_PIT_GB,2021,REG,4,2021-10-03,Sunday,16:25,PIT,,GB,,Home,,,,2021100311,401326392,7,7,,,6,-110,-110,48,-110,-110,0,outdoors,grass,,,,,,,Mike Tomlin,Matt LaFleur,,GNB00,Lambeau Field
