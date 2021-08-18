@@ -6046,7 +6046,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2021_13_SF_SEA,2021,REG,13,2021-12-05,Sunday,20:20,SF,,SEA,,Home,,,,2021120511,401326521,7,6,,,1.5,-110,-110,45.5,-110,-110,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Pete Carroll,,SEA00,Lumen Field
 2021_13_NE_BUF,2021,REG,13,2021-12-06,Monday,20:15,NE,,BUF,,Home,,,,2021120600,401326522,8,11,,,7,-110,-110,48,-110,-110,1,outdoors,astroturf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
 2021_14_PIT_MIN,2021,REG,14,2021-12-09,Thursday,20:20,PIT,,MIN,,Home,,,,2021120900,401326523,4,4,,,3,-110,-110,46.5,-110,-110,0,dome,sportturf,,,,,,,Mike Tomlin,Mike Zimmer,,MIN01,U.S. Bank Stadium
-2021_14_ATL_CAR,2021,REG,14,2021-12-12,Sunday,13:00,ATL,,CAR,,Home,,,,2021121206,401326524,7,14,,,,,,48.5,-110,-110,1,outdoors,grass,,,,,,,Arthur Smith,Matt Rhule,,CAR00,Bank of America Stadium
+2021_14_ATL_CAR,2021,REG,14,2021-12-12,Sunday,13:00,ATL,,CAR,,Home,,,,2021121206,401326524,7,14,,,2,-110,-110,48.5,-110,-110,1,outdoors,grass,,,,,,,Arthur Smith,Matt Rhule,,CAR00,Bank of America Stadium
 2021_14_SF_CIN,2021,REG,14,2021-12-12,Sunday,13:00,SF,,CIN,,Home,,,,2021121201,401326525,7,7,,,-3.5,-110,-110,46,-110,-110,0,outdoors,grass,,,,,,,Kyle Shanahan,Zac Taylor,,CIN00,Paul Brown Stadium
 2021_14_BAL_CLE,2021,REG,14,2021-12-12,Sunday,13:00,BAL,,CLE,,Home,,,,2021121207,401326526,7,14,,,2.5,-110,-110,46.5,-110,-110,1,outdoors,grass,,,,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2021_14_SEA_HOU,2021,REG,14,2021-12-12,Sunday,13:00,SEA,,HOU,,Home,,,,2021121203,401326527,7,7,,,-7,-110,-110,48.5,-110,-110,0,,grass,,,,,,,Pete Carroll,David Culley,,HOU00,NRG Stadium
