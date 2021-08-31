@@ -11372,9 +11372,9 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2020,MIN,7,253,HintKy00,Kyle Hinton,,O,OL,G
 2020,DEN,7,254,TuszDe00,Derrek Tuszka,,D,LB,LB
 2020,NYG,7,255,CrowTa00,Tae Crowder,,D,LB,LB
-2021,JAX,1,1,LawrTr00,Trevor Lawrence,,O,QB,QB
-2021,NYJ,1,2,WilsZa00,Zach Wilson,,O,QB,QB
-2021,SF,1,3,LancTr00,Trey Lance,,O,QB,QB
+2021,JAX,1,1,LawrTr00,Trevor Lawrence,00-0036971,O,QB,QB
+2021,NYJ,1,2,WilsZa00,Zach Wilson,00-0037013,O,QB,QB
+2021,SF,1,3,LancTr00,Trey Lance,00-0037012,O,QB,QB
 2021,ATL,1,4,PittKy00,Kyle Pitts,,O,TE,TE
 2021,CIN,1,5,ChasJa00,Ja'Marr Chase,,O,WR,WR
 2021,MIA,1,6,WaddJa00,Jaylen Waddle,,O,WR,WR
@@ -11382,11 +11382,11 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,CAR,1,8,HornJa00,Jaycee Horn,,D,DB,DB
 2021,DEN,1,9,SurtPa01,Patrick Surtain II,,D,DB,DB
 2021,PHI,1,10,SmitDe07,DeVonta Smith,,O,WR,WR
-2021,CHI,1,11,FielJu00,Justin Fields,,O,QB,QB
+2021,CHI,1,11,FielJu00,Justin Fields,00-0036975,O,QB,QB
 2021,DAL,1,12,ParsMi00,Micah Parsons,,D,LB,LB
 2021,LAC,1,13,SlatRa00,Rashawn Slater,,O,OL,OL
 2021,NYJ,1,14,VeraAl00,Alijah Vera-Tucker,,O,OL,OL
-2021,NE,1,15,JoneMa05,Mac Jones,,O,QB,QB
+2021,NE,1,15,JoneMa05,Mac Jones,00-0036972,O,QB,QB
 2021,ARI,1,16,CollZa00,Zaven Collins,,D,LB,LB
 2021,LV,1,17,LeatAl00,Alex Leatherwood,,O,OL,OL
 2021,MIA,1,18,PhilJa02,Jaelan Phillips,,D,DL,DL
@@ -11435,9 +11435,9 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,BUF,2,61,BashCa00,Carlos Basham Jr.,,D,DL,DL
 2021,GB,2,62,MyerJo00,Josh Myers,,O,OL,C
 2021,KC,2,63,HumpCr00,Creed Humphrey,,O,OL,OL
-2021,TB,2,64,TrasKy00,Kyle Trask,,O,QB,QB
+2021,TB,2,64,TrasKy00,Kyle Trask,00-0036928,O,QB,QB
 2021,JAX,3,65,CiscAn00,Andre Cisco,,D,DB,DB
-2021,MIN,3,66,MondKe00,Kellen Mond,,O,QB,QB
+2021,MIN,3,66,MondKe00,Kellen Mond,00-0036946,O,QB,QB
 2021,HOU,3,67,MillDa02,Davis Mills,,O,QB,QB
 2021,ATL,3,68,MayfJa00,Jalen Mayfield,,O,OL,OL
 2021,CIN,3,69,OssaJo00,Joseph Ossai,,D,LB,LB
@@ -11504,7 +11504,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,LA,4,130,RochRo00,Robert Rochell,,D,DB,DB
 2021,BAL,4,131,WallTy00,Tylan Wallace,,O,WR,WR
 2021,CLE,4,132,TogiTo00,Tommy Togiai,,D,DL,DT
-2021,NO,4,133,BookIa00,Ian Book,,O,QB,QB
+2021,NO,4,133,BookIa00,Ian Book,00-0036929,O,QB,QB
 2021,MIN,4,134,RobiJa04,Janarius Robinson,,D,DL,DE
 2021,TEN,4,135,WeavRa00,Rashad Weaver,,D,DL,DL
 2021,ARI,4,136,WilsMa04,Marco Wilson,,D,DB,CB
@@ -11589,7 +11589,7 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2021,TEN,6,215,BreeBr00,Brady Breeze,,D,DB,S
 2021,PIT,6,216,RochQu00,Quincy Roche,,D,DL,DL
 2021,CHI,6,217,HerbKh00,Khalil Herbert,,O,RB,RB
-2021,IND,6,218,EhliSa00,Sam Ehlinger,,O,QB,QB
+2021,IND,6,218,EhliSa00,Sam Ehlinger,00-0036898,O,QB,QB
 2021,DEN,6,219,WillSe00,Seth Williams,,O,WR,WR
 2021,GB,6,220,McDuIs00,Isaiah McDuffie,,D,LB,LB
 2021,CHI,6,221,NewsDa00,Dazz Newsome,,O,WR,WR
