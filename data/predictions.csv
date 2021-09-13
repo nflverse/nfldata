@@ -367,6 +367,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,maloney_jarrod,50
 2021_01_DAL_TB,MarcRichards284,76
 2021_01_DAL_TB,mark_mello818,80
+2021_01_DAL_TB,Market,78
 2021_01_DAL_TB,MarkTentinger,69
 2021_01_DAL_TB,marlonmaloney,50
 2021_01_DAL_TB,marrodc02,25
@@ -1023,6 +1024,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,maloney_jarrod,62
 2021_01_PHI_ATL,MarcRichards284,62
 2021_01_PHI_ATL,mark_mello818,70
+2021_01_PHI_ATL,Market,63
 2021_01_PHI_ATL,MarkTentinger,50
 2021_01_PHI_ATL,marlonmaloney,50
 2021_01_PHI_ATL,marrodc02,100
@@ -1695,6 +1697,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,maloney_jarrod,80
 2021_01_PIT_BUF,MarcRichards284,67
 2021_01_PIT_BUF,mark_mello818,72
+2021_01_PIT_BUF,Market,71
 2021_01_PIT_BUF,MarkTentinger,100
 2021_01_PIT_BUF,marlonmaloney,50
 2021_01_PIT_BUF,marrodc02,100
@@ -2367,6 +2370,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,maloney_jarrod,65
 2021_01_NYJ_CAR,MarcRichards284,60
 2021_01_NYJ_CAR,mark_mello818,34
+2021_01_NYJ_CAR,Market,63
 2021_01_NYJ_CAR,MarkTentinger,64
 2021_01_NYJ_CAR,marlonmaloney,50
 2021_01_NYJ_CAR,marrodc02,63
@@ -3039,6 +3043,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,maloney_jarrod,30
 2021_01_MIN_CIN,MarcRichards284,34
 2021_01_MIN_CIN,mark_mello818,62
+2021_01_MIN_CIN,Market,44
 2021_01_MIN_CIN,MarkTentinger,0
 2021_01_MIN_CIN,marlonmaloney,50
 2021_01_MIN_CIN,marrodc02,0
@@ -3711,6 +3716,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,maloney_jarrod,20
 2021_01_SF_DET,MarcRichards284,17
 2021_01_SF_DET,mark_mello818,28
+2021_01_SF_DET,Market,22
 2021_01_SF_DET,MarkTentinger,0
 2021_01_SF_DET,marlonmaloney,50
 2021_01_SF_DET,marrodc02,0
@@ -4383,6 +4389,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,maloney_jarrod,45
 2021_01_JAX_HOU,MarcRichards284,29
 2021_01_JAX_HOU,mark_mello818,37
+2021_01_JAX_HOU,Market,38
 2021_01_JAX_HOU,MarkTentinger,32
 2021_01_JAX_HOU,marlonmaloney,50
 2021_01_JAX_HOU,marrodc02,2
@@ -5055,6 +5062,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,maloney_jarrod,46
 2021_01_SEA_IND,MarcRichards284,38
 2021_01_SEA_IND,mark_mello818,63
+2021_01_SEA_IND,Market,42
 2021_01_SEA_IND,MarkTentinger,6
 2021_01_SEA_IND,marlonmaloney,50
 2021_01_SEA_IND,marrodc02,30
@@ -5727,6 +5735,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,maloney_jarrod,60
 2021_01_ARI_TEN,MarcRichards284,54
 2021_01_ARI_TEN,mark_mello818,74
+2021_01_ARI_TEN,Market,58
 2021_01_ARI_TEN,MarkTentinger,62
 2021_01_ARI_TEN,marlonmaloney,50
 2021_01_ARI_TEN,marrodc02,100
@@ -6399,6 +6408,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,maloney_jarrod,45
 2021_01_LAC_WAS,MarcRichards284,51
 2021_01_LAC_WAS,mark_mello818,40
+2021_01_LAC_WAS,Market,55
 2021_01_LAC_WAS,MarkTentinger,34
 2021_01_LAC_WAS,marlonmaloney,50
 2021_01_LAC_WAS,marrodc02,35
@@ -7071,6 +7081,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,maloney_jarrod,80
 2021_01_CLE_KC,MarcRichards284,80
 2021_01_CLE_KC,mark_mello818,81
+2021_01_CLE_KC,Market,69
 2021_01_CLE_KC,MarkTentinger,100
 2021_01_CLE_KC,marlonmaloney,50
 2021_01_CLE_KC,marrodc02,65
@@ -7743,6 +7754,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,maloney_jarrod,62
 2021_01_MIA_NE,MarcRichards284,58
 2021_01_MIA_NE,mark_mello818,54
+2021_01_MIA_NE,Market,62
 2021_01_MIA_NE,MarkTentinger,70
 2021_01_MIA_NE,marlonmaloney,50
 2021_01_MIA_NE,marrodc02,70
@@ -8415,6 +8427,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,maloney_jarrod,30
 2021_01_GB_NO,MarcRichards284,28
 2021_01_GB_NO,mark_mello818,23
+2021_01_GB_NO,Market,37
 2021_01_GB_NO,MarkTentinger,0
 2021_01_GB_NO,marlonmaloney,50
 2021_01_GB_NO,marrodc02,30
@@ -9087,6 +9100,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,maloney_jarrod,39
 2021_01_DEN_NYG,MarcRichards284,41
 2021_01_DEN_NYG,mark_mello818,34
+2021_01_DEN_NYG,Market,43
 2021_01_DEN_NYG,MarkTentinger,0
 2021_01_DEN_NYG,marlonmaloney,50
 2021_01_DEN_NYG,marrodc02,35
@@ -9760,6 +9774,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,maloney_jarrod,80
 2021_01_CHI_LA,MarcRichards284,84
 2021_01_CHI_LA,mark_mello818,70
+2021_01_CHI_LA,Market,77
 2021_01_CHI_LA,MarkTentinger,100
 2021_01_CHI_LA,marlonmaloney,50
 2021_01_CHI_LA,marrodc02,100
