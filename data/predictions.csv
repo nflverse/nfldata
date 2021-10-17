@@ -370,7 +370,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,Market,78
 2021_01_DAL_TB,MarkTentinger,69
 2021_01_DAL_TB,marlonmaloney,50
-2021_01_DAL_TB,marrodc02,25
+2021_01_DAL_TB,marrodc,25
 2021_01_DAL_TB,matt12oneil,65
 2021_01_DAL_TB,mattglen_,100
 2021_01_DAL_TB,matthew_sentes,100
@@ -1028,7 +1028,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,Market,63
 2021_01_PHI_ATL,MarkTentinger,50
 2021_01_PHI_ATL,marlonmaloney,50
-2021_01_PHI_ATL,marrodc02,100
+2021_01_PHI_ATL,marrodc,100
 2021_01_PHI_ATL,Martentoellner,64
 2021_01_PHI_ATL,matt12oneil,55
 2021_01_PHI_ATL,mattglen_,60
@@ -1701,7 +1701,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,Market,71
 2021_01_PIT_BUF,MarkTentinger,100
 2021_01_PIT_BUF,marlonmaloney,50
-2021_01_PIT_BUF,marrodc02,100
+2021_01_PIT_BUF,marrodc,100
 2021_01_PIT_BUF,Martentoellner,73
 2021_01_PIT_BUF,matt12oneil,50
 2021_01_PIT_BUF,mattglen_,70
@@ -2374,7 +2374,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,Market,63
 2021_01_NYJ_CAR,MarkTentinger,64
 2021_01_NYJ_CAR,marlonmaloney,50
-2021_01_NYJ_CAR,marrodc02,63
+2021_01_NYJ_CAR,marrodc,63
 2021_01_NYJ_CAR,Martentoellner,60
 2021_01_NYJ_CAR,matt12oneil,72
 2021_01_NYJ_CAR,mattglen_,51
@@ -3047,7 +3047,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,Market,44
 2021_01_MIN_CIN,MarkTentinger,0
 2021_01_MIN_CIN,marlonmaloney,50
-2021_01_MIN_CIN,marrodc02,0
+2021_01_MIN_CIN,marrodc,0
 2021_01_MIN_CIN,Martentoellner,42
 2021_01_MIN_CIN,matt12oneil,45
 2021_01_MIN_CIN,mattglen_,40
@@ -3720,7 +3720,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,Market,22
 2021_01_SF_DET,MarkTentinger,0
 2021_01_SF_DET,marlonmaloney,50
-2021_01_SF_DET,marrodc02,0
+2021_01_SF_DET,marrodc,0
 2021_01_SF_DET,Martentoellner,23
 2021_01_SF_DET,matt12oneil,31
 2021_01_SF_DET,mattglen_,42
@@ -4393,7 +4393,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,Market,38
 2021_01_JAX_HOU,MarkTentinger,32
 2021_01_JAX_HOU,marlonmaloney,50
-2021_01_JAX_HOU,marrodc02,2
+2021_01_JAX_HOU,marrodc,2
 2021_01_JAX_HOU,Martentoellner,40
 2021_01_JAX_HOU,matt12oneil,28
 2021_01_JAX_HOU,mattglen_,49
@@ -5066,7 +5066,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,Market,42
 2021_01_SEA_IND,MarkTentinger,6
 2021_01_SEA_IND,marlonmaloney,50
-2021_01_SEA_IND,marrodc02,30
+2021_01_SEA_IND,marrodc,30
 2021_01_SEA_IND,Martentoellner,42
 2021_01_SEA_IND,matt12oneil,35
 2021_01_SEA_IND,mattglen_,0
@@ -5739,7 +5739,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,Market,58
 2021_01_ARI_TEN,MarkTentinger,62
 2021_01_ARI_TEN,marlonmaloney,50
-2021_01_ARI_TEN,marrodc02,100
+2021_01_ARI_TEN,marrodc,100
 2021_01_ARI_TEN,Martentoellner,62
 2021_01_ARI_TEN,matt12oneil,69
 2021_01_ARI_TEN,mattglen_,40
@@ -6412,7 +6412,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,Market,55
 2021_01_LAC_WAS,MarkTentinger,34
 2021_01_LAC_WAS,marlonmaloney,50
-2021_01_LAC_WAS,marrodc02,35
+2021_01_LAC_WAS,marrodc,35
 2021_01_LAC_WAS,Martentoellner,59
 2021_01_LAC_WAS,matt12oneil,39
 2021_01_LAC_WAS,mattglen_,0
@@ -7085,7 +7085,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,Market,69
 2021_01_CLE_KC,MarkTentinger,100
 2021_01_CLE_KC,marlonmaloney,50
-2021_01_CLE_KC,marrodc02,65
+2021_01_CLE_KC,marrodc,65
 2021_01_CLE_KC,Martentoellner,68
 2021_01_CLE_KC,matt12oneil,82
 2021_01_CLE_KC,mattglen_,55
@@ -7758,7 +7758,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,Market,62
 2021_01_MIA_NE,MarkTentinger,70
 2021_01_MIA_NE,marlonmaloney,50
-2021_01_MIA_NE,marrodc02,70
+2021_01_MIA_NE,marrodc,70
 2021_01_MIA_NE,Martentoellner,59
 2021_01_MIA_NE,matt12oneil,64
 2021_01_MIA_NE,mattglen_,55
@@ -8431,7 +8431,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,Market,37
 2021_01_GB_NO,MarkTentinger,0
 2021_01_GB_NO,marlonmaloney,50
-2021_01_GB_NO,marrodc02,30
+2021_01_GB_NO,marrodc,30
 2021_01_GB_NO,Martentoellner,39
 2021_01_GB_NO,matt12oneil,22
 2021_01_GB_NO,mattglen_,30
@@ -9104,7 +9104,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,Market,43
 2021_01_DEN_NYG,MarkTentinger,0
 2021_01_DEN_NYG,marlonmaloney,50
-2021_01_DEN_NYG,marrodc02,35
+2021_01_DEN_NYG,marrodc,35
 2021_01_DEN_NYG,Martentoellner,42
 2021_01_DEN_NYG,matt12oneil,49
 2021_01_DEN_NYG,mattglen_,55
@@ -9778,7 +9778,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,Market,77
 2021_01_CHI_LA,MarkTentinger,100
 2021_01_CHI_LA,marlonmaloney,50
-2021_01_CHI_LA,marrodc02,100
+2021_01_CHI_LA,marrodc,100
 2021_01_CHI_LA,Martentoellner,73
 2021_01_CHI_LA,matt12oneil,82
 2021_01_CHI_LA,mattglen_,60
@@ -10471,7 +10471,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,MarkTentinger,0
 2021_01_BAL_LV,marlonmaloney,50
 2021_01_BAL_LV,MarltonMike,30
-2021_01_BAL_LV,marrodc02,30
+2021_01_BAL_LV,marrodc,30
 2021_01_BAL_LV,Martentoellner,37
 2021_01_BAL_LV,matt12oneil,21
 2021_01_BAL_LV,mattglen_,0
@@ -10983,7 +10983,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,mark_mello818,50
 2021_02_NYG_WAS,Market,65
 2021_02_NYG_WAS,MarltonMike,56
-2021_02_NYG_WAS,marrodc02,63
+2021_02_NYG_WAS,marrodc,63
 2021_02_NYG_WAS,Martentoellner,64
 2021_02_NYG_WAS,matt12oneil,57
 2021_02_NYG_WAS,mattglen_,49
@@ -11389,7 +11389,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,mark_mello818,50
 2021_02_NO_CAR,Market,42
 2021_02_NO_CAR,MarltonMike,55
-2021_02_NO_CAR,marrodc02,20
+2021_02_NO_CAR,marrodc,20
 2021_02_NO_CAR,Martentoellner,36
 2021_02_NO_CAR,matt12oneil,33
 2021_02_NO_CAR,mattglen_,25
@@ -11822,7 +11822,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,mark_mello818,50
 2021_02_CIN_CHI,Market,54
 2021_02_CIN_CHI,MarltonMike,37
-2021_02_CIN_CHI,marrodc02,38
+2021_02_CIN_CHI,marrodc,38
 2021_02_CIN_CHI,Martentoellner,54
 2021_02_CIN_CHI,matt12oneil,44
 2021_02_CIN_CHI,mattglen_,51
@@ -12255,7 +12255,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,mark_mello818,50
 2021_02_HOU_CLE,Market,84
 2021_02_HOU_CLE,MarltonMike,81
-2021_02_HOU_CLE,marrodc02,100
+2021_02_HOU_CLE,marrodc,100
 2021_02_HOU_CLE,Martentoellner,86
 2021_02_HOU_CLE,matt12oneil,72
 2021_02_HOU_CLE,mattglen_,60
@@ -12688,7 +12688,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,mark_mello818,50
 2021_02_LA_IND,Market,35
 2021_02_LA_IND,MarltonMike,38
-2021_02_LA_IND,marrodc02,21
+2021_02_LA_IND,marrodc,21
 2021_02_LA_IND,Martentoellner,38
 2021_02_LA_IND,matt12oneil,38
 2021_02_LA_IND,mattglen_,40
@@ -13121,7 +13121,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,mark_mello818,50
 2021_02_DEN_JAX,Market,31
 2021_02_DEN_JAX,MarltonMike,17
-2021_02_DEN_JAX,marrodc02,0
+2021_02_DEN_JAX,marrodc,0
 2021_02_DEN_JAX,Martentoellner,32
 2021_02_DEN_JAX,matt12oneil,41
 2021_02_DEN_JAX,mattglen_,45
@@ -13554,7 +13554,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,mark_mello818,50
 2021_02_BUF_MIA,Market,37
 2021_02_BUF_MIA,MarltonMike,58
-2021_02_BUF_MIA,marrodc02,24
+2021_02_BUF_MIA,marrodc,24
 2021_02_BUF_MIA,Martentoellner,35
 2021_02_BUF_MIA,matt12oneil,42
 2021_02_BUF_MIA,mattglen_,46
@@ -13745,8 +13745,8 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,zackry_mc,50
 2021_02_BUF_MIA,zacwest91,0
 2021_02_BUF_MIA,zweinberg18,38
-2021_02_NE_NYJ,,41
 2021_02_NE_NYJ,,38
+2021_02_NE_NYJ,,41
 2021_02_NE_NYJ,__DavidOfficial,25
 2021_02_NE_NYJ,_DH44_,46
 2021_02_NE_NYJ,_jclemons,26
@@ -13987,7 +13987,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,mark_mello818,50
 2021_02_NE_NYJ,Market,32
 2021_02_NE_NYJ,MarltonMike,25
-2021_02_NE_NYJ,marrodc02,0
+2021_02_NE_NYJ,marrodc,0
 2021_02_NE_NYJ,Martentoellner,33
 2021_02_NE_NYJ,matt12oneil,24
 2021_02_NE_NYJ,mattglen_,40
@@ -14420,7 +14420,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,mark_mello818,50
 2021_02_SF_PHI,Market,42
 2021_02_SF_PHI,MarltonMike,52
-2021_02_SF_PHI,marrodc02,20
+2021_02_SF_PHI,marrodc,20
 2021_02_SF_PHI,Martentoellner,40
 2021_02_SF_PHI,matt12oneil,28
 2021_02_SF_PHI,mattglen_,51
@@ -14611,8 +14611,8 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,zackry_mc,0
 2021_02_SF_PHI,zacwest91,65
 2021_02_SF_PHI,zweinberg18,35
-2021_02_LV_PIT,,70
 2021_02_LV_PIT,,55
+2021_02_LV_PIT,,70
 2021_02_LV_PIT,__DavidOfficial,60
 2021_02_LV_PIT,_DH44_,48
 2021_02_LV_PIT,_jclemons,61
@@ -14853,7 +14853,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,mark_mello818,50
 2021_02_LV_PIT,Market,68
 2021_02_LV_PIT,MarltonMike,71
-2021_02_LV_PIT,marrodc02,66
+2021_02_LV_PIT,marrodc,66
 2021_02_LV_PIT,Martentoellner,65
 2021_02_LV_PIT,matt12oneil,71
 2021_02_LV_PIT,mattglen_,51
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,45
 2021_02_MIN_ARI,,62
+2021_02_MIN_ARI,,45
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -15287,7 +15287,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,mark_mello818,50
 2021_02_MIN_ARI,Market,64
 2021_02_MIN_ARI,MarltonMike,47
-2021_02_MIN_ARI,marrodc02,71
+2021_02_MIN_ARI,marrodc,71
 2021_02_MIN_ARI,Martentoellner,64
 2021_02_MIN_ARI,matt12oneil,76
 2021_02_MIN_ARI,mattglen_,60
@@ -15721,7 +15721,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,mark_mello818,50
 2021_02_ATL_TB,Market,86
 2021_02_ATL_TB,MarltonMike,85
-2021_02_ATL_TB,marrodc02,100
+2021_02_ATL_TB,marrodc,100
 2021_02_ATL_TB,Martentoellner,86
 2021_02_ATL_TB,matt12oneil,81
 2021_02_ATL_TB,mattglen_,80
@@ -15912,8 +15912,8 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,zackry_mc,100
 2021_02_ATL_TB,zacwest91,100
 2021_02_ATL_TB,zweinberg18,80
-2021_02_DAL_LAC,,66
 2021_02_DAL_LAC,,57
+2021_02_DAL_LAC,,66
 2021_02_DAL_LAC,__DavidOfficial,45
 2021_02_DAL_LAC,_DH44_,49
 2021_02_DAL_LAC,_jclemons,45
@@ -16155,7 +16155,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,mark_mello818,50
 2021_02_DAL_LAC,Market,59
 2021_02_DAL_LAC,MarltonMike,39
-2021_02_DAL_LAC,marrodc02,24
+2021_02_DAL_LAC,marrodc,24
 2021_02_DAL_LAC,Martentoellner,58
 2021_02_DAL_LAC,matt12oneil,42
 2021_02_DAL_LAC,mattglen_,55
@@ -16589,7 +16589,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,mark_mello818,50
 2021_02_TEN_SEA,Market,72
 2021_02_TEN_SEA,MarltonMike,64
-2021_02_TEN_SEA,marrodc02,75
+2021_02_TEN_SEA,marrodc,75
 2021_02_TEN_SEA,Martentoellner,70
 2021_02_TEN_SEA,matt12oneil,65
 2021_02_TEN_SEA,mattglen_,55
@@ -16780,8 +16780,8 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,zackry_mc,81
 2021_02_TEN_SEA,zacwest91,76
 2021_02_TEN_SEA,zweinberg18,58
-2021_02_KC_BAL,,43
 2021_02_KC_BAL,,20
+2021_02_KC_BAL,,43
 2021_02_KC_BAL,__DavidOfficial,45
 2021_02_KC_BAL,_DH44_,51
 2021_02_KC_BAL,_jclemons,38
@@ -17023,7 +17023,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,mark_mello818,50
 2021_02_KC_BAL,Market,39
 2021_02_KC_BAL,MarltonMike,40
-2021_02_KC_BAL,marrodc02,23
+2021_02_KC_BAL,marrodc,23
 2021_02_KC_BAL,Martentoellner,39
 2021_02_KC_BAL,matt12oneil,28
 2021_02_KC_BAL,mattglen_,45
@@ -17457,7 +17457,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,mark_mello818,50
 2021_02_DET_GB,Market,81
 2021_02_DET_GB,MarltonMike,58
-2021_02_DET_GB,marrodc02,45
+2021_02_DET_GB,marrodc,45
 2021_02_DET_GB,Martentoellner,84
 2021_02_DET_GB,matt12oneil,100
 2021_02_DET_GB,mattglen_,60
@@ -17846,7 +17846,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,maloney_jarrod,0
 2021_03_CAR_HOU,MarcRichards284,12
 2021_03_CAR_HOU,Market,22
-2021_03_CAR_HOU,marrodc02,0
+2021_03_CAR_HOU,marrodc,0
 2021_03_CAR_HOU,Martentoellner,50
 2021_03_CAR_HOU,matt12oneil,8
 2021_03_CAR_HOU,mattglen_,40
@@ -17992,8 +17992,8 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,,65
+2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_DH44_,61
 2021_03_WAS_BUF,_jclemons,69
@@ -18208,7 +18208,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,maloney_jarrod,81
 2021_03_WAS_BUF,MarcRichards284,72
 2021_03_WAS_BUF,Market,75
-2021_03_WAS_BUF,marrodc02,64
+2021_03_WAS_BUF,marrodc,64
 2021_03_WAS_BUF,Martentoellner,73
 2021_03_WAS_BUF,matt12oneil,75
 2021_03_WAS_BUF,mattglen_,100
@@ -18583,7 +18583,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,maloney_jarrod,65
 2021_03_CHI_CLE,MarcRichards284,66
 2021_03_CHI_CLE,Market,77
-2021_03_CHI_CLE,marrodc02,70
+2021_03_CHI_CLE,marrodc,70
 2021_03_CHI_CLE,Martentoellner,75
 2021_03_CHI_CLE,matt12oneil,90
 2021_03_CHI_CLE,mattglen_,64
@@ -18958,7 +18958,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,maloney_jarrod,15
 2021_03_BAL_DET,MarcRichards284,25
 2021_03_BAL_DET,Market,25
-2021_03_BAL_DET,marrodc02,0
+2021_03_BAL_DET,marrodc,0
 2021_03_BAL_DET,Martentoellner,23
 2021_03_BAL_DET,matt12oneil,10
 2021_03_BAL_DET,mattglen_,0
@@ -19117,8 +19117,8 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,YayySports,21
 2021_03_BAL_DET,zackry_mc,0
 2021_03_BAL_DET,zweinberg18,5
-2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,,0
+2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,__DavidOfficial,0
 2021_03_ARI_JAX,_DH44_,48
 2021_03_ARI_JAX,_jclemons,22
@@ -19333,7 +19333,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,maloney_jarrod,24
 2021_03_ARI_JAX,MarcRichards284,35
 2021_03_ARI_JAX,Market,24
-2021_03_ARI_JAX,marrodc02,0
+2021_03_ARI_JAX,marrodc,0
 2021_03_ARI_JAX,Martentoellner,24
 2021_03_ARI_JAX,matt12oneil,10
 2021_03_ARI_JAX,mattglen_,0
@@ -19708,7 +19708,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,maloney_jarrod,69
 2021_03_LAC_KC,MarcRichards284,80
 2021_03_LAC_KC,Market,71
-2021_03_LAC_KC,marrodc02,71
+2021_03_LAC_KC,marrodc,71
 2021_03_LAC_KC,Martentoellner,75
 2021_03_LAC_KC,matt12oneil,100
 2021_03_LAC_KC,mattglen_,60
@@ -20083,7 +20083,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,maloney_jarrod,43
 2021_03_NO_NE,MarcRichards284,65
 2021_03_NO_NE,Market,58
-2021_03_NO_NE,marrodc02,40
+2021_03_NO_NE,marrodc,40
 2021_03_NO_NE,Martentoellner,57
 2021_03_NO_NE,matt12oneil,70
 2021_03_NO_NE,mattglen_,61
@@ -20242,8 +20242,8 @@ game_id,screen_name,prediction
 2021_03_NO_NE,YayySports,53
 2021_03_NO_NE,zackry_mc,100
 2021_03_NO_NE,zweinberg18,45
-2021_03_ATL_NYG,,50
 2021_03_ATL_NYG,,64
+2021_03_ATL_NYG,,50
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_DH44_,52
 2021_03_ATL_NYG,_jclemons,43
@@ -20458,7 +20458,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,maloney_jarrod,37
 2021_03_ATL_NYG,MarcRichards284,54
 2021_03_ATL_NYG,Market,57
-2021_03_ATL_NYG,marrodc02,45
+2021_03_ATL_NYG,marrodc,45
 2021_03_ATL_NYG,Martentoellner,60
 2021_03_ATL_NYG,matt12oneil,56
 2021_03_ATL_NYG,mattglen_,61
@@ -20833,7 +20833,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,maloney_jarrod,61
 2021_03_CIN_PIT,MarcRichards284,66
 2021_03_CIN_PIT,Market,57
-2021_03_CIN_PIT,marrodc02,70
+2021_03_CIN_PIT,marrodc,70
 2021_03_CIN_PIT,Martentoellner,55
 2021_03_CIN_PIT,matt12oneil,71
 2021_03_CIN_PIT,mattglen_,73
@@ -21208,7 +21208,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,maloney_jarrod,65
 2021_03_IND_TEN,MarcRichards284,65
 2021_03_IND_TEN,Market,65
-2021_03_IND_TEN,marrodc02,100
+2021_03_IND_TEN,marrodc,100
 2021_03_IND_TEN,Martentoellner,64
 2021_03_IND_TEN,matt12oneil,61
 2021_03_IND_TEN,mattglen_,74
@@ -21367,8 +21367,8 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,YayySports,60
 2021_03_IND_TEN,zackry_mc,50
 2021_03_IND_TEN,zweinberg18,62
-2021_03_NYJ_DEN,,50
 2021_03_NYJ_DEN,,100
+2021_03_NYJ_DEN,,50
 2021_03_NYJ_DEN,__DavidOfficial,80
 2021_03_NYJ_DEN,_DH44_,56
 2021_03_NYJ_DEN,_jclemons,65
@@ -21585,7 +21585,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,maloney_jarrod,80
 2021_03_NYJ_DEN,MarcRichards284,75
 2021_03_NYJ_DEN,Market,83
-2021_03_NYJ_DEN,marrodc02,100
+2021_03_NYJ_DEN,marrodc,100
 2021_03_NYJ_DEN,Martentoellner,78
 2021_03_NYJ_DEN,matt12oneil,91
 2021_03_NYJ_DEN,mattglen_,69
@@ -21964,7 +21964,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,maloney_jarrod,45
 2021_03_MIA_LV,MarcRichards284,62
 2021_03_MIA_LV,Market,64
-2021_03_MIA_LV,marrodc02,100
+2021_03_MIA_LV,marrodc,100
 2021_03_MIA_LV,Martentoellner,64
 2021_03_MIA_LV,matt12oneil,72
 2021_03_MIA_LV,mattglen_,86
@@ -22124,8 +22124,8 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
-2021_03_TB_LA,,41
 2021_03_TB_LA,,50
+2021_03_TB_LA,,41
 2021_03_TB_LA,__DavidOfficial,40
 2021_03_TB_LA,_DH44_,50
 2021_03_TB_LA,_jclemons,38
@@ -22343,7 +22343,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,maloney_jarrod,40
 2021_03_TB_LA,MarcRichards284,44
 2021_03_TB_LA,Market,50
-2021_03_TB_LA,marrodc02,32
+2021_03_TB_LA,marrodc,32
 2021_03_TB_LA,Martentoellner,45
 2021_03_TB_LA,matt12oneil,25
 2021_03_TB_LA,mattglen_,24
@@ -22722,7 +22722,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,maloney_jarrod,47
 2021_03_SEA_MIN,MarcRichards284,57
 2021_03_SEA_MIN,Market,47
-2021_03_SEA_MIN,marrodc02,66
+2021_03_SEA_MIN,marrodc,66
 2021_03_SEA_MIN,Martentoellner,40
 2021_03_SEA_MIN,matt12oneil,28
 2021_03_SEA_MIN,mattglen_,38
@@ -22882,8 +22882,8 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,YayySports,50
 2021_03_SEA_MIN,zackry_mc,50
 2021_03_SEA_MIN,zweinberg18,40
-2021_03_GB_SF,,65
 2021_03_GB_SF,,50
+2021_03_GB_SF,,65
 2021_03_GB_SF,__DavidOfficial,50
 2021_03_GB_SF,_DH44_,48
 2021_03_GB_SF,_jclemons,38
@@ -23102,7 +23102,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,maloney_jarrod,45
 2021_03_GB_SF,MarcRichards284,39
 2021_03_GB_SF,Market,63
-2021_03_GB_SF,marrodc02,74
+2021_03_GB_SF,marrodc,74
 2021_03_GB_SF,Martentoellner,60
 2021_03_GB_SF,matt12oneil,30
 2021_03_GB_SF,mattglen_,51
@@ -23491,7 +23491,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,maloney_jarrod,100
 2021_03_PHI_DAL,MarcRichards284,75
 2021_03_PHI_DAL,Market,64
-2021_03_PHI_DAL,marrodc02,100
+2021_03_PHI_DAL,marrodc,100
 2021_03_PHI_DAL,Martentoellner,60
 2021_03_PHI_DAL,matt12oneil,82
 2021_03_PHI_DAL,mattglen_,60
@@ -23864,7 +23864,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,MarcRichards284,67
 2021_04_JAX_CIN,Market,77
 2021_04_JAX_CIN,MarltonMike,71
-2021_04_JAX_CIN,marrodc02,100
+2021_04_JAX_CIN,marrodc,100
 2021_04_JAX_CIN,Martentoellner,76
 2021_04_JAX_CIN,matt12oneil,50
 2021_04_JAX_CIN,mattglen_,70
@@ -24239,7 +24239,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,MarcRichards284,52
 2021_04_WAS_ATL,Market,47
 2021_04_WAS_ATL,MarltonMike,46
-2021_04_WAS_ATL,marrodc02,37
+2021_04_WAS_ATL,marrodc,37
 2021_04_WAS_ATL,Martentoellner,45
 2021_04_WAS_ATL,matt12oneil,50
 2021_04_WAS_ATL,mattglen_,52
@@ -24631,7 +24631,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,MarcRichards284,99
 2021_04_HOU_BUF,Market,91
 2021_04_HOU_BUF,MarltonMike,92
-2021_04_HOU_BUF,marrodc02,100
+2021_04_HOU_BUF,marrodc,100
 2021_04_HOU_BUF,Martentoellner,92
 2021_04_HOU_BUF,matt12oneil,50
 2021_04_HOU_BUF,mattglen_,100
@@ -25023,7 +25023,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,MarcRichards284,61
 2021_04_DET_CHI,Market,58
 2021_04_DET_CHI,MarltonMike,49
-2021_04_DET_CHI,marrodc02,34
+2021_04_DET_CHI,marrodc,34
 2021_04_DET_CHI,Martentoellner,63
 2021_04_DET_CHI,matt12oneil,50
 2021_04_DET_CHI,mattglen_,42
@@ -25415,7 +25415,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,MarcRichards284,61
 2021_04_CAR_DAL,Market,66
 2021_04_CAR_DAL,MarltonMike,41
-2021_04_CAR_DAL,marrodc02,100
+2021_04_CAR_DAL,marrodc,100
 2021_04_CAR_DAL,Martentoellner,62
 2021_04_CAR_DAL,matt12oneil,50
 2021_04_CAR_DAL,mattglen_,60
@@ -25807,7 +25807,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,MarcRichards284,53
 2021_04_IND_MIA,Market,58
 2021_04_IND_MIA,MarltonMike,48
-2021_04_IND_MIA,marrodc02,59
+2021_04_IND_MIA,marrodc,59
 2021_04_IND_MIA,Martentoellner,55
 2021_04_IND_MIA,matt12oneil,50
 2021_04_IND_MIA,mattglen_,60
@@ -26199,7 +26199,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,MarcRichards284,60
 2021_04_CLE_MIN,Market,50
 2021_04_CLE_MIN,MarltonMike,56
-2021_04_CLE_MIN,marrodc02,31
+2021_04_CLE_MIN,marrodc,31
 2021_04_CLE_MIN,Martentoellner,43
 2021_04_CLE_MIN,matt12oneil,50
 2021_04_CLE_MIN,mattglen_,55
@@ -26591,7 +26591,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,MarcRichards284,70
 2021_04_NYG_NO,Market,75
 2021_04_NYG_NO,MarltonMike,57
-2021_04_NYG_NO,marrodc02,80
+2021_04_NYG_NO,marrodc,80
 2021_04_NYG_NO,Martentoellner,75
 2021_04_NYG_NO,matt12oneil,50
 2021_04_NYG_NO,mattglen_,55
@@ -26983,7 +26983,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,MarcRichards284,26
 2021_04_TEN_NYJ,Market,32
 2021_04_TEN_NYJ,MarltonMike,60
-2021_04_TEN_NYJ,marrodc02,31
+2021_04_TEN_NYJ,marrodc,31
 2021_04_TEN_NYJ,Martentoellner,27
 2021_04_TEN_NYJ,matt12oneil,50
 2021_04_TEN_NYJ,mattglen_,0
@@ -27375,7 +27375,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,MarcRichards284,1
 2021_04_KC_PHI,Market,25
 2021_04_KC_PHI,MarltonMike,25
-2021_04_KC_PHI,marrodc02,0
+2021_04_KC_PHI,marrodc,0
 2021_04_KC_PHI,Martentoellner,26
 2021_04_KC_PHI,matt12oneil,50
 2021_04_KC_PHI,mattglen_,0
@@ -27768,7 +27768,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,MarcRichards284,63
 2021_04_ARI_LA,Market,65
 2021_04_ARI_LA,MarltonMike,55
-2021_04_ARI_LA,marrodc02,75
+2021_04_ARI_LA,marrodc,75
 2021_04_ARI_LA,Martentoellner,61
 2021_04_ARI_LA,matt12oneil,50
 2021_04_ARI_LA,mattglen_,70
@@ -28164,7 +28164,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,MarcRichards284,47
 2021_04_SEA_SF,Market,56
 2021_04_SEA_SF,MarltonMike,62
-2021_04_SEA_SF,marrodc02,31
+2021_04_SEA_SF,marrodc,31
 2021_04_SEA_SF,Martentoellner,55
 2021_04_SEA_SF,matt12oneil,50
 2021_04_SEA_SF,mattglen_,41
@@ -28562,7 +28562,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,MarcRichards284,43
 2021_04_BAL_DEN,Market,53
 2021_04_BAL_DEN,MarltonMike,56
-2021_04_BAL_DEN,marrodc02,31
+2021_04_BAL_DEN,marrodc,31
 2021_04_BAL_DEN,Martentoellner,50
 2021_04_BAL_DEN,matt12oneil,50
 2021_04_BAL_DEN,mattglen_,30
@@ -28960,7 +28960,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,MarcRichards284,78
 2021_04_PIT_GB,Market,71
 2021_04_PIT_GB,MarltonMike,79
-2021_04_PIT_GB,marrodc02,100
+2021_04_PIT_GB,marrodc,100
 2021_04_PIT_GB,Martentoellner,73
 2021_04_PIT_GB,matt12oneil,50
 2021_04_PIT_GB,mattglen_,100
@@ -29359,7 +29359,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,MarcRichards284,34
 2021_04_TB_NE,Market,30
 2021_04_TB_NE,MarltonMike,27
-2021_04_TB_NE,marrodc02,0
+2021_04_TB_NE,marrodc,0
 2021_04_TB_NE,Martentoellner,28
 2021_04_TB_NE,matt12oneil,50
 2021_04_TB_NE,mattglen_,0
@@ -29765,7 +29765,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,MarcRichards284,64
 2021_04_LV_LAC,Market,60
 2021_04_LV_LAC,MarltonMike,43
-2021_04_LV_LAC,marrodc02,61
+2021_04_LV_LAC,marrodc,61
 2021_04_LV_LAC,Martentoellner,58
 2021_04_LV_LAC,matt12oneil,50
 2021_04_LV_LAC,mattglen_,70
@@ -30141,7 +30141,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,manalytics3,45
 2021_05_LA_SEA,MarcRichards284,50
 2021_05_LA_SEA,Market,44
-2021_05_LA_SEA,marrodc02,55
+2021_05_LA_SEA,marrodc,55
 2021_05_LA_SEA,Martentoellner,43
 2021_05_LA_SEA,mattglen_,55
 2021_05_LA_SEA,MattGullotta,50
@@ -30507,7 +30507,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,manalytics3,57
 2021_05_NYJ_ATL,MarcRichards284,50
 2021_05_NYJ_ATL,Market,59
-2021_05_NYJ_ATL,marrodc02,54
+2021_05_NYJ_ATL,marrodc,54
 2021_05_NYJ_ATL,Martentoellner,56
 2021_05_NYJ_ATL,mattglen_,55
 2021_05_NYJ_ATL,MattGullotta,46
@@ -30882,7 +30882,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,manalytics3,58
 2021_05_PHI_CAR,MarcRichards284,55
 2021_05_PHI_CAR,Market,57
-2021_05_PHI_CAR,marrodc02,80
+2021_05_PHI_CAR,marrodc,80
 2021_05_PHI_CAR,Martentoellner,61
 2021_05_PHI_CAR,mattglen_,64
 2021_05_PHI_CAR,MattGullotta,53
@@ -31260,7 +31260,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,manalytics3,25
 2021_05_GB_CIN,MarcRichards284,33
 2021_05_GB_CIN,Market,46
-2021_05_GB_CIN,marrodc02,25
+2021_05_GB_CIN,marrodc,25
 2021_05_GB_CIN,Martentoellner,42
 2021_05_GB_CIN,mattglen_,28
 2021_05_GB_CIN,MattGullotta,31
@@ -31638,7 +31638,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,manalytics3,0
 2021_05_NE_HOU,MarcRichards284,22
 2021_05_NE_HOU,Market,25
-2021_05_NE_HOU,marrodc02,0
+2021_05_NE_HOU,marrodc,0
 2021_05_NE_HOU,Martentoellner,26
 2021_05_NE_HOU,mattglen_,55
 2021_05_NE_HOU,MattGullotta,37
@@ -32016,7 +32016,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,manalytics3,0
 2021_05_TEN_JAX,MarcRichards284,42
 2021_05_TEN_JAX,Market,36
-2021_05_TEN_JAX,marrodc02,40
+2021_05_TEN_JAX,marrodc,40
 2021_05_TEN_JAX,Martentoellner,31
 2021_05_TEN_JAX,mattglen_,26
 2021_05_TEN_JAX,MattGullotta,25
@@ -32393,7 +32393,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,manalytics3,63
 2021_05_DET_MIN,MarcRichards284,91
 2021_05_DET_MIN,Market,79
-2021_05_DET_MIN,marrodc02,80
+2021_05_DET_MIN,marrodc,80
 2021_05_DET_MIN,Martentoellner,79
 2021_05_DET_MIN,mattglen_,84
 2021_05_DET_MIN,MattGullotta,67
@@ -32771,7 +32771,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,manalytics3,52
 2021_05_DEN_PIT,MarcRichards284,59
 2021_05_DEN_PIT,Market,46
-2021_05_DEN_PIT,marrodc02,25
+2021_05_DEN_PIT,marrodc,25
 2021_05_DEN_PIT,Martentoellner,46
 2021_05_DEN_PIT,mattglen_,61
 2021_05_DEN_PIT,MattGullotta,45
@@ -33148,7 +33148,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,manalytics3,65
 2021_05_MIA_TB,MarcRichards284,71
 2021_05_MIA_TB,Market,84
-2021_05_MIA_TB,marrodc02,100
+2021_05_MIA_TB,marrodc,100
 2021_05_MIA_TB,Martentoellner,82
 2021_05_MIA_TB,mattglen_,91
 2021_05_MIA_TB,MattGullotta,75
@@ -33526,7 +33526,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,manalytics3,27
 2021_05_NO_WAS,MarcRichards284,52
 2021_05_NO_WAS,Market,45
-2021_05_NO_WAS,marrodc02,30
+2021_05_NO_WAS,marrodc,30
 2021_05_NO_WAS,Martentoellner,39
 2021_05_NO_WAS,mattglen_,48
 2021_05_NO_WAS,MattGullotta,39
@@ -33906,7 +33906,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,manalytics3,45
 2021_05_CLE_LAC,MarcRichards284,55
 2021_05_CLE_LAC,Market,55
-2021_05_CLE_LAC,marrodc02,65
+2021_05_CLE_LAC,marrodc,65
 2021_05_CLE_LAC,Martentoellner,55
 2021_05_CLE_LAC,mattglen_,50
 2021_05_CLE_LAC,MattGullotta,41
@@ -34288,7 +34288,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,manalytics3,80
 2021_05_CHI_LV,MarcRichards284,62
 2021_05_CHI_LV,Market,69
-2021_05_CHI_LV,marrodc02,81
+2021_05_CHI_LV,marrodc,81
 2021_05_CHI_LV,Martentoellner,67
 2021_05_CHI_LV,mattglen_,76
 2021_05_CHI_LV,MattGullotta,56
@@ -34670,7 +34670,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,manalytics3,61
 2021_05_SF_ARI,MarcRichards284,65
 2021_05_SF_ARI,Market,71
-2021_05_SF_ARI,marrodc02,79
+2021_05_SF_ARI,marrodc,79
 2021_05_SF_ARI,Martentoellner,66
 2021_05_SF_ARI,mattglen_,78
 2021_05_SF_ARI,MattGullotta,60
@@ -35052,7 +35052,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,manalytics3,68
 2021_05_NYG_DAL,MarcRichards284,69
 2021_05_NYG_DAL,Market,75
-2021_05_NYG_DAL,marrodc02,100
+2021_05_NYG_DAL,marrodc,100
 2021_05_NYG_DAL,Martentoellner,71
 2021_05_NYG_DAL,mattglen_,49
 2021_05_NYG_DAL,MattGullotta,59
@@ -35435,7 +35435,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,manalytics3,45
 2021_05_BUF_KC,MarcRichards284,60
 2021_05_BUF_KC,Market,56
-2021_05_BUF_KC,marrodc02,71
+2021_05_BUF_KC,marrodc,71
 2021_05_BUF_KC,Martentoellner,58
 2021_05_BUF_KC,mattglen_,60
 2021_05_BUF_KC,MattGullotta,39
@@ -35824,7 +35824,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,manalytics3,59
 2021_05_IND_BAL,MarcRichards284,72
 2021_05_IND_BAL,Market,76
-2021_05_IND_BAL,marrodc02,100
+2021_05_IND_BAL,marrodc,100
 2021_05_IND_BAL,Martentoellner,71
 2021_05_IND_BAL,mattglen_,100
 2021_05_IND_BAL,MattGullotta,65
@@ -36185,7 +36185,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,MarcBRobertson,20
 2021_06_TB_PHI,MarcRichards284,50
 2021_06_TB_PHI,Market,29
-2021_06_TB_PHI,marrodc02,37
+2021_06_TB_PHI,marrodc,37
 2021_06_TB_PHI,Martentoellner,26
 2021_06_TB_PHI,mattglen_,0
 2021_06_TB_PHI,MattGullotta,36
@@ -36522,7 +36522,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,MarcBRobertson,42
 2021_06_MIA_JAX,MarcRichards284,53
 2021_06_MIA_JAX,Market,25
-2021_06_MIA_JAX,marrodc02,40
+2021_06_MIA_JAX,marrodc,40
 2021_06_MIA_JAX,Martentoellner,36
 2021_06_MIA_JAX,mattglen_,27
 2021_06_MIA_JAX,MattGullotta,47
