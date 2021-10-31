@@ -587,6 +587,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,TommyPraeger,64
 2021_01_DAL_TB,TomRagaert,68
 2021_01_DAL_TB,TonyElHabr,64
+2021_01_DAL_TB,tonyzanatian,93
 2021_01_DAL_TB,TorrenceA1,69
 2021_01_DAL_TB,Trembsebnfl,73
 2021_01_DAL_TB,TreyDrums,90
@@ -601,7 +602,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,Ty_the_risk_guy,75
 2021_01_DAL_TB,tylashley23,73
 2021_01_DAL_TB,TyW2288,61
-2021_01_DAL_TB,tzanatian51,93
 2021_01_DAL_TB,ukbradc,80
 2021_01_DAL_TB,Unmalkicker,50
 2021_01_DAL_TB,v3lardy,100
@@ -1259,6 +1259,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,TommyPraeger,41
 2021_01_PHI_ATL,TomRagaert,77
 2021_01_PHI_ATL,TonyElHabr,59
+2021_01_PHI_ATL,tonyzanatian,61
 2021_01_PHI_ATL,TorrenceA1,60
 2021_01_PHI_ATL,Trembsebnfl,52
 2021_01_PHI_ATL,TreyDrums,76
@@ -1273,7 +1274,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,Ty_the_risk_guy,65
 2021_01_PHI_ATL,tylashley23,55
 2021_01_PHI_ATL,TyW2288,69
-2021_01_PHI_ATL,tzanatian51,61
 2021_01_PHI_ATL,ukbradc,46
 2021_01_PHI_ATL,Unmalkicker,50
 2021_01_PHI_ATL,v3lardy,100
@@ -1932,6 +1932,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,TommyPraeger,71
 2021_01_PIT_BUF,TomRagaert,81
 2021_01_PIT_BUF,TonyElHabr,66
+2021_01_PIT_BUF,tonyzanatian,60
 2021_01_PIT_BUF,TorrenceA1,66
 2021_01_PIT_BUF,Trembsebnfl,76
 2021_01_PIT_BUF,TreyDrums,62
@@ -1946,7 +1947,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,Ty_the_risk_guy,70
 2021_01_PIT_BUF,tylashley23,64
 2021_01_PIT_BUF,TyW2288,83
-2021_01_PIT_BUF,tzanatian51,60
 2021_01_PIT_BUF,ukbradc,75
 2021_01_PIT_BUF,Unmalkicker,50
 2021_01_PIT_BUF,v3lardy,100
@@ -2605,6 +2605,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,TommyPraeger,52
 2021_01_NYJ_CAR,TomRagaert,34
 2021_01_NYJ_CAR,TonyElHabr,45
+2021_01_NYJ_CAR,tonyzanatian,45
 2021_01_NYJ_CAR,TorrenceA1,66
 2021_01_NYJ_CAR,Trembsebnfl,44
 2021_01_NYJ_CAR,TreyDrums,77
@@ -2619,7 +2620,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,Ty_the_risk_guy,65
 2021_01_NYJ_CAR,tylashley23,79
 2021_01_NYJ_CAR,TyW2288,50
-2021_01_NYJ_CAR,tzanatian51,45
 2021_01_NYJ_CAR,ukbradc,64
 2021_01_NYJ_CAR,Unmalkicker,50
 2021_01_NYJ_CAR,v3lardy,100
@@ -3278,6 +3278,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,TommyPraeger,43
 2021_01_MIN_CIN,TomRagaert,41
 2021_01_MIN_CIN,TonyElHabr,57
+2021_01_MIN_CIN,tonyzanatian,35
 2021_01_MIN_CIN,TorrenceA1,38
 2021_01_MIN_CIN,Trembsebnfl,44
 2021_01_MIN_CIN,TreyDrums,11
@@ -3292,7 +3293,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,Ty_the_risk_guy,35
 2021_01_MIN_CIN,tylashley23,30
 2021_01_MIN_CIN,TyW2288,39
-2021_01_MIN_CIN,tzanatian51,35
 2021_01_MIN_CIN,ukbradc,56
 2021_01_MIN_CIN,Unmalkicker,50
 2021_01_MIN_CIN,v3lardy,0
@@ -3951,6 +3951,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,TommyPraeger,30
 2021_01_SF_DET,TomRagaert,15
 2021_01_SF_DET,TonyElHabr,34
+2021_01_SF_DET,tonyzanatian,0
 2021_01_SF_DET,TorrenceA1,27
 2021_01_SF_DET,Trembsebnfl,29
 2021_01_SF_DET,TreyDrums,0
@@ -3965,7 +3966,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,Ty_the_risk_guy,30
 2021_01_SF_DET,tylashley23,9
 2021_01_SF_DET,TyW2288,8
-2021_01_SF_DET,tzanatian51,0
 2021_01_SF_DET,ukbradc,26
 2021_01_SF_DET,Unmalkicker,50
 2021_01_SF_DET,v3lardy,0
@@ -4624,6 +4624,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,TommyPraeger,35
 2021_01_JAX_HOU,TomRagaert,35
 2021_01_JAX_HOU,TonyElHabr,44
+2021_01_JAX_HOU,tonyzanatian,10
 2021_01_JAX_HOU,TorrenceA1,53
 2021_01_JAX_HOU,Trembsebnfl,32
 2021_01_JAX_HOU,TreyDrums,26
@@ -4638,7 +4639,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,Ty_the_risk_guy,40
 2021_01_JAX_HOU,tylashley23,34
 2021_01_JAX_HOU,TyW2288,37
-2021_01_JAX_HOU,tzanatian51,10
 2021_01_JAX_HOU,ukbradc,35
 2021_01_JAX_HOU,Unmalkicker,50
 2021_01_JAX_HOU,v3lardy,0
@@ -5297,6 +5297,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,TommyPraeger,46
 2021_01_SEA_IND,TomRagaert,41
 2021_01_SEA_IND,TonyElHabr,52
+2021_01_SEA_IND,tonyzanatian,20
 2021_01_SEA_IND,TorrenceA1,43
 2021_01_SEA_IND,Trembsebnfl,61
 2021_01_SEA_IND,TreyDrums,14
@@ -5311,7 +5312,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,Ty_the_risk_guy,35
 2021_01_SEA_IND,tylashley23,41
 2021_01_SEA_IND,TyW2288,50
-2021_01_SEA_IND,tzanatian51,20
 2021_01_SEA_IND,ukbradc,35
 2021_01_SEA_IND,Unmalkicker,50
 2021_01_SEA_IND,v3lardy,0
@@ -5970,6 +5970,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,TommyPraeger,59
 2021_01_ARI_TEN,TomRagaert,62
 2021_01_ARI_TEN,TonyElHabr,42
+2021_01_ARI_TEN,tonyzanatian,55
 2021_01_ARI_TEN,TorrenceA1,56
 2021_01_ARI_TEN,Trembsebnfl,62
 2021_01_ARI_TEN,TreyDrums,68
@@ -5984,7 +5985,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,Ty_the_risk_guy,65
 2021_01_ARI_TEN,tylashley23,63
 2021_01_ARI_TEN,TyW2288,71
-2021_01_ARI_TEN,tzanatian51,55
 2021_01_ARI_TEN,ukbradc,45
 2021_01_ARI_TEN,Unmalkicker,50
 2021_01_ARI_TEN,v3lardy,0
@@ -6643,6 +6643,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,TommyPraeger,57
 2021_01_LAC_WAS,TomRagaert,34
 2021_01_LAC_WAS,TonyElHabr,47
+2021_01_LAC_WAS,tonyzanatian,40
 2021_01_LAC_WAS,TorrenceA1,45
 2021_01_LAC_WAS,Trembsebnfl,34
 2021_01_LAC_WAS,TreyDrums,65
@@ -6657,7 +6658,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,Ty_the_risk_guy,65
 2021_01_LAC_WAS,tylashley23,42
 2021_01_LAC_WAS,TyW2288,47
-2021_01_LAC_WAS,tzanatian51,40
 2021_01_LAC_WAS,ukbradc,60
 2021_01_LAC_WAS,Unmalkicker,50
 2021_01_LAC_WAS,v3lardy,100
@@ -7316,6 +7316,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,TommyPraeger,62
 2021_01_CLE_KC,TomRagaert,69
 2021_01_CLE_KC,TonyElHabr,64
+2021_01_CLE_KC,tonyzanatian,75
 2021_01_CLE_KC,TorrenceA1,62
 2021_01_CLE_KC,Trembsebnfl,69
 2021_01_CLE_KC,TreyDrums,100
@@ -7330,7 +7331,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,Ty_the_risk_guy,65
 2021_01_CLE_KC,tylashley23,57
 2021_01_CLE_KC,TyW2288,75
-2021_01_CLE_KC,tzanatian51,75
 2021_01_CLE_KC,ukbradc,45
 2021_01_CLE_KC,Unmalkicker,50
 2021_01_CLE_KC,v3lardy,100
@@ -7989,6 +7989,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,TommyPraeger,53
 2021_01_MIA_NE,TomRagaert,44
 2021_01_MIA_NE,TonyElHabr,45
+2021_01_MIA_NE,tonyzanatian,69
 2021_01_MIA_NE,TorrenceA1,41
 2021_01_MIA_NE,Trembsebnfl,38
 2021_01_MIA_NE,TreyDrums,69
@@ -8003,7 +8004,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,Ty_the_risk_guy,55
 2021_01_MIA_NE,tylashley23,40
 2021_01_MIA_NE,TyW2288,47
-2021_01_MIA_NE,tzanatian51,69
 2021_01_MIA_NE,ukbradc,45
 2021_01_MIA_NE,Unmalkicker,50
 2021_01_MIA_NE,v3lardy,100
@@ -8662,6 +8662,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,TommyPraeger,41
 2021_01_GB_NO,TomRagaert,29
 2021_01_GB_NO,TonyElHabr,46
+2021_01_GB_NO,tonyzanatian,13
 2021_01_GB_NO,TorrenceA1,39
 2021_01_GB_NO,Trembsebnfl,62
 2021_01_GB_NO,TreyDrums,30
@@ -8676,7 +8677,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,Ty_the_risk_guy,25
 2021_01_GB_NO,tylashley23,34
 2021_01_GB_NO,TyW2288,35
-2021_01_GB_NO,tzanatian51,13
 2021_01_GB_NO,ukbradc,35
 2021_01_GB_NO,Unmalkicker,50
 2021_01_GB_NO,v3lardy,0
@@ -9335,6 +9335,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,TommyPraeger,45
 2021_01_DEN_NYG,TomRagaert,54
 2021_01_DEN_NYG,TonyElHabr,53
+2021_01_DEN_NYG,tonyzanatian,20
 2021_01_DEN_NYG,TorrenceA1,44
 2021_01_DEN_NYG,Trembsebnfl,44
 2021_01_DEN_NYG,TreyDrums,14
@@ -9349,7 +9350,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,Ty_the_risk_guy,36
 2021_01_DEN_NYG,tylashley23,45
 2021_01_DEN_NYG,TyW2288,49
-2021_01_DEN_NYG,tzanatian51,20
 2021_01_DEN_NYG,ukbradc,40
 2021_01_DEN_NYG,Unmalkicker,50
 2021_01_DEN_NYG,v3lardy,100
@@ -10010,6 +10010,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,TommyPraeger,78
 2021_01_CHI_LA,TomRagaert,68
 2021_01_CHI_LA,TonyElHabr,57
+2021_01_CHI_LA,tonyzanatian,85
 2021_01_CHI_LA,TorrenceA1,62
 2021_01_CHI_LA,Trembsebnfl,44
 2021_01_CHI_LA,TreyDrums,75
@@ -10024,7 +10025,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,Ty_the_risk_guy,70
 2021_01_CHI_LA,tylashley23,78
 2021_01_CHI_LA,TyW2288,89
-2021_01_CHI_LA,tzanatian51,85
 2021_01_CHI_LA,ukbradc,90
 2021_01_CHI_LA,Unmalkicker,50
 2021_01_CHI_LA,v3lardy,100
@@ -10710,6 +10710,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,TommyPraeger,38
 2021_01_BAL_LV,TomRagaert,21
 2021_01_BAL_LV,TonyElHabr,57
+2021_01_BAL_LV,tonyzanatian,25
 2021_01_BAL_LV,TorrenceA1,35
 2021_01_BAL_LV,TradeTheTulips,0
 2021_01_BAL_LV,Trembsebnfl,36
@@ -10725,7 +10726,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,Ty_the_risk_guy,25
 2021_01_BAL_LV,tylashley23,31
 2021_01_BAL_LV,TyW2288,42
-2021_01_BAL_LV,tzanatian51,25
 2021_01_BAL_LV,ukbradc,45
 2021_01_BAL_LV,Unmalkicker,50
 2021_01_BAL_LV,v3lardy,0
@@ -11112,6 +11112,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,TommyJGregory,50
 2021_02_NYG_WAS,TommyPraeger,55
 2021_02_NYG_WAS,TomRagaert,64
+2021_02_NYG_WAS,tonyzanatian,69
 2021_02_NYG_WAS,TrevonDiggsStan,100
 2021_02_NYG_WAS,triceruhtops,86
 2021_02_NYG_WAS,tristankuehn,52
@@ -11121,7 +11122,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,Tucker_TnL,50
 2021_02_NYG_WAS,tutestheking,75
 2021_02_NYG_WAS,Ty_the_risk_guy,70
-2021_02_NYG_WAS,tzanatian51,69
 2021_02_NYG_WAS,tziporra_simcha,63
 2021_02_NYG_WAS,ukbradc,58
 2021_02_NYG_WAS,v3lardy,100
@@ -11541,6 +11541,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,TommyJGregory,50
 2021_02_NO_CAR,TommyPraeger,43
 2021_02_NO_CAR,TomRagaert,41
+2021_02_NO_CAR,tonyzanatian,50
 2021_02_NO_CAR,TrevonDiggsStan,0
 2021_02_NO_CAR,triceruhtops,45
 2021_02_NO_CAR,tristankuehn,36
@@ -11550,7 +11551,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,Tucker_TnL,50
 2021_02_NO_CAR,tutestheking,26
 2021_02_NO_CAR,Ty_the_risk_guy,35
-2021_02_NO_CAR,tzanatian51,50
 2021_02_NO_CAR,tziporra_simcha,36
 2021_02_NO_CAR,ukbradc,38
 2021_02_NO_CAR,v3lardy,0
@@ -11974,6 +11974,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,TommyJGregory,50
 2021_02_CIN_CHI,TommyPraeger,44
 2021_02_CIN_CHI,TomRagaert,46
+2021_02_CIN_CHI,tonyzanatian,45
 2021_02_CIN_CHI,TrevonDiggsStan,47
 2021_02_CIN_CHI,triceruhtops,38
 2021_02_CIN_CHI,tristankuehn,56
@@ -11983,7 +11984,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,Tucker_TnL,50
 2021_02_CIN_CHI,tutestheking,35
 2021_02_CIN_CHI,Ty_the_risk_guy,35
-2021_02_CIN_CHI,tzanatian51,45
 2021_02_CIN_CHI,tziporra_simcha,58
 2021_02_CIN_CHI,ukbradc,49
 2021_02_CIN_CHI,v3lardy,0
@@ -12407,6 +12407,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,TommyJGregory,50
 2021_02_HOU_CLE,TommyPraeger,82
 2021_02_HOU_CLE,TomRagaert,89
+2021_02_HOU_CLE,tonyzanatian,95
 2021_02_HOU_CLE,TrevonDiggsStan,76
 2021_02_HOU_CLE,triceruhtops,90
 2021_02_HOU_CLE,tristankuehn,84
@@ -12416,7 +12417,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,Tucker_TnL,50
 2021_02_HOU_CLE,tutestheking,100
 2021_02_HOU_CLE,Ty_the_risk_guy,85
-2021_02_HOU_CLE,tzanatian51,95
 2021_02_HOU_CLE,tziporra_simcha,83
 2021_02_HOU_CLE,ukbradc,100
 2021_02_HOU_CLE,v3lardy,100
@@ -12840,6 +12840,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,TommyJGregory,50
 2021_02_LA_IND,TommyPraeger,35
 2021_02_LA_IND,TomRagaert,29
+2021_02_LA_IND,tonyzanatian,30
 2021_02_LA_IND,TrevonDiggsStan,40
 2021_02_LA_IND,triceruhtops,24
 2021_02_LA_IND,tristankuehn,36
@@ -12849,7 +12850,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,Tucker_TnL,50
 2021_02_LA_IND,tutestheking,33
 2021_02_LA_IND,Ty_the_risk_guy,40
-2021_02_LA_IND,tzanatian51,30
 2021_02_LA_IND,tziporra_simcha,37
 2021_02_LA_IND,ukbradc,41
 2021_02_LA_IND,v3lardy,0
@@ -13273,6 +13273,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,TommyJGregory,50
 2021_02_DEN_JAX,TommyPraeger,32
 2021_02_DEN_JAX,TomRagaert,29
+2021_02_DEN_JAX,tonyzanatian,19
 2021_02_DEN_JAX,TrevonDiggsStan,43
 2021_02_DEN_JAX,triceruhtops,9
 2021_02_DEN_JAX,tristankuehn,30
@@ -13282,7 +13283,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,Tucker_TnL,50
 2021_02_DEN_JAX,tutestheking,44
 2021_02_DEN_JAX,Ty_the_risk_guy,30
-2021_02_DEN_JAX,tzanatian51,19
 2021_02_DEN_JAX,tziporra_simcha,31
 2021_02_DEN_JAX,ukbradc,25
 2021_02_DEN_JAX,v3lardy,0
@@ -13706,6 +13706,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,TommyJGregory,50
 2021_02_BUF_MIA,TommyPraeger,45
 2021_02_BUF_MIA,TomRagaert,60
+2021_02_BUF_MIA,tonyzanatian,50
 2021_02_BUF_MIA,TrevonDiggsStan,42
 2021_02_BUF_MIA,triceruhtops,31
 2021_02_BUF_MIA,tristankuehn,38
@@ -13715,7 +13716,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,Tucker_TnL,50
 2021_02_BUF_MIA,tutestheking,32
 2021_02_BUF_MIA,Ty_the_risk_guy,40
-2021_02_BUF_MIA,tzanatian51,50
 2021_02_BUF_MIA,tziporra_simcha,37
 2021_02_BUF_MIA,ukbradc,37
 2021_02_BUF_MIA,v3lardy,0
@@ -14139,6 +14139,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,TommyJGregory,50
 2021_02_NE_NYJ,TommyPraeger,29
 2021_02_NE_NYJ,TomRagaert,28
+2021_02_NE_NYJ,tonyzanatian,5
 2021_02_NE_NYJ,TrevonDiggsStan,24
 2021_02_NE_NYJ,triceruhtops,28
 2021_02_NE_NYJ,tristankuehn,38
@@ -14148,7 +14149,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,Tucker_TnL,50
 2021_02_NE_NYJ,tutestheking,34
 2021_02_NE_NYJ,Ty_the_risk_guy,30
-2021_02_NE_NYJ,tzanatian51,5
 2021_02_NE_NYJ,tziporra_simcha,30
 2021_02_NE_NYJ,ukbradc,40
 2021_02_NE_NYJ,v3lardy,0
@@ -14572,6 +14572,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,TommyJGregory,50
 2021_02_SF_PHI,TommyPraeger,44
 2021_02_SF_PHI,TomRagaert,39
+2021_02_SF_PHI,tonyzanatian,35
 2021_02_SF_PHI,TrevonDiggsStan,46
 2021_02_SF_PHI,triceruhtops,56
 2021_02_SF_PHI,tristankuehn,38
@@ -14581,7 +14582,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,Tucker_TnL,50
 2021_02_SF_PHI,tutestheking,33
 2021_02_SF_PHI,Ty_the_risk_guy,40
-2021_02_SF_PHI,tzanatian51,35
 2021_02_SF_PHI,tziporra_simcha,38
 2021_02_SF_PHI,ukbradc,50
 2021_02_SF_PHI,v3lardy,0
@@ -15005,6 +15005,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,TommyJGregory,50
 2021_02_LV_PIT,TommyPraeger,56
 2021_02_LV_PIT,TomRagaert,59
+2021_02_LV_PIT,tonyzanatian,57
 2021_02_LV_PIT,TrevonDiggsStan,47
 2021_02_LV_PIT,triceruhtops,64
 2021_02_LV_PIT,tristankuehn,55
@@ -15014,7 +15015,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,Tucker_TnL,50
 2021_02_LV_PIT,tutestheking,59
 2021_02_LV_PIT,Ty_the_risk_guy,65
-2021_02_LV_PIT,tzanatian51,57
 2021_02_LV_PIT,tziporra_simcha,69
 2021_02_LV_PIT,ukbradc,60
 2021_02_LV_PIT,v3lardy,100
@@ -15439,6 +15439,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,TommyJGregory,50
 2021_02_MIN_ARI,TommyPraeger,58
 2021_02_MIN_ARI,TomRagaert,69
+2021_02_MIN_ARI,tonyzanatian,86
 2021_02_MIN_ARI,TrevonDiggsStan,71
 2021_02_MIN_ARI,triceruhtops,87
 2021_02_MIN_ARI,tristankuehn,65
@@ -15448,7 +15449,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,Tucker_TnL,50
 2021_02_MIN_ARI,tutestheking,58
 2021_02_MIN_ARI,Ty_the_risk_guy,65
-2021_02_MIN_ARI,tzanatian51,86
 2021_02_MIN_ARI,tziporra_simcha,66
 2021_02_MIN_ARI,ukbradc,75
 2021_02_MIN_ARI,v3lardy,100
@@ -15873,6 +15873,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,TommyJGregory,50
 2021_02_ATL_TB,TommyPraeger,78
 2021_02_ATL_TB,TomRagaert,88
+2021_02_ATL_TB,tonyzanatian,95
 2021_02_ATL_TB,TrevonDiggsStan,100
 2021_02_ATL_TB,triceruhtops,100
 2021_02_ATL_TB,tristankuehn,80
@@ -15882,7 +15883,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,Tucker_TnL,50
 2021_02_ATL_TB,tutestheking,72
 2021_02_ATL_TB,Ty_the_risk_guy,85
-2021_02_ATL_TB,tzanatian51,95
 2021_02_ATL_TB,tziporra_simcha,85
 2021_02_ATL_TB,ukbradc,100
 2021_02_ATL_TB,v3lardy,100
@@ -16307,6 +16307,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,TommyJGregory,50
 2021_02_DAL_LAC,TommyPraeger,49
 2021_02_DAL_LAC,TomRagaert,70
+2021_02_DAL_LAC,tonyzanatian,57
 2021_02_DAL_LAC,TrevonDiggsStan,51
 2021_02_DAL_LAC,triceruhtops,22
 2021_02_DAL_LAC,tristankuehn,41
@@ -16316,7 +16317,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,Tucker_TnL,50
 2021_02_DAL_LAC,tutestheking,39
 2021_02_DAL_LAC,Ty_the_risk_guy,64
-2021_02_DAL_LAC,tzanatian51,57
 2021_02_DAL_LAC,tziporra_simcha,59
 2021_02_DAL_LAC,ukbradc,40
 2021_02_DAL_LAC,v3lardy,0
@@ -16741,6 +16741,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,TommyJGregory,50
 2021_02_TEN_SEA,TommyPraeger,64
 2021_02_TEN_SEA,TomRagaert,60
+2021_02_TEN_SEA,tonyzanatian,45
 2021_02_TEN_SEA,TrevonDiggsStan,59
 2021_02_TEN_SEA,triceruhtops,86
 2021_02_TEN_SEA,tristankuehn,68
@@ -16750,7 +16751,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,Tucker_TnL,50
 2021_02_TEN_SEA,tutestheking,88
 2021_02_TEN_SEA,Ty_the_risk_guy,70
-2021_02_TEN_SEA,tzanatian51,45
 2021_02_TEN_SEA,tziporra_simcha,69
 2021_02_TEN_SEA,ukbradc,75
 2021_02_TEN_SEA,v3lardy,100
@@ -17175,6 +17175,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,TommyJGregory,50
 2021_02_KC_BAL,TommyPraeger,42
 2021_02_KC_BAL,TomRagaert,2
+2021_02_KC_BAL,tonyzanatian,20
 2021_02_KC_BAL,TrevonDiggsStan,31
 2021_02_KC_BAL,triceruhtops,0
 2021_02_KC_BAL,tristankuehn,35
@@ -17184,7 +17185,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,Tucker_TnL,50
 2021_02_KC_BAL,tutestheking,39
 2021_02_KC_BAL,Ty_the_risk_guy,30
-2021_02_KC_BAL,tzanatian51,20
 2021_02_KC_BAL,tziporra_simcha,36
 2021_02_KC_BAL,ukbradc,25
 2021_02_KC_BAL,v3lardy,0
@@ -17609,6 +17609,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,TommyJGregory,50
 2021_02_DET_GB,TommyPraeger,78
 2021_02_DET_GB,TomRagaert,61
+2021_02_DET_GB,tonyzanatian,95
 2021_02_DET_GB,TrevonDiggsStan,67
 2021_02_DET_GB,triceruhtops,88
 2021_02_DET_GB,tristankuehn,74
@@ -17618,7 +17619,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,Tucker_TnL,50
 2021_02_DET_GB,tutestheking,100
 2021_02_DET_GB,Ty_the_risk_guy,60
-2021_02_DET_GB,tzanatian51,95
 2021_02_DET_GB,tziporra_simcha,81
 2021_02_DET_GB,ukbradc,65
 2021_02_DET_GB,v3lardy,100
@@ -17961,12 +17961,12 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,tommcquillin1,35
 2021_03_CAR_HOU,TommyPraeger,22
 2021_03_CAR_HOU,TomRagaert,17
+2021_03_CAR_HOU,tonyzanatian,30
 2021_03_CAR_HOU,triceruhtops,45
 2021_03_CAR_HOU,tristankuehn,40
 2021_03_CAR_HOU,trussell417,17
 2021_03_CAR_HOU,tutestheking,0
 2021_03_CAR_HOU,Ty_the_risk_guy,35
-2021_03_CAR_HOU,tzanatian51,30
 2021_03_CAR_HOU,ukbradc,50
 2021_03_CAR_HOU,united709,3
 2021_03_CAR_HOU,v3lardy,0
@@ -18336,12 +18336,12 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,tommcquillin1,80
 2021_03_WAS_BUF,TommyPraeger,73
 2021_03_WAS_BUF,TomRagaert,70
+2021_03_WAS_BUF,tonyzanatian,83
 2021_03_WAS_BUF,triceruhtops,69
 2021_03_WAS_BUF,tristankuehn,60
 2021_03_WAS_BUF,trussell417,83
 2021_03_WAS_BUF,tutestheking,69
 2021_03_WAS_BUF,Ty_the_risk_guy,70
-2021_03_WAS_BUF,tzanatian51,83
 2021_03_WAS_BUF,ukbradc,66
 2021_03_WAS_BUF,united709,87
 2021_03_WAS_BUF,v3lardy,100
@@ -18711,12 +18711,12 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,tommcquillin1,75
 2021_03_CHI_CLE,TommyPraeger,75
 2021_03_CHI_CLE,TomRagaert,66
+2021_03_CHI_CLE,tonyzanatian,85
 2021_03_CHI_CLE,triceruhtops,81
 2021_03_CHI_CLE,tristankuehn,70
 2021_03_CHI_CLE,trussell417,70
 2021_03_CHI_CLE,tutestheking,40
 2021_03_CHI_CLE,Ty_the_risk_guy,70
-2021_03_CHI_CLE,tzanatian51,85
 2021_03_CHI_CLE,ukbradc,67
 2021_03_CHI_CLE,united709,93
 2021_03_CHI_CLE,v3lardy,100
@@ -19086,12 +19086,12 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,tommcquillin1,20
 2021_03_BAL_DET,TommyPraeger,17
 2021_03_BAL_DET,TomRagaert,8
+2021_03_BAL_DET,tonyzanatian,15
 2021_03_BAL_DET,triceruhtops,22
 2021_03_BAL_DET,tristankuehn,20
 2021_03_BAL_DET,trussell417,9
 2021_03_BAL_DET,tutestheking,0
 2021_03_BAL_DET,Ty_the_risk_guy,0
-2021_03_BAL_DET,tzanatian51,15
 2021_03_BAL_DET,ukbradc,17
 2021_03_BAL_DET,united709,5
 2021_03_BAL_DET,v3lardy,0
@@ -19461,12 +19461,12 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,tommcquillin1,17
 2021_03_ARI_JAX,TommyPraeger,24
 2021_03_ARI_JAX,TomRagaert,12
+2021_03_ARI_JAX,tonyzanatian,40
 2021_03_ARI_JAX,triceruhtops,15
 2021_03_ARI_JAX,tristankuehn,25
 2021_03_ARI_JAX,trussell417,21
 2021_03_ARI_JAX,tutestheking,0
 2021_03_ARI_JAX,Ty_the_risk_guy,28
-2021_03_ARI_JAX,tzanatian51,40
 2021_03_ARI_JAX,ukbradc,17
 2021_03_ARI_JAX,united709,9
 2021_03_ARI_JAX,v3lardy,0
@@ -19836,12 +19836,12 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,tommcquillin1,77
 2021_03_LAC_KC,TommyPraeger,66
 2021_03_LAC_KC,TomRagaert,64
+2021_03_LAC_KC,tonyzanatian,66
 2021_03_LAC_KC,triceruhtops,86
 2021_03_LAC_KC,tristankuehn,65
 2021_03_LAC_KC,trussell417,61
 2021_03_LAC_KC,tutestheking,68
 2021_03_LAC_KC,Ty_the_risk_guy,75
-2021_03_LAC_KC,tzanatian51,66
 2021_03_LAC_KC,ukbradc,65
 2021_03_LAC_KC,united709,91
 2021_03_LAC_KC,v3lardy,100
@@ -20211,12 +20211,12 @@ game_id,screen_name,prediction
 2021_03_NO_NE,tommcquillin1,45
 2021_03_NO_NE,TommyPraeger,51
 2021_03_NO_NE,TomRagaert,40
+2021_03_NO_NE,tonyzanatian,66
 2021_03_NO_NE,triceruhtops,68
 2021_03_NO_NE,tristankuehn,40
 2021_03_NO_NE,trussell417,43
 2021_03_NO_NE,tutestheking,43
 2021_03_NO_NE,Ty_the_risk_guy,65
-2021_03_NO_NE,tzanatian51,66
 2021_03_NO_NE,ukbradc,59
 2021_03_NO_NE,united709,29
 2021_03_NO_NE,v3lardy,100
@@ -20586,12 +20586,12 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,tommcquillin1,46
 2021_03_ATL_NYG,TommyPraeger,60
 2021_03_ATL_NYG,TomRagaert,65
+2021_03_ATL_NYG,tonyzanatian,45
 2021_03_ATL_NYG,triceruhtops,44
 2021_03_ATL_NYG,tristankuehn,55
 2021_03_ATL_NYG,trussell417,55
 2021_03_ATL_NYG,tutestheking,61
 2021_03_ATL_NYG,Ty_the_risk_guy,65
-2021_03_ATL_NYG,tzanatian51,45
 2021_03_ATL_NYG,ukbradc,37
 2021_03_ATL_NYG,united709,67
 2021_03_ATL_NYG,v3lardy,0
@@ -20961,12 +20961,12 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,tommcquillin1,62
 2021_03_CIN_PIT,TommyPraeger,61
 2021_03_CIN_PIT,TomRagaert,66
+2021_03_CIN_PIT,tonyzanatian,50
 2021_03_CIN_PIT,triceruhtops,78
 2021_03_CIN_PIT,tristankuehn,45
 2021_03_CIN_PIT,trussell417,63
 2021_03_CIN_PIT,tutestheking,68
 2021_03_CIN_PIT,Ty_the_risk_guy,65
-2021_03_CIN_PIT,tzanatian51,50
 2021_03_CIN_PIT,ukbradc,67
 2021_03_CIN_PIT,united709,28
 2021_03_CIN_PIT,v3lardy,100
@@ -21336,12 +21336,12 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,tommcquillin1,76
 2021_03_IND_TEN,TommyPraeger,62
 2021_03_IND_TEN,TomRagaert,75
+2021_03_IND_TEN,tonyzanatian,55
 2021_03_IND_TEN,triceruhtops,59
 2021_03_IND_TEN,tristankuehn,60
 2021_03_IND_TEN,trussell417,76
 2021_03_IND_TEN,tutestheking,60
 2021_03_IND_TEN,Ty_the_risk_guy,65
-2021_03_IND_TEN,tzanatian51,55
 2021_03_IND_TEN,ukbradc,64
 2021_03_IND_TEN,united709,79
 2021_03_IND_TEN,v3lardy,100
@@ -21713,13 +21713,13 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,tommcquillin1,84
 2021_03_NYJ_DEN,TommyPraeger,78
 2021_03_NYJ_DEN,TomRagaert,87
+2021_03_NYJ_DEN,tonyzanatian,99
 2021_03_NYJ_DEN,triceruhtops,78
 2021_03_NYJ_DEN,tristankuehn,65
 2021_03_NYJ_DEN,trussell417,85
 2021_03_NYJ_DEN,tutestheking,100
 2021_03_NYJ_DEN,twain_w,50
 2021_03_NYJ_DEN,Ty_the_risk_guy,70
-2021_03_NYJ_DEN,tzanatian51,99
 2021_03_NYJ_DEN,ukbradc,77
 2021_03_NYJ_DEN,united709,93
 2021_03_NYJ_DEN,v3lardy,100
@@ -22092,13 +22092,13 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,tommcquillin1,68
 2021_03_MIA_LV,TommyPraeger,58
 2021_03_MIA_LV,TomRagaert,58
+2021_03_MIA_LV,tonyzanatian,75
 2021_03_MIA_LV,triceruhtops,78
 2021_03_MIA_LV,tristankuehn,70
 2021_03_MIA_LV,trussell417,85
 2021_03_MIA_LV,tutestheking,64
 2021_03_MIA_LV,twain_w,50
 2021_03_MIA_LV,Ty_the_risk_guy,70
-2021_03_MIA_LV,tzanatian51,75
 2021_03_MIA_LV,ukbradc,65
 2021_03_MIA_LV,united709,93
 2021_03_MIA_LV,v3lardy,100
@@ -22471,13 +22471,13 @@ game_id,screen_name,prediction
 2021_03_TB_LA,tommcquillin1,58
 2021_03_TB_LA,TommyPraeger,45
 2021_03_TB_LA,TomRagaert,63
+2021_03_TB_LA,tonyzanatian,2
 2021_03_TB_LA,triceruhtops,50
 2021_03_TB_LA,tristankuehn,40
 2021_03_TB_LA,trussell417,45
 2021_03_TB_LA,tutestheking,56
 2021_03_TB_LA,twain_w,50
 2021_03_TB_LA,Ty_the_risk_guy,35
-2021_03_TB_LA,tzanatian51,2
 2021_03_TB_LA,ukbradc,49
 2021_03_TB_LA,united709,78
 2021_03_TB_LA,v3lardy,0
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,57
 2021_03_SEA_MIN,,50
+2021_03_SEA_MIN,,57
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_DH44_,52
 2021_03_SEA_MIN,_jclemons,36
@@ -22850,13 +22850,13 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,tommcquillin1,56
 2021_03_SEA_MIN,TommyPraeger,44
 2021_03_SEA_MIN,TomRagaert,38
+2021_03_SEA_MIN,tonyzanatian,50
 2021_03_SEA_MIN,triceruhtops,32
 2021_03_SEA_MIN,tristankuehn,35
 2021_03_SEA_MIN,trussell417,40
 2021_03_SEA_MIN,tutestheking,38
 2021_03_SEA_MIN,twain_w,50
 2021_03_SEA_MIN,Ty_the_risk_guy,28
-2021_03_SEA_MIN,tzanatian51,50
 2021_03_SEA_MIN,ukbradc,33
 2021_03_SEA_MIN,united709,36
 2021_03_SEA_MIN,v3lardy,100
@@ -23230,13 +23230,13 @@ game_id,screen_name,prediction
 2021_03_GB_SF,tommcquillin1,50
 2021_03_GB_SF,TommyPraeger,51
 2021_03_GB_SF,TomRagaert,40
+2021_03_GB_SF,tonyzanatian,45
 2021_03_GB_SF,triceruhtops,43
 2021_03_GB_SF,tristankuehn,55
 2021_03_GB_SF,trussell417,56
 2021_03_GB_SF,tutestheking,100
 2021_03_GB_SF,twain_w,54
 2021_03_GB_SF,Ty_the_risk_guy,67
-2021_03_GB_SF,tzanatian51,45
 2021_03_GB_SF,ukbradc,40
 2021_03_GB_SF,united709,27
 2021_03_GB_SF,v3lardy,0
@@ -23626,6 +23626,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,tommcquillin1,71
 2021_03_PHI_DAL,TommyPraeger,59
 2021_03_PHI_DAL,TomRagaert,71
+2021_03_PHI_DAL,tonyzanatian,39
 2021_03_PHI_DAL,triceruhtops,77
 2021_03_PHI_DAL,tristankuehn,60
 2021_03_PHI_DAL,trussell417,70
@@ -23633,7 +23634,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,tutestheking,63
 2021_03_PHI_DAL,twain_w,62
 2021_03_PHI_DAL,Ty_the_risk_guy,65
-2021_03_PHI_DAL,tzanatian51,39
 2021_03_PHI_DAL,ukbradc,67
 2021_03_PHI_DAL,united709,64
 2021_03_PHI_DAL,v3lardy,100
@@ -23984,6 +23984,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,tommcquillin1,68
 2021_04_JAX_CIN,TommyPraeger,77
 2021_04_JAX_CIN,TomRagaert,78
+2021_04_JAX_CIN,tonyzanatian,70
 2021_04_JAX_CIN,TrevonDiggsStan,50
 2021_04_JAX_CIN,triceruhtops,72
 2021_04_JAX_CIN,tristankuehn,75
@@ -23992,7 +23993,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,tutestheking,100
 2021_04_JAX_CIN,twain_w,75
 2021_04_JAX_CIN,Ty_the_risk_guy,62
-2021_04_JAX_CIN,tzanatian51,70
 2021_04_JAX_CIN,ukbradc,79
 2021_04_JAX_CIN,united709,50
 2021_04_JAX_CIN,v3lardy,100
@@ -24373,6 +24373,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,tommcquillin1,56
 2021_04_WAS_ATL,TommyPraeger,45
 2021_04_WAS_ATL,TomRagaert,43
+2021_04_WAS_ATL,tonyzanatian,55
 2021_04_WAS_ATL,TrevonDiggsStan,50
 2021_04_WAS_ATL,triceruhtops,54
 2021_04_WAS_ATL,tristankuehn,46
@@ -24381,7 +24382,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,tutestheking,30
 2021_04_WAS_ATL,twain_w,47
 2021_04_WAS_ATL,Ty_the_risk_guy,50
-2021_04_WAS_ATL,tzanatian51,55
 2021_04_WAS_ATL,ukbradc,50
 2021_04_WAS_ATL,united709,34
 2021_04_WAS_ATL,v3lardy,0
@@ -24765,6 +24765,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,tommcquillin1,92
 2021_04_HOU_BUF,TommyPraeger,86
 2021_04_HOU_BUF,TomRagaert,100
+2021_04_HOU_BUF,tonyzanatian,100
 2021_04_HOU_BUF,TrevonDiggsStan,50
 2021_04_HOU_BUF,triceruhtops,82
 2021_04_HOU_BUF,tristankuehn,85
@@ -24773,7 +24774,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,tutestheking,67
 2021_04_HOU_BUF,twain_w,89
 2021_04_HOU_BUF,Ty_the_risk_guy,100
-2021_04_HOU_BUF,tzanatian51,100
 2021_04_HOU_BUF,ukbradc,100
 2021_04_HOU_BUF,united709,100
 2021_04_HOU_BUF,v3lardy,100
@@ -25157,6 +25157,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,tommcquillin1,65
 2021_04_DET_CHI,TommyPraeger,44
 2021_04_DET_CHI,TomRagaert,46
+2021_04_DET_CHI,tonyzanatian,45
 2021_04_DET_CHI,TrevonDiggsStan,50
 2021_04_DET_CHI,triceruhtops,44
 2021_04_DET_CHI,tristankuehn,51
@@ -25165,7 +25166,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,tutestheking,55
 2021_04_DET_CHI,twain_w,58
 2021_04_DET_CHI,Ty_the_risk_guy,50
-2021_04_DET_CHI,tzanatian51,45
 2021_04_DET_CHI,ukbradc,62
 2021_04_DET_CHI,united709,69
 2021_04_DET_CHI,v3lardy,0
@@ -25549,6 +25549,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,tommcquillin1,71
 2021_04_CAR_DAL,TommyPraeger,64
 2021_04_CAR_DAL,TomRagaert,58
+2021_04_CAR_DAL,tonyzanatian,60
 2021_04_CAR_DAL,TrevonDiggsStan,50
 2021_04_CAR_DAL,triceruhtops,81
 2021_04_CAR_DAL,tristankuehn,64
@@ -25557,7 +25558,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,tutestheking,63
 2021_04_CAR_DAL,twain_w,64
 2021_04_CAR_DAL,Ty_the_risk_guy,50
-2021_04_CAR_DAL,tzanatian51,60
 2021_04_CAR_DAL,ukbradc,50
 2021_04_CAR_DAL,united709,75
 2021_04_CAR_DAL,v3lardy,100
@@ -25941,6 +25941,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,tommcquillin1,65
 2021_04_IND_MIA,TommyPraeger,49
 2021_04_IND_MIA,TomRagaert,55
+2021_04_IND_MIA,tonyzanatian,45
 2021_04_IND_MIA,TrevonDiggsStan,50
 2021_04_IND_MIA,triceruhtops,55
 2021_04_IND_MIA,tristankuehn,55
@@ -25949,7 +25950,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,tutestheking,50
 2021_04_IND_MIA,twain_w,58
 2021_04_IND_MIA,Ty_the_risk_guy,50
-2021_04_IND_MIA,tzanatian51,45
 2021_04_IND_MIA,ukbradc,62
 2021_04_IND_MIA,united709,14
 2021_04_IND_MIA,v3lardy,0
@@ -26333,6 +26333,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,tommcquillin1,35
 2021_04_CLE_MIN,TommyPraeger,46
 2021_04_CLE_MIN,TomRagaert,0
+2021_04_CLE_MIN,tonyzanatian,40
 2021_04_CLE_MIN,TrevonDiggsStan,50
 2021_04_CLE_MIN,triceruhtops,27
 2021_04_CLE_MIN,tristankuehn,40
@@ -26341,7 +26342,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,tutestheking,31
 2021_04_CLE_MIN,twain_w,47
 2021_04_CLE_MIN,Ty_the_risk_guy,50
-2021_04_CLE_MIN,tzanatian51,40
 2021_04_CLE_MIN,ukbradc,39
 2021_04_CLE_MIN,united709,0
 2021_04_CLE_MIN,v3lardy,100
@@ -26725,6 +26725,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,tommcquillin1,66
 2021_04_NYG_NO,TommyPraeger,72
 2021_04_NYG_NO,TomRagaert,76
+2021_04_NYG_NO,tonyzanatian,40
 2021_04_NYG_NO,TrevonDiggsStan,50
 2021_04_NYG_NO,triceruhtops,59
 2021_04_NYG_NO,tristankuehn,68
@@ -26733,7 +26734,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,tutestheking,57
 2021_04_NYG_NO,twain_w,75
 2021_04_NYG_NO,Ty_the_risk_guy,50
-2021_04_NYG_NO,tzanatian51,40
 2021_04_NYG_NO,ukbradc,62
 2021_04_NYG_NO,united709,90
 2021_04_NYG_NO,v3lardy,100
@@ -27117,6 +27117,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,tommcquillin1,25
 2021_04_TEN_NYJ,TommyPraeger,31
 2021_04_TEN_NYJ,TomRagaert,24
+2021_04_TEN_NYJ,tonyzanatian,15
 2021_04_TEN_NYJ,TrevonDiggsStan,50
 2021_04_TEN_NYJ,triceruhtops,33
 2021_04_TEN_NYJ,tristankuehn,30
@@ -27125,7 +27126,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,tutestheking,59
 2021_04_TEN_NYJ,twain_w,38
 2021_04_TEN_NYJ,Ty_the_risk_guy,0
-2021_04_TEN_NYJ,tzanatian51,15
 2021_04_TEN_NYJ,ukbradc,36
 2021_04_TEN_NYJ,united709,3
 2021_04_TEN_NYJ,v3lardy,0
@@ -27509,6 +27509,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,tommcquillin1,24
 2021_04_KC_PHI,TommyPraeger,23
 2021_04_KC_PHI,TomRagaert,0
+2021_04_KC_PHI,tonyzanatian,15
 2021_04_KC_PHI,TrevonDiggsStan,50
 2021_04_KC_PHI,triceruhtops,14
 2021_04_KC_PHI,tristankuehn,23
@@ -27517,7 +27518,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,tutestheking,16
 2021_04_KC_PHI,twain_w,26
 2021_04_KC_PHI,Ty_the_risk_guy,0
-2021_04_KC_PHI,tzanatian51,15
 2021_04_KC_PHI,ukbradc,31
 2021_04_KC_PHI,united709,3
 2021_04_KC_PHI,v3lardy,0
@@ -27904,6 +27904,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,tommcquillin1,75
 2021_04_ARI_LA,TommyPraeger,64
 2021_04_ARI_LA,TomRagaert,76
+2021_04_ARI_LA,tonyzanatian,60
 2021_04_ARI_LA,TrevonDiggsStan,50
 2021_04_ARI_LA,trevorschneidah,50
 2021_04_ARI_LA,triceruhtops,61
@@ -27913,7 +27914,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,tutestheking,62
 2021_04_ARI_LA,twain_w,54
 2021_04_ARI_LA,Ty_the_risk_guy,50
-2021_04_ARI_LA,tzanatian51,60
 2021_04_ARI_LA,ukbradc,61
 2021_04_ARI_LA,united709,91
 2021_04_ARI_LA,v3lardy,0
@@ -28300,6 +28300,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,tommcquillin1,65
 2021_04_SEA_SF,TommyPraeger,51
 2021_04_SEA_SF,TomRagaert,58
+2021_04_SEA_SF,tonyzanatian,47
 2021_04_SEA_SF,TrevonDiggsStan,50
 2021_04_SEA_SF,trevorschneidah,50
 2021_04_SEA_SF,triceruhtops,38
@@ -28309,7 +28310,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,tutestheking,52
 2021_04_SEA_SF,twain_w,46
 2021_04_SEA_SF,Ty_the_risk_guy,50
-2021_04_SEA_SF,tzanatian51,47
 2021_04_SEA_SF,ukbradc,35
 2021_04_SEA_SF,united709,24
 2021_04_SEA_SF,v3lardy,26
@@ -28698,6 +28698,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,tommcquillin1,36
 2021_04_BAL_DEN,TommyPraeger,45
 2021_04_BAL_DEN,TomRagaert,40
+2021_04_BAL_DEN,tonyzanatian,46
 2021_04_BAL_DEN,TrevonDiggsStan,50
 2021_04_BAL_DEN,trevorschneidah,50
 2021_04_BAL_DEN,triceruhtops,36
@@ -28707,7 +28708,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,tutestheking,30
 2021_04_BAL_DEN,twain_w,50
 2021_04_BAL_DEN,Ty_the_risk_guy,50
-2021_04_BAL_DEN,tzanatian51,46
 2021_04_BAL_DEN,ukbradc,36
 2021_04_BAL_DEN,united709,24
 2021_04_BAL_DEN,v3lardy,0
@@ -29096,6 +29096,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,tommcquillin1,76
 2021_04_PIT_GB,TommyPraeger,71
 2021_04_PIT_GB,TomRagaert,76
+2021_04_PIT_GB,tonyzanatian,85
 2021_04_PIT_GB,TrevonDiggsStan,50
 2021_04_PIT_GB,trevorschneidah,50
 2021_04_PIT_GB,triceruhtops,69
@@ -29105,7 +29106,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,tutestheking,61
 2021_04_PIT_GB,twain_w,64
 2021_04_PIT_GB,Ty_the_risk_guy,100
-2021_04_PIT_GB,tzanatian51,85
 2021_04_PIT_GB,ukbradc,72
 2021_04_PIT_GB,united709,69
 2021_04_PIT_GB,v3lardy,100
@@ -29496,6 +29496,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,tommcquillin1,24
 2021_04_TB_NE,TommyPraeger,33
 2021_04_TB_NE,TomRagaert,0
+2021_04_TB_NE,tonyzanatian,34
 2021_04_TB_NE,TrevonDiggsStan,50
 2021_04_TB_NE,trevorschneidah,50
 2021_04_TB_NE,triceruhtops,26
@@ -29505,7 +29506,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,tutestheking,13
 2021_04_TB_NE,twain_w,39
 2021_04_TB_NE,Ty_the_risk_guy,50
-2021_04_TB_NE,tzanatian51,34
 2021_04_TB_NE,ukbradc,37
 2021_04_TB_NE,united709,9
 2021_04_TB_NE,v3lardy,100
@@ -29912,6 +29912,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,tommcquillin1,71
 2021_04_LV_LAC,TommyPraeger,58
 2021_04_LV_LAC,TomRagaert,66
+2021_04_LV_LAC,tonyzanatian,45
 2021_04_LV_LAC,TrevonDiggsStan,50
 2021_04_LV_LAC,trevorschneidah,50
 2021_04_LV_LAC,triceruhtops,61
@@ -29921,7 +29922,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,tutestheking,66
 2021_04_LV_LAC,twain_w,50
 2021_04_LV_LAC,Ty_the_risk_guy,50
-2021_04_LV_LAC,tzanatian51,45
 2021_04_LV_LAC,ukbradc,67
 2021_04_LV_LAC,united709,79
 2021_04_LV_LAC,v3lardy,0
@@ -30274,13 +30274,13 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,tommcquillin1,35
 2021_05_LA_SEA,TommyPraeger,42
 2021_05_LA_SEA,TomRagaert,47
+2021_05_LA_SEA,tonyzanatian,50
 2021_05_LA_SEA,triceruhtops,23
 2021_05_LA_SEA,tristankuehn,40
 2021_05_LA_SEA,trussell417,36
 2021_05_LA_SEA,tutestheking,35
 2021_05_LA_SEA,twain_w,50
 2021_05_LA_SEA,Ty_the_risk_guy,50
-2021_05_LA_SEA,tzanatian51,50
 2021_05_LA_SEA,united709,50
 2021_05_LA_SEA,v3lardy,0
 2021_05_LA_SEA,vedjos,30
@@ -30643,13 +30643,13 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,tommcquillin1,65
 2021_05_NYJ_ATL,TommyPraeger,49
 2021_05_NYJ_ATL,TomRagaert,46
+2021_05_NYJ_ATL,tonyzanatian,45
 2021_05_NYJ_ATL,triceruhtops,56
 2021_05_NYJ_ATL,tristankuehn,58
 2021_05_NYJ_ATL,trussell417,60
 2021_05_NYJ_ATL,tutestheking,64
 2021_05_NYJ_ATL,twain_w,50
 2021_05_NYJ_ATL,Ty_the_risk_guy,50
-2021_05_NYJ_ATL,tzanatian51,45
 2021_05_NYJ_ATL,ukbradc,42
 2021_05_NYJ_ATL,united709,50
 2021_05_NYJ_ATL,v3lardy,0
@@ -31021,13 +31021,13 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,tommcquillin1,55
 2021_05_PHI_CAR,TommyPraeger,53
 2021_05_PHI_CAR,TomRagaert,60
+2021_05_PHI_CAR,tonyzanatian,45
 2021_05_PHI_CAR,triceruhtops,61
 2021_05_PHI_CAR,tristankuehn,62
 2021_05_PHI_CAR,trussell417,61
 2021_05_PHI_CAR,tutestheking,65
 2021_05_PHI_CAR,twain_w,50
 2021_05_PHI_CAR,Ty_the_risk_guy,50
-2021_05_PHI_CAR,tzanatian51,45
 2021_05_PHI_CAR,ukbradc,55
 2021_05_PHI_CAR,united709,76
 2021_05_PHI_CAR,v3lardy,100
@@ -31399,13 +31399,13 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,tommcquillin1,36
 2021_05_GB_CIN,TommyPraeger,37
 2021_05_GB_CIN,TomRagaert,31
+2021_05_GB_CIN,tonyzanatian,54
 2021_05_GB_CIN,triceruhtops,24
 2021_05_GB_CIN,tristankuehn,37
 2021_05_GB_CIN,trussell417,40
 2021_05_GB_CIN,tutestheking,25
 2021_05_GB_CIN,twain_w,50
 2021_05_GB_CIN,Ty_the_risk_guy,0
-2021_05_GB_CIN,tzanatian51,54
 2021_05_GB_CIN,ukbradc,45
 2021_05_GB_CIN,united709,21
 2021_05_GB_CIN,v3lardy,0
@@ -31777,13 +31777,13 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,tommcquillin1,16
 2021_05_NE_HOU,TommyPraeger,20
 2021_05_NE_HOU,TomRagaert,25
+2021_05_NE_HOU,tonyzanatian,30
 2021_05_NE_HOU,triceruhtops,15
 2021_05_NE_HOU,tristankuehn,26
 2021_05_NE_HOU,trussell417,37
 2021_05_NE_HOU,tutestheking,41
 2021_05_NE_HOU,twain_w,50
 2021_05_NE_HOU,Ty_the_risk_guy,50
-2021_05_NE_HOU,tzanatian51,30
 2021_05_NE_HOU,ukbradc,31
 2021_05_NE_HOU,united709,0
 2021_05_NE_HOU,v3lardy,0
@@ -32155,13 +32155,13 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,tommcquillin1,29
 2021_05_TEN_JAX,TommyPraeger,38
 2021_05_TEN_JAX,TomRagaert,34
+2021_05_TEN_JAX,tonyzanatian,25
 2021_05_TEN_JAX,triceruhtops,22
 2021_05_TEN_JAX,tristankuehn,36
 2021_05_TEN_JAX,trussell417,22
 2021_05_TEN_JAX,tutestheking,43
 2021_05_TEN_JAX,twain_w,50
 2021_05_TEN_JAX,Ty_the_risk_guy,50
-2021_05_TEN_JAX,tzanatian51,25
 2021_05_TEN_JAX,ukbradc,38
 2021_05_TEN_JAX,united709,0
 2021_05_TEN_JAX,v3lardy,0
@@ -32532,13 +32532,13 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,tommcquillin1,71
 2021_05_DET_MIN,TommyPraeger,72
 2021_05_DET_MIN,TomRagaert,76
+2021_05_DET_MIN,tonyzanatian,61
 2021_05_DET_MIN,triceruhtops,72
 2021_05_DET_MIN,tristankuehn,74
 2021_05_DET_MIN,trussell417,68
 2021_05_DET_MIN,tutestheking,65
 2021_05_DET_MIN,twain_w,50
 2021_05_DET_MIN,Ty_the_risk_guy,50
-2021_05_DET_MIN,tzanatian51,61
 2021_05_DET_MIN,ukbradc,61
 2021_05_DET_MIN,united709,76
 2021_05_DET_MIN,v3lardy,100
@@ -32910,13 +32910,13 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,tommcquillin1,45
 2021_05_DEN_PIT,TommyPraeger,51
 2021_05_DEN_PIT,TomRagaert,44
+2021_05_DEN_PIT,tonyzanatian,34
 2021_05_DEN_PIT,triceruhtops,62
 2021_05_DEN_PIT,tristankuehn,41
 2021_05_DEN_PIT,trussell417,45
 2021_05_DEN_PIT,tutestheking,50
 2021_05_DEN_PIT,twain_w,50
 2021_05_DEN_PIT,Ty_the_risk_guy,50
-2021_05_DEN_PIT,tzanatian51,34
 2021_05_DEN_PIT,ukbradc,54
 2021_05_DEN_PIT,united709,20
 2021_05_DEN_PIT,v3lardy,0
@@ -33287,13 +33287,13 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,tommcquillin1,82
 2021_05_MIA_TB,TommyPraeger,77
 2021_05_MIA_TB,TomRagaert,100
+2021_05_MIA_TB,tonyzanatian,66
 2021_05_MIA_TB,triceruhtops,84
 2021_05_MIA_TB,tristankuehn,80
 2021_05_MIA_TB,trussell417,95
 2021_05_MIA_TB,tutestheking,64
 2021_05_MIA_TB,twain_w,50
 2021_05_MIA_TB,Ty_the_risk_guy,100
-2021_05_MIA_TB,tzanatian51,66
 2021_05_MIA_TB,ukbradc,58
 2021_05_MIA_TB,united709,95
 2021_05_MIA_TB,v3lardy,100
@@ -33665,13 +33665,13 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,tommcquillin1,37
 2021_05_NO_WAS,TommyPraeger,45
 2021_05_NO_WAS,TomRagaert,56
+2021_05_NO_WAS,tonyzanatian,52
 2021_05_NO_WAS,triceruhtops,41
 2021_05_NO_WAS,tristankuehn,40
 2021_05_NO_WAS,trussell417,39
 2021_05_NO_WAS,tutestheking,57
 2021_05_NO_WAS,twain_w,50
 2021_05_NO_WAS,Ty_the_risk_guy,50
-2021_05_NO_WAS,tzanatian51,52
 2021_05_NO_WAS,ukbradc,50
 2021_05_NO_WAS,united709,14
 2021_05_NO_WAS,v3lardy,100
@@ -34046,6 +34046,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,tommcquillin1,58
 2021_05_CLE_LAC,TommyPraeger,54
 2021_05_CLE_LAC,TomRagaert,58
+2021_05_CLE_LAC,tonyzanatian,60
 2021_05_CLE_LAC,tribunaltorch,50
 2021_05_CLE_LAC,triceruhtops,63
 2021_05_CLE_LAC,tristankuehn,53
@@ -34053,7 +34054,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,tutestheking,58
 2021_05_CLE_LAC,twain_w,50
 2021_05_CLE_LAC,Ty_the_risk_guy,50
-2021_05_CLE_LAC,tzanatian51,60
 2021_05_CLE_LAC,ukbradc,45
 2021_05_CLE_LAC,united709,38
 2021_05_CLE_LAC,v3lardy,100
@@ -34428,6 +34428,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,tommcquillin1,68
 2021_05_CHI_LV,TommyPraeger,54
 2021_05_CHI_LV,TomRagaert,67
+2021_05_CHI_LV,tonyzanatian,58
 2021_05_CHI_LV,tribunaltorch,50
 2021_05_CHI_LV,triceruhtops,68
 2021_05_CHI_LV,tristankuehn,62
@@ -34435,7 +34436,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,tutestheking,41
 2021_05_CHI_LV,twain_w,50
 2021_05_CHI_LV,Ty_the_risk_guy,50
-2021_05_CHI_LV,tzanatian51,58
 2021_05_CHI_LV,ukbradc,54
 2021_05_CHI_LV,united709,20
 2021_05_CHI_LV,v3lardy,0
@@ -34810,6 +34810,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,tommcquillin1,73
 2021_05_SF_ARI,TommyPraeger,58
 2021_05_SF_ARI,TomRagaert,58
+2021_05_SF_ARI,tonyzanatian,45
 2021_05_SF_ARI,tribunaltorch,50
 2021_05_SF_ARI,triceruhtops,59
 2021_05_SF_ARI,tristankuehn,64
@@ -34817,7 +34818,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,tutestheking,44
 2021_05_SF_ARI,twain_w,50
 2021_05_SF_ARI,Ty_the_risk_guy,50
-2021_05_SF_ARI,tzanatian51,45
 2021_05_SF_ARI,ukbradc,53
 2021_05_SF_ARI,united709,92
 2021_05_SF_ARI,v3lardy,100
@@ -35192,6 +35192,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,tommcquillin1,78
 2021_05_NYG_DAL,TommyPraeger,60
 2021_05_NYG_DAL,TomRagaert,76
+2021_05_NYG_DAL,tonyzanatian,66
 2021_05_NYG_DAL,tribunaltorch,50
 2021_05_NYG_DAL,triceruhtops,83
 2021_05_NYG_DAL,tristankuehn,74
@@ -35199,7 +35200,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,tutestheking,71
 2021_05_NYG_DAL,twain_w,50
 2021_05_NYG_DAL,Ty_the_risk_guy,50
-2021_05_NYG_DAL,tzanatian51,66
 2021_05_NYG_DAL,ukbradc,78
 2021_05_NYG_DAL,united709,64
 2021_05_NYG_DAL,v3lardy,100
@@ -35577,6 +35577,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,tommcquillin1,70
 2021_05_BUF_KC,TommyPraeger,54
 2021_05_BUF_KC,TomRagaert,59
+2021_05_BUF_KC,tonyzanatian,40
 2021_05_BUF_KC,tribunaltorch,40
 2021_05_BUF_KC,triceruhtops,41
 2021_05_BUF_KC,tristankuehn,58
@@ -35584,7 +35585,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,tutestheking,47
 2021_05_BUF_KC,twain_w,50
 2021_05_BUF_KC,Ty_the_risk_guy,50
-2021_05_BUF_KC,tzanatian51,40
 2021_05_BUF_KC,ukbradc,56
 2021_05_BUF_KC,united709,75
 2021_05_BUF_KC,v3lardy,0
@@ -35968,6 +35968,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,tommcquillin1,79
 2021_05_IND_BAL,TommyPraeger,66
 2021_05_IND_BAL,TomRagaert,75
+2021_05_IND_BAL,tonyzanatian,55
 2021_05_IND_BAL,tribunaltorch,88
 2021_05_IND_BAL,triceruhtops,79
 2021_05_IND_BAL,tristankuehn,72
@@ -35975,7 +35976,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,tutestheking,100
 2021_05_IND_BAL,twain_w,50
 2021_05_IND_BAL,Ty_the_risk_guy,100
-2021_05_IND_BAL,tzanatian51,55
 2021_05_IND_BAL,ukbradc,62
 2021_05_IND_BAL,united709,71
 2021_05_IND_BAL,v3lardy,100
@@ -36300,6 +36300,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,tommcquillin1,25
 2021_06_TB_PHI,TommyPraeger,31
 2021_06_TB_PHI,TomRagaert,0
+2021_06_TB_PHI,tonyzanatian,50
 2021_06_TB_PHI,tribunaltorch,7
 2021_06_TB_PHI,triceruhtops,22
 2021_06_TB_PHI,tristankuehn,30
@@ -36307,7 +36308,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,trussell417,10
 2021_06_TB_PHI,tutestheking,50
 2021_06_TB_PHI,Ty_the_risk_guy,50
-2021_06_TB_PHI,tzanatian51,50
 2021_06_TB_PHI,ukbradc,0
 2021_06_TB_PHI,v3lardy,0
 2021_06_TB_PHI,vedjos,0
@@ -36642,6 +36642,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,tommcquillin1,50
 2021_06_MIA_JAX,TommyPraeger,47
 2021_06_MIA_JAX,TomRagaert,36
+2021_06_MIA_JAX,tonyzanatian,41
 2021_06_MIA_JAX,tribunaltorch,41
 2021_06_MIA_JAX,triceruhtops,56
 2021_06_MIA_JAX,tristankuehn,40
@@ -36649,7 +36650,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,trussell417,42
 2021_06_MIA_JAX,tutestheking,50
 2021_06_MIA_JAX,Ty_the_risk_guy,50
-2021_06_MIA_JAX,tzanatian51,41
 2021_06_MIA_JAX,ukbradc,42
 2021_06_MIA_JAX,v3lardy,0
 2021_06_MIA_JAX,vedjos,56
@@ -36987,6 +36987,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,tommcquillin1,41
 2021_06_LAC_BAL,TommyPraeger,51
 2021_06_LAC_BAL,TomRagaert,42
+2021_06_LAC_BAL,tonyzanatian,44
 2021_06_LAC_BAL,tribunaltorch,43
 2021_06_LAC_BAL,triceruhtops,34
 2021_06_LAC_BAL,tristankuehn,45
@@ -36995,7 +36996,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,tutestheking,63
 2021_06_LAC_BAL,twain_w,50
 2021_06_LAC_BAL,Ty_the_risk_guy,50
-2021_06_LAC_BAL,tzanatian51,44
 2021_06_LAC_BAL,ukbradc,42
 2021_06_LAC_BAL,v3lardy,0
 2021_06_LAC_BAL,vedjos,47
@@ -37334,6 +37334,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,tommcquillin1,40
 2021_06_MIN_CAR,TommyPraeger,40
 2021_06_MIN_CAR,TomRagaert,53
+2021_06_MIN_CAR,tonyzanatian,45
 2021_06_MIN_CAR,tribunaltorch,37
 2021_06_MIN_CAR,triceruhtops,62
 2021_06_MIN_CAR,tristankuehn,45
@@ -37342,7 +37343,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,tutestheking,58
 2021_06_MIN_CAR,twain_w,50
 2021_06_MIN_CAR,Ty_the_risk_guy,50
-2021_06_MIN_CAR,tzanatian51,45
 2021_06_MIN_CAR,ukbradc,53
 2021_06_MIN_CAR,v3lardy,0
 2021_06_MIN_CAR,vedjos,39
@@ -37680,6 +37680,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,tommcquillin1,39
 2021_06_GB_CHI,TommyPraeger,36
 2021_06_GB_CHI,TomRagaert,24
+2021_06_GB_CHI,tonyzanatian,44
 2021_06_GB_CHI,tribunaltorch,17
 2021_06_GB_CHI,triceruhtops,26
 2021_06_GB_CHI,tristankuehn,35
@@ -37688,7 +37689,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,tutestheking,52
 2021_06_GB_CHI,twain_w,50
 2021_06_GB_CHI,Ty_the_risk_guy,0
-2021_06_GB_CHI,tzanatian51,44
 2021_06_GB_CHI,ukbradc,44
 2021_06_GB_CHI,v3lardy,0
 2021_06_GB_CHI,vedjos,24
@@ -38026,6 +38026,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,tommcquillin1,30
 2021_06_CIN_DET,TommyPraeger,44
 2021_06_CIN_DET,TomRagaert,41
+2021_06_CIN_DET,tonyzanatian,26
 2021_06_CIN_DET,tribunaltorch,22
 2021_06_CIN_DET,triceruhtops,26
 2021_06_CIN_DET,tristankuehn,35
@@ -38034,7 +38035,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,tutestheking,39
 2021_06_CIN_DET,twain_w,50
 2021_06_CIN_DET,Ty_the_risk_guy,50
-2021_06_CIN_DET,tzanatian51,26
 2021_06_CIN_DET,ukbradc,42
 2021_06_CIN_DET,v3lardy,0
 2021_06_CIN_DET,vedjos,27
@@ -38372,6 +38372,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,tommcquillin1,71
 2021_06_HOU_IND,TommyPraeger,76
 2021_06_HOU_IND,TomRagaert,100
+2021_06_HOU_IND,tonyzanatian,62
 2021_06_HOU_IND,tribunaltorch,77
 2021_06_HOU_IND,triceruhtops,61
 2021_06_HOU_IND,tristankuehn,67
@@ -38380,7 +38381,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,tutestheking,75
 2021_06_HOU_IND,twain_w,50
 2021_06_HOU_IND,Ty_the_risk_guy,50
-2021_06_HOU_IND,tzanatian51,62
 2021_06_HOU_IND,ukbradc,65
 2021_06_HOU_IND,v3lardy,100
 2021_06_HOU_IND,vedjos,74
@@ -38718,6 +38718,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,tommcquillin1,17
 2021_06_LA_NYG,TommyPraeger,22
 2021_06_LA_NYG,TomRagaert,0
+2021_06_LA_NYG,tonyzanatian,28
 2021_06_LA_NYG,tribunaltorch,8
 2021_06_LA_NYG,triceruhtops,21
 2021_06_LA_NYG,tristankuehn,26
@@ -38726,7 +38727,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,tutestheking,26
 2021_06_LA_NYG,twain_w,50
 2021_06_LA_NYG,Ty_the_risk_guy,0
-2021_06_LA_NYG,tzanatian51,28
 2021_06_LA_NYG,ukbradc,0
 2021_06_LA_NYG,v3lardy,0
 2021_06_LA_NYG,vedjos,17
@@ -39064,6 +39064,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,tommcquillin1,21
 2021_06_KC_WAS,TommyPraeger,25
 2021_06_KC_WAS,TomRagaert,0
+2021_06_KC_WAS,tonyzanatian,4
 2021_06_KC_WAS,tribunaltorch,2
 2021_06_KC_WAS,triceruhtops,22
 2021_06_KC_WAS,tristankuehn,26
@@ -39072,7 +39073,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,tutestheking,31
 2021_06_KC_WAS,twain_w,50
 2021_06_KC_WAS,Ty_the_risk_guy,50
-2021_06_KC_WAS,tzanatian51,4
 2021_06_KC_WAS,ukbradc,0
 2021_06_KC_WAS,v3lardy,0
 2021_06_KC_WAS,vedjos,24
@@ -39411,6 +39411,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,tommcquillin1,44
 2021_06_ARI_CLE,TommyPraeger,55
 2021_06_ARI_CLE,TomRagaert,48
+2021_06_ARI_CLE,tonyzanatian,72
 2021_06_ARI_CLE,tribunaltorch,43
 2021_06_ARI_CLE,triceruhtops,41
 2021_06_ARI_CLE,tristankuehn,63
@@ -39419,7 +39420,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,tutestheking,57
 2021_06_ARI_CLE,twain_w,33
 2021_06_ARI_CLE,Ty_the_risk_guy,50
-2021_06_ARI_CLE,tzanatian51,72
 2021_06_ARI_CLE,ukbradc,43
 2021_06_ARI_CLE,v3lardy,100
 2021_06_ARI_CLE,vedjos,58
@@ -39759,6 +39759,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,tommcquillin1,57
 2021_06_LV_DEN,TommyPraeger,59
 2021_06_LV_DEN,TomRagaert,61
+2021_06_LV_DEN,tonyzanatian,47
 2021_06_LV_DEN,tribunaltorch,55
 2021_06_LV_DEN,triceruhtops,59
 2021_06_LV_DEN,tristankuehn,58
@@ -39767,7 +39768,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,tutestheking,50
 2021_06_LV_DEN,twain_w,74
 2021_06_LV_DEN,Ty_the_risk_guy,50
-2021_06_LV_DEN,tzanatian51,47
 2021_06_LV_DEN,ukbradc,59
 2021_06_LV_DEN,v3lardy,100
 2021_06_LV_DEN,vedjos,40
@@ -40107,6 +40107,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,tommcquillin1,26
 2021_06_DAL_NE,TommyPraeger,32
 2021_06_DAL_NE,TomRagaert,22
+2021_06_DAL_NE,tonyzanatian,50
 2021_06_DAL_NE,tribunaltorch,6
 2021_06_DAL_NE,triceruhtops,24
 2021_06_DAL_NE,tristankuehn,31
@@ -40115,7 +40116,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,tutestheking,34
 2021_06_DAL_NE,twain_w,46
 2021_06_DAL_NE,Ty_the_risk_guy,0
-2021_06_DAL_NE,tzanatian51,50
 2021_06_DAL_NE,ukbradc,32
 2021_06_DAL_NE,v3lardy,100
 2021_06_DAL_NE,vedjos,26
@@ -40456,6 +40456,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,tommcquillin1,75
 2021_06_SEA_PIT,TommyPraeger,56
 2021_06_SEA_PIT,TomRagaert,45
+2021_06_SEA_PIT,tonyzanatian,58
 2021_06_SEA_PIT,tribunaltorch,71
 2021_06_SEA_PIT,triceruhtops,66
 2021_06_SEA_PIT,tristankuehn,53
@@ -40464,7 +40465,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,tutestheking,61
 2021_06_SEA_PIT,twain_w,50
 2021_06_SEA_PIT,Ty_the_risk_guy,50
-2021_06_SEA_PIT,tzanatian51,58
 2021_06_SEA_PIT,ukbradc,60
 2021_06_SEA_PIT,v3lardy,0
 2021_06_SEA_PIT,vedjos,41
@@ -40807,6 +40807,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,tommcquillin1,25
 2021_06_BUF_TEN,TommyPraeger,34
 2021_06_BUF_TEN,TomRagaert,24
+2021_06_BUF_TEN,tonyzanatian,40
 2021_06_BUF_TEN,tribunaltorch,21
 2021_06_BUF_TEN,triceruhtops,20
 2021_06_BUF_TEN,tristankuehn,25
@@ -40815,7 +40816,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,tutestheking,0
 2021_06_BUF_TEN,twain_w,31
 2021_06_BUF_TEN,Ty_the_risk_guy,0
-2021_06_BUF_TEN,tzanatian51,40
 2021_06_BUF_TEN,ukbradc,32
 2021_06_BUF_TEN,v3lardy,0
 2021_06_BUF_TEN,vedjos,0
@@ -41103,6 +41103,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,tommcquillin1,57
 2021_07_DEN_CLE,TommyPraeger,49
 2021_07_DEN_CLE,TomRagaert,77
+2021_07_DEN_CLE,tonyzanatian,50
 2021_07_DEN_CLE,tribunaltorch,38
 2021_07_DEN_CLE,triceruhtops,57
 2021_07_DEN_CLE,tristankuehn,49
@@ -41110,7 +41111,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,tutestheking,38
 2021_07_DEN_CLE,twain_w,50
 2021_07_DEN_CLE,Ty_the_risk_guy,50
-2021_07_DEN_CLE,tzanatian51,50
 2021_07_DEN_CLE,ukbradc,40
 2021_07_DEN_CLE,v3lardy,100
 2021_07_DEN_CLE,vedjos,42
@@ -41428,6 +41428,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,tommcquillin1,76
 2021_07_CIN_BAL,TommyPraeger,69
 2021_07_CIN_BAL,TomRagaert,68
+2021_07_CIN_BAL,tonyzanatian,65
 2021_07_CIN_BAL,tribunaltorch,75
 2021_07_CIN_BAL,triceruhtops,71
 2021_07_CIN_BAL,tristankuehn,73
@@ -41435,7 +41436,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,tutestheking,77
 2021_07_CIN_BAL,twain_w,50
 2021_07_CIN_BAL,Ty_the_risk_guy,50
-2021_07_CIN_BAL,tzanatian51,65
 2021_07_CIN_BAL,ukbradc,39
 2021_07_CIN_BAL,united709,84
 2021_07_CIN_BAL,v3lardy,100
@@ -41758,6 +41758,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,tommcquillin1,83
 2021_07_WAS_GB,TommyPraeger,73
 2021_07_WAS_GB,TomRagaert,100
+2021_07_WAS_GB,tonyzanatian,65
 2021_07_WAS_GB,tribunaltorch,98
 2021_07_WAS_GB,triceruhtops,84
 2021_07_WAS_GB,tristankuehn,76
@@ -41765,7 +41766,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,tutestheking,95
 2021_07_WAS_GB,twain_w,50
 2021_07_WAS_GB,Ty_the_risk_guy,100
-2021_07_WAS_GB,tzanatian51,65
 2021_07_WAS_GB,ukbradc,100
 2021_07_WAS_GB,united709,100
 2021_07_WAS_GB,v3lardy,100
@@ -42088,6 +42088,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,tommcquillin1,59
 2021_07_ATL_MIA,TommyPraeger,51
 2021_07_ATL_MIA,TomRagaert,55
+2021_07_ATL_MIA,tonyzanatian,40
 2021_07_ATL_MIA,tribunaltorch,47
 2021_07_ATL_MIA,triceruhtops,48
 2021_07_ATL_MIA,tristankuehn,44
@@ -42095,7 +42096,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,tutestheking,59
 2021_07_ATL_MIA,twain_w,50
 2021_07_ATL_MIA,Ty_the_risk_guy,50
-2021_07_ATL_MIA,tzanatian51,40
 2021_07_ATL_MIA,ukbradc,33
 2021_07_ATL_MIA,united709,73
 2021_07_ATL_MIA,v3lardy,0
@@ -42418,6 +42418,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,tommcquillin1,79
 2021_07_NYJ_NE,TommyPraeger,69
 2021_07_NYJ_NE,TomRagaert,80
+2021_07_NYJ_NE,tonyzanatian,60
 2021_07_NYJ_NE,tribunaltorch,87
 2021_07_NYJ_NE,triceruhtops,70
 2021_07_NYJ_NE,tristankuehn,72
@@ -42425,7 +42426,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,tutestheking,100
 2021_07_NYJ_NE,twain_w,50
 2021_07_NYJ_NE,Ty_the_risk_guy,50
-2021_07_NYJ_NE,tzanatian51,60
 2021_07_NYJ_NE,ukbradc,66
 2021_07_NYJ_NE,united709,39
 2021_07_NYJ_NE,v3lardy,100
@@ -42748,6 +42748,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,tommcquillin1,34
 2021_07_CAR_NYG,TommyPraeger,40
 2021_07_CAR_NYG,TomRagaert,40
+2021_07_CAR_NYG,tonyzanatian,36
 2021_07_CAR_NYG,tribunaltorch,38
 2021_07_CAR_NYG,triceruhtops,56
 2021_07_CAR_NYG,tristankuehn,44
@@ -42755,7 +42756,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,tutestheking,31
 2021_07_CAR_NYG,twain_w,50
 2021_07_CAR_NYG,Ty_the_risk_guy,50
-2021_07_CAR_NYG,tzanatian51,36
 2021_07_CAR_NYG,ukbradc,35
 2021_07_CAR_NYG,united709,32
 2021_07_CAR_NYG,v3lardy,0
@@ -43078,6 +43078,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,tommcquillin1,30
 2021_07_KC_TEN,TommyPraeger,37
 2021_07_KC_TEN,TomRagaert,35
+2021_07_KC_TEN,tonyzanatian,45
 2021_07_KC_TEN,tribunaltorch,41
 2021_07_KC_TEN,triceruhtops,30
 2021_07_KC_TEN,tristankuehn,32
@@ -43085,7 +43086,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,tutestheking,36
 2021_07_KC_TEN,twain_w,50
 2021_07_KC_TEN,Ty_the_risk_guy,50
-2021_07_KC_TEN,tzanatian51,45
 2021_07_KC_TEN,ukbradc,45
 2021_07_KC_TEN,united709,58
 2021_07_KC_TEN,v3lardy,100
@@ -43411,6 +43411,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,tommcquillin1,87
 2021_07_DET_LA,TommyPraeger,88
 2021_07_DET_LA,TomRagaert,100
+2021_07_DET_LA,tonyzanatian,60
 2021_07_DET_LA,tribunaltorch,98
 2021_07_DET_LA,triceruhtops,84
 2021_07_DET_LA,tristankuehn,84
@@ -43418,7 +43419,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,tutestheking,99
 2021_07_DET_LA,twain_w,100
 2021_07_DET_LA,Ty_the_risk_guy,100
-2021_07_DET_LA,tzanatian51,60
 2021_07_DET_LA,ukbradc,100
 2021_07_DET_LA,united709,100
 2021_07_DET_LA,v3lardy,100
@@ -43744,6 +43744,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,tommcquillin1,43
 2021_07_PHI_LV,TommyPraeger,52
 2021_07_PHI_LV,TomRagaert,45
+2021_07_PHI_LV,tonyzanatian,47
 2021_07_PHI_LV,tribunaltorch,60
 2021_07_PHI_LV,triceruhtops,66
 2021_07_PHI_LV,tristankuehn,63
@@ -43751,7 +43752,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,tutestheking,56
 2021_07_PHI_LV,twain_w,73
 2021_07_PHI_LV,Ty_the_risk_guy,50
-2021_07_PHI_LV,tzanatian51,47
 2021_07_PHI_LV,ukbradc,72
 2021_07_PHI_LV,united709,70
 2021_07_PHI_LV,v3lardy,0
@@ -44077,6 +44077,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,tommcquillin1,86
 2021_07_HOU_ARI,TommyPraeger,86
 2021_07_HOU_ARI,TomRagaert,100
+2021_07_HOU_ARI,tonyzanatian,50
 2021_07_HOU_ARI,tribunaltorch,98
 2021_07_HOU_ARI,triceruhtops,81
 2021_07_HOU_ARI,tristankuehn,85
@@ -44084,7 +44085,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,tutestheking,100
 2021_07_HOU_ARI,twain_w,100
 2021_07_HOU_ARI,Ty_the_risk_guy,100
-2021_07_HOU_ARI,tzanatian51,50
 2021_07_HOU_ARI,ukbradc,100
 2021_07_HOU_ARI,united709,100
 2021_07_HOU_ARI,v3lardy,100
@@ -44410,6 +44410,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,tommcquillin1,83
 2021_07_CHI_TB,TommyPraeger,77
 2021_07_CHI_TB,TomRagaert,100
+2021_07_CHI_TB,tonyzanatian,66
 2021_07_CHI_TB,tribunaltorch,88
 2021_07_CHI_TB,triceruhtops,78
 2021_07_CHI_TB,tristankuehn,78
@@ -44417,7 +44418,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,tutestheking,98
 2021_07_CHI_TB,twain_w,95
 2021_07_CHI_TB,Ty_the_risk_guy,100
-2021_07_CHI_TB,tzanatian51,66
 2021_07_CHI_TB,ukbradc,81
 2021_07_CHI_TB,united709,42
 2021_07_CHI_TB,v3lardy,100
@@ -44746,6 +44746,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,tommcquillin1,69
 2021_07_IND_SF,TommyPraeger,49
 2021_07_IND_SF,TomRagaert,66
+2021_07_IND_SF,tonyzanatian,45
 2021_07_IND_SF,tribunaltorch,45
 2021_07_IND_SF,triceruhtops,58
 2021_07_IND_SF,tristankuehn,64
@@ -44753,7 +44754,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,tutestheking,65
 2021_07_IND_SF,twain_w,65
 2021_07_IND_SF,Ty_the_risk_guy,50
-2021_07_IND_SF,tzanatian51,45
 2021_07_IND_SF,ukbradc,68
 2021_07_IND_SF,united709,71
 2021_07_IND_SF,v3lardy,100
@@ -45084,6 +45084,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,tommcquillin1,44
 2021_07_NO_SEA,TommyPraeger,42
 2021_07_NO_SEA,TomRagaert,24
+2021_07_NO_SEA,tonyzanatian,40
 2021_07_NO_SEA,TrevonDiggsStan,38
 2021_07_NO_SEA,tribunaltorch,32
 2021_07_NO_SEA,triceruhtops,42
@@ -45092,7 +45093,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,tutestheking,37
 2021_07_NO_SEA,twain_w,33
 2021_07_NO_SEA,Ty_the_risk_guy,50
-2021_07_NO_SEA,tzanatian51,40
 2021_07_NO_SEA,ukbradc,35
 2021_07_NO_SEA,united709,0
 2021_07_NO_SEA,v3lardy,0
@@ -45371,6 +45371,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,tommcquillin1,75
 2021_08_GB_ARI,TommyPraeger,62
 2021_08_GB_ARI,TomRagaert,69
+2021_08_GB_ARI,tonyzanatian,40
 2021_08_GB_ARI,TrevonDiggsStan,64
 2021_08_GB_ARI,tribunaltorch,73
 2021_08_GB_ARI,triceruhtops,71
@@ -45379,7 +45380,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,tutestheking,87
 2021_08_GB_ARI,twain_w,50
 2021_08_GB_ARI,Ty_the_risk_guy,50
-2021_08_GB_ARI,tzanatian51,40
 2021_08_GB_ARI,ukbradc,61
 2021_08_GB_ARI,v3lardy,100
 2021_08_GB_ARI,vedjos,35
