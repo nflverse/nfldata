@@ -121,7 +121,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,chad_vonk,50
 2021_01_DAL_TB,chbacu,64
 2021_01_DAL_TB,chef__carey,82
-2021_01_DAL_TB,chester___119,88
 2021_01_DAL_TB,Chris_J_son,65
 2021_01_DAL_TB,ChrisLee8_,75
 2021_01_DAL_TB,claymendous,50
@@ -170,6 +169,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,DerekIthen,85
 2021_01_DAL_TB,DerickOduro3,50
 2021_01_DAL_TB,DeryckG_,73
+2021_01_DAL_TB,devnavani,88
 2021_01_DAL_TB,DFI_Gairey,50
 2021_01_DAL_TB,dflash1017,81
 2021_01_DAL_TB,DingerJigs,44
@@ -771,7 +771,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,chad_vonk,50
 2021_01_PHI_ATL,chbacu,55
 2021_01_PHI_ATL,chef__carey,40
-2021_01_PHI_ATL,chester___119,63
 2021_01_PHI_ATL,Chris_J_son,55
 2021_01_PHI_ATL,ChrisLee8_,60
 2021_01_PHI_ATL,claymendous,50
@@ -822,6 +821,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,DerekIthen,65
 2021_01_PHI_ATL,DerickOduro3,50
 2021_01_PHI_ATL,DeryckG_,65
+2021_01_PHI_ATL,devnavani,63
 2021_01_PHI_ATL,DFI_Gairey,50
 2021_01_PHI_ATL,dflash1017,55
 2021_01_PHI_ATL,DingerJigs,46
@@ -1444,7 +1444,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,chad_vonk,50
 2021_01_PIT_BUF,chbacu,61
 2021_01_PIT_BUF,chef__carey,41
-2021_01_PIT_BUF,chester___119,62
 2021_01_PIT_BUF,Chris_J_son,60
 2021_01_PIT_BUF,ChrisLee8_,70
 2021_01_PIT_BUF,claymendous,50
@@ -1495,6 +1494,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,DerekIthen,65
 2021_01_PIT_BUF,DerickOduro3,50
 2021_01_PIT_BUF,DeryckG_,70
+2021_01_PIT_BUF,devnavani,62
 2021_01_PIT_BUF,DFI_Gairey,50
 2021_01_PIT_BUF,dflash1017,67
 2021_01_PIT_BUF,DingerJigs,48
@@ -2117,7 +2117,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,chad_vonk,50
 2021_01_NYJ_CAR,chbacu,58
 2021_01_NYJ_CAR,chef__carey,45
-2021_01_NYJ_CAR,chester___119,46
 2021_01_NYJ_CAR,Chris_J_son,40
 2021_01_NYJ_CAR,ChrisLee8_,60
 2021_01_NYJ_CAR,claymendous,50
@@ -2168,6 +2167,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,DerekIthen,60
 2021_01_NYJ_CAR,DerickOduro3,50
 2021_01_NYJ_CAR,DeryckG_,62
+2021_01_NYJ_CAR,devnavani,46
 2021_01_NYJ_CAR,DFI_Gairey,50
 2021_01_NYJ_CAR,dflash1017,74
 2021_01_NYJ_CAR,DingerJigs,47
@@ -2790,7 +2790,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,chad_vonk,50
 2021_01_MIN_CIN,chbacu,45
 2021_01_MIN_CIN,chef__carey,57
-2021_01_MIN_CIN,chester___119,41
 2021_01_MIN_CIN,Chris_J_son,60
 2021_01_MIN_CIN,ChrisLee8_,35
 2021_01_MIN_CIN,claymendous,50
@@ -2841,6 +2840,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,DerekIthen,25
 2021_01_MIN_CIN,DerickOduro3,50
 2021_01_MIN_CIN,DeryckG_,40
+2021_01_MIN_CIN,devnavani,41
 2021_01_MIN_CIN,DFI_Gairey,50
 2021_01_MIN_CIN,dflash1017,40
 2021_01_MIN_CIN,DingerJigs,50
@@ -3463,7 +3463,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,chad_vonk,50
 2021_01_SF_DET,chbacu,37
 2021_01_SF_DET,chef__carey,35
-2021_01_SF_DET,chester___119,15
 2021_01_SF_DET,Chris_J_son,10
 2021_01_SF_DET,ChrisLee8_,30
 2021_01_SF_DET,claymendous,50
@@ -3514,6 +3513,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,DerekIthen,25
 2021_01_SF_DET,DerickOduro3,50
 2021_01_SF_DET,DeryckG_,30
+2021_01_SF_DET,devnavani,15
 2021_01_SF_DET,DFI_Gairey,50
 2021_01_SF_DET,dflash1017,22
 2021_01_SF_DET,DingerJigs,58
@@ -4136,7 +4136,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,chad_vonk,50
 2021_01_JAX_HOU,chbacu,44
 2021_01_JAX_HOU,chef__carey,67
-2021_01_JAX_HOU,chester___119,48
 2021_01_JAX_HOU,Chris_J_son,35
 2021_01_JAX_HOU,ChrisLee8_,40
 2021_01_JAX_HOU,claymendous,50
@@ -4187,6 +4186,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,DerekIthen,55
 2021_01_JAX_HOU,DerickOduro3,50
 2021_01_JAX_HOU,DeryckG_,45
+2021_01_JAX_HOU,devnavani,48
 2021_01_JAX_HOU,DFI_Gairey,50
 2021_01_JAX_HOU,dflash1017,36
 2021_01_JAX_HOU,DingerJigs,54
@@ -4809,7 +4809,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,chad_vonk,50
 2021_01_SEA_IND,chbacu,45
 2021_01_SEA_IND,chef__carey,35
-2021_01_SEA_IND,chester___119,46
 2021_01_SEA_IND,Chris_J_son,35
 2021_01_SEA_IND,ChrisLee8_,35
 2021_01_SEA_IND,claymendous,50
@@ -4860,6 +4859,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,DerekIthen,40
 2021_01_SEA_IND,DerickOduro3,50
 2021_01_SEA_IND,DeryckG_,36
+2021_01_SEA_IND,devnavani,46
 2021_01_SEA_IND,DFI_Gairey,50
 2021_01_SEA_IND,dflash1017,38
 2021_01_SEA_IND,DingerJigs,53
@@ -5482,7 +5482,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,chad_vonk,50
 2021_01_ARI_TEN,chbacu,55
 2021_01_ARI_TEN,chef__carey,81
-2021_01_ARI_TEN,chester___119,60
 2021_01_ARI_TEN,Chris_J_son,55
 2021_01_ARI_TEN,ChrisLee8_,45
 2021_01_ARI_TEN,claymendous,50
@@ -5533,6 +5532,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,DerekIthen,56
 2021_01_ARI_TEN,DerickOduro3,50
 2021_01_ARI_TEN,DeryckG_,60
+2021_01_ARI_TEN,devnavani,60
 2021_01_ARI_TEN,DFI_Gairey,50
 2021_01_ARI_TEN,dflash1017,55
 2021_01_ARI_TEN,DingerJigs,44
@@ -6155,7 +6155,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,chad_vonk,50
 2021_01_LAC_WAS,chbacu,51
 2021_01_LAC_WAS,chef__carey,20
-2021_01_LAC_WAS,chester___119,57
 2021_01_LAC_WAS,Chris_J_son,60
 2021_01_LAC_WAS,ChrisLee8_,35
 2021_01_LAC_WAS,claymendous,50
@@ -6206,6 +6205,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,DerekIthen,45
 2021_01_LAC_WAS,DerickOduro3,50
 2021_01_LAC_WAS,DeryckG_,42
+2021_01_LAC_WAS,devnavani,57
 2021_01_LAC_WAS,DFI_Gairey,50
 2021_01_LAC_WAS,dflash1017,45
 2021_01_LAC_WAS,DingerJigs,52
@@ -6828,7 +6828,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,chad_vonk,76
 2021_01_CLE_KC,chbacu,60
 2021_01_CLE_KC,chef__carey,90
-2021_01_CLE_KC,chester___119,72
 2021_01_CLE_KC,Chris_J_son,60
 2021_01_CLE_KC,ChrisLee8_,65
 2021_01_CLE_KC,claymendous,50
@@ -6879,6 +6878,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,DerekIthen,61
 2021_01_CLE_KC,DerickOduro3,50
 2021_01_CLE_KC,DeryckG_,68
+2021_01_CLE_KC,devnavani,72
 2021_01_CLE_KC,DFI_Gairey,50
 2021_01_CLE_KC,dflash1017,69
 2021_01_CLE_KC,DingerJigs,48
@@ -7501,7 +7501,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,chad_vonk,49
 2021_01_MIA_NE,chbacu,56
 2021_01_MIA_NE,chef__carey,90
-2021_01_MIA_NE,chester___119,54
 2021_01_MIA_NE,Chris_J_son,40
 2021_01_MIA_NE,ChrisLee8_,65
 2021_01_MIA_NE,claymendous,50
@@ -7552,6 +7551,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,DerekIthen,40
 2021_01_MIA_NE,DerickOduro3,50
 2021_01_MIA_NE,DeryckG_,55
+2021_01_MIA_NE,devnavani,54
 2021_01_MIA_NE,DFI_Gairey,50
 2021_01_MIA_NE,dflash1017,60
 2021_01_MIA_NE,DingerJigs,50
@@ -8174,7 +8174,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,chad_vonk,50
 2021_01_GB_NO,chbacu,43
 2021_01_GB_NO,chef__carey,52
-2021_01_GB_NO,chester___119,39
 2021_01_GB_NO,Chris_J_son,25
 2021_01_GB_NO,ChrisLee8_,30
 2021_01_GB_NO,claymendous,50
@@ -8225,6 +8224,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,DerekIthen,35
 2021_01_GB_NO,DerickOduro3,50
 2021_01_GB_NO,DeryckG_,30
+2021_01_GB_NO,devnavani,39
 2021_01_GB_NO,DFI_Gairey,50
 2021_01_GB_NO,dflash1017,34
 2021_01_GB_NO,DingerJigs,53
@@ -8847,7 +8847,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,chad_vonk,50
 2021_01_DEN_NYG,chbacu,45
 2021_01_DEN_NYG,chef__carey,65
-2021_01_DEN_NYG,chester___119,46
 2021_01_DEN_NYG,Chris_J_son,59
 2021_01_DEN_NYG,ChrisLee8_,80
 2021_01_DEN_NYG,claymendous,50
@@ -8898,6 +8897,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,DerekIthen,45
 2021_01_DEN_NYG,DerickOduro3,50
 2021_01_DEN_NYG,DeryckG_,45
+2021_01_DEN_NYG,devnavani,46
 2021_01_DEN_NYG,DFI_Gairey,50
 2021_01_DEN_NYG,dflash1017,43
 2021_01_DEN_NYG,DingerJigs,53
@@ -9520,7 +9520,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,chad_vonk,50
 2021_01_CHI_LA,chbacu,63
 2021_01_CHI_LA,chef__carey,90
-2021_01_CHI_LA,chester___119,79
 2021_01_CHI_LA,Chris_J_son,65
 2021_01_CHI_LA,ChrisLee8_,70
 2021_01_CHI_LA,claymendous,50
@@ -9571,6 +9570,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,DerekIthen,65
 2021_01_CHI_LA,DerickOduro3,50
 2021_01_CHI_LA,DeryckG_,72
+2021_01_CHI_LA,devnavani,79
 2021_01_CHI_LA,DFI_Gairey,50
 2021_01_CHI_LA,dflash1017,76
 2021_01_CHI_LA,DingerJigs,47
@@ -10200,7 +10200,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,chad_vonk,50
 2021_01_BAL_LV,chbacu,42
 2021_01_BAL_LV,chef__carey,15
-2021_01_BAL_LV,chester___119,31
 2021_01_BAL_LV,Chris_J_son,25
 2021_01_BAL_LV,chris_jorgy15,0
 2021_01_BAL_LV,ChrisLee8_,35
@@ -10254,6 +10253,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,DerekIthen,37
 2021_01_BAL_LV,DerickOduro3,50
 2021_01_BAL_LV,DeryckG_,28
+2021_01_BAL_LV,devnavani,31
 2021_01_BAL_LV,DFI_Gairey,50
 2021_01_BAL_LV,dflash1017,33
 2021_01_BAL_LV,DingerJigs,55
@@ -10846,7 +10846,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,cdvalenti,70
 2021_02_NYG_WAS,CFBNumbers,64
 2021_02_NYG_WAS,cgustafson__,0
-2021_02_NYG_WAS,chester___119,59
 2021_02_NYG_WAS,ChrisLee8_,10
 2021_02_NYG_WAS,CoachHaverkamp,75
 2021_02_NYG_WAS,CodyGoggin,50
@@ -10871,6 +10870,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,ddknowles77,51
 2021_02_NYG_WAS,deepvaluebettor,51
 2021_02_NYG_WAS,DeryckG_,54
+2021_02_NYG_WAS,devnavani,59
 2021_02_NYG_WAS,dflash1017,56
 2021_02_NYG_WAS,dgrilli98,56
 2021_02_NYG_WAS,DogPhoenixWP,46
@@ -11228,7 +11228,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,CFBNumbers,42
 2021_02_NO_CAR,cgustafson__,0
 2021_02_NO_CAR,chbacu,44
-2021_02_NO_CAR,chester___119,38
 2021_02_NO_CAR,Chris_J_son,45
 2021_02_NO_CAR,ChrisLee8_,20
 2021_02_NO_CAR,CoachHaverkamp,40
@@ -11261,6 +11260,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,ddknowles77,21
 2021_02_NO_CAR,deepvaluebettor,51
 2021_02_NO_CAR,DeryckG_,33
+2021_02_NO_CAR,devnavani,38
 2021_02_NO_CAR,dflash1017,44
 2021_02_NO_CAR,dgrilli98,50
 2021_02_NO_CAR,DNebenfhr,50
@@ -11661,7 +11661,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,CFBNumbers,45
 2021_02_CIN_CHI,cgustafson__,0
 2021_02_CIN_CHI,chbacu,52
-2021_02_CIN_CHI,chester___119,57
 2021_02_CIN_CHI,Chris_J_son,35
 2021_02_CIN_CHI,ChrisLee8_,35
 2021_02_CIN_CHI,CoachHaverkamp,70
@@ -11694,6 +11693,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,ddknowles77,37
 2021_02_CIN_CHI,deepvaluebettor,55
 2021_02_CIN_CHI,DeryckG_,43
+2021_02_CIN_CHI,devnavani,57
 2021_02_CIN_CHI,dflash1017,50
 2021_02_CIN_CHI,dgrilli98,54
 2021_02_CIN_CHI,DNebenfhr,50
@@ -12094,7 +12094,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,CFBNumbers,77
 2021_02_HOU_CLE,cgustafson__,100
 2021_02_HOU_CLE,chbacu,68
-2021_02_HOU_CLE,chester___119,88
 2021_02_HOU_CLE,Chris_J_son,75
 2021_02_HOU_CLE,ChrisLee8_,70
 2021_02_HOU_CLE,CoachHaverkamp,75
@@ -12127,6 +12126,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,ddknowles77,100
 2021_02_HOU_CLE,deepvaluebettor,90
 2021_02_HOU_CLE,DeryckG_,90
+2021_02_HOU_CLE,devnavani,88
 2021_02_HOU_CLE,dflash1017,91
 2021_02_HOU_CLE,dgrilli98,50
 2021_02_HOU_CLE,DNebenfhr,50
@@ -12527,7 +12527,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,CFBNumbers,26
 2021_02_LA_IND,cgustafson__,100
 2021_02_LA_IND,chbacu,43
-2021_02_LA_IND,chester___119,41
 2021_02_LA_IND,Chris_J_son,40
 2021_02_LA_IND,ChrisLee8_,35
 2021_02_LA_IND,CoachHaverkamp,35
@@ -12560,6 +12559,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,ddknowles77,32
 2021_02_LA_IND,deepvaluebettor,37
 2021_02_LA_IND,DeryckG_,16
+2021_02_LA_IND,devnavani,41
 2021_02_LA_IND,dflash1017,42
 2021_02_LA_IND,dgrilli98,50
 2021_02_LA_IND,DNebenfhr,50
@@ -12960,7 +12960,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,CFBNumbers,41
 2021_02_DEN_JAX,cgustafson__,0
 2021_02_DEN_JAX,chbacu,40
-2021_02_DEN_JAX,chester___119,36
 2021_02_DEN_JAX,Chris_J_son,40
 2021_02_DEN_JAX,ChrisLee8_,40
 2021_02_DEN_JAX,CoachHaverkamp,45
@@ -12993,6 +12992,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,ddknowles77,0
 2021_02_DEN_JAX,deepvaluebettor,25
 2021_02_DEN_JAX,DeryckG_,30
+2021_02_DEN_JAX,devnavani,36
 2021_02_DEN_JAX,dflash1017,33
 2021_02_DEN_JAX,dgrilli98,50
 2021_02_DEN_JAX,DNebenfhr,50
@@ -13393,7 +13393,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,CFBNumbers,56
 2021_02_BUF_MIA,cgustafson__,0
 2021_02_BUF_MIA,chbacu,43
-2021_02_BUF_MIA,chester___119,40
 2021_02_BUF_MIA,Chris_J_son,55
 2021_02_BUF_MIA,ChrisLee8_,35
 2021_02_BUF_MIA,CoachHaverkamp,45
@@ -13426,6 +13425,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,ddknowles77,33
 2021_02_BUF_MIA,deepvaluebettor,55
 2021_02_BUF_MIA,DeryckG_,27
+2021_02_BUF_MIA,devnavani,40
 2021_02_BUF_MIA,dflash1017,42
 2021_02_BUF_MIA,dgrilli98,50
 2021_02_BUF_MIA,DNebenfhr,50
@@ -13826,7 +13826,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,CFBNumbers,39
 2021_02_NE_NYJ,cgustafson__,100
 2021_02_NE_NYJ,chbacu,40
-2021_02_NE_NYJ,chester___119,29
 2021_02_NE_NYJ,Chris_J_son,45
 2021_02_NE_NYJ,ChrisLee8_,30
 2021_02_NE_NYJ,CoachHaverkamp,40
@@ -13859,6 +13858,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,ddknowles77,0
 2021_02_NE_NYJ,deepvaluebettor,25
 2021_02_NE_NYJ,DeryckG_,22
+2021_02_NE_NYJ,devnavani,29
 2021_02_NE_NYJ,dflash1017,28
 2021_02_NE_NYJ,dgrilli98,50
 2021_02_NE_NYJ,DNebenfhr,50
@@ -14259,7 +14259,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,CFBNumbers,41
 2021_02_SF_PHI,cgustafson__,100
 2021_02_SF_PHI,chbacu,46
-2021_02_SF_PHI,chester___119,30
 2021_02_SF_PHI,Chris_J_son,40
 2021_02_SF_PHI,ChrisLee8_,40
 2021_02_SF_PHI,CoachHaverkamp,25
@@ -14292,6 +14291,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,ddknowles77,31
 2021_02_SF_PHI,deepvaluebettor,45
 2021_02_SF_PHI,DeryckG_,45
+2021_02_SF_PHI,devnavani,30
 2021_02_SF_PHI,dflash1017,35
 2021_02_SF_PHI,dgrilli98,50
 2021_02_SF_PHI,DNebenfhr,50
@@ -14692,7 +14692,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,CFBNumbers,65
 2021_02_LV_PIT,cgustafson__,100
 2021_02_LV_PIT,chbacu,60
-2021_02_LV_PIT,chester___119,60
 2021_02_LV_PIT,Chris_J_son,60
 2021_02_LV_PIT,ChrisLee8_,60
 2021_02_LV_PIT,CoachHaverkamp,60
@@ -14725,6 +14724,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,ddknowles77,65
 2021_02_LV_PIT,deepvaluebettor,45
 2021_02_LV_PIT,DeryckG_,60
+2021_02_LV_PIT,devnavani,60
 2021_02_LV_PIT,dflash1017,71
 2021_02_LV_PIT,dgrilli98,50
 2021_02_LV_PIT,DNebenfhr,50
@@ -15126,7 +15126,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,CFBNumbers,68
 2021_02_MIN_ARI,cgustafson__,100
 2021_02_MIN_ARI,chbacu,58
-2021_02_MIN_ARI,chester___119,62
 2021_02_MIN_ARI,Chris_J_son,60
 2021_02_MIN_ARI,ChrisLee8_,55
 2021_02_MIN_ARI,CoachHaverkamp,65
@@ -15159,6 +15158,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,ddknowles77,64
 2021_02_MIN_ARI,deepvaluebettor,45
 2021_02_MIN_ARI,DeryckG_,62
+2021_02_MIN_ARI,devnavani,62
 2021_02_MIN_ARI,dflash1017,63
 2021_02_MIN_ARI,dgrilli98,50
 2021_02_MIN_ARI,DNebenfhr,70
@@ -15560,7 +15560,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,CFBNumbers,88
 2021_02_ATL_TB,cgustafson__,0
 2021_02_ATL_TB,chbacu,68
-2021_02_ATL_TB,chester___119,92
 2021_02_ATL_TB,Chris_J_son,75
 2021_02_ATL_TB,ChrisLee8_,80
 2021_02_ATL_TB,CoachHaverkamp,90
@@ -15593,6 +15592,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,ddknowles77,100
 2021_02_ATL_TB,deepvaluebettor,85
 2021_02_ATL_TB,DeryckG_,82
+2021_02_ATL_TB,devnavani,92
 2021_02_ATL_TB,dflash1017,82
 2021_02_ATL_TB,dgrilli98,50
 2021_02_ATL_TB,DNebenfhr,95
@@ -15994,7 +15994,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,CFBNumbers,47
 2021_02_DAL_LAC,cgustafson__,0
 2021_02_DAL_LAC,chbacu,55
-2021_02_DAL_LAC,chester___119,55
 2021_02_DAL_LAC,Chris_J_son,65
 2021_02_DAL_LAC,ChrisLee8_,55
 2021_02_DAL_LAC,CoachHaverkamp,55
@@ -16027,6 +16026,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,ddknowles77,56
 2021_02_DAL_LAC,deepvaluebettor,65
 2021_02_DAL_LAC,DeryckG_,53
+2021_02_DAL_LAC,devnavani,55
 2021_02_DAL_LAC,dflash1017,57
 2021_02_DAL_LAC,dgrilli98,50
 2021_02_DAL_LAC,DNebenfhr,40
@@ -16428,7 +16428,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,CFBNumbers,61
 2021_02_TEN_SEA,cgustafson__,100
 2021_02_TEN_SEA,chbacu,60
-2021_02_TEN_SEA,chester___119,67
 2021_02_TEN_SEA,Chris_J_son,60
 2021_02_TEN_SEA,ChrisLee8_,65
 2021_02_TEN_SEA,CoachHaverkamp,65
@@ -16461,6 +16460,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,ddknowles77,58
 2021_02_TEN_SEA,deepvaluebettor,55
 2021_02_TEN_SEA,DeryckG_,67
+2021_02_TEN_SEA,devnavani,67
 2021_02_TEN_SEA,dflash1017,68
 2021_02_TEN_SEA,dgrilli98,50
 2021_02_TEN_SEA,DNebenfhr,70
@@ -16862,7 +16862,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,CFBNumbers,36
 2021_02_KC_BAL,cgustafson__,0
 2021_02_KC_BAL,chbacu,43
-2021_02_KC_BAL,chester___119,31
 2021_02_KC_BAL,Chris_J_son,25
 2021_02_KC_BAL,ChrisLee8_,35
 2021_02_KC_BAL,CoachHaverkamp,40
@@ -16895,6 +16894,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,ddknowles77,28
 2021_02_KC_BAL,deepvaluebettor,15
 2021_02_KC_BAL,DeryckG_,28
+2021_02_KC_BAL,devnavani,31
 2021_02_KC_BAL,dflash1017,38
 2021_02_KC_BAL,dgrilli98,50
 2021_02_KC_BAL,DNebenfhr,34
@@ -17296,7 +17296,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,CFBNumbers,100
 2021_02_DET_GB,cgustafson__,100
 2021_02_DET_GB,chbacu,66
-2021_02_DET_GB,chester___119,92
 2021_02_DET_GB,Chris_J_son,80
 2021_02_DET_GB,ChrisLee8_,60
 2021_02_DET_GB,CoachHaverkamp,70
@@ -17329,6 +17328,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,ddknowles77,100
 2021_02_DET_GB,deepvaluebettor,90
 2021_02_DET_GB,DeryckG_,78
+2021_02_DET_GB,devnavani,92
 2021_02_DET_GB,dflash1017,83
 2021_02_DET_GB,dgrilli98,50
 2021_02_DET_GB,DNebenfhr,85
@@ -17718,7 +17718,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,cdvalenti,36
 2021_03_CAR_HOU,CFBNumbers,22
 2021_03_CAR_HOU,cgustafson__,11
-2021_03_CAR_HOU,chester___119,50
 2021_03_CAR_HOU,Chris_J_son,40
 2021_03_CAR_HOU,ChrisLee8_,50
 2021_03_CAR_HOU,CoachHaverkamp,25
@@ -17742,6 +17741,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,ddknowles77,16
 2021_03_CAR_HOU,deepvaluebettor,15
 2021_03_CAR_HOU,DeryckG_,12
+2021_03_CAR_HOU,devnavani,50
 2021_03_CAR_HOU,dflash1017,27
 2021_03_CAR_HOU,djgoldman1,0
 2021_03_CAR_HOU,DogPhoenixWP,64
@@ -18067,7 +18067,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,cdvalenti,76
 2021_03_WAS_BUF,CFBNumbers,76
 2021_03_WAS_BUF,cgustafson__,8
-2021_03_WAS_BUF,chester___119,50
 2021_03_WAS_BUF,Chris_J_son,60
 2021_03_WAS_BUF,ChrisLee8_,50
 2021_03_WAS_BUF,CoachHaverkamp,80
@@ -18093,6 +18092,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,ddknowles77,100
 2021_03_WAS_BUF,deepvaluebettor,69
 2021_03_WAS_BUF,DeryckG_,88
+2021_03_WAS_BUF,devnavani,50
 2021_03_WAS_BUF,dflash1017,81
 2021_03_WAS_BUF,djgoldman1,82
 2021_03_WAS_BUF,DNebenfhr,62
@@ -18442,7 +18442,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,cdvalenti,75
 2021_03_CHI_CLE,CFBNumbers,68
 2021_03_CHI_CLE,cgustafson__,100
-2021_03_CHI_CLE,chester___119,50
 2021_03_CHI_CLE,Chris_J_son,70
 2021_03_CHI_CLE,ChrisLee8_,50
 2021_03_CHI_CLE,CoachHaverkamp,65
@@ -18468,6 +18467,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,ddknowles77,100
 2021_03_CHI_CLE,deepvaluebettor,85
 2021_03_CHI_CLE,DeryckG_,72
+2021_03_CHI_CLE,devnavani,50
 2021_03_CHI_CLE,dflash1017,70
 2021_03_CHI_CLE,djgoldman1,74
 2021_03_CHI_CLE,DNebenfhr,70
@@ -18817,7 +18817,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,cdvalenti,13
 2021_03_BAL_DET,CFBNumbers,34
 2021_03_BAL_DET,cgustafson__,68
-2021_03_BAL_DET,chester___119,50
 2021_03_BAL_DET,Chris_J_son,30
 2021_03_BAL_DET,ChrisLee8_,50
 2021_03_BAL_DET,CoachHaverkamp,10
@@ -18843,6 +18842,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,ddknowles77,0
 2021_03_BAL_DET,deepvaluebettor,40
 2021_03_BAL_DET,DeryckG_,14
+2021_03_BAL_DET,devnavani,50
 2021_03_BAL_DET,dflash1017,17
 2021_03_BAL_DET,djgoldman1,17
 2021_03_BAL_DET,DNebenfhr,14
@@ -19192,7 +19192,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,cdvalenti,17
 2021_03_ARI_JAX,CFBNumbers,32
 2021_03_ARI_JAX,cgustafson__,1
-2021_03_ARI_JAX,chester___119,50
 2021_03_ARI_JAX,Chris_J_son,35
 2021_03_ARI_JAX,ChrisLee8_,50
 2021_03_ARI_JAX,CoachHaverkamp,35
@@ -19218,6 +19217,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,ddknowles77,22
 2021_03_ARI_JAX,deepvaluebettor,21
 2021_03_ARI_JAX,DeryckG_,10
+2021_03_ARI_JAX,devnavani,50
 2021_03_ARI_JAX,dflash1017,30
 2021_03_ARI_JAX,djgoldman1,23
 2021_03_ARI_JAX,DNebenfhr,16
@@ -19567,7 +19567,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,cdvalenti,68
 2021_03_LAC_KC,CFBNumbers,63
 2021_03_LAC_KC,cgustafson__,14
-2021_03_LAC_KC,chester___119,50
 2021_03_LAC_KC,Chris_J_son,70
 2021_03_LAC_KC,ChrisLee8_,50
 2021_03_LAC_KC,CoachHaverkamp,80
@@ -19593,6 +19592,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,ddknowles77,76
 2021_03_LAC_KC,deepvaluebettor,55
 2021_03_LAC_KC,DeryckG_,72
+2021_03_LAC_KC,devnavani,50
 2021_03_LAC_KC,dflash1017,79
 2021_03_LAC_KC,djgoldman1,71
 2021_03_LAC_KC,DNebenfhr,68
@@ -19942,7 +19942,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,cdvalenti,67
 2021_03_NO_NE,CFBNumbers,39
 2021_03_NO_NE,cgustafson__,76
-2021_03_NO_NE,chester___119,50
 2021_03_NO_NE,Chris_J_son,60
 2021_03_NO_NE,ChrisLee8_,50
 2021_03_NO_NE,CoachHaverkamp,65
@@ -19968,6 +19967,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,ddknowles77,60
 2021_03_NO_NE,deepvaluebettor,45
 2021_03_NO_NE,DeryckG_,44
+2021_03_NO_NE,devnavani,50
 2021_03_NO_NE,dflash1017,59
 2021_03_NO_NE,djgoldman1,60
 2021_03_NO_NE,DNebenfhr,57
@@ -20317,7 +20317,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,cdvalenti,29
 2021_03_ATL_NYG,CFBNumbers,53
 2021_03_ATL_NYG,cgustafson__,74
-2021_03_ATL_NYG,chester___119,50
 2021_03_ATL_NYG,Chris_J_son,45
 2021_03_ATL_NYG,ChrisLee8_,50
 2021_03_ATL_NYG,CoachHaverkamp,45
@@ -20343,6 +20342,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,ddknowles77,47
 2021_03_ATL_NYG,deepvaluebettor,45
 2021_03_ATL_NYG,DeryckG_,35
+2021_03_ATL_NYG,devnavani,50
 2021_03_ATL_NYG,dflash1017,55
 2021_03_ATL_NYG,djgoldman1,64
 2021_03_ATL_NYG,DNebenfhr,64
@@ -20692,7 +20692,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,cdvalenti,36
 2021_03_CIN_PIT,CFBNumbers,63
 2021_03_CIN_PIT,cgustafson__,15
-2021_03_CIN_PIT,chester___119,50
 2021_03_CIN_PIT,Chris_J_son,60
 2021_03_CIN_PIT,ChrisLee8_,50
 2021_03_CIN_PIT,CoachHaverkamp,80
@@ -20718,6 +20717,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,ddknowles77,54
 2021_03_CIN_PIT,deepvaluebettor,45
 2021_03_CIN_PIT,DeryckG_,53
+2021_03_CIN_PIT,devnavani,50
 2021_03_CIN_PIT,dflash1017,69
 2021_03_CIN_PIT,djgoldman1,71
 2021_03_CIN_PIT,DNebenfhr,64
@@ -21067,7 +21067,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,cdvalenti,38
 2021_03_IND_TEN,CFBNumbers,72
 2021_03_IND_TEN,cgustafson__,100
-2021_03_IND_TEN,chester___119,50
 2021_03_IND_TEN,Chris_J_son,65
 2021_03_IND_TEN,ChrisLee8_,50
 2021_03_IND_TEN,CoachHaverkamp,60
@@ -21093,6 +21092,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,ddknowles77,80
 2021_03_IND_TEN,deepvaluebettor,51
 2021_03_IND_TEN,DeryckG_,90
+2021_03_IND_TEN,devnavani,50
 2021_03_IND_TEN,dflash1017,63
 2021_03_IND_TEN,djgoldman1,57
 2021_03_IND_TEN,DNebenfhr,69
@@ -21443,7 +21443,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,cdvalenti,79
 2021_03_NYJ_DEN,CFBNumbers,100
 2021_03_NYJ_DEN,cgustafson__,78
-2021_03_NYJ_DEN,chester___119,89
 2021_03_NYJ_DEN,Chris_J_son,75
 2021_03_NYJ_DEN,ChrisLee8_,50
 2021_03_NYJ_DEN,CoachHaverkamp,75
@@ -21469,6 +21468,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,ddknowles77,87
 2021_03_NYJ_DEN,deepvaluebettor,75
 2021_03_NYJ_DEN,DeryckG_,78
+2021_03_NYJ_DEN,devnavani,89
 2021_03_NYJ_DEN,dflash1017,81
 2021_03_NYJ_DEN,djgoldman1,89
 2021_03_NYJ_DEN,DNebenfhr,80
@@ -21821,7 +21821,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,cdvalenti,36
 2021_03_MIA_LV,CFBNumbers,66
 2021_03_MIA_LV,cgustafson__,77
-2021_03_MIA_LV,chester___119,75
 2021_03_MIA_LV,Chris_J_son,45
 2021_03_MIA_LV,ChrisLee8_,50
 2021_03_MIA_LV,CoachHaverkamp,60
@@ -21847,6 +21846,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,ddknowles77,64
 2021_03_MIA_LV,deepvaluebettor,51
 2021_03_MIA_LV,DeryckG_,73
+2021_03_MIA_LV,devnavani,75
 2021_03_MIA_LV,dflash1017,60
 2021_03_MIA_LV,djgoldman1,66
 2021_03_MIA_LV,DNebenfhr,60
@@ -22200,7 +22200,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,cdvalenti,38
 2021_03_TB_LA,CFBNumbers,45
 2021_03_TB_LA,cgustafson__,9
-2021_03_TB_LA,chester___119,45
 2021_03_TB_LA,Chris_J_son,45
 2021_03_TB_LA,ChrisLee8_,50
 2021_03_TB_LA,CoachHaverkamp,45
@@ -22226,6 +22225,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,ddknowles77,41
 2021_03_TB_LA,deepvaluebettor,35
 2021_03_TB_LA,DeryckG_,42
+2021_03_TB_LA,devnavani,45
 2021_03_TB_LA,dflash1017,45
 2021_03_TB_LA,djgoldman1,43
 2021_03_TB_LA,DNebenfhr,40
@@ -22579,7 +22579,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,cdvalenti,63
 2021_03_SEA_MIN,CFBNumbers,34
 2021_03_SEA_MIN,cgustafson__,90
-2021_03_SEA_MIN,chester___119,41
 2021_03_SEA_MIN,Chris_J_son,40
 2021_03_SEA_MIN,ChrisLee8_,50
 2021_03_SEA_MIN,CoachHaverkamp,45
@@ -22605,6 +22604,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,ddknowles77,44
 2021_03_SEA_MIN,deepvaluebettor,40
 2021_03_SEA_MIN,DeryckG_,36
+2021_03_SEA_MIN,devnavani,41
 2021_03_SEA_MIN,dflash1017,40
 2021_03_SEA_MIN,djgoldman1,34
 2021_03_SEA_MIN,DNebenfhr,40
@@ -22958,7 +22958,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,cdvalenti,68
 2021_03_GB_SF,CFBNumbers,66
 2021_03_GB_SF,cgustafson__,19
-2021_03_GB_SF,chester___119,58
 2021_03_GB_SF,Chris_J_son,55
 2021_03_GB_SF,ChrisLee8_,50
 2021_03_GB_SF,CoachHaverkamp,45
@@ -22984,6 +22983,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,ddknowles77,45
 2021_03_GB_SF,deepvaluebettor,69
 2021_03_GB_SF,DeryckG_,40
+2021_03_GB_SF,devnavani,58
 2021_03_GB_SF,dflash1017,52
 2021_03_GB_SF,djgoldman1,56
 2021_03_GB_SF,DNebenfhr,40
@@ -23342,7 +23342,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,cdvalenti,58
 2021_03_PHI_DAL,CFBNumbers,75
 2021_03_PHI_DAL,cgustafson__,100
-2021_03_PHI_DAL,chester___119,61
 2021_03_PHI_DAL,Chris_J_son,45
 2021_03_PHI_DAL,ChrisLee8_,50
 2021_03_PHI_DAL,CoachHaverkamp,80
@@ -23368,6 +23367,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,ddknowles77,68
 2021_03_PHI_DAL,deepvaluebettor,51
 2021_03_PHI_DAL,DeryckG_,58
+2021_03_PHI_DAL,devnavani,61
 2021_03_PHI_DAL,dflash1017,61
 2021_03_PHI_DAL,djgoldman1,58
 2021_03_PHI_DAL,DNebenfhr,71
@@ -23728,7 +23728,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,CapitalLochness,50
 2021_04_JAX_CIN,cdvalenti,50
 2021_04_JAX_CIN,CFBNumbers,90
-2021_04_JAX_CIN,chester___119,66
 2021_04_JAX_CIN,Chris_J_son,50
 2021_04_JAX_CIN,CoachHaverkamp,80
 2021_04_JAX_CIN,CodyGoggin,76
@@ -23749,6 +23748,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,ddknowles77,80
 2021_04_JAX_CIN,deepvaluebettor,55
 2021_04_JAX_CIN,DeryckG_,70
+2021_04_JAX_CIN,devnavani,66
 2021_04_JAX_CIN,dflash1017,50
 2021_04_JAX_CIN,djgoldman1,72
 2021_04_JAX_CIN,DNebenfhr,66
@@ -24092,7 +24092,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,CapitalLochness,46
 2021_04_WAS_ATL,cdvalenti,43
 2021_04_WAS_ATL,CFBNumbers,19
-2021_04_WAS_ATL,chester___119,48
 2021_04_WAS_ATL,Chris_J_son,40
 2021_04_WAS_ATL,CoachHaverkamp,55
 2021_04_WAS_ATL,CodyGoggin,59
@@ -24116,6 +24115,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,ddknowles77,34
 2021_04_WAS_ATL,deepvaluebettor,45
 2021_04_WAS_ATL,DeryckG_,45
+2021_04_WAS_ATL,devnavani,48
 2021_04_WAS_ATL,dflash1017,50
 2021_04_WAS_ATL,djgoldman1,48
 2021_04_WAS_ATL,DNebenfhr,35
@@ -24484,7 +24484,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,CapitalLochness,100
 2021_04_HOU_BUF,cdvalenti,81
 2021_04_HOU_BUF,CFBNumbers,100
-2021_04_HOU_BUF,chester___119,88
 2021_04_HOU_BUF,Chris_J_son,85
 2021_04_HOU_BUF,CoachHaverkamp,90
 2021_04_HOU_BUF,CodyGoggin,69
@@ -24508,6 +24507,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,ddknowles77,100
 2021_04_HOU_BUF,deepvaluebettor,91
 2021_04_HOU_BUF,DeryckG_,90
+2021_04_HOU_BUF,devnavani,88
 2021_04_HOU_BUF,dflash1017,50
 2021_04_HOU_BUF,djgoldman1,100
 2021_04_HOU_BUF,DNebenfhr,91
@@ -24876,7 +24876,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,CapitalLochness,52
 2021_04_DET_CHI,cdvalenti,38
 2021_04_DET_CHI,CFBNumbers,62
-2021_04_DET_CHI,chester___119,55
 2021_04_DET_CHI,Chris_J_son,45
 2021_04_DET_CHI,CoachHaverkamp,65
 2021_04_DET_CHI,CodyGoggin,34
@@ -24900,6 +24899,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,ddknowles77,45
 2021_04_DET_CHI,deepvaluebettor,51
 2021_04_DET_CHI,DeryckG_,35
+2021_04_DET_CHI,devnavani,55
 2021_04_DET_CHI,dflash1017,50
 2021_04_DET_CHI,djgoldman1,47
 2021_04_DET_CHI,DNebenfhr,45
@@ -25268,7 +25268,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,CapitalLochness,50
 2021_04_CAR_DAL,cdvalenti,62
 2021_04_CAR_DAL,CFBNumbers,56
-2021_04_CAR_DAL,chester___119,56
 2021_04_CAR_DAL,Chris_J_son,65
 2021_04_CAR_DAL,CoachHaverkamp,60
 2021_04_CAR_DAL,CodyGoggin,64
@@ -25292,6 +25291,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,ddknowles77,68
 2021_04_CAR_DAL,deepvaluebettor,55
 2021_04_CAR_DAL,DeryckG_,72
+2021_04_CAR_DAL,devnavani,56
 2021_04_CAR_DAL,dflash1017,50
 2021_04_CAR_DAL,djgoldman1,55
 2021_04_CAR_DAL,DNebenfhr,66
@@ -25660,7 +25660,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,CapitalLochness,58
 2021_04_IND_MIA,cdvalenti,56
 2021_04_IND_MIA,CFBNumbers,79
-2021_04_IND_MIA,chester___119,59
 2021_04_IND_MIA,Chris_J_son,57
 2021_04_IND_MIA,CoachHaverkamp,55
 2021_04_IND_MIA,CodyGoggin,64
@@ -25684,6 +25683,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,ddknowles77,45
 2021_04_IND_MIA,deepvaluebettor,59
 2021_04_IND_MIA,DeryckG_,58
+2021_04_IND_MIA,devnavani,59
 2021_04_IND_MIA,dflash1017,50
 2021_04_IND_MIA,djgoldman1,50
 2021_04_IND_MIA,DNebenfhr,55
@@ -26052,7 +26052,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,CapitalLochness,56
 2021_04_CLE_MIN,cdvalenti,36
 2021_04_CLE_MIN,CFBNumbers,46
-2021_04_CLE_MIN,chester___119,42
 2021_04_CLE_MIN,Chris_J_son,36
 2021_04_CLE_MIN,CoachHaverkamp,45
 2021_04_CLE_MIN,CodyGoggin,36
@@ -26076,6 +26075,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,ddknowles77,39
 2021_04_CLE_MIN,deepvaluebettor,49
 2021_04_CLE_MIN,DeryckG_,46
+2021_04_CLE_MIN,devnavani,42
 2021_04_CLE_MIN,dflash1017,50
 2021_04_CLE_MIN,djgoldman1,45
 2021_04_CLE_MIN,DNebenfhr,58
@@ -26444,7 +26444,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,CapitalLochness,67
 2021_04_NYG_NO,cdvalenti,66
 2021_04_NYG_NO,CFBNumbers,80
-2021_04_NYG_NO,chester___119,78
 2021_04_NYG_NO,Chris_J_son,58
 2021_04_NYG_NO,CoachHaverkamp,80
 2021_04_NYG_NO,CodyGoggin,39
@@ -26468,6 +26467,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,ddknowles77,91
 2021_04_NYG_NO,deepvaluebettor,75
 2021_04_NYG_NO,DeryckG_,73
+2021_04_NYG_NO,devnavani,78
 2021_04_NYG_NO,dflash1017,50
 2021_04_NYG_NO,djgoldman1,77
 2021_04_NYG_NO,DNebenfhr,75
@@ -26836,7 +26836,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,CapitalLochness,37
 2021_04_TEN_NYJ,cdvalenti,46
 2021_04_TEN_NYJ,CFBNumbers,40
-2021_04_TEN_NYJ,chester___119,20
 2021_04_TEN_NYJ,Chris_J_son,55
 2021_04_TEN_NYJ,CoachHaverkamp,20
 2021_04_TEN_NYJ,CodyGoggin,26
@@ -26860,6 +26859,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,ddknowles77,0
 2021_04_TEN_NYJ,deepvaluebettor,41
 2021_04_TEN_NYJ,DeryckG_,18
+2021_04_TEN_NYJ,devnavani,20
 2021_04_TEN_NYJ,dflash1017,50
 2021_04_TEN_NYJ,djgoldman1,13
 2021_04_TEN_NYJ,DNebenfhr,28
@@ -27228,7 +27228,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,CapitalLochness,0
 2021_04_KC_PHI,cdvalenti,32
 2021_04_KC_PHI,CFBNumbers,0
-2021_04_KC_PHI,chester___119,16
 2021_04_KC_PHI,Chris_J_son,19
 2021_04_KC_PHI,CoachHaverkamp,15
 2021_04_KC_PHI,CodyGoggin,63
@@ -27252,6 +27251,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,ddknowles77,0
 2021_04_KC_PHI,deepvaluebettor,12
 2021_04_KC_PHI,DeryckG_,25
+2021_04_KC_PHI,devnavani,16
 2021_04_KC_PHI,dflash1017,50
 2021_04_KC_PHI,djgoldman1,10
 2021_04_KC_PHI,DNebenfhr,20
@@ -27621,7 +27621,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,CapitalLochness,65
 2021_04_ARI_LA,cdvalenti,59
 2021_04_ARI_LA,CFBNumbers,67
-2021_04_ARI_LA,chester___119,69
 2021_04_ARI_LA,Chris_J_son,67
 2021_04_ARI_LA,CoachHaverkamp,60
 2021_04_ARI_LA,CodyGoggin,58
@@ -27645,6 +27644,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,ddknowles77,77
 2021_04_ARI_LA,deepvaluebettor,66
 2021_04_ARI_LA,DeryckG_,67
+2021_04_ARI_LA,devnavani,69
 2021_04_ARI_LA,dflash1017,50
 2021_04_ARI_LA,djgoldman1,64
 2021_04_ARI_LA,DNebenfhr,60
@@ -28017,7 +28017,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,CapitalLochness,61
 2021_04_SEA_SF,cdvalenti,58
 2021_04_SEA_SF,CFBNumbers,58
-2021_04_SEA_SF,chester___119,55
 2021_04_SEA_SF,Chris_J_son,50
 2021_04_SEA_SF,CoachHaverkamp,45
 2021_04_SEA_SF,CodyGoggin,35
@@ -28041,6 +28040,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,ddknowles77,45
 2021_04_SEA_SF,deepvaluebettor,51
 2021_04_SEA_SF,DeryckG_,50
+2021_04_SEA_SF,devnavani,55
 2021_04_SEA_SF,dflash1017,50
 2021_04_SEA_SF,djgoldman1,58
 2021_04_SEA_SF,DNebenfhr,44
@@ -28414,7 +28414,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,cavemankellen,50
 2021_04_BAL_DEN,cdvalenti,65
 2021_04_BAL_DEN,CFBNumbers,26
-2021_04_BAL_DEN,chester___119,45
 2021_04_BAL_DEN,Chris_J_son,50
 2021_04_BAL_DEN,CoachHaverkamp,45
 2021_04_BAL_DEN,CodyGoggin,66
@@ -28438,6 +28437,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,ddknowles77,45
 2021_04_BAL_DEN,deepvaluebettor,55
 2021_04_BAL_DEN,DeryckG_,40
+2021_04_BAL_DEN,devnavani,45
 2021_04_BAL_DEN,dflash1017,50
 2021_04_BAL_DEN,djgoldman1,47
 2021_04_BAL_DEN,DNebenfhr,40
@@ -28812,7 +28812,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,cavemankellen,50
 2021_04_PIT_GB,cdvalenti,64
 2021_04_PIT_GB,CFBNumbers,75
-2021_04_PIT_GB,chester___119,78
 2021_04_PIT_GB,Chris_J_son,68
 2021_04_PIT_GB,CoachHaverkamp,75
 2021_04_PIT_GB,CodyGoggin,70
@@ -28836,6 +28835,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,ddknowles77,100
 2021_04_PIT_GB,deepvaluebettor,61
 2021_04_PIT_GB,DeryckG_,81
+2021_04_PIT_GB,devnavani,78
 2021_04_PIT_GB,dflash1017,50
 2021_04_PIT_GB,djgoldman1,71
 2021_04_PIT_GB,DNebenfhr,75
@@ -29210,7 +29210,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,cavemankellen,50
 2021_04_TB_NE,cdvalenti,21
 2021_04_TB_NE,CFBNumbers,0
-2021_04_TB_NE,chester___119,13
 2021_04_TB_NE,Chris_J_son,27
 2021_04_TB_NE,CoachHaverkamp,25
 2021_04_TB_NE,CodyGoggin,34
@@ -29235,6 +29234,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,ddknowles77,0
 2021_04_TB_NE,deepvaluebettor,29
 2021_04_TB_NE,DeryckG_,22
+2021_04_TB_NE,devnavani,13
 2021_04_TB_NE,dflash1017,50
 2021_04_TB_NE,djgoldman1,23
 2021_04_TB_NE,DNebenfhr,30
@@ -29611,7 +29611,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,cavemankellen,50
 2021_04_LV_LAC,cdvalenti,70
 2021_04_LV_LAC,CFBNumbers,84
-2021_04_LV_LAC,chester___119,47
 2021_04_LV_LAC,Chris_J_son,64
 2021_04_LV_LAC,CoachHaverkamp,70
 2021_04_LV_LAC,CodyGoggin,38
@@ -29638,6 +29637,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,de_realized,46
 2021_04_LV_LAC,deepvaluebettor,59
 2021_04_LV_LAC,DeryckG_,65
+2021_04_LV_LAC,devnavani,47
 2021_04_LV_LAC,dflash1017,71
 2021_04_LV_LAC,djgoldman1,59
 2021_04_LV_LAC,DNebenfhr,60
@@ -30016,7 +30016,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,cdvalenti,31
 2021_05_LA_SEA,CFBNumbers,27
 2021_05_LA_SEA,cgustafson__,72
-2021_05_LA_SEA,chester___119,53
 2021_05_LA_SEA,CoachHaverkamp,55
 2021_05_LA_SEA,CodyGoggin,42
 2021_05_LA_SEA,coffee_indiana,50
@@ -30039,6 +30038,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,de_realized,54
 2021_05_LA_SEA,deepvaluebettor,25
 2021_05_LA_SEA,DeryckG_,46
+2021_05_LA_SEA,devnavani,53
 2021_05_LA_SEA,dflash1017,52
 2021_05_LA_SEA,djgoldman1,50
 2021_05_LA_SEA,DNebenfhr,50
@@ -30374,7 +30374,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,cdvalenti,57
 2021_05_NYJ_ATL,CFBNumbers,43
 2021_05_NYJ_ATL,cgustafson__,29
-2021_05_NYJ_ATL,chester___119,55
 2021_05_NYJ_ATL,CoachHaverkamp,60
 2021_05_NYJ_ATL,CodyGoggin,67
 2021_05_NYJ_ATL,coffee_indiana,50
@@ -30398,6 +30397,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,de_realized,100
 2021_05_NYJ_ATL,deepvaluebettor,51
 2021_05_NYJ_ATL,DeryckG_,57
+2021_05_NYJ_ATL,devnavani,55
 2021_05_NYJ_ATL,dflash1017,52
 2021_05_NYJ_ATL,djgoldman1,62
 2021_05_NYJ_ATL,DNebenfhr,59
@@ -30748,7 +30748,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,cdvalenti,59
 2021_05_PHI_CAR,CFBNumbers,79
 2021_05_PHI_CAR,cgustafson__,66
-2021_05_PHI_CAR,chester___119,59
 2021_05_PHI_CAR,CoachHaverkamp,70
 2021_05_PHI_CAR,CodyGoggin,41
 2021_05_PHI_CAR,coffee_indiana,50
@@ -30772,6 +30771,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,de_realized,49
 2021_05_PHI_CAR,deepvaluebettor,55
 2021_05_PHI_CAR,DeryckG_,42
+2021_05_PHI_CAR,devnavani,59
 2021_05_PHI_CAR,dflash1017,62
 2021_05_PHI_CAR,djgoldman1,61
 2021_05_PHI_CAR,DNebenfhr,63
@@ -31126,7 +31126,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,cdvalenti,33
 2021_05_GB_CIN,CFBNumbers,19
 2021_05_GB_CIN,cgustafson__,0
-2021_05_GB_CIN,chester___119,30
 2021_05_GB_CIN,CoachHaverkamp,35
 2021_05_GB_CIN,CodyGoggin,65
 2021_05_GB_CIN,coffee_indiana,50
@@ -31150,6 +31149,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,de_realized,51
 2021_05_GB_CIN,deepvaluebettor,46
 2021_05_GB_CIN,DeryckG_,28
+2021_05_GB_CIN,devnavani,30
 2021_05_GB_CIN,dflash1017,36
 2021_05_GB_CIN,djgoldman1,38
 2021_05_GB_CIN,DNebenfhr,37
@@ -31504,7 +31504,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,cdvalenti,43
 2021_05_NE_HOU,CFBNumbers,15
 2021_05_NE_HOU,cgustafson__,0
-2021_05_NE_HOU,chester___119,37
 2021_05_NE_HOU,CoachHaverkamp,20
 2021_05_NE_HOU,CodyGoggin,28
 2021_05_NE_HOU,coffee_indiana,50
@@ -31528,6 +31527,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,de_realized,0
 2021_05_NE_HOU,deepvaluebettor,20
 2021_05_NE_HOU,DeryckG_,28
+2021_05_NE_HOU,devnavani,37
 2021_05_NE_HOU,dflash1017,18
 2021_05_NE_HOU,djgoldman1,0
 2021_05_NE_HOU,DNebenfhr,21
@@ -31882,7 +31882,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,cdvalenti,54
 2021_05_TEN_JAX,CFBNumbers,27
 2021_05_TEN_JAX,cgustafson__,0
-2021_05_TEN_JAX,chester___119,38
 2021_05_TEN_JAX,CoachHaverkamp,40
 2021_05_TEN_JAX,CodyGoggin,28
 2021_05_TEN_JAX,coffee_indiana,50
@@ -31906,6 +31905,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,de_realized,45
 2021_05_TEN_JAX,deepvaluebettor,41
 2021_05_TEN_JAX,DeryckG_,41
+2021_05_TEN_JAX,devnavani,38
 2021_05_TEN_JAX,dflash1017,42
 2021_05_TEN_JAX,djgoldman1,45
 2021_05_TEN_JAX,DNebenfhr,37
@@ -32259,7 +32259,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,cdvalenti,67
 2021_05_DET_MIN,CFBNumbers,88
 2021_05_DET_MIN,cgustafson__,57
-2021_05_DET_MIN,chester___119,86
 2021_05_DET_MIN,CoachHaverkamp,80
 2021_05_DET_MIN,CodyGoggin,66
 2021_05_DET_MIN,coffee_indiana,50
@@ -32283,6 +32282,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,de_realized,90
 2021_05_DET_MIN,deepvaluebettor,89
 2021_05_DET_MIN,DeryckG_,68
+2021_05_DET_MIN,devnavani,86
 2021_05_DET_MIN,dflash1017,82
 2021_05_DET_MIN,djgoldman1,75
 2021_05_DET_MIN,DNebenfhr,75
@@ -32637,7 +32637,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,cdvalenti,42
 2021_05_DEN_PIT,CFBNumbers,62
 2021_05_DEN_PIT,cgustafson__,32
-2021_05_DEN_PIT,chester___119,54
 2021_05_DEN_PIT,CoachHaverkamp,45
 2021_05_DEN_PIT,CodyGoggin,26
 2021_05_DEN_PIT,coffee_indiana,50
@@ -32661,6 +32660,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,de_realized,30
 2021_05_DEN_PIT,deepvaluebettor,35
 2021_05_DEN_PIT,DeryckG_,46
+2021_05_DEN_PIT,devnavani,54
 2021_05_DEN_PIT,dflash1017,58
 2021_05_DEN_PIT,djgoldman1,56
 2021_05_DEN_PIT,DNebenfhr,35
@@ -33014,7 +33014,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,cdvalenti,69
 2021_05_MIA_TB,CFBNumbers,100
 2021_05_MIA_TB,cgustafson__,68
-2021_05_MIA_TB,chester___119,85
 2021_05_MIA_TB,CoachHaverkamp,75
 2021_05_MIA_TB,CodyGoggin,69
 2021_05_MIA_TB,coffee_indiana,50
@@ -33038,6 +33037,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,de_realized,63
 2021_05_MIA_TB,deepvaluebettor,83
 2021_05_MIA_TB,DeryckG_,87
+2021_05_MIA_TB,devnavani,85
 2021_05_MIA_TB,dflash1017,85
 2021_05_MIA_TB,djgoldman1,80
 2021_05_MIA_TB,DNebenfhr,84
@@ -33392,7 +33392,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,cdvalenti,52
 2021_05_NO_WAS,CFBNumbers,42
 2021_05_NO_WAS,cgustafson__,32
-2021_05_NO_WAS,chester___119,45
 2021_05_NO_WAS,CoachHaverkamp,40
 2021_05_NO_WAS,CodyGoggin,37
 2021_05_NO_WAS,coffee_indiana,50
@@ -33416,6 +33415,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,de_realized,29
 2021_05_NO_WAS,deepvaluebettor,41
 2021_05_NO_WAS,DeryckG_,42
+2021_05_NO_WAS,devnavani,45
 2021_05_NO_WAS,dflash1017,47
 2021_05_NO_WAS,djgoldman1,44
 2021_05_NO_WAS,DNebenfhr,42
@@ -33771,7 +33771,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,cdvalenti,55
 2021_05_CLE_LAC,CFBNumbers,71
 2021_05_CLE_LAC,cgustafson__,100
-2021_05_CLE_LAC,chester___119,43
 2021_05_CLE_LAC,CoachHaverkamp,55
 2021_05_CLE_LAC,CodyGoggin,60
 2021_05_CLE_LAC,coffee_indiana,50
@@ -33796,6 +33795,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,de_realized,52
 2021_05_CLE_LAC,deepvaluebettor,45
 2021_05_CLE_LAC,DeryckG_,55
+2021_05_CLE_LAC,devnavani,43
 2021_05_CLE_LAC,dflash1017,42
 2021_05_CLE_LAC,djgoldman1,65
 2021_05_CLE_LAC,DNebenfhr,60
@@ -34153,7 +34153,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,cdvalenti,60
 2021_05_CHI_LV,CFBNumbers,73
 2021_05_CHI_LV,cgustafson__,66
-2021_05_CHI_LV,chester___119,80
 2021_05_CHI_LV,CoachHaverkamp,55
 2021_05_CHI_LV,CodyGoggin,71
 2021_05_CHI_LV,coffee_indiana,50
@@ -34178,6 +34177,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,de_realized,0
 2021_05_CHI_LV,deepvaluebettor,68
 2021_05_CHI_LV,DeryckG_,63
+2021_05_CHI_LV,devnavani,80
 2021_05_CHI_LV,dflash1017,61
 2021_05_CHI_LV,djgoldman1,50
 2021_05_CHI_LV,DNebenfhr,62
@@ -34535,7 +34535,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,cdvalenti,58
 2021_05_SF_ARI,CFBNumbers,76
 2021_05_SF_ARI,cgustafson__,64
-2021_05_SF_ARI,chester___119,58
 2021_05_SF_ARI,CoachHaverkamp,65
 2021_05_SF_ARI,CodyGoggin,69
 2021_05_SF_ARI,coffee_indiana,50
@@ -34560,6 +34559,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,de_realized,22
 2021_05_SF_ARI,deepvaluebettor,60
 2021_05_SF_ARI,DeryckG_,64
+2021_05_SF_ARI,devnavani,58
 2021_05_SF_ARI,dflash1017,61
 2021_05_SF_ARI,djgoldman1,68
 2021_05_SF_ARI,DNebenfhr,65
@@ -34917,7 +34917,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,cdvalenti,72
 2021_05_NYG_DAL,CFBNumbers,83
 2021_05_NYG_DAL,cgustafson__,100
-2021_05_NYG_DAL,chester___119,72
 2021_05_NYG_DAL,CoachHaverkamp,80
 2021_05_NYG_DAL,CodyGoggin,67
 2021_05_NYG_DAL,coffee_indiana,50
@@ -34942,6 +34941,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,de_realized,100
 2021_05_NYG_DAL,deepvaluebettor,62
 2021_05_NYG_DAL,DeryckG_,67
+2021_05_NYG_DAL,devnavani,72
 2021_05_NYG_DAL,dflash1017,80
 2021_05_NYG_DAL,djgoldman1,69
 2021_05_NYG_DAL,DNebenfhr,78
@@ -35299,7 +35299,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,cdvalenti,42
 2021_05_BUF_KC,CFBNumbers,69
 2021_05_BUF_KC,cgustafson__,78
-2021_05_BUF_KC,chester___119,60
 2021_05_BUF_KC,CoachHaverkamp,60
 2021_05_BUF_KC,CodyGoggin,59
 2021_05_BUF_KC,coffee_indiana,50
@@ -35325,6 +35324,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,de_realized,100
 2021_05_BUF_KC,deepvaluebettor,57
 2021_05_BUF_KC,DeryckG_,45
+2021_05_BUF_KC,devnavani,60
 2021_05_BUF_KC,dflash1017,63
 2021_05_BUF_KC,djgoldman1,57
 2021_05_BUF_KC,DNebenfhr,58
@@ -35684,7 +35684,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,cdvalenti,66
 2021_05_IND_BAL,CFBNumbers,83
 2021_05_IND_BAL,cgustafson__,76
-2021_05_IND_BAL,chester___119,72
 2021_05_IND_BAL,CoachHaverkamp,75
 2021_05_IND_BAL,CodyGoggin,67
 2021_05_IND_BAL,coffee_indiana,50
@@ -35711,6 +35710,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,de_realized,63
 2021_05_IND_BAL,deepvaluebettor,80
 2021_05_IND_BAL,DeryckG_,84
+2021_05_IND_BAL,devnavani,72
 2021_05_IND_BAL,Dez88goat,79
 2021_05_IND_BAL,dflash1017,71
 2021_05_IND_BAL,djgoldman1,66
@@ -36064,7 +36064,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,CFBNumbers,0
 2021_06_TB_PHI,cgustafson__,35
 2021_06_TB_PHI,CharlieOMalley1,50
-2021_06_TB_PHI,chester___119,50
 2021_06_TB_PHI,Chris_J_son,25
 2021_06_TB_PHI,CoachHaverkamp,25
 2021_06_TB_PHI,CodyGoggin,35
@@ -36086,6 +36085,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,de_realized,0
 2021_06_TB_PHI,deepvaluebettor,29
 2021_06_TB_PHI,DeryckG_,22
+2021_06_TB_PHI,devnavani,50
 2021_06_TB_PHI,Dez88goat,0
 2021_06_TB_PHI,dflash1017,50
 2021_06_TB_PHI,djgoldman1,22
@@ -36395,7 +36395,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,CFBNumbers,42
 2021_06_MIA_JAX,cgustafson__,60
 2021_06_MIA_JAX,CharlieOMalley1,62
-2021_06_MIA_JAX,chester___119,38
 2021_06_MIA_JAX,Chris_J_son,45
 2021_06_MIA_JAX,CJCClarke,50
 2021_06_MIA_JAX,CoachHaverkamp,45
@@ -36418,6 +36417,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,de_realized,45
 2021_06_MIA_JAX,deepvaluebettor,55
 2021_06_MIA_JAX,DeryckG_,45
+2021_06_MIA_JAX,devnavani,38
 2021_06_MIA_JAX,Dez88goat,76
 2021_06_MIA_JAX,dflash1017,43
 2021_06_MIA_JAX,djgoldman1,40
@@ -36738,7 +36738,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,CFBNumbers,31
 2021_06_LAC_BAL,cgustafson__,28
 2021_06_LAC_BAL,CharlieOMalley1,50
-2021_06_LAC_BAL,chester___119,55
 2021_06_LAC_BAL,Chris_J_son,44
 2021_06_LAC_BAL,CJCClarke,47
 2021_06_LAC_BAL,CoachHaverkamp,45
@@ -36762,6 +36761,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,de_realized,40
 2021_06_LAC_BAL,deepvaluebettor,45
 2021_06_LAC_BAL,DeryckG_,42
+2021_06_LAC_BAL,devnavani,55
 2021_06_LAC_BAL,Dez88goat,37
 2021_06_LAC_BAL,dflash1017,58
 2021_06_LAC_BAL,djgoldman1,53
@@ -37084,7 +37084,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,CFBNumbers,61
 2021_06_MIN_CAR,cgustafson__,54
 2021_06_MIN_CAR,CharlieOMalley1,50
-2021_06_MIN_CAR,chester___119,41
 2021_06_MIN_CAR,Chris_J_son,58
 2021_06_MIN_CAR,CJCClarke,50
 2021_06_MIN_CAR,CoachHaverkamp,60
@@ -37108,6 +37107,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,de_realized,42
 2021_06_MIN_CAR,deepvaluebettor,49
 2021_06_MIN_CAR,DeryckG_,42
+2021_06_MIN_CAR,devnavani,41
 2021_06_MIN_CAR,Dez88goat,41
 2021_06_MIN_CAR,dflash1017,41
 2021_06_MIN_CAR,djgoldman1,50
@@ -37431,7 +37431,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,CFBNumbers,28
 2021_06_GB_CHI,cgustafson__,34
 2021_06_GB_CHI,CharlieOMalley1,50
-2021_06_GB_CHI,chester___119,29
 2021_06_GB_CHI,Chris_J_son,31
 2021_06_GB_CHI,CJCClarke,50
 2021_06_GB_CHI,CoachHaverkamp,45
@@ -37455,6 +37454,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,de_realized,56
 2021_06_GB_CHI,deepvaluebettor,17
 2021_06_GB_CHI,DeryckG_,33
+2021_06_GB_CHI,devnavani,29
 2021_06_GB_CHI,Dez88goat,18
 2021_06_GB_CHI,dflash1017,40
 2021_06_GB_CHI,djgoldman1,36
@@ -37777,7 +37777,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,CFBNumbers,40
 2021_06_CIN_DET,cgustafson__,42
 2021_06_CIN_DET,CharlieOMalley1,50
-2021_06_CIN_DET,chester___119,24
 2021_06_CIN_DET,Chris_J_son,37
 2021_06_CIN_DET,CJCClarke,50
 2021_06_CIN_DET,CoachHaverkamp,40
@@ -37801,6 +37800,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,de_realized,34
 2021_06_CIN_DET,deepvaluebettor,41
 2021_06_CIN_DET,DeryckG_,42
+2021_06_CIN_DET,devnavani,24
 2021_06_CIN_DET,Dez88goat,11
 2021_06_CIN_DET,dflash1017,31
 2021_06_CIN_DET,djgoldman1,42
@@ -38123,7 +38123,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,CFBNumbers,64
 2021_06_HOU_IND,cgustafson__,64
 2021_06_HOU_IND,CharlieOMalley1,50
-2021_06_HOU_IND,chester___119,74
 2021_06_HOU_IND,Chris_J_son,55
 2021_06_HOU_IND,CJCClarke,50
 2021_06_HOU_IND,CoachHaverkamp,70
@@ -38147,6 +38146,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,de_realized,84
 2021_06_HOU_IND,deepvaluebettor,85
 2021_06_HOU_IND,DeryckG_,68
+2021_06_HOU_IND,devnavani,74
 2021_06_HOU_IND,Dez88goat,59
 2021_06_HOU_IND,dflash1017,89
 2021_06_HOU_IND,djgoldman1,74
@@ -38469,7 +38469,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,CFBNumbers,0
 2021_06_LA_NYG,cgustafson__,0
 2021_06_LA_NYG,CharlieOMalley1,50
-2021_06_LA_NYG,chester___119,16
 2021_06_LA_NYG,Chris_J_son,28
 2021_06_LA_NYG,CJCClarke,50
 2021_06_LA_NYG,CoachHaverkamp,15
@@ -38493,6 +38492,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,de_realized,0
 2021_06_LA_NYG,deepvaluebettor,30
 2021_06_LA_NYG,DeryckG_,27
+2021_06_LA_NYG,devnavani,16
 2021_06_LA_NYG,Dez88goat,0
 2021_06_LA_NYG,dflash1017,14
 2021_06_LA_NYG,djgoldman1,0
@@ -38815,7 +38815,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,CFBNumbers,0
 2021_06_KC_WAS,cgustafson__,0
 2021_06_KC_WAS,CharlieOMalley1,46
-2021_06_KC_WAS,chester___119,16
 2021_06_KC_WAS,Chris_J_son,21
 2021_06_KC_WAS,CJCClarke,50
 2021_06_KC_WAS,CoachHaverkamp,20
@@ -38839,6 +38838,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,de_realized,0
 2021_06_KC_WAS,deepvaluebettor,11
 2021_06_KC_WAS,DeryckG_,26
+2021_06_KC_WAS,devnavani,16
 2021_06_KC_WAS,Dez88goat,0
 2021_06_KC_WAS,dflash1017,18
 2021_06_KC_WAS,djgoldman1,15
@@ -39161,7 +39161,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,CFBNumbers,58
 2021_06_ARI_CLE,cgustafson__,65
 2021_06_ARI_CLE,CharlieOMalley1,50
-2021_06_ARI_CLE,chester___119,59
 2021_06_ARI_CLE,Chris_J_son,51
 2021_06_ARI_CLE,CJCClarke,50
 2021_06_ARI_CLE,CoachHaverkamp,55
@@ -39185,6 +39184,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,de_realized,52
 2021_06_ARI_CLE,deepvaluebettor,75
 2021_06_ARI_CLE,DeryckG_,45
+2021_06_ARI_CLE,devnavani,59
 2021_06_ARI_CLE,Dez88goat,32
 2021_06_ARI_CLE,dflash1017,65
 2021_06_ARI_CLE,djgoldman1,44
@@ -39509,7 +39509,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,CFBNumbers,44
 2021_06_LV_DEN,cgustafson__,64
 2021_06_LV_DEN,CharlieOMalley1,50
-2021_06_LV_DEN,chester___119,56
 2021_06_LV_DEN,Chris_J_son,54
 2021_06_LV_DEN,CJCClarke,50
 2021_06_LV_DEN,CoachHaverkamp,70
@@ -39533,6 +39532,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,de_realized,89
 2021_06_LV_DEN,deepvaluebettor,60
 2021_06_LV_DEN,DeryckG_,56
+2021_06_LV_DEN,devnavani,56
 2021_06_LV_DEN,Dez88goat,25
 2021_06_LV_DEN,dflash1017,61
 2021_06_LV_DEN,djgoldman1,50
@@ -39857,7 +39857,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,CFBNumbers,31
 2021_06_DAL_NE,cgustafson__,39
 2021_06_DAL_NE,CharlieOMalley1,50
-2021_06_DAL_NE,chester___119,32
 2021_06_DAL_NE,Chris_J_son,38
 2021_06_DAL_NE,CJCClarke,50
 2021_06_DAL_NE,CoachHaverkamp,40
@@ -39881,6 +39880,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,de_realized,14
 2021_06_DAL_NE,deepvaluebettor,40
 2021_06_DAL_NE,DeryckG_,38
+2021_06_DAL_NE,devnavani,32
 2021_06_DAL_NE,Dez88goat,2
 2021_06_DAL_NE,dflash1017,35
 2021_06_DAL_NE,djgoldman1,35
@@ -40205,7 +40205,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,CFBNumbers,63
 2021_06_SEA_PIT,cgustafson__,31
 2021_06_SEA_PIT,CharlieOMalley1,50
-2021_06_SEA_PIT,chester___119,74
 2021_06_SEA_PIT,Chris_J_son,58
 2021_06_SEA_PIT,CJCClarke,50
 2021_06_SEA_PIT,CoachHaverkamp,55
@@ -40229,6 +40228,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,de_realized,100
 2021_06_SEA_PIT,deepvaluebettor,77
 2021_06_SEA_PIT,DeryckG_,63
+2021_06_SEA_PIT,devnavani,74
 2021_06_SEA_PIT,Dez88goat,35
 2021_06_SEA_PIT,dflash1017,62
 2021_06_SEA_PIT,djgoldman1,52
@@ -40555,7 +40555,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,CFBNumbers,42
 2021_06_BUF_TEN,cgustafson__,36
 2021_06_BUF_TEN,CharlieOMalley1,50
-2021_06_BUF_TEN,chester___119,0
 2021_06_BUF_TEN,Chris_J_son,19
 2021_06_BUF_TEN,CJCClarke,50
 2021_06_BUF_TEN,CoachHaverkamp,40
@@ -40579,6 +40578,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,de_realized,0
 2021_06_BUF_TEN,deepvaluebettor,40
 2021_06_BUF_TEN,DeryckG_,35
+2021_06_BUF_TEN,devnavani,0
 2021_06_BUF_TEN,Dez88goat,0
 2021_06_BUF_TEN,dflash1017,26
 2021_06_BUF_TEN,djgoldman1,23
@@ -40892,7 +40892,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,Cap_Calculator,40
 2021_07_DEN_CLE,cdvalenti,63
 2021_07_DEN_CLE,CFBNumbers,50
-2021_07_DEN_CLE,chester___119,72
 2021_07_DEN_CLE,CoachHaverkamp,55
 2021_07_DEN_CLE,CodyGoggin,35
 2021_07_DEN_CLE,condronk,53
@@ -40909,6 +40908,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,de_realized,50
 2021_07_DEN_CLE,deepvaluebettor,59
 2021_07_DEN_CLE,DeryckG_,46
+2021_07_DEN_CLE,devnavani,72
 2021_07_DEN_CLE,Dez88goat,50
 2021_07_DEN_CLE,djgoldman1,60
 2021_07_DEN_CLE,DNebenfhr,56
@@ -41190,7 +41190,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,cdvalenti,73
 2021_07_CIN_BAL,CFBNumbers,82
 2021_07_CIN_BAL,chefboilerD,40
-2021_07_CIN_BAL,chester___119,78
 2021_07_CIN_BAL,CoachHaverkamp,80
 2021_07_CIN_BAL,CodyGoggin,41
 2021_07_CIN_BAL,condronk,72
@@ -41212,6 +41211,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,de_realized,78
 2021_07_CIN_BAL,deepvaluebettor,68
 2021_07_CIN_BAL,DeryckG_,70
+2021_07_CIN_BAL,devnavani,78
 2021_07_CIN_BAL,Dez88goat,50
 2021_07_CIN_BAL,DG_Goldssb,59
 2021_07_CIN_BAL,djgoldman1,75
@@ -41520,7 +41520,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,cdvalenti,59
 2021_07_WAS_GB,CFBNumbers,100
 2021_07_WAS_GB,chefboilerD,74
-2021_07_WAS_GB,chester___119,100
 2021_07_WAS_GB,CoachHaverkamp,80
 2021_07_WAS_GB,CodyGoggin,71
 2021_07_WAS_GB,condronk,76
@@ -41542,6 +41541,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,de_realized,82
 2021_07_WAS_GB,deepvaluebettor,86
 2021_07_WAS_GB,DeryckG_,74
+2021_07_WAS_GB,devnavani,100
 2021_07_WAS_GB,Dez88goat,50
 2021_07_WAS_GB,DG_Goldssb,90
 2021_07_WAS_GB,djgoldman1,74
@@ -41850,7 +41850,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,cdvalenti,62
 2021_07_ATL_MIA,CFBNumbers,0
 2021_07_ATL_MIA,chefboilerD,57
-2021_07_ATL_MIA,chester___119,48
 2021_07_ATL_MIA,CoachHaverkamp,45
 2021_07_ATL_MIA,CodyGoggin,38
 2021_07_ATL_MIA,condronk,34
@@ -41872,6 +41871,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,de_realized,39
 2021_07_ATL_MIA,deepvaluebettor,55
 2021_07_ATL_MIA,DeryckG_,44
+2021_07_ATL_MIA,devnavani,48
 2021_07_ATL_MIA,Dez88goat,50
 2021_07_ATL_MIA,DG_Goldssb,56
 2021_07_ATL_MIA,djgoldman1,50
@@ -42180,7 +42180,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,cdvalenti,56
 2021_07_NYJ_NE,CFBNumbers,71
 2021_07_NYJ_NE,chefboilerD,69
-2021_07_NYJ_NE,chester___119,80
 2021_07_NYJ_NE,CoachHaverkamp,80
 2021_07_NYJ_NE,CodyGoggin,74
 2021_07_NYJ_NE,condronk,77
@@ -42202,6 +42201,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,de_realized,100
 2021_07_NYJ_NE,deepvaluebettor,86
 2021_07_NYJ_NE,DeryckG_,73
+2021_07_NYJ_NE,devnavani,80
 2021_07_NYJ_NE,Dez88goat,50
 2021_07_NYJ_NE,DG_Goldssb,78
 2021_07_NYJ_NE,djgoldman1,81
@@ -42510,7 +42510,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,cdvalenti,44
 2021_07_CAR_NYG,CFBNumbers,39
 2021_07_CAR_NYG,chefboilerD,34
-2021_07_CAR_NYG,chester___119,44
 2021_07_CAR_NYG,CoachHaverkamp,30
 2021_07_CAR_NYG,CodyGoggin,40
 2021_07_CAR_NYG,condronk,39
@@ -42532,6 +42531,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,de_realized,26
 2021_07_CAR_NYG,deepvaluebettor,41
 2021_07_CAR_NYG,DeryckG_,45
+2021_07_CAR_NYG,devnavani,44
 2021_07_CAR_NYG,Dez88goat,50
 2021_07_CAR_NYG,DG_Goldssb,50
 2021_07_CAR_NYG,djgoldman1,38
@@ -42840,7 +42840,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,cdvalenti,37
 2021_07_KC_TEN,CFBNumbers,21
 2021_07_KC_TEN,chefboilerD,37
-2021_07_KC_TEN,chester___119,30
 2021_07_KC_TEN,CoachHaverkamp,40
 2021_07_KC_TEN,CodyGoggin,62
 2021_07_KC_TEN,condronk,17
@@ -42862,6 +42861,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,de_realized,12
 2021_07_KC_TEN,deepvaluebettor,41
 2021_07_KC_TEN,DeryckG_,38
+2021_07_KC_TEN,devnavani,30
 2021_07_KC_TEN,Dez88goat,50
 2021_07_KC_TEN,DG_Goldssb,55
 2021_07_KC_TEN,djgoldman1,27
@@ -43171,7 +43171,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,cdvalenti,82
 2021_07_DET_LA,CFBNumbers,100
 2021_07_DET_LA,chefboilerD,68
-2021_07_DET_LA,chester___119,100
 2021_07_DET_LA,CoachHaverkamp,90
 2021_07_DET_LA,CodyGoggin,75
 2021_07_DET_LA,condronk,96
@@ -43194,6 +43193,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,de_realized,100
 2021_07_DET_LA,deepvaluebettor,83
 2021_07_DET_LA,DeryckG_,86
+2021_07_DET_LA,devnavani,100
 2021_07_DET_LA,Dez88goat,50
 2021_07_DET_LA,DG_Goldssb,100
 2021_07_DET_LA,djgoldman1,100
@@ -43504,7 +43504,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,cdvalenti,62
 2021_07_PHI_LV,CFBNumbers,80
 2021_07_PHI_LV,chefboilerD,50
-2021_07_PHI_LV,chester___119,70
 2021_07_PHI_LV,CoachHaverkamp,70
 2021_07_PHI_LV,CodyGoggin,61
 2021_07_PHI_LV,condronk,57
@@ -43527,6 +43526,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,de_realized,90
 2021_07_PHI_LV,deepvaluebettor,41
 2021_07_PHI_LV,DeryckG_,59
+2021_07_PHI_LV,devnavani,70
 2021_07_PHI_LV,Dez88goat,50
 2021_07_PHI_LV,DG_Goldssb,69
 2021_07_PHI_LV,djgoldman1,56
@@ -43837,7 +43837,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,cdvalenti,83
 2021_07_HOU_ARI,CFBNumbers,100
 2021_07_HOU_ARI,chefboilerD,50
-2021_07_HOU_ARI,chester___119,100
 2021_07_HOU_ARI,CoachHaverkamp,90
 2021_07_HOU_ARI,CodyGoggin,76
 2021_07_HOU_ARI,condronk,96
@@ -43860,6 +43859,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,de_realized,100
 2021_07_HOU_ARI,deepvaluebettor,83
 2021_07_HOU_ARI,DeryckG_,90
+2021_07_HOU_ARI,devnavani,100
 2021_07_HOU_ARI,Dez88goat,50
 2021_07_HOU_ARI,DG_Goldssb,100
 2021_07_HOU_ARI,djgoldman1,100
@@ -44170,7 +44170,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,cdvalenti,76
 2021_07_CHI_TB,CFBNumbers,66
 2021_07_CHI_TB,chefboilerD,50
-2021_07_CHI_TB,chester___119,100
 2021_07_CHI_TB,CoachHaverkamp,80
 2021_07_CHI_TB,CodyGoggin,80
 2021_07_CHI_TB,condronk,81
@@ -44193,6 +44192,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,de_realized,45
 2021_07_CHI_TB,deepvaluebettor,83
 2021_07_CHI_TB,DeryckG_,82
+2021_07_CHI_TB,devnavani,100
 2021_07_CHI_TB,Dez88goat,50
 2021_07_CHI_TB,DG_Goldssb,50
 2021_07_CHI_TB,djgoldman1,75
@@ -44505,7 +44505,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,cdvalenti,42
 2021_07_IND_SF,CFBNumbers,79
 2021_07_IND_SF,chefboilerD,36
-2021_07_IND_SF,chester___119,66
 2021_07_IND_SF,CoachHaverkamp,70
 2021_07_IND_SF,CodyGoggin,37
 2021_07_IND_SF,condronk,65
@@ -44528,6 +44527,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,de_realized,86
 2021_07_IND_SF,deepvaluebettor,63
 2021_07_IND_SF,DeryckG_,54
+2021_07_IND_SF,devnavani,66
 2021_07_IND_SF,Dez88goat,50
 2021_07_IND_SF,DG_Goldssb,42
 2021_07_IND_SF,djgoldman1,57
@@ -44842,7 +44842,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,cdvalenti,44
 2021_07_NO_SEA,CFBNumbers,20
 2021_07_NO_SEA,chefboilerD,50
-2021_07_NO_SEA,chester___119,26
 2021_07_NO_SEA,CoachHaverkamp,45
 2021_07_NO_SEA,CodyGoggin,42
 2021_07_NO_SEA,condronk,42
@@ -44865,6 +44864,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,de_realized,0
 2021_07_NO_SEA,deepvaluebettor,45
 2021_07_NO_SEA,DeryckG_,40
+2021_07_NO_SEA,devnavani,26
 2021_07_NO_SEA,Dez88goat,50
 2021_07_NO_SEA,DG_Goldssb,27
 2021_07_NO_SEA,djgoldman1,39
@@ -45172,7 +45172,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,Cam_Lopez8,62
 2021_08_GB_ARI,Cap_Calculator,72
 2021_08_GB_ARI,CFBNumbers,82
-2021_08_GB_ARI,chester___119,55
 2021_08_GB_ARI,Chris_J_son,50
 2021_08_GB_ARI,CoachHaverkamp,60
 2021_08_GB_ARI,CodyGoggin,50
@@ -45191,6 +45190,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,ddknowles77,69
 2021_08_GB_ARI,deepvaluebettor,75
 2021_08_GB_ARI,DeryckG_,76
+2021_08_GB_ARI,devnavani,55
 2021_08_GB_ARI,dflash1017,61
 2021_08_GB_ARI,DG_Goldssb,58
 2021_08_GB_ARI,DNebenfhr,50
@@ -45456,7 +45456,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,Cam_Lopez8,64
 2021_08_CAR_ATL,Cap_Calculator,59
 2021_08_CAR_ATL,CFBNumbers,37
-2021_08_CAR_ATL,chester___119,54
 2021_08_CAR_ATL,Chris_J_son,50
 2021_08_CAR_ATL,CoachHaverkamp,65
 2021_08_CAR_ATL,CodyGoggin,50
@@ -45478,6 +45477,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,ddknowles77,53
 2021_08_CAR_ATL,deepvaluebettor,55
 2021_08_CAR_ATL,DeryckG_,56
+2021_08_CAR_ATL,devnavani,54
 2021_08_CAR_ATL,Dez88goat,39
 2021_08_CAR_ATL,dflash1017,53
 2021_08_CAR_ATL,DG_Goldssb,62
@@ -45766,7 +45766,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,Cam_Lopez8,89
 2021_08_MIA_BUF,Cap_Calculator,87
 2021_08_MIA_BUF,CFBNumbers,100
-2021_08_MIA_BUF,chester___119,93
 2021_08_MIA_BUF,Chris_J_son,50
 2021_08_MIA_BUF,CoachHaverkamp,85
 2021_08_MIA_BUF,CodyGoggin,50
@@ -45788,6 +45787,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,ddknowles77,98
 2021_08_MIA_BUF,deepvaluebettor,86
 2021_08_MIA_BUF,DeryckG_,85
+2021_08_MIA_BUF,devnavani,93
 2021_08_MIA_BUF,Dez88goat,98
 2021_08_MIA_BUF,dflash1017,96
 2021_08_MIA_BUF,DG_Goldssb,92
@@ -46076,7 +46076,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,Cam_Lopez8,31
 2021_08_SF_CHI,Cap_Calculator,61
 2021_08_SF_CHI,CFBNumbers,36
-2021_08_SF_CHI,chester___119,39
 2021_08_SF_CHI,Chris_J_son,50
 2021_08_SF_CHI,CoachHaverkamp,45
 2021_08_SF_CHI,CodyGoggin,50
@@ -46098,6 +46097,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,ddknowles77,39
 2021_08_SF_CHI,deepvaluebettor,25
 2021_08_SF_CHI,DeryckG_,43
+2021_08_SF_CHI,devnavani,39
 2021_08_SF_CHI,Dez88goat,27
 2021_08_SF_CHI,dflash1017,43
 2021_08_SF_CHI,DG_Goldssb,36
@@ -46386,7 +46386,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,Cam_Lopez8,55
 2021_08_PIT_CLE,Cap_Calculator,65
 2021_08_PIT_CLE,CFBNumbers,70
-2021_08_PIT_CLE,chester___119,62
 2021_08_PIT_CLE,Chris_J_son,50
 2021_08_PIT_CLE,CoachHaverkamp,60
 2021_08_PIT_CLE,CodyGoggin,50
@@ -46408,6 +46407,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,ddknowles77,65
 2021_08_PIT_CLE,deepvaluebettor,69
 2021_08_PIT_CLE,DeryckG_,44
+2021_08_PIT_CLE,devnavani,62
 2021_08_PIT_CLE,Dez88goat,98
 2021_08_PIT_CLE,dflash1017,70
 2021_08_PIT_CLE,DG_Goldssb,59
@@ -46696,7 +46696,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,Cam_Lopez8,29
 2021_08_PHI_DET,Cap_Calculator,37
 2021_08_PHI_DET,CFBNumbers,36
-2021_08_PHI_DET,chester___119,45
 2021_08_PHI_DET,Chris_J_son,50
 2021_08_PHI_DET,CoachHaverkamp,55
 2021_08_PHI_DET,CodyGoggin,50
@@ -46717,6 +46716,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,ddknowles77,40
 2021_08_PHI_DET,deepvaluebettor,47
 2021_08_PHI_DET,DeryckG_,45
+2021_08_PHI_DET,devnavani,45
 2021_08_PHI_DET,Dez88goat,37
 2021_08_PHI_DET,dflash1017,33
 2021_08_PHI_DET,DG_Goldssb,60
@@ -47005,7 +47005,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,Cam_Lopez8,13
 2021_08_LA_HOU,Cap_Calculator,9
 2021_08_LA_HOU,CFBNumbers,0
-2021_08_LA_HOU,chester___119,7
 2021_08_LA_HOU,Chris_J_son,50
 2021_08_LA_HOU,CoachHaverkamp,10
 2021_08_LA_HOU,CodyGoggin,50
@@ -47027,6 +47026,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,ddknowles77,2
 2021_08_LA_HOU,deepvaluebettor,14
 2021_08_LA_HOU,DeryckG_,9
+2021_08_LA_HOU,devnavani,7
 2021_08_LA_HOU,Dez88goat,0
 2021_08_LA_HOU,dflash1017,7
 2021_08_LA_HOU,DG_Goldssb,2
@@ -47315,7 +47315,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,Cam_Lopez8,43
 2021_08_TEN_IND,Cap_Calculator,50
 2021_08_TEN_IND,CFBNumbers,42
-2021_08_TEN_IND,chester___119,45
 2021_08_TEN_IND,Chris_J_son,50
 2021_08_TEN_IND,CoachHaverkamp,55
 2021_08_TEN_IND,CodyGoggin,50
@@ -47337,6 +47336,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,ddknowles77,25
 2021_08_TEN_IND,deepvaluebettor,63
 2021_08_TEN_IND,DeryckG_,38
+2021_08_TEN_IND,devnavani,45
 2021_08_TEN_IND,Dez88goat,15
 2021_08_TEN_IND,dflash1017,50
 2021_08_TEN_IND,DG_Goldssb,29
@@ -47625,7 +47625,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,Cam_Lopez8,32
 2021_08_CIN_NYJ,Cap_Calculator,14
 2021_08_CIN_NYJ,CFBNumbers,0
-2021_08_CIN_NYJ,chester___119,18
 2021_08_CIN_NYJ,Chris_J_son,50
 2021_08_CIN_NYJ,CoachHaverkamp,35
 2021_08_CIN_NYJ,CodyGoggin,50
@@ -47647,6 +47646,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,ddknowles77,2
 2021_08_CIN_NYJ,deepvaluebettor,25
 2021_08_CIN_NYJ,DeryckG_,29
+2021_08_CIN_NYJ,devnavani,18
 2021_08_CIN_NYJ,Dez88goat,1
 2021_08_CIN_NYJ,dflash1017,21
 2021_08_CIN_NYJ,DG_Goldssb,2
@@ -47935,7 +47935,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,Cam_Lopez8,61
 2021_08_NE_LAC,Cap_Calculator,68
 2021_08_NE_LAC,CFBNumbers,80
-2021_08_NE_LAC,chester___119,71
 2021_08_NE_LAC,Chris_J_son,50
 2021_08_NE_LAC,CoachHaverkamp,60
 2021_08_NE_LAC,CodyGoggin,50
@@ -47957,6 +47956,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,ddknowles77,71
 2021_08_NE_LAC,deepvaluebettor,55
 2021_08_NE_LAC,DeryckG_,62
+2021_08_NE_LAC,devnavani,71
 2021_08_NE_LAC,Dez88goat,65
 2021_08_NE_LAC,dflash1017,72
 2021_08_NE_LAC,DG_Goldssb,66
@@ -48245,7 +48245,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,Cam_Lopez8,66
 2021_08_JAX_SEA,Cap_Calculator,59
 2021_08_JAX_SEA,CFBNumbers,75
-2021_08_JAX_SEA,chester___119,67
 2021_08_JAX_SEA,Chris_J_son,50
 2021_08_JAX_SEA,CoachHaverkamp,70
 2021_08_JAX_SEA,CodyGoggin,50
@@ -48267,6 +48266,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,ddknowles77,64
 2021_08_JAX_SEA,deepvaluebettor,73
 2021_08_JAX_SEA,DeryckG_,56
+2021_08_JAX_SEA,devnavani,67
 2021_08_JAX_SEA,Dez88goat,71
 2021_08_JAX_SEA,dflash1017,45
 2021_08_JAX_SEA,DG_Goldssb,45
@@ -48555,7 +48555,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,Cam_Lopez8,61
 2021_08_WAS_DEN,Cap_Calculator,59
 2021_08_WAS_DEN,CFBNumbers,75
-2021_08_WAS_DEN,chester___119,61
 2021_08_WAS_DEN,Chris_J_son,50
 2021_08_WAS_DEN,CoachHaverkamp,70
 2021_08_WAS_DEN,CodyGoggin,50
@@ -48577,6 +48576,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,ddknowles77,55
 2021_08_WAS_DEN,deepvaluebettor,75
 2021_08_WAS_DEN,DeryckG_,61
+2021_08_WAS_DEN,devnavani,61
 2021_08_WAS_DEN,Dez88goat,77
 2021_08_WAS_DEN,dflash1017,67
 2021_08_WAS_DEN,DG_Goldssb,54
@@ -48865,7 +48865,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,Cam_Lopez8,30
 2021_08_TB_NO,Cap_Calculator,32
 2021_08_TB_NO,CFBNumbers,16
-2021_08_TB_NO,chester___119,37
 2021_08_TB_NO,Chris_J_son,50
 2021_08_TB_NO,CoachHaverkamp,30
 2021_08_TB_NO,CodyGoggin,50
@@ -48887,6 +48886,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,ddknowles77,9
 2021_08_TB_NO,deepvaluebettor,49
 2021_08_TB_NO,DeryckG_,28
+2021_08_TB_NO,devnavani,37
 2021_08_TB_NO,Dez88goat,50
 2021_08_TB_NO,dflash1017,26
 2021_08_TB_NO,DG_Goldssb,32
@@ -49176,7 +49176,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,Cam_Lopez8,60
 2021_08_DAL_MIN,Cap_Calculator,42
 2021_08_DAL_MIN,CFBNumbers,87
-2021_08_DAL_MIN,chester___119,63
 2021_08_DAL_MIN,Chris_J_son,50
 2021_08_DAL_MIN,CoachHaverkamp,30
 2021_08_DAL_MIN,CodyGoggin,50
@@ -49198,6 +49197,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,ddknowles77,35
 2021_08_DAL_MIN,deepvaluebettor,63
 2021_08_DAL_MIN,DeryckG_,66
+2021_08_DAL_MIN,devnavani,63
 2021_08_DAL_MIN,Dez88goat,50
 2021_08_DAL_MIN,dflash1017,41
 2021_08_DAL_MIN,DG_Goldssb,31
@@ -49489,7 +49489,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,Cam_Lopez8,72
 2021_08_NYG_KC,Cap_Calculator,80
 2021_08_NYG_KC,CFBNumbers,100
-2021_08_NYG_KC,chester___119,89
 2021_08_NYG_KC,Chris_J_son,50
 2021_08_NYG_KC,CoachHaverkamp,90
 2021_08_NYG_KC,CodyGoggin,50
@@ -49511,6 +49510,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,ddknowles77,98
 2021_08_NYG_KC,deepvaluebettor,79
 2021_08_NYG_KC,DeryckG_,88
+2021_08_NYG_KC,devnavani,89
 2021_08_NYG_KC,Dez88goat,98
 2021_08_NYG_KC,dflash1017,100
 2021_08_NYG_KC,DG_Goldssb,86
@@ -49806,7 +49806,6 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,bubba0077,58
 2021_09_NYJ_IND,Cap_Calculator,80
 2021_09_NYJ_IND,CFBNumbers,62
-2021_09_NYJ_IND,chester___119,78
 2021_09_NYJ_IND,CoachHaverkamp,75
 2021_09_NYJ_IND,condronk,60
 2021_09_NYJ_IND,ConsultingHw,50
@@ -49826,6 +49825,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,ddknowles77,86
 2021_09_NYJ_IND,deepvaluebettor,50
 2021_09_NYJ_IND,DeryckG_,74
+2021_09_NYJ_IND,devnavani,78
 2021_09_NYJ_IND,dflash1017,78
 2021_09_NYJ_IND,DG_Goldssb,75
 2021_09_NYJ_IND,djgoldman1,72
@@ -50111,7 +50111,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,Cam_Lopez8,74
 2021_09_MIN_BAL,Cap_Calculator,63
 2021_09_MIN_BAL,CFBNumbers,76
-2021_09_MIN_BAL,chester___119,67
 2021_09_MIN_BAL,CoachHaverkamp,75
 2021_09_MIN_BAL,CodyGoggin,58
 2021_09_MIN_BAL,condronk,72
@@ -50133,6 +50132,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,ddknowles77,85
 2021_09_MIN_BAL,deepvaluebettor,79
 2021_09_MIN_BAL,DeryckG_,62
+2021_09_MIN_BAL,devnavani,67
 2021_09_MIN_BAL,Dez88goat,100
 2021_09_MIN_BAL,dflash1017,67
 2021_09_MIN_BAL,DG_Goldssb,63
@@ -50435,7 +50435,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,Cam_Lopez8,18
 2021_09_NE_CAR,Cap_Calculator,41
 2021_09_NE_CAR,CFBNumbers,16
-2021_09_NE_CAR,chester___119,47
 2021_09_NE_CAR,CoachHaverkamp,40
 2021_09_NE_CAR,CodyGoggin,28
 2021_09_NE_CAR,condronk,35
@@ -50457,6 +50456,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,ddknowles77,45
 2021_09_NE_CAR,deepvaluebettor,35
 2021_09_NE_CAR,DeryckG_,36
+2021_09_NE_CAR,devnavani,47
 2021_09_NE_CAR,Dez88goat,0
 2021_09_NE_CAR,dflash1017,41
 2021_09_NE_CAR,DG_Goldssb,27
@@ -50759,7 +50759,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,Cam_Lopez8,60
 2021_09_CLE_CIN,Cap_Calculator,55
 2021_09_CLE_CIN,CFBNumbers,53
-2021_09_CLE_CIN,chester___119,53
 2021_09_CLE_CIN,CoachHaverkamp,55
 2021_09_CLE_CIN,CodyGoggin,62
 2021_09_CLE_CIN,condronk,68
@@ -50781,6 +50780,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,ddknowles77,53
 2021_09_CLE_CIN,deepvaluebettor,31
 2021_09_CLE_CIN,DeryckG_,55
+2021_09_CLE_CIN,devnavani,53
 2021_09_CLE_CIN,Dez88goat,78
 2021_09_CLE_CIN,dflash1017,52
 2021_09_CLE_CIN,DG_Goldssb,62
@@ -51083,7 +51083,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,Cam_Lopez8,89
 2021_09_DEN_DAL,Cap_Calculator,79
 2021_09_DEN_DAL,CFBNumbers,100
-2021_09_DEN_DAL,chester___119,86
 2021_09_DEN_DAL,CoachHaverkamp,75
 2021_09_DEN_DAL,CodyGoggin,65
 2021_09_DEN_DAL,condronk,75
@@ -51105,6 +51104,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,ddknowles77,98
 2021_09_DEN_DAL,deepvaluebettor,85
 2021_09_DEN_DAL,DeryckG_,76
+2021_09_DEN_DAL,devnavani,86
 2021_09_DEN_DAL,Dez88goat,100
 2021_09_DEN_DAL,dflash1017,80
 2021_09_DEN_DAL,DG_Goldssb,98
@@ -51407,7 +51407,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,Cam_Lopez8,23
 2021_09_BUF_JAX,Cap_Calculator,8
 2021_09_BUF_JAX,CFBNumbers,0
-2021_09_BUF_JAX,chester___119,13
 2021_09_BUF_JAX,CoachHaverkamp,10
 2021_09_BUF_JAX,CodyGoggin,29
 2021_09_BUF_JAX,condronk,10
@@ -51429,6 +51428,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,ddknowles77,2
 2021_09_BUF_JAX,deepvaluebettor,21
 2021_09_BUF_JAX,DeryckG_,12
+2021_09_BUF_JAX,devnavani,13
 2021_09_BUF_JAX,Dez88goat,0
 2021_09_BUF_JAX,dflash1017,0
 2021_09_BUF_JAX,DG_Goldssb,2
@@ -51731,7 +51731,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,Cam_Lopez8,42
 2021_09_HOU_MIA,Cap_Calculator,69
 2021_09_HOU_MIA,CFBNumbers,36
-2021_09_HOU_MIA,chester___119,63
 2021_09_HOU_MIA,CoachHaverkamp,60
 2021_09_HOU_MIA,CodyGoggin,63
 2021_09_HOU_MIA,condronk,55
@@ -51753,6 +51752,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,ddknowles77,48
 2021_09_HOU_MIA,deepvaluebettor,53
 2021_09_HOU_MIA,DeryckG_,58
+2021_09_HOU_MIA,devnavani,63
 2021_09_HOU_MIA,Dez88goat,100
 2021_09_HOU_MIA,dflash1017,25
 2021_09_HOU_MIA,DG_Goldssb,70
@@ -52055,7 +52055,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,Cam_Lopez8,55
 2021_09_ATL_NO,Cap_Calculator,62
 2021_09_ATL_NO,CFBNumbers,27
-2021_09_ATL_NO,chester___119,66
 2021_09_ATL_NO,CoachHaverkamp,75
 2021_09_ATL_NO,CodyGoggin,35
 2021_09_ATL_NO,condronk,44
@@ -52077,6 +52076,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,ddknowles77,79
 2021_09_ATL_NO,deepvaluebettor,86
 2021_09_ATL_NO,DeryckG_,58
+2021_09_ATL_NO,devnavani,66
 2021_09_ATL_NO,Dez88goat,76
 2021_09_ATL_NO,dflash1017,68
 2021_09_ATL_NO,DG_Goldssb,74
@@ -52379,7 +52379,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,Cam_Lopez8,30
 2021_09_LV_NYG,Cap_Calculator,42
 2021_09_LV_NYG,CFBNumbers,33
-2021_09_LV_NYG,chester___119,27
 2021_09_LV_NYG,CoachHaverkamp,45
 2021_09_LV_NYG,CodyGoggin,27
 2021_09_LV_NYG,condronk,29
@@ -52401,6 +52400,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,ddknowles77,38
 2021_09_LV_NYG,deepvaluebettor,47
 2021_09_LV_NYG,DeryckG_,45
+2021_09_LV_NYG,devnavani,27
 2021_09_LV_NYG,Dez88goat,18
 2021_09_LV_NYG,dflash1017,37
 2021_09_LV_NYG,DG_Goldssb,17
@@ -52704,7 +52704,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,Cam_Lopez8,28
 2021_09_LAC_PHI,Cap_Calculator,44
 2021_09_LAC_PHI,CFBNumbers,0
-2021_09_LAC_PHI,chester___119,27
 2021_09_LAC_PHI,CoachHaverkamp,30
 2021_09_LAC_PHI,CodyGoggin,40
 2021_09_LAC_PHI,condronk,20
@@ -52726,6 +52725,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,ddknowles77,20
 2021_09_LAC_PHI,deepvaluebettor,47
 2021_09_LAC_PHI,DeryckG_,39
+2021_09_LAC_PHI,devnavani,27
 2021_09_LAC_PHI,Dez88goat,0
 2021_09_LAC_PHI,dflash1017,39
 2021_09_LAC_PHI,DG_Goldssb,32
@@ -53032,7 +53032,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,Cam_Lopez8,76
 2021_09_GB_KC,Cap_Calculator,69
 2021_09_GB_KC,CFBNumbers,50
-2021_09_GB_KC,chester___119,55
 2021_09_GB_KC,CoachHaverkamp,65
 2021_09_GB_KC,CodyGoggin,42
 2021_09_GB_KC,condronk,69
@@ -53054,6 +53053,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,ddknowles77,89
 2021_09_GB_KC,deepvaluebettor,83
 2021_09_GB_KC,DeryckG_,73
+2021_09_GB_KC,devnavani,55
 2021_09_GB_KC,Dez88goat,100
 2021_09_GB_KC,dflash1017,56
 2021_09_GB_KC,DG_Goldssb,50
@@ -53360,7 +53360,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,Cam_Lopez8,45
 2021_09_ARI_SF,Cap_Calculator,45
 2021_09_ARI_SF,CFBNumbers,31
-2021_09_ARI_SF,chester___119,27
 2021_09_ARI_SF,CoachHaverkamp,40
 2021_09_ARI_SF,CodyGoggin,33
 2021_09_ARI_SF,condronk,30
@@ -53382,6 +53381,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,ddknowles77,51
 2021_09_ARI_SF,deepvaluebettor,82
 2021_09_ARI_SF,DeryckG_,45
+2021_09_ARI_SF,devnavani,27
 2021_09_ARI_SF,Dez88goat,38
 2021_09_ARI_SF,dflash1017,35
 2021_09_ARI_SF,DG_Goldssb,28
@@ -53688,7 +53688,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,Cam_Lopez8,83
 2021_09_TEN_LA,Cap_Calculator,73
 2021_09_TEN_LA,CFBNumbers,70
-2021_09_TEN_LA,chester___119,61
 2021_09_TEN_LA,CoachHaverkamp,70
 2021_09_TEN_LA,CodyGoggin,59
 2021_09_TEN_LA,condronk,58
@@ -53711,6 +53710,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,de_realized,50
 2021_09_TEN_LA,deepvaluebettor,70
 2021_09_TEN_LA,DeryckG_,70
+2021_09_TEN_LA,devnavani,61
 2021_09_TEN_LA,Dez88goat,75
 2021_09_TEN_LA,dflash1017,70
 2021_09_TEN_LA,DG_Goldssb,85
@@ -54020,7 +54020,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,Cam_Lopez8,46
 2021_09_CHI_PIT,Cap_Calculator,69
 2021_09_CHI_PIT,CFBNumbers,68
-2021_09_CHI_PIT,chester___119,68
 2021_09_CHI_PIT,CoachHaverkamp,75
 2021_09_CHI_PIT,CodyGoggin,59
 2021_09_CHI_PIT,condronk,62
@@ -54045,6 +54044,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,de_realized,62
 2021_09_CHI_PIT,deepvaluebettor,85
 2021_09_CHI_PIT,DeryckG_,60
+2021_09_CHI_PIT,devnavani,68
 2021_09_CHI_PIT,Dez88goat,66
 2021_09_CHI_PIT,dflash1017,69
 2021_09_CHI_PIT,DG_Goldssb,58
@@ -54349,7 +54349,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,ButkusStats,30
 2021_10_BAL_MIA,Cam_Lopez8,36
 2021_10_BAL_MIA,CFBNumbers,0
-2021_10_BAL_MIA,chester___119,17
 2021_10_BAL_MIA,Chris_J_son,35
 2021_10_BAL_MIA,CoachHaverkamp,30
 2021_10_BAL_MIA,CodyGoggin,50
@@ -54371,6 +54370,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,deepvaluebettor,14
 2021_10_BAL_MIA,deputystefan,50
 2021_10_BAL_MIA,DeryckG_,21
+2021_10_BAL_MIA,devnavani,17
 2021_10_BAL_MIA,DG_Goldssb,2
 2021_10_BAL_MIA,djgoldman1,20
 2021_10_BAL_MIA,DNebenfhr,50
@@ -54637,7 +54637,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,Cap_Calculator,75
 2021_10_ATL_DAL,CFBNumbers,69
 2021_10_ATL_DAL,cgustafson__,100
-2021_10_ATL_DAL,chester___119,82
 2021_10_ATL_DAL,Chris_J_son,75
 2021_10_ATL_DAL,CoachHaverkamp,65
 2021_10_ATL_DAL,CodyGoggin,67
@@ -54660,6 +54659,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,deepvaluebettor,75
 2021_10_ATL_DAL,deputystefan,50
 2021_10_ATL_DAL,DeryckG_,72
+2021_10_ATL_DAL,devnavani,82
 2021_10_ATL_DAL,Dez88goat,50
 2021_10_ATL_DAL,DG_Goldssb,78
 2021_10_ATL_DAL,djgoldman1,77
@@ -54946,7 +54946,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,Cap_Calculator,77
 2021_10_JAX_IND,CFBNumbers,91
 2021_10_JAX_IND,cgustafson__,100
-2021_10_JAX_IND,chester___119,82
 2021_10_JAX_IND,Chris_J_son,70
 2021_10_JAX_IND,CoachHaverkamp,85
 2021_10_JAX_IND,CodyGoggin,67
@@ -54969,6 +54968,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,deepvaluebettor,81
 2021_10_JAX_IND,deputystefan,50
 2021_10_JAX_IND,DeryckG_,74
+2021_10_JAX_IND,devnavani,82
 2021_10_JAX_IND,Dez88goat,50
 2021_10_JAX_IND,DG_Goldssb,90
 2021_10_JAX_IND,djgoldman1,79
@@ -55255,7 +55255,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,Cap_Calculator,53
 2021_10_CLE_NE,CFBNumbers,56
 2021_10_CLE_NE,cgustafson__,0
-2021_10_CLE_NE,chester___119,39
 2021_10_CLE_NE,Chris_J_son,42
 2021_10_CLE_NE,CoachHaverkamp,60
 2021_10_CLE_NE,CodyGoggin,57
@@ -55278,6 +55277,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,deepvaluebettor,57
 2021_10_CLE_NE,deputystefan,50
 2021_10_CLE_NE,DeryckG_,46
+2021_10_CLE_NE,devnavani,39
 2021_10_CLE_NE,Dez88goat,50
 2021_10_CLE_NE,DG_Goldssb,44
 2021_10_CLE_NE,djgoldman1,50
@@ -55564,7 +55564,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,Cap_Calculator,18
 2021_10_BUF_NYJ,CFBNumbers,0
 2021_10_BUF_NYJ,cgustafson__,62
-2021_10_BUF_NYJ,chester___119,20
 2021_10_BUF_NYJ,Chris_J_son,10
 2021_10_BUF_NYJ,CoachHaverkamp,25
 2021_10_BUF_NYJ,CodyGoggin,26
@@ -55587,6 +55586,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,deepvaluebettor,17
 2021_10_BUF_NYJ,deputystefan,50
 2021_10_BUF_NYJ,DeryckG_,22
+2021_10_BUF_NYJ,devnavani,20
 2021_10_BUF_NYJ,Dez88goat,50
 2021_10_BUF_NYJ,DG_Goldssb,6
 2021_10_BUF_NYJ,djgoldman1,7
@@ -55873,7 +55873,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,Cap_Calculator,74
 2021_10_DET_PIT,CFBNumbers,70
 2021_10_DET_PIT,cgustafson__,100
-2021_10_DET_PIT,chester___119,69
 2021_10_DET_PIT,Chris_J_son,61
 2021_10_DET_PIT,CoachHaverkamp,90
 2021_10_DET_PIT,CodyGoggin,58
@@ -55896,6 +55895,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,deepvaluebettor,66
 2021_10_DET_PIT,deputystefan,50
 2021_10_DET_PIT,DeryckG_,62
+2021_10_DET_PIT,devnavani,69
 2021_10_DET_PIT,Dez88goat,50
 2021_10_DET_PIT,DG_Goldssb,75
 2021_10_DET_PIT,djgoldman1,78
@@ -56182,7 +56182,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,Cap_Calculator,54
 2021_10_NO_TEN,CFBNumbers,78
 2021_10_NO_TEN,cgustafson__,73
-2021_10_NO_TEN,chester___119,74
 2021_10_NO_TEN,Chris_J_son,59
 2021_10_NO_TEN,CoachHaverkamp,60
 2021_10_NO_TEN,CodyGoggin,68
@@ -56205,6 +56204,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,deepvaluebettor,53
 2021_10_NO_TEN,deputystefan,50
 2021_10_NO_TEN,DeryckG_,65
+2021_10_NO_TEN,devnavani,74
 2021_10_NO_TEN,Dez88goat,50
 2021_10_NO_TEN,DG_Goldssb,58
 2021_10_NO_TEN,djgoldman1,67
@@ -56491,7 +56491,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,Cap_Calculator,22
 2021_10_TB_WAS,CFBNumbers,16
 2021_10_TB_WAS,cgustafson__,23
-2021_10_TB_WAS,chester___119,22
 2021_10_TB_WAS,Chris_J_son,28
 2021_10_TB_WAS,CoachHaverkamp,15
 2021_10_TB_WAS,CodyGoggin,27
@@ -56514,6 +56513,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,deepvaluebettor,28
 2021_10_TB_WAS,deputystefan,50
 2021_10_TB_WAS,DeryckG_,25
+2021_10_TB_WAS,devnavani,22
 2021_10_TB_WAS,Dez88goat,50
 2021_10_TB_WAS,DG_Goldssb,2
 2021_10_TB_WAS,djgoldman1,11
@@ -56800,7 +56800,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,Cap_Calculator,81
 2021_10_CAR_ARI,CFBNumbers,78
 2021_10_CAR_ARI,cgustafson__,17
-2021_10_CAR_ARI,chester___119,78
 2021_10_CAR_ARI,Chris_J_son,84
 2021_10_CAR_ARI,CoachHaverkamp,85
 2021_10_CAR_ARI,CodyGoggin,81
@@ -56823,6 +56822,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,deepvaluebettor,59
 2021_10_CAR_ARI,deputystefan,50
 2021_10_CAR_ARI,DeryckG_,64
+2021_10_CAR_ARI,devnavani,78
 2021_10_CAR_ARI,Dez88goat,50
 2021_10_CAR_ARI,DG_Goldssb,98
 2021_10_CAR_ARI,djgoldman1,84
@@ -57109,7 +57109,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,Cap_Calculator,61
 2021_10_MIN_LAC,CFBNumbers,36
 2021_10_MIN_LAC,cgustafson__,86
-2021_10_MIN_LAC,chester___119,42
 2021_10_MIN_LAC,Chris_J_son,54
 2021_10_MIN_LAC,CoachHaverkamp,65
 2021_10_MIN_LAC,CodyGoggin,42
@@ -57132,6 +57131,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,deepvaluebettor,79
 2021_10_MIN_LAC,deputystefan,50
 2021_10_MIN_LAC,DeryckG_,44
+2021_10_MIN_LAC,devnavani,42
 2021_10_MIN_LAC,Dez88goat,50
 2021_10_MIN_LAC,DG_Goldssb,55
 2021_10_MIN_LAC,djgoldman1,61
@@ -57418,7 +57418,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,Cap_Calculator,50
 2021_10_PHI_DEN,CFBNumbers,65
 2021_10_PHI_DEN,cgustafson__,83
-2021_10_PHI_DEN,chester___119,47
 2021_10_PHI_DEN,Chris_J_son,57
 2021_10_PHI_DEN,CoachHaverkamp,65
 2021_10_PHI_DEN,CodyGoggin,58
@@ -57441,6 +57440,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,deepvaluebettor,49
 2021_10_PHI_DEN,deputystefan,50
 2021_10_PHI_DEN,DeryckG_,47
+2021_10_PHI_DEN,devnavani,47
 2021_10_PHI_DEN,Dez88goat,50
 2021_10_PHI_DEN,DG_Goldssb,50
 2021_10_PHI_DEN,djgoldman1,56
@@ -57727,7 +57727,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,Cap_Calculator,62
 2021_10_SEA_GB,CFBNumbers,58
 2021_10_SEA_GB,cgustafson__,78
-2021_10_SEA_GB,chester___119,60
 2021_10_SEA_GB,Chris_J_son,39
 2021_10_SEA_GB,CoachHaverkamp,45
 2021_10_SEA_GB,CodyGoggin,59
@@ -57750,6 +57749,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,deepvaluebettor,71
 2021_10_SEA_GB,deputystefan,50
 2021_10_SEA_GB,DeryckG_,58
+2021_10_SEA_GB,devnavani,60
 2021_10_SEA_GB,Dez88goat,50
 2021_10_SEA_GB,DG_Goldssb,36
 2021_10_SEA_GB,djgoldman1,56
@@ -58036,7 +58036,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,Cap_Calculator,39
 2021_10_KC_LV,CFBNumbers,30
 2021_10_KC_LV,cgustafson__,0
-2021_10_KC_LV,chester___119,47
 2021_10_KC_LV,Chris_J_son,58
 2021_10_KC_LV,CoachHaverkamp,45
 2021_10_KC_LV,CodyGoggin,66
@@ -58059,6 +58058,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,deepvaluebettor,55
 2021_10_KC_LV,deputystefan,50
 2021_10_KC_LV,DeryckG_,43
+2021_10_KC_LV,devnavani,47
 2021_10_KC_LV,Dez88goat,50
 2021_10_KC_LV,DG_Goldssb,55
 2021_10_KC_LV,djgoldman1,45
@@ -58347,7 +58347,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,Cap_Calculator,39
 2021_10_LA_SF,CFBNumbers,0
 2021_10_LA_SF,cgustafson__,29
-2021_10_LA_SF,chester___119,25
 2021_10_LA_SF,Chris_J_son,23
 2021_10_LA_SF,CoachHaverkamp,40
 2021_10_LA_SF,CodyGoggin,36
@@ -58370,6 +58369,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,deepvaluebettor,45
 2021_10_LA_SF,deputystefan,50
 2021_10_LA_SF,DeryckG_,30
+2021_10_LA_SF,devnavani,25
 2021_10_LA_SF,Dez88goat,50
 2021_10_LA_SF,DG_Goldssb,26
 2021_10_LA_SF,djgoldman1,37
@@ -58657,7 +58657,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,Cap_Calculator,30
 2021_11_NE_ATL,CFBNumbers,50
 2021_11_NE_ATL,cgustafson__,50
-2021_11_NE_ATL,chester___119,35
 2021_11_NE_ATL,Chris_J_son,50
 2021_11_NE_ATL,CoachHaverkamp,25
 2021_11_NE_ATL,CodyGoggin,29
@@ -58676,6 +58675,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,ddknowles77,14
 2021_11_NE_ATL,deepvaluebettor,21
 2021_11_NE_ATL,DeryckG_,35
+2021_11_NE_ATL,devnavani,35
 2021_11_NE_ATL,DG_Goldssb,34
 2021_11_NE_ATL,djgoldman1,83
 2021_11_NE_ATL,DNebenfhr,24
@@ -58928,7 +58928,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,Cap_Calculator,69
 2021_11_IND_BUF,CFBNumbers,85
 2021_11_IND_BUF,cgustafson__,50
-2021_11_IND_BUF,chester___119,67
 2021_11_IND_BUF,Chris_J_son,50
 2021_11_IND_BUF,CoachHaverkamp,65
 2021_11_IND_BUF,CodyGoggin,64
@@ -58949,6 +58948,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,ddknowles77,77
 2021_11_IND_BUF,deepvaluebettor,63
 2021_11_IND_BUF,DeryckG_,68
+2021_11_IND_BUF,devnavani,67
 2021_11_IND_BUF,DG_Goldssb,59
 2021_11_IND_BUF,djgoldman1,69
 2021_11_IND_BUF,DNebenfhr,75
@@ -59211,7 +59211,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,Cap_Calculator,60
 2021_11_WAS_CAR,CFBNumbers,83
 2021_11_WAS_CAR,cgustafson__,50
-2021_11_WAS_CAR,chester___119,61
 2021_11_WAS_CAR,Chris_J_son,50
 2021_11_WAS_CAR,CoachHaverkamp,65
 2021_11_WAS_CAR,CodyGoggin,60
@@ -59232,6 +59231,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,ddknowles77,64
 2021_11_WAS_CAR,deepvaluebettor,55
 2021_11_WAS_CAR,DeryckG_,64
+2021_11_WAS_CAR,devnavani,61
 2021_11_WAS_CAR,DG_Goldssb,63
 2021_11_WAS_CAR,djgoldman1,53
 2021_11_WAS_CAR,DNebenfhr,65
@@ -59495,7 +59495,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,Cap_Calculator,32
 2021_11_BAL_CHI,CFBNumbers,23
 2021_11_BAL_CHI,cgustafson__,50
-2021_11_BAL_CHI,chester___119,28
 2021_11_BAL_CHI,Chris_J_son,50
 2021_11_BAL_CHI,CoachHaverkamp,25
 2021_11_BAL_CHI,CodyGoggin,34
@@ -59516,6 +59515,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,ddknowles77,44
 2021_11_BAL_CHI,deepvaluebettor,32
 2021_11_BAL_CHI,DeryckG_,30
+2021_11_BAL_CHI,devnavani,28
 2021_11_BAL_CHI,DG_Goldssb,21
 2021_11_BAL_CHI,djgoldman1,27
 2021_11_BAL_CHI,DNebenfhr,35
@@ -59779,7 +59779,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,Cap_Calculator,85
 2021_11_DET_CLE,CFBNumbers,96
 2021_11_DET_CLE,cgustafson__,50
-2021_11_DET_CLE,chester___119,90
 2021_11_DET_CLE,Chris_J_son,50
 2021_11_DET_CLE,CoachHaverkamp,85
 2021_11_DET_CLE,CodyGoggin,71
@@ -59800,6 +59799,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,ddknowles77,85
 2021_11_DET_CLE,deepvaluebettor,86
 2021_11_DET_CLE,DeryckG_,73
+2021_11_DET_CLE,devnavani,90
 2021_11_DET_CLE,DG_Goldssb,78
 2021_11_DET_CLE,djgoldman1,76
 2021_11_DET_CLE,DNebenfhr,80
@@ -60062,7 +60062,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,Cap_Calculator,34
 2021_11_SF_JAX,CFBNumbers,35
 2021_11_SF_JAX,cgustafson__,50
-2021_11_SF_JAX,chester___119,36
 2021_11_SF_JAX,Chris_J_son,50
 2021_11_SF_JAX,CoachHaverkamp,25
 2021_11_SF_JAX,CodyGoggin,32
@@ -60083,6 +60082,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,ddknowles77,26
 2021_11_SF_JAX,deepvaluebettor,34
 2021_11_SF_JAX,DeryckG_,37
+2021_11_SF_JAX,devnavani,36
 2021_11_SF_JAX,DG_Goldssb,31
 2021_11_SF_JAX,djgoldman1,23
 2021_11_SF_JAX,DNebenfhr,25
@@ -60345,7 +60345,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,Cap_Calculator,43
 2021_11_GB_MIN,CFBNumbers,28
 2021_11_GB_MIN,cgustafson__,50
-2021_11_GB_MIN,chester___119,55
 2021_11_GB_MIN,Chris_J_son,50
 2021_11_GB_MIN,CoachHaverkamp,55
 2021_11_GB_MIN,CodyGoggin,58
@@ -60366,6 +60365,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,ddknowles77,52
 2021_11_GB_MIN,deepvaluebettor,51
 2021_11_GB_MIN,DeryckG_,46
+2021_11_GB_MIN,devnavani,55
 2021_11_GB_MIN,DG_Goldssb,56
 2021_11_GB_MIN,djgoldman1,39
 2021_11_GB_MIN,DNebenfhr,50
@@ -60628,7 +60628,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,Cap_Calculator,41
 2021_11_MIA_NYJ,CFBNumbers,35
 2021_11_MIA_NYJ,cgustafson__,50
-2021_11_MIA_NYJ,chester___119,33
 2021_11_MIA_NYJ,Chris_J_son,50
 2021_11_MIA_NYJ,CoachHaverkamp,45
 2021_11_MIA_NYJ,CodyGoggin,36
@@ -60649,6 +60648,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,ddknowles77,44
 2021_11_MIA_NYJ,deepvaluebettor,41
 2021_11_MIA_NYJ,DeryckG_,46
+2021_11_MIA_NYJ,devnavani,33
 2021_11_MIA_NYJ,DG_Goldssb,32
 2021_11_MIA_NYJ,djgoldman1,36
 2021_11_MIA_NYJ,DNebenfhr,30
@@ -60912,7 +60912,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,Cap_Calculator,51
 2021_11_NO_PHI,CFBNumbers,37
 2021_11_NO_PHI,cgustafson__,50
-2021_11_NO_PHI,chester___119,55
 2021_11_NO_PHI,Chris_J_son,50
 2021_11_NO_PHI,CoachHaverkamp,40
 2021_11_NO_PHI,CodyGoggin,61
@@ -60933,6 +60932,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,ddknowles77,52
 2021_11_NO_PHI,deepvaluebettor,45
 2021_11_NO_PHI,DeryckG_,43
+2021_11_NO_PHI,devnavani,55
 2021_11_NO_PHI,DG_Goldssb,45
 2021_11_NO_PHI,djgoldman1,52
 2021_11_NO_PHI,DNebenfhr,42
@@ -61196,7 +61196,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,Cap_Calculator,78
 2021_11_HOU_TEN,CFBNumbers,100
 2021_11_HOU_TEN,cgustafson__,50
-2021_11_HOU_TEN,chester___119,84
 2021_11_HOU_TEN,Chris_J_son,50
 2021_11_HOU_TEN,CoachHaverkamp,85
 2021_11_HOU_TEN,CodyGoggin,78
@@ -61217,6 +61216,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,ddknowles77,85
 2021_11_HOU_TEN,deepvaluebettor,69
 2021_11_HOU_TEN,DeryckG_,77
+2021_11_HOU_TEN,devnavani,84
 2021_11_HOU_TEN,DG_Goldssb,98
 2021_11_HOU_TEN,djgoldman1,86
 2021_11_HOU_TEN,DNebenfhr,80
@@ -61480,7 +61480,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,Cap_Calculator,53
 2021_11_CIN_LV,CFBNumbers,41
 2021_11_CIN_LV,cgustafson__,50
-2021_11_CIN_LV,chester___119,59
 2021_11_CIN_LV,Chris_J_son,50
 2021_11_CIN_LV,CoachHaverkamp,55
 2021_11_CIN_LV,CodyGoggin,41
@@ -61501,6 +61500,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,ddknowles77,44
 2021_11_CIN_LV,deepvaluebettor,51
 2021_11_CIN_LV,DeryckG_,46
+2021_11_CIN_LV,devnavani,59
 2021_11_CIN_LV,DG_Goldssb,35
 2021_11_CIN_LV,djgoldman1,50
 2021_11_CIN_LV,DNebenfhr,40
@@ -61764,7 +61764,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,Cap_Calculator,49
 2021_11_DAL_KC,CFBNumbers,38
 2021_11_DAL_KC,cgustafson__,50
-2021_11_DAL_KC,chester___119,45
 2021_11_DAL_KC,Chris_J_son,50
 2021_11_DAL_KC,CoachHaverkamp,45
 2021_11_DAL_KC,CodyGoggin,30
@@ -61785,6 +61784,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,ddknowles77,53
 2021_11_DAL_KC,deepvaluebettor,63
 2021_11_DAL_KC,DeryckG_,43
+2021_11_DAL_KC,devnavani,45
 2021_11_DAL_KC,DG_Goldssb,40
 2021_11_DAL_KC,djgoldman1,55
 2021_11_DAL_KC,DNebenfhr,57
@@ -62048,7 +62048,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,Cap_Calculator,42
 2021_11_ARI_SEA,CFBNumbers,32
 2021_11_ARI_SEA,cgustafson__,50
-2021_11_ARI_SEA,chester___119,53
 2021_11_ARI_SEA,Chris_J_son,50
 2021_11_ARI_SEA,CoachHaverkamp,45
 2021_11_ARI_SEA,CodyGoggin,35
@@ -62069,6 +62068,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,ddknowles77,61
 2021_11_ARI_SEA,deepvaluebettor,60
 2021_11_ARI_SEA,DeryckG_,57
+2021_11_ARI_SEA,devnavani,53
 2021_11_ARI_SEA,DG_Goldssb,54
 2021_11_ARI_SEA,djgoldman1,42
 2021_11_ARI_SEA,DNebenfhr,59
@@ -62333,7 +62333,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,Cap_Calculator,63
 2021_11_PIT_LAC,CFBNumbers,100
 2021_11_PIT_LAC,cgustafson__,50
-2021_11_PIT_LAC,chester___119,62
 2021_11_PIT_LAC,Chris_J_son,50
 2021_11_PIT_LAC,CoachHaverkamp,70
 2021_11_PIT_LAC,CodyGoggin,73
@@ -62354,6 +62353,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,ddknowles77,75
 2021_11_PIT_LAC,deepvaluebettor,69
 2021_11_PIT_LAC,DeryckG_,68
+2021_11_PIT_LAC,devnavani,62
 2021_11_PIT_LAC,DG_Goldssb,66
 2021_11_PIT_LAC,djgoldman1,63
 2021_11_PIT_LAC,DNebenfhr,63
@@ -62620,7 +62620,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,Cap_Calculator,78
 2021_11_NYG_TB,CFBNumbers,100
 2021_11_NYG_TB,cgustafson__,50
-2021_11_NYG_TB,chester___119,80
 2021_11_NYG_TB,Chris_J_son,75
 2021_11_NYG_TB,CoachHaverkamp,90
 2021_11_NYG_TB,CodyGoggin,72
@@ -62641,6 +62640,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,ddknowles77,81
 2021_11_NYG_TB,deepvaluebettor,74
 2021_11_NYG_TB,DeryckG_,76
+2021_11_NYG_TB,devnavani,80
 2021_11_NYG_TB,DG_Goldssb,81
 2021_11_NYG_TB,djgoldman1,78
 2021_11_NYG_TB,DNebenfhr,80
@@ -62903,7 +62903,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,ButkusStats,40
 2021_12_CHI_DET,Cam_Lopez8,25
 2021_12_CHI_DET,CFBNumbers,50
-2021_12_CHI_DET,chester___119,50
 2021_12_CHI_DET,Chris_J_son,50
 2021_12_CHI_DET,CoachHaverkamp,55
 2021_12_CHI_DET,CodyGoggin,29
@@ -62921,6 +62920,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,ddknowles77,50
 2021_12_CHI_DET,deepvaluebettor,47
 2021_12_CHI_DET,DeryckG_,55
+2021_12_CHI_DET,devnavani,50
 2021_12_CHI_DET,DNebenfhr,55
 2021_12_CHI_DET,DraftAndDevEcon,35
 2021_12_CHI_DET,Dynasty1438,73
@@ -63144,7 +63144,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,ButkusStats,100
 2021_12_LV_DAL,Cam_Lopez8,76
 2021_12_LV_DAL,CFBNumbers,50
-2021_12_LV_DAL,chester___119,72
 2021_12_LV_DAL,Chris_J_son,50
 2021_12_LV_DAL,CoachHaverkamp,80
 2021_12_LV_DAL,CodyGoggin,63
@@ -63162,6 +63161,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,ddknowles77,50
 2021_12_LV_DAL,deepvaluebettor,75
 2021_12_LV_DAL,DeryckG_,69
+2021_12_LV_DAL,devnavani,72
 2021_12_LV_DAL,DNebenfhr,70
 2021_12_LV_DAL,DraftAndDevEcon,72
 2021_12_LV_DAL,Dynasty1438,69
@@ -63388,7 +63388,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,ButkusStats,40
 2021_12_BUF_NO,Cam_Lopez8,59
 2021_12_BUF_NO,CFBNumbers,50
-2021_12_BUF_NO,chester___119,32
 2021_12_BUF_NO,Chris_J_son,50
 2021_12_BUF_NO,CoachHaverkamp,45
 2021_12_BUF_NO,CodyGoggin,39
@@ -63406,6 +63405,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,ddknowles77,50
 2021_12_BUF_NO,deepvaluebettor,15
 2021_12_BUF_NO,DeryckG_,32
+2021_12_BUF_NO,devnavani,32
 2021_12_BUF_NO,DNebenfhr,32
 2021_12_BUF_NO,DraftAndDevEcon,35
 2021_12_BUF_NO,Dynasty1438,75
@@ -63634,7 +63634,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,Cam_Lopez8,63
 2021_12_PIT_CIN,Cap_Calculator,56
 2021_12_PIT_CIN,CFBNumbers,50
-2021_12_PIT_CIN,chester___119,56
 2021_12_PIT_CIN,Chris_J_son,50
 2021_12_PIT_CIN,CoachHaverkamp,55
 2021_12_PIT_CIN,CodyGoggin,72
@@ -63653,6 +63652,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,de_realized,50
 2021_12_PIT_CIN,deepvaluebettor,59
 2021_12_PIT_CIN,DeryckG_,58
+2021_12_PIT_CIN,devnavani,56
 2021_12_PIT_CIN,dflash1017,54
 2021_12_PIT_CIN,DG_Goldssb,59
 2021_12_PIT_CIN,DNebenfhr,50
@@ -63895,7 +63895,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,Cam_Lopez8,42
 2021_12_NYJ_HOU,Cap_Calculator,60
 2021_12_NYJ_HOU,CFBNumbers,50
-2021_12_NYJ_HOU,chester___119,63
 2021_12_NYJ_HOU,Chris_J_son,50
 2021_12_NYJ_HOU,CoachHaverkamp,46
 2021_12_NYJ_HOU,CodyGoggin,38
@@ -63914,6 +63913,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,de_realized,50
 2021_12_NYJ_HOU,deepvaluebettor,59
 2021_12_NYJ_HOU,DeryckG_,53
+2021_12_NYJ_HOU,devnavani,63
 2021_12_NYJ_HOU,dflash1017,49
 2021_12_NYJ_HOU,DG_Goldssb,56
 2021_12_NYJ_HOU,DNebenfhr,50
@@ -64156,7 +64156,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,Cam_Lopez8,26
 2021_12_TB_IND,Cap_Calculator,41
 2021_12_TB_IND,CFBNumbers,50
-2021_12_TB_IND,chester___119,42
 2021_12_TB_IND,Chris_J_son,50
 2021_12_TB_IND,CoachHaverkamp,46
 2021_12_TB_IND,CodyGoggin,32
@@ -64175,6 +64174,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,de_realized,50
 2021_12_TB_IND,deepvaluebettor,43
 2021_12_TB_IND,DeryckG_,36
+2021_12_TB_IND,devnavani,42
 2021_12_TB_IND,dflash1017,37
 2021_12_TB_IND,DG_Goldssb,39
 2021_12_TB_IND,DNebenfhr,50
@@ -64417,7 +64417,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,Cam_Lopez8,50
 2021_12_ATL_JAX,Cap_Calculator,45
 2021_12_ATL_JAX,CFBNumbers,50
-2021_12_ATL_JAX,chester___119,36
 2021_12_ATL_JAX,Chris_J_son,50
 2021_12_ATL_JAX,CoachHaverkamp,41
 2021_12_ATL_JAX,CodyGoggin,36
@@ -64436,6 +64435,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,de_realized,50
 2021_12_ATL_JAX,deepvaluebettor,53
 2021_12_ATL_JAX,DeryckG_,45
+2021_12_ATL_JAX,devnavani,36
 2021_12_ATL_JAX,dflash1017,51
 2021_12_ATL_JAX,DG_Goldssb,48
 2021_12_ATL_JAX,DNebenfhr,50
@@ -64678,7 +64678,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,Cam_Lopez8,57
 2021_12_CAR_MIA,Cap_Calculator,50
 2021_12_CAR_MIA,CFBNumbers,50
-2021_12_CAR_MIA,chester___119,52
 2021_12_CAR_MIA,Chris_J_son,50
 2021_12_CAR_MIA,CoachHaverkamp,46
 2021_12_CAR_MIA,CodyGoggin,41
@@ -64697,6 +64696,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,de_realized,50
 2021_12_CAR_MIA,deepvaluebettor,45
 2021_12_CAR_MIA,DeryckG_,38
+2021_12_CAR_MIA,devnavani,52
 2021_12_CAR_MIA,dflash1017,45
 2021_12_CAR_MIA,DG_Goldssb,50
 2021_12_CAR_MIA,DNebenfhr,50
@@ -64939,7 +64939,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,Cam_Lopez8,40
 2021_12_TEN_NE,Cap_Calculator,73
 2021_12_TEN_NE,CFBNumbers,50
-2021_12_TEN_NE,chester___119,76
 2021_12_TEN_NE,Chris_J_son,50
 2021_12_TEN_NE,CoachHaverkamp,76
 2021_12_TEN_NE,CodyGoggin,67
@@ -64958,6 +64957,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,de_realized,50
 2021_12_TEN_NE,deepvaluebettor,80
 2021_12_TEN_NE,DeryckG_,65
+2021_12_TEN_NE,devnavani,76
 2021_12_TEN_NE,dflash1017,70
 2021_12_TEN_NE,DG_Goldssb,62
 2021_12_TEN_NE,DNebenfhr,50
@@ -65200,7 +65200,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,Cam_Lopez8,25
 2021_12_PHI_NYG,Cap_Calculator,34
 2021_12_PHI_NYG,CFBNumbers,50
-2021_12_PHI_NYG,chester___119,38
 2021_12_PHI_NYG,Chris_J_son,50
 2021_12_PHI_NYG,CoachHaverkamp,34
 2021_12_PHI_NYG,CodyGoggin,30
@@ -65219,6 +65218,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,de_realized,50
 2021_12_PHI_NYG,deepvaluebettor,41
 2021_12_PHI_NYG,DeryckG_,41
+2021_12_PHI_NYG,devnavani,38
 2021_12_PHI_NYG,dflash1017,42
 2021_12_PHI_NYG,DG_Goldssb,32
 2021_12_PHI_NYG,DNebenfhr,50
@@ -65461,7 +65461,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,Cam_Lopez8,55
 2021_12_LAC_DEN,Cap_Calculator,40
 2021_12_LAC_DEN,CFBNumbers,50
-2021_12_LAC_DEN,chester___119,43
 2021_12_LAC_DEN,Chris_J_son,50
 2021_12_LAC_DEN,CoachHaverkamp,38
 2021_12_LAC_DEN,CodyGoggin,38
@@ -65480,6 +65479,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,de_realized,50
 2021_12_LAC_DEN,deepvaluebettor,47
 2021_12_LAC_DEN,DeryckG_,41
+2021_12_LAC_DEN,devnavani,43
 2021_12_LAC_DEN,dflash1017,39
 2021_12_LAC_DEN,DG_Goldssb,21
 2021_12_LAC_DEN,DNebenfhr,36
@@ -65722,7 +65722,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,Cam_Lopez8,35
 2021_12_LA_GB,Cap_Calculator,45
 2021_12_LA_GB,CFBNumbers,50
-2021_12_LA_GB,chester___119,53
 2021_12_LA_GB,Chris_J_son,50
 2021_12_LA_GB,CoachHaverkamp,45
 2021_12_LA_GB,CodyGoggin,48
@@ -65741,6 +65740,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,de_realized,50
 2021_12_LA_GB,deepvaluebettor,49
 2021_12_LA_GB,DeryckG_,43
+2021_12_LA_GB,devnavani,53
 2021_12_LA_GB,dflash1017,49
 2021_12_LA_GB,DG_Goldssb,41
 2021_12_LA_GB,DNebenfhr,57
@@ -65983,7 +65983,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,Cam_Lopez8,42
 2021_12_MIN_SF,Cap_Calculator,55
 2021_12_MIN_SF,CFBNumbers,50
-2021_12_MIN_SF,chester___119,58
 2021_12_MIN_SF,Chris_J_son,50
 2021_12_MIN_SF,CoachHaverkamp,44
 2021_12_MIN_SF,CodyGoggin,41
@@ -66002,6 +66001,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,de_realized,50
 2021_12_MIN_SF,deepvaluebettor,61
 2021_12_MIN_SF,DeryckG_,45
+2021_12_MIN_SF,devnavani,58
 2021_12_MIN_SF,dflash1017,53
 2021_12_MIN_SF,DG_Goldssb,29
 2021_12_MIN_SF,DNebenfhr,44
@@ -66244,7 +66244,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,Cam_Lopez8,61
 2021_12_CLE_BAL,Cap_Calculator,59
 2021_12_CLE_BAL,CFBNumbers,50
-2021_12_CLE_BAL,chester___119,63
 2021_12_CLE_BAL,Chris_J_son,50
 2021_12_CLE_BAL,CoachHaverkamp,71
 2021_12_CLE_BAL,CodyGoggin,40
@@ -66263,6 +66262,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,de_realized,50
 2021_12_CLE_BAL,deepvaluebettor,59
 2021_12_CLE_BAL,DeryckG_,59
+2021_12_CLE_BAL,devnavani,63
 2021_12_CLE_BAL,dflash1017,62
 2021_12_CLE_BAL,DG_Goldssb,83
 2021_12_CLE_BAL,DNebenfhr,50
@@ -66505,7 +66505,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,Cam_Lopez8,41
 2021_12_SEA_WAS,Cap_Calculator,45
 2021_12_SEA_WAS,CFBNumbers,50
-2021_12_SEA_WAS,chester___119,50
 2021_12_SEA_WAS,Chris_J_son,50
 2021_12_SEA_WAS,CoachHaverkamp,45
 2021_12_SEA_WAS,CodyGoggin,39
@@ -66524,6 +66523,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,de_realized,50
 2021_12_SEA_WAS,deepvaluebettor,52
 2021_12_SEA_WAS,DeryckG_,45
+2021_12_SEA_WAS,devnavani,50
 2021_12_SEA_WAS,dflash1017,34
 2021_12_SEA_WAS,DG_Goldssb,47
 2021_12_SEA_WAS,DNebenfhr,42
@@ -66760,7 +66760,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,bubba0077,50
 2021_13_DAL_NO,Cap_Calculator,31
 2021_13_DAL_NO,CFBNumbers,0
-2021_13_DAL_NO,chester___119,20
 2021_13_DAL_NO,Chris_J_son,41
 2021_13_DAL_NO,CoachHaverkamp,35
 2021_13_DAL_NO,CodyGoggin,31
@@ -66779,6 +66778,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,ddknowles77,23
 2021_13_DAL_NO,deepvaluebettor,22
 2021_13_DAL_NO,DeryckG_,34
+2021_13_DAL_NO,devnavani,20
 2021_13_DAL_NO,DG_Goldssb,27
 2021_13_DAL_NO,DNebenfhr,25
 2021_13_DAL_NO,DougCoulters,0
@@ -66997,7 +66997,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,Cam_Lopez8,14
 2021_13_TB_ATL,Cap_Calculator,18
 2021_13_TB_ATL,CFBNumbers,13
-2021_13_TB_ATL,chester___119,18
 2021_13_TB_ATL,Chris_J_son,27
 2021_13_TB_ATL,CoachHaverkamp,20
 2021_13_TB_ATL,CodyGoggin,31
@@ -67016,6 +67015,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,ddknowles77,12
 2021_13_TB_ATL,deepvaluebettor,17
 2021_13_TB_ATL,DeryckG_,24
+2021_13_TB_ATL,devnavani,18
 2021_13_TB_ATL,DG_Goldssb,21
 2021_13_TB_ATL,DNebenfhr,20
 2021_13_TB_ATL,DougCoulters,0
@@ -67246,7 +67246,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,Cam_Lopez8,42
 2021_13_ARI_CHI,Cap_Calculator,26
 2021_13_ARI_CHI,CFBNumbers,0
-2021_13_ARI_CHI,chester___119,29
 2021_13_ARI_CHI,Chris_J_son,50
 2021_13_ARI_CHI,CoachHaverkamp,25
 2021_13_ARI_CHI,CodyGoggin,31
@@ -67265,6 +67264,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,ddknowles77,18
 2021_13_ARI_CHI,deepvaluebettor,37
 2021_13_ARI_CHI,DeryckG_,26
+2021_13_ARI_CHI,devnavani,29
 2021_13_ARI_CHI,DG_Goldssb,12
 2021_13_ARI_CHI,DNebenfhr,24
 2021_13_ARI_CHI,DougCoulters,0
@@ -67495,7 +67495,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,Cam_Lopez8,44
 2021_13_LAC_CIN,Cap_Calculator,56
 2021_13_LAC_CIN,CFBNumbers,34
-2021_13_LAC_CIN,chester___119,59
 2021_13_LAC_CIN,Chris_J_son,50
 2021_13_LAC_CIN,CoachHaverkamp,55
 2021_13_LAC_CIN,CodyGoggin,60
@@ -67514,6 +67513,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,ddknowles77,54
 2021_13_LAC_CIN,deepvaluebettor,45
 2021_13_LAC_CIN,DeryckG_,55
+2021_13_LAC_CIN,devnavani,59
 2021_13_LAC_CIN,DG_Goldssb,58
 2021_13_LAC_CIN,DNebenfhr,55
 2021_13_LAC_CIN,DougCoulters,38
@@ -67744,7 +67744,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,Cam_Lopez8,22
 2021_13_MIN_DET,Cap_Calculator,29
 2021_13_MIN_DET,CFBNumbers,0
-2021_13_MIN_DET,chester___119,20
 2021_13_MIN_DET,Chris_J_son,50
 2021_13_MIN_DET,CoachHaverkamp,25
 2021_13_MIN_DET,CodyGoggin,29
@@ -67763,6 +67762,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,ddknowles77,24
 2021_13_MIN_DET,deepvaluebettor,32
 2021_13_MIN_DET,DeryckG_,32
+2021_13_MIN_DET,devnavani,20
 2021_13_MIN_DET,DG_Goldssb,37
 2021_13_MIN_DET,DNebenfhr,30
 2021_13_MIN_DET,DougCoulters,17
@@ -67993,7 +67993,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,Cam_Lopez8,21
 2021_13_IND_HOU,Cap_Calculator,22
 2021_13_IND_HOU,CFBNumbers,0
-2021_13_IND_HOU,chester___119,17
 2021_13_IND_HOU,Chris_J_son,50
 2021_13_IND_HOU,CoachHaverkamp,15
 2021_13_IND_HOU,CodyGoggin,26
@@ -68012,6 +68011,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,ddknowles77,20
 2021_13_IND_HOU,deepvaluebettor,25
 2021_13_IND_HOU,DeryckG_,28
+2021_13_IND_HOU,devnavani,17
 2021_13_IND_HOU,DG_Goldssb,18
 2021_13_IND_HOU,DNebenfhr,22
 2021_13_IND_HOU,DougCoulters,11
@@ -68242,7 +68242,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,Cam_Lopez8,60
 2021_13_NYG_MIA,Cap_Calculator,54
 2021_13_NYG_MIA,CFBNumbers,29
-2021_13_NYG_MIA,chester___119,65
 2021_13_NYG_MIA,Chris_J_son,50
 2021_13_NYG_MIA,CoachHaverkamp,65
 2021_13_NYG_MIA,CodyGoggin,65
@@ -68261,6 +68260,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,ddknowles77,59
 2021_13_NYG_MIA,deepvaluebettor,59
 2021_13_NYG_MIA,DeryckG_,65
+2021_13_NYG_MIA,devnavani,65
 2021_13_NYG_MIA,DG_Goldssb,58
 2021_13_NYG_MIA,DNebenfhr,65
 2021_13_NYG_MIA,DougCoulters,73
@@ -68491,7 +68491,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,Cam_Lopez8,32
 2021_13_PHI_NYJ,Cap_Calculator,29
 2021_13_PHI_NYJ,CFBNumbers,61
-2021_13_PHI_NYJ,chester___119,31
 2021_13_PHI_NYJ,Chris_J_son,50
 2021_13_PHI_NYJ,CoachHaverkamp,45
 2021_13_PHI_NYJ,CodyGoggin,27
@@ -68510,6 +68509,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,ddknowles77,28
 2021_13_PHI_NYJ,deepvaluebettor,41
 2021_13_PHI_NYJ,DeryckG_,42
+2021_13_PHI_NYJ,devnavani,31
 2021_13_PHI_NYJ,DG_Goldssb,46
 2021_13_PHI_NYJ,DNebenfhr,31
 2021_13_PHI_NYJ,DougCoulters,20
@@ -68740,7 +68740,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,Cam_Lopez8,86
 2021_13_JAX_LA,Cap_Calculator,83
 2021_13_JAX_LA,CFBNumbers,63
-2021_13_JAX_LA,chester___119,85
 2021_13_JAX_LA,Chris_J_son,50
 2021_13_JAX_LA,CoachHaverkamp,85
 2021_13_JAX_LA,CodyGoggin,71
@@ -68759,6 +68758,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,ddknowles77,86
 2021_13_JAX_LA,deepvaluebettor,80
 2021_13_JAX_LA,DeryckG_,82
+2021_13_JAX_LA,devnavani,85
 2021_13_JAX_LA,DG_Goldssb,87
 2021_13_JAX_LA,DNebenfhr,84
 2021_13_JAX_LA,DougCoulters,100
@@ -68989,7 +68989,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,Cam_Lopez8,38
 2021_13_WAS_LV,Cap_Calculator,54
 2021_13_WAS_LV,CFBNumbers,37
-2021_13_WAS_LV,chester___119,62
 2021_13_WAS_LV,Chris_J_son,50
 2021_13_WAS_LV,CoachHaverkamp,65
 2021_13_WAS_LV,CodyGoggin,63
@@ -69008,6 +69007,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,ddknowles77,54
 2021_13_WAS_LV,deepvaluebettor,45
 2021_13_WAS_LV,DeryckG_,59
+2021_13_WAS_LV,devnavani,62
 2021_13_WAS_LV,DG_Goldssb,60
 2021_13_WAS_LV,DNebenfhr,40
 2021_13_WAS_LV,DougCoulters,74
@@ -69238,7 +69238,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,Cam_Lopez8,22
 2021_13_BAL_PIT,Cap_Calculator,45
 2021_13_BAL_PIT,CFBNumbers,20
-2021_13_BAL_PIT,chester___119,40
 2021_13_BAL_PIT,Chris_J_son,50
 2021_13_BAL_PIT,CoachHaverkamp,35
 2021_13_BAL_PIT,CodyGoggin,33
@@ -69257,6 +69256,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,ddknowles77,24
 2021_13_BAL_PIT,deepvaluebettor,37
 2021_13_BAL_PIT,DeryckG_,40
+2021_13_BAL_PIT,devnavani,40
 2021_13_BAL_PIT,DG_Goldssb,36
 2021_13_BAL_PIT,DNebenfhr,36
 2021_13_BAL_PIT,DougCoulters,28
@@ -69487,7 +69487,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,Cam_Lopez8,36
 2021_13_SF_SEA,Cap_Calculator,40
 2021_13_SF_SEA,CFBNumbers,36
-2021_13_SF_SEA,chester___119,35
 2021_13_SF_SEA,Chris_J_son,50
 2021_13_SF_SEA,CoachHaverkamp,45
 2021_13_SF_SEA,CodyGoggin,39
@@ -69506,6 +69505,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,ddknowles77,34
 2021_13_SF_SEA,deepvaluebettor,52
 2021_13_SF_SEA,DeryckG_,44
+2021_13_SF_SEA,devnavani,35
 2021_13_SF_SEA,DG_Goldssb,43
 2021_13_SF_SEA,DNebenfhr,36
 2021_13_SF_SEA,DougCoulters,37
@@ -69736,7 +69736,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,Cam_Lopez8,45
 2021_13_DEN_KC,Cap_Calculator,78
 2021_13_DEN_KC,CFBNumbers,60
-2021_13_DEN_KC,chester___119,75
 2021_13_DEN_KC,Chris_J_son,50
 2021_13_DEN_KC,CoachHaverkamp,70
 2021_13_DEN_KC,CodyGoggin,41
@@ -69755,6 +69754,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,ddknowles77,79
 2021_13_DEN_KC,deepvaluebettor,81
 2021_13_DEN_KC,DeryckG_,74
+2021_13_DEN_KC,devnavani,75
 2021_13_DEN_KC,DG_Goldssb,69
 2021_13_DEN_KC,DNebenfhr,74
 2021_13_DEN_KC,DougCoulters,89
@@ -69985,7 +69985,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,Cam_Lopez8,46
 2021_13_NE_BUF,Cap_Calculator,55
 2021_13_NE_BUF,CFBNumbers,67
-2021_13_NE_BUF,chester___119,54
 2021_13_NE_BUF,Chris_J_son,50
 2021_13_NE_BUF,CoachHaverkamp,45
 2021_13_NE_BUF,CodyGoggin,33
@@ -70004,6 +70003,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,ddknowles77,53
 2021_13_NE_BUF,deepvaluebettor,59
 2021_13_NE_BUF,DeryckG_,46
+2021_13_NE_BUF,devnavani,54
 2021_13_NE_BUF,DG_Goldssb,46
 2021_13_NE_BUF,DNebenfhr,43
 2021_13_NE_BUF,DougCoulters,37
