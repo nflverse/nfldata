@@ -45116,6 +45116,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,YayySports,49
 2021_07_NO_SEA,zackry_mc,50
 2021_07_NO_SEA,zweinberg18,35
+2021_08_GB_ARI,,60
 2021_08_GB_ARI,__DavidOfficial,40
 2021_08_GB_ARI,_DH44_,39
 2021_08_GB_ARI,_jclemons,57
@@ -45390,7 +45391,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,whale_capper,87
 2021_08_GB_ARI,Whatsup20419605,75
 2021_08_GB_ARI,WillShields3,65
-2021_08_GB_ARI,willxlewis,60
 2021_08_GB_ARI,WorryingGnome14,62
 2021_08_GB_ARI,WRC_Cyclist,67
 2021_08_GB_ARI,WS_JakeT,49
@@ -45399,6 +45399,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,YayySports,71
 2021_08_GB_ARI,zackry_mc,50
 2021_08_GB_ARI,zweinberg18,50
+2021_08_CAR_ATL,,52
 2021_08_CAR_ATL,__DavidOfficial,69
 2021_08_CAR_ATL,_DH44_,52
 2021_08_CAR_ATL,_jclemons,49
@@ -45700,7 +45701,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,whale_capper,57
 2021_08_CAR_ATL,Whatsup20419605,50
 2021_08_CAR_ATL,WillShields3,56
-2021_08_CAR_ATL,willxlewis,52
 2021_08_CAR_ATL,WorryingGnome14,57
 2021_08_CAR_ATL,WRC_Cyclist,65
 2021_08_CAR_ATL,WS_JakeT,49
@@ -45709,6 +45709,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,YayySports,50
 2021_08_CAR_ATL,zackry_mc,50
 2021_08_CAR_ATL,zweinberg18,54
+2021_08_MIA_BUF,,50
 2021_08_MIA_BUF,__DavidOfficial,100
 2021_08_MIA_BUF,_DH44_,59
 2021_08_MIA_BUF,_jclemons,84
@@ -46010,7 +46011,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,whale_capper,55
 2021_08_MIA_BUF,Whatsup20419605,100
 2021_08_MIA_BUF,WillShields3,95
-2021_08_MIA_BUF,willxlewis,50
 2021_08_MIA_BUF,WorryingGnome14,75
 2021_08_MIA_BUF,WRC_Cyclist,100
 2021_08_MIA_BUF,WS_JakeT,88
@@ -46019,6 +46019,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,YayySports,96
 2021_08_MIA_BUF,zackry_mc,50
 2021_08_MIA_BUF,zweinberg18,85
+2021_08_SF_CHI,,50
 2021_08_SF_CHI,__DavidOfficial,32
 2021_08_SF_CHI,_DH44_,47
 2021_08_SF_CHI,_jclemons,44
@@ -46320,7 +46321,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,whale_capper,26
 2021_08_SF_CHI,Whatsup20419605,50
 2021_08_SF_CHI,WillShields3,34
-2021_08_SF_CHI,willxlewis,50
 2021_08_SF_CHI,WorryingGnome14,39
 2021_08_SF_CHI,WRC_Cyclist,44
 2021_08_SF_CHI,WS_JakeT,35
@@ -46329,6 +46329,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,YayySports,46
 2021_08_SF_CHI,zackry_mc,50
 2021_08_SF_CHI,zweinberg18,40
+2021_08_PIT_CLE,,50
 2021_08_PIT_CLE,__DavidOfficial,39
 2021_08_PIT_CLE,_DH44_,60
 2021_08_PIT_CLE,_jclemons,53
@@ -46630,7 +46631,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,whale_capper,73
 2021_08_PIT_CLE,Whatsup20419605,50
 2021_08_PIT_CLE,WillShields3,60
-2021_08_PIT_CLE,willxlewis,50
 2021_08_PIT_CLE,WorryingGnome14,60
 2021_08_PIT_CLE,WRC_Cyclist,60
 2021_08_PIT_CLE,WS_JakeT,63
@@ -46639,6 +46639,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,YayySports,59
 2021_08_PIT_CLE,zackry_mc,50
 2021_08_PIT_CLE,zweinberg18,64
+2021_08_PHI_DET,,50
 2021_08_PHI_DET,__DavidOfficial,60
 2021_08_PHI_DET,_DH44_,73
 2021_08_PHI_DET,_jclemons,42
@@ -46939,7 +46940,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,whale_capper,47
 2021_08_PHI_DET,Whatsup20419605,60
 2021_08_PHI_DET,WillShields3,55
-2021_08_PHI_DET,willxlewis,50
 2021_08_PHI_DET,WorryingGnome14,44
 2021_08_PHI_DET,WRC_Cyclist,42
 2021_08_PHI_DET,WS_JakeT,51
@@ -46948,6 +46948,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,YayySports,36
 2021_08_PHI_DET,zackry_mc,50
 2021_08_PHI_DET,zweinberg18,39
+2021_08_LA_HOU,,50
 2021_08_LA_HOU,__DavidOfficial,0
 2021_08_LA_HOU,_DH44_,0
 2021_08_LA_HOU,_jclemons,10
@@ -47249,7 +47250,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,whale_capper,40
 2021_08_LA_HOU,Whatsup20419605,100
 2021_08_LA_HOU,WillShields3,0
-2021_08_LA_HOU,willxlewis,50
 2021_08_LA_HOU,WorryingGnome14,14
 2021_08_LA_HOU,WRC_Cyclist,0
 2021_08_LA_HOU,WS_JakeT,11
@@ -47258,6 +47258,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,YayySports,4
 2021_08_LA_HOU,zackry_mc,50
 2021_08_LA_HOU,zweinberg18,9
+2021_08_TEN_IND,,50
 2021_08_TEN_IND,__DavidOfficial,39
 2021_08_TEN_IND,_DH44_,49
 2021_08_TEN_IND,_jclemons,52
@@ -47559,7 +47560,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,whale_capper,44
 2021_08_TEN_IND,Whatsup20419605,35
 2021_08_TEN_IND,WillShields3,38
-2021_08_TEN_IND,willxlewis,50
 2021_08_TEN_IND,WorryingGnome14,46
 2021_08_TEN_IND,WRC_Cyclist,39
 2021_08_TEN_IND,WS_JakeT,48
@@ -47568,6 +47568,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,YayySports,51
 2021_08_TEN_IND,zackry_mc,50
 2021_08_TEN_IND,zweinberg18,45
+2021_08_CIN_NYJ,,50
 2021_08_CIN_NYJ,__DavidOfficial,0
 2021_08_CIN_NYJ,_DH44_,45
 2021_08_CIN_NYJ,_jclemons,25
@@ -47869,7 +47870,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,whale_capper,45
 2021_08_CIN_NYJ,Whatsup20419605,50
 2021_08_CIN_NYJ,WillShields3,20
-2021_08_CIN_NYJ,willxlewis,50
 2021_08_CIN_NYJ,WorryingGnome14,25
 2021_08_CIN_NYJ,WRC_Cyclist,18
 2021_08_CIN_NYJ,WS_JakeT,22
@@ -47878,6 +47878,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,YayySports,16
 2021_08_CIN_NYJ,zackry_mc,50
 2021_08_CIN_NYJ,zweinberg18,20
+2021_08_NE_LAC,,50
 2021_08_NE_LAC,__DavidOfficial,64
 2021_08_NE_LAC,_DH44_,50
 2021_08_NE_LAC,_jclemons,49
@@ -48179,7 +48180,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,whale_capper,84
 2021_08_NE_LAC,Whatsup20419605,50
 2021_08_NE_LAC,WillShields3,76
-2021_08_NE_LAC,willxlewis,50
 2021_08_NE_LAC,WorryingGnome14,62
 2021_08_NE_LAC,WRC_Cyclist,69
 2021_08_NE_LAC,WS_JakeT,63
@@ -48188,6 +48188,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,YayySports,54
 2021_08_NE_LAC,zackry_mc,50
 2021_08_NE_LAC,zweinberg18,70
+2021_08_JAX_SEA,,50
 2021_08_JAX_SEA,__DavidOfficial,77
 2021_08_JAX_SEA,_DH44_,52
 2021_08_JAX_SEA,_jclemons,58
@@ -48489,7 +48490,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,whale_capper,45
 2021_08_JAX_SEA,Whatsup20419605,50
 2021_08_JAX_SEA,WillShields3,45
-2021_08_JAX_SEA,willxlewis,50
 2021_08_JAX_SEA,WorryingGnome14,60
 2021_08_JAX_SEA,WRC_Cyclist,63
 2021_08_JAX_SEA,WS_JakeT,52
@@ -48498,6 +48498,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,YayySports,79
 2021_08_JAX_SEA,zackry_mc,50
 2021_08_JAX_SEA,zweinberg18,62
+2021_08_WAS_DEN,,50
 2021_08_WAS_DEN,__DavidOfficial,57
 2021_08_WAS_DEN,_DH44_,53
 2021_08_WAS_DEN,_jclemons,55
@@ -48799,7 +48800,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,whale_capper,45
 2021_08_WAS_DEN,Whatsup20419605,50
 2021_08_WAS_DEN,WillShields3,45
-2021_08_WAS_DEN,willxlewis,50
 2021_08_WAS_DEN,WorryingGnome14,58
 2021_08_WAS_DEN,WRC_Cyclist,55
 2021_08_WAS_DEN,WS_JakeT,65
@@ -48808,6 +48808,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,YayySports,69
 2021_08_WAS_DEN,zackry_mc,50
 2021_08_WAS_DEN,zweinberg18,54
+2021_08_TB_NO,,50
 2021_08_TB_NO,__DavidOfficial,23
 2021_08_TB_NO,_DH44_,41
 2021_08_TB_NO,_jclemons,40
@@ -49109,7 +49110,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,whale_capper,28
 2021_08_TB_NO,Whatsup20419605,25
 2021_08_TB_NO,WillShields3,25
-2021_08_TB_NO,willxlewis,50
 2021_08_TB_NO,WorryingGnome14,36
 2021_08_TB_NO,WRC_Cyclist,31
 2021_08_TB_NO,WS_JakeT,20
@@ -49118,6 +49118,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,YayySports,36
 2021_08_TB_NO,zackry_mc,50
 2021_08_TB_NO,zweinberg18,36
+2021_08_DAL_MIN,,47
 2021_08_DAL_MIN,__DavidOfficial,55
 2021_08_DAL_MIN,_DH44_,42
 2021_08_DAL_MIN,_jclemons,49
@@ -49422,7 +49423,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,whale_capper,35
 2021_08_DAL_MIN,Whatsup20419605,100
 2021_08_DAL_MIN,WillShields3,64
-2021_08_DAL_MIN,willxlewis,47
 2021_08_DAL_MIN,WorryingGnome14,54
 2021_08_DAL_MIN,WRC_Cyclist,60
 2021_08_DAL_MIN,WS_JakeT,55
@@ -49431,6 +49431,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,YayySports,49
 2021_08_DAL_MIN,zackry_mc,50
 2021_08_DAL_MIN,zweinberg18,43
+2021_08_NYG_KC,,50
 2021_08_NYG_KC,__DavidOfficial,69
 2021_08_NYG_KC,_DH44_,51
 2021_08_NYG_KC,_jclemons,59
@@ -49739,7 +49740,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,whale_capper,95
 2021_08_NYG_KC,Whatsup20419605,100
 2021_08_NYG_KC,WillShields3,90
-2021_08_NYG_KC,willxlewis,50
 2021_08_NYG_KC,WorryingGnome14,70
 2021_08_NYG_KC,WRC_Cyclist,100
 2021_08_NYG_KC,WS_JakeT,80
@@ -58289,6 +58289,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,YayySports,49
 2021_10_KC_LV,YSchlepper,35
 2021_10_KC_LV,zweinberg18,47
+2021_10_LA_SF,,56
 2021_10_LA_SF,__DavidOfficial,35
 2021_10_LA_SF,_chrisbigler,25
 2021_10_LA_SF,_DH44_,0
@@ -58596,7 +58597,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,wessonmo,35
 2021_10_LA_SF,whale_capper,50
 2021_10_LA_SF,WillShields3,0
-2021_10_LA_SF,willxlewis,56
 2021_10_LA_SF,WorryingGnome14,39
 2021_10_LA_SF,WRC_Cyclist,30
 2021_10_LA_SF,WS_JakeT,37
@@ -58606,6 +58606,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,YayySports,36
 2021_10_LA_SF,YSchlepper,20
 2021_10_LA_SF,zweinberg18,27
+2021_11_NE_ATL,,50
 2021_11_NE_ATL,__DavidOfficial,31
 2021_11_NE_ATL,_DH44_,45
 2021_11_NE_ATL,_jclemons,20
@@ -58867,7 +58868,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,WadeFuller,26
 2021_11_NE_ATL,wessonmo,26
 2021_11_NE_ATL,WillShields3,25
-2021_11_NE_ATL,willxlewis,50
 2021_11_NE_ATL,WorryingGnome14,31
 2021_11_NE_ATL,WS_JakeT,30
 2021_11_NE_ATL,WunderBoyzBlog,32
@@ -58875,6 +58875,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,YayySports,28
 2021_11_NE_ATL,YSchlepper,30
 2021_11_NE_ATL,zweinberg18,31
+2021_11_IND_BUF,,50
 2021_11_IND_BUF,__DavidOfficial,65
 2021_11_IND_BUF,_chrisbigler,75
 2021_11_IND_BUF,_DH44_,55
@@ -59150,7 +59151,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,WadeFuller,70
 2021_11_IND_BUF,wessonmo,74
 2021_11_IND_BUF,WillShields3,75
-2021_11_IND_BUF,willxlewis,50
 2021_11_IND_BUF,WorryingGnome14,63
 2021_11_IND_BUF,WS_JakeT,70
 2021_11_IND_BUF,WunderBoyzBlog,78
@@ -59158,6 +59158,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,YayySports,79
 2021_11_IND_BUF,YSchlepper,70
 2021_11_IND_BUF,zweinberg18,64
+2021_11_WAS_CAR,,50
 2021_11_WAS_CAR,__DavidOfficial,72
 2021_11_WAS_CAR,_chrisbigler,60
 2021_11_WAS_CAR,_DH44_,51
@@ -59434,7 +59435,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,WadeFuller,61
 2021_11_WAS_CAR,wessonmo,66
 2021_11_WAS_CAR,WillShields3,59
-2021_11_WAS_CAR,willxlewis,50
 2021_11_WAS_CAR,WorryingGnome14,59
 2021_11_WAS_CAR,WS_JakeT,56
 2021_11_WAS_CAR,WunderBoyzBlog,63
@@ -59442,6 +59442,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,YayySports,66
 2021_11_WAS_CAR,YSchlepper,56
 2021_11_WAS_CAR,zweinberg18,71
+2021_11_BAL_CHI,,50
 2021_11_BAL_CHI,__DavidOfficial,19
 2021_11_BAL_CHI,_chrisbigler,40
 2021_11_BAL_CHI,_DH44_,35
@@ -59718,7 +59719,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,WadeFuller,27
 2021_11_BAL_CHI,wessonmo,47
 2021_11_BAL_CHI,WillShields3,20
-2021_11_BAL_CHI,willxlewis,50
 2021_11_BAL_CHI,WorryingGnome14,46
 2021_11_BAL_CHI,WS_JakeT,55
 2021_11_BAL_CHI,WunderBoyzBlog,36
@@ -59726,6 +59726,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,YayySports,36
 2021_11_BAL_CHI,YSchlepper,30
 2021_11_BAL_CHI,zweinberg18,28
+2021_11_DET_CLE,,50
 2021_11_DET_CLE,__DavidOfficial,60
 2021_11_DET_CLE,_chrisbigler,90
 2021_11_DET_CLE,_DH44_,62
@@ -60001,7 +60002,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,WadeFuller,78
 2021_11_DET_CLE,wessonmo,100
 2021_11_DET_CLE,WillShields3,59
-2021_11_DET_CLE,willxlewis,50
 2021_11_DET_CLE,WorryingGnome14,78
 2021_11_DET_CLE,WS_JakeT,83
 2021_11_DET_CLE,WunderBoyzBlog,84
@@ -60009,6 +60009,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,YayySports,87
 2021_11_DET_CLE,YSchlepper,70
 2021_11_DET_CLE,zweinberg18,63
+2021_11_SF_JAX,,50
 2021_11_SF_JAX,__DavidOfficial,22
 2021_11_SF_JAX,_chrisbigler,15
 2021_11_SF_JAX,_DH44_,41
@@ -60284,7 +60285,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,WadeFuller,28
 2021_11_SF_JAX,wessonmo,25
 2021_11_SF_JAX,WillShields3,30
-2021_11_SF_JAX,willxlewis,50
 2021_11_SF_JAX,WorryingGnome14,24
 2021_11_SF_JAX,WS_JakeT,28
 2021_11_SF_JAX,WunderBoyzBlog,34
@@ -60292,6 +60292,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,YayySports,28
 2021_11_SF_JAX,YSchlepper,40
 2021_11_SF_JAX,zweinberg18,38
+2021_11_GB_MIN,,50
 2021_11_GB_MIN,__DavidOfficial,30
 2021_11_GB_MIN,_chrisbigler,56
 2021_11_GB_MIN,_DH44_,41
@@ -60567,7 +60568,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,WadeFuller,45
 2021_11_GB_MIN,wessonmo,51
 2021_11_GB_MIN,WillShields3,40
-2021_11_GB_MIN,willxlewis,50
 2021_11_GB_MIN,WorryingGnome14,47
 2021_11_GB_MIN,WS_JakeT,40
 2021_11_GB_MIN,WunderBoyzBlog,38
@@ -60575,6 +60575,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,YayySports,49
 2021_11_GB_MIN,YSchlepper,40
 2021_11_GB_MIN,zweinberg18,34
+2021_11_MIA_NYJ,,50
 2021_11_MIA_NYJ,__DavidOfficial,26
 2021_11_MIA_NYJ,_chrisbigler,45
 2021_11_MIA_NYJ,_DH44_,34
@@ -60851,7 +60852,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,WadeFuller,43
 2021_11_MIA_NYJ,wessonmo,35
 2021_11_MIA_NYJ,WillShields3,35
-2021_11_MIA_NYJ,willxlewis,50
 2021_11_MIA_NYJ,WorryingGnome14,40
 2021_11_MIA_NYJ,WS_JakeT,37
 2021_11_MIA_NYJ,WunderBoyzBlog,43
@@ -60859,6 +60859,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,YayySports,36
 2021_11_MIA_NYJ,YSchlepper,40
 2021_11_MIA_NYJ,zweinberg18,44
+2021_11_NO_PHI,,50
 2021_11_NO_PHI,__DavidOfficial,35
 2021_11_NO_PHI,_chrisbigler,65
 2021_11_NO_PHI,_DH44_,50
@@ -61135,7 +61136,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,WadeFuller,52
 2021_11_NO_PHI,wessonmo,52
 2021_11_NO_PHI,WillShields3,45
-2021_11_NO_PHI,willxlewis,50
 2021_11_NO_PHI,WorryingGnome14,48
 2021_11_NO_PHI,WS_JakeT,68
 2021_11_NO_PHI,WunderBoyzBlog,49
@@ -61143,6 +61143,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,YayySports,49
 2021_11_NO_PHI,YSchlepper,40
 2021_11_NO_PHI,zweinberg18,65
+2021_11_HOU_TEN,,50
 2021_11_HOU_TEN,__DavidOfficial,78
 2021_11_HOU_TEN,_chrisbigler,75
 2021_11_HOU_TEN,_DH44_,79
@@ -61419,7 +61420,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,WadeFuller,76
 2021_11_HOU_TEN,wessonmo,80
 2021_11_HOU_TEN,WillShields3,82
-2021_11_HOU_TEN,willxlewis,50
 2021_11_HOU_TEN,WorryingGnome14,69
 2021_11_HOU_TEN,WS_JakeT,85
 2021_11_HOU_TEN,WunderBoyzBlog,69
@@ -61427,6 +61427,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,YayySports,95
 2021_11_HOU_TEN,YSchlepper,85
 2021_11_HOU_TEN,zweinberg18,79
+2021_11_CIN_LV,,50
 2021_11_CIN_LV,__DavidOfficial,42
 2021_11_CIN_LV,_chrisbigler,40
 2021_11_CIN_LV,_DH44_,50
@@ -61703,7 +61704,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,WadeFuller,54
 2021_11_CIN_LV,wessonmo,54
 2021_11_CIN_LV,WillShields3,53
-2021_11_CIN_LV,willxlewis,50
 2021_11_CIN_LV,WorryingGnome14,47
 2021_11_CIN_LV,WS_JakeT,41
 2021_11_CIN_LV,WunderBoyzBlog,48
@@ -61711,6 +61711,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,YayySports,50
 2021_11_CIN_LV,YSchlepper,40
 2021_11_CIN_LV,zweinberg18,40
+2021_11_DAL_KC,,50
 2021_11_DAL_KC,__DavidOfficial,35
 2021_11_DAL_KC,_chrisbigler,60
 2021_11_DAL_KC,_DH44_,50
@@ -61987,7 +61988,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,WadeFuller,55
 2021_11_DAL_KC,wessonmo,54
 2021_11_DAL_KC,WillShields3,44
-2021_11_DAL_KC,willxlewis,50
 2021_11_DAL_KC,WorryingGnome14,43
 2021_11_DAL_KC,WS_JakeT,49
 2021_11_DAL_KC,WunderBoyzBlog,37
@@ -61995,6 +61995,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,YayySports,50
 2021_11_DAL_KC,YSchlepper,39
 2021_11_DAL_KC,zweinberg18,45
+2021_11_ARI_SEA,,50
 2021_11_ARI_SEA,__DavidOfficial,34
 2021_11_ARI_SEA,_chrisbigler,60
 2021_11_ARI_SEA,_DH44_,41
@@ -62271,7 +62272,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,WadeFuller,47
 2021_11_ARI_SEA,wessonmo,50
 2021_11_ARI_SEA,WillShields3,44
-2021_11_ARI_SEA,willxlewis,50
 2021_11_ARI_SEA,WorryingGnome14,57
 2021_11_ARI_SEA,WS_JakeT,51
 2021_11_ARI_SEA,WunderBoyzBlog,44
@@ -62279,6 +62279,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,YayySports,36
 2021_11_ARI_SEA,YSchlepper,45
 2021_11_ARI_SEA,zweinberg18,37
+2021_11_PIT_LAC,,50
 2021_11_PIT_LAC,__DavidOfficial,68
 2021_11_PIT_LAC,_chrisbigler,75
 2021_11_PIT_LAC,_DH44_,52
@@ -62557,7 +62558,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,WadeFuller,59
 2021_11_PIT_LAC,wessonmo,76
 2021_11_PIT_LAC,WillShields3,67
-2021_11_PIT_LAC,willxlewis,50
 2021_11_PIT_LAC,WorryingGnome14,64
 2021_11_PIT_LAC,WS_JakeT,69
 2021_11_PIT_LAC,WunderBoyzBlog,69
@@ -62565,6 +62565,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,YayySports,64
 2021_11_PIT_LAC,YSchlepper,60
 2021_11_PIT_LAC,zweinberg18,63
+2021_11_NYG_TB,,50
 2021_11_NYG_TB,__DavidOfficial,76
 2021_11_NYG_TB,_chrisbigler,75
 2021_11_NYG_TB,_DH44_,99
@@ -62844,7 +62845,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,WadeFuller,78
 2021_11_NYG_TB,wessonmo,81
 2021_11_NYG_TB,WillShields3,85
-2021_11_NYG_TB,willxlewis,50
 2021_11_NYG_TB,WorryingGnome14,69
 2021_11_NYG_TB,WS_JakeT,77
 2021_11_NYG_TB,WunderBoyzBlog,78
