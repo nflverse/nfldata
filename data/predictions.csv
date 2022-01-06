@@ -3,6 +3,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,,70
 2021_01_DAL_TB,__beraldo,65
 2021_01_DAL_TB,__DavidOfficial,65
+2021_01_DAL_TB,_alendowsky,50
 2021_01_DAL_TB,_daleng_,53
 2021_01_DAL_TB,_dmdoyle,58
 2021_01_DAL_TB,_jclemons,70
@@ -34,7 +35,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,AllyLombard,57
 2021_01_DAL_TB,AlvaroIM77,55
 2021_01_DAL_TB,alvespina,85
-2021_01_DAL_TB,alxfail,50
 2021_01_DAL_TB,Amwarsaw42,54
 2021_01_DAL_TB,amzamudio77,79
 2021_01_DAL_TB,andreacasiragh1,50
@@ -648,6 +648,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,,62
 2021_01_PHI_ATL,__beraldo,68
 2021_01_PHI_ATL,__DavidOfficial,75
+2021_01_PHI_ATL,_alendowsky,59
 2021_01_PHI_ATL,_daleng_,53
 2021_01_PHI_ATL,_dmdoyle,60
 2021_01_PHI_ATL,_jclemons,60
@@ -681,7 +682,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,AllyLombard,50
 2021_01_PHI_ATL,AlvaroIM77,55
 2021_01_PHI_ATL,alvespina,62
-2021_01_PHI_ATL,alxfail,59
 2021_01_PHI_ATL,Amwarsaw42,36
 2021_01_PHI_ATL,amzamudio77,59
 2021_01_PHI_ATL,andreacasiragh1,78
@@ -1321,6 +1321,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,,40
 2021_01_PIT_BUF,__beraldo,50
 2021_01_PIT_BUF,__DavidOfficial,70
+2021_01_PIT_BUF,_alendowsky,58
 2021_01_PIT_BUF,_daleng_,61
 2021_01_PIT_BUF,_dmdoyle,73
 2021_01_PIT_BUF,_jclemons,68
@@ -1354,7 +1355,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,AllyLombard,50
 2021_01_PIT_BUF,AlvaroIM77,70
 2021_01_PIT_BUF,alvespina,58
-2021_01_PIT_BUF,alxfail,58
 2021_01_PIT_BUF,Amwarsaw42,63
 2021_01_PIT_BUF,amzamudio77,75
 2021_01_PIT_BUF,andreacasiragh1,74
@@ -1994,6 +1994,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,,61
 2021_01_NYJ_CAR,__beraldo,50
 2021_01_NYJ_CAR,__DavidOfficial,76
+2021_01_NYJ_CAR,_alendowsky,49
 2021_01_NYJ_CAR,_daleng_,51
 2021_01_NYJ_CAR,_dmdoyle,58
 2021_01_NYJ_CAR,_jclemons,60
@@ -2027,7 +2028,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,AllyLombard,50
 2021_01_NYJ_CAR,AlvaroIM77,70
 2021_01_NYJ_CAR,alvespina,58
-2021_01_NYJ_CAR,alxfail,49
 2021_01_NYJ_CAR,Amwarsaw42,0
 2021_01_NYJ_CAR,amzamudio77,80
 2021_01_NYJ_CAR,andreacasiragh1,67
@@ -2667,6 +2667,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,,21
 2021_01_MIN_CIN,__beraldo,50
 2021_01_MIN_CIN,__DavidOfficial,33
+2021_01_MIN_CIN,_alendowsky,44
 2021_01_MIN_CIN,_daleng_,33
 2021_01_MIN_CIN,_dmdoyle,22
 2021_01_MIN_CIN,_jclemons,46
@@ -2700,7 +2701,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,AllyLombard,50
 2021_01_MIN_CIN,AlvaroIM77,53
 2021_01_MIN_CIN,alvespina,44
-2021_01_MIN_CIN,alxfail,44
 2021_01_MIN_CIN,Amwarsaw42,50
 2021_01_MIN_CIN,amzamudio77,45
 2021_01_MIN_CIN,andreacasiragh1,21
@@ -3340,6 +3340,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,,50
 2021_01_SF_DET,__beraldo,50
 2021_01_SF_DET,__DavidOfficial,17
+2021_01_SF_DET,_alendowsky,31
 2021_01_SF_DET,_daleng_,40
 2021_01_SF_DET,_dmdoyle,15
 2021_01_SF_DET,_jclemons,20
@@ -3373,7 +3374,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,AllyLombard,50
 2021_01_SF_DET,AlvaroIM77,23
 2021_01_SF_DET,alvespina,10
-2021_01_SF_DET,alxfail,31
 2021_01_SF_DET,Amwarsaw42,48
 2021_01_SF_DET,amzamudio77,15
 2021_01_SF_DET,andreacasiragh1,12
@@ -4013,6 +4013,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,,50
 2021_01_JAX_HOU,__beraldo,50
 2021_01_JAX_HOU,__DavidOfficial,45
+2021_01_JAX_HOU,_alendowsky,56
 2021_01_JAX_HOU,_daleng_,42
 2021_01_JAX_HOU,_dmdoyle,45
 2021_01_JAX_HOU,_jclemons,59
@@ -4046,7 +4047,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,AllyLombard,50
 2021_01_JAX_HOU,AlvaroIM77,36
 2021_01_JAX_HOU,alvespina,50
-2021_01_JAX_HOU,alxfail,56
 2021_01_JAX_HOU,Amwarsaw42,39
 2021_01_JAX_HOU,amzamudio77,27
 2021_01_JAX_HOU,andreacasiragh1,17
@@ -4686,6 +4686,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,,50
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
+2021_01_SEA_IND,_alendowsky,50
 2021_01_SEA_IND,_daleng_,33
 2021_01_SEA_IND,_dmdoyle,15
 2021_01_SEA_IND,_jclemons,49
@@ -4719,7 +4720,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,AllyLombard,50
 2021_01_SEA_IND,AlvaroIM77,48
 2021_01_SEA_IND,alvespina,46
-2021_01_SEA_IND,alxfail,50
 2021_01_SEA_IND,Amwarsaw42,44
 2021_01_SEA_IND,amzamudio77,42
 2021_01_SEA_IND,andreacasiragh1,21
@@ -5359,6 +5359,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,,50
 2021_01_ARI_TEN,__beraldo,50
 2021_01_ARI_TEN,__DavidOfficial,65
+2021_01_ARI_TEN,_alendowsky,50
 2021_01_ARI_TEN,_daleng_,47
 2021_01_ARI_TEN,_dmdoyle,43
 2021_01_ARI_TEN,_jclemons,54
@@ -5392,7 +5393,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,AllyLombard,50
 2021_01_ARI_TEN,AlvaroIM77,58
 2021_01_ARI_TEN,alvespina,52
-2021_01_ARI_TEN,alxfail,50
 2021_01_ARI_TEN,Amwarsaw42,30
 2021_01_ARI_TEN,amzamudio77,42
 2021_01_ARI_TEN,andreacasiragh1,71
@@ -6032,6 +6032,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,,50
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
+2021_01_LAC_WAS,_alendowsky,50
 2021_01_LAC_WAS,_daleng_,43
 2021_01_LAC_WAS,_dmdoyle,42
 2021_01_LAC_WAS,_jclemons,57
@@ -6065,7 +6066,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,AllyLombard,50
 2021_01_LAC_WAS,AlvaroIM77,55
 2021_01_LAC_WAS,alvespina,60
-2021_01_LAC_WAS,alxfail,50
 2021_01_LAC_WAS,Amwarsaw42,66
 2021_01_LAC_WAS,amzamudio77,71
 2021_01_LAC_WAS,andreacasiragh1,59
@@ -6705,6 +6705,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,,50
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
+2021_01_CLE_KC,_alendowsky,61
 2021_01_CLE_KC,_daleng_,42
 2021_01_CLE_KC,_dmdoyle,65
 2021_01_CLE_KC,_jclemons,56
@@ -6738,7 +6739,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,AllyLombard,50
 2021_01_CLE_KC,AlvaroIM77,71
 2021_01_CLE_KC,alvespina,62
-2021_01_CLE_KC,alxfail,61
 2021_01_CLE_KC,Amwarsaw42,73
 2021_01_CLE_KC,amzamudio77,75
 2021_01_CLE_KC,andreacasiragh1,61
@@ -7378,6 +7378,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,,50
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
+2021_01_MIA_NE,_alendowsky,63
 2021_01_MIA_NE,_daleng_,51
 2021_01_MIA_NE,_dmdoyle,57
 2021_01_MIA_NE,_jclemons,51
@@ -7411,7 +7412,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,AllyLombard,50
 2021_01_MIA_NE,AlvaroIM77,47
 2021_01_MIA_NE,alvespina,45
-2021_01_MIA_NE,alxfail,63
 2021_01_MIA_NE,Amwarsaw42,53
 2021_01_MIA_NE,amzamudio77,69
 2021_01_MIA_NE,andreacasiragh1,32
@@ -8051,6 +8051,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,,50
 2021_01_GB_NO,__beraldo,50
 2021_01_GB_NO,__DavidOfficial,25
+2021_01_GB_NO,_alendowsky,29
 2021_01_GB_NO,_daleng_,42
 2021_01_GB_NO,_dmdoyle,51
 2021_01_GB_NO,_jclemons,30
@@ -8084,7 +8085,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,AllyLombard,50
 2021_01_GB_NO,AlvaroIM77,43
 2021_01_GB_NO,alvespina,33
-2021_01_GB_NO,alxfail,29
 2021_01_GB_NO,Amwarsaw42,23
 2021_01_GB_NO,amzamudio77,43
 2021_01_GB_NO,andreacasiragh1,32
@@ -8724,6 +8724,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,,50
 2021_01_DEN_NYG,__beraldo,50
 2021_01_DEN_NYG,__DavidOfficial,40
+2021_01_DEN_NYG,_alendowsky,46
 2021_01_DEN_NYG,_daleng_,47
 2021_01_DEN_NYG,_dmdoyle,56
 2021_01_DEN_NYG,_jclemons,49
@@ -8757,7 +8758,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,AllyLombard,50
 2021_01_DEN_NYG,AlvaroIM77,45
 2021_01_DEN_NYG,alvespina,45
-2021_01_DEN_NYG,alxfail,46
 2021_01_DEN_NYG,Amwarsaw42,0
 2021_01_DEN_NYG,amzamudio77,33
 2021_01_DEN_NYG,andreacasiragh1,40
@@ -9397,6 +9397,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,,50
 2021_01_CHI_LA,__beraldo,50
 2021_01_CHI_LA,__DavidOfficial,75
+2021_01_CHI_LA,_alendowsky,57
 2021_01_CHI_LA,_daleng_,69
 2021_01_CHI_LA,_dmdoyle,81
 2021_01_CHI_LA,_jclemons,71
@@ -9430,7 +9431,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,AllyLombard,50
 2021_01_CHI_LA,AlvaroIM77,82
 2021_01_CHI_LA,alvespina,66
-2021_01_CHI_LA,alxfail,57
 2021_01_CHI_LA,Amwarsaw42,100
 2021_01_CHI_LA,amzamudio77,91
 2021_01_CHI_LA,andreacasiragh1,65
@@ -10072,6 +10072,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,,50
 2021_01_BAL_LV,__beraldo,50
 2021_01_BAL_LV,__DavidOfficial,40
+2021_01_BAL_LV,_alendowsky,38
 2021_01_BAL_LV,_daleng_,46
 2021_01_BAL_LV,_dmdoyle,11
 2021_01_BAL_LV,_jclemons,40
@@ -10105,7 +10106,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,AllyLombard,50
 2021_01_BAL_LV,AlvaroIM77,33
 2021_01_BAL_LV,alvespina,20
-2021_01_BAL_LV,alxfail,38
 2021_01_BAL_LV,amvangrinsven,57
 2021_01_BAL_LV,Amwarsaw42,50
 2021_01_BAL_LV,amzamudio77,30
@@ -17995,6 +17995,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,,45
 2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
+2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
 2021_03_WAS_BUF,_jclemons,69
 2021_03_WAS_BUF,_LiamHorsley,70
@@ -18014,7 +18015,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,AlexanderSpeer_,76
 2021_03_WAS_BUF,altspreadpsycho,69
 2021_03_WAS_BUF,alvespina,77
-2021_03_WAS_BUF,alxfail,60
 2021_03_WAS_BUF,Amwarsaw42,50
 2021_03_WAS_BUF,amzamudio77,86
 2021_03_WAS_BUF,andreacasiragh1,60
@@ -18370,6 +18370,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
 2021_03_CHI_CLE,__DavidOfficial,60
+2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
 2021_03_CHI_CLE,_jclemons,55
 2021_03_CHI_CLE,_LiamHorsley,58
@@ -18389,7 +18390,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,AlexanderSpeer_,71
 2021_03_CHI_CLE,altspreadpsycho,90
 2021_03_CHI_CLE,alvespina,73
-2021_03_CHI_CLE,alxfail,53
 2021_03_CHI_CLE,Amwarsaw42,50
 2021_03_CHI_CLE,amzamudio77,50
 2021_03_CHI_CLE,andreacasiragh1,62
@@ -18745,6 +18745,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
 2021_03_BAL_DET,__DavidOfficial,0
+2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
 2021_03_BAL_DET,_jclemons,27
 2021_03_BAL_DET,_LiamHorsley,0
@@ -18764,7 +18765,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,AlexanderSpeer_,22
 2021_03_BAL_DET,altspreadpsycho,40
 2021_03_BAL_DET,alvespina,5
-2021_03_BAL_DET,alxfail,47
 2021_03_BAL_DET,Amwarsaw42,0
 2021_03_BAL_DET,amzamudio77,11
 2021_03_BAL_DET,andreacasiragh1,0
@@ -19120,6 +19120,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,,22
 2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,__DavidOfficial,0
+2021_03_ARI_JAX,_alendowsky,43
 2021_03_ARI_JAX,_DH44_,48
 2021_03_ARI_JAX,_jclemons,22
 2021_03_ARI_JAX,_LiamHorsley,30
@@ -19139,7 +19140,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,AlexanderSpeer_,18
 2021_03_ARI_JAX,altspreadpsycho,10
 2021_03_ARI_JAX,alvespina,6
-2021_03_ARI_JAX,alxfail,43
 2021_03_ARI_JAX,Amwarsaw42,50
 2021_03_ARI_JAX,amzamudio77,50
 2021_03_ARI_JAX,andreacasiragh1,0
@@ -19495,6 +19495,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,,42
 2021_03_LAC_KC,,50
 2021_03_LAC_KC,__DavidOfficial,52
+2021_03_LAC_KC,_alendowsky,52
 2021_03_LAC_KC,_DH44_,53
 2021_03_LAC_KC,_jclemons,44
 2021_03_LAC_KC,_LiamHorsley,52
@@ -19514,7 +19515,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,AlexanderSpeer_,68
 2021_03_LAC_KC,altspreadpsycho,60
 2021_03_LAC_KC,alvespina,72
-2021_03_LAC_KC,alxfail,52
 2021_03_LAC_KC,Amwarsaw42,50
 2021_03_LAC_KC,amzamudio77,50
 2021_03_LAC_KC,andreacasiragh1,65
@@ -19870,6 +19870,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,,62
 2021_03_NO_NE,,50
 2021_03_NO_NE,__DavidOfficial,55
+2021_03_NO_NE,_alendowsky,49
 2021_03_NO_NE,_DH44_,49
 2021_03_NO_NE,_jclemons,46
 2021_03_NO_NE,_LiamHorsley,49
@@ -19889,7 +19890,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,AlexanderSpeer_,44
 2021_03_NO_NE,altspreadpsycho,40
 2021_03_NO_NE,alvespina,57
-2021_03_NO_NE,alxfail,49
 2021_03_NO_NE,Amwarsaw42,50
 2021_03_NO_NE,amzamudio77,50
 2021_03_NO_NE,andreacasiragh1,54
@@ -20245,6 +20245,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,,50
 2021_03_ATL_NYG,__DavidOfficial,50
+2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
 2021_03_ATL_NYG,_jclemons,43
 2021_03_ATL_NYG,_LiamHorsley,49
@@ -20264,7 +20265,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,AlexanderSpeer_,65
 2021_03_ATL_NYG,altspreadpsycho,40
 2021_03_ATL_NYG,alvespina,64
-2021_03_ATL_NYG,alxfail,51
 2021_03_ATL_NYG,Amwarsaw42,100
 2021_03_ATL_NYG,amzamudio77,50
 2021_03_ATL_NYG,andreacasiragh1,58
@@ -20620,6 +20620,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,__DavidOfficial,56
+2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
 2021_03_CIN_PIT,_jclemons,47
 2021_03_CIN_PIT,_LiamHorsley,51
@@ -20639,7 +20640,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,AlexanderSpeer_,55
 2021_03_CIN_PIT,altspreadpsycho,35
 2021_03_CIN_PIT,alvespina,63
-2021_03_CIN_PIT,alxfail,51
 2021_03_CIN_PIT,Amwarsaw42,50
 2021_03_CIN_PIT,amzamudio77,50
 2021_03_CIN_PIT,andreacasiragh1,56
@@ -20995,6 +20995,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,,44
 2021_03_IND_TEN,,50
 2021_03_IND_TEN,__DavidOfficial,75
+2021_03_IND_TEN,_alendowsky,54
 2021_03_IND_TEN,_DH44_,48
 2021_03_IND_TEN,_jclemons,43
 2021_03_IND_TEN,_LiamHorsley,63
@@ -21014,7 +21015,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,AlexanderSpeer_,62
 2021_03_IND_TEN,altspreadpsycho,45
 2021_03_IND_TEN,alvespina,44
-2021_03_IND_TEN,alxfail,54
 2021_03_IND_TEN,Amwarsaw42,50
 2021_03_IND_TEN,amzamudio77,50
 2021_03_IND_TEN,andreacasiragh1,58
@@ -21370,6 +21370,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,,100
 2021_03_NYJ_DEN,,50
 2021_03_NYJ_DEN,__DavidOfficial,80
+2021_03_NYJ_DEN,_alendowsky,57
 2021_03_NYJ_DEN,_DH44_,56
 2021_03_NYJ_DEN,_jclemons,65
 2021_03_NYJ_DEN,_LiamHorsley,54
@@ -21389,7 +21390,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,AlexanderSpeer_,70
 2021_03_NYJ_DEN,altspreadpsycho,75
 2021_03_NYJ_DEN,alvespina,99
-2021_03_NYJ_DEN,alxfail,57
 2021_03_NYJ_DEN,Amwarsaw42,50
 2021_03_NYJ_DEN,amzamudio77,50
 2021_03_NYJ_DEN,andreacasiragh1,71
@@ -21748,6 +21748,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,,69
 2021_03_MIA_LV,,50
 2021_03_MIA_LV,__DavidOfficial,75
+2021_03_MIA_LV,_alendowsky,55
 2021_03_MIA_LV,_DH44_,49
 2021_03_MIA_LV,_jclemons,65
 2021_03_MIA_LV,_LiamHorsley,54
@@ -21767,7 +21768,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,AlexanderSpeer_,68
 2021_03_MIA_LV,altspreadpsycho,51
 2021_03_MIA_LV,alvespina,70
-2021_03_MIA_LV,alxfail,55
 2021_03_MIA_LV,Amwarsaw42,50
 2021_03_MIA_LV,amzamudio77,50
 2021_03_MIA_LV,andreacasiragh1,93
@@ -22127,6 +22127,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,,64
 2021_03_TB_LA,,50
 2021_03_TB_LA,__DavidOfficial,40
+2021_03_TB_LA,_alendowsky,52
 2021_03_TB_LA,_DH44_,50
 2021_03_TB_LA,_jclemons,38
 2021_03_TB_LA,_LiamHorsley,51
@@ -22146,7 +22147,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,AlexanderSpeer_,41
 2021_03_TB_LA,altspreadpsycho,15
 2021_03_TB_LA,alvespina,55
-2021_03_TB_LA,alxfail,52
 2021_03_TB_LA,Amwarsaw42,50
 2021_03_TB_LA,amzamudio77,50
 2021_03_TB_LA,andreacasiragh1,51
@@ -22506,6 +22506,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
 2021_03_SEA_MIN,__DavidOfficial,40
+2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
 2021_03_SEA_MIN,_jclemons,36
 2021_03_SEA_MIN,_LiamHorsley,49
@@ -22525,7 +22526,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,AlexanderSpeer_,32
 2021_03_SEA_MIN,altspreadpsycho,45
 2021_03_SEA_MIN,alvespina,42
-2021_03_SEA_MIN,alxfail,47
 2021_03_SEA_MIN,Amwarsaw42,50
 2021_03_SEA_MIN,amzamudio77,50
 2021_03_SEA_MIN,andreacasiragh1,52
@@ -22885,6 +22885,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,,69
 2021_03_GB_SF,,50
 2021_03_GB_SF,__DavidOfficial,50
+2021_03_GB_SF,_alendowsky,48
 2021_03_GB_SF,_DH44_,48
 2021_03_GB_SF,_jclemons,38
 2021_03_GB_SF,_LiamHorsley,48
@@ -22904,7 +22905,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,AlexanderSpeer_,45
 2021_03_GB_SF,altspreadpsycho,85
 2021_03_GB_SF,alvespina,52
-2021_03_GB_SF,alxfail,48
 2021_03_GB_SF,Amwarsaw42,100
 2021_03_GB_SF,amzamudio77,50
 2021_03_GB_SF,andreacasiragh1,48
@@ -23265,6 +23265,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,,35
 2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,__DavidOfficial,67
+2021_03_PHI_DAL,_alendowsky,51
 2021_03_PHI_DAL,_DH44_,80
 2021_03_PHI_DAL,_jclemons,59
 2021_03_PHI_DAL,_LiamHorsley,56
@@ -23284,7 +23285,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,AlexanderSpeer_,70
 2021_03_PHI_DAL,altspreadpsycho,60
 2021_03_PHI_DAL,alvespina,70
-2021_03_PHI_DAL,alxfail,51
 2021_03_PHI_DAL,Amwarsaw42,50
 2021_03_PHI_DAL,amzamudio77,50
 2021_03_PHI_DAL,AnalyticsLeo,53
@@ -23661,6 +23661,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,zweinberg18,57
 2021_04_JAX_CIN,,69
 2021_04_JAX_CIN,__DavidOfficial,75
+2021_04_JAX_CIN,_alendowsky,53
 2021_04_JAX_CIN,_DH44_,51
 2021_04_JAX_CIN,_jclemons,72
 2021_04_JAX_CIN,_LiamHorsley,65
@@ -23679,7 +23680,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,AlexDBlack27,69
 2021_04_JAX_CIN,altspreadpsycho,45
 2021_04_JAX_CIN,alvespina,79
-2021_04_JAX_CIN,alxfail,53
 2021_04_JAX_CIN,amzamudio77,50
 2021_04_JAX_CIN,AnalyticsLeo,50
 2021_04_JAX_CIN,andreacasiragh1,63
@@ -24016,6 +24016,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,zweinberg18,70
 2021_04_WAS_ATL,,33
 2021_04_WAS_ATL,__DavidOfficial,35
+2021_04_WAS_ATL,_alendowsky,51
 2021_04_WAS_ATL,_DH44_,49
 2021_04_WAS_ATL,_jclemons,47
 2021_04_WAS_ATL,_johnO2,0
@@ -24037,7 +24038,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,AlexDBlack27,45
 2021_04_WAS_ATL,altspreadpsycho,50
 2021_04_WAS_ATL,alvespina,40
-2021_04_WAS_ATL,alxfail,51
 2021_04_WAS_ATL,amzamudio77,50
 2021_04_WAS_ATL,AnalyticsLeo,30
 2021_04_WAS_ATL,andreacasiragh1,50
@@ -24408,6 +24408,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,zweinberg18,45
 2021_04_HOU_BUF,,89
 2021_04_HOU_BUF,__DavidOfficial,100
+2021_04_HOU_BUF,_alendowsky,58
 2021_04_HOU_BUF,_DH44_,100
 2021_04_HOU_BUF,_jclemons,83
 2021_04_HOU_BUF,_johnO2,100
@@ -24429,7 +24430,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,AlexDBlack27,100
 2021_04_HOU_BUF,altspreadpsycho,90
 2021_04_HOU_BUF,alvespina,100
-2021_04_HOU_BUF,alxfail,58
 2021_04_HOU_BUF,amzamudio77,84
 2021_04_HOU_BUF,AnalyticsLeo,100
 2021_04_HOU_BUF,andreacasiragh1,81
@@ -24800,6 +24800,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,zweinberg18,97
 2021_04_DET_CHI,,69
 2021_04_DET_CHI,__DavidOfficial,40
+2021_04_DET_CHI,_alendowsky,51
 2021_04_DET_CHI,_DH44_,49
 2021_04_DET_CHI,_jclemons,54
 2021_04_DET_CHI,_johnO2,100
@@ -24821,7 +24822,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,AlexDBlack27,68
 2021_04_DET_CHI,altspreadpsycho,35
 2021_04_DET_CHI,alvespina,48
-2021_04_DET_CHI,alxfail,51
 2021_04_DET_CHI,amzamudio77,50
 2021_04_DET_CHI,AnalyticsLeo,30
 2021_04_DET_CHI,andreacasiragh1,48
@@ -25192,6 +25192,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,zweinberg18,55
 2021_04_CAR_DAL,,37
 2021_04_CAR_DAL,__DavidOfficial,100
+2021_04_CAR_DAL,_alendowsky,51
 2021_04_CAR_DAL,_DH44_,66
 2021_04_CAR_DAL,_jclemons,67
 2021_04_CAR_DAL,_johnO2,100
@@ -25213,7 +25214,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,AlexDBlack27,45
 2021_04_CAR_DAL,altspreadpsycho,55
 2021_04_CAR_DAL,alvespina,55
-2021_04_CAR_DAL,alxfail,51
 2021_04_CAR_DAL,amzamudio77,50
 2021_04_CAR_DAL,AnalyticsLeo,70
 2021_04_CAR_DAL,andreacasiragh1,58
@@ -25584,6 +25584,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,zweinberg18,60
 2021_04_IND_MIA,,35
 2021_04_IND_MIA,__DavidOfficial,55
+2021_04_IND_MIA,_alendowsky,49
 2021_04_IND_MIA,_DH44_,100
 2021_04_IND_MIA,_jclemons,48
 2021_04_IND_MIA,_johnO2,100
@@ -25605,7 +25606,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,AlexDBlack27,47
 2021_04_IND_MIA,altspreadpsycho,65
 2021_04_IND_MIA,alvespina,48
-2021_04_IND_MIA,alxfail,49
 2021_04_IND_MIA,amzamudio77,50
 2021_04_IND_MIA,AnalyticsLeo,55
 2021_04_IND_MIA,andreacasiragh1,57
@@ -25976,6 +25976,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,zweinberg18,40
 2021_04_CLE_MIN,,63
 2021_04_CLE_MIN,__DavidOfficial,59
+2021_04_CLE_MIN,_alendowsky,51
 2021_04_CLE_MIN,_DH44_,49
 2021_04_CLE_MIN,_jclemons,44
 2021_04_CLE_MIN,_johnO2,0
@@ -25997,7 +25998,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,AlexDBlack27,59
 2021_04_CLE_MIN,altspreadpsycho,45
 2021_04_CLE_MIN,alvespina,48
-2021_04_CLE_MIN,alxfail,51
 2021_04_CLE_MIN,amzamudio77,50
 2021_04_CLE_MIN,AnalyticsLeo,55
 2021_04_CLE_MIN,andreacasiragh1,45
@@ -26368,6 +26368,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,zweinberg18,40
 2021_04_NYG_NO,,61
 2021_04_NYG_NO,__DavidOfficial,100
+2021_04_NYG_NO,_alendowsky,60
 2021_04_NYG_NO,_DH44_,100
 2021_04_NYG_NO,_jclemons,63
 2021_04_NYG_NO,_johnO2,100
@@ -26389,7 +26390,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,AlexDBlack27,69
 2021_04_NYG_NO,altspreadpsycho,85
 2021_04_NYG_NO,alvespina,90
-2021_04_NYG_NO,alxfail,60
 2021_04_NYG_NO,amzamudio77,50
 2021_04_NYG_NO,AnalyticsLeo,60
 2021_04_NYG_NO,andreacasiragh1,68
@@ -26760,6 +26760,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,zweinberg18,55
 2021_04_TEN_NYJ,,21
 2021_04_TEN_NYJ,__DavidOfficial,20
+2021_04_TEN_NYJ,_alendowsky,47
 2021_04_TEN_NYJ,_DH44_,47
 2021_04_TEN_NYJ,_jclemons,33
 2021_04_TEN_NYJ,_johnO2,0
@@ -26781,7 +26782,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,AlexDBlack27,49
 2021_04_TEN_NYJ,altspreadpsycho,51
 2021_04_TEN_NYJ,alvespina,25
-2021_04_TEN_NYJ,alxfail,47
 2021_04_TEN_NYJ,amzamudio77,50
 2021_04_TEN_NYJ,AnalyticsLeo,0
 2021_04_TEN_NYJ,andreacasiragh1,23
@@ -27152,6 +27152,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,zweinberg18,25
 2021_04_KC_PHI,,29
 2021_04_KC_PHI,__DavidOfficial,0
+2021_04_KC_PHI,_alendowsky,49
 2021_04_KC_PHI,_DH44_,0
 2021_04_KC_PHI,_jclemons,37
 2021_04_KC_PHI,_johnO2,0
@@ -27173,7 +27174,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,AlexDBlack27,39
 2021_04_KC_PHI,altspreadpsycho,10
 2021_04_KC_PHI,alvespina,26
-2021_04_KC_PHI,alxfail,49
 2021_04_KC_PHI,amzamudio77,50
 2021_04_KC_PHI,AnalyticsLeo,30
 2021_04_KC_PHI,andreacasiragh1,25
@@ -27544,6 +27544,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,zweinberg18,16
 2021_04_ARI_LA,,65
 2021_04_ARI_LA,__DavidOfficial,70
+2021_04_ARI_LA,_alendowsky,52
 2021_04_ARI_LA,_DH44_,51
 2021_04_ARI_LA,_jclemons,57
 2021_04_ARI_LA,_johnO2,100
@@ -27565,7 +27566,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,AlexDBlack27,63
 2021_04_ARI_LA,altspreadpsycho,59
 2021_04_ARI_LA,alvespina,56
-2021_04_ARI_LA,alxfail,52
 2021_04_ARI_LA,amzamudio77,50
 2021_04_ARI_LA,AnalyticsLeo,65
 2021_04_ARI_LA,andreacasiragh1,52
@@ -27940,6 +27940,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,zweinberg18,58
 2021_04_SEA_SF,,35
 2021_04_SEA_SF,__DavidOfficial,65
+2021_04_SEA_SF,_alendowsky,51
 2021_04_SEA_SF,_DH44_,48
 2021_04_SEA_SF,_jclemons,44
 2021_04_SEA_SF,_johnO2,0
@@ -27961,7 +27962,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,AlexDBlack27,46
 2021_04_SEA_SF,altspreadpsycho,55
 2021_04_SEA_SF,alvespina,47
-2021_04_SEA_SF,alxfail,51
 2021_04_SEA_SF,amzamudio77,50
 2021_04_SEA_SF,AnalyticsLeo,45
 2021_04_SEA_SF,andreacasiragh1,53
@@ -28336,6 +28336,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,zweinberg18,45
 2021_04_BAL_DEN,,31
 2021_04_BAL_DEN,__DavidOfficial,40
+2021_04_BAL_DEN,_alendowsky,51
 2021_04_BAL_DEN,_DH44_,45
 2021_04_BAL_DEN,_jclemons,42
 2021_04_BAL_DEN,_johnO2,0
@@ -28357,7 +28358,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,AlexDBlack27,53
 2021_04_BAL_DEN,altspreadpsycho,59
 2021_04_BAL_DEN,alvespina,56
-2021_04_BAL_DEN,alxfail,51
 2021_04_BAL_DEN,amzamudio77,50
 2021_04_BAL_DEN,AnalyticsLeo,30
 2021_04_BAL_DEN,andreacasiragh1,55
@@ -28734,6 +28734,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,zweinberg18,45
 2021_04_PIT_GB,,62
 2021_04_PIT_GB,__DavidOfficial,100
+2021_04_PIT_GB,_alendowsky,52
 2021_04_PIT_GB,_DH44_,100
 2021_04_PIT_GB,_jclemons,72
 2021_04_PIT_GB,_johnO2,100
@@ -28755,7 +28756,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,AlexDBlack27,55
 2021_04_PIT_GB,altspreadpsycho,60
 2021_04_PIT_GB,alvespina,80
-2021_04_PIT_GB,alxfail,52
 2021_04_PIT_GB,amzamudio77,50
 2021_04_PIT_GB,AnalyticsLeo,75
 2021_04_PIT_GB,andreacasiragh1,64
@@ -29132,6 +29132,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,zweinberg18,62
 2021_04_TB_NE,,29
 2021_04_TB_NE,__DavidOfficial,26
+2021_04_TB_NE,_alendowsky,0
 2021_04_TB_NE,_DH44_,51
 2021_04_TB_NE,_jclemons,31
 2021_04_TB_NE,_johnO2,0
@@ -29153,7 +29154,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,AlexDBlack27,38
 2021_04_TB_NE,altspreadpsycho,15
 2021_04_TB_NE,alvespina,36
-2021_04_TB_NE,alxfail,0
 2021_04_TB_NE,amzamudio77,50
 2021_04_TB_NE,AnalyticsLeo,10
 2021_04_TB_NE,andreacasiragh1,22
@@ -29532,6 +29532,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,zweinberg18,35
 2021_04_LV_LAC,,67
 2021_04_LV_LAC,__DavidOfficial,60
+2021_04_LV_LAC,_alendowsky,51
 2021_04_LV_LAC,_DH44_,60
 2021_04_LV_LAC,_jclemons,49
 2021_04_LV_LAC,_johnO2,100
@@ -29553,7 +29554,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,AlexDBlack27,56
 2021_04_LV_LAC,altspreadpsycho,89
 2021_04_LV_LAC,alvespina,52
-2021_04_LV_LAC,alxfail,51
 2021_04_LV_LAC,amzamudio77,50
 2021_04_LV_LAC,AnalyticsLeo,45
 2021_04_LV_LAC,andreacasiragh1,60
@@ -29949,6 +29949,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,zweinberg18,55
 2021_05_LA_SEA,,59
 2021_05_LA_SEA,__DavidOfficial,40
+2021_05_LA_SEA,_alendowsky,48
 2021_05_LA_SEA,_DH44_,52
 2021_05_LA_SEA,_jclemons,43
 2021_05_LA_SEA,_johnO2,50
@@ -29968,7 +29969,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,AlexDBlack27,60
 2021_05_LA_SEA,altspreadpsycho,10
 2021_05_LA_SEA,alvespina,54
-2021_05_LA_SEA,alxfail,48
 2021_05_LA_SEA,amzamudio77,45
 2021_05_LA_SEA,AnalyticsLeo,44
 2021_05_LA_SEA,andreacasiragh1,42
@@ -30306,6 +30306,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,zweinberg18,46
 2021_05_NYJ_ATL,,56
 2021_05_NYJ_ATL,__DavidOfficial,65
+2021_05_NYJ_ATL,_alendowsky,50
 2021_05_NYJ_ATL,_DH44_,48
 2021_05_NYJ_ATL,_jclemons,48
 2021_05_NYJ_ATL,_johnO2,51
@@ -30325,7 +30326,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,AlexDBlack27,57
 2021_05_NYJ_ATL,altspreadpsycho,55
 2021_05_NYJ_ATL,alvespina,47
-2021_05_NYJ_ATL,alxfail,50
 2021_05_NYJ_ATL,amzamudio77,50
 2021_05_NYJ_ATL,AnalyticsLeo,55
 2021_05_NYJ_ATL,andreacasiragh1,48
@@ -30677,6 +30677,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,zweinberg18,40
 2021_05_PHI_CAR,,56
 2021_05_PHI_CAR,__DavidOfficial,70
+2021_05_PHI_CAR,_alendowsky,53
 2021_05_PHI_CAR,_DH44_,100
 2021_05_PHI_CAR,_jclemons,61
 2021_05_PHI_CAR,_johnO2,48
@@ -30696,7 +30697,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,AlexDBlack27,58
 2021_05_PHI_CAR,altspreadpsycho,59
 2021_05_PHI_CAR,alvespina,91
-2021_05_PHI_CAR,alxfail,53
 2021_05_PHI_CAR,amzamudio77,50
 2021_05_PHI_CAR,AnalyticsLeo,45
 2021_05_PHI_CAR,andreacasiragh1,64
@@ -31055,6 +31055,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,zweinberg18,64
 2021_05_GB_CIN,,25
 2021_05_GB_CIN,__DavidOfficial,44
+2021_05_GB_CIN,_alendowsky,48
 2021_05_GB_CIN,_DH44_,47
 2021_05_GB_CIN,_jclemons,35
 2021_05_GB_CIN,_johnO2,100
@@ -31074,7 +31075,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,AlexDBlack27,47
 2021_05_GB_CIN,altspreadpsycho,49
 2021_05_GB_CIN,alvespina,37
-2021_05_GB_CIN,alxfail,48
 2021_05_GB_CIN,amzamudio77,50
 2021_05_GB_CIN,AnalyticsLeo,35
 2021_05_GB_CIN,andreacasiragh1,36
@@ -31433,6 +31433,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,zweinberg18,39
 2021_05_NE_HOU,,37
 2021_05_NE_HOU,__DavidOfficial,0
+2021_05_NE_HOU,_alendowsky,47
 2021_05_NE_HOU,_DH44_,51
 2021_05_NE_HOU,_jclemons,30
 2021_05_NE_HOU,_johnO2,0
@@ -31452,7 +31453,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,AlexDBlack27,0
 2021_05_NE_HOU,altspreadpsycho,10
 2021_05_NE_HOU,alvespina,30
-2021_05_NE_HOU,alxfail,47
 2021_05_NE_HOU,amzamudio77,50
 2021_05_NE_HOU,AnalyticsLeo,40
 2021_05_NE_HOU,andreacasiragh1,26
@@ -31811,6 +31811,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,zweinberg18,31
 2021_05_TEN_JAX,,36
 2021_05_TEN_JAX,__DavidOfficial,25
+2021_05_TEN_JAX,_alendowsky,47
 2021_05_TEN_JAX,_DH44_,49
 2021_05_TEN_JAX,_jclemons,38
 2021_05_TEN_JAX,_johnO2,0
@@ -31830,7 +31831,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,AlexDBlack27,0
 2021_05_TEN_JAX,altspreadpsycho,49
 2021_05_TEN_JAX,alvespina,87
-2021_05_TEN_JAX,alxfail,47
 2021_05_TEN_JAX,amzamudio77,50
 2021_05_TEN_JAX,AnalyticsLeo,40
 2021_05_TEN_JAX,andreacasiragh1,35
@@ -32189,6 +32189,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,zweinberg18,38
 2021_05_DET_MIN,,65
 2021_05_DET_MIN,__DavidOfficial,76
+2021_05_DET_MIN,_alendowsky,53
 2021_05_DET_MIN,_DH44_,49
 2021_05_DET_MIN,_jclemons,64
 2021_05_DET_MIN,_johnO2,100
@@ -32208,7 +32209,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,AlexDBlack27,67
 2021_05_DET_MIN,altspreadpsycho,90
 2021_05_DET_MIN,alvespina,75
-2021_05_DET_MIN,alxfail,53
 2021_05_DET_MIN,amzamudio77,50
 2021_05_DET_MIN,AnalyticsLeo,60
 2021_05_DET_MIN,andreacasiragh1,84
@@ -32566,6 +32566,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,zweinberg18,59
 2021_05_DEN_PIT,,62
 2021_05_DEN_PIT,__DavidOfficial,40
+2021_05_DEN_PIT,_alendowsky,49
 2021_05_DEN_PIT,_DH44_,52
 2021_05_DEN_PIT,_jclemons,47
 2021_05_DEN_PIT,_johnO2,100
@@ -32585,7 +32586,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,AlexDBlack27,55
 2021_05_DEN_PIT,altspreadpsycho,51
 2021_05_DEN_PIT,alvespina,47
-2021_05_DEN_PIT,alxfail,49
 2021_05_DEN_PIT,amzamudio77,50
 2021_05_DEN_PIT,AnalyticsLeo,35
 2021_05_DEN_PIT,andreacasiragh1,50
@@ -32944,6 +32944,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,zweinberg18,46
 2021_05_MIA_TB,,77
 2021_05_MIA_TB,__DavidOfficial,90
+2021_05_MIA_TB,_alendowsky,57
 2021_05_MIA_TB,_DH44_,52
 2021_05_MIA_TB,_jclemons,85
 2021_05_MIA_TB,_johnO2,100
@@ -32963,7 +32964,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,AlexDBlack27,100
 2021_05_MIA_TB,altspreadpsycho,90
 2021_05_MIA_TB,alvespina,83
-2021_05_MIA_TB,alxfail,57
 2021_05_MIA_TB,amzamudio77,50
 2021_05_MIA_TB,AnalyticsLeo,70
 2021_05_MIA_TB,andreacasiragh1,84
@@ -33321,6 +33321,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,zweinberg18,82
 2021_05_NO_WAS,,36
 2021_05_NO_WAS,__DavidOfficial,40
+2021_05_NO_WAS,_alendowsky,47
 2021_05_NO_WAS,_DH44_,51
 2021_05_NO_WAS,_jclemons,43
 2021_05_NO_WAS,_johnO2,100
@@ -33340,7 +33341,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,AlexDBlack27,60
 2021_05_NO_WAS,altspreadpsycho,31
 2021_05_NO_WAS,alvespina,46
-2021_05_NO_WAS,alxfail,47
 2021_05_NO_WAS,amzamudio77,50
 2021_05_NO_WAS,AnalyticsLeo,40
 2021_05_NO_WAS,andreacasiragh1,54
@@ -33699,6 +33699,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,zweinberg18,56
 2021_05_CLE_LAC,,53
 2021_05_CLE_LAC,__DavidOfficial,75
+2021_05_CLE_LAC,_alendowsky,51
 2021_05_CLE_LAC,_DH44_,60
 2021_05_CLE_LAC,_jclemons,47
 2021_05_CLE_LAC,_johnO2,100
@@ -33718,7 +33719,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,AlexDBlack27,37
 2021_05_CLE_LAC,altspreadpsycho,51
 2021_05_CLE_LAC,alvespina,61
-2021_05_CLE_LAC,alxfail,51
 2021_05_CLE_LAC,amzamudio77,50
 2021_05_CLE_LAC,AnalyticsLeo,65
 2021_05_CLE_LAC,andreacasiragh1,56
@@ -34081,6 +34081,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,zweinberg18,55
 2021_05_CHI_LV,,41
 2021_05_CHI_LV,__DavidOfficial,60
+2021_05_CHI_LV,_alendowsky,51
 2021_05_CHI_LV,_DH44_,49
 2021_05_CHI_LV,_jclemons,47
 2021_05_CHI_LV,_johnO2,0
@@ -34100,7 +34101,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,AlexDBlack27,55
 2021_05_CHI_LV,altspreadpsycho,88
 2021_05_CHI_LV,alvespina,71
-2021_05_CHI_LV,alxfail,51
 2021_05_CHI_LV,amzamudio77,50
 2021_05_CHI_LV,AnalyticsLeo,70
 2021_05_CHI_LV,andreacasiragh1,50
@@ -34463,6 +34463,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,zweinberg18,62
 2021_05_SF_ARI,,37
 2021_05_SF_ARI,__DavidOfficial,65
+2021_05_SF_ARI,_alendowsky,53
 2021_05_SF_ARI,_DH44_,54
 2021_05_SF_ARI,_jclemons,64
 2021_05_SF_ARI,_johnO2,0
@@ -34482,7 +34483,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,AlexDBlack27,54
 2021_05_SF_ARI,altspreadpsycho,50
 2021_05_SF_ARI,alvespina,68
-2021_05_SF_ARI,alxfail,53
 2021_05_SF_ARI,amzamudio77,50
 2021_05_SF_ARI,AnalyticsLeo,60
 2021_05_SF_ARI,andreacasiragh1,68
@@ -34845,6 +34845,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,zweinberg18,66
 2021_05_NYG_DAL,,65
 2021_05_NYG_DAL,__DavidOfficial,100
+2021_05_NYG_DAL,_alendowsky,54
 2021_05_NYG_DAL,_DH44_,100
 2021_05_NYG_DAL,_jclemons,75
 2021_05_NYG_DAL,_johnO2,100
@@ -34864,7 +34865,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,AlexDBlack27,62
 2021_05_NYG_DAL,altspreadpsycho,50
 2021_05_NYG_DAL,alvespina,79
-2021_05_NYG_DAL,alxfail,54
 2021_05_NYG_DAL,amzamudio77,50
 2021_05_NYG_DAL,AnalyticsLeo,60
 2021_05_NYG_DAL,andreacasiragh1,82
@@ -35227,6 +35227,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,zweinberg18,66
 2021_05_BUF_KC,,66
 2021_05_BUF_KC,__DavidOfficial,62
+2021_05_BUF_KC,_alendowsky,49
 2021_05_BUF_KC,_DH44_,57
 2021_05_BUF_KC,_jclemons,33
 2021_05_BUF_KC,_johnO2,0
@@ -35246,7 +35247,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,AlexDBlack27,60
 2021_05_BUF_KC,altspreadpsycho,90
 2021_05_BUF_KC,alvespina,64
-2021_05_BUF_KC,alxfail,49
 2021_05_BUF_KC,amzamudio77,50
 2021_05_BUF_KC,AnalyticsLeo,40
 2021_05_BUF_KC,andreacasiragh1,50
@@ -35612,6 +35612,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,zweinberg18,58
 2021_05_IND_BAL,,67
 2021_05_IND_BAL,__DavidOfficial,77
+2021_05_IND_BAL,_alendowsky,54
 2021_05_IND_BAL,_DH44_,100
 2021_05_IND_BAL,_jclemons,60
 2021_05_IND_BAL,_johnO2,100
@@ -35631,7 +35632,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,AlexDBlack27,61
 2021_05_IND_BAL,altspreadpsycho,90
 2021_05_IND_BAL,alvespina,71
-2021_05_IND_BAL,alxfail,54
 2021_05_IND_BAL,amzamudio77,50
 2021_05_IND_BAL,AnalyticsLeo,80
 2021_05_IND_BAL,andreacasiragh1,63
@@ -36004,6 +36004,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,zweinberg18,81
 2021_06_TB_PHI,,50
 2021_06_TB_PHI,__DavidOfficial,22
+2021_06_TB_PHI,_alendowsky,45
 2021_06_TB_PHI,_DH44_,50
 2021_06_TB_PHI,_jclemons,25
 2021_06_TB_PHI,_LiamHorsley,20
@@ -36022,7 +36023,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,AlexDBlack27,56
 2021_06_TB_PHI,altspreadpsycho,35
 2021_06_TB_PHI,alvespina,0
-2021_06_TB_PHI,alxfail,45
 2021_06_TB_PHI,amzamudio77,40
 2021_06_TB_PHI,AnalyticsLeo,40
 2021_06_TB_PHI,andreacasiragh1,27
@@ -36331,6 +36331,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,zweinberg18,25
 2021_06_MIA_JAX,,33
 2021_06_MIA_JAX,__DavidOfficial,40
+2021_06_MIA_JAX,_alendowsky,51
 2021_06_MIA_JAX,_DH44_,50
 2021_06_MIA_JAX,_jclemons,33
 2021_06_MIA_JAX,_johnO2,100
@@ -36351,7 +36352,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,AlexDBlack27,57
 2021_06_MIA_JAX,altspreadpsycho,41
 2021_06_MIA_JAX,alvespina,30
-2021_06_MIA_JAX,alxfail,51
 2021_06_MIA_JAX,amzamudio77,50
 2021_06_MIA_JAX,AnalyticsLeo,45
 2021_06_MIA_JAX,andreacasiragh1,46
@@ -36674,6 +36674,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,zweinberg18,53
 2021_06_LAC_BAL,,38
 2021_06_LAC_BAL,__DavidOfficial,40
+2021_06_LAC_BAL,_alendowsky,49
 2021_06_LAC_BAL,_DH44_,50
 2021_06_LAC_BAL,_jclemons,49
 2021_06_LAC_BAL,_johnO2,0
@@ -36694,7 +36695,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,AlexDBlack27,60
 2021_06_LAC_BAL,altspreadpsycho,10
 2021_06_LAC_BAL,alvespina,46
-2021_06_LAC_BAL,alxfail,49
 2021_06_LAC_BAL,amzamudio77,42
 2021_06_LAC_BAL,AnalyticsLeo,55
 2021_06_LAC_BAL,andreacasiragh1,48
@@ -37020,6 +37020,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,zweinberg18,52
 2021_06_MIN_CAR,,67
 2021_06_MIN_CAR,__DavidOfficial,40
+2021_06_MIN_CAR,_alendowsky,49
 2021_06_MIN_CAR,_DH44_,50
 2021_06_MIN_CAR,_jclemons,55
 2021_06_MIN_CAR,_johnO2,0
@@ -37040,7 +37041,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,AlexDBlack27,45
 2021_06_MIN_CAR,altspreadpsycho,45
 2021_06_MIN_CAR,alvespina,45
-2021_06_MIN_CAR,alxfail,49
 2021_06_MIN_CAR,amzamudio77,53
 2021_06_MIN_CAR,AnalyticsLeo,45
 2021_06_MIN_CAR,andreacasiragh1,46
@@ -37367,6 +37367,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,zweinberg18,41
 2021_06_GB_CHI,,38
 2021_06_GB_CHI,__DavidOfficial,30
+2021_06_GB_CHI,_alendowsky,46
 2021_06_GB_CHI,_DH44_,50
 2021_06_GB_CHI,_jclemons,39
 2021_06_GB_CHI,_johnO2,0
@@ -37387,7 +37388,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,AlexDBlack27,54
 2021_06_GB_CHI,altspreadpsycho,10
 2021_06_GB_CHI,alvespina,30
-2021_06_GB_CHI,alxfail,46
 2021_06_GB_CHI,amzamudio77,26
 2021_06_GB_CHI,AnalyticsLeo,35
 2021_06_GB_CHI,andreacasiragh1,25
@@ -37713,6 +37713,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,zweinberg18,33
 2021_06_CIN_DET,,38
 2021_06_CIN_DET,__DavidOfficial,40
+2021_06_CIN_DET,_alendowsky,49
 2021_06_CIN_DET,_DH44_,50
 2021_06_CIN_DET,_jclemons,39
 2021_06_CIN_DET,_johnO2,0
@@ -37733,7 +37734,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,AlexDBlack27,57
 2021_06_CIN_DET,altspreadpsycho,49
 2021_06_CIN_DET,alvespina,30
-2021_06_CIN_DET,alxfail,49
 2021_06_CIN_DET,amzamudio77,26
 2021_06_CIN_DET,AnalyticsLeo,40
 2021_06_CIN_DET,andreacasiragh1,36
@@ -38059,6 +38059,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,zweinberg18,41
 2021_06_HOU_IND,,63
 2021_06_HOU_IND,__DavidOfficial,35
+2021_06_HOU_IND,_alendowsky,53
 2021_06_HOU_IND,_DH44_,50
 2021_06_HOU_IND,_jclemons,65
 2021_06_HOU_IND,_johnO2,100
@@ -38079,7 +38080,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,AlexDBlack27,100
 2021_06_HOU_IND,altspreadpsycho,85
 2021_06_HOU_IND,alvespina,74
-2021_06_HOU_IND,alxfail,53
 2021_06_HOU_IND,amzamudio77,61
 2021_06_HOU_IND,AnalyticsLeo,55
 2021_06_HOU_IND,andreacasiragh1,65
@@ -38405,6 +38405,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,zweinberg18,82
 2021_06_LA_NYG,,36
 2021_06_LA_NYG,__DavidOfficial,20
+2021_06_LA_NYG,_alendowsky,43
 2021_06_LA_NYG,_DH44_,50
 2021_06_LA_NYG,_jclemons,30
 2021_06_LA_NYG,_johnO2,0
@@ -38425,7 +38426,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,AlexDBlack27,25
 2021_06_LA_NYG,altspreadpsycho,45
 2021_06_LA_NYG,alvespina,16
-2021_06_LA_NYG,alxfail,43
 2021_06_LA_NYG,amzamudio77,1
 2021_06_LA_NYG,AnalyticsLeo,30
 2021_06_LA_NYG,andreacasiragh1,78
@@ -38751,6 +38751,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,zweinberg18,23
 2021_06_KC_WAS,,40
 2021_06_KC_WAS,__DavidOfficial,35
+2021_06_KC_WAS,_alendowsky,47
 2021_06_KC_WAS,_DH44_,50
 2021_06_KC_WAS,_jclemons,41
 2021_06_KC_WAS,_johnO2,0
@@ -38771,7 +38772,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,AlexDBlack27,40
 2021_06_KC_WAS,altspreadpsycho,15
 2021_06_KC_WAS,alvespina,25
-2021_06_KC_WAS,alxfail,47
 2021_06_KC_WAS,amzamudio77,24
 2021_06_KC_WAS,AnalyticsLeo,30
 2021_06_KC_WAS,andreacasiragh1,25
@@ -39097,6 +39097,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,zweinberg18,27
 2021_06_ARI_CLE,,33
 2021_06_ARI_CLE,__DavidOfficial,60
+2021_06_ARI_CLE,_alendowsky,49
 2021_06_ARI_CLE,_DH44_,50
 2021_06_ARI_CLE,_jclemons,44
 2021_06_ARI_CLE,_johnO2,0
@@ -39117,7 +39118,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,AlexDBlack27,100
 2021_06_ARI_CLE,altspreadpsycho,90
 2021_06_ARI_CLE,alvespina,52
-2021_06_ARI_CLE,alxfail,49
 2021_06_ARI_CLE,amzamudio77,57
 2021_06_ARI_CLE,AnalyticsLeo,45
 2021_06_ARI_CLE,andreacasiragh1,53
@@ -39444,6 +39444,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,zweinberg18,44
 2021_06_LV_DEN,,63
 2021_06_LV_DEN,__DavidOfficial,65
+2021_06_LV_DEN,_alendowsky,51
 2021_06_LV_DEN,_DH44_,50
 2021_06_LV_DEN,_jclemons,58
 2021_06_LV_DEN,_johnO2,0
@@ -39464,7 +39465,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,AlexDBlack27,45
 2021_06_LV_DEN,altspreadpsycho,59
 2021_06_LV_DEN,alvespina,72
-2021_06_LV_DEN,alxfail,51
 2021_06_LV_DEN,amzamudio77,52
 2021_06_LV_DEN,AnalyticsLeo,55
 2021_06_LV_DEN,andreacasiragh1,56
@@ -39792,6 +39792,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,zweinberg18,60
 2021_06_DAL_NE,,32
 2021_06_DAL_NE,__DavidOfficial,15
+2021_06_DAL_NE,_alendowsky,47
 2021_06_DAL_NE,_DH44_,50
 2021_06_DAL_NE,_jclemons,42
 2021_06_DAL_NE,_johnO2,0
@@ -39812,7 +39813,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,AlexDBlack27,55
 2021_06_DAL_NE,altspreadpsycho,45
 2021_06_DAL_NE,alvespina,29
-2021_06_DAL_NE,alxfail,47
 2021_06_DAL_NE,amzamudio77,24
 2021_06_DAL_NE,AnalyticsLeo,25
 2021_06_DAL_NE,andreacasiragh1,22
@@ -40140,6 +40140,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,zweinberg18,42
 2021_06_SEA_PIT,,39
 2021_06_SEA_PIT,__DavidOfficial,60
+2021_06_SEA_PIT,_alendowsky,51
 2021_06_SEA_PIT,_DH44_,50
 2021_06_SEA_PIT,_jclemons,49
 2021_06_SEA_PIT,_johnO2,100
@@ -40160,7 +40161,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,AlexDBlack27,100
 2021_06_SEA_PIT,altspreadpsycho,55
 2021_06_SEA_PIT,alvespina,77
-2021_06_SEA_PIT,alxfail,51
 2021_06_SEA_PIT,amzamudio77,59
 2021_06_SEA_PIT,AnalyticsLeo,60
 2021_06_SEA_PIT,andreacasiragh1,65
@@ -40490,6 +40490,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,zweinberg18,47
 2021_06_BUF_TEN,,34
 2021_06_BUF_TEN,__DavidOfficial,20
+2021_06_BUF_TEN,_alendowsky,40
 2021_06_BUF_TEN,_DH44_,50
 2021_06_BUF_TEN,_jclemons,27
 2021_06_BUF_TEN,_johnO2,0
@@ -40510,7 +40511,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,AlexDBlack27,57
 2021_06_BUF_TEN,altspreadpsycho,45
 2021_06_BUF_TEN,alvespina,20
-2021_06_BUF_TEN,alxfail,40
 2021_06_BUF_TEN,amzamudio77,0
 2021_06_BUF_TEN,AnalyticsLeo,20
 2021_06_BUF_TEN,andreacasiragh1,28
@@ -40840,6 +40840,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,YayySports,25
 2021_06_BUF_TEN,zweinberg18,25
 2021_07_DEN_CLE,__DavidOfficial,40
+2021_07_DEN_CLE,_alendowsky,51
 2021_07_DEN_CLE,_DH44_,46
 2021_07_DEN_CLE,_jclemons,53
 2021_07_DEN_CLE,_johnO2,100
@@ -40857,7 +40858,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,AlexDBlack27,45
 2021_07_DEN_CLE,altspreadpsycho,90
 2021_07_DEN_CLE,alvespina,33
-2021_07_DEN_CLE,alxfail,51
 2021_07_DEN_CLE,amzamudio77,56
 2021_07_DEN_CLE,AnalyticsLeo,58
 2021_07_DEN_CLE,andreacasiragh1,45
@@ -41129,6 +41129,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,YayySports,66
 2021_07_DEN_CLE,zweinberg18,47
 2021_07_CIN_BAL,__DavidOfficial,65
+2021_07_CIN_BAL,_alendowsky,53
 2021_07_CIN_BAL,_DH44_,57
 2021_07_CIN_BAL,_jclemons,62
 2021_07_CIN_BAL,_johnO2,100
@@ -41149,7 +41150,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,AlexDBlack27,60
 2021_07_CIN_BAL,altspreadpsycho,50
 2021_07_CIN_BAL,alvespina,73
-2021_07_CIN_BAL,alxfail,53
 2021_07_CIN_BAL,amzamudio77,50
 2021_07_CIN_BAL,AnalyticsLeo,75
 2021_07_CIN_BAL,andreacasiragh1,56
@@ -41459,6 +41459,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,zackry_mc,50
 2021_07_CIN_BAL,zweinberg18,75
 2021_07_WAS_GB,__DavidOfficial,100
+2021_07_WAS_GB,_alendowsky,100
 2021_07_WAS_GB,_DH44_,52
 2021_07_WAS_GB,_jclemons,69
 2021_07_WAS_GB,_johnO2,100
@@ -41479,7 +41480,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,AlexDBlack27,63
 2021_07_WAS_GB,altspreadpsycho,50
 2021_07_WAS_GB,alvespina,78
-2021_07_WAS_GB,alxfail,100
 2021_07_WAS_GB,amzamudio77,50
 2021_07_WAS_GB,AnalyticsLeo,80
 2021_07_WAS_GB,andreacasiragh1,81
@@ -41789,6 +41789,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,zackry_mc,100
 2021_07_WAS_GB,zweinberg18,63
 2021_07_ATL_MIA,__DavidOfficial,56
+2021_07_ATL_MIA,_alendowsky,47
 2021_07_ATL_MIA,_DH44_,55
 2021_07_ATL_MIA,_jclemons,51
 2021_07_ATL_MIA,_johnO2,0
@@ -41809,7 +41810,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,AlexDBlack27,60
 2021_07_ATL_MIA,altspreadpsycho,50
 2021_07_ATL_MIA,alvespina,41
-2021_07_ATL_MIA,alxfail,47
 2021_07_ATL_MIA,amzamudio77,50
 2021_07_ATL_MIA,AnalyticsLeo,40
 2021_07_ATL_MIA,andreacasiragh1,45
@@ -42119,6 +42119,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,zackry_mc,50
 2021_07_ATL_MIA,zweinberg18,52
 2021_07_NYJ_NE,__DavidOfficial,81
+2021_07_NYJ_NE,_alendowsky,52
 2021_07_NYJ_NE,_DH44_,54
 2021_07_NYJ_NE,_jclemons,64
 2021_07_NYJ_NE,_johnO2,100
@@ -42139,7 +42140,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,AlexDBlack27,70
 2021_07_NYJ_NE,altspreadpsycho,50
 2021_07_NYJ_NE,alvespina,6
-2021_07_NYJ_NE,alxfail,52
 2021_07_NYJ_NE,amzamudio77,50
 2021_07_NYJ_NE,AnalyticsLeo,60
 2021_07_NYJ_NE,andreacasiragh1,76
@@ -42449,6 +42449,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,zackry_mc,100
 2021_07_NYJ_NE,zweinberg18,59
 2021_07_CAR_NYG,__DavidOfficial,39
+2021_07_CAR_NYG,_alendowsky,45
 2021_07_CAR_NYG,_DH44_,53
 2021_07_CAR_NYG,_jclemons,38
 2021_07_CAR_NYG,_johnO2,0
@@ -42469,7 +42470,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,AlexDBlack27,40
 2021_07_CAR_NYG,altspreadpsycho,50
 2021_07_CAR_NYG,alvespina,39
-2021_07_CAR_NYG,alxfail,45
 2021_07_CAR_NYG,amzamudio77,50
 2021_07_CAR_NYG,AnalyticsLeo,42
 2021_07_CAR_NYG,andreacasiragh1,42
@@ -42779,6 +42779,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,zackry_mc,50
 2021_07_CAR_NYG,zweinberg18,46
 2021_07_KC_TEN,__DavidOfficial,34
+2021_07_KC_TEN,_alendowsky,52
 2021_07_KC_TEN,_DH44_,37
 2021_07_KC_TEN,_jclemons,45
 2021_07_KC_TEN,_johnO2,0
@@ -42799,7 +42800,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,AlexDBlack27,35
 2021_07_KC_TEN,altspreadpsycho,50
 2021_07_KC_TEN,alvespina,31
-2021_07_KC_TEN,alxfail,52
 2021_07_KC_TEN,amzamudio77,50
 2021_07_KC_TEN,AnalyticsLeo,35
 2021_07_KC_TEN,andreacasiragh1,50
@@ -43109,6 +43109,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,zackry_mc,50
 2021_07_KC_TEN,zweinberg18,43
 2021_07_DET_LA,__DavidOfficial,85
+2021_07_DET_LA,_alendowsky,100
 2021_07_DET_LA,_DH44_,57
 2021_07_DET_LA,_jclemons,78
 2021_07_DET_LA,_johnO2,100
@@ -43129,7 +43130,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,AlexDBlack27,100
 2021_07_DET_LA,altspreadpsycho,50
 2021_07_DET_LA,alvespina,100
-2021_07_DET_LA,alxfail,100
 2021_07_DET_LA,amzamudio77,50
 2021_07_DET_LA,AnalyticsLeo,90
 2021_07_DET_LA,andreacasiragh1,100
@@ -43442,6 +43442,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,zackry_mc,100
 2021_07_DET_LA,zweinberg18,77
 2021_07_PHI_LV,__DavidOfficial,62
+2021_07_PHI_LV,_alendowsky,51
 2021_07_PHI_LV,_DH44_,48
 2021_07_PHI_LV,_jclemons,49
 2021_07_PHI_LV,_johnO2,0
@@ -43462,7 +43463,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,AlexDBlack27,38
 2021_07_PHI_LV,altspreadpsycho,50
 2021_07_PHI_LV,alvespina,52
-2021_07_PHI_LV,alxfail,51
 2021_07_PHI_LV,amzamudio77,50
 2021_07_PHI_LV,AnalyticsLeo,60
 2021_07_PHI_LV,andreacasiragh1,58
@@ -43775,6 +43775,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,zackry_mc,50
 2021_07_PHI_LV,zweinberg18,59
 2021_07_HOU_ARI,__DavidOfficial,100
+2021_07_HOU_ARI,_alendowsky,100
 2021_07_HOU_ARI,_DH44_,100
 2021_07_HOU_ARI,_jclemons,84
 2021_07_HOU_ARI,_johnO2,100
@@ -43795,7 +43796,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,AlexDBlack27,100
 2021_07_HOU_ARI,altspreadpsycho,50
 2021_07_HOU_ARI,alvespina,100
-2021_07_HOU_ARI,alxfail,100
 2021_07_HOU_ARI,amzamudio77,50
 2021_07_HOU_ARI,AnalyticsLeo,100
 2021_07_HOU_ARI,andreacasiragh1,100
@@ -44108,6 +44108,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,zackry_mc,100
 2021_07_HOU_ARI,zweinberg18,90
 2021_07_CHI_TB,__DavidOfficial,100
+2021_07_CHI_TB,_alendowsky,100
 2021_07_CHI_TB,_DH44_,100
 2021_07_CHI_TB,_jclemons,70
 2021_07_CHI_TB,_johnO2,100
@@ -44128,7 +44129,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,AlexDBlack27,87
 2021_07_CHI_TB,altspreadpsycho,50
 2021_07_CHI_TB,alvespina,73
-2021_07_CHI_TB,alxfail,100
 2021_07_CHI_TB,amzamudio77,50
 2021_07_CHI_TB,AnalyticsLeo,100
 2021_07_CHI_TB,andreacasiragh1,81
@@ -44441,6 +44441,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,zackry_mc,100
 2021_07_CHI_TB,zweinberg18,85
 2021_07_IND_SF,__DavidOfficial,60
+2021_07_IND_SF,_alendowsky,49
 2021_07_IND_SF,_DH44_,52
 2021_07_IND_SF,_jclemons,42
 2021_07_IND_SF,_johnO2,0
@@ -44461,7 +44462,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,AlexDBlack27,62
 2021_07_IND_SF,altspreadpsycho,50
 2021_07_IND_SF,alvespina,57
-2021_07_IND_SF,alxfail,49
 2021_07_IND_SF,amzamudio77,50
 2021_07_IND_SF,AnalyticsLeo,60
 2021_07_IND_SF,andreacasiragh1,47
@@ -44778,6 +44778,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,zackry_mc,50
 2021_07_IND_SF,zweinberg18,59
 2021_07_NO_SEA,__DavidOfficial,40
+2021_07_NO_SEA,_alendowsky,48
 2021_07_NO_SEA,_DH44_,38
 2021_07_NO_SEA,_jclemons,39
 2021_07_NO_SEA,_johnO2,100
@@ -44798,7 +44799,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,AlexDBlack27,45
 2021_07_NO_SEA,altspreadpsycho,50
 2021_07_NO_SEA,alvespina,29
-2021_07_NO_SEA,alxfail,48
 2021_07_NO_SEA,amzamudio77,50
 2021_07_NO_SEA,AnalyticsLeo,45
 2021_07_NO_SEA,andreacasiragh1,42
@@ -45118,6 +45118,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,zweinberg18,35
 2021_08_GB_ARI,,60
 2021_08_GB_ARI,__DavidOfficial,40
+2021_08_GB_ARI,_alendowsky,53
 2021_08_GB_ARI,_DH44_,39
 2021_08_GB_ARI,_jclemons,57
 2021_08_GB_ARI,_johnO2,100
@@ -45138,7 +45139,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,AlexDBlack27,100
 2021_08_GB_ARI,altspreadpsycho,86
 2021_08_GB_ARI,alvespina,67
-2021_08_GB_ARI,alxfail,53
 2021_08_GB_ARI,AnalyticsLeo,70
 2021_08_GB_ARI,andreacasiragh1,69
 2021_08_GB_ARI,andresnapol,45
@@ -45401,6 +45401,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,zweinberg18,50
 2021_08_CAR_ATL,,52
 2021_08_CAR_ATL,__DavidOfficial,69
+2021_08_CAR_ATL,_alendowsky,52
 2021_08_CAR_ATL,_DH44_,52
 2021_08_CAR_ATL,_jclemons,49
 2021_08_CAR_ATL,_johnO2,0
@@ -45421,7 +45422,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,AlexDBlack27,44
 2021_08_CAR_ATL,altspreadpsycho,50
 2021_08_CAR_ATL,alvespina,42
-2021_08_CAR_ATL,alxfail,52
 2021_08_CAR_ATL,AnalyticsLeo,60
 2021_08_CAR_ATL,andreacasiragh1,50
 2021_08_CAR_ATL,andresnapol,60
@@ -45711,6 +45711,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,zweinberg18,54
 2021_08_MIA_BUF,,50
 2021_08_MIA_BUF,__DavidOfficial,100
+2021_08_MIA_BUF,_alendowsky,100
 2021_08_MIA_BUF,_DH44_,59
 2021_08_MIA_BUF,_jclemons,84
 2021_08_MIA_BUF,_johnO2,100
@@ -45731,7 +45732,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,AlexDBlack27,100
 2021_08_MIA_BUF,altspreadpsycho,50
 2021_08_MIA_BUF,alvespina,90
-2021_08_MIA_BUF,alxfail,100
 2021_08_MIA_BUF,AnalyticsLeo,100
 2021_08_MIA_BUF,andreacasiragh1,90
 2021_08_MIA_BUF,andresnapol,20
@@ -46021,6 +46021,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,zweinberg18,85
 2021_08_SF_CHI,,50
 2021_08_SF_CHI,__DavidOfficial,32
+2021_08_SF_CHI,_alendowsky,51
 2021_08_SF_CHI,_DH44_,47
 2021_08_SF_CHI,_jclemons,44
 2021_08_SF_CHI,_johnO2,100
@@ -46041,7 +46042,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,AlexDBlack27,57
 2021_08_SF_CHI,altspreadpsycho,50
 2021_08_SF_CHI,alvespina,25
-2021_08_SF_CHI,alxfail,51
 2021_08_SF_CHI,AnalyticsLeo,30
 2021_08_SF_CHI,andreacasiragh1,42
 2021_08_SF_CHI,andresnapol,55
@@ -46331,6 +46331,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,zweinberg18,40
 2021_08_PIT_CLE,,50
 2021_08_PIT_CLE,__DavidOfficial,39
+2021_08_PIT_CLE,_alendowsky,48
 2021_08_PIT_CLE,_DH44_,60
 2021_08_PIT_CLE,_jclemons,53
 2021_08_PIT_CLE,_johnO2,0
@@ -46351,7 +46352,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,AlexDBlack27,45
 2021_08_PIT_CLE,altspreadpsycho,50
 2021_08_PIT_CLE,alvespina,56
-2021_08_PIT_CLE,alxfail,48
 2021_08_PIT_CLE,AnalyticsLeo,55
 2021_08_PIT_CLE,andreacasiragh1,57
 2021_08_PIT_CLE,andresnapol,30
@@ -46641,6 +46641,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,zweinberg18,64
 2021_08_PHI_DET,,50
 2021_08_PHI_DET,__DavidOfficial,60
+2021_08_PHI_DET,_alendowsky,51
 2021_08_PHI_DET,_DH44_,73
 2021_08_PHI_DET,_jclemons,42
 2021_08_PHI_DET,_johnO2,0
@@ -46661,7 +46662,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,AlexDBlack27,42
 2021_08_PHI_DET,altspreadpsycho,50
 2021_08_PHI_DET,alvespina,25
-2021_08_PHI_DET,alxfail,51
 2021_08_PHI_DET,AnalyticsLeo,40
 2021_08_PHI_DET,andreacasiragh1,44
 2021_08_PHI_DET,andresnapol,54
@@ -46950,6 +46950,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,zweinberg18,39
 2021_08_LA_HOU,,50
 2021_08_LA_HOU,__DavidOfficial,0
+2021_08_LA_HOU,_alendowsky,0
 2021_08_LA_HOU,_DH44_,0
 2021_08_LA_HOU,_jclemons,10
 2021_08_LA_HOU,_johnO2,0
@@ -46970,7 +46971,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,AlexDBlack27,0
 2021_08_LA_HOU,altspreadpsycho,50
 2021_08_LA_HOU,alvespina,10
-2021_08_LA_HOU,alxfail,0
 2021_08_LA_HOU,AnalyticsLeo,0
 2021_08_LA_HOU,andreacasiragh1,0
 2021_08_LA_HOU,andresnapol,85
@@ -47260,6 +47260,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,zweinberg18,9
 2021_08_TEN_IND,,50
 2021_08_TEN_IND,__DavidOfficial,39
+2021_08_TEN_IND,_alendowsky,47
 2021_08_TEN_IND,_DH44_,49
 2021_08_TEN_IND,_jclemons,52
 2021_08_TEN_IND,_johnO2,0
@@ -47280,7 +47281,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,AlexDBlack27,62
 2021_08_TEN_IND,altspreadpsycho,50
 2021_08_TEN_IND,alvespina,44
-2021_08_TEN_IND,alxfail,47
 2021_08_TEN_IND,AnalyticsLeo,25
 2021_08_TEN_IND,andreacasiragh1,50
 2021_08_TEN_IND,andresnapol,60
@@ -47570,6 +47570,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,zweinberg18,45
 2021_08_CIN_NYJ,,50
 2021_08_CIN_NYJ,__DavidOfficial,0
+2021_08_CIN_NYJ,_alendowsky,0
 2021_08_CIN_NYJ,_DH44_,45
 2021_08_CIN_NYJ,_jclemons,25
 2021_08_CIN_NYJ,_johnO2,0
@@ -47590,7 +47591,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,AlexDBlack27,0
 2021_08_CIN_NYJ,altspreadpsycho,50
 2021_08_CIN_NYJ,alvespina,10
-2021_08_CIN_NYJ,alxfail,0
 2021_08_CIN_NYJ,AnalyticsLeo,0
 2021_08_CIN_NYJ,andreacasiragh1,13
 2021_08_CIN_NYJ,andresnapol,90
@@ -47880,6 +47880,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,zweinberg18,20
 2021_08_NE_LAC,,50
 2021_08_NE_LAC,__DavidOfficial,64
+2021_08_NE_LAC,_alendowsky,49
 2021_08_NE_LAC,_DH44_,50
 2021_08_NE_LAC,_jclemons,49
 2021_08_NE_LAC,_johnO2,100
@@ -47900,7 +47901,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,AlexDBlack27,64
 2021_08_NE_LAC,altspreadpsycho,50
 2021_08_NE_LAC,alvespina,66
-2021_08_NE_LAC,alxfail,49
 2021_08_NE_LAC,AnalyticsLeo,60
 2021_08_NE_LAC,andreacasiragh1,65
 2021_08_NE_LAC,andresnapol,37
@@ -48190,6 +48190,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,zweinberg18,70
 2021_08_JAX_SEA,,50
 2021_08_JAX_SEA,__DavidOfficial,77
+2021_08_JAX_SEA,_alendowsky,52
 2021_08_JAX_SEA,_DH44_,52
 2021_08_JAX_SEA,_jclemons,58
 2021_08_JAX_SEA,_johnO2,0
@@ -48210,7 +48211,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,AlexDBlack27,43
 2021_08_JAX_SEA,altspreadpsycho,50
 2021_08_JAX_SEA,alvespina,44
-2021_08_JAX_SEA,alxfail,52
 2021_08_JAX_SEA,AnalyticsLeo,60
 2021_08_JAX_SEA,andreacasiragh1,53
 2021_08_JAX_SEA,andresnapol,39
@@ -48500,6 +48500,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,zweinberg18,62
 2021_08_WAS_DEN,,50
 2021_08_WAS_DEN,__DavidOfficial,57
+2021_08_WAS_DEN,_alendowsky,51
 2021_08_WAS_DEN,_DH44_,53
 2021_08_WAS_DEN,_jclemons,55
 2021_08_WAS_DEN,_johnO2,0
@@ -48520,7 +48521,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,AlexDBlack27,56
 2021_08_WAS_DEN,altspreadpsycho,50
 2021_08_WAS_DEN,alvespina,54
-2021_08_WAS_DEN,alxfail,51
 2021_08_WAS_DEN,AnalyticsLeo,60
 2021_08_WAS_DEN,andreacasiragh1,52
 2021_08_WAS_DEN,andresnapol,56
@@ -48810,6 +48810,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,zweinberg18,54
 2021_08_TB_NO,,50
 2021_08_TB_NO,__DavidOfficial,23
+2021_08_TB_NO,_alendowsky,47
 2021_08_TB_NO,_DH44_,41
 2021_08_TB_NO,_jclemons,40
 2021_08_TB_NO,_johnO2,0
@@ -48830,7 +48831,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,AlexDBlack27,56
 2021_08_TB_NO,altspreadpsycho,50
 2021_08_TB_NO,alvespina,28
-2021_08_TB_NO,alxfail,47
 2021_08_TB_NO,AnalyticsLeo,15
 2021_08_TB_NO,andreacasiragh1,36
 2021_08_TB_NO,andresnapol,69
@@ -49120,6 +49120,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,zweinberg18,36
 2021_08_DAL_MIN,,47
 2021_08_DAL_MIN,__DavidOfficial,55
+2021_08_DAL_MIN,_alendowsky,52
 2021_08_DAL_MIN,_DH44_,42
 2021_08_DAL_MIN,_jclemons,49
 2021_08_DAL_MIN,_johnO2,100
@@ -49140,7 +49141,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,AlexDBlack27,60
 2021_08_DAL_MIN,altspreadpsycho,50
 2021_08_DAL_MIN,alvespina,34
-2021_08_DAL_MIN,alxfail,52
 2021_08_DAL_MIN,AnalyticsLeo,25
 2021_08_DAL_MIN,andreacasiragh1,62
 2021_08_DAL_MIN,andresnapol,67
@@ -49433,6 +49433,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,zweinberg18,43
 2021_08_NYG_KC,,50
 2021_08_NYG_KC,__DavidOfficial,69
+2021_08_NYG_KC,_alendowsky,53
 2021_08_NYG_KC,_DH44_,51
 2021_08_NYG_KC,_jclemons,59
 2021_08_NYG_KC,_johnO2,100
@@ -49453,7 +49454,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,AlexDBlack27,100
 2021_08_NYG_KC,altspreadpsycho,50
 2021_08_NYG_KC,alvespina,75
-2021_08_NYG_KC,alxfail,53
 2021_08_NYG_KC,AnalyticsLeo,75
 2021_08_NYG_KC,andreacasiragh1,76
 2021_08_NYG_KC,andresnapol,30
@@ -49750,6 +49750,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,zweinberg18,67
 2021_09_NYJ_IND,,66
 2021_09_NYJ_IND,__DavidOfficial,65
+2021_09_NYJ_IND,_alendowsky,65
 2021_09_NYJ_IND,_DH44_,53
 2021_09_NYJ_IND,_jclemons,50
 2021_09_NYJ_IND,_johnO2,100
@@ -49771,7 +49772,6 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,alikozlu,50
 2021_09_NYJ_IND,altspreadpsycho,85
 2021_09_NYJ_IND,alvespina,74
-2021_09_NYJ_IND,alxfail,65
 2021_09_NYJ_IND,AnalyticsLeo,70
 2021_09_NYJ_IND,andreacasiragh1,81
 2021_09_NYJ_IND,AndrewBurner,78
@@ -50052,6 +50052,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,zweinberg18,76
 2021_09_MIN_BAL,,58
 2021_09_MIN_BAL,__DavidOfficial,75
+2021_09_MIN_BAL,_alendowsky,53
 2021_09_MIN_BAL,_DH44_,56
 2021_09_MIN_BAL,_jclemons,62
 2021_09_MIN_BAL,_johnO2,100
@@ -50075,7 +50076,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,alikozlu,50
 2021_09_MIN_BAL,altspreadpsycho,85
 2021_09_MIN_BAL,alvespina,60
-2021_09_MIN_BAL,alxfail,53
 2021_09_MIN_BAL,AnalyticsLeo,70
 2021_09_MIN_BAL,andreacasiragh1,75
 2021_09_MIN_BAL,AndrewBurner,70
@@ -50376,6 +50376,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,zweinberg18,75
 2021_09_NE_CAR,,56
 2021_09_NE_CAR,__DavidOfficial,31
+2021_09_NE_CAR,_alendowsky,47
 2021_09_NE_CAR,_DH44_,49
 2021_09_NE_CAR,_jclemons,41
 2021_09_NE_CAR,_johnO2,100
@@ -50399,7 +50400,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,alikozlu,50
 2021_09_NE_CAR,altspreadpsycho,85
 2021_09_NE_CAR,alvespina,32
-2021_09_NE_CAR,alxfail,47
 2021_09_NE_CAR,AnalyticsLeo,35
 2021_09_NE_CAR,andreacasiragh1,41
 2021_09_NE_CAR,AndrewBurner,36
@@ -50700,6 +50700,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,zweinberg18,36
 2021_09_CLE_CIN,,43
 2021_09_CLE_CIN,__DavidOfficial,61
+2021_09_CLE_CIN,_alendowsky,49
 2021_09_CLE_CIN,_DH44_,48
 2021_09_CLE_CIN,_jclemons,59
 2021_09_CLE_CIN,_johnO2,0
@@ -50723,7 +50724,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,alikozlu,50
 2021_09_CLE_CIN,altspreadpsycho,15
 2021_09_CLE_CIN,alvespina,61
-2021_09_CLE_CIN,alxfail,49
 2021_09_CLE_CIN,AnalyticsLeo,57
 2021_09_CLE_CIN,andreacasiragh1,54
 2021_09_CLE_CIN,AndrewBurner,55
@@ -51024,6 +51024,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,zweinberg18,63
 2021_09_DEN_DAL,,71
 2021_09_DEN_DAL,__DavidOfficial,80
+2021_09_DEN_DAL,_alendowsky,55
 2021_09_DEN_DAL,_DH44_,100
 2021_09_DEN_DAL,_jclemons,75
 2021_09_DEN_DAL,_johnO2,100
@@ -51047,7 +51048,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,alikozlu,50
 2021_09_DEN_DAL,altspreadpsycho,85
 2021_09_DEN_DAL,alvespina,70
-2021_09_DEN_DAL,alxfail,55
 2021_09_DEN_DAL,AnalyticsLeo,70
 2021_09_DEN_DAL,andreacasiragh1,74
 2021_09_DEN_DAL,AndrewBurner,79
@@ -51348,6 +51348,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,zweinberg18,85
 2021_09_BUF_JAX,,21
 2021_09_BUF_JAX,__DavidOfficial,20
+2021_09_BUF_JAX,_alendowsky,0
 2021_09_BUF_JAX,_DH44_,0
 2021_09_BUF_JAX,_jclemons,10
 2021_09_BUF_JAX,_johnO2,0
@@ -51371,7 +51372,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,alikozlu,50
 2021_09_BUF_JAX,altspreadpsycho,25
 2021_09_BUF_JAX,alvespina,14
-2021_09_BUF_JAX,alxfail,0
 2021_09_BUF_JAX,AnalyticsLeo,15
 2021_09_BUF_JAX,andreacasiragh1,0
 2021_09_BUF_JAX,AndrewBurner,12
@@ -51672,6 +51672,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,zweinberg18,10
 2021_09_HOU_MIA,,39
 2021_09_HOU_MIA,__DavidOfficial,30
+2021_09_HOU_MIA,_alendowsky,55
 2021_09_HOU_MIA,_DH44_,55
 2021_09_HOU_MIA,_jclemons,52
 2021_09_HOU_MIA,_johnO2,0
@@ -51695,7 +51696,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,alikozlu,50
 2021_09_HOU_MIA,altspreadpsycho,55
 2021_09_HOU_MIA,alvespina,76
-2021_09_HOU_MIA,alxfail,55
 2021_09_HOU_MIA,AnalyticsLeo,65
 2021_09_HOU_MIA,andreacasiragh1,54
 2021_09_HOU_MIA,AndrewBurner,69
@@ -51996,6 +51996,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,zweinberg18,63
 2021_09_ATL_NO,,65
 2021_09_ATL_NO,__DavidOfficial,40
+2021_09_ATL_NO,_alendowsky,55
 2021_09_ATL_NO,_DH44_,49
 2021_09_ATL_NO,_jclemons,71
 2021_09_ATL_NO,_johnO2,100
@@ -52019,7 +52020,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,alikozlu,50
 2021_09_ATL_NO,altspreadpsycho,55
 2021_09_ATL_NO,alvespina,61
-2021_09_ATL_NO,alxfail,55
 2021_09_ATL_NO,AnalyticsLeo,55
 2021_09_ATL_NO,andreacasiragh1,54
 2021_09_ATL_NO,AndrewBurner,71
@@ -52320,6 +52320,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,zweinberg18,75
 2021_09_LV_NYG,,38
 2021_09_LV_NYG,__DavidOfficial,36
+2021_09_LV_NYG,_alendowsky,47
 2021_09_LV_NYG,_DH44_,46
 2021_09_LV_NYG,_jclemons,46
 2021_09_LV_NYG,_johnO2,0
@@ -52343,7 +52344,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,alikozlu,50
 2021_09_LV_NYG,altspreadpsycho,15
 2021_09_LV_NYG,alvespina,27
-2021_09_LV_NYG,alxfail,47
 2021_09_LV_NYG,AnalyticsLeo,35
 2021_09_LV_NYG,andreacasiragh1,44
 2021_09_LV_NYG,AndrewBurner,39
@@ -52644,6 +52644,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,zweinberg18,30
 2021_09_LAC_PHI,,42
 2021_09_LAC_PHI,__DavidOfficial,36
+2021_09_LAC_PHI,_alendowsky,45
 2021_09_LAC_PHI,_DH44_,44
 2021_09_LAC_PHI,_jclemons,41
 2021_09_LAC_PHI,_johnO2,0
@@ -52667,7 +52668,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,alikozlu,50
 2021_09_LAC_PHI,altspreadpsycho,85
 2021_09_LAC_PHI,alvespina,29
-2021_09_LAC_PHI,alxfail,45
 2021_09_LAC_PHI,AnalyticsLeo,35
 2021_09_LAC_PHI,andreacasiragh1,41
 2021_09_LAC_PHI,AndrewBurner,46
@@ -52972,6 +52972,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,zweinberg18,35
 2021_09_GB_KC,,35
 2021_09_GB_KC,__DavidOfficial,74
+2021_09_GB_KC,_alendowsky,51
 2021_09_GB_KC,_DH44_,57
 2021_09_GB_KC,_jclemons,51
 2021_09_GB_KC,_johnO2,100
@@ -52995,7 +52996,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,alikozlu,50
 2021_09_GB_KC,altspreadpsycho,85
 2021_09_GB_KC,alvespina,70
-2021_09_GB_KC,alxfail,51
 2021_09_GB_KC,AnalyticsLeo,40
 2021_09_GB_KC,andreacasiragh1,69
 2021_09_GB_KC,AndrewBurner,74
@@ -53300,6 +53300,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,zweinberg18,60
 2021_09_ARI_SF,,36
 2021_09_ARI_SF,__DavidOfficial,65
+2021_09_ARI_SF,_alendowsky,51
 2021_09_ARI_SF,_DH44_,45
 2021_09_ARI_SF,_jclemons,51
 2021_09_ARI_SF,_johnO2,100
@@ -53323,7 +53324,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,alikozlu,50
 2021_09_ARI_SF,altspreadpsycho,85
 2021_09_ARI_SF,alvespina,66
-2021_09_ARI_SF,alxfail,51
 2021_09_ARI_SF,AnalyticsLeo,45
 2021_09_ARI_SF,andreacasiragh1,50
 2021_09_ARI_SF,AndrewBurner,50
@@ -53628,6 +53628,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,zweinberg18,32
 2021_09_TEN_LA,,59
 2021_09_TEN_LA,__DavidOfficial,77
+2021_09_TEN_LA,_alendowsky,55
 2021_09_TEN_LA,_DH44_,60
 2021_09_TEN_LA,_jclemons,57
 2021_09_TEN_LA,_johnO2,100
@@ -53651,7 +53652,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,alikozlu,50
 2021_09_TEN_LA,altspreadpsycho,75
 2021_09_TEN_LA,alvespina,71
-2021_09_TEN_LA,alxfail,55
 2021_09_TEN_LA,AnalyticsLeo,70
 2021_09_TEN_LA,andreacasiragh1,75
 2021_09_TEN_LA,AndrewBurner,74
@@ -53960,6 +53960,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,zweinberg18,78
 2021_09_CHI_PIT,,55
 2021_09_CHI_PIT,__DavidOfficial,73
+2021_09_CHI_PIT,_alendowsky,54
 2021_09_CHI_PIT,_DH44_,66
 2021_09_CHI_PIT,_jclemons,64
 2021_09_CHI_PIT,_johnO2,100
@@ -53983,7 +53984,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,alikozlu,50
 2021_09_CHI_PIT,altspreadpsycho,85
 2021_09_CHI_PIT,alvespina,60
-2021_09_CHI_PIT,alxfail,54
 2021_09_CHI_PIT,AnalyticsLeo,65
 2021_09_CHI_PIT,andreacasiragh1,64
 2021_09_CHI_PIT,AndrewBurner,71
@@ -54298,6 +54298,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,YSchlepper,60
 2021_09_CHI_PIT,zweinberg18,60
 2021_10_BAL_MIA,__DavidOfficial,32
+2021_10_BAL_MIA,_alendowsky,45
 2021_10_BAL_MIA,_DH44_,48
 2021_10_BAL_MIA,_jclemons,29
 2021_10_BAL_MIA,_LiamHorsley,14
@@ -54316,7 +54317,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,AlexanderSpeer_,0
 2021_10_BAL_MIA,AlexDBlack27,0
 2021_10_BAL_MIA,alvespina,19
-2021_10_BAL_MIA,alxfail,45
 2021_10_BAL_MIA,AnalyticsLeo,20
 2021_10_BAL_MIA,andreacasiragh1,50
 2021_10_BAL_MIA,AndrewBurner,50
@@ -54580,6 +54580,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,YSchlepper,19
 2021_10_BAL_MIA,zweinberg18,15
 2021_10_ATL_DAL,__DavidOfficial,74
+2021_10_ATL_DAL,_alendowsky,55
 2021_10_ATL_DAL,_chrisbigler,60
 2021_10_ATL_DAL,_DH44_,100
 2021_10_ATL_DAL,_jclemons,66
@@ -54600,7 +54601,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,AlexanderSpeer_,50
 2021_10_ATL_DAL,AlexDBlack27,100
 2021_10_ATL_DAL,alvespina,65
-2021_10_ATL_DAL,alxfail,55
 2021_10_ATL_DAL,AnalyticsLeo,70
 2021_10_ATL_DAL,andreacasiragh1,77
 2021_10_ATL_DAL,AndrewBurner,82
@@ -54889,6 +54889,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,YSchlepper,65
 2021_10_ATL_DAL,zweinberg18,70
 2021_10_JAX_IND,__DavidOfficial,75
+2021_10_JAX_IND,_alendowsky,60
 2021_10_JAX_IND,_chrisbigler,70
 2021_10_JAX_IND,_DH44_,57
 2021_10_JAX_IND,_jclemons,65
@@ -54909,7 +54910,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,AlexanderSpeer_,50
 2021_10_JAX_IND,AlexDBlack27,100
 2021_10_JAX_IND,alvespina,70
-2021_10_JAX_IND,alxfail,60
 2021_10_JAX_IND,AnalyticsLeo,80
 2021_10_JAX_IND,andreacasiragh1,76
 2021_10_JAX_IND,AndrewBurner,75
@@ -55198,6 +55198,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,YSchlepper,60
 2021_10_JAX_IND,zweinberg18,75
 2021_10_CLE_NE,__DavidOfficial,39
+2021_10_CLE_NE,_alendowsky,55
 2021_10_CLE_NE,_chrisbigler,65
 2021_10_CLE_NE,_DH44_,56
 2021_10_CLE_NE,_jclemons,52
@@ -55218,7 +55219,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,AlexanderSpeer_,50
 2021_10_CLE_NE,AlexDBlack27,45
 2021_10_CLE_NE,alvespina,45
-2021_10_CLE_NE,alxfail,55
 2021_10_CLE_NE,AnalyticsLeo,35
 2021_10_CLE_NE,andreacasiragh1,50
 2021_10_CLE_NE,AndrewBurner,60
@@ -55507,6 +55507,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,YSchlepper,39
 2021_10_CLE_NE,zweinberg18,40
 2021_10_BUF_NYJ,__DavidOfficial,20
+2021_10_BUF_NYJ,_alendowsky,30
 2021_10_BUF_NYJ,_chrisbigler,10
 2021_10_BUF_NYJ,_DH44_,0
 2021_10_BUF_NYJ,_jclemons,38
@@ -55527,7 +55528,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,AlexanderSpeer_,50
 2021_10_BUF_NYJ,AlexDBlack27,0
 2021_10_BUF_NYJ,alvespina,25
-2021_10_BUF_NYJ,alxfail,30
 2021_10_BUF_NYJ,AnalyticsLeo,15
 2021_10_BUF_NYJ,andreacasiragh1,0
 2021_10_BUF_NYJ,AndrewBurner,10
@@ -55816,6 +55816,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,YSchlepper,15
 2021_10_BUF_NYJ,zweinberg18,25
 2021_10_DET_PIT,__DavidOfficial,40
+2021_10_DET_PIT,_alendowsky,55
 2021_10_DET_PIT,_chrisbigler,35
 2021_10_DET_PIT,_DH44_,49
 2021_10_DET_PIT,_jclemons,58
@@ -55836,7 +55837,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,AlexanderSpeer_,50
 2021_10_DET_PIT,AlexDBlack27,66
 2021_10_DET_PIT,alvespina,78
-2021_10_DET_PIT,alxfail,55
 2021_10_DET_PIT,AnalyticsLeo,60
 2021_10_DET_PIT,andreacasiragh1,62
 2021_10_DET_PIT,AndrewBurner,70
@@ -56125,6 +56125,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,YSchlepper,65
 2021_10_DET_PIT,zweinberg18,72
 2021_10_NO_TEN,__DavidOfficial,65
+2021_10_NO_TEN,_alendowsky,55
 2021_10_NO_TEN,_chrisbigler,80
 2021_10_NO_TEN,_DH44_,43
 2021_10_NO_TEN,_jclemons,56
@@ -56145,7 +56146,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,AlexanderSpeer_,50
 2021_10_NO_TEN,AlexDBlack27,45
 2021_10_NO_TEN,alvespina,60
-2021_10_NO_TEN,alxfail,55
 2021_10_NO_TEN,AnalyticsLeo,65
 2021_10_NO_TEN,andreacasiragh1,47
 2021_10_NO_TEN,AndrewBurner,59
@@ -56434,6 +56434,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,YSchlepper,65
 2021_10_NO_TEN,zweinberg18,63
 2021_10_TB_WAS,__DavidOfficial,24
+2021_10_TB_WAS,_alendowsky,35
 2021_10_TB_WAS,_chrisbigler,10
 2021_10_TB_WAS,_DH44_,0
 2021_10_TB_WAS,_jclemons,16
@@ -56454,7 +56455,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,AlexanderSpeer_,50
 2021_10_TB_WAS,AlexDBlack27,31
 2021_10_TB_WAS,alvespina,16
-2021_10_TB_WAS,alxfail,35
 2021_10_TB_WAS,AnalyticsLeo,25
 2021_10_TB_WAS,andreacasiragh1,13
 2021_10_TB_WAS,AndrewBurner,21
@@ -56743,6 +56743,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,YSchlepper,30
 2021_10_TB_WAS,zweinberg18,20
 2021_10_CAR_ARI,__DavidOfficial,74
+2021_10_CAR_ARI,_alendowsky,60
 2021_10_CAR_ARI,_chrisbigler,65
 2021_10_CAR_ARI,_DH44_,57
 2021_10_CAR_ARI,_jclemons,80
@@ -56763,7 +56764,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,AlexanderSpeer_,50
 2021_10_CAR_ARI,AlexDBlack27,56
 2021_10_CAR_ARI,alvespina,70
-2021_10_CAR_ARI,alxfail,60
 2021_10_CAR_ARI,AnalyticsLeo,75
 2021_10_CAR_ARI,andreacasiragh1,86
 2021_10_CAR_ARI,AndrewBurner,82
@@ -57052,6 +57052,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,YSchlepper,80
 2021_10_CAR_ARI,zweinberg18,80
 2021_10_MIN_LAC,__DavidOfficial,40
+2021_10_MIN_LAC,_alendowsky,45
 2021_10_MIN_LAC,_chrisbigler,70
 2021_10_MIN_LAC,_DH44_,46
 2021_10_MIN_LAC,_jclemons,56
@@ -57072,7 +57073,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,AlexanderSpeer_,50
 2021_10_MIN_LAC,AlexDBlack27,56
 2021_10_MIN_LAC,alvespina,54
-2021_10_MIN_LAC,alxfail,45
 2021_10_MIN_LAC,AnalyticsLeo,25
 2021_10_MIN_LAC,andreacasiragh1,54
 2021_10_MIN_LAC,AndrewBurner,67
@@ -57361,6 +57361,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,YSchlepper,60
 2021_10_MIN_LAC,zweinberg18,62
 2021_10_PHI_DEN,__DavidOfficial,61
+2021_10_PHI_DEN,_alendowsky,45
 2021_10_PHI_DEN,_chrisbigler,80
 2021_10_PHI_DEN,_DH44_,56
 2021_10_PHI_DEN,_jclemons,54
@@ -57381,7 +57382,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,AlexanderSpeer_,50
 2021_10_PHI_DEN,AlexDBlack27,54
 2021_10_PHI_DEN,alvespina,53
-2021_10_PHI_DEN,alxfail,45
 2021_10_PHI_DEN,AnalyticsLeo,40
 2021_10_PHI_DEN,andreacasiragh1,46
 2021_10_PHI_DEN,AndrewBurner,55
@@ -57670,6 +57670,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,YSchlepper,55
 2021_10_PHI_DEN,zweinberg18,57
 2021_10_SEA_GB,__DavidOfficial,71
+2021_10_SEA_GB,_alendowsky,60
 2021_10_SEA_GB,_chrisbigler,40
 2021_10_SEA_GB,_DH44_,48
 2021_10_SEA_GB,_jclemons,51
@@ -57690,7 +57691,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,AlexanderSpeer_,50
 2021_10_SEA_GB,AlexDBlack27,47
 2021_10_SEA_GB,alvespina,55
-2021_10_SEA_GB,alxfail,60
 2021_10_SEA_GB,AnalyticsLeo,75
 2021_10_SEA_GB,andreacasiragh1,66
 2021_10_SEA_GB,AndrewBurner,63
@@ -57979,6 +57979,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,YSchlepper,70
 2021_10_SEA_GB,zweinberg18,58
 2021_10_KC_LV,__DavidOfficial,40
+2021_10_KC_LV,_alendowsky,55
 2021_10_KC_LV,_chrisbigler,65
 2021_10_KC_LV,_DH44_,57
 2021_10_KC_LV,_jclemons,52
@@ -57999,7 +58000,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,AlexanderSpeer_,50
 2021_10_KC_LV,AlexDBlack27,46
 2021_10_KC_LV,alvespina,52
-2021_10_KC_LV,alxfail,55
 2021_10_KC_LV,AnalyticsLeo,45
 2021_10_KC_LV,andreacasiragh1,46
 2021_10_KC_LV,AndrewBurner,40
@@ -58291,6 +58291,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,zweinberg18,47
 2021_10_LA_SF,,56
 2021_10_LA_SF,__DavidOfficial,35
+2021_10_LA_SF,_alendowsky,40
 2021_10_LA_SF,_chrisbigler,25
 2021_10_LA_SF,_DH44_,0
 2021_10_LA_SF,_jclemons,42
@@ -58311,7 +58312,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,AlexanderSpeer_,50
 2021_10_LA_SF,AlexDBlack27,54
 2021_10_LA_SF,alvespina,28
-2021_10_LA_SF,alxfail,40
 2021_10_LA_SF,AnalyticsLeo,30
 2021_10_LA_SF,andreacasiragh1,29
 2021_10_LA_SF,AndrewBurner,33
@@ -58608,6 +58608,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,zweinberg18,27
 2021_11_NE_ATL,,50
 2021_11_NE_ATL,__DavidOfficial,31
+2021_11_NE_ATL,_alendowsky,35
 2021_11_NE_ATL,_DH44_,45
 2021_11_NE_ATL,_jclemons,20
 2021_11_NE_ATL,_johnO2,0
@@ -58625,7 +58626,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,AJCachiaras,30
 2021_11_NE_ATL,AlexDBlack27,50
 2021_11_NE_ATL,alvespina,23
-2021_11_NE_ATL,alxfail,35
 2021_11_NE_ATL,AnalyticsLeo,32
 2021_11_NE_ATL,andreacasiragh1,19
 2021_11_NE_ATL,AndrewBurner,15
@@ -58877,6 +58877,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,zweinberg18,31
 2021_11_IND_BUF,,50
 2021_11_IND_BUF,__DavidOfficial,65
+2021_11_IND_BUF,_alendowsky,55
 2021_11_IND_BUF,_chrisbigler,75
 2021_11_IND_BUF,_DH44_,55
 2021_11_IND_BUF,_jclemons,61
@@ -58895,7 +58896,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,AJCachiaras,80
 2021_11_IND_BUF,AlexDBlack27,50
 2021_11_IND_BUF,alvespina,64
-2021_11_IND_BUF,alxfail,55
 2021_11_IND_BUF,AnalyticsLeo,60
 2021_11_IND_BUF,andreacasiragh1,73
 2021_11_IND_BUF,AndrewBurner,79
@@ -59160,6 +59160,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,zweinberg18,64
 2021_11_WAS_CAR,,50
 2021_11_WAS_CAR,__DavidOfficial,72
+2021_11_WAS_CAR,_alendowsky,55
 2021_11_WAS_CAR,_chrisbigler,60
 2021_11_WAS_CAR,_DH44_,51
 2021_11_WAS_CAR,_jclemons,65
@@ -59178,7 +59179,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,AJCachiaras,43
 2021_11_WAS_CAR,AlexDBlack27,50
 2021_11_WAS_CAR,alvespina,57
-2021_11_WAS_CAR,alxfail,55
 2021_11_WAS_CAR,AnalyticsLeo,55
 2021_11_WAS_CAR,andreacasiragh1,56
 2021_11_WAS_CAR,AndrewBurner,57
@@ -59444,6 +59444,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,zweinberg18,71
 2021_11_BAL_CHI,,50
 2021_11_BAL_CHI,__DavidOfficial,19
+2021_11_BAL_CHI,_alendowsky,45
 2021_11_BAL_CHI,_chrisbigler,40
 2021_11_BAL_CHI,_DH44_,35
 2021_11_BAL_CHI,_jclemons,38
@@ -59462,7 +59463,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,AJCachiaras,39
 2021_11_BAL_CHI,AlexDBlack27,50
 2021_11_BAL_CHI,alvespina,29
-2021_11_BAL_CHI,alxfail,45
 2021_11_BAL_CHI,AnalyticsLeo,30
 2021_11_BAL_CHI,andreacasiragh1,47
 2021_11_BAL_CHI,AndrewBurner,33
@@ -59728,6 +59728,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,zweinberg18,28
 2021_11_DET_CLE,,50
 2021_11_DET_CLE,__DavidOfficial,60
+2021_11_DET_CLE,_alendowsky,60
 2021_11_DET_CLE,_chrisbigler,90
 2021_11_DET_CLE,_DH44_,62
 2021_11_DET_CLE,_jclemons,70
@@ -59746,7 +59747,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,AJCachiaras,67
 2021_11_DET_CLE,AlexDBlack27,50
 2021_11_DET_CLE,alvespina,73
-2021_11_DET_CLE,alxfail,60
 2021_11_DET_CLE,AnalyticsLeo,70
 2021_11_DET_CLE,andreacasiragh1,74
 2021_11_DET_CLE,AndrewBurner,83
@@ -60011,6 +60011,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,zweinberg18,63
 2021_11_SF_JAX,,50
 2021_11_SF_JAX,__DavidOfficial,22
+2021_11_SF_JAX,_alendowsky,40
 2021_11_SF_JAX,_chrisbigler,15
 2021_11_SF_JAX,_DH44_,41
 2021_11_SF_JAX,_jclemons,33
@@ -60029,7 +60030,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,AJCachiaras,25
 2021_11_SF_JAX,AlexDBlack27,50
 2021_11_SF_JAX,alvespina,22
-2021_11_SF_JAX,alxfail,40
 2021_11_SF_JAX,AnalyticsLeo,40
 2021_11_SF_JAX,andreacasiragh1,27
 2021_11_SF_JAX,AndrewBurner,28
@@ -60294,6 +60294,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,zweinberg18,38
 2021_11_GB_MIN,,50
 2021_11_GB_MIN,__DavidOfficial,30
+2021_11_GB_MIN,_alendowsky,45
 2021_11_GB_MIN,_chrisbigler,56
 2021_11_GB_MIN,_DH44_,41
 2021_11_GB_MIN,_jclemons,43
@@ -60312,7 +60313,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,AJCachiaras,54
 2021_11_GB_MIN,AlexDBlack27,50
 2021_11_GB_MIN,alvespina,44
-2021_11_GB_MIN,alxfail,45
 2021_11_GB_MIN,AnalyticsLeo,30
 2021_11_GB_MIN,andreacasiragh1,50
 2021_11_GB_MIN,AndrewBurner,47
@@ -60577,6 +60577,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,zweinberg18,34
 2021_11_MIA_NYJ,,50
 2021_11_MIA_NYJ,__DavidOfficial,26
+2021_11_MIA_NYJ,_alendowsky,45
 2021_11_MIA_NYJ,_chrisbigler,45
 2021_11_MIA_NYJ,_DH44_,34
 2021_11_MIA_NYJ,_jclemons,43
@@ -60595,7 +60596,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,AJCachiaras,29
 2021_11_MIA_NYJ,AlexDBlack27,50
 2021_11_MIA_NYJ,alvespina,42
-2021_11_MIA_NYJ,alxfail,45
 2021_11_MIA_NYJ,AnalyticsLeo,30
 2021_11_MIA_NYJ,andreacasiragh1,34
 2021_11_MIA_NYJ,AndrewBurner,37
@@ -60861,6 +60861,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,zweinberg18,44
 2021_11_NO_PHI,,50
 2021_11_NO_PHI,__DavidOfficial,35
+2021_11_NO_PHI,_alendowsky,55
 2021_11_NO_PHI,_chrisbigler,65
 2021_11_NO_PHI,_DH44_,50
 2021_11_NO_PHI,_jclemons,47
@@ -60879,7 +60880,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,AJCachiaras,67
 2021_11_NO_PHI,AlexDBlack27,50
 2021_11_NO_PHI,alvespina,45
-2021_11_NO_PHI,alxfail,55
 2021_11_NO_PHI,AnalyticsLeo,50
 2021_11_NO_PHI,andreacasiragh1,56
 2021_11_NO_PHI,AndrewBurner,58
@@ -61145,6 +61145,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,zweinberg18,65
 2021_11_HOU_TEN,,50
 2021_11_HOU_TEN,__DavidOfficial,78
+2021_11_HOU_TEN,_alendowsky,100
 2021_11_HOU_TEN,_chrisbigler,75
 2021_11_HOU_TEN,_DH44_,79
 2021_11_HOU_TEN,_jclemons,81
@@ -61163,7 +61164,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,AJCachiaras,68
 2021_11_HOU_TEN,AlexDBlack27,50
 2021_11_HOU_TEN,alvespina,81
-2021_11_HOU_TEN,alxfail,100
 2021_11_HOU_TEN,AnalyticsLeo,80
 2021_11_HOU_TEN,andreacasiragh1,84
 2021_11_HOU_TEN,AndrewBurner,80
@@ -61429,6 +61429,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,zweinberg18,79
 2021_11_CIN_LV,,50
 2021_11_CIN_LV,__DavidOfficial,42
+2021_11_CIN_LV,_alendowsky,55
 2021_11_CIN_LV,_chrisbigler,40
 2021_11_CIN_LV,_DH44_,50
 2021_11_CIN_LV,_jclemons,47
@@ -61447,7 +61448,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,AJCachiaras,56
 2021_11_CIN_LV,AlexDBlack27,50
 2021_11_CIN_LV,alvespina,54
-2021_11_CIN_LV,alxfail,55
 2021_11_CIN_LV,AnalyticsLeo,40
 2021_11_CIN_LV,andreacasiragh1,35
 2021_11_CIN_LV,AndrewBurner,46
@@ -61713,6 +61713,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,zweinberg18,40
 2021_11_DAL_KC,,50
 2021_11_DAL_KC,__DavidOfficial,35
+2021_11_DAL_KC,_alendowsky,45
 2021_11_DAL_KC,_chrisbigler,60
 2021_11_DAL_KC,_DH44_,50
 2021_11_DAL_KC,_jclemons,40
@@ -61731,7 +61732,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,AJCachiaras,41
 2021_11_DAL_KC,AlexDBlack27,50
 2021_11_DAL_KC,alvespina,12
-2021_11_DAL_KC,alxfail,45
 2021_11_DAL_KC,AnalyticsLeo,45
 2021_11_DAL_KC,andreacasiragh1,44
 2021_11_DAL_KC,AndrewBurner,55
@@ -61997,6 +61997,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,zweinberg18,45
 2021_11_ARI_SEA,,50
 2021_11_ARI_SEA,__DavidOfficial,34
+2021_11_ARI_SEA,_alendowsky,45
 2021_11_ARI_SEA,_chrisbigler,60
 2021_11_ARI_SEA,_DH44_,41
 2021_11_ARI_SEA,_jclemons,40
@@ -62015,7 +62016,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,AJCachiaras,48
 2021_11_ARI_SEA,AlexDBlack27,50
 2021_11_ARI_SEA,alvespina,39
-2021_11_ARI_SEA,alxfail,45
 2021_11_ARI_SEA,AnalyticsLeo,30
 2021_11_ARI_SEA,andreacasiragh1,50
 2021_11_ARI_SEA,AndrewBurner,47
@@ -62281,6 +62281,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,zweinberg18,37
 2021_11_PIT_LAC,,50
 2021_11_PIT_LAC,__DavidOfficial,68
+2021_11_PIT_LAC,_alendowsky,55
 2021_11_PIT_LAC,_chrisbigler,75
 2021_11_PIT_LAC,_DH44_,52
 2021_11_PIT_LAC,_jclemons,51
@@ -62300,7 +62301,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,AlexDBlack27,50
 2021_11_PIT_LAC,altspreadpsycho,100
 2021_11_PIT_LAC,alvespina,49
-2021_11_PIT_LAC,alxfail,55
 2021_11_PIT_LAC,AnalyticsLeo,57
 2021_11_PIT_LAC,andreacasiragh1,69
 2021_11_PIT_LAC,AndrewBurner,69
@@ -62567,6 +62567,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,zweinberg18,63
 2021_11_NYG_TB,,50
 2021_11_NYG_TB,__DavidOfficial,76
+2021_11_NYG_TB,_alendowsky,55
 2021_11_NYG_TB,_chrisbigler,75
 2021_11_NYG_TB,_DH44_,99
 2021_11_NYG_TB,_jclemons,70
@@ -62587,7 +62588,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,AlexDBlack27,50
 2021_11_NYG_TB,altspreadpsycho,100
 2021_11_NYG_TB,alvespina,50
-2021_11_NYG_TB,alxfail,55
 2021_11_NYG_TB,AnalyticsLeo,75
 2021_11_NYG_TB,andreacasiragh1,78
 2021_11_NYG_TB,AndrewBurner,81
@@ -62853,6 +62853,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,YSchlepper,80
 2021_11_NYG_TB,zweinberg18,85
 2021_12_CHI_DET,__DavidOfficial,60
+2021_12_CHI_DET,_alendowsky,45
 2021_12_CHI_DET,_chrisbigler,60
 2021_12_CHI_DET,_DH44_,51
 2021_12_CHI_DET,_jclemons,51
@@ -62872,7 +62873,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,ak47twq,31
 2021_12_CHI_DET,altspreadpsycho,50
 2021_12_CHI_DET,alvespina,50
-2021_12_CHI_DET,alxfail,45
 2021_12_CHI_DET,AnalyticsLeo,45
 2021_12_CHI_DET,andreacasiragh1,46
 2021_12_CHI_DET,AndrewBurner,38
@@ -63094,6 +63094,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,YayySports,46
 2021_12_CHI_DET,zweinberg18,39
 2021_12_LV_DAL,__DavidOfficial,86
+2021_12_LV_DAL,_alendowsky,55
 2021_12_LV_DAL,_chrisbigler,70
 2021_12_LV_DAL,_DH44_,60
 2021_12_LV_DAL,_jclemons,70
@@ -63113,7 +63114,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,ak47twq,80
 2021_12_LV_DAL,altspreadpsycho,50
 2021_12_LV_DAL,alvespina,64
-2021_12_LV_DAL,alxfail,55
 2021_12_LV_DAL,AnalyticsLeo,65
 2021_12_LV_DAL,andreacasiragh1,72
 2021_12_LV_DAL,AndrewBurner,74
@@ -63338,6 +63338,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,YayySports,79
 2021_12_LV_DAL,zweinberg18,59
 2021_12_BUF_NO,__DavidOfficial,60
+2021_12_BUF_NO,_alendowsky,45
 2021_12_BUF_NO,_chrisbigler,30
 2021_12_BUF_NO,_DH44_,45
 2021_12_BUF_NO,_jclemons,40
@@ -63357,7 +63358,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,ak47twq,12
 2021_12_BUF_NO,altspreadpsycho,50
 2021_12_BUF_NO,alvespina,26
-2021_12_BUF_NO,alxfail,45
 2021_12_BUF_NO,AnalyticsLeo,30
 2021_12_BUF_NO,andreacasiragh1,25
 2021_12_BUF_NO,AndrewBurner,35
@@ -63582,6 +63582,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,YayySports,46
 2021_12_BUF_NO,zweinberg18,38
 2021_12_PIT_CIN,__DavidOfficial,65
+2021_12_PIT_CIN,_alendowsky,47
 2021_12_PIT_CIN,_chrisbigler,65
 2021_12_PIT_CIN,_DH44_,51
 2021_12_PIT_CIN,_jclemons,56
@@ -63602,7 +63603,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,ak47twq,50
 2021_12_PIT_CIN,altspreadpsycho,50
 2021_12_PIT_CIN,alvespina,59
-2021_12_PIT_CIN,alxfail,47
 2021_12_PIT_CIN,AnalyticsLeo,58
 2021_12_PIT_CIN,andreacasiragh1,62
 2021_12_PIT_CIN,AndrewBurner,63
@@ -63843,6 +63843,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,YayySports,64
 2021_12_PIT_CIN,zweinberg18,57
 2021_12_NYJ_HOU,__DavidOfficial,40
+2021_12_NYJ_HOU,_alendowsky,47
 2021_12_NYJ_HOU,_chrisbigler,40
 2021_12_NYJ_HOU,_DH44_,45
 2021_12_NYJ_HOU,_jclemons,53
@@ -63863,7 +63864,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,ak47twq,50
 2021_12_NYJ_HOU,altspreadpsycho,50
 2021_12_NYJ_HOU,alvespina,53
-2021_12_NYJ_HOU,alxfail,47
 2021_12_NYJ_HOU,AnalyticsLeo,60
 2021_12_NYJ_HOU,andreacasiragh1,59
 2021_12_NYJ_HOU,AndrewBurner,54
@@ -64104,6 +64104,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,YayySports,54
 2021_12_NYJ_HOU,zweinberg18,56
 2021_12_TB_IND,__DavidOfficial,35
+2021_12_TB_IND,_alendowsky,53
 2021_12_TB_IND,_chrisbigler,25
 2021_12_TB_IND,_DH44_,44
 2021_12_TB_IND,_jclemons,48
@@ -64124,7 +64125,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,ak47twq,50
 2021_12_TB_IND,altspreadpsycho,50
 2021_12_TB_IND,alvespina,28
-2021_12_TB_IND,alxfail,53
 2021_12_TB_IND,AnalyticsLeo,42
 2021_12_TB_IND,andreacasiragh1,49
 2021_12_TB_IND,AndrewBurner,37
@@ -64365,6 +64365,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,YayySports,46
 2021_12_TB_IND,zweinberg18,40
 2021_12_ATL_JAX,__DavidOfficial,60
+2021_12_ATL_JAX,_alendowsky,55
 2021_12_ATL_JAX,_chrisbigler,40
 2021_12_ATL_JAX,_DH44_,47
 2021_12_ATL_JAX,_jclemons,55
@@ -64385,7 +64386,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,ak47twq,50
 2021_12_ATL_JAX,altspreadpsycho,50
 2021_12_ATL_JAX,alvespina,34
-2021_12_ATL_JAX,alxfail,55
 2021_12_ATL_JAX,AnalyticsLeo,44
 2021_12_ATL_JAX,andreacasiragh1,55
 2021_12_ATL_JAX,AndrewBurner,44
@@ -64626,6 +64626,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,YayySports,50
 2021_12_ATL_JAX,zweinberg18,43
 2021_12_CAR_MIA,__DavidOfficial,41
+2021_12_CAR_MIA,_alendowsky,47
 2021_12_CAR_MIA,_chrisbigler,60
 2021_12_CAR_MIA,_DH44_,55
 2021_12_CAR_MIA,_jclemons,41
@@ -64646,7 +64647,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,ak47twq,50
 2021_12_CAR_MIA,altspreadpsycho,50
 2021_12_CAR_MIA,alvespina,41
-2021_12_CAR_MIA,alxfail,47
 2021_12_CAR_MIA,AnalyticsLeo,40
 2021_12_CAR_MIA,andreacasiragh1,50
 2021_12_CAR_MIA,AndrewBurner,50
@@ -64887,6 +64887,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,YayySports,49
 2021_12_CAR_MIA,zweinberg18,54
 2021_12_TEN_NE,__DavidOfficial,65
+2021_12_TEN_NE,_alendowsky,65
 2021_12_TEN_NE,_chrisbigler,65
 2021_12_TEN_NE,_DH44_,60
 2021_12_TEN_NE,_jclemons,64
@@ -64907,7 +64908,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,ak47twq,25
 2021_12_TEN_NE,altspreadpsycho,50
 2021_12_TEN_NE,alvespina,80
-2021_12_TEN_NE,alxfail,65
 2021_12_TEN_NE,AnalyticsLeo,58
 2021_12_TEN_NE,andreacasiragh1,74
 2021_12_TEN_NE,AndrewBurner,72
@@ -65148,6 +65148,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,YayySports,68
 2021_12_TEN_NE,zweinberg18,66
 2021_12_PHI_NYG,__DavidOfficial,42
+2021_12_PHI_NYG,_alendowsky,38
 2021_12_PHI_NYG,_chrisbigler,30
 2021_12_PHI_NYG,_DH44_,47
 2021_12_PHI_NYG,_jclemons,37
@@ -65168,7 +65169,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,ak47twq,50
 2021_12_PHI_NYG,altspreadpsycho,50
 2021_12_PHI_NYG,alvespina,31
-2021_12_PHI_NYG,alxfail,38
 2021_12_PHI_NYG,AnalyticsLeo,35
 2021_12_PHI_NYG,andreacasiragh1,37
 2021_12_PHI_NYG,AndrewBurner,38
@@ -65409,6 +65409,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,YayySports,41
 2021_12_PHI_NYG,zweinberg18,31
 2021_12_LAC_DEN,__DavidOfficial,32
+2021_12_LAC_DEN,_alendowsky,45
 2021_12_LAC_DEN,_chrisbigler,40
 2021_12_LAC_DEN,_DH44_,44
 2021_12_LAC_DEN,_jclemons,48
@@ -65429,7 +65430,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,ak47twq,50
 2021_12_LAC_DEN,altspreadpsycho,50
 2021_12_LAC_DEN,alvespina,39
-2021_12_LAC_DEN,alxfail,45
 2021_12_LAC_DEN,AnalyticsLeo,40
 2021_12_LAC_DEN,andreacasiragh1,41
 2021_12_LAC_DEN,AndrewBurner,41
@@ -65670,6 +65670,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,YayySports,50
 2021_12_LAC_DEN,zweinberg18,37
 2021_12_LA_GB,__DavidOfficial,38
+2021_12_LA_GB,_alendowsky,57
 2021_12_LA_GB,_chrisbigler,60
 2021_12_LA_GB,_DH44_,46
 2021_12_LA_GB,_jclemons,52
@@ -65690,7 +65691,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,ak47twq,50
 2021_12_LA_GB,altspreadpsycho,50
 2021_12_LA_GB,alvespina,51
-2021_12_LA_GB,alxfail,57
 2021_12_LA_GB,AnalyticsLeo,42
 2021_12_LA_GB,andreacasiragh1,48
 2021_12_LA_GB,AndrewBurner,45
@@ -65931,6 +65931,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,YayySports,51
 2021_12_LA_GB,zweinberg18,59
 2021_12_MIN_SF,__DavidOfficial,66
+2021_12_MIN_SF,_alendowsky,52
 2021_12_MIN_SF,_chrisbigler,70
 2021_12_MIN_SF,_DH44_,47
 2021_12_MIN_SF,_jclemons,51
@@ -65951,7 +65952,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,ak47twq,50
 2021_12_MIN_SF,altspreadpsycho,50
 2021_12_MIN_SF,alvespina,55
-2021_12_MIN_SF,alxfail,52
 2021_12_MIN_SF,AnalyticsLeo,42
 2021_12_MIN_SF,andreacasiragh1,46
 2021_12_MIN_SF,AndrewBurner,65
@@ -66192,6 +66192,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,YayySports,59
 2021_12_MIN_SF,zweinberg18,57
 2021_12_CLE_BAL,__DavidOfficial,75
+2021_12_CLE_BAL,_alendowsky,49
 2021_12_CLE_BAL,_chrisbigler,60
 2021_12_CLE_BAL,_DH44_,48
 2021_12_CLE_BAL,_jclemons,52
@@ -66212,7 +66213,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,ak47twq,50
 2021_12_CLE_BAL,altspreadpsycho,50
 2021_12_CLE_BAL,alvespina,54
-2021_12_CLE_BAL,alxfail,49
 2021_12_CLE_BAL,AnalyticsLeo,80
 2021_12_CLE_BAL,andreacasiragh1,58
 2021_12_CLE_BAL,AndrewBurner,57
@@ -66453,6 +66453,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,YayySports,54
 2021_12_CLE_BAL,zweinberg18,58
 2021_12_SEA_WAS,__DavidOfficial,41
+2021_12_SEA_WAS,_alendowsky,55
 2021_12_SEA_WAS,_chrisbigler,40
 2021_12_SEA_WAS,_DH44_,54
 2021_12_SEA_WAS,_jclemons,47
@@ -66473,7 +66474,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,ak47twq,50
 2021_12_SEA_WAS,altspreadpsycho,50
 2021_12_SEA_WAS,alvespina,44
-2021_12_SEA_WAS,alxfail,55
 2021_12_SEA_WAS,AnalyticsLeo,55
 2021_12_SEA_WAS,andreacasiragh1,50
 2021_12_SEA_WAS,AndrewBurner,43
@@ -66718,6 +66718,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,YSchlepper,35
 2021_12_SEA_WAS,zweinberg18,55
 2021_13_DAL_NO,__DavidOfficial,70
+2021_13_DAL_NO,_alendowsky,43
 2021_13_DAL_NO,_DH44_,0
 2021_13_DAL_NO,_jclemons,40
 2021_13_DAL_NO,_johnO2,0
@@ -66732,7 +66733,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,AJCachiaras,50
 2021_13_DAL_NO,AlexDBlack27,0
 2021_13_DAL_NO,alvespina,24
-2021_13_DAL_NO,alxfail,43
 2021_13_DAL_NO,AnalyticsLeo,35
 2021_13_DAL_NO,andreacasiragh1,21
 2021_13_DAL_NO,AndrewBurner,35
@@ -66950,6 +66950,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,YayySports,30
 2021_13_DAL_NO,YSchlepper,15
 2021_13_TB_ATL,__DavidOfficial,28
+2021_13_TB_ATL,_alendowsky,40
 2021_13_TB_ATL,_DH44_,0
 2021_13_TB_ATL,_jclemons,25
 2021_13_TB_ATL,_johnO2,0
@@ -66967,7 +66968,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,AlexDBlack27,0
 2021_13_TB_ATL,altspreadpsycho,15
 2021_13_TB_ATL,alvespina,10
-2021_13_TB_ATL,alxfail,40
 2021_13_TB_ATL,AnalyticsLeo,25
 2021_13_TB_ATL,andreacasiragh1,19
 2021_13_TB_ATL,AndrewBurner,20
@@ -67199,6 +67199,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,YSchlepper,0
 2021_13_TB_ATL,zweinberg18,10
 2021_13_ARI_CHI,__DavidOfficial,18
+2021_13_ARI_CHI,_alendowsky,45
 2021_13_ARI_CHI,_DH44_,0
 2021_13_ARI_CHI,_jclemons,27
 2021_13_ARI_CHI,_johnO2,0
@@ -67216,7 +67217,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,AlexDBlack27,37
 2021_13_ARI_CHI,altspreadpsycho,85
 2021_13_ARI_CHI,alvespina,31
-2021_13_ARI_CHI,alxfail,45
 2021_13_ARI_CHI,AnalyticsLeo,25
 2021_13_ARI_CHI,andreacasiragh1,25
 2021_13_ARI_CHI,AndrewBurner,26
@@ -67448,6 +67448,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,YSchlepper,25
 2021_13_ARI_CHI,zweinberg18,24
 2021_13_LAC_CIN,__DavidOfficial,65
+2021_13_LAC_CIN,_alendowsky,47
 2021_13_LAC_CIN,_DH44_,100
 2021_13_LAC_CIN,_jclemons,60
 2021_13_LAC_CIN,_johnO2,0
@@ -67465,7 +67466,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,AlexDBlack27,43
 2021_13_LAC_CIN,altspreadpsycho,15
 2021_13_LAC_CIN,alvespina,54
-2021_13_LAC_CIN,alxfail,47
 2021_13_LAC_CIN,AnalyticsLeo,42
 2021_13_LAC_CIN,andreacasiragh1,51
 2021_13_LAC_CIN,AndrewBurner,60
@@ -67697,6 +67697,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,YSchlepper,45
 2021_13_LAC_CIN,zweinberg18,48
 2021_13_MIN_DET,__DavidOfficial,26
+2021_13_MIN_DET,_alendowsky,40
 2021_13_MIN_DET,_DH44_,100
 2021_13_MIN_DET,_jclemons,32
 2021_13_MIN_DET,_johnO2,0
@@ -67714,7 +67715,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,AlexDBlack27,0
 2021_13_MIN_DET,altspreadpsycho,85
 2021_13_MIN_DET,alvespina,9
-2021_13_MIN_DET,alxfail,40
 2021_13_MIN_DET,AnalyticsLeo,35
 2021_13_MIN_DET,andreacasiragh1,26
 2021_13_MIN_DET,AndrewBurner,27
@@ -67946,6 +67946,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,YSchlepper,30
 2021_13_MIN_DET,zweinberg18,30
 2021_13_IND_HOU,__DavidOfficial,26
+2021_13_IND_HOU,_alendowsky,38
 2021_13_IND_HOU,_DH44_,0
 2021_13_IND_HOU,_jclemons,20
 2021_13_IND_HOU,_johnO2,0
@@ -67963,7 +67964,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,AlexDBlack27,35
 2021_13_IND_HOU,altspreadpsycho,15
 2021_13_IND_HOU,alvespina,19
-2021_13_IND_HOU,alxfail,38
 2021_13_IND_HOU,AnalyticsLeo,30
 2021_13_IND_HOU,andreacasiragh1,23
 2021_13_IND_HOU,AndrewBurner,22
@@ -68195,6 +68195,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,YSchlepper,20
 2021_13_IND_HOU,zweinberg18,31
 2021_13_NYG_MIA,__DavidOfficial,61
+2021_13_NYG_MIA,_alendowsky,55
 2021_13_NYG_MIA,_DH44_,100
 2021_13_NYG_MIA,_jclemons,59
 2021_13_NYG_MIA,_johnO2,100
@@ -68212,7 +68213,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,AlexDBlack27,44
 2021_13_NYG_MIA,altspreadpsycho,85
 2021_13_NYG_MIA,alvespina,54
-2021_13_NYG_MIA,alxfail,55
 2021_13_NYG_MIA,AnalyticsLeo,56
 2021_13_NYG_MIA,andreacasiragh1,72
 2021_13_NYG_MIA,AndrewBurner,64
@@ -68444,6 +68444,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,YSchlepper,65
 2021_13_NYG_MIA,zweinberg18,69
 2021_13_PHI_NYJ,__DavidOfficial,43
+2021_13_PHI_NYJ,_alendowsky,45
 2021_13_PHI_NYJ,_DH44_,0
 2021_13_PHI_NYJ,_jclemons,34
 2021_13_PHI_NYJ,_johnO2,0
@@ -68461,7 +68462,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,AlexDBlack27,0
 2021_13_PHI_NYJ,altspreadpsycho,85
 2021_13_PHI_NYJ,alvespina,22
-2021_13_PHI_NYJ,alxfail,45
 2021_13_PHI_NYJ,AnalyticsLeo,32
 2021_13_PHI_NYJ,andreacasiragh1,37
 2021_13_PHI_NYJ,AndrewBurner,29
@@ -68693,6 +68693,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,YSchlepper,40
 2021_13_PHI_NYJ,zweinberg18,43
 2021_13_JAX_LA,__DavidOfficial,100
+2021_13_JAX_LA,_alendowsky,49
 2021_13_JAX_LA,_DH44_,100
 2021_13_JAX_LA,_jclemons,62
 2021_13_JAX_LA,_johnO2,100
@@ -68710,7 +68711,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,AlexDBlack27,100
 2021_13_JAX_LA,altspreadpsycho,15
 2021_13_JAX_LA,alvespina,89
-2021_13_JAX_LA,alxfail,49
 2021_13_JAX_LA,AnalyticsLeo,68
 2021_13_JAX_LA,andreacasiragh1,99
 2021_13_JAX_LA,AndrewBurner,84
@@ -68942,6 +68942,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,YSchlepper,70
 2021_13_JAX_LA,zweinberg18,83
 2021_13_WAS_LV,__DavidOfficial,71
+2021_13_WAS_LV,_alendowsky,45
 2021_13_WAS_LV,_DH44_,0
 2021_13_WAS_LV,_jclemons,47
 2021_13_WAS_LV,_johnO2,0
@@ -68959,7 +68960,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,AlexDBlack27,64
 2021_13_WAS_LV,altspreadpsycho,15
 2021_13_WAS_LV,alvespina,53
-2021_13_WAS_LV,alxfail,45
 2021_13_WAS_LV,AnalyticsLeo,60
 2021_13_WAS_LV,andreacasiragh1,67
 2021_13_WAS_LV,AndrewBurner,59
@@ -69191,6 +69191,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,YSchlepper,35
 2021_13_WAS_LV,zweinberg18,56
 2021_13_BAL_PIT,__DavidOfficial,33
+2021_13_BAL_PIT,_alendowsky,47
 2021_13_BAL_PIT,_DH44_,0
 2021_13_BAL_PIT,_jclemons,38
 2021_13_BAL_PIT,_johnO2,0
@@ -69208,7 +69209,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,AlexDBlack27,56
 2021_13_BAL_PIT,altspreadpsycho,85
 2021_13_BAL_PIT,alvespina,29
-2021_13_BAL_PIT,alxfail,47
 2021_13_BAL_PIT,AnalyticsLeo,32
 2021_13_BAL_PIT,andreacasiragh1,34
 2021_13_BAL_PIT,AndrewBurner,35
@@ -69440,6 +69440,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,YSchlepper,30
 2021_13_BAL_PIT,zweinberg18,39
 2021_13_SF_SEA,__DavidOfficial,33
+2021_13_SF_SEA,_alendowsky,43
 2021_13_SF_SEA,_DH44_,0
 2021_13_SF_SEA,_jclemons,39
 2021_13_SF_SEA,_johnO2,0
@@ -69457,7 +69458,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,AlexDBlack27,44
 2021_13_SF_SEA,altspreadpsycho,85
 2021_13_SF_SEA,alvespina,70
-2021_13_SF_SEA,alxfail,43
 2021_13_SF_SEA,AnalyticsLeo,30
 2021_13_SF_SEA,andreacasiragh1,40
 2021_13_SF_SEA,AndrewBurner,39
@@ -69689,6 +69689,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,YSchlepper,30
 2021_13_SF_SEA,zweinberg18,37
 2021_13_DEN_KC,__DavidOfficial,75
+2021_13_DEN_KC,_alendowsky,55
 2021_13_DEN_KC,_DH44_,100
 2021_13_DEN_KC,_jclemons,57
 2021_13_DEN_KC,_johnO2,100
@@ -69706,7 +69707,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,AlexDBlack27,100
 2021_13_DEN_KC,altspreadpsycho,85
 2021_13_DEN_KC,alvespina,67
-2021_13_DEN_KC,alxfail,55
 2021_13_DEN_KC,AnalyticsLeo,64
 2021_13_DEN_KC,andreacasiragh1,79
 2021_13_DEN_KC,AndrewBurner,81
@@ -69938,6 +69938,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,YSchlepper,70
 2021_13_DEN_KC,zweinberg18,67
 2021_13_NE_BUF,__DavidOfficial,45
+2021_13_NE_BUF,_alendowsky,43
 2021_13_NE_BUF,_DH44_,100
 2021_13_NE_BUF,_jclemons,47
 2021_13_NE_BUF,_johnO2,100
@@ -69955,7 +69956,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,AlexDBlack27,100
 2021_13_NE_BUF,altspreadpsycho,50
 2021_13_NE_BUF,alvespina,46
-2021_13_NE_BUF,alxfail,43
 2021_13_NE_BUF,AnalyticsLeo,56
 2021_13_NE_BUF,andreacasiragh1,50
 2021_13_NE_BUF,AndrewBurner,52
@@ -70189,6 +70189,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,YSchlepper,35
 2021_13_NE_BUF,zweinberg18,45
 2021_14_PIT_MIN,__DavidOfficial,42
+2021_14_PIT_MIN,_alendowsky,52
 2021_14_PIT_MIN,_DH44_,50
 2021_14_PIT_MIN,_jclemons,47
 2021_14_PIT_MIN,_johnO2,50
@@ -70203,7 +70204,6 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,ajaypatell8,59
 2021_14_PIT_MIN,AJCachiaras,87
 2021_14_PIT_MIN,alvespina,59
-2021_14_PIT_MIN,alxfail,52
 2021_14_PIT_MIN,AnalyticsLeo,55
 2021_14_PIT_MIN,andreacasiragh1,45
 2021_14_PIT_MIN,AndrewBurner,69
@@ -70401,6 +70401,7 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,YayySports,66
 2021_14_PIT_MIN,zweinberg18,61
 2021_14_ATL_CAR,__DavidOfficial,42
+2021_14_ATL_CAR,_alendowsky,48
 2021_14_ATL_CAR,_DH44_,50
 2021_14_ATL_CAR,_jclemons,54
 2021_14_ATL_CAR,_johnO2,51
@@ -70415,7 +70416,6 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,ajaypatell8,53
 2021_14_ATL_CAR,AJCachiaras,62
 2021_14_ATL_CAR,alvespina,45
-2021_14_ATL_CAR,alxfail,48
 2021_14_ATL_CAR,AnalyticsLeo,40
 2021_14_ATL_CAR,andreacasiragh1,50
 2021_14_ATL_CAR,AndrewBurner,60
@@ -70628,6 +70628,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,YayySports,68
 2021_14_ATL_CAR,zweinberg18,61
 2021_14_BAL_CLE,__DavidOfficial,44
+2021_14_BAL_CLE,_alendowsky,51
 2021_14_BAL_CLE,_DH44_,50
 2021_14_BAL_CLE,_jclemons,49
 2021_14_BAL_CLE,_johnO2,51
@@ -70642,7 +70643,6 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,ajaypatell8,48
 2021_14_BAL_CLE,AJCachiaras,53
 2021_14_BAL_CLE,alvespina,44
-2021_14_BAL_CLE,alxfail,51
 2021_14_BAL_CLE,AnalyticsLeo,35
 2021_14_BAL_CLE,andreacasiragh1,50
 2021_14_BAL_CLE,AndrewBurner,52
@@ -70855,6 +70855,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,YayySports,51
 2021_14_BAL_CLE,zweinberg18,40
 2021_14_SEA_HOU,__DavidOfficial,22
+2021_14_SEA_HOU,_alendowsky,42
 2021_14_SEA_HOU,_DH44_,50
 2021_14_SEA_HOU,_jclemons,33
 2021_14_SEA_HOU,_johnO2,0
@@ -70869,7 +70870,6 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,ajaypatell8,28
 2021_14_SEA_HOU,AJCachiaras,35
 2021_14_SEA_HOU,alvespina,20
-2021_14_SEA_HOU,alxfail,42
 2021_14_SEA_HOU,AnalyticsLeo,33
 2021_14_SEA_HOU,andreacasiragh1,22
 2021_14_SEA_HOU,AndrewBurner,31
@@ -71082,6 +71082,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,YayySports,19
 2021_14_SEA_HOU,zweinberg18,42
 2021_14_LV_KC,__DavidOfficial,50
+2021_14_LV_KC,_alendowsky,55
 2021_14_LV_KC,_DH44_,50
 2021_14_LV_KC,_jclemons,73
 2021_14_LV_KC,_johnO2,100
@@ -71096,7 +71097,6 @@ game_id,screen_name,prediction
 2021_14_LV_KC,ajaypatell8,76
 2021_14_LV_KC,AJCachiaras,46
 2021_14_LV_KC,alvespina,62
-2021_14_LV_KC,alxfail,55
 2021_14_LV_KC,AnalyticsLeo,60
 2021_14_LV_KC,andreacasiragh1,86
 2021_14_LV_KC,AndrewBurner,78
@@ -71309,6 +71309,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,YayySports,79
 2021_14_LV_KC,zweinberg18,74
 2021_14_NO_NYJ,__DavidOfficial,50
+2021_14_NO_NYJ,_alendowsky,51
 2021_14_NO_NYJ,_DH44_,50
 2021_14_NO_NYJ,_jclemons,35
 2021_14_NO_NYJ,_johnO2,0
@@ -71323,7 +71324,6 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,ajaypatell8,34
 2021_14_NO_NYJ,AJCachiaras,46
 2021_14_NO_NYJ,alvespina,35
-2021_14_NO_NYJ,alxfail,51
 2021_14_NO_NYJ,AnalyticsLeo,40
 2021_14_NO_NYJ,andreacasiragh1,35
 2021_14_NO_NYJ,AndrewBurner,33
@@ -71536,6 +71536,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,YayySports,25
 2021_14_NO_NYJ,zweinberg18,41
 2021_14_JAX_TEN,__DavidOfficial,50
+2021_14_JAX_TEN,_alendowsky,58
 2021_14_JAX_TEN,_DH44_,50
 2021_14_JAX_TEN,_jclemons,70
 2021_14_JAX_TEN,_johnO2,100
@@ -71550,7 +71551,6 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,ajaypatell8,85
 2021_14_JAX_TEN,AJCachiaras,72
 2021_14_JAX_TEN,alvespina,73
-2021_14_JAX_TEN,alxfail,58
 2021_14_JAX_TEN,AnalyticsLeo,70
 2021_14_JAX_TEN,andreacasiragh1,71
 2021_14_JAX_TEN,AndrewBurner,84
@@ -71763,6 +71763,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,YayySports,86
 2021_14_JAX_TEN,zweinberg18,64
 2021_14_DAL_WAS,__DavidOfficial,50
+2021_14_DAL_WAS,_alendowsky,51
 2021_14_DAL_WAS,_DH44_,50
 2021_14_DAL_WAS,_jclemons,33
 2021_14_DAL_WAS,_johnO2,0
@@ -71777,7 +71778,6 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,ajaypatell8,31
 2021_14_DAL_WAS,AJCachiaras,38
 2021_14_DAL_WAS,alvespina,33
-2021_14_DAL_WAS,alxfail,51
 2021_14_DAL_WAS,AnalyticsLeo,34
 2021_14_DAL_WAS,andreacasiragh1,24
 2021_14_DAL_WAS,AndrewBurner,37
@@ -71990,6 +71990,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,YayySports,33
 2021_14_DAL_WAS,zweinberg18,33
 2021_14_DET_DEN,__DavidOfficial,50
+2021_14_DET_DEN,_alendowsky,51
 2021_14_DET_DEN,_DH44_,50
 2021_14_DET_DEN,_jclemons,80
 2021_14_DET_DEN,_johnO2,100
@@ -72005,7 +72006,6 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,ajaypatell8,88
 2021_14_DET_DEN,AJCachiaras,57
 2021_14_DET_DEN,alvespina,74
-2021_14_DET_DEN,alxfail,51
 2021_14_DET_DEN,AnalyticsLeo,65
 2021_14_DET_DEN,andreacasiragh1,83
 2021_14_DET_DEN,AndrewBurner,84
@@ -72218,6 +72218,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,YayySports,81
 2021_14_DET_DEN,zweinberg18,62
 2021_14_NYG_LAC,__DavidOfficial,50
+2021_14_NYG_LAC,_alendowsky,58
 2021_14_NYG_LAC,_DH44_,50
 2021_14_NYG_LAC,_jclemons,75
 2021_14_NYG_LAC,_johnO2,100
@@ -72233,7 +72234,6 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,ajaypatell8,80
 2021_14_NYG_LAC,AJCachiaras,74
 2021_14_NYG_LAC,alvespina,4
-2021_14_NYG_LAC,alxfail,58
 2021_14_NYG_LAC,AnalyticsLeo,74
 2021_14_NYG_LAC,andreacasiragh1,83
 2021_14_NYG_LAC,AndrewBurner,78
@@ -72446,6 +72446,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,YayySports,75
 2021_14_NYG_LAC,zweinberg18,83
 2021_14_SF_CIN,__DavidOfficial,50
+2021_14_SF_CIN,_alendowsky,48
 2021_14_SF_CIN,_DH44_,50
 2021_14_SF_CIN,_jclemons,51
 2021_14_SF_CIN,_johnO2,52
@@ -72461,7 +72462,6 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,ajaypatell8,48
 2021_14_SF_CIN,AJCachiaras,46
 2021_14_SF_CIN,alvespina,43
-2021_14_SF_CIN,alxfail,48
 2021_14_SF_CIN,AnalyticsLeo,42
 2021_14_SF_CIN,andreacasiragh1,75
 2021_14_SF_CIN,AndrewBurner,45
@@ -72675,6 +72675,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,YayySports,50
 2021_14_SF_CIN,zweinberg18,60
 2021_14_BUF_TB,__DavidOfficial,50
+2021_14_BUF_TB,_alendowsky,55
 2021_14_BUF_TB,_DH44_,50
 2021_14_BUF_TB,_jclemons,47
 2021_14_BUF_TB,_johnO2,100
@@ -72690,7 +72691,6 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,ajaypatell8,58
 2021_14_BUF_TB,AJCachiaras,64
 2021_14_BUF_TB,alvespina,19
-2021_14_BUF_TB,alxfail,55
 2021_14_BUF_TB,AnalyticsLeo,60
 2021_14_BUF_TB,andreacasiragh1,63
 2021_14_BUF_TB,AndrewBurner,63
@@ -72904,6 +72904,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,YayySports,46
 2021_14_BUF_TB,zweinberg18,67
 2021_14_CHI_GB,__DavidOfficial,50
+2021_14_CHI_GB,_alendowsky,65
 2021_14_CHI_GB,_DH44_,50
 2021_14_CHI_GB,_jclemons,76
 2021_14_CHI_GB,_johnO2,100
@@ -72919,7 +72920,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,ajaypatell8,100
 2021_14_CHI_GB,AJCachiaras,73
 2021_14_CHI_GB,alvespina,81
-2021_14_CHI_GB,alxfail,65
 2021_14_CHI_GB,AnalyticsLeo,80
 2021_14_CHI_GB,andreacasiragh1,100
 2021_14_CHI_GB,AndrewBurner,84
@@ -73134,6 +73134,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,YayySports,86
 2021_14_CHI_GB,zweinberg18,76
 2021_14_LA_ARI,__DavidOfficial,50
+2021_14_LA_ARI,_alendowsky,55
 2021_14_LA_ARI,_DH44_,50
 2021_14_LA_ARI,_jclemons,61
 2021_14_LA_ARI,_johnO2,48
@@ -73149,7 +73150,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,ajaypatell8,64
 2021_14_LA_ARI,AJCachiaras,62
 2021_14_LA_ARI,alvespina,65
-2021_14_LA_ARI,alxfail,55
 2021_14_LA_ARI,AnalyticsLeo,65
 2021_14_LA_ARI,andreacasiragh1,50
 2021_14_LA_ARI,AndrewBurner,65
@@ -73364,6 +73364,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,Yannismiu,39
 2021_14_LA_ARI,YayySports,64
 2021_14_LA_ARI,zweinberg18,66
+2021_15_KC_LAC,_alendowsky,45
 2021_15_KC_LAC,_DH44_,0
 2021_15_KC_LAC,_jclemons,42
 2021_15_KC_LAC,_johnO2,0
@@ -73376,7 +73377,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,ajaypatell8,35
 2021_15_KC_LAC,AJCachiaras,41
 2021_15_KC_LAC,alvespina,63
-2021_15_KC_LAC,alxfail,45
 2021_15_KC_LAC,AnalyticsLeo,40
 2021_15_KC_LAC,andreacasiragh1,50
 2021_15_KC_LAC,AndrewBurner,34
@@ -73561,6 +73561,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,Yannismiu,31
 2021_15_KC_LAC,YayySports,46
 2021_15_KC_LAC,zweinberg18,55
+2021_15_NE_IND,_alendowsky,48
 2021_15_NE_IND,_DH44_,46
 2021_15_NE_IND,_jclemons,43
 2021_15_NE_IND,_johnO2,100
@@ -73573,7 +73574,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,ajaypatell8,54
 2021_15_NE_IND,AJCachiaras,44
 2021_15_NE_IND,alvespina,50
-2021_15_NE_IND,alxfail,48
 2021_15_NE_IND,AnalyticsLeo,40
 2021_15_NE_IND,andreacasiragh1,47
 2021_15_NE_IND,AndrewBurner,43
@@ -73772,6 +73772,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,Yannismiu,2
 2021_15_NE_IND,YayySports,49
 2021_15_NE_IND,zweinberg18,37
+2021_15_CAR_BUF,_alendowsky,100
 2021_15_CAR_BUF,_DH44_,60
 2021_15_CAR_BUF,_jclemons,80
 2021_15_CAR_BUF,_johnO2,100
@@ -73785,7 +73786,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,ajaypatell8,90
 2021_15_CAR_BUF,AJCachiaras,72
 2021_15_CAR_BUF,alvespina,50
-2021_15_CAR_BUF,alxfail,100
 2021_15_CAR_BUF,AnalyticsLeo,75
 2021_15_CAR_BUF,andreacasiragh1,85
 2021_15_CAR_BUF,AndrewBurner,82
@@ -73987,6 +73987,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,Yannismiu,98
 2021_15_CAR_BUF,YayySports,87
 2021_15_CAR_BUF,zweinberg18,74
+2021_15_ARI_DET,_alendowsky,0
 2021_15_ARI_DET,_DH44_,0
 2021_15_ARI_DET,_jclemons,22
 2021_15_ARI_DET,_johnO2,0
@@ -74000,7 +74001,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,ajaypatell8,9
 2021_15_ARI_DET,AJCachiaras,14
 2021_15_ARI_DET,alvespina,50
-2021_15_ARI_DET,alxfail,0
 2021_15_ARI_DET,AnalyticsLeo,15
 2021_15_ARI_DET,andreacasiragh1,0
 2021_15_ARI_DET,AndrewBurner,16
@@ -74202,6 +74202,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,Yannismiu,2
 2021_15_ARI_DET,YayySports,11
 2021_15_ARI_DET,zweinberg18,9
+2021_15_HOU_JAX,_alendowsky,55
 2021_15_HOU_JAX,_DH44_,52
 2021_15_HOU_JAX,_jclemons,49
 2021_15_HOU_JAX,_johnO2,100
@@ -74215,7 +74216,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,ajaypatell8,67
 2021_15_HOU_JAX,AJCachiaras,42
 2021_15_HOU_JAX,alvespina,50
-2021_15_HOU_JAX,alxfail,55
 2021_15_HOU_JAX,AnalyticsLeo,42
 2021_15_HOU_JAX,andreacasiragh1,76
 2021_15_HOU_JAX,AndrewBurner,67
@@ -74417,6 +74417,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,Yannismiu,41
 2021_15_HOU_JAX,YayySports,64
 2021_15_HOU_JAX,zweinberg18,54
+2021_15_NYJ_MIA,_alendowsky,100
 2021_15_NYJ_MIA,_DH44_,52
 2021_15_NYJ_MIA,_jclemons,66
 2021_15_NYJ_MIA,_johnO2,100
@@ -74430,7 +74431,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,ajaypatell8,80
 2021_15_NYJ_MIA,AJCachiaras,54
 2021_15_NYJ_MIA,alvespina,50
-2021_15_NYJ_MIA,alxfail,100
 2021_15_NYJ_MIA,AnalyticsLeo,65
 2021_15_NYJ_MIA,andreacasiragh1,82
 2021_15_NYJ_MIA,AndrewBurner,78
@@ -74632,6 +74632,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,Yannismiu,82
 2021_15_NYJ_MIA,YayySports,82
 2021_15_NYJ_MIA,zweinberg18,90
+2021_15_DAL_NYG,_alendowsky,0
 2021_15_DAL_NYG,_DH44_,0
 2021_15_DAL_NYG,_jclemons,34
 2021_15_DAL_NYG,_johnO2,0
@@ -74645,7 +74646,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,ajaypatell8,13
 2021_15_DAL_NYG,AJCachiaras,28
 2021_15_DAL_NYG,alvespina,50
-2021_15_DAL_NYG,alxfail,0
 2021_15_DAL_NYG,AnalyticsLeo,20
 2021_15_DAL_NYG,andreacasiragh1,15
 2021_15_DAL_NYG,AndrewBurner,19
@@ -74847,6 +74847,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,Yannismiu,54
 2021_15_DAL_NYG,YayySports,25
 2021_15_DAL_NYG,zweinberg18,31
+2021_15_TEN_PIT,_alendowsky,48
 2021_15_TEN_PIT,_DH44_,51
 2021_15_TEN_PIT,_jclemons,48
 2021_15_TEN_PIT,_johnO2,100
@@ -74860,7 +74861,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,ajaypatell8,49
 2021_15_TEN_PIT,AJCachiaras,38
 2021_15_TEN_PIT,alvespina,50
-2021_15_TEN_PIT,alxfail,48
 2021_15_TEN_PIT,AnalyticsLeo,45
 2021_15_TEN_PIT,andreacasiragh1,50
 2021_15_TEN_PIT,AndrewBurner,50
@@ -75062,6 +75062,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,Yannismiu,29
 2021_15_TEN_PIT,YayySports,46
 2021_15_TEN_PIT,zweinberg18,43
+2021_15_CIN_DEN,_alendowsky,55
 2021_15_CIN_DEN,_DH44_,51
 2021_15_CIN_DEN,_jclemons,48
 2021_15_CIN_DEN,_johnO2,0
@@ -75075,7 +75076,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,ajaypatell8,58
 2021_15_CIN_DEN,AJCachiaras,100
 2021_15_CIN_DEN,alvespina,50
-2021_15_CIN_DEN,alxfail,55
 2021_15_CIN_DEN,AnalyticsLeo,38
 2021_15_CIN_DEN,andreacasiragh1,38
 2021_15_CIN_DEN,AndrewBurner,60
@@ -75279,6 +75279,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,Yannismiu,43
 2021_15_CIN_DEN,YayySports,54
 2021_15_CIN_DEN,zweinberg18,43
+2021_15_ATL_SF,_alendowsky,55
 2021_15_ATL_SF,_DH44_,54
 2021_15_ATL_SF,_jclemons,67
 2021_15_ATL_SF,_johnO2,100
@@ -75292,7 +75293,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,ajaypatell8,80
 2021_15_ATL_SF,AJCachiaras,65
 2021_15_ATL_SF,alvespina,50
-2021_15_ATL_SF,alxfail,55
 2021_15_ATL_SF,AnalyticsLeo,76
 2021_15_ATL_SF,andreacasiragh1,72
 2021_15_ATL_SF,AndrewBurner,77
@@ -75496,6 +75496,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,Yannismiu,79
 2021_15_ATL_SF,YayySports,80
 2021_15_ATL_SF,zweinberg18,82
+2021_15_GB_BAL,_alendowsky,40
 2021_15_GB_BAL,_DH44_,52
 2021_15_GB_BAL,_jclemons,26
 2021_15_GB_BAL,_johnO2,0
@@ -75509,7 +75510,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,ajaypatell8,24
 2021_15_GB_BAL,AJCachiaras,28
 2021_15_GB_BAL,alvespina,50
-2021_15_GB_BAL,alxfail,40
 2021_15_GB_BAL,AnalyticsLeo,32
 2021_15_GB_BAL,andreacasiragh1,17
 2021_15_GB_BAL,AndrewBurner,23
@@ -75713,6 +75713,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,Yannismiu,39
 2021_15_GB_BAL,YayySports,41
 2021_15_GB_BAL,zweinberg18,55
+2021_15_NO_TB,_alendowsky,55
 2021_15_NO_TB,_DH44_,64
 2021_15_NO_TB,_jclemons,70
 2021_15_NO_TB,_johnO2,100
@@ -75726,7 +75727,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,ajaypatell8,82
 2021_15_NO_TB,AJCachiaras,65
 2021_15_NO_TB,alvespina,50
-2021_15_NO_TB,alxfail,55
 2021_15_NO_TB,AnalyticsLeo,81
 2021_15_NO_TB,andreacasiragh1,100
 2021_15_NO_TB,AndrewBurner,81
@@ -75931,6 +75931,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,Yannismiu,81
 2021_15_NO_TB,YayySports,80
 2021_15_NO_TB,zweinberg18,83
+2021_15_LV_CLE,_alendowsky,55
 2021_15_LV_CLE,_DH44_,42
 2021_15_LV_CLE,_jclemons,48
 2021_15_LV_CLE,_johnO2,100
@@ -75944,7 +75945,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,ajaypatell8,44
 2021_15_LV_CLE,AJCachiaras,35
 2021_15_LV_CLE,alvespina,50
-2021_15_LV_CLE,alxfail,55
 2021_15_LV_CLE,AnalyticsLeo,70
 2021_15_LV_CLE,andreacasiragh1,50
 2021_15_LV_CLE,AndrewBurner,47
@@ -76152,6 +76152,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,Yannismiu,32
 2021_15_LV_CLE,YayySports,68
 2021_15_LV_CLE,zweinberg18,55
+2021_15_MIN_CHI,_alendowsky,45
 2021_15_MIN_CHI,_DH44_,49
 2021_15_MIN_CHI,_jclemons,34
 2021_15_MIN_CHI,_johnO2,100
@@ -76165,7 +76166,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,ajaypatell8,25
 2021_15_MIN_CHI,AJCachiaras,41
 2021_15_MIN_CHI,alvespina,50
-2021_15_MIN_CHI,alxfail,45
 2021_15_MIN_CHI,AnalyticsLeo,32
 2021_15_MIN_CHI,andreacasiragh1,37
 2021_15_MIN_CHI,AndrewBurner,24
@@ -76373,6 +76373,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,Yannismiu,28
 2021_15_MIN_CHI,YayySports,34
 2021_15_MIN_CHI,zweinberg18,37
+2021_15_SEA_LA,_alendowsky,55
 2021_15_SEA_LA,_DH44_,55
 2021_15_SEA_LA,_jclemons,69
 2021_15_SEA_LA,_johnO2,100
@@ -76386,7 +76387,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,ajaypatell8,74
 2021_15_SEA_LA,AJCachiaras,69
 2021_15_SEA_LA,alvespina,50
-2021_15_SEA_LA,alxfail,55
 2021_15_SEA_LA,analytacist,56
 2021_15_SEA_LA,AnalyticsLeo,64
 2021_15_SEA_LA,andreacasiragh1,75
@@ -76595,6 +76595,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,Yannismiu,73
 2021_15_SEA_LA,YayySports,70
 2021_15_SEA_LA,zweinberg18,72
+2021_15_WAS_PHI,_alendowsky,55
 2021_15_WAS_PHI,_DH44_,59
 2021_15_WAS_PHI,_jclemons,65
 2021_15_WAS_PHI,_johnO2,100
@@ -76608,7 +76609,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,ajaypatell8,81
 2021_15_WAS_PHI,AJCachiaras,62
 2021_15_WAS_PHI,alvespina,50
-2021_15_WAS_PHI,alxfail,55
 2021_15_WAS_PHI,analytacist,39
 2021_15_WAS_PHI,AnalyticsLeo,66
 2021_15_WAS_PHI,andreacasiragh1,68
@@ -76817,6 +76817,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,Yannismiu,32
 2021_15_WAS_PHI,YayySports,68
 2021_15_WAS_PHI,zweinberg18,63
+2021_16_SF_TEN,_alendowsky,40
 2021_16_SF_TEN,_DH44_,50
 2021_16_SF_TEN,_jclemons,28
 2021_16_SF_TEN,_johnO2,100
@@ -76827,7 +76828,6 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,adiramani84,50
 2021_16_SF_TEN,ajaypatell8,30
 2021_16_SF_TEN,AJCachiaras,36
-2021_16_SF_TEN,alxfail,40
 2021_16_SF_TEN,analytacist,60
 2021_16_SF_TEN,AnalyticsLeo,50
 2021_16_SF_TEN,andreacasiragh1,38
@@ -76996,6 +76996,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,Yannismiu,24
 2021_16_SF_TEN,YayySports,49
 2021_16_SF_TEN,zweinberg18,44
+2021_16_CLE_GB,_alendowsky,55
 2021_16_CLE_GB,_DH44_,52
 2021_16_CLE_GB,_jclemons,81
 2021_16_CLE_GB,_johnO2,100
@@ -77008,7 +77009,6 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,adiramani84,50
 2021_16_CLE_GB,ajaypatell8,80
 2021_16_CLE_GB,AJCachiaras,69
-2021_16_CLE_GB,alxfail,55
 2021_16_CLE_GB,analytacist,80
 2021_16_CLE_GB,AnalyticsLeo,75
 2021_16_CLE_GB,andreacasiragh1,86
@@ -77182,6 +77182,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,Yannismiu,80
 2021_16_CLE_GB,YayySports,72
 2021_16_CLE_GB,zweinberg18,69
+2021_16_IND_ARI,_alendowsky,45
 2021_16_IND_ARI,_DH44_,47
 2021_16_IND_ARI,_jclemons,40
 2021_16_IND_ARI,_johnO2,0
@@ -77194,7 +77195,6 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,adiramani84,50
 2021_16_IND_ARI,ajaypatell8,58
 2021_16_IND_ARI,AJCachiaras,43
-2021_16_IND_ARI,alxfail,45
 2021_16_IND_ARI,analytacist,47
 2021_16_IND_ARI,AnalyticsLeo,70
 2021_16_IND_ARI,andreacasiragh1,70
@@ -77370,6 +77370,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,Yannismiu,43
 2021_16_IND_ARI,YayySports,53
 2021_16_IND_ARI,zweinberg18,42
+2021_16_DET_ATL,_alendowsky,48
 2021_16_DET_ATL,_DH44_,49
 2021_16_DET_ATL,_jclemons,65
 2021_16_DET_ATL,_johnO2,100
@@ -77382,7 +77383,6 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,adiramani84,50
 2021_16_DET_ATL,ajaypatell8,80
 2021_16_DET_ATL,AJCachiaras,64
-2021_16_DET_ATL,alxfail,48
 2021_16_DET_ATL,analytacist,47
 2021_16_DET_ATL,AnalyticsLeo,58
 2021_16_DET_ATL,andreacasiragh1,50
@@ -77563,6 +77563,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,Yannismiu,36
 2021_16_DET_ATL,YayySports,64
 2021_16_DET_ATL,zweinberg18,56
+2021_16_TB_CAR,_alendowsky,45
 2021_16_TB_CAR,_DH44_,45
 2021_16_TB_CAR,_jclemons,24
 2021_16_TB_CAR,_johnO2,0
@@ -77575,7 +77576,6 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,adiramani84,50
 2021_16_TB_CAR,ajaypatell8,20
 2021_16_TB_CAR,AJCachiaras,24
-2021_16_TB_CAR,alxfail,45
 2021_16_TB_CAR,analytacist,10
 2021_16_TB_CAR,AnalyticsLeo,12
 2021_16_TB_CAR,andreacasiragh1,50
@@ -77756,6 +77756,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,Yannismiu,2
 2021_16_TB_CAR,YayySports,20
 2021_16_TB_CAR,zweinberg18,15
+2021_16_BAL_CIN,_alendowsky,58
 2021_16_BAL_CIN,_DH44_,52
 2021_16_BAL_CIN,_jclemons,71
 2021_16_BAL_CIN,_johnO2,100
@@ -77768,7 +77769,6 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,adiramani84,50
 2021_16_BAL_CIN,ajaypatell8,74
 2021_16_BAL_CIN,AJCachiaras,43
-2021_16_BAL_CIN,alxfail,58
 2021_16_BAL_CIN,analytacist,53
 2021_16_BAL_CIN,AnalyticsLeo,40
 2021_16_BAL_CIN,andreacasiragh1,50
@@ -77949,6 +77949,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,Yannismiu,65
 2021_16_BAL_CIN,YayySports,53
 2021_16_BAL_CIN,zweinberg18,48
+2021_16_LAC_HOU,_alendowsky,0
 2021_16_LAC_HOU,_DH44_,22
 2021_16_LAC_HOU,_jclemons,14
 2021_16_LAC_HOU,_johnO2,0
@@ -77961,7 +77962,6 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,adiramani84,50
 2021_16_LAC_HOU,ajaypatell8,17
 2021_16_LAC_HOU,AJCachiaras,23
-2021_16_LAC_HOU,alxfail,0
 2021_16_LAC_HOU,analytacist,20
 2021_16_LAC_HOU,AnalyticsLeo,18
 2021_16_LAC_HOU,andreacasiragh1,50
@@ -78142,6 +78142,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,Yannismiu,2
 2021_16_LAC_HOU,YayySports,14
 2021_16_LAC_HOU,zweinberg18,23
+2021_16_LA_MIN,_alendowsky,45
 2021_16_LA_MIN,_DH44_,48
 2021_16_LA_MIN,_jclemons,43
 2021_16_LA_MIN,_johnO2,0
@@ -78154,7 +78155,6 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,adiramani84,50
 2021_16_LA_MIN,ajaypatell8,39
 2021_16_LA_MIN,AJCachiaras,44
-2021_16_LA_MIN,alxfail,45
 2021_16_LA_MIN,analytacist,55
 2021_16_LA_MIN,AnalyticsLeo,35
 2021_16_LA_MIN,andreacasiragh1,50
@@ -78335,6 +78335,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,Yannismiu,38
 2021_16_LA_MIN,YayySports,45
 2021_16_LA_MIN,zweinberg18,38
+2021_16_BUF_NE,_alendowsky,55
 2021_16_BUF_NE,_DH44_,52
 2021_16_BUF_NE,_jclemons,55
 2021_16_BUF_NE,_johnO2,0
@@ -78347,7 +78348,6 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,adiramani84,50
 2021_16_BUF_NE,ajaypatell8,48
 2021_16_BUF_NE,AJCachiaras,41
-2021_16_BUF_NE,alxfail,55
 2021_16_BUF_NE,analytacist,60
 2021_16_BUF_NE,AnalyticsLeo,36
 2021_16_BUF_NE,andreacasiragh1,50
@@ -78528,6 +78528,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,Yannismiu,98
 2021_16_BUF_NE,YayySports,53
 2021_16_BUF_NE,zweinberg18,58
+2021_16_JAX_NYJ,_alendowsky,55
 2021_16_JAX_NYJ,_DH44_,43
 2021_16_JAX_NYJ,_jclemons,49
 2021_16_JAX_NYJ,_johnO2,0
@@ -78540,7 +78541,6 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,adiramani84,50
 2021_16_JAX_NYJ,ajaypatell8,54
 2021_16_JAX_NYJ,AJCachiaras,44
-2021_16_JAX_NYJ,alxfail,55
 2021_16_JAX_NYJ,analytacist,70
 2021_16_JAX_NYJ,AnalyticsLeo,42
 2021_16_JAX_NYJ,andreacasiragh1,50
@@ -78721,6 +78721,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,Yannismiu,65
 2021_16_JAX_NYJ,YayySports,53
 2021_16_JAX_NYJ,zweinberg18,60
+2021_16_NYG_PHI,_alendowsky,55
 2021_16_NYG_PHI,_DH44_,54
 2021_16_NYG_PHI,_jclemons,70
 2021_16_NYG_PHI,_johnO2,100
@@ -78733,7 +78734,6 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,adiramani84,50
 2021_16_NYG_PHI,ajaypatell8,79
 2021_16_NYG_PHI,AJCachiaras,68
-2021_16_NYG_PHI,alxfail,55
 2021_16_NYG_PHI,analytacist,65
 2021_16_NYG_PHI,AnalyticsLeo,70
 2021_16_NYG_PHI,andreacasiragh1,50
@@ -78914,6 +78914,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,Yannismiu,47
 2021_16_NYG_PHI,YayySports,78
 2021_16_NYG_PHI,zweinberg18,82
+2021_16_CHI_SEA,_alendowsky,55
 2021_16_CHI_SEA,_DH44_,52
 2021_16_CHI_SEA,_jclemons,61
 2021_16_CHI_SEA,_johnO2,100
@@ -78926,7 +78927,6 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,adiramani84,50
 2021_16_CHI_SEA,ajaypatell8,80
 2021_16_CHI_SEA,AJCachiaras,57
-2021_16_CHI_SEA,alxfail,55
 2021_16_CHI_SEA,analytacist,80
 2021_16_CHI_SEA,AnalyticsLeo,62
 2021_16_CHI_SEA,andreacasiragh1,50
@@ -79111,6 +79111,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,Yannismiu,66
 2021_16_CHI_SEA,YayySports,75
 2021_16_CHI_SEA,zweinberg18,61
+2021_16_PIT_KC,_alendowsky,98
 2021_16_PIT_KC,_DH44_,79
 2021_16_PIT_KC,_jclemons,74
 2021_16_PIT_KC,_johnO2,100
@@ -79123,7 +79124,6 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,adiramani84,50
 2021_16_PIT_KC,ajaypatell8,85
 2021_16_PIT_KC,AJCachiaras,78
-2021_16_PIT_KC,alxfail,98
 2021_16_PIT_KC,analytacist,60
 2021_16_PIT_KC,AnalyticsLeo,68
 2021_16_PIT_KC,andreacasiragh1,50
@@ -79308,6 +79308,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,Yannismiu,85
 2021_16_PIT_KC,YayySports,81
 2021_16_PIT_KC,zweinberg18,80
+2021_16_DEN_LV,_alendowsky,0
 2021_16_DEN_LV,_DH44_,46
 2021_16_DEN_LV,_jclemons,52
 2021_16_DEN_LV,_johnO2,100
@@ -79320,7 +79321,6 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,adiramani84,50
 2021_16_DEN_LV,ajaypatell8,46
 2021_16_DEN_LV,AJCachiaras,58
-2021_16_DEN_LV,alxfail,0
 2021_16_DEN_LV,analytacist,45
 2021_16_DEN_LV,AnalyticsLeo,55
 2021_16_DEN_LV,andreacasiragh1,50
@@ -79505,6 +79505,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,Yannismiu,45
 2021_16_DEN_LV,YayySports,49
 2021_16_DEN_LV,zweinberg18,57
+2021_16_WAS_DAL,_alendowsky,53
 2021_16_WAS_DAL,_DH44_,100
 2021_16_WAS_DAL,_jclemons,69
 2021_16_WAS_DAL,_johnO2,100
@@ -79517,7 +79518,6 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,adiramani84,50
 2021_16_WAS_DAL,ajaypatell8,77
 2021_16_WAS_DAL,AJCachiaras,76
-2021_16_WAS_DAL,alxfail,53
 2021_16_WAS_DAL,analytacist,70
 2021_16_WAS_DAL,AnalyticsLeo,70
 2021_16_WAS_DAL,andreacasiragh1,98
@@ -79704,6 +79704,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,Yannismiu,81
 2021_16_WAS_DAL,YayySports,81
 2021_16_WAS_DAL,zweinberg18,77
+2021_16_MIA_NO,_alendowsky,0
 2021_16_MIA_NO,_DH44_,46
 2021_16_MIA_NO,_jclemons,47
 2021_16_MIA_NO,_johnO2,0
@@ -79716,7 +79717,6 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,adiramani84,50
 2021_16_MIA_NO,ajaypatell8,43
 2021_16_MIA_NO,AJCachiaras,38
-2021_16_MIA_NO,alxfail,0
 2021_16_MIA_NO,analytacist,55
 2021_16_MIA_NO,AnalyticsLeo,58
 2021_16_MIA_NO,andreacasiragh1,0
@@ -79905,6 +79905,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,Yannismiu,62
 2021_16_MIA_NO,YayySports,67
 2021_16_MIA_NO,zweinberg18,48
+2021_17_LA_BAL,_alendowsky,25
 2021_17_LA_BAL,_DH44_,49
 2021_17_LA_BAL,_jclemons,30
 2021_17_LA_BAL,_johnO2,0
@@ -79914,7 +79915,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,Abhinav95_,35
 2021_17_LA_BAL,ajaypatell8,33
 2021_17_LA_BAL,AJCachiaras,36
-2021_17_LA_BAL,alxfail,25
 2021_17_LA_BAL,AnalyticsLeo,50
 2021_17_LA_BAL,andreacasiragh1,18
 2021_17_LA_BAL,AndrewBurner,44
@@ -80108,6 +80108,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,Yannismiu,9
 2021_17_LA_BAL,YayySports,36
 2021_17_LA_BAL,zweinberg18,56
+2021_17_ATL_BUF,_alendowsky,75
 2021_17_ATL_BUF,_DH44_,100
 2021_17_ATL_BUF,_jclemons,75
 2021_17_ATL_BUF,_johnO2,100
@@ -80117,7 +80118,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,Abhinav95_,75
 2021_17_ATL_BUF,ajaypatell8,87
 2021_17_ATL_BUF,AJCachiaras,89
-2021_17_ATL_BUF,alxfail,75
 2021_17_ATL_BUF,AnalyticsLeo,50
 2021_17_ATL_BUF,andreacasiragh1,100
 2021_17_ATL_BUF,AndrewBurner,87
@@ -80311,6 +80311,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,Yannismiu,98
 2021_17_ATL_BUF,YayySports,95
 2021_17_ATL_BUF,zweinberg18,72
+2021_17_NYG_CHI,_alendowsky,51
 2021_17_NYG_CHI,_DH44_,51
 2021_17_NYG_CHI,_jclemons,76
 2021_17_NYG_CHI,_johnO2,100
@@ -80320,7 +80321,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,Abhinav95_,66
 2021_17_NYG_CHI,ajaypatell8,70
 2021_17_NYG_CHI,AJCachiaras,63
-2021_17_NYG_CHI,alxfail,51
 2021_17_NYG_CHI,AnalyticsLeo,50
 2021_17_NYG_CHI,andreacasiragh1,50
 2021_17_NYG_CHI,AndrewBurner,57
@@ -80514,6 +80514,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,Yannismiu,37
 2021_17_NYG_CHI,YayySports,54
 2021_17_NYG_CHI,zweinberg18,63
+2021_17_KC_CIN,_alendowsky,40
 2021_17_KC_CIN,_DH44_,41
 2021_17_KC_CIN,_jclemons,45
 2021_17_KC_CIN,_johnO2,0
@@ -80523,7 +80524,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,Abhinav95_,40
 2021_17_KC_CIN,ajaypatell8,30
 2021_17_KC_CIN,AJCachiaras,28
-2021_17_KC_CIN,alxfail,40
 2021_17_KC_CIN,AnalyticsLeo,50
 2021_17_KC_CIN,andreacasiragh1,50
 2021_17_KC_CIN,AndrewBurner,23
@@ -80717,6 +80717,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,Yannismiu,54
 2021_17_KC_CIN,YayySports,36
 2021_17_KC_CIN,zweinberg18,36
+2021_17_LV_IND,_alendowsky,52
 2021_17_LV_IND,_DH44_,52
 2021_17_LV_IND,_jclemons,65
 2021_17_LV_IND,_johnO2,100
@@ -80726,7 +80727,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,Abhinav95_,65
 2021_17_LV_IND,ajaypatell8,66
 2021_17_LV_IND,AJCachiaras,63
-2021_17_LV_IND,alxfail,52
 2021_17_LV_IND,AnalyticsLeo,50
 2021_17_LV_IND,andreacasiragh1,88
 2021_17_LV_IND,AndrewBurner,85
@@ -80920,6 +80920,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,Yannismiu,84
 2021_17_LV_IND,YayySports,80
 2021_17_LV_IND,zweinberg18,66
+2021_17_JAX_NE,_alendowsky,60
 2021_17_JAX_NE,_DH44_,100
 2021_17_JAX_NE,_jclemons,95
 2021_17_JAX_NE,_johnO2,100
@@ -80929,7 +80930,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,Abhinav95_,80
 2021_17_JAX_NE,ajaypatell8,90
 2021_17_JAX_NE,AJCachiaras,78
-2021_17_JAX_NE,alxfail,60
 2021_17_JAX_NE,AnalyticsLeo,50
 2021_17_JAX_NE,andreacasiragh1,89
 2021_17_JAX_NE,AndrewBurner,90
@@ -81123,6 +81123,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,Yannismiu,98
 2021_17_JAX_NE,YayySports,100
 2021_17_JAX_NE,zweinberg18,92
+2021_17_TB_NYJ,_alendowsky,40
 2021_17_TB_NYJ,_DH44_,45
 2021_17_TB_NYJ,_jclemons,5
 2021_17_TB_NYJ,_johnO2,0
@@ -81132,7 +81133,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,Abhinav95_,20
 2021_17_TB_NYJ,ajaypatell8,15
 2021_17_TB_NYJ,AJCachiaras,14
-2021_17_TB_NYJ,alxfail,40
 2021_17_TB_NYJ,AnalyticsLeo,50
 2021_17_TB_NYJ,andreacasiragh1,0
 2021_17_TB_NYJ,AndrewBurner,14
@@ -81326,6 +81326,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,Yannismiu,2
 2021_17_TB_NYJ,YayySports,8
 2021_17_TB_NYJ,zweinberg18,21
+2021_17_MIA_TEN,_alendowsky,45
 2021_17_MIA_TEN,_DH44_,51
 2021_17_MIA_TEN,_jclemons,48
 2021_17_MIA_TEN,_johnO2,100
@@ -81335,7 +81336,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,Abhinav95_,70
 2021_17_MIA_TEN,ajaypatell8,55
 2021_17_MIA_TEN,AJCachiaras,65
-2021_17_MIA_TEN,alxfail,45
 2021_17_MIA_TEN,AnalyticsLeo,50
 2021_17_MIA_TEN,andreacasiragh1,52
 2021_17_MIA_TEN,AndrewBurner,70
@@ -81529,6 +81529,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,Yannismiu,64
 2021_17_MIA_TEN,YayySports,64
 2021_17_MIA_TEN,zweinberg18,59
+2021_17_PHI_WAS,_alendowsky,40
 2021_17_PHI_WAS,_DH44_,51
 2021_17_PHI_WAS,_jclemons,32
 2021_17_PHI_WAS,_johnO2,0
@@ -81538,7 +81539,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,Abhinav95_,45
 2021_17_PHI_WAS,ajaypatell8,32
 2021_17_PHI_WAS,AJCachiaras,50
-2021_17_PHI_WAS,alxfail,40
 2021_17_PHI_WAS,AnalyticsLeo,50
 2021_17_PHI_WAS,andreacasiragh1,50
 2021_17_PHI_WAS,AndrewBurner,46
@@ -81732,6 +81732,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,Yannismiu,63
 2021_17_PHI_WAS,YayySports,33
 2021_17_PHI_WAS,zweinberg18,33
+2021_17_DEN_LAC,_alendowsky,60
 2021_17_DEN_LAC,_DH44_,58
 2021_17_DEN_LAC,_jclemons,65
 2021_17_DEN_LAC,_johnO2,100
@@ -81741,7 +81742,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,Abhinav95_,65
 2021_17_DEN_LAC,ajaypatell8,85
 2021_17_DEN_LAC,AJCachiaras,63
-2021_17_DEN_LAC,alxfail,60
 2021_17_DEN_LAC,AnalyticsLeo,50
 2021_17_DEN_LAC,andreacasiragh1,78
 2021_17_DEN_LAC,AndrewBurner,69
@@ -81935,6 +81935,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,Yannismiu,72
 2021_17_DEN_LAC,YayySports,59
 2021_17_DEN_LAC,zweinberg18,69
+2021_17_HOU_SF,_alendowsky,55
 2021_17_HOU_SF,_DH44_,56
 2021_17_HOU_SF,_jclemons,76
 2021_17_HOU_SF,_johnO2,100
@@ -81944,7 +81945,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,Abhinav95_,85
 2021_17_HOU_SF,ajaypatell8,84
 2021_17_HOU_SF,AJCachiaras,74
-2021_17_HOU_SF,alxfail,55
 2021_17_HOU_SF,AnalyticsLeo,50
 2021_17_HOU_SF,andreacasiragh1,85
 2021_17_HOU_SF,AndrewBurner,93
@@ -82138,6 +82138,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,Yannismiu,98
 2021_17_HOU_SF,YayySports,89
 2021_17_HOU_SF,zweinberg18,63
+2021_17_ARI_DAL,_alendowsky,55
 2021_17_ARI_DAL,_DH44_,56
 2021_17_ARI_DAL,_jclemons,70
 2021_17_ARI_DAL,_johnO2,100
@@ -82147,7 +82148,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,Abhinav95_,55
 2021_17_ARI_DAL,ajaypatell8,77
 2021_17_ARI_DAL,AJCachiaras,63
-2021_17_ARI_DAL,alxfail,55
 2021_17_ARI_DAL,AnalyticsLeo,50
 2021_17_ARI_DAL,andreacasiragh1,79
 2021_17_ARI_DAL,AndrewBurner,56
@@ -82341,6 +82341,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,Yannismiu,64
 2021_17_ARI_DAL,YayySports,66
 2021_17_ARI_DAL,zweinberg18,50
+2021_17_CAR_NO,_alendowsky,55
 2021_17_CAR_NO,_DH44_,51
 2021_17_CAR_NO,_jclemons,65
 2021_17_CAR_NO,_johnO2,100
@@ -82350,7 +82351,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,Abhinav95_,65
 2021_17_CAR_NO,ajaypatell8,69
 2021_17_CAR_NO,AJCachiaras,53
-2021_17_CAR_NO,alxfail,55
 2021_17_CAR_NO,AnalyticsLeo,50
 2021_17_CAR_NO,andreacasiragh1,50
 2021_17_CAR_NO,AndrewBurner,76
@@ -82544,6 +82544,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,Yannismiu,67
 2021_17_CAR_NO,YayySports,72
 2021_17_CAR_NO,zweinberg18,63
+2021_17_DET_SEA,_alendowsky,55
 2021_17_DET_SEA,_DH44_,52
 2021_17_DET_SEA,_jclemons,48
 2021_17_DET_SEA,_johnO2,100
@@ -82553,7 +82554,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,Abhinav95_,65
 2021_17_DET_SEA,ajaypatell8,85
 2021_17_DET_SEA,AJCachiaras,67
-2021_17_DET_SEA,alxfail,55
 2021_17_DET_SEA,AnalyticsLeo,50
 2021_17_DET_SEA,andreacasiragh1,65
 2021_17_DET_SEA,AndrewBurner,67
@@ -82747,6 +82747,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,Yannismiu,42
 2021_17_DET_SEA,YayySports,81
 2021_17_DET_SEA,zweinberg18,56
+2021_17_MIN_GB,_alendowsky,55
 2021_17_MIN_GB,_DH44_,53
 2021_17_MIN_GB,_jclemons,75
 2021_17_MIN_GB,_johnO2,100
@@ -82756,7 +82757,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,Abhinav95_,80
 2021_17_MIN_GB,ajaypatell8,93
 2021_17_MIN_GB,AJCachiaras,87
-2021_17_MIN_GB,alxfail,55
 2021_17_MIN_GB,AnalyticsLeo,50
 2021_17_MIN_GB,andreacasiragh1,100
 2021_17_MIN_GB,AndrewBurner,84
@@ -82950,6 +82950,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,Yannismiu,77
 2021_17_MIN_GB,YayySports,74
 2021_17_MIN_GB,zweinberg18,63
+2021_17_CLE_PIT,_alendowsky,45
 2021_17_CLE_PIT,_DH44_,48
 2021_17_CLE_PIT,_jclemons,45
 2021_17_CLE_PIT,_johnO2,0
@@ -82959,7 +82960,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,Abhinav95_,55
 2021_17_CLE_PIT,ajaypatell8,43
 2021_17_CLE_PIT,AJCachiaras,46
-2021_17_CLE_PIT,alxfail,45
 2021_17_CLE_PIT,AnalyticsLeo,50
 2021_17_CLE_PIT,andreacasiragh1,57
 2021_17_CLE_PIT,AndrewBurner,39
