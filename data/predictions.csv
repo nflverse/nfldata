@@ -1,6 +1,6 @@
 game_id,screen_name,prediction
-2021_01_DAL_TB,,45
 2021_01_DAL_TB,,70
+2021_01_DAL_TB,,45
 2021_01_DAL_TB,__beraldo,65
 2021_01_DAL_TB,__DavidOfficial,65
 2021_01_DAL_TB,_alendowsky,50
@@ -1317,8 +1317,8 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,ZenTaco,50
 2021_01_PHI_ATL,zweinberg18,55
 2021_01_PHI_ATL,zybxixi,50
-2021_01_PIT_BUF,,40
 2021_01_PIT_BUF,,56
+2021_01_PIT_BUF,,40
 2021_01_PIT_BUF,__beraldo,50
 2021_01_PIT_BUF,__DavidOfficial,70
 2021_01_PIT_BUF,_alendowsky,58
@@ -10068,8 +10068,8 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,ZenTaco,50
 2021_01_CHI_LA,zweinberg18,60
 2021_01_CHI_LA,zybxixi,50
-2021_01_BAL_LV,,50
 2021_01_BAL_LV,,20
+2021_01_BAL_LV,,50
 2021_01_BAL_LV,__beraldo,50
 2021_01_BAL_LV,__DavidOfficial,40
 2021_01_BAL_LV,_alendowsky,38
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,,62
+2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -15912,8 +15912,8 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,zackry_mc,100
 2021_02_ATL_TB,zacwest91,100
 2021_02_ATL_TB,zweinberg18,80
-2021_02_DAL_LAC,,57
 2021_02_DAL_LAC,,36
+2021_02_DAL_LAC,,57
 2021_02_DAL_LAC,__DavidOfficial,45
 2021_02_DAL_LAC,_DH44_,49
 2021_02_DAL_LAC,_jclemons,45
@@ -20242,8 +20242,8 @@ game_id,screen_name,prediction
 2021_03_NO_NE,YayySports,53
 2021_03_NO_NE,zackry_mc,100
 2021_03_NO_NE,zweinberg18,45
-2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,,50
+2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
@@ -20992,8 +20992,8 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,YayySports,68
 2021_03_CIN_PIT,zackry_mc,50
 2021_03_CIN_PIT,zweinberg18,64
-2021_03_IND_TEN,,50
 2021_03_IND_TEN,,44
+2021_03_IND_TEN,,50
 2021_03_IND_TEN,__DavidOfficial,75
 2021_03_IND_TEN,_alendowsky,54
 2021_03_IND_TEN,_DH44_,48
@@ -21745,8 +21745,8 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,YayySports,81
 2021_03_NYJ_DEN,zackry_mc,100
 2021_03_NYJ_DEN,zweinberg18,73
-2021_03_MIA_LV,,69
 2021_03_MIA_LV,,50
+2021_03_MIA_LV,,69
 2021_03_MIA_LV,__DavidOfficial,75
 2021_03_MIA_LV,_alendowsky,55
 2021_03_MIA_LV,_DH44_,49
@@ -22124,8 +22124,8 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
-2021_03_TB_LA,,64
 2021_03_TB_LA,,50
+2021_03_TB_LA,,64
 2021_03_TB_LA,__DavidOfficial,40
 2021_03_TB_LA,_alendowsky,52
 2021_03_TB_LA,_DH44_,50
