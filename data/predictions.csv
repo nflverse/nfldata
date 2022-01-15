@@ -1,6 +1,6 @@
 game_id,screen_name,prediction
-2021_01_DAL_TB,,45
 2021_01_DAL_TB,,70
+2021_01_DAL_TB,,45
 2021_01_DAL_TB,__beraldo,65
 2021_01_DAL_TB,__DavidOfficial,65
 2021_01_DAL_TB,_alendowsky,50
@@ -1317,8 +1317,8 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,ZenTaco,50
 2021_01_PHI_ATL,zweinberg18,55
 2021_01_PHI_ATL,zybxixi,50
-2021_01_PIT_BUF,,40
 2021_01_PIT_BUF,,56
+2021_01_PIT_BUF,,40
 2021_01_PIT_BUF,__beraldo,50
 2021_01_PIT_BUF,__DavidOfficial,70
 2021_01_PIT_BUF,_alendowsky,58
@@ -10068,8 +10068,8 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,ZenTaco,50
 2021_01_CHI_LA,zweinberg18,60
 2021_01_CHI_LA,zybxixi,50
-2021_01_BAL_LV,,50
 2021_01_BAL_LV,,20
+2021_01_BAL_LV,,50
 2021_01_BAL_LV,__beraldo,50
 2021_01_BAL_LV,__DavidOfficial,40
 2021_01_BAL_LV,_alendowsky,38
