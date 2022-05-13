@@ -1,6 +1,6 @@
 game_id,screen_name,prediction
-2021_01_DAL_TB,,70
 2021_01_DAL_TB,,45
+2021_01_DAL_TB,,70
 2021_01_DAL_TB,__beraldo,65
 2021_01_DAL_TB,__DavidOfficial,65
 2021_01_DAL_TB,_alendowsky,50
@@ -4009,8 +4009,8 @@ game_id,screen_name,prediction
 2021_01_SF_DET,ZenTaco,50
 2021_01_SF_DET,zweinberg18,20
 2021_01_SF_DET,zybxixi,50
-2021_01_JAX_HOU,,31
 2021_01_JAX_HOU,,50
+2021_01_JAX_HOU,,31
 2021_01_JAX_HOU,__beraldo,50
 2021_01_JAX_HOU,__DavidOfficial,45
 2021_01_JAX_HOU,_alendowsky,56
@@ -4682,8 +4682,8 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
-2021_01_SEA_IND,,50
 2021_01_SEA_IND,,25
+2021_01_SEA_IND,,50
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
 2021_01_SEA_IND,_alendowsky,50
@@ -6028,8 +6028,8 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,ZenTaco,50
 2021_01_ARI_TEN,zweinberg18,70
 2021_01_ARI_TEN,zybxixi,50
-2021_01_LAC_WAS,,50
 2021_01_LAC_WAS,,24
+2021_01_LAC_WAS,,50
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
 2021_01_LAC_WAS,_alendowsky,50
@@ -6701,8 +6701,8 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,ZenTaco,50
 2021_01_LAC_WAS,zweinberg18,40
 2021_01_LAC_WAS,zybxixi,50
-2021_01_CLE_KC,,90
 2021_01_CLE_KC,,50
+2021_01_CLE_KC,,90
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
 2021_01_CLE_KC,_alendowsky,61
@@ -7374,8 +7374,8 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
-2021_01_MIA_NE,,30
 2021_01_MIA_NE,,50
+2021_01_MIA_NE,,30
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
 2021_01_MIA_NE,_alendowsky,63
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,70
 2021_02_DET_GB,,38
+2021_02_DET_GB,,70
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -18367,8 +18367,8 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
+2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,50
 2021_03_BAL_DET,,21
+2021_03_BAL_DET,,50
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -19117,8 +19117,8 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,YayySports,21
 2021_03_BAL_DET,zackry_mc,0
 2021_03_BAL_DET,zweinberg18,5
-2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,,22
+2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,__DavidOfficial,0
 2021_03_ARI_JAX,_alendowsky,43
 2021_03_ARI_JAX,_DH44_,48
@@ -21745,8 +21745,8 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,YayySports,81
 2021_03_NYJ_DEN,zackry_mc,100
 2021_03_NYJ_DEN,zweinberg18,73
-2021_03_MIA_LV,,50
 2021_03_MIA_LV,,69
+2021_03_MIA_LV,,50
 2021_03_MIA_LV,__DavidOfficial,75
 2021_03_MIA_LV,_alendowsky,55
 2021_03_MIA_LV,_DH44_,49
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
+2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
