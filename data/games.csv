@@ -6183,8 +6183,8 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_03_ATL_SEA,2022,REG,3,2022-09-25,Sunday,16:25,ATL,,SEA,,Home,,,,2022092511,,,202209250sea,,,7,7,160,-190,4,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Arthur Smith,Pete Carroll,,SEA00,Lumen Field
 2022_03_GB_TB,2022,REG,3,2022-09-25,Sunday,16:25,GB,,TB,,Home,,,,2022092512,,,202209250tam,,,7,7,140,-160,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Todd Bowles,,TAM00,Raymond James Stadium
 2022_03_SF_DEN,2022,REG,3,2022-09-25,Sunday,20:20,SF,,DEN,,Home,,,,2022092513,,,202209250den,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,,8,8,-135,115,-3,100,-120,,,,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
-2022_04_MIA_CIN,2022,REG,4,2022-09-29,Thursday,20:15,MIA,,CIN,,Home,,,,2022092900,,,202209290cin,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,,8,8,-140,120,-3,100,-120,,,,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
+2022_04_MIA_CIN,2022,REG,4,2022-09-29,Thursday,20:15,MIA,,CIN,,Home,,,,2022092900,,,202209290cin,,,4,4,165,-195,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Zac Taylor,,CIN00,Paul Brown Stadium
 2022_04_MIN_NO,2022,REG,4,2022-10-02,Sunday,09:30,MIN,,NO,,Neutral,,,,2022100200,,,202210020nor,,,7,7,-115,-105,-1,-110,-110,46.5,-110,-110,0,dome,astroturf,,,,,,,Kevin O'Connell,Dennis Allen,,NOR00,Mercedes-Benz Superdome
 2022_04_CLE_ATL,2022,REG,4,2022-10-02,Sunday,13:00,CLE,,ATL,,Home,,,,2022100201,,,202210020atl,,,10,7,,,,,,,,,0,,fieldturf,,,,,,,Kevin Stefanski,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2022_04_BUF_BAL,2022,REG,4,2022-10-02,Sunday,13:00,BUF,,BAL,,Home,,,,2022100202,,,202210020rav,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Sean McDermott,John Harbaugh,,BAL00,M&T Bank Stadium
