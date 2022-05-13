@@ -6194,12 +6194,12 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_04_TEN_IND,2022,REG,4,2022-10-02,Sunday,13:00,TEN,,IND,,Home,,,,2022100206,,,202210020clt,,,7,7,135,-155,3,-110,-110,,,,1,,fieldturf,,,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
 2022_04_CHI_NYG,2022,REG,4,2022-10-02,Sunday,13:00,CHI,,NYG,,Home,,,,2022100207,,,202210020nyg,,,7,6,115,-135,2.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Matt Eberflus,Brian Daboll,,NYC01,MetLife Stadium
 2022_04_JAX_PHI,2022,REG,4,2022-10-02,Sunday,13:00,JAX,,PHI,,Home,,,,2022100208,,,202210020phi,,,7,7,210,-260,6,-110,-110,,,,0,outdoors,grass,,,,,,,Doug Pederson,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_04_NYJ_PIT,2022,REG,4,2022-10-02,Sunday,13:00,NYJ,,PIT,,Home,,,,2022100209,,,202210020pit,,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Mike Tomlin,,PIT00,Heinz Field
-2022_04_ARI_CAR,2022,REG,4,2022-10-02,Sunday,16:05,ARI,,CAR,,Home,,,,2022100210,,,202210020car,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
-2022_04_NE_GB,2022,REG,4,2022-10-02,Sunday,16:25,NE,,GB,,Home,,,,2022100211,,,202210020gnb,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Bill Belichick,Matt LaFleur,,GNB00,Lambeau Field
-2022_04_DEN_LV,2022,REG,4,2022-10-02,Sunday,16:25,DEN,,LV,,Home,,,,2022100212,,,202210020rai,,,7,7,,,,,,,,,1,dome,grass,,,,,,,Nathaniel Hackett,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_04_NYJ_PIT,2022,REG,4,2022-10-02,Sunday,13:00,NYJ,,PIT,,Home,,,,2022100209,,,202210020pit,,,7,10,130,-150,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Robert Saleh,Mike Tomlin,,PIT00,Heinz Field
+2022_04_ARI_CAR,2022,REG,4,2022-10-02,Sunday,16:05,ARI,,CAR,,Home,,,,2022100210,,,202210020car,,,7,7,-140,120,-2.5,-120,100,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
+2022_04_NE_GB,2022,REG,4,2022-10-02,Sunday,16:25,NE,,GB,,Home,,,,2022100211,,,202210020gnb,,,7,7,190,-235,5,-110,-110,,,,0,outdoors,grass,,,,,,,Bill Belichick,Matt LaFleur,,GNB00,Lambeau Field
+2022_04_DEN_LV,2022,REG,4,2022-10-02,Sunday,16:25,DEN,,LV,,Home,,,,2022100212,,,202210020rai,,,7,7,-110,-110,-0,-110,-110,,,,1,dome,grass,,,,,,,Nathaniel Hackett,Josh McDaniels,,VEG00,Allegiant Stadium
 2022_04_KC_TB,2022,REG,4,2022-10-02,Sunday,20:20,KC,,TB,,Home,,,,2022100213,,,202210020tam,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,Todd Bowles,,TAM00,Raymond James Stadium
-2022_04_LA_SF,2022,REG,4,2022-10-03,Monday,20:15,LA,,SF,,Home,,,,2022100300,,,202210030sfo,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_04_LA_SF,2022,REG,4,2022-10-03,Monday,20:15,LA,,SF,,Home,,,,2022100300,,,202210030sfo,,,8,8,-120,100,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
 2022_05_IND_DEN,2022,REG,5,2022-10-06,Thursday,20:15,IND,,DEN,,Home,,,,2022100600,,,202210060den,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Frank Reich,Nathaniel Hackett,,DEN00,Empower Field at Mile High
 2022_05_NYG_GB,2022,REG,5,2022-10-09,Sunday,09:30,NYG,,GB,,Neutral,,,,2022100900,,,202210090gnb,,,7,7,225,-280,6.5,-110,-110,45.5,-110,-110,0,outdoors,grass,,,,,,,Brian Daboll,Matt LaFleur,,GNB00,Lambeau Field
 2022_05_PIT_BUF,2022,REG,5,2022-10-09,Sunday,13:00,PIT,,BUF,,Home,,,,2022100901,,,202210090buf,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Mike Tomlin,Sean McDermott,,BUF00,New Era Field
