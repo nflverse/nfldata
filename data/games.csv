@@ -6373,7 +6373,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_16_PHI_DAL,2022,REG,16,2022-12-24,Saturday,16:25,PHI,,DAL,,Home,,,,2022122409,,,202212240dal,,,6,6,150,-175,3.5,-110,-110,,,,1,closed,fieldturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
 2022_16_LV_PIT,2022,REG,16,2022-12-24,Saturday,20:15,LV,,PIT,,Home,,,,2022122410,,,202212240pit,,,6,6,-130,110,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Tomlin,,PIT00,Heinz Field
 2022_16_GB_MIA,2022,REG,16,2022-12-25,Sunday,13:00,GB,,MIA,,Home,,,,2022122500,,,202212250mia,,,6,7,-120,100,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,,7,6,140,-165,3.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
+2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,,7,6,140,-165,3.5,-110,-110,49.5,-110,-110,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
 2022_16_TB_ARI,2022,REG,16,2022-12-25,Sunday,20:20,TB,,ARI,,Home,,,,2022122502,,,202212250crd,,,7,7,-135,115,-2.5,-110,-110,,,,0,closed,grass,,,,,,,Todd Bowles,Kliff Kingsbury,,PHO00,State Farm Stadium
 2022_16_LAC_IND,2022,REG,16,2022-12-26,Monday,20:15,LAC,,IND,,Home,,,,2022122600,,,202212260clt,,,8,8,-120,100,-1,-110,-110,,,,0,,fieldturf,,,,,,,Brandon Staley,Frank Reich,,IND00,Lucas Oil Stadium
 2022_17_DAL_TEN,2022,REG,17,2022-12-29,Thursday,20:15,DAL,,TEN,,Home,,,,2022122900,,,202212290oti,,,5,5,110,-130,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Mike Vrabel,,NAS00,Nissan Stadium
