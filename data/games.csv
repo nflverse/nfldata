@@ -6260,7 +6260,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_08_GB_BUF,2022,REG,8,2022-10-30,Sunday,20:20,GB,,BUF,,Home,,,,2022103012,,,202210300buf,,,7,14,160,-190,4,-110,-110,,,,0,outdoors,astroturf,,,,,,,Matt LaFleur,Sean McDermott,,BUF00,New Era Field
 2022_08_CIN_CLE,2022,REG,8,2022-10-31,Monday,20:15,CIN,,CLE,,Home,,,,2022103100,,,202210310cle,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2022_09_PHI_HOU,2022,REG,9,2022-11-03,Thursday,20:15,PHI,,HOU,,Home,,,,2022110300,,,202211030htx,,,4,4,-215,185,-5.5,-110,-110,,,,0,,grass,,,,,,,Nick Sirianni,Lovie Smith,,HOU00,NRG Stadium
-2022_09_LAC_ATL,2022,REG,9,2022-11-06,Sunday,13:00,LAC,,ATL,,Home,,,,2022110600,,,202211060atl,,,14,7,-260,220,-6.5,-110,-110,,,,0,,fieldturf,,,,,,,Brandon Staley,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_09_LAC_ATL,2022,REG,9,2022-11-06,Sunday,13:00,LAC,,ATL,,Home,,,,2022110600,,,202211060atl,,,14,7,-350,290,-7.5,-110,-110,,,,0,,fieldturf,,,,,,,Brandon Staley,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2022_09_MIA_CHI,2022,REG,9,2022-11-06,Sunday,13:00,MIA,,CHI,,Home,,,,2022110601,,,202211060chi,,,7,7,-145,125,-3,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Matt Eberflus,,CHI98,Soldier Field
 2022_09_CAR_CIN,2022,REG,9,2022-11-06,Sunday,13:00,CAR,,CIN,,Home,,,,2022110602,,,202211060cin,,,7,6,240,-285,7,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Rhule,Zac Taylor,,CIN00,Paul Brown Stadium
 2022_09_GB_DET,2022,REG,9,2022-11-06,Sunday,13:00,GB,,DET,,Home,,,,2022110603,,,202211060det,,,7,7,-245,205,-6,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
