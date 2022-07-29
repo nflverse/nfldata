@@ -6150,261 +6150,261 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_01_LV_LAC,2022,REG,1,2022-09-11,Sunday,16:25,LV,,LAC,,Home,,,,2022091111,,,202209110sdg,,,7,7,150,-175,3.5,-115,-105,52,-110,-110,1,dome,matrixturf,,,00-0031280,00-0036355,Derek Carr,Justin Herbert,Josh McDaniels,Brandon Staley,,LAX01,SoFi Stadium
 2022_01_GB_MIN,2022,REG,1,2022-09-11,Sunday,16:25,GB,,MIN,,Home,,,,2022091112,,,202209110min,,,7,7,-130,110,-2,-110,-110,49,-110,-110,1,dome,sportturf,,,00-0023459,00-0029604,Aaron Rodgers,Kirk Cousins,Matt LaFleur,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2022_01_NYG_TEN,2022,REG,1,2022-09-11,Sunday,16:25,NYG,,TEN,,Home,,,,2022091109,,,202209110oti,,,7,7,220,-260,6.5,-110,-110,43.5,-110,-110,0,outdoors,grass,,,00-0035710,00-0029701,Daniel Jones,Ryan Tannehill,Brian Daboll,Mike Vrabel,,NAS00,Nissan Stadium
-2022_01_TB_DAL,2022,REG,1,2022-09-11,Sunday,20:20,TB,,DAL,,Home,,,,2022091113,,,202209110dal,,,7,7,-130,110,-2,-110,-110,52.5,-110,-110,0,closed,fieldturf,,,00-0019596,00-0033077,Tom Brady,Dak Prescott,Todd Bowles,Mike McCarthy,,DAL00,AT&T Stadium
+2022_01_TB_DAL,2022,REG,1,2022-09-11,Sunday,20:20,TB,,DAL,,Home,,,,2022091113,,,202209110dal,,,7,7,-125,105,-2,-110,-110,52.5,-110,-110,0,closed,fieldturf,,,00-0019596,00-0033077,Tom Brady,Dak Prescott,Todd Bowles,Mike McCarthy,,DAL00,AT&T Stadium
 2022_01_DEN_SEA,2022,REG,1,2022-09-12,Monday,20:15,DEN,,SEA,,Home,,,,2022091200,,,202209120sea,,,7,7,-190,160,-4.5,-110,-110,42,-110,-110,0,outdoors,fieldturf,,,00-0029263,00-0030565,Russell Wilson,Geno Smith,Nathaniel Hackett,Pete Carroll,,SEA00,Lumen Field
 2022_02_LAC_KC,2022,REG,2,2022-09-15,Thursday,20:15,LAC,,KC,,Home,,,,2022091500,,,202209150kan,,,4,4,140,-165,3,-110,-110,52.5,-110,-110,1,outdoors,astroturf,,,00-0036355,00-0033873,Justin Herbert,Patrick Mahomes,Brandon Staley,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_02_MIA_BAL,2022,REG,2,2022-09-18,Sunday,13:00,MIA,,BAL,,Home,,,,2022091800,,,202209180rav,,,7,7,,,,,,,,,0,outdoors,grass,,,00-0036212,00-0034796,Tua Tagovailoa,Lamar Jackson,Mike McDaniel,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_02_MIA_BAL,2022,REG,2,2022-09-18,Sunday,13:00,MIA,,BAL,,Home,,,,2022091800,,,202209180rav,,,7,7,160,-190,4,-110,-110,45.5,-110,-110,0,outdoors,grass,,,00-0036212,00-0034796,Tua Tagovailoa,Lamar Jackson,Mike McDaniel,John Harbaugh,,BAL00,M&T Bank Stadium
 2022_02_NYJ_CLE,2022,REG,2,2022-09-18,Sunday,13:00,NYJ,,CLE,,Home,,,,2022091801,,,202209180cle,,,7,7,,,,,,,,,0,outdoors,grass,,,00-0037013,00-0033119,Zach Wilson,Jacoby Brissett,Robert Saleh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_02_WAS_DET,2022,REG,2,2022-09-18,Sunday,13:00,WAS,,DET,,Home,,,,2022091802,,,202209180det,,,7,7,,,,,,,,,0,dome,fieldturf,,,00-0032950,00-0033106,Carson Wentz,Jared Goff,Ron Rivera,Dan Campbell,,DET00,Ford Field
-2022_02_IND_JAX,2022,REG,2,2022-09-18,Sunday,13:00,IND,,JAX,,Home,,,,2022091803,,,202209180jax,,,7,7,,,,,,,,,1,outdoors,grass,,,00-0032950,00-0036971,Carson Wentz,Trevor Lawrence,Frank Reich,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_02_TB_NO,2022,REG,2,2022-09-18,Sunday,13:00,TB,,NO,,Home,,,,2022091804,,,202209180nor,,,7,7,,,,,,,,,1,dome,astroturf,,,00-0019596,00-0031503,Tom Brady,Jameis Winston,Todd Bowles,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_02_CAR_NYG,2022,REG,2,2022-09-18,Sunday,13:00,CAR,,NYG,,Home,,,,2022091805,,,202209180nyg,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,00-0034855,00-0035710,Baker Mayfield,Daniel Jones,Matt Rhule,Brian Daboll,,NYC01,MetLife Stadium
-2022_02_NE_PIT,2022,REG,2,2022-09-18,Sunday,13:00,NE,,PIT,,Home,,,,2022091806,,,202209180pit,,,7,7,,,,,,,,,0,outdoors,grass,,,00-0036972,00-0033869,Mac Jones,Mitch Trubisky,Bill Belichick,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_02_ATL_LA,2022,REG,2,2022-09-18,Sunday,16:05,ATL,,LA,,Home,,,,2022091807,,,202209180ram,,,7,10,,,,,,,,,0,dome,matrixturf,,,00-0032268,00-0026498,Marcus Mariota,Matthew Stafford,Arthur Smith,Sean McVay,,LAX01,SoFi Stadium
-2022_02_SEA_SF,2022,REG,2,2022-09-18,Sunday,16:05,SEA,,SF,,Home,,,,2022091808,,,202209180sfo,,,6,7,,,,,,,,,1,outdoors,grass,,,00-0030565,00-0037012,Geno Smith,Trey Lance,Pete Carroll,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_02_CIN_DAL,2022,REG,2,2022-09-18,Sunday,16:25,CIN,,DAL,,Home,,,,2022091809,,,202209180dal,,,7,7,,,,,,,,,0,closed,fieldturf,,,00-0036442,00-0033077,Joe Burrow,Dak Prescott,Zac Taylor,Mike McCarthy,,DAL00,AT&T Stadium
-2022_02_HOU_DEN,2022,REG,2,2022-09-18,Sunday,16:25,HOU,,DEN,,Home,,,,2022091810,,,202209180den,,,7,6,,,,,,,,,0,outdoors,grass,,,00-0036898,00-0029263,Davis Mills,Russell Wilson,Lovie Smith,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_02_ARI_LV,2022,REG,2,2022-09-18,Sunday,16:25,ARI,,LV,,Home,,,,2022091811,,,202209180rai,,,7,7,,,,,,,,,0,dome,grass,,,00-0035228,00-0031280,Kyler Murray,Derek Carr,Kliff Kingsbury,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_02_CHI_GB,2022,REG,2,2022-09-18,Sunday,20:20,CHI,,GB,,Home,,,,2022091812,,,202209180gnb,,,7,7,,,,,,,,,1,outdoors,grass,,,00-0036945,00-0023459,Justin Fields,Aaron Rodgers,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
-2022_02_TEN_BUF,2022,REG,2,2022-09-19,Monday,19:15,TEN,,BUF,,Home,,,,2022091900,,,202209190buf,,,8,11,,,,,,,,,0,outdoors,astroturf,,,00-0029701,00-0034857,Ryan Tannehill,Josh Allen,Mike Vrabel,Sean McDermott,,BUF00,New Era Field
-2022_02_MIN_PHI,2022,REG,2,2022-09-19,Monday,20:30,MIN,,PHI,,Home,,,,2022091901,,,202209190phi,,,8,8,,,,,,,,,0,outdoors,grass,,,00-0029604,00-0036389,Kirk Cousins,Jalen Hurts,Kevin O'Connell,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_02_WAS_DET,2022,REG,2,2022-09-18,Sunday,13:00,WAS,,DET,,Home,,,,2022091802,,,202209180det,,,7,7,-120,100,-1.5,-110,-110,45.5,-110,-110,0,dome,fieldturf,,,00-0032950,00-0033106,Carson Wentz,Jared Goff,Ron Rivera,Dan Campbell,,DET00,Ford Field
+2022_02_IND_JAX,2022,REG,2,2022-09-18,Sunday,13:00,IND,,JAX,,Home,,,,2022091803,,,202209180jax,,,7,7,-195,165,-4.5,-110,-110,45.5,-110,-110,1,outdoors,grass,,,00-0032950,00-0036971,Carson Wentz,Trevor Lawrence,Frank Reich,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_02_TB_NO,2022,REG,2,2022-09-18,Sunday,13:00,TB,,NO,,Home,,,,2022091804,,,202209180nor,,,7,7,-190,160,-4,-110,-110,47,-110,-110,1,dome,astroturf,,,00-0019596,00-0031503,Tom Brady,Jameis Winston,Todd Bowles,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_02_CAR_NYG,2022,REG,2,2022-09-18,Sunday,13:00,CAR,,NYG,,Home,,,,2022091805,,,202209180nyg,,,7,7,-110,-110,1,-120,100,42.5,-110,-110,0,outdoors,fieldturf ,,,00-0034855,00-0035710,Baker Mayfield,Daniel Jones,Matt Rhule,Brian Daboll,,NYC01,MetLife Stadium
+2022_02_NE_PIT,2022,REG,2,2022-09-18,Sunday,13:00,NE,,PIT,,Home,,,,2022091806,,,202209180pit,,,7,7,-120,100,-1,-110,-110,43,-110,-110,0,outdoors,grass,,,00-0036972,00-0033869,Mac Jones,Mitch Trubisky,Bill Belichick,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_02_ATL_LA,2022,REG,2,2022-09-18,Sunday,16:05,ATL,,LA,,Home,,,,2022091807,,,202209180ram,,,7,10,625,-900,13,-110,-110,49.5,-115,-105,0,dome,matrixturf,,,00-0032268,00-0026498,Marcus Mariota,Matthew Stafford,Arthur Smith,Sean McVay,,LAX01,SoFi Stadium
+2022_02_SEA_SF,2022,REG,2,2022-09-18,Sunday,16:05,SEA,,SF,,Home,,,,2022091808,,,202209180sfo,,,6,7,320,-390,8,-110,-110,43.5,-110,-110,1,outdoors,grass,,,00-0030565,00-0037012,Geno Smith,Trey Lance,Pete Carroll,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_02_CIN_DAL,2022,REG,2,2022-09-18,Sunday,16:25,CIN,,DAL,,Home,,,,2022091809,,,202209180dal,,,7,7,105,-125,1.5,-110,-110,50.5,-110,-110,0,closed,fieldturf,,,00-0036442,00-0033077,Joe Burrow,Dak Prescott,Zac Taylor,Mike McCarthy,,DAL00,AT&T Stadium
+2022_02_HOU_DEN,2022,REG,2,2022-09-18,Sunday,16:25,HOU,,DEN,,Home,,,,2022091810,,,202209180den,,,7,6,490,-660,10.5,-110,-110,43,-110,-110,0,outdoors,grass,,,00-0036898,00-0029263,Davis Mills,Russell Wilson,Lovie Smith,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_02_ARI_LV,2022,REG,2,2022-09-18,Sunday,16:25,ARI,,LV,,Home,,,,2022091811,,,202209180rai,,,7,7,120,-140,2.5,-110,-110,51,-110,-110,0,dome,grass,,,00-0035228,00-0031280,Kyler Murray,Derek Carr,Kliff Kingsbury,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_02_CHI_GB,2022,REG,2,2022-09-18,Sunday,20:20,CHI,,GB,,Home,,,,2022091812,,,202209180gnb,,,7,7,380,-475,9.5,-110,-110,45,-110,-110,1,outdoors,grass,,,00-0036945,00-0023459,Justin Fields,Aaron Rodgers,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
+2022_02_TEN_BUF,2022,REG,2,2022-09-19,Monday,19:15,TEN,,BUF,,Home,,,,2022091900,,,202209190buf,,,8,11,295,-360,7,105,-125,51,-110,-110,0,outdoors,astroturf,,,00-0029701,00-0034857,Ryan Tannehill,Josh Allen,Mike Vrabel,Sean McDermott,,BUF00,New Era Field
+2022_02_MIN_PHI,2022,REG,2,2022-09-19,Monday,20:30,MIN,,PHI,,Home,,,,2022091901,,,202209190phi,,,8,8,115,-135,2.5,-110,-110,47.5,-110,-110,0,outdoors,grass,,,00-0029604,00-0036389,Kirk Cousins,Jalen Hurts,Kevin O'Connell,Nick Sirianni,,PHI00,Lincoln Financial Field
 2022_03_PIT_CLE,2022,REG,3,2022-09-22,Thursday,20:15,PIT,,CLE,,Home,,,,2022092200,,,202209220cle,,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_03_NO_CAR,2022,REG,3,2022-09-25,Sunday,13:00,NO,,CAR,,Home,,,,2022092500,,,202209250car,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dennis Allen,Matt Rhule,,CAR00,Bank of America Stadium
-2022_03_HOU_CHI,2022,REG,3,2022-09-25,Sunday,13:00,HOU,,CHI,,Home,,,,2022092501,,,202209250chi,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Lovie Smith,Matt Eberflus,,CHI98,Soldier Field
-2022_03_KC_IND,2022,REG,3,2022-09-25,Sunday,13:00,KC,,IND,,Home,,,,2022092502,,,202209250clt,,,10,7,,,,,,,,,0,,fieldturf,,,,,,,Andy Reid,Frank Reich,,IND00,Lucas Oil Stadium
-2022_03_BUF_MIA,2022,REG,3,2022-09-25,Sunday,13:00,BUF,,MIA,,Home,,,,2022092503,,,202209250mia,,,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Sean McDermott,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_03_DET_MIN,2022,REG,3,2022-09-25,Sunday,13:00,DET,,MIN,,Home,,,,2022092504,,,202209250min,,,7,6,,,,,,,,,1,dome,sportturf,,,,,,,Dan Campbell,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_03_BAL_NE,2022,REG,3,2022-09-25,Sunday,13:00,BAL,,NE,,Home,,,,2022092505,,,202209250nwe,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,John Harbaugh,Bill Belichick,,BOS00,Gillette Stadium
-2022_03_CIN_NYJ,2022,REG,3,2022-09-25,Sunday,13:00,CIN,,NYJ,,Home,,,,2022092506,,,202209250nyj,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Zac Taylor,Robert Saleh,,NYC01,MetLife Stadium
-2022_03_LV_TEN,2022,REG,3,2022-09-25,Sunday,13:00,LV,,TEN,,Home,,,,2022092507,,,202209250oti,,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Vrabel,,NAS00,Nissan Stadium
-2022_03_PHI_WAS,2022,REG,3,2022-09-25,Sunday,13:00,PHI,,WAS,,Home,,,,2022092508,,,202209250was,,,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Ron Rivera,,WAS00,FedExField
-2022_03_JAX_LAC,2022,REG,3,2022-09-25,Sunday,16:05,JAX,,LAC,,Home,,,,2022092509,,,202209250sdg,,,7,10,,,,,,,,,0,dome,matrixturf,,,,,,,Doug Pederson,Brandon Staley,,LAX01,SoFi Stadium
-2022_03_LA_ARI,2022,REG,3,2022-09-25,Sunday,16:25,LA,,ARI,,Home,,,,2022092510,,,202209250crd,,,7,7,,,,,,,,,1,closed,grass,,,,,,,Sean McVay,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_03_ATL_SEA,2022,REG,3,2022-09-25,Sunday,16:25,ATL,,SEA,,Home,,,,2022092511,,,202209250sea,,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Arthur Smith,Pete Carroll,,SEA00,Lumen Field
-2022_03_GB_TB,2022,REG,3,2022-09-25,Sunday,16:25,GB,,TB,,Home,,,,2022092512,,,202209250tam,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Todd Bowles,,TAM00,Raymond James Stadium
-2022_03_SF_DEN,2022,REG,3,2022-09-25,Sunday,20:20,SF,,DEN,,Home,,,,2022092513,,,202209250den,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,,8,8,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
-2022_04_MIA_CIN,2022,REG,4,2022-09-29,Thursday,20:15,MIA,,CIN,,Home,,,,2022092900,,,202209290cin,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_04_MIN_NO,2022,REG,4,2022-10-02,Sunday,09:30,MIN,,NO,,Neutral,,,,2022100200,,,202210020nor,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Dennis Allen,,LON02,Tottenham Stadium
+2022_03_NO_CAR,2022,REG,3,2022-09-25,Sunday,13:00,NO,,CAR,,Home,,,,2022092500,,,202209250car,,,7,7,-120,100,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Dennis Allen,Matt Rhule,,CAR00,Bank of America Stadium
+2022_03_HOU_CHI,2022,REG,3,2022-09-25,Sunday,13:00,HOU,,CHI,,Home,,,,2022092501,,,202209250chi,,,7,7,125,-145,3,-110,-110,,,,0,outdoors,grass,,,,,,,Lovie Smith,Matt Eberflus,,CHI98,Soldier Field
+2022_03_KC_IND,2022,REG,3,2022-09-25,Sunday,13:00,KC,,IND,,Home,,,,2022092502,,,202209250clt,,,10,7,-135,115,-2.5,-110,-110,,,,0,,fieldturf,,,,,,,Andy Reid,Frank Reich,,IND00,Lucas Oil Stadium
+2022_03_BUF_MIA,2022,REG,3,2022-09-25,Sunday,13:00,BUF,,MIA,,Home,,,,2022092503,,,202209250mia,,,6,7,-170,145,-3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Sean McDermott,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_03_DET_MIN,2022,REG,3,2022-09-25,Sunday,13:00,DET,,MIN,,Home,,,,2022092504,,,202209250min,,,7,6,220,-260,6.5,-110,-110,,,,1,dome,sportturf,,,,,,,Dan Campbell,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_03_BAL_NE,2022,REG,3,2022-09-25,Sunday,13:00,BAL,,NE,,Home,,,,2022092505,,,202209250nwe,,,7,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,John Harbaugh,Bill Belichick,,BOS00,Gillette Stadium
+2022_03_CIN_NYJ,2022,REG,3,2022-09-25,Sunday,13:00,CIN,,NYJ,,Home,,,,2022092506,,,202209250nyj,,,7,7,-230,195,-5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Zac Taylor,Robert Saleh,,NYC01,MetLife Stadium
+2022_03_LV_TEN,2022,REG,3,2022-09-25,Sunday,13:00,LV,,TEN,,Home,,,,2022092507,,,202209250oti,,,7,6,100,-120,1,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Vrabel,,NAS00,Nissan Stadium
+2022_03_PHI_WAS,2022,REG,3,2022-09-25,Sunday,13:00,PHI,,WAS,,Home,,,,2022092508,,,202209250was,,,6,7,-110,-110,-0,-110,-110,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Ron Rivera,,WAS00,FedExField
+2022_03_JAX_LAC,2022,REG,3,2022-09-25,Sunday,16:05,JAX,,LAC,,Home,,,,2022092509,,,202209250sdg,,,7,10,440,-580,10,-120,100,,,,0,dome,matrixturf,,,,,,,Doug Pederson,Brandon Staley,,LAX01,SoFi Stadium
+2022_03_LA_ARI,2022,REG,3,2022-09-25,Sunday,16:25,LA,,ARI,,Home,,,,2022092510,,,202209250crd,,,7,7,-130,110,-2,-110,-110,,,,1,closed,grass,,,,,,,Sean McVay,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_03_ATL_SEA,2022,REG,3,2022-09-25,Sunday,16:25,ATL,,SEA,,Home,,,,2022092511,,,202209250sea,,,7,7,140,-165,3.5,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Arthur Smith,Pete Carroll,,SEA00,Lumen Field
+2022_03_GB_TB,2022,REG,3,2022-09-25,Sunday,16:25,GB,,TB,,Home,,,,2022092512,,,202209250tam,,,7,7,140,-165,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Todd Bowles,,TAM00,Raymond James Stadium
+2022_03_SF_DEN,2022,REG,3,2022-09-25,Sunday,20:20,SF,,DEN,,Home,,,,2022092513,,,202209250den,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,,8,8,-175,150,-4,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
+2022_04_MIA_CIN,2022,REG,4,2022-09-29,Thursday,20:15,MIA,,CIN,,Home,,,,2022092900,,,202209290cin,,,4,4,150,-175,4,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_04_MIN_NO,2022,REG,4,2022-10-02,Sunday,09:30,MIN,,NO,,Neutral,,,,2022100200,,,202210020nor,,,7,7,-115,-105,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Dennis Allen,,LON02,Tottenham Stadium
 2022_04_CLE_ATL,2022,REG,4,2022-10-02,Sunday,13:00,CLE,,ATL,,Home,,,,2022100201,,,202210020atl,,,10,7,,,,,,,,,0,,fieldturf,,,,,,,Kevin Stefanski,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_04_BUF_BAL,2022,REG,4,2022-10-02,Sunday,13:00,BUF,,BAL,,Home,,,,2022100202,,,202210020rav,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Sean McDermott,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_04_WAS_DAL,2022,REG,4,2022-10-02,Sunday,13:00,WAS,,DAL,,Home,,,,2022100203,,,202210020dal,,,7,6,,,,,,,,,1,closed,fieldturf,,,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
-2022_04_SEA_DET,2022,REG,4,2022-10-02,Sunday,13:00,SEA,,DET,,Home,,,,2022100204,,,202210020det,,,7,7,,,,,,,,,0,dome,fieldturf,,,,,,,Pete Carroll,Dan Campbell,,DET00,Ford Field
-2022_04_LAC_HOU,2022,REG,4,2022-10-02,Sunday,13:00,LAC,,HOU,,Home,,,,2022100205,,,202210020htx,,,7,7,,,,,,,,,0,,grass,,,,,,,Brandon Staley,Lovie Smith,,HOU00,NRG Stadium
-2022_04_TEN_IND,2022,REG,4,2022-10-02,Sunday,13:00,TEN,,IND,,Home,,,,2022100206,,,202210020clt,,,7,7,,,,,,,,,1,,fieldturf,,,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
-2022_04_CHI_NYG,2022,REG,4,2022-10-02,Sunday,13:00,CHI,,NYG,,Home,,,,2022100207,,,202210020nyg,,,7,6,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Matt Eberflus,Brian Daboll,,NYC01,MetLife Stadium
-2022_04_JAX_PHI,2022,REG,4,2022-10-02,Sunday,13:00,JAX,,PHI,,Home,,,,2022100208,,,202210020phi,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Doug Pederson,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_04_NYJ_PIT,2022,REG,4,2022-10-02,Sunday,13:00,NYJ,,PIT,,Home,,,,2022100209,,,202210020pit,,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_04_ARI_CAR,2022,REG,4,2022-10-02,Sunday,16:05,ARI,,CAR,,Home,,,,2022100210,,,202210020car,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
-2022_04_NE_GB,2022,REG,4,2022-10-02,Sunday,16:25,NE,,GB,,Home,,,,2022100211,,,202210020gnb,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Bill Belichick,Matt LaFleur,,GNB00,Lambeau Field
-2022_04_DEN_LV,2022,REG,4,2022-10-02,Sunday,16:25,DEN,,LV,,Home,,,,2022100212,,,202210020rai,,,7,7,,,,,,,,,1,dome,grass,,,,,,,Nathaniel Hackett,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_04_KC_TB,2022,REG,4,2022-10-02,Sunday,20:20,KC,,TB,,Home,,,,2022100213,,,202210020tam,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Todd Bowles,,TAM00,Raymond James Stadium
-2022_04_LA_SF,2022,REG,4,2022-10-03,Monday,20:15,LA,,SF,,Home,,,,2022100300,,,202210030sfo,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_05_IND_DEN,2022,REG,5,2022-10-06,Thursday,20:15,IND,,DEN,,Home,,,,2022100600,,,202210060den,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Frank Reich,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_05_NYG_GB,2022,REG,5,2022-10-09,Sunday,09:30,NYG,,GB,,Neutral,,,,2022100900,,,202210090gnb,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Daboll,Matt LaFleur,,LON02,Tottenham Stadium
-2022_05_PIT_BUF,2022,REG,5,2022-10-09,Sunday,13:00,PIT,,BUF,,Home,,,,2022100901,,,202210090buf,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Mike Tomlin,Sean McDermott,,BUF00,New Era Field
+2022_04_BUF_BAL,2022,REG,4,2022-10-02,Sunday,13:00,BUF,,BAL,,Home,,,,2022100202,,,202210020rav,,,7,7,-120,100,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McDermott,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_04_WAS_DAL,2022,REG,4,2022-10-02,Sunday,13:00,WAS,,DAL,,Home,,,,2022100203,,,202210020dal,,,7,6,225,-265,6,-110,-110,,,,1,closed,fieldturf,,,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
+2022_04_SEA_DET,2022,REG,4,2022-10-02,Sunday,13:00,SEA,,DET,,Home,,,,2022100204,,,202210020det,,,7,7,100,-120,1,-110,-110,,,,0,dome,fieldturf,,,,,,,Pete Carroll,Dan Campbell,,DET00,Ford Field
+2022_04_LAC_HOU,2022,REG,4,2022-10-02,Sunday,13:00,LAC,,HOU,,Home,,,,2022100205,,,202210020htx,,,7,7,-380,310,-8,-110,-110,,,,0,,grass,,,,,,,Brandon Staley,Lovie Smith,,HOU00,NRG Stadium
+2022_04_TEN_IND,2022,REG,4,2022-10-02,Sunday,13:00,TEN,,IND,,Home,,,,2022100206,,,202210020clt,,,7,7,135,-155,3,-110,-110,,,,1,,fieldturf,,,,,,,Mike Vrabel,Frank Reich,,IND00,Lucas Oil Stadium
+2022_04_CHI_NYG,2022,REG,4,2022-10-02,Sunday,13:00,CHI,,NYG,,Home,,,,2022100207,,,202210020nyg,,,7,6,115,-135,2.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Matt Eberflus,Brian Daboll,,NYC01,MetLife Stadium
+2022_04_JAX_PHI,2022,REG,4,2022-10-02,Sunday,13:00,JAX,,PHI,,Home,,,,2022100208,,,202210020phi,,,7,7,230,-275,6.5,-110,-110,,,,0,outdoors,grass,,,,,,,Doug Pederson,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_04_NYJ_PIT,2022,REG,4,2022-10-02,Sunday,13:00,NYJ,,PIT,,Home,,,,2022100209,,,202210020pit,,,7,10,130,-150,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Robert Saleh,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_04_ARI_CAR,2022,REG,4,2022-10-02,Sunday,16:05,ARI,,CAR,,Home,,,,2022100210,,,202210020car,,,7,7,-125,105,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Matt Rhule,,CAR00,Bank of America Stadium
+2022_04_NE_GB,2022,REG,4,2022-10-02,Sunday,16:25,NE,,GB,,Home,,,,2022100211,,,202210020gnb,,,7,7,195,-230,5,-110,-110,,,,0,outdoors,grass,,,,,,,Bill Belichick,Matt LaFleur,,GNB00,Lambeau Field
+2022_04_DEN_LV,2022,REG,4,2022-10-02,Sunday,16:25,DEN,,LV,,Home,,,,2022100212,,,202210020rai,,,7,7,-110,-110,-0,-110,-110,,,,1,dome,grass,,,,,,,Nathaniel Hackett,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_04_KC_TB,2022,REG,4,2022-10-02,Sunday,20:20,KC,,TB,,Home,,,,2022100213,,,202210020tam,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,Todd Bowles,,TAM00,Raymond James Stadium
+2022_04_LA_SF,2022,REG,4,2022-10-03,Monday,20:15,LA,,SF,,Home,,,,2022100300,,,202210030sfo,,,8,8,-120,100,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_05_IND_DEN,2022,REG,5,2022-10-06,Thursday,20:15,IND,,DEN,,Home,,,,2022100600,,,202210060den,,,4,4,135,-155,3,-110,-110,,,,0,outdoors,grass,,,,,,,Frank Reich,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_05_NYG_GB,2022,REG,5,2022-10-09,Sunday,09:30,NYG,,GB,,Neutral,,,,2022100900,,,202210090gnb,,,7,7,250,-300,7,-110,-110,,,,0,outdoors,grass,,,,,,,Brian Daboll,Matt LaFleur,,LON02,Tottenham Stadium
+2022_05_PIT_BUF,2022,REG,5,2022-10-09,Sunday,13:00,PIT,,BUF,,Home,,,,2022100901,,,202210090buf,,,7,7,370,-460,9.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Mike Tomlin,Sean McDermott,,BUF00,New Era Field
 2022_05_LAC_CLE,2022,REG,5,2022-10-09,Sunday,13:00,LAC,,CLE,,Home,,,,2022100902,,,202210090cle,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brandon Staley,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_05_HOU_JAX,2022,REG,5,2022-10-09,Sunday,13:00,HOU,,JAX,,Home,,,,2022100903,,,202210090jax,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Lovie Smith,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_05_CHI_MIN,2022,REG,5,2022-10-09,Sunday,13:00,CHI,,MIN,,Home,,,,2022100904,,,202210090min,,,7,7,,,,,,,,,1,dome,sportturf,,,,,,,Matt Eberflus,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_05_DET_NE,2022,REG,5,2022-10-09,Sunday,13:00,DET,,NE,,Home,,,,2022100905,,,202210090nwe,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Dan Campbell,Bill Belichick,,BOS00,Gillette Stadium
-2022_05_SEA_NO,2022,REG,5,2022-10-09,Sunday,13:00,SEA,,NO,,Home,,,,2022100906,,,202210090nor,,,7,7,,,,,,,,,0,dome,astroturf,,,,,,,Pete Carroll,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_05_MIA_NYJ,2022,REG,5,2022-10-09,Sunday,13:00,MIA,,NYJ,,Home,,,,2022100907,,,202210090nyj,,,10,7,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Mike McDaniel,Robert Saleh,,NYC01,MetLife Stadium
-2022_05_ATL_TB,2022,REG,5,2022-10-09,Sunday,13:00,ATL,,TB,,Home,,,,2022100908,,,202210090tam,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Arthur Smith,Todd Bowles,,TAM00,Raymond James Stadium
-2022_05_TEN_WAS,2022,REG,5,2022-10-09,Sunday,13:00,TEN,,WAS,,Home,,,,2022100909,,,202210090was,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Ron Rivera,,WAS00,FedExField
-2022_05_SF_CAR,2022,REG,5,2022-10-09,Sunday,16:05,SF,,CAR,,Home,,,,2022100910,,,202210090car,,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Matt Rhule,,CAR00,Bank of America Stadium
-2022_05_PHI_ARI,2022,REG,5,2022-10-09,Sunday,16:25,PHI,,ARI,,Home,,,,2022100911,,,202210090crd,,,7,7,,,,,,,,,0,closed,grass,,,,,,,Nick Sirianni,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_05_DAL_LA,2022,REG,5,2022-10-09,Sunday,16:25,DAL,,LA,,Home,,,,2022100912,,,202210090ram,,,7,6,,,,,,,,,0,dome,matrixturf,,,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
-2022_05_CIN_BAL,2022,REG,5,2022-10-09,Sunday,20:20,CIN,,BAL,,Home,,,,2022100913,,,202210090rav,,,10,7,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_05_LV_KC,2022,REG,5,2022-10-10,Monday,20:15,LV,,KC,,Home,,,,2022101000,,,202210100kan,,,8,8,,,,,,,,,1,outdoors,astroturf,,,,,,,Josh McDaniels,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_06_WAS_CHI,2022,REG,6,2022-10-13,Thursday,20:15,WAS,,CHI,,Home,,,,2022101300,,,202210130chi,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Ron Rivera,Matt Eberflus,,CHI98,Soldier Field
-2022_06_SF_ATL,2022,REG,6,2022-10-16,Sunday,13:00,SF,,ATL,,Home,,,,2022101600,,,202210160atl,,,7,7,,,,,,,,,0,,fieldturf,,,,,,,Kyle Shanahan,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_05_HOU_JAX,2022,REG,5,2022-10-09,Sunday,13:00,HOU,,JAX,,Home,,,,2022100903,,,202210090jax,,,7,7,140,-165,3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Lovie Smith,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_05_CHI_MIN,2022,REG,5,2022-10-09,Sunday,13:00,CHI,,MIN,,Home,,,,2022100904,,,202210090min,,,7,7,200,-240,6,-110,-110,,,,1,dome,sportturf,,,,,,,Matt Eberflus,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_05_DET_NE,2022,REG,5,2022-10-09,Sunday,13:00,DET,,NE,,Home,,,,2022100905,,,202210090nwe,,,7,7,220,-260,6.5,-110,-110,,,,0,outdoors,grass,,,,,,,Dan Campbell,Bill Belichick,,BOS00,Gillette Stadium
+2022_05_SEA_NO,2022,REG,5,2022-10-09,Sunday,13:00,SEA,,NO,,Home,,,,2022100906,,,202210090nor,,,7,7,195,-230,6,-110,-110,,,,0,dome,astroturf,,,,,,,Pete Carroll,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_05_MIA_NYJ,2022,REG,5,2022-10-09,Sunday,13:00,MIA,,NYJ,,Home,,,,2022100907,,,202210090nyj,,,10,7,-145,125,-2.5,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Mike McDaniel,Robert Saleh,,NYC01,MetLife Stadium
+2022_05_ATL_TB,2022,REG,5,2022-10-09,Sunday,13:00,ATL,,TB,,Home,,,,2022100908,,,202210090tam,,,7,7,450,-600,10.5,-110,-110,,,,1,outdoors,grass,,,,,,,Arthur Smith,Todd Bowles,,TAM00,Raymond James Stadium
+2022_05_TEN_WAS,2022,REG,5,2022-10-09,Sunday,13:00,TEN,,WAS,,Home,,,,2022100909,,,202210090was,,,7,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Ron Rivera,,WAS00,FedExField
+2022_05_SF_CAR,2022,REG,5,2022-10-09,Sunday,16:05,SF,,CAR,,Home,,,,2022100910,,,202210090car,,,6,7,-135,115,-2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Matt Rhule,,CAR00,Bank of America Stadium
+2022_05_PHI_ARI,2022,REG,5,2022-10-09,Sunday,16:25,PHI,,ARI,,Home,,,,2022100911,,,202210090crd,,,7,7,110,-130,2,-110,-110,,,,0,closed,grass,,,,,,,Nick Sirianni,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_05_DAL_LA,2022,REG,5,2022-10-09,Sunday,16:25,DAL,,LA,,Home,,,,2022100912,,,202210090ram,,,7,6,160,-190,4.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Mike McCarthy,Sean McVay,,LAX01,SoFi Stadium
+2022_05_CIN_BAL,2022,REG,5,2022-10-09,Sunday,20:20,CIN,,BAL,,Home,,,,2022100913,,,202210090rav,,,10,7,100,-120,1,-110,-110,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_05_LV_KC,2022,REG,5,2022-10-10,Monday,20:15,LV,,KC,,Home,,,,2022101000,,,202210100kan,,,8,8,200,-240,6,-110,-110,,,,1,outdoors,astroturf,,,,,,,Josh McDaniels,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_06_WAS_CHI,2022,REG,6,2022-10-13,Thursday,20:15,WAS,,CHI,,Home,,,,2022101300,,,202210130chi,,,4,4,-125,105,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Ron Rivera,Matt Eberflus,,CHI98,Soldier Field
+2022_06_SF_ATL,2022,REG,6,2022-10-16,Sunday,13:00,SF,,ATL,,Home,,,,2022101600,,,202210160atl,,,7,7,-260,220,-6.5,-110,-110,,,,0,,fieldturf,,,,,,,Kyle Shanahan,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2022_06_NE_CLE,2022,REG,6,2022-10-16,Sunday,13:00,NE,,CLE,,Home,,,,2022101601,,,202210160cle,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Bill Belichick,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_06_NYJ_GB,2022,REG,6,2022-10-16,Sunday,13:00,NYJ,,GB,,Home,,,,2022101602,,,202210160gnb,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Matt LaFleur,,GNB00,Lambeau Field
-2022_06_JAX_IND,2022,REG,6,2022-10-16,Sunday,13:00,JAX,,IND,,Home,,,,2022101603,,,202210160clt,,,7,10,,,,,,,,,1,,fieldturf,,,,,,,Doug Pederson,Frank Reich,,IND00,Lucas Oil Stadium
-2022_06_MIN_MIA,2022,REG,6,2022-10-16,Sunday,13:00,MIN,,MIA,,Home,,,,2022101604,,,202210160mia,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_06_CIN_NO,2022,REG,6,2022-10-16,Sunday,13:00,CIN,,NO,,Home,,,,2022101605,,,202210160nor,,,7,7,,,,,,,,,0,dome,astroturf,,,,,,,Zac Taylor,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_06_BAL_NYG,2022,REG,6,2022-10-16,Sunday,13:00,BAL,,NYG,,Home,,,,2022101606,,,202210160nyg,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,,,,,John Harbaugh,Brian Daboll,,NYC01,MetLife Stadium
-2022_06_TB_PIT,2022,REG,6,2022-10-16,Sunday,13:00,TB,,PIT,,Home,,,,2022101607,,,202210160pit,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_06_CAR_LA,2022,REG,6,2022-10-16,Sunday,16:05,CAR,,LA,,Home,,,,2022101608,,,202210160ram,,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Matt Rhule,Sean McVay,,LAX01,SoFi Stadium
-2022_06_ARI_SEA,2022,REG,6,2022-10-16,Sunday,16:05,ARI,,SEA,,Home,,,,2022101609,,,202210160sea,,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Kliff Kingsbury,Pete Carroll,,SEA00,Lumen Field
-2022_06_BUF_KC,2022,REG,6,2022-10-16,Sunday,16:25,BUF,,KC,,Home,,,,2022101610,,,202210160kan,,,7,6,,,,,,,,,0,outdoors,astroturf,,,,,,,Sean McDermott,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_06_DAL_PHI,2022,REG,6,2022-10-16,Sunday,20:20,DAL,,PHI,,Home,,,,2022101611,,,202210160phi,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_06_DEN_LAC,2022,REG,6,2022-10-17,Monday,20:15,DEN,,LAC,,Home,,,,2022101700,,,202210170sdg,,,11,8,,,,,,,,,1,dome,matrixturf,,,,,,,Nathaniel Hackett,Brandon Staley,,LAX01,SoFi Stadium
-2022_07_NO_ARI,2022,REG,7,2022-10-20,Thursday,20:15,NO,,ARI,,Home,,,,2022102000,,,202210200crd,,,4,4,,,,,,,,,0,closed,grass,,,,,,,Dennis Allen,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_06_NYJ_GB,2022,REG,6,2022-10-16,Sunday,13:00,NYJ,,GB,,Home,,,,2022101602,,,202210160gnb,,,7,7,350,-435,9.5,-110,-110,,,,0,outdoors,grass,,,,,,,Robert Saleh,Matt LaFleur,,GNB00,Lambeau Field
+2022_06_JAX_IND,2022,REG,6,2022-10-16,Sunday,13:00,JAX,,IND,,Home,,,,2022101603,,,202210160clt,,,7,10,260,-315,7,-110,-110,,,,1,,fieldturf,,,,,,,Doug Pederson,Frank Reich,,IND00,Lucas Oil Stadium
+2022_06_MIN_MIA,2022,REG,6,2022-10-16,Sunday,13:00,MIN,,MIA,,Home,,,,2022101604,,,202210160mia,,,7,7,135,-155,3,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_06_CIN_NO,2022,REG,6,2022-10-16,Sunday,13:00,CIN,,NO,,Home,,,,2022101605,,,202210160nor,,,7,7,-120,100,-1,-110,-110,,,,0,dome,astroturf,,,,,,,Zac Taylor,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_06_BAL_NYG,2022,REG,6,2022-10-16,Sunday,13:00,BAL,,NYG,,Home,,,,2022101606,,,202210160nyg,,,7,7,-155,135,-3.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,John Harbaugh,Brian Daboll,,NYC01,MetLife Stadium
+2022_06_TB_PIT,2022,REG,6,2022-10-16,Sunday,13:00,TB,,PIT,,Home,,,,2022101607,,,202210160pit,,,7,7,-225,190,-5.5,-110,-110,,,,0,outdoors,grass,,,,,,,Todd Bowles,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_06_CAR_LA,2022,REG,6,2022-10-16,Sunday,16:05,CAR,,LA,,Home,,,,2022101608,,,202210160ram,,,7,7,310,-380,7.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Matt Rhule,Sean McVay,,LAX01,SoFi Stadium
+2022_06_ARI_SEA,2022,REG,6,2022-10-16,Sunday,16:05,ARI,,SEA,,Home,,,,2022101609,,,202210160sea,,,7,7,-135,115,-2.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Kliff Kingsbury,Pete Carroll,,SEA00,Lumen Field
+2022_06_BUF_KC,2022,REG,6,2022-10-16,Sunday,16:25,BUF,,KC,,Home,,,,2022101610,,,202210160kan,,,7,6,-125,105,-1.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Sean McDermott,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_06_DAL_PHI,2022,REG,6,2022-10-16,Sunday,20:20,DAL,,PHI,,Home,,,,2022101611,,,202210160phi,,,7,7,-110,-110,-0,-110,-110,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_06_DEN_LAC,2022,REG,6,2022-10-17,Monday,20:15,DEN,,LAC,,Home,,,,2022101700,,,202210170sdg,,,11,8,140,-165,3,100,-120,,,,1,dome,matrixturf,,,,,,,Nathaniel Hackett,Brandon Staley,,LAX01,SoFi Stadium
+2022_07_NO_ARI,2022,REG,7,2022-10-20,Thursday,20:15,NO,,ARI,,Home,,,,2022102000,,,202210200crd,,,4,4,140,-165,3,-110,-110,,,,0,closed,grass,,,,,,,Dennis Allen,Kliff Kingsbury,,PHO00,State Farm Stadium
 2022_07_CLE_BAL,2022,REG,7,2022-10-23,Sunday,13:00,CLE,,BAL,,Home,,,,2022102300,,,202210230rav,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_07_TB_CAR,2022,REG,7,2022-10-23,Sunday,13:00,TB,,CAR,,Home,,,,2022102301,,,202210230car,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Todd Bowles,Matt Rhule,,CAR00,Bank of America Stadium
-2022_07_ATL_CIN,2022,REG,7,2022-10-23,Sunday,13:00,ATL,,CIN,,Home,,,,2022102302,,,202210230cin,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Arthur Smith,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_07_DET_DAL,2022,REG,7,2022-10-23,Sunday,13:00,DET,,DAL,,Home,,,,2022102303,,,202210230dal,,,14,7,,,,,,,,,0,closed,fieldturf,,,,,,,Dan Campbell,Mike McCarthy,,DAL00,AT&T Stadium
-2022_07_NYG_JAX,2022,REG,7,2022-10-23,Sunday,13:00,NYG,,JAX,,Home,,,,2022102304,,,202210230jax,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Daboll,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_07_IND_TEN,2022,REG,7,2022-10-23,Sunday,13:00,IND,,TEN,,Home,,,,2022102305,,,202210230oti,,,7,14,,,,,,,,,1,outdoors,grass,,,,,,,Frank Reich,Mike Vrabel,,NAS00,Nissan Stadium
-2022_07_GB_WAS,2022,REG,7,2022-10-23,Sunday,13:00,GB,,WAS,,Home,,,,2022102306,,,202210230was,,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Ron Rivera,,WAS00,FedExField
-2022_07_NYJ_DEN,2022,REG,7,2022-10-23,Sunday,16:05,NYJ,,DEN,,Home,,,,2022102307,,,202210230den,,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_07_HOU_LV,2022,REG,7,2022-10-23,Sunday,16:05,HOU,,LV,,Home,,,,2022102308,,,202210230rai,,,14,13,,,,,,,,,0,dome,grass,,,,,,,Lovie Smith,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_07_SEA_LAC,2022,REG,7,2022-10-23,Sunday,16:25,SEA,,LAC,,Home,,,,2022102309,,,202210230sdg,,,7,6,,,,,,,,,0,dome,matrixturf,,,,,,,Pete Carroll,Brandon Staley,,LAX01,SoFi Stadium
-2022_07_KC_SF,2022,REG,7,2022-10-23,Sunday,16:25,KC,,SF,,Home,,,,2022102310,,,202210230sfo,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_07_PIT_MIA,2022,REG,7,2022-10-23,Sunday,20:20,PIT,,MIA,,Home,,,,2022102311,,,202210230mia,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_07_CHI_NE,2022,REG,7,2022-10-24,Monday,20:15,CHI,,NE,,Home,,,,2022102400,,,202210240nwe,,,11,8,,,,,,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Bill Belichick,,BOS00,Gillette Stadium
-2022_08_BAL_TB,2022,REG,8,2022-10-27,Thursday,20:15,BAL,,TB,,Home,,,,2022102700,,,202210270tam,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,John Harbaugh,Todd Bowles,,TAM00,Raymond James Stadium
-2022_08_DEN_JAX,2022,REG,8,2022-10-30,Sunday,09:30,DEN,,JAX,,Neutral,,,,2022103000,,,202210300jax,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Doug Pederson,,LON00,Wembley Stadium
-2022_08_CAR_ATL,2022,REG,8,2022-10-30,Sunday,13:00,CAR,,ATL,,Home,,,,2022103001,,,202210300atl,,,7,7,,,,,,,,,1,,fieldturf,,,,,,,Matt Rhule,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_08_CHI_DAL,2022,REG,8,2022-10-30,Sunday,13:00,CHI,,DAL,,Home,,,,2022103002,,,202210300dal,,,6,7,,,,,,,,,0,closed,fieldturf,,,,,,,Matt Eberflus,Mike McCarthy,,DAL00,AT&T Stadium
-2022_08_MIA_DET,2022,REG,8,2022-10-30,Sunday,13:00,MIA,,DET,,Home,,,,2022103003,,,202210300det,,,7,7,,,,,,,,,0,dome,fieldturf,,,,,,,Mike McDaniel,Dan Campbell,,DET00,Ford Field
-2022_08_ARI_MIN,2022,REG,8,2022-10-30,Sunday,13:00,ARI,,MIN,,Home,,,,2022103004,,,202210300min,,,10,14,,,,,,,,,0,dome,sportturf,,,,,,,Kliff Kingsbury,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_08_LV_NO,2022,REG,8,2022-10-30,Sunday,13:00,LV,,NO,,Home,,,,2022103005,,,202210300nor,,,7,10,,,,,,,,,0,dome,astroturf,,,,,,,Josh McDaniels,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_08_NE_NYJ,2022,REG,8,2022-10-30,Sunday,13:00,NE,,NYJ,,Home,,,,2022103006,,,202210300nyj,,,6,7,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Bill Belichick,Robert Saleh,,NYC01,MetLife Stadium
-2022_08_PIT_PHI,2022,REG,8,2022-10-30,Sunday,13:00,PIT,,PHI,,Home,,,,2022103007,,,202210300phi,,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_08_TEN_HOU,2022,REG,8,2022-10-30,Sunday,16:05,TEN,,HOU,,Home,,,,2022103008,,,202210300htx,,,7,7,,,,,,,,,1,,grass,,,,,,,Mike Vrabel,Lovie Smith,,HOU00,NRG Stadium
-2022_08_WAS_IND,2022,REG,8,2022-10-30,Sunday,16:25,WAS,,IND,,Home,,,,2022103009,,,202210300clt,,,7,7,,,,,,,,,0,,fieldturf,,,,,,,Ron Rivera,Frank Reich,,IND00,Lucas Oil Stadium
-2022_08_SF_LA,2022,REG,8,2022-10-30,Sunday,16:25,SF,,LA,,Home,,,,2022103010,,,202210300ram,,,7,14,,,,,,,,,1,dome,matrixturf,,,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
-2022_08_NYG_SEA,2022,REG,8,2022-10-30,Sunday,16:25,NYG,,SEA,,Home,,,,2022103011,,,202210300sea,,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Brian Daboll,Pete Carroll,,SEA00,Lumen Field
-2022_08_GB_BUF,2022,REG,8,2022-10-30,Sunday,20:20,GB,,BUF,,Home,,,,2022103012,,,202210300buf,,,7,14,,,,,,,,,0,outdoors,astroturf,,,,,,,Matt LaFleur,Sean McDermott,,BUF00,New Era Field
+2022_07_TB_CAR,2022,REG,7,2022-10-23,Sunday,13:00,TB,,CAR,,Home,,,,2022102301,,,202210230car,,,7,7,-225,190,-5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Todd Bowles,Matt Rhule,,CAR00,Bank of America Stadium
+2022_07_ATL_CIN,2022,REG,7,2022-10-23,Sunday,13:00,ATL,,CIN,,Home,,,,2022102302,,,202210230cin,,,7,7,420,-540,10,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_07_DET_DAL,2022,REG,7,2022-10-23,Sunday,13:00,DET,,DAL,,Home,,,,2022102303,,,202210230dal,,,14,7,230,-275,7,-110,-110,,,,0,closed,fieldturf,,,,,,,Dan Campbell,Mike McCarthy,,DAL00,AT&T Stadium
+2022_07_NYG_JAX,2022,REG,7,2022-10-23,Sunday,13:00,NYG,,JAX,,Home,,,,2022102304,,,202210230jax,,,7,7,105,-125,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Brian Daboll,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_07_IND_TEN,2022,REG,7,2022-10-23,Sunday,13:00,IND,,TEN,,Home,,,,2022102305,,,202210230oti,,,7,14,-110,-110,-0,-110,-110,,,,1,outdoors,grass,,,,,,,Frank Reich,Mike Vrabel,,NAS00,Nissan Stadium
+2022_07_GB_WAS,2022,REG,7,2022-10-23,Sunday,13:00,GB,,WAS,,Home,,,,2022102306,,,202210230was,,,7,10,-170,145,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Ron Rivera,,WAS00,FedExField
+2022_07_NYJ_DEN,2022,REG,7,2022-10-23,Sunday,16:05,NYJ,,DEN,,Home,,,,2022102307,,,202210230den,,,7,6,280,-340,7.5,-110,-110,,,,0,outdoors,grass,,,,,,,Robert Saleh,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_07_HOU_LV,2022,REG,7,2022-10-23,Sunday,16:05,HOU,,LV,,Home,,,,2022102308,,,202210230rai,,,14,13,350,-435,8,-110,-110,,,,0,dome,grass,,,,,,,Lovie Smith,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_07_SEA_LAC,2022,REG,7,2022-10-23,Sunday,16:25,SEA,,LAC,,Home,,,,2022102309,,,202210230sdg,,,7,6,360,-450,8.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Pete Carroll,Brandon Staley,,LAX01,SoFi Stadium
+2022_07_KC_SF,2022,REG,7,2022-10-23,Sunday,16:25,KC,,SF,,Home,,,,2022102310,,,202210230sfo,,,7,7,-115,-105,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_07_PIT_MIA,2022,REG,7,2022-10-23,Sunday,20:20,PIT,,MIA,,Home,,,,2022102311,,,202210230mia,,,7,7,175,-205,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_07_CHI_NE,2022,REG,7,2022-10-24,Monday,20:15,CHI,,NE,,Home,,,,2022102400,,,202210240nwe,,,11,8,205,-245,6,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Bill Belichick,,BOS00,Gillette Stadium
+2022_08_BAL_TB,2022,REG,8,2022-10-27,Thursday,20:15,BAL,,TB,,Home,,,,2022102700,,,202210270tam,,,4,4,140,-165,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,John Harbaugh,Todd Bowles,,TAM00,Raymond James Stadium
+2022_08_DEN_JAX,2022,REG,8,2022-10-30,Sunday,09:30,DEN,,JAX,,Neutral,,,,2022103000,,,202210300jax,,,7,7,-260,220,-6.5,-110,-110,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Doug Pederson,,LON00,Wembley Stadium
+2022_08_CAR_ATL,2022,REG,8,2022-10-30,Sunday,13:00,CAR,,ATL,,Home,,,,2022103001,,,202210300atl,,,7,7,-125,105,-1.5,-110,-110,,,,1,,fieldturf,,,,,,,Matt Rhule,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_08_CHI_DAL,2022,REG,8,2022-10-30,Sunday,13:00,CHI,,DAL,,Home,,,,2022103002,,,202210300dal,,,6,7,240,-285,7,-110,-110,,,,0,closed,fieldturf,,,,,,,Matt Eberflus,Mike McCarthy,,DAL00,AT&T Stadium
+2022_08_MIA_DET,2022,REG,8,2022-10-30,Sunday,13:00,MIA,,DET,,Home,,,,2022103003,,,202210300det,,,7,7,-145,125,-3,100,-120,,,,0,dome,fieldturf,,,,,,,Mike McDaniel,Dan Campbell,,DET00,Ford Field
+2022_08_ARI_MIN,2022,REG,8,2022-10-30,Sunday,13:00,ARI,,MIN,,Home,,,,2022103004,,,202210300min,,,10,14,100,-120,1,-110,-110,,,,0,dome,sportturf,,,,,,,Kliff Kingsbury,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_08_LV_NO,2022,REG,8,2022-10-30,Sunday,13:00,LV,,NO,,Home,,,,2022103005,,,202210300nor,,,7,10,-110,-110,-0,-110,-110,,,,0,dome,astroturf,,,,,,,Josh McDaniels,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_08_NE_NYJ,2022,REG,8,2022-10-30,Sunday,13:00,NE,,NYJ,,Home,,,,2022103006,,,202210300nyj,,,6,7,-145,125,-2.5,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Bill Belichick,Robert Saleh,,NYC01,MetLife Stadium
+2022_08_PIT_PHI,2022,REG,8,2022-10-30,Sunday,13:00,PIT,,PHI,,Home,,,,2022103007,,,202210300phi,,,7,14,155,-180,3.5,100,-120,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_08_TEN_HOU,2022,REG,8,2022-10-30,Sunday,16:05,TEN,,HOU,,Home,,,,2022103008,,,202210300htx,,,7,7,-215,185,-5.5,-110,-110,,,,1,,grass,,,,,,,Mike Vrabel,Lovie Smith,,HOU00,NRG Stadium
+2022_08_WAS_IND,2022,REG,8,2022-10-30,Sunday,16:25,WAS,,IND,,Home,,,,2022103009,,,202210300clt,,,7,7,195,-230,5,-110,-110,,,,0,,fieldturf,,,,,,,Ron Rivera,Frank Reich,,IND00,Lucas Oil Stadium
+2022_08_SF_LA,2022,REG,8,2022-10-30,Sunday,16:25,SF,,LA,,Home,,,,2022103010,,,202210300ram,,,7,14,165,-195,4.5,-110,-110,,,,1,dome,matrixturf,,,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
+2022_08_NYG_SEA,2022,REG,8,2022-10-30,Sunday,16:25,NYG,,SEA,,Home,,,,2022103011,,,202210300sea,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Brian Daboll,Pete Carroll,,SEA00,Lumen Field
+2022_08_GB_BUF,2022,REG,8,2022-10-30,Sunday,20:20,GB,,BUF,,Home,,,,2022103012,,,202210300buf,,,7,14,160,-190,4,-110,-110,,,,0,outdoors,astroturf,,,,,,,Matt LaFleur,Sean McDermott,,BUF00,New Era Field
 2022_08_CIN_CLE,2022,REG,8,2022-10-31,Monday,20:15,CIN,,CLE,,Home,,,,2022103100,,,202210310cle,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_09_PHI_HOU,2022,REG,9,2022-11-03,Thursday,20:15,PHI,,HOU,,Home,,,,2022110300,,,202211030htx,,,4,4,,,,,,,,,0,,grass,,,,,,,Nick Sirianni,Lovie Smith,,HOU00,NRG Stadium
-2022_09_LAC_ATL,2022,REG,9,2022-11-06,Sunday,13:00,LAC,,ATL,,Home,,,,2022110600,,,202211060atl,,,14,7,,,,,,,,,0,,fieldturf,,,,,,,Brandon Staley,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_09_MIA_CHI,2022,REG,9,2022-11-06,Sunday,13:00,MIA,,CHI,,Home,,,,2022110601,,,202211060chi,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Matt Eberflus,,CHI98,Soldier Field
-2022_09_CAR_CIN,2022,REG,9,2022-11-06,Sunday,13:00,CAR,,CIN,,Home,,,,2022110602,,,202211060cin,,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Matt Rhule,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_09_GB_DET,2022,REG,9,2022-11-06,Sunday,13:00,GB,,DET,,Home,,,,2022110603,,,202211060det,,,7,7,,,,,,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
-2022_09_LV_JAX,2022,REG,9,2022-11-06,Sunday,13:00,LV,,JAX,,Home,,,,2022110604,,,202211060jax,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_09_IND_NE,2022,REG,9,2022-11-06,Sunday,13:00,IND,,NE,,Home,,,,2022110605,,,202211060nwe,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Frank Reich,Bill Belichick,,BOS00,Gillette Stadium
-2022_09_BUF_NYJ,2022,REG,9,2022-11-06,Sunday,13:00,BUF,,NYJ,,Home,,,,2022110606,,,202211060nyj,,,7,7,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Sean McDermott,Robert Saleh,,NYC01,MetLife Stadium
-2022_09_MIN_WAS,2022,REG,9,2022-11-06,Sunday,13:00,MIN,,WAS,,Home,,,,2022110607,,,202211060was,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Ron Rivera,,WAS00,FedExField
-2022_09_SEA_ARI,2022,REG,9,2022-11-06,Sunday,16:05,SEA,,ARI,,Home,,,,2022110608,,,202211060crd,,,7,7,,,,,,,,,1,closed,grass,,,,,,,Pete Carroll,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_09_LA_TB,2022,REG,9,2022-11-06,Sunday,16:25,LA,,TB,,Home,,,,2022110609,,,202211060tam,,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Sean McVay,Todd Bowles,,TAM00,Raymond James Stadium
-2022_09_TEN_KC,2022,REG,9,2022-11-06,Sunday,20:20,TEN,,KC,,Home,,,,2022110610,,,202211060kan,,,7,14,,,,,,,,,0,outdoors,astroturf,,,,,,,Mike Vrabel,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_09_BAL_NO,2022,REG,9,2022-11-07,Monday,20:15,BAL,,NO,,Home,,,,2022110700,,,202211070nor,,,11,8,,,,,,,,,0,dome,astroturf,,,,,,,John Harbaugh,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_10_ATL_CAR,2022,REG,10,2022-11-10,Thursday,20:15,ATL,,CAR,,Home,,,,2022111000,,,202211100car,,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Arthur Smith,Matt Rhule,,CAR00,Bank of America Stadium
-2022_10_SEA_TB,2022,REG,10,2022-11-13,Sunday,09:30,SEA,,TB,,Neutral,,,,2022111300,,,202211130tam,,,7,7,,,,,,,,,0,,,,,,,,,Pete Carroll,Todd Bowles,,GER00,Allianz Arena
-2022_10_MIN_BUF,2022,REG,10,2022-11-13,Sunday,13:00,MIN,,BUF,,Home,,,,2022111301,,,202211130buf,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Kevin O'Connell,Sean McDermott,,BUF00,New Era Field
-2022_10_DET_CHI,2022,REG,10,2022-11-13,Sunday,13:00,DET,,CHI,,Home,,,,2022111302,,,202211130chi,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt Eberflus,,CHI98,Soldier Field
-2022_10_JAX_KC,2022,REG,10,2022-11-13,Sunday,13:00,JAX,,KC,,Home,,,,2022111303,,,202211130kan,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Doug Pederson,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_09_PHI_HOU,2022,REG,9,2022-11-03,Thursday,20:15,PHI,,HOU,,Home,,,,2022110300,,,202211030htx,,,4,4,-215,185,-5.5,-110,-110,,,,0,,grass,,,,,,,Nick Sirianni,Lovie Smith,,HOU00,NRG Stadium
+2022_09_LAC_ATL,2022,REG,9,2022-11-06,Sunday,13:00,LAC,,ATL,,Home,,,,2022110600,,,202211060atl,,,14,7,-350,290,-7.5,-110,-110,,,,0,,fieldturf,,,,,,,Brandon Staley,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_09_MIA_CHI,2022,REG,9,2022-11-06,Sunday,13:00,MIA,,CHI,,Home,,,,2022110601,,,202211060chi,,,7,7,-145,125,-3,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Matt Eberflus,,CHI98,Soldier Field
+2022_09_CAR_CIN,2022,REG,9,2022-11-06,Sunday,13:00,CAR,,CIN,,Home,,,,2022110602,,,202211060cin,,,7,6,240,-285,7,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Rhule,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_09_GB_DET,2022,REG,9,2022-11-06,Sunday,13:00,GB,,DET,,Home,,,,2022110603,,,202211060det,,,7,7,-245,205,-6,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
+2022_09_LV_JAX,2022,REG,9,2022-11-06,Sunday,13:00,LV,,JAX,,Home,,,,2022110604,,,202211060jax,,,7,7,-145,125,-3,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_09_IND_NE,2022,REG,9,2022-11-06,Sunday,13:00,IND,,NE,,Home,,,,2022110605,,,202211060nwe,,,7,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Frank Reich,Bill Belichick,,BOS00,Gillette Stadium
+2022_09_BUF_NYJ,2022,REG,9,2022-11-06,Sunday,13:00,BUF,,NYJ,,Home,,,,2022110606,,,202211060nyj,,,7,7,-280,235,-7,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Sean McDermott,Robert Saleh,,NYC01,MetLife Stadium
+2022_09_MIN_WAS,2022,REG,9,2022-11-06,Sunday,13:00,MIN,,WAS,,Home,,,,2022110607,,,202211060was,,,7,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Ron Rivera,,WAS00,FedExField
+2022_09_SEA_ARI,2022,REG,9,2022-11-06,Sunday,16:05,SEA,,ARI,,Home,,,,2022110608,,,202211060crd,,,7,7,215,-255,6.5,-110,-110,,,,1,closed,grass,,,,,,,Pete Carroll,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_09_LA_TB,2022,REG,9,2022-11-06,Sunday,16:25,LA,,TB,,Home,,,,2022110609,,,202211060tam,,,7,10,105,-125,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McVay,Todd Bowles,,TAM00,Raymond James Stadium
+2022_09_TEN_KC,2022,REG,9,2022-11-06,Sunday,20:20,TEN,,KC,,Home,,,,2022110610,,,202211060kan,,,7,14,210,-250,6,-110,-110,,,,0,outdoors,astroturf,,,,,,,Mike Vrabel,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_09_BAL_NO,2022,REG,9,2022-11-07,Monday,20:15,BAL,,NO,,Home,,,,2022110700,,,202211070nor,,,11,8,-120,100,-1,-110,-110,,,,0,dome,astroturf,,,,,,,John Harbaugh,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_10_ATL_CAR,2022,REG,10,2022-11-10,Thursday,20:15,ATL,,CAR,,Home,,,,2022111000,,,202211100car,,,4,4,175,-205,4.5,100,-120,,,,1,outdoors,grass,,,,,,,Arthur Smith,Matt Rhule,,CAR00,Bank of America Stadium
+2022_10_SEA_TB,2022,REG,10,2022-11-13,Sunday,09:30,SEA,,TB,,Neutral,,,,2022111300,,,202211130tam,,,7,7,320,-390,9.5,-110,-110,,,,0,,,,,,,,,Pete Carroll,Todd Bowles,,GER00,Allianz Arena
+2022_10_MIN_BUF,2022,REG,10,2022-11-13,Sunday,13:00,MIN,,BUF,,Home,,,,2022111301,,,202211130buf,,,7,7,290,-350,7.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Kevin O'Connell,Sean McDermott,,BUF00,New Era Field
+2022_10_DET_CHI,2022,REG,10,2022-11-13,Sunday,13:00,DET,,CHI,,Home,,,,2022111302,,,202211130chi,,,7,7,105,-125,1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt Eberflus,,CHI98,Soldier Field
+2022_10_JAX_KC,2022,REG,10,2022-11-13,Sunday,13:00,JAX,,KC,,Home,,,,2022111303,,,202211130kan,,,7,7,420,-540,10,-110,-110,,,,0,outdoors,astroturf,,,,,,,Doug Pederson,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2022_10_CLE_MIA,2022,REG,10,2022-11-13,Sunday,13:00,CLE,,MIA,,Home,,,,2022111304,,,202211130mia,,,13,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin Stefanski,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_10_HOU_NYG,2022,REG,10,2022-11-13,Sunday,13:00,HOU,,NYG,,Home,,,,2022111305,,,202211130nyg,,,10,14,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Lovie Smith,Brian Daboll,,NYC01,MetLife Stadium
-2022_10_NO_PIT,2022,REG,10,2022-11-13,Sunday,13:00,NO,,PIT,,Home,,,,2022111306,,,202211130pit,,,6,14,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_10_DEN_TEN,2022,REG,10,2022-11-13,Sunday,13:00,DEN,,TEN,,Home,,,,2022111307,,,202211130oti,,,14,7,,,,,,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Mike Vrabel,,NAS00,Nissan Stadium
-2022_10_IND_LV,2022,REG,10,2022-11-13,Sunday,16:05,IND,,LV,,Home,,,,2022111308,,,202211130rai,,,7,7,,,,,,,,,0,dome,grass,,,,,,,Frank Reich,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_10_DAL_GB,2022,REG,10,2022-11-13,Sunday,16:25,DAL,,GB,,Home,,,,2022111309,,,202211130gnb,,,14,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Matt LaFleur,,GNB00,Lambeau Field
-2022_10_ARI_LA,2022,REG,10,2022-11-13,Sunday,16:25,ARI,,LA,,Home,,,,2022111310,,,202211130ram,,,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
-2022_10_LAC_SF,2022,REG,10,2022-11-13,Sunday,20:20,LAC,,SF,,Home,,,,2022111311,,,202211130sfo,,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Brandon Staley,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_10_WAS_PHI,2022,REG,10,2022-11-14,Monday,20:15,WAS,,PHI,,Home,,,,2022111400,,,202211140phi,,,8,11,,,,,,,,,1,outdoors,grass,,,,,,,Ron Rivera,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_11_TEN_GB,2022,REG,11,2022-11-17,Thursday,20:15,TEN,,GB,,Home,,,,2022111700,,,202211170gnb,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Matt LaFleur,,GNB00,Lambeau Field
-2022_11_CHI_ATL,2022,REG,11,2022-11-20,Sunday,13:00,CHI,,ATL,,Home,,,,2022112000,,,202211200atl,,,7,10,,,,,,,,,0,,fieldturf,,,,,,,Matt Eberflus,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_11_CAR_BAL,2022,REG,11,2022-11-20,Sunday,13:00,CAR,,BAL,,Home,,,,2022112001,,,202211200rav,,,10,13,,,,,,,,,0,outdoors,grass,,,,,,,Matt Rhule,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_10_HOU_NYG,2022,REG,10,2022-11-13,Sunday,13:00,HOU,,NYG,,Home,,,,2022111305,,,202211130nyg,,,10,14,140,-165,3,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Lovie Smith,Brian Daboll,,NYC01,MetLife Stadium
+2022_10_NO_PIT,2022,REG,10,2022-11-13,Sunday,13:00,NO,,PIT,,Home,,,,2022111306,,,202211130pit,,,6,14,105,-125,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Dennis Allen,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_10_DEN_TEN,2022,REG,10,2022-11-13,Sunday,13:00,DEN,,TEN,,Home,,,,2022111307,,,202211130oti,,,14,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Mike Vrabel,,NAS00,Nissan Stadium
+2022_10_IND_LV,2022,REG,10,2022-11-13,Sunday,16:05,IND,,LV,,Home,,,,2022111308,,,202211130rai,,,7,7,110,-130,2,-110,-110,,,,0,dome,grass,,,,,,,Frank Reich,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_10_DAL_GB,2022,REG,10,2022-11-13,Sunday,16:25,DAL,,GB,,Home,,,,2022111309,,,202211130gnb,,,14,7,165,-195,4,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Matt LaFleur,,GNB00,Lambeau Field
+2022_10_ARI_LA,2022,REG,10,2022-11-13,Sunday,16:25,ARI,,LA,,Home,,,,2022111310,,,202211130ram,,,7,7,210,-250,6,-110,-110,,,,1,dome,matrixturf,,,,,,,Kliff Kingsbury,Sean McVay,,LAX01,SoFi Stadium
+2022_10_LAC_SF,2022,REG,10,2022-11-13,Sunday,20:20,LAC,,SF,,Home,,,,2022111311,,,202211130sfo,,,7,14,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Brandon Staley,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_10_WAS_PHI,2022,REG,10,2022-11-14,Monday,20:15,WAS,,PHI,,Home,,,,2022111400,,,202211140phi,,,8,11,145,-170,3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Ron Rivera,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_11_TEN_GB,2022,REG,11,2022-11-17,Thursday,20:15,TEN,,GB,,Home,,,,2022111700,,,202211170gnb,,,4,4,170,-200,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Matt LaFleur,,GNB00,Lambeau Field
+2022_11_CHI_ATL,2022,REG,11,2022-11-20,Sunday,13:00,CHI,,ATL,,Home,,,,2022112000,,,202211200atl,,,7,10,-110,-110,-0,-110,-110,,,,0,,fieldturf,,,,,,,Matt Eberflus,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_11_CAR_BAL,2022,REG,11,2022-11-20,Sunday,13:00,CAR,,BAL,,Home,,,,2022112001,,,202211200rav,,,10,13,200,-240,5.5,-105,-115,,,,0,outdoors,grass,,,,,,,Matt Rhule,John Harbaugh,,BAL00,M&T Bank Stadium
 2022_11_CLE_BUF,2022,REG,11,2022-11-20,Sunday,13:00,CLE,,BUF,,Home,,,,2022112002,,,202211200buf,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Kevin Stefanski,Sean McDermott,,BUF00,New Era Field
-2022_11_WAS_HOU,2022,REG,11,2022-11-20,Sunday,13:00,WAS,,HOU,,Home,,,,2022112003,,,202211200htx,,,6,7,,,,,,,,,0,,grass,,,,,,,Ron Rivera,Lovie Smith,,HOU00,NRG Stadium
-2022_11_PHI_IND,2022,REG,11,2022-11-20,Sunday,13:00,PHI,,IND,,Home,,,,2022112004,,,202211200clt,,,6,7,,,,,,,,,0,,fieldturf,,,,,,,Nick Sirianni,Frank Reich,,IND00,Lucas Oil Stadium
-2022_11_NYJ_NE,2022,REG,11,2022-11-20,Sunday,13:00,NYJ,,NE,,Home,,,,2022112005,,,202211200nwe,,,14,14,,,,,,,,,1,outdoors,grass,,,,,,,Robert Saleh,Bill Belichick,,BOS00,Gillette Stadium
-2022_11_LA_NO,2022,REG,11,2022-11-20,Sunday,13:00,LA,,NO,,Home,,,,2022112006,,,202211200nor,,,7,7,,,,,,,,,0,dome,astroturf,,,,,,,Sean McVay,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_11_DET_NYG,2022,REG,11,2022-11-20,Sunday,13:00,DET,,NYG,,Home,,,,2022112007,,,202211200nyg,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Dan Campbell,Brian Daboll,,NYC01,MetLife Stadium
-2022_11_LV_DEN,2022,REG,11,2022-11-20,Sunday,16:05,LV,,DEN,,Home,,,,2022112008,,,202211200den,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Josh McDaniels,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_11_KC_LAC,2022,REG,11,2022-11-20,Sunday,16:25,KC,,LAC,,Home,,,,2022112009,,,202211200sdg,,,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Andy Reid,Brandon Staley,,LAX01,SoFi Stadium
-2022_11_DAL_MIN,2022,REG,11,2022-11-20,Sunday,16:25,DAL,,MIN,,Home,,,,2022112010,,,202211200min,,,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Mike McCarthy,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_11_CIN_PIT,2022,REG,11,2022-11-20,Sunday,20:20,CIN,,PIT,,Home,,,,2022112011,,,202211200pit,,,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_11_SF_ARI,2022,REG,11,2022-11-21,Monday,20:15,SF,,ARI,,Neutral,,,,2022112100,,,202211210crd,,,8,8,,,,,,,,,1,closed,grass,,,,,,,Kyle Shanahan,Kliff Kingsbury,,MEX00,Azteca Stadium
-2022_12_BUF_DET,2022,REG,12,2022-11-24,Thursday,12:30,BUF,,DET,,Home,,,,2022112400,,,202211240det,,,4,4,,,,,,,,,0,dome,fieldturf,,,,,,,Sean McDermott,Dan Campbell,,DET00,Ford Field
-2022_12_NYG_DAL,2022,REG,12,2022-11-24,Thursday,16:30,NYG,,DAL,,Home,,,,2022112401,,,202211240dal,,,4,4,,,,,,,,,1,closed,fieldturf,,,,,,,Brian Daboll,Mike McCarthy,,DAL00,AT&T Stadium
-2022_12_NE_MIN,2022,REG,12,2022-11-24,Thursday,20:20,NE,,MIN,,Home,,,,2022112402,,,202211240min,,,4,4,,,,,,,,,0,dome,sportturf,,,,,,,Bill Belichick,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_12_DEN_CAR,2022,REG,12,2022-11-27,Sunday,13:00,DEN,,CAR,,Home,,,,2022112700,,,202211270car,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Matt Rhule,,CAR00,Bank of America Stadium
+2022_11_WAS_HOU,2022,REG,11,2022-11-20,Sunday,13:00,WAS,,HOU,,Home,,,,2022112003,,,202211200htx,,,6,7,-155,135,-3,-110,-110,,,,0,,grass,,,,,,,Ron Rivera,Lovie Smith,,HOU00,NRG Stadium
+2022_11_PHI_IND,2022,REG,11,2022-11-20,Sunday,13:00,PHI,,IND,,Home,,,,2022112004,,,202211200clt,,,6,7,125,-145,3,-120,100,,,,0,,fieldturf,,,,,,,Nick Sirianni,Frank Reich,,IND00,Lucas Oil Stadium
+2022_11_NYJ_NE,2022,REG,11,2022-11-20,Sunday,13:00,NYJ,,NE,,Home,,,,2022112005,,,202211200nwe,,,14,14,210,-250,6,-110,-110,,,,1,outdoors,grass,,,,,,,Robert Saleh,Bill Belichick,,BOS00,Gillette Stadium
+2022_11_LA_NO,2022,REG,11,2022-11-20,Sunday,13:00,LA,,NO,,Home,,,,2022112006,,,202211200nor,,,7,7,-145,125,-3,-110,-110,,,,0,dome,astroturf,,,,,,,Sean McVay,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_11_DET_NYG,2022,REG,11,2022-11-20,Sunday,13:00,DET,,NYG,,Home,,,,2022112007,,,202211200nyg,,,7,7,105,-125,1.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Dan Campbell,Brian Daboll,,NYC01,MetLife Stadium
+2022_11_LV_DEN,2022,REG,11,2022-11-20,Sunday,16:05,LV,,DEN,,Home,,,,2022112008,,,202211200den,,,7,7,130,-150,3,100,-120,,,,1,outdoors,grass,,,,,,,Josh McDaniels,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_11_KC_LAC,2022,REG,11,2022-11-20,Sunday,16:25,KC,,LAC,,Home,,,,2022112009,,,202211200sdg,,,7,7,105,-125,1.5,-110,-110,,,,1,dome,matrixturf,,,,,,,Andy Reid,Brandon Staley,,LAX01,SoFi Stadium
+2022_11_DAL_MIN,2022,REG,11,2022-11-20,Sunday,16:25,DAL,,MIN,,Home,,,,2022112010,,,202211200min,,,7,7,-110,-110,-0,-110,-110,,,,0,dome,sportturf,,,,,,,Mike McCarthy,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_11_CIN_PIT,2022,REG,11,2022-11-20,Sunday,20:20,CIN,,PIT,,Home,,,,2022112011,,,202211200pit,,,14,7,-140,120,-2.5,-110,-110,,,,1,outdoors,grass,,,,,,,Zac Taylor,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_11_SF_ARI,2022,REG,11,2022-11-21,Monday,20:15,SF,,ARI,,Neutral,,,,2022112100,,,202211210crd,,,8,8,-130,110,-2,-110,-110,,,,1,closed,grass,,,,,,,Kyle Shanahan,Kliff Kingsbury,,MEX00,Azteca Stadium
+2022_12_BUF_DET,2022,REG,12,2022-11-24,Thursday,12:30,BUF,,DET,,Home,,,,2022112400,,,202211240det,,,4,4,-450,360,-8,-110,-110,,,,0,dome,fieldturf,,,,,,,Sean McDermott,Dan Campbell,,DET00,Ford Field
+2022_12_NYG_DAL,2022,REG,12,2022-11-24,Thursday,16:30,NYG,,DAL,,Home,,,,2022112401,,,202211240dal,,,4,4,245,-295,7,-120,100,,,,1,closed,fieldturf,,,,,,,Brian Daboll,Mike McCarthy,,DAL00,AT&T Stadium
+2022_12_NE_MIN,2022,REG,12,2022-11-24,Thursday,20:20,NE,,MIN,,Home,,,,2022112402,,,202211240min,,,4,4,110,-130,1.5,-110,-110,,,,0,dome,sportturf,,,,,,,Bill Belichick,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_12_DEN_CAR,2022,REG,12,2022-11-27,Sunday,13:00,DEN,,CAR,,Home,,,,2022112700,,,202211270car,,,7,7,-135,115,-2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,Matt Rhule,,CAR00,Bank of America Stadium
 2022_12_TB_CLE,2022,REG,12,2022-11-27,Sunday,13:00,TB,,CLE,,Home,,,,2022112701,,,202211270cle,,,14,7,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_12_BAL_JAX,2022,REG,12,2022-11-27,Sunday,13:00,BAL,,JAX,,Home,,,,2022112702,,,202211270jax,,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,John Harbaugh,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_12_HOU_MIA,2022,REG,12,2022-11-27,Sunday,13:00,HOU,,MIA,,Home,,,,2022112703,,,202211270mia,,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Lovie Smith,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_12_CHI_NYJ,2022,REG,12,2022-11-27,Sunday,13:00,CHI,,NYJ,,Home,,,,2022112704,,,202211270nyj,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Matt Eberflus,Robert Saleh,,NYC01,MetLife Stadium
-2022_12_CIN_TEN,2022,REG,12,2022-11-27,Sunday,13:00,CIN,,TEN,,Home,,,,2022112705,,,202211270oti,,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Mike Vrabel,,NAS00,Nissan Stadium
-2022_12_ATL_WAS,2022,REG,12,2022-11-27,Sunday,13:00,ATL,,WAS,,Home,,,,2022112706,,,202211270was,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Arthur Smith,Ron Rivera,,WAS00,FedExField
-2022_12_LAC_ARI,2022,REG,12,2022-11-27,Sunday,16:05,LAC,,ARI,,Home,,,,2022112707,,,202211270crd,,,7,6,,,,,,,,,0,closed,grass,,,,,,,Brandon Staley,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_12_LV_SEA,2022,REG,12,2022-11-27,Sunday,16:05,LV,,SEA,,Home,,,,2022112708,,,202211270sea,,,7,14,,,,,,,,,0,outdoors,fieldturf,,,,,,,Josh McDaniels,Pete Carroll,,SEA00,Lumen Field
-2022_12_LA_KC,2022,REG,12,2022-11-27,Sunday,16:25,LA,,KC,,Home,,,,2022112709,,,202211270kan,,,7,7,,,,,,,,,0,outdoors,astroturf,,,,,,,Sean McVay,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_12_NO_SF,2022,REG,12,2022-11-27,Sunday,16:25,NO,,SF,,Home,,,,2022112710,,,202211270sfo,,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_12_GB_PHI,2022,REG,12,2022-11-27,Sunday,20:20,GB,,PHI,,Home,,,,2022112711,,,202211270phi,,,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_12_PIT_IND,2022,REG,12,2022-11-28,Monday,20:15,PIT,,IND,,Home,,,,2022112800,,,202211280clt,,,8,8,,,,,,,,,0,,fieldturf,,,,,,,Mike Tomlin,Frank Reich,,IND00,Lucas Oil Stadium
-2022_13_BUF_NE,2022,REG,13,2022-12-01,Thursday,20:15,BUF,,NE,,Home,,,,2022120100,,,202212010nwe,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Sean McDermott,Bill Belichick,,BOS00,Gillette Stadium
-2022_13_PIT_ATL,2022,REG,13,2022-12-04,Sunday,13:00,PIT,,ATL,,Home,,,,2022120400,,,202212040atl,,,6,7,,,,,,,,,0,,fieldturf,,,,,,,Mike Tomlin,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_13_DEN_BAL,2022,REG,13,2022-12-04,Sunday,13:00,DEN,,BAL,,Home,,,,2022120401,,,202212040rav,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_13_GB_CHI,2022,REG,13,2022-12-04,Sunday,13:00,GB,,CHI,,Home,,,,2022120402,,,202212040chi,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Eberflus,,CHI98,Soldier Field
-2022_13_JAX_DET,2022,REG,13,2022-12-04,Sunday,13:00,JAX,,DET,,Home,,,,2022120403,,,202212040det,,,7,10,,,,,,,,,0,dome,fieldturf,,,,,,,Doug Pederson,Dan Campbell,,DET00,Ford Field
+2022_12_BAL_JAX,2022,REG,12,2022-11-27,Sunday,13:00,BAL,,JAX,,Home,,,,2022112702,,,202211270jax,,,7,14,-170,145,-4,-110,-110,,,,0,outdoors,grass,,,,,,,John Harbaugh,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_12_HOU_MIA,2022,REG,12,2022-11-27,Sunday,13:00,HOU,,MIA,,Home,,,,2022112703,,,202211270mia,,,7,14,240,-285,7,-110,-110,,,,0,outdoors,grass,,,,,,,Lovie Smith,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_12_CHI_NYJ,2022,REG,12,2022-11-27,Sunday,13:00,CHI,,NYJ,,Home,,,,2022112704,,,202211270nyj,,,7,7,120,-140,2.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Matt Eberflus,Robert Saleh,,NYC01,MetLife Stadium
+2022_12_CIN_TEN,2022,REG,12,2022-11-27,Sunday,13:00,CIN,,TEN,,Home,,,,2022112705,,,202211270oti,,,7,10,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Zac Taylor,Mike Vrabel,,NAS00,Nissan Stadium
+2022_12_ATL_WAS,2022,REG,12,2022-11-27,Sunday,13:00,ATL,,WAS,,Home,,,,2022112706,,,202211270was,,,7,7,180,-210,5,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,Ron Rivera,,WAS00,FedExField
+2022_12_LAC_ARI,2022,REG,12,2022-11-27,Sunday,16:05,LAC,,ARI,,Home,,,,2022112707,,,202211270crd,,,7,6,-125,105,-1.5,-110,-110,,,,0,closed,grass,,,,,,,Brandon Staley,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_12_LV_SEA,2022,REG,12,2022-11-27,Sunday,16:05,LV,,SEA,,Home,,,,2022112708,,,202211270sea,,,7,14,-130,110,-2,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Josh McDaniels,Pete Carroll,,SEA00,Lumen Field
+2022_12_LA_KC,2022,REG,12,2022-11-27,Sunday,16:25,LA,,KC,,Home,,,,2022112709,,,202211270kan,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Sean McVay,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_12_NO_SF,2022,REG,12,2022-11-27,Sunday,16:25,NO,,SF,,Home,,,,2022112710,,,202211270sfo,,,7,6,175,-205,4,-110,-110,,,,0,outdoors,grass,,,,,,,Dennis Allen,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_12_GB_PHI,2022,REG,12,2022-11-27,Sunday,20:20,GB,,PHI,,Home,,,,2022112711,,,202211270phi,,,10,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_12_PIT_IND,2022,REG,12,2022-11-28,Monday,20:15,PIT,,IND,,Home,,,,2022112800,,,202211280clt,,,8,8,175,-205,4.5,-110,-110,,,,0,,fieldturf,,,,,,,Mike Tomlin,Frank Reich,,IND00,Lucas Oil Stadium
+2022_13_BUF_NE,2022,REG,13,2022-12-01,Thursday,20:15,BUF,,NE,,Home,,,,2022120100,,,202212010nwe,,,7,7,-145,125,-3,-110,-110,,,,1,outdoors,grass,,,,,,,Sean McDermott,Bill Belichick,,BOS00,Gillette Stadium
+2022_13_PIT_ATL,2022,REG,13,2022-12-04,Sunday,13:00,PIT,,ATL,,Home,,,,2022120400,,,202212040atl,,,6,7,-140,120,-2.5,-110,-110,,,,0,,fieldturf,,,,,,,Mike Tomlin,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_13_DEN_BAL,2022,REG,13,2022-12-04,Sunday,13:00,DEN,,BAL,,Home,,,,2022120401,,,202212040rav,,,7,7,105,-125,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Nathaniel Hackett,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_13_GB_CHI,2022,REG,13,2022-12-04,Sunday,13:00,GB,,CHI,,Home,,,,2022120402,,,202212040chi,,,7,7,-170,145,-4,-115,-105,,,,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Eberflus,,CHI98,Soldier Field
+2022_13_JAX_DET,2022,REG,13,2022-12-04,Sunday,13:00,JAX,,DET,,Home,,,,2022120403,,,202212040det,,,7,10,110,-130,2,-110,-110,,,,0,dome,fieldturf,,,,,,,Doug Pederson,Dan Campbell,,DET00,Ford Field
 2022_13_CLE_HOU,2022,REG,13,2022-12-04,Sunday,13:00,CLE,,HOU,,Home,,,,2022120404,,,202212040htx,,,7,7,,,,,,,,,0,,grass,,,,,,,Kevin Stefanski,Lovie Smith,,HOU00,NRG Stadium
-2022_13_NYJ_MIN,2022,REG,13,2022-12-04,Sunday,13:00,NYJ,,MIN,,Home,,,,2022120405,,,202212040min,,,7,10,,,,,,,,,0,dome,sportturf,,,,,,,Robert Saleh,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_13_WAS_NYG,2022,REG,13,2022-12-04,Sunday,13:00,WAS,,NYG,,Home,,,,2022120406,,,202212040nyg,,,7,10,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Ron Rivera,Brian Daboll,,NYC01,MetLife Stadium
-2022_13_TEN_PHI,2022,REG,13,2022-12-04,Sunday,13:00,TEN,,PHI,,Home,,,,2022120407,,,202212040phi,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_13_SEA_LA,2022,REG,13,2022-12-04,Sunday,16:05,SEA,,LA,,Home,,,,2022120408,,,202212040ram,,,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Pete Carroll,Sean McVay,,LAX01,SoFi Stadium
-2022_13_MIA_SF,2022,REG,13,2022-12-04,Sunday,16:05,MIA,,SF,,Home,,,,2022120409,,,202212040sfo,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_13_KC_CIN,2022,REG,13,2022-12-04,Sunday,16:25,KC,,CIN,,Home,,,,2022120410,,,202212040cin,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_13_LAC_LV,2022,REG,13,2022-12-04,Sunday,16:25,LAC,,LV,,Home,,,,2022120411,,,202212040rai,,,7,7,,,,,,,,,1,dome,grass,,,,,,,Brandon Staley,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_13_IND_DAL,2022,REG,13,2022-12-04,Sunday,20:20,IND,,DAL,,Home,,,,2022120412,,,202212040dal,,,6,10,,,,,,,,,0,closed,fieldturf,,,,,,,Frank Reich,Mike McCarthy,,DAL00,AT&T Stadium
-2022_13_NO_TB,2022,REG,13,2022-12-05,Monday,20:15,NO,,TB,,Home,,,,2022120500,,,202212050tam,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Dennis Allen,Todd Bowles,,TAM00,Raymond James Stadium
-2022_14_LV_LA,2022,REG,14,2022-12-08,Thursday,20:15,LV,,LA,,Home,,,,2022120800,,,202212080ram,,,4,4,,,,,,,,,0,dome,matrixturf,,,,,,,Josh McDaniels,Sean McVay,,LAX01,SoFi Stadium
-2022_14_NYJ_BUF,2022,REG,14,2022-12-11,Sunday,13:00,NYJ,,BUF,,Home,,,,2022121100,,,202212110buf,,,7,10,,,,,,,,,1,outdoors,astroturf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
+2022_13_NYJ_MIN,2022,REG,13,2022-12-04,Sunday,13:00,NYJ,,MIN,,Home,,,,2022120405,,,202212040min,,,7,10,175,-205,4.5,-110,-110,,,,0,dome,sportturf,,,,,,,Robert Saleh,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_13_WAS_NYG,2022,REG,13,2022-12-04,Sunday,13:00,WAS,,NYG,,Home,,,,2022120406,,,202212040nyg,,,7,10,-110,-110,-0,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Ron Rivera,Brian Daboll,,NYC01,MetLife Stadium
+2022_13_TEN_PHI,2022,REG,13,2022-12-04,Sunday,13:00,TEN,,PHI,,Home,,,,2022120407,,,202212040phi,,,7,7,115,-135,2,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_13_SEA_LA,2022,REG,13,2022-12-04,Sunday,16:05,SEA,,LA,,Home,,,,2022120408,,,202212040ram,,,7,7,400,-500,9.5,-110,-110,,,,1,dome,matrixturf,,,,,,,Pete Carroll,Sean McVay,,LAX01,SoFi Stadium
+2022_13_MIA_SF,2022,REG,13,2022-12-04,Sunday,16:05,MIA,,SF,,Home,,,,2022120409,,,202212040sfo,,,7,7,145,-170,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_13_KC_CIN,2022,REG,13,2022-12-04,Sunday,16:25,KC,,CIN,,Home,,,,2022120410,,,202212040cin,,,7,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_13_LAC_LV,2022,REG,13,2022-12-04,Sunday,16:25,LAC,,LV,,Home,,,,2022120411,,,202212040rai,,,7,7,-110,-110,-0,-110,-110,,,,1,dome,grass,,,,,,,Brandon Staley,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_13_IND_DAL,2022,REG,13,2022-12-04,Sunday,20:20,IND,,DAL,,Home,,,,2022120412,,,202212040dal,,,6,10,115,-135,2.5,-110,-110,,,,0,closed,fieldturf,,,,,,,Frank Reich,Mike McCarthy,,DAL00,AT&T Stadium
+2022_13_NO_TB,2022,REG,13,2022-12-05,Monday,20:15,NO,,TB,,Home,,,,2022120500,,,202212050tam,,,8,8,230,-275,6.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dennis Allen,Todd Bowles,,TAM00,Raymond James Stadium
+2022_14_LV_LA,2022,REG,14,2022-12-08,Thursday,20:15,LV,,LA,,Home,,,,2022120800,,,202212080ram,,,4,4,160,-190,4,-110,-110,,,,0,dome,matrixturf,,,,,,,Josh McDaniels,Sean McVay,,LAX01,SoFi Stadium
+2022_14_NYJ_BUF,2022,REG,14,2022-12-11,Sunday,13:00,NYJ,,BUF,,Home,,,,2022121100,,,202212110buf,,,7,10,350,-435,9.5,-110,-110,,,,1,outdoors,astroturf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
 2022_14_CLE_CIN,2022,REG,14,2022-12-11,Sunday,13:00,CLE,,CIN,,Home,,,,2022121101,,,202212110cin,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_14_HOU_DAL,2022,REG,14,2022-12-11,Sunday,13:00,HOU,,DAL,,Home,,,,2022121102,,,202212110dal,,,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Lovie Smith,Mike McCarthy,,DAL00,AT&T Stadium
-2022_14_MIN_DET,2022,REG,14,2022-12-11,Sunday,13:00,MIN,,DET,,Home,,,,2022121103,,,202212110det,,,7,7,,,,,,,,,1,dome,fieldturf,,,,,,,Kevin O'Connell,Dan Campbell,,DET00,Ford Field
-2022_14_PHI_NYG,2022,REG,14,2022-12-11,Sunday,13:00,PHI,,NYG,,Home,,,,2022121104,,,202212110nyg,,,7,7,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Nick Sirianni,Brian Daboll,,NYC01,MetLife Stadium
-2022_14_BAL_PIT,2022,REG,14,2022-12-11,Sunday,13:00,BAL,,PIT,,Home,,,,2022121105,,,202212110pit,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,John Harbaugh,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_14_JAX_TEN,2022,REG,14,2022-12-11,Sunday,13:00,JAX,,TEN,,Home,,,,2022121106,,,202212110oti,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Doug Pederson,Mike Vrabel,,NAS00,Nissan Stadium
-2022_14_MIA_LAC,2022,REG,14,2022-12-11,Sunday,16:05,MIA,,LAC,,Home,,,,2022121107,,,202212110sdg,,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Mike McDaniel,Brandon Staley,,LAX01,SoFi Stadium
-2022_14_CAR_SEA,2022,REG,14,2022-12-11,Sunday,16:25,CAR,,SEA,,Home,,,,2022121108,,,202212110sea,,,14,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Matt Rhule,Pete Carroll,,SEA00,Lumen Field
-2022_14_TB_SF,2022,REG,14,2022-12-11,Sunday,16:25,TB,,SF,,Home,,,,2022121109,,,202212110sfo,,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_14_KC_DEN,2022,REG,14,2022-12-11,Sunday,20:20,KC,,DEN,,Home,,,,2022121110,,,202212110den,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Andy Reid,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_14_NE_ARI,2022,REG,14,2022-12-12,Monday,20:15,NE,,ARI,,Home,,,,2022121200,,,202212120crd,,,11,15,,,,,,,,,0,closed,grass,,,,,,,Bill Belichick,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_15_SF_SEA,2022,REG,15,2022-12-15,Thursday,20:15,SF,,SEA,,Home,,,,2022121500,,,202212150sea,,,4,4,,,,,,,,,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Pete Carroll,,SEA00,Lumen Field
-2022_15_MIA_BUF,2022,REG,15,2022-12-18,Sunday,13:00,MIA,,BUF,,Home,,,,2022121800,,,202212180buf,,,7,7,,,,,,,,,1,outdoors,astroturf,,,,,,,Mike McDaniel,Sean McDermott,,BUF00,New Era Field
-2022_15_PIT_CAR,2022,REG,15,2022-12-18,Sunday,13:00,PIT,,CAR,,Home,,,,2022121800,,,202212180car,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Matt Rhule,,CAR00,Bank of America Stadium
-2022_15_PHI_CHI,2022,REG,15,2022-12-18,Sunday,13:00,PHI,,CHI,,Home,,,,2022121801,,,202212180chi,,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Matt Eberflus,,CHI98,Soldier Field
+2022_14_HOU_DAL,2022,REG,14,2022-12-11,Sunday,13:00,HOU,,DAL,,Home,,,,2022121102,,,202212110dal,,,7,7,330,-410,8,-110,-110,,,,0,closed,fieldturf,,,,,,,Lovie Smith,Mike McCarthy,,DAL00,AT&T Stadium
+2022_14_MIN_DET,2022,REG,14,2022-12-11,Sunday,13:00,MIN,,DET,,Home,,,,2022121103,,,202212110det,,,7,7,-130,110,-2,-110,-110,,,,1,dome,fieldturf,,,,,,,Kevin O'Connell,Dan Campbell,,DET00,Ford Field
+2022_14_PHI_NYG,2022,REG,14,2022-12-11,Sunday,13:00,PHI,,NYG,,Home,,,,2022121104,,,202212110nyg,,,7,7,-120,100,-1.5,-110,-110,,,,1,outdoors,fieldturf ,,,,,,,Nick Sirianni,Brian Daboll,,NYC01,MetLife Stadium
+2022_14_BAL_PIT,2022,REG,14,2022-12-11,Sunday,13:00,BAL,,PIT,,Home,,,,2022121105,,,202212110pit,,,7,7,-130,110,-2,-110,-110,,,,1,outdoors,grass,,,,,,,John Harbaugh,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_14_JAX_TEN,2022,REG,14,2022-12-11,Sunday,13:00,JAX,,TEN,,Home,,,,2022121106,,,202212110oti,,,7,7,230,-275,6.5,-110,-110,,,,1,outdoors,grass,,,,,,,Doug Pederson,Mike Vrabel,,NAS00,Nissan Stadium
+2022_14_MIA_LAC,2022,REG,14,2022-12-11,Sunday,16:05,MIA,,LAC,,Home,,,,2022121107,,,202212110sdg,,,7,7,205,-245,5.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Mike McDaniel,Brandon Staley,,LAX01,SoFi Stadium
+2022_14_CAR_SEA,2022,REG,14,2022-12-11,Sunday,16:25,CAR,,SEA,,Home,,,,2022121108,,,202212110sea,,,14,7,100,-120,1,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Matt Rhule,Pete Carroll,,SEA00,Lumen Field
+2022_14_TB_SF,2022,REG,14,2022-12-11,Sunday,16:25,TB,,SF,,Home,,,,2022121109,,,202212110sfo,,,6,7,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Todd Bowles,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_14_KC_DEN,2022,REG,14,2022-12-11,Sunday,20:20,KC,,DEN,,Home,,,,2022121110,,,202212110den,,,7,7,-110,-110,-0,-110,-110,,,,1,outdoors,grass,,,,,,,Andy Reid,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_14_NE_ARI,2022,REG,14,2022-12-12,Monday,20:15,NE,,ARI,,Home,,,,2022121200,,,202212120crd,,,11,15,115,-135,2.5,-110,-110,,,,0,closed,grass,,,,,,,Bill Belichick,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_15_SF_SEA,2022,REG,15,2022-12-15,Thursday,20:15,SF,,SEA,,Home,,,,2022121500,,,202212150sea,,,4,4,-165,140,-3,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Pete Carroll,,SEA00,Lumen Field
+2022_15_MIA_BUF,2022,REG,15,2022-12-18,Sunday,13:00,MIA,,BUF,,Home,,,,2022121800,,,202212180buf,,,7,7,195,-230,6,-110,-110,,,,1,outdoors,astroturf,,,,,,,Mike McDaniel,Sean McDermott,,BUF00,New Era Field
+2022_15_PIT_CAR,2022,REG,15,2022-12-18,Sunday,13:00,PIT,,CAR,,Home,,,,2022121800,,,202212180car,,,7,7,100,-120,1,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Matt Rhule,,CAR00,Bank of America Stadium
+2022_15_PHI_CHI,2022,REG,15,2022-12-18,Sunday,13:00,PHI,,CHI,,Home,,,,2022121801,,,202212180chi,,,7,14,-135,115,-3,-110,-110,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Matt Eberflus,,CHI98,Soldier Field
 2022_15_BAL_CLE,2022,REG,15,2022-12-18,Sunday,13:00,BAL,,CLE,,Home,,,,2022121801,,,202212180cle,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_15_KC_HOU,2022,REG,15,2022-12-18,Sunday,13:00,KC,,HOU,,Home,,,,2022121802,,,202212180htx,,,7,7,,,,,,,,,0,,grass,,,,,,,Andy Reid,Lovie Smith,,HOU00,NRG Stadium
-2022_15_DAL_JAX,2022,REG,15,2022-12-18,Sunday,13:00,DAL,,JAX,,Home,,,,2022121803,,,202212180jax,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_15_IND_MIN,2022,REG,15,2022-12-18,Sunday,13:00,IND,,MIN,,Home,,,,2022121802,,,202212180min,,,14,7,,,,,,,,,0,dome,sportturf,,,,,,,Frank Reich,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_15_ATL_NO,2022,REG,15,2022-12-18,Sunday,13:00,ATL,,NO,,Home,,,,2022121803,,,202212180nor,,,14,13,,,,,,,,,1,dome,astroturf,,,,,,,Arthur Smith,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_15_DET_NYJ,2022,REG,15,2022-12-18,Sunday,13:00,DET,,NYJ,,Home,,,,2022121804,,,202212180nyj,,,7,7,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Dan Campbell,Robert Saleh,,NYC01,MetLife Stadium
-2022_15_NYG_WAS,2022,REG,15,2022-12-18,Sunday,13:00,NYG,,WAS,,Home,,,,2022121804,,,202212180was,,,7,14,,,,,,,,,1,outdoors,grass,,,,,,,Brian Daboll,Ron Rivera,,WAS00,FedExField
-2022_15_ARI_DEN,2022,REG,15,2022-12-18,Sunday,16:05,ARI,,DEN,,Home,,,,2022121805,,,202212180den,,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_15_TEN_LAC,2022,REG,15,2022-12-18,Sunday,16:25,TEN,,LAC,,Home,,,,2022121806,,,202212180sdg,,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Mike Vrabel,Brandon Staley,,LAX01,SoFi Stadium
-2022_15_CIN_TB,2022,REG,15,2022-12-18,Sunday,16:25,CIN,,TB,,Home,,,,2022121807,,,202212180tam,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Todd Bowles,,TAM00,Raymond James Stadium
-2022_15_NE_LV,2022,REG,15,2022-12-18,Sunday,20:20,NE,,LV,,Home,,,,2022121808,,,202212180rai,,,6,10,,,,,,,,,0,dome,grass,,,,,,,Bill Belichick,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_15_LA_GB,2022,REG,15,2022-12-19,Monday,20:15,LA,,GB,,Home,,,,2022121900,,,202212190gnb,,,11,15,,,,,,,,,0,outdoors,grass,,,,,,,Sean McVay,Matt LaFleur,,GNB00,Lambeau Field
-2022_16_JAX_NYJ,2022,REG,16,2022-12-22,Thursday,20:15,JAX,,NYJ,,Home,,,,2022122200,,,202212220nyj,,,4,4,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Doug Pederson,Robert Saleh,,NYC01,MetLife Stadium
-2022_16_ATL_BAL,2022,REG,16,2022-12-24,Saturday,13:00,ATL,,BAL,,Home,,,,2022122400,,,202212240rav,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Arthur Smith,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_16_DET_CAR,2022,REG,16,2022-12-24,Saturday,13:00,DET,,CAR,,Home,,,,2022122401,,,202212240car,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Dan Campbell,Matt Rhule,,CAR00,Bank of America Stadium
-2022_16_BUF_CHI,2022,REG,16,2022-12-24,Saturday,13:00,BUF,,CHI,,Home,,,,2022122402,,,202212240chi,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Sean McDermott,Matt Eberflus,,CHI98,Soldier Field
+2022_15_KC_HOU,2022,REG,15,2022-12-18,Sunday,13:00,KC,,HOU,,Home,,,,2022121802,,,202212180htx,,,7,7,-520,410,-10,-110,-110,,,,0,,grass,,,,,,,Andy Reid,Lovie Smith,,HOU00,NRG Stadium
+2022_15_DAL_JAX,2022,REG,15,2022-12-18,Sunday,13:00,DAL,,JAX,,Home,,,,2022121803,,,202212180jax,,,7,7,-150,130,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_15_IND_MIN,2022,REG,15,2022-12-18,Sunday,13:00,IND,,MIN,,Home,,,,2022121802,,,202212180min,,,14,7,-110,-110,-0,-110,-110,,,,0,dome,sportturf,,,,,,,Frank Reich,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_15_ATL_NO,2022,REG,15,2022-12-18,Sunday,13:00,ATL,,NO,,Home,,,,2022121803,,,202212180nor,,,14,13,255,-305,7,-110,-110,,,,1,dome,astroturf,,,,,,,Arthur Smith,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_15_DET_NYJ,2022,REG,15,2022-12-18,Sunday,13:00,DET,,NYJ,,Home,,,,2022121804,,,202212180nyj,,,7,7,115,-135,2.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Dan Campbell,Robert Saleh,,NYC01,MetLife Stadium
+2022_15_NYG_WAS,2022,REG,15,2022-12-18,Sunday,13:00,NYG,,WAS,,Home,,,,2022121804,,,202212180was,,,7,14,150,-175,3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brian Daboll,Ron Rivera,,WAS00,FedExField
+2022_15_ARI_DEN,2022,REG,15,2022-12-18,Sunday,16:05,ARI,,DEN,,Home,,,,2022121805,,,202212180den,,,6,7,175,-205,4,-110,-110,,,,0,outdoors,grass,,,,,,,Kliff Kingsbury,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_15_TEN_LAC,2022,REG,15,2022-12-18,Sunday,16:25,TEN,,LAC,,Home,,,,2022121806,,,202212180sdg,,,7,7,195,-230,5,-110,-110,,,,0,dome,matrixturf,,,,,,,Mike Vrabel,Brandon Staley,,LAX01,SoFi Stadium
+2022_15_CIN_TB,2022,REG,15,2022-12-18,Sunday,16:25,CIN,,TB,,Home,,,,2022121807,,,202212180tam,,,7,7,130,-150,3,-110,-110,,,,0,outdoors,grass,,,,,,,Zac Taylor,Todd Bowles,,TAM00,Raymond James Stadium
+2022_15_NE_LV,2022,REG,15,2022-12-18,Sunday,20:20,NE,,LV,,Home,,,,2022121808,,,202212180rai,,,6,10,130,-150,3,-110,-110,,,,0,dome,grass,,,,,,,Bill Belichick,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_15_LA_GB,2022,REG,15,2022-12-19,Monday,20:15,LA,,GB,,Home,,,,2022121900,,,202212190gnb,,,11,15,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McVay,Matt LaFleur,,GNB00,Lambeau Field
+2022_16_JAX_NYJ,2022,REG,16,2022-12-22,Thursday,20:15,JAX,,NYJ,,Home,,,,2022122200,,,202212220nyj,,,4,4,115,-135,2.5,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Doug Pederson,Robert Saleh,,NYC01,MetLife Stadium
+2022_16_ATL_BAL,2022,REG,16,2022-12-24,Saturday,13:00,ATL,,BAL,,Home,,,,2022122400,,,202212240rav,,,6,6,300,-365,7.5,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_16_DET_CAR,2022,REG,16,2022-12-24,Saturday,13:00,DET,,CAR,,Home,,,,2022122401,,,202212240car,,,6,6,160,-190,4,-110,-110,,,,0,outdoors,grass,,,,,,,Dan Campbell,Matt Rhule,,CAR00,Bank of America Stadium
+2022_16_BUF_CHI,2022,REG,16,2022-12-24,Saturday,13:00,BUF,,CHI,,Home,,,,2022122402,,,202212240chi,,,6,6,-350,290,-7,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McDermott,Matt Eberflus,,CHI98,Soldier Field
 2022_16_NO_CLE,2022,REG,16,2022-12-24,Saturday,13:00,NO,,CLE,,Home,,,,2022122403,,,202212240cle,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2022_16_SEA_KC,2022,REG,16,2022-12-24,Saturday,13:00,SEA,,KC,,Home,,,,2022122404,,,202212240kan,,,9,6,,,,,,,,,0,outdoors,astroturf,,,,,,,Pete Carroll,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_16_NYG_MIN,2022,REG,16,2022-12-24,Saturday,13:00,NYG,,MIN,,Home,,,,2022122405,,,202212240min,,,6,6,,,,,,,,,0,dome,sportturf,,,,,,,Brian Daboll,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2022_16_CIN_NE,2022,REG,16,2022-12-24,Saturday,13:00,CIN,,NE,,Home,,,,2022122406,,,202212240nwe,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Bill Belichick,,BOS00,Gillette Stadium
-2022_16_HOU_TEN,2022,REG,16,2022-12-24,Saturday,13:00,HOU,,TEN,,Home,,,,2022122407,,,202212240oti,,,6,6,,,,,,,,,1,outdoors,grass,,,,,,,Lovie Smith,Mike Vrabel,,NAS00,Nissan Stadium
-2022_16_WAS_SF,2022,REG,16,2022-12-24,Saturday,16:05,WAS,,SF,,Home,,,,2022122408,,,202212240sfo,,,6,9,,,,,,,,,0,outdoors,grass,,,,,,,Ron Rivera,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_16_PHI_DAL,2022,REG,16,2022-12-24,Saturday,16:25,PHI,,DAL,,Home,,,,2022122409,,,202212240dal,,,6,6,,,,,,,,,1,closed,fieldturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
-2022_16_LV_PIT,2022,REG,16,2022-12-24,Saturday,20:15,LV,,PIT,,Home,,,,2022122410,,,202212240pit,,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_16_GB_MIA,2022,REG,16,2022-12-25,Sunday,13:00,GB,,MIA,,Home,,,,2022122500,,,202212250mia,,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,,7,6,,,,,,,,,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
-2022_16_TB_ARI,2022,REG,16,2022-12-25,Sunday,20:20,TB,,ARI,,Home,,,,2022122502,,,202212250crd,,,7,7,,,,,,,,,0,closed,grass,,,,,,,Todd Bowles,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_16_LAC_IND,2022,REG,16,2022-12-26,Monday,20:15,LAC,,IND,,Home,,,,2022122600,,,202212260clt,,,8,8,,,,,,,,,0,,fieldturf,,,,,,,Brandon Staley,Frank Reich,,IND00,Lucas Oil Stadium
-2022_17_DAL_TEN,2022,REG,17,2022-12-29,Thursday,20:15,DAL,,TEN,,Home,,,,2022122900,,,202212290oti,,,5,5,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Mike Vrabel,,NAS00,Nissan Stadium
-2022_17_ARI_ATL,2022,REG,17,2023-01-01,Sunday,13:00,ARI,,ATL,,Home,,,,2023010100,,,202301010atl,,,7,8,,,,,,,,,0,,fieldturf,,,,,,,Kliff Kingsbury,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_17_PIT_BAL,2022,REG,17,2023-01-01,Sunday,13:00,PIT,,BAL,,Home,,,,2023010101,,,202301010rav,,,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
-2022_17_CHI_DET,2022,REG,17,2023-01-01,Sunday,13:00,CHI,,DET,,Home,,,,2023010102,,,202301010det,,,8,8,,,,,,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
-2022_17_JAX_HOU,2022,REG,17,2023-01-01,Sunday,13:00,JAX,,HOU,,Home,,,,2023010103,,,202301010htx,,,10,8,,,,,,,,,1,,grass,,,,,,,Doug Pederson,Lovie Smith,,HOU00,NRG Stadium
-2022_17_DEN_KC,2022,REG,17,2023-01-01,Sunday,13:00,DEN,,KC,,Home,,,,2023010104,,,202301010kan,,,7,8,,,,,,,,,1,outdoors,astroturf,,,,,,,Nathaniel Hackett,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2022_17_MIA_NE,2022,REG,17,2023-01-01,Sunday,13:00,MIA,,NE,,Home,,,,2023010105,,,202301010nwe,,,7,8,,,,,,,,,1,outdoors,grass,,,,,,,Mike McDaniel,Bill Belichick,,BOS00,Gillette Stadium
-2022_17_IND_NYG,2022,REG,17,2023-01-01,Sunday,13:00,IND,,NYG,,Home,,,,2023010106,,,202301010nyg,,,6,8,,,,,,,,,0,outdoors,fieldturf ,,,,,,,Frank Reich,Brian Daboll,,NYC01,MetLife Stadium
-2022_17_NO_PHI,2022,REG,17,2023-01-01,Sunday,13:00,NO,,PHI,,Home,,,,2023010107,,,202301010phi,,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Nick Sirianni,,PHI00,Lincoln Financial Field
-2022_17_CAR_TB,2022,REG,17,2023-01-01,Sunday,13:00,CAR,,TB,,Home,,,,2023010108,,,202301010tam,,,8,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt Rhule,Todd Bowles,,TAM00,Raymond James Stadium
+2022_16_SEA_KC,2022,REG,16,2022-12-24,Saturday,13:00,SEA,,KC,,Home,,,,2022122404,,,202212240kan,,,9,6,470,-625,10.5,-110,-110,,,,0,outdoors,astroturf,,,,,,,Pete Carroll,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_16_NYG_MIN,2022,REG,16,2022-12-24,Saturday,13:00,NYG,,MIN,,Home,,,,2022122405,,,202212240min,,,6,6,185,-215,5,-110,-110,,,,0,dome,sportturf,,,,,,,Brian Daboll,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2022_16_CIN_NE,2022,REG,16,2022-12-24,Saturday,13:00,CIN,,NE,,Home,,,,2022122406,,,202212240nwe,,,6,6,-120,100,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Zac Taylor,Bill Belichick,,BOS00,Gillette Stadium
+2022_16_HOU_TEN,2022,REG,16,2022-12-24,Saturday,13:00,HOU,,TEN,,Home,,,,2022122407,,,202212240oti,,,6,6,350,-435,8,-110,-110,,,,1,outdoors,grass,,,,,,,Lovie Smith,Mike Vrabel,,NAS00,Nissan Stadium
+2022_16_WAS_SF,2022,REG,16,2022-12-24,Saturday,16:05,WAS,,SF,,Home,,,,2022122408,,,202212240sfo,,,6,9,195,-230,6,-110,-110,,,,0,outdoors,grass,,,,,,,Ron Rivera,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_16_PHI_DAL,2022,REG,16,2022-12-24,Saturday,16:25,PHI,,DAL,,Home,,,,2022122409,,,202212240dal,,,6,6,150,-175,3.5,-110,-110,,,,1,closed,fieldturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
+2022_16_LV_PIT,2022,REG,16,2022-12-24,Saturday,20:15,LV,,PIT,,Home,,,,2022122410,,,202212240pit,,,6,6,-130,110,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Tomlin,,PIT00,Acrisure Stadium
+2022_16_GB_MIA,2022,REG,16,2022-12-25,Sunday,13:00,GB,,MIA,,Home,,,,2022122500,,,202212250mia,,,6,7,-120,100,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,,7,6,140,-165,3.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
+2022_16_TB_ARI,2022,REG,16,2022-12-25,Sunday,20:20,TB,,ARI,,Home,,,,2022122502,,,202212250crd,,,7,7,-135,115,-2.5,-110,-110,,,,0,closed,grass,,,,,,,Todd Bowles,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_16_LAC_IND,2022,REG,16,2022-12-26,Monday,20:15,LAC,,IND,,Home,,,,2022122600,,,202212260clt,,,8,8,-120,100,-1,-110,-110,,,,0,,fieldturf,,,,,,,Brandon Staley,Frank Reich,,IND00,Lucas Oil Stadium
+2022_17_DAL_TEN,2022,REG,17,2022-12-29,Thursday,20:15,DAL,,TEN,,Home,,,,2022122900,,,202212290oti,,,5,5,110,-130,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Mike Vrabel,,NAS00,Nissan Stadium
+2022_17_ARI_ATL,2022,REG,17,2023-01-01,Sunday,13:00,ARI,,ATL,,Home,,,,2023010100,,,202301010atl,,,7,8,-175,150,-3.5,-110,-110,,,,0,,fieldturf,,,,,,,Kliff Kingsbury,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_17_PIT_BAL,2022,REG,17,2023-01-01,Sunday,13:00,PIT,,BAL,,Home,,,,2023010101,,,202301010rav,,,8,8,205,-245,5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
+2022_17_CHI_DET,2022,REG,17,2023-01-01,Sunday,13:00,CHI,,DET,,Home,,,,2023010102,,,202301010det,,,8,8,110,-130,1.5,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
+2022_17_JAX_HOU,2022,REG,17,2023-01-01,Sunday,13:00,JAX,,HOU,,Home,,,,2023010103,,,202301010htx,,,10,8,-110,-110,-0,-110,-110,,,,1,,grass,,,,,,,Doug Pederson,Lovie Smith,,HOU00,NRG Stadium
+2022_17_DEN_KC,2022,REG,17,2023-01-01,Sunday,13:00,DEN,,KC,,Home,,,,2023010104,,,202301010kan,,,7,8,160,-190,4.5,-110,-110,,,,1,outdoors,astroturf,,,,,,,Nathaniel Hackett,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2022_17_MIA_NE,2022,REG,17,2023-01-01,Sunday,13:00,MIA,,NE,,Home,,,,2023010105,,,202301010nwe,,,7,8,110,-130,1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike McDaniel,Bill Belichick,,BOS00,Gillette Stadium
+2022_17_IND_NYG,2022,REG,17,2023-01-01,Sunday,13:00,IND,,NYG,,Home,,,,2023010106,,,202301010nyg,,,6,8,-145,125,-3,-110,-110,,,,0,outdoors,fieldturf ,,,,,,,Frank Reich,Brian Daboll,,NYC01,MetLife Stadium
+2022_17_NO_PHI,2022,REG,17,2023-01-01,Sunday,13:00,NO,,PHI,,Home,,,,2023010107,,,202301010phi,,,8,8,130,-150,3,-110,-110,,,,0,outdoors,grass,,,,,,,Dennis Allen,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_17_CAR_TB,2022,REG,17,2023-01-01,Sunday,13:00,CAR,,TB,,Home,,,,2023010108,,,202301010tam,,,8,7,295,-360,7.5,-110,-110,,,,1,outdoors,grass,,,,,,,Matt Rhule,Todd Bowles,,TAM00,Raymond James Stadium
 2022_17_CLE_WAS,2022,REG,17,2023-01-01,Sunday,13:00,CLE,,WAS,,Home,,,,2023010109,,,202301010was,,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Kevin Stefanski,Ron Rivera,,WAS00,FedExField
-2022_17_SF_LV,2022,REG,17,2023-01-01,Sunday,16:05,SF,,LV,,Home,,,,2023010110,,,202301010rai,,,8,8,,,,,,,,,0,dome,grass,,,,,,,Kyle Shanahan,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_17_NYJ_SEA,2022,REG,17,2023-01-01,Sunday,16:05,NYJ,,SEA,,Home,,,,2023010111,,,202301010sea,,,10,8,,,,,,,,,0,outdoors,fieldturf,,,,,,,Robert Saleh,Pete Carroll,,SEA00,Lumen Field
-2022_17_MIN_GB,2022,REG,17,2023-01-01,Sunday,16:25,MIN,,GB,,Home,,,,2023010112,,,202301010gnb,,,8,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt LaFleur,,GNB00,Lambeau Field
-2022_17_LA_LAC,2022,REG,17,2023-01-01,Sunday,20:20,LA,,LAC,,Home,,,,2023010113,,,202301010sdg,,,7,6,,,,,,,,,0,dome,matrixturf,,,,,,,Sean McVay,Brandon Staley,,LAX01,SoFi Stadium
-2022_17_BUF_CIN,2022,REG,17,2023-01-02,Monday,20:30,BUF,,CIN,,Home,,,,2023010200,,,202301020cin,,,9,9,,,,,,,,,0,outdoors,grass,,,,,,,Sean McDermott,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_18_TB_ATL,2022,REG,18,2023-01-08,Sunday,13:00,TB,,ATL,,Home,,,,2023010800,,,202301080atl,,,7,7,,,,,,,,,1,,fieldturf,,,,,,,Todd Bowles,Arthur Smith,,ATL97,Mercedes-Benz Stadium
-2022_18_NE_BUF,2022,REG,18,2023-01-08,Sunday,13:00,NE,,BUF,,Home,,,,2023010801,,,202301080buf,,,7,6,,,,,,,,,1,outdoors,astroturf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
-2022_18_MIN_CHI,2022,REG,18,2023-01-08,Sunday,13:00,MIN,,CHI,,Home,,,,2023010802,,,202301080chi,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt Eberflus,,CHI98,Soldier Field
-2022_18_BAL_CIN,2022,REG,18,2023-01-08,Sunday,13:00,BAL,,CIN,,Home,,,,2023010803,,,202301080cin,,,7,6,,,,,,,,,1,outdoors,grass,,,,,,,John Harbaugh,Zac Taylor,,CIN00,Paul Brown Stadium
-2022_18_LAC_DEN,2022,REG,18,2023-01-08,Sunday,13:00,LAC,,DEN,,Home,,,,2023010812,,,202301080den,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brandon Staley,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_18_DET_GB,2022,REG,18,2023-01-08,Sunday,13:00,DET,,GB,,Home,,,,2023010804,,,202301080gnb,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
-2022_18_HOU_IND,2022,REG,18,2023-01-08,Sunday,13:00,HOU,,IND,,Home,,,,2023010805,,,202301080clt,,,7,7,,,,,,,,,1,,fieldturf,,,,,,,Lovie Smith,Frank Reich,,IND00,Lucas Oil Stadium
-2022_18_TEN_JAX,2022,REG,18,2023-01-08,Sunday,13:00,TEN,,JAX,,Home,,,,2023010806,,,202301080jax,,,10,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Vrabel,Doug Pederson,,JAX00,TIAA Bank Stadium
-2022_18_KC_LV,2022,REG,18,2023-01-08,Sunday,13:00,KC,,LV,,Home,,,,2023010813,,,202301080rai,,,7,7,,,,,,,,,1,dome,grass,,,,,,,Andy Reid,Josh McDaniels,,VEG00,Allegiant Stadium
-2022_18_NYJ_MIA,2022,REG,18,2023-01-08,Sunday,13:00,NYJ,,MIA,,Home,,,,2023010807,,,202301080mia,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Robert Saleh,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_18_CAR_NO,2022,REG,18,2023-01-08,Sunday,13:00,CAR,,NO,,Home,,,,2023010808,,,202301080nor,,,7,7,,,,,,,,,1,dome,astroturf,,,,,,,Matt Rhule,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2022_18_NYG_PHI,2022,REG,18,2023-01-08,Sunday,13:00,NYG,,PHI,,Home,,,,2023010809,,,202301080phi,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brian Daboll,Nick Sirianni,,PHI00,Lincoln Financial Field
+2022_17_SF_LV,2022,REG,17,2023-01-01,Sunday,16:05,SF,,LV,,Home,,,,2023010110,,,202301010rai,,,8,8,110,-130,1.5,-110,-110,,,,0,dome,grass,,,,,,,Kyle Shanahan,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_17_NYJ_SEA,2022,REG,17,2023-01-01,Sunday,16:05,NYJ,,SEA,,Home,,,,2023010111,,,202301010sea,,,10,8,110,-130,1.5,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Robert Saleh,Pete Carroll,,SEA00,Lumen Field
+2022_17_MIN_GB,2022,REG,17,2023-01-01,Sunday,16:25,MIN,,GB,,Home,,,,2023010112,,,202301010gnb,,,8,7,205,-245,5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt LaFleur,,GNB00,Lambeau Field
+2022_17_LA_LAC,2022,REG,17,2023-01-01,Sunday,20:20,LA,,LAC,,Home,,,,2023010113,,,202301010sdg,,,7,6,110,-130,1.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Sean McVay,Brandon Staley,,LAX01,SoFi Stadium
+2022_17_BUF_CIN,2022,REG,17,2023-01-02,Monday,20:30,BUF,,CIN,,Home,,,,2023010200,,,202301020cin,,,9,9,-110,-110,-0,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McDermott,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_18_TB_ATL,2022,REG,18,2023-01-08,Sunday,13:00,TB,,ATL,,Home,,,,2023010800,,,202301080atl,,,7,7,-350,290,-7.5,-110,-110,,,,1,,fieldturf,,,,,,,Todd Bowles,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2022_18_NE_BUF,2022,REG,18,2023-01-08,Sunday,13:00,NE,,BUF,,Home,,,,2023010801,,,202301080buf,,,7,6,255,-305,7,-110,-110,,,,1,outdoors,astroturf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
+2022_18_MIN_CHI,2022,REG,18,2023-01-08,Sunday,13:00,MIN,,CHI,,Home,,,,2023010802,,,202301080chi,,,7,7,-130,110,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt Eberflus,,CHI98,Soldier Field
+2022_18_BAL_CIN,2022,REG,18,2023-01-08,Sunday,13:00,BAL,,CIN,,Home,,,,2023010803,,,202301080cin,,,7,6,140,-165,3,100,-120,,,,1,outdoors,grass,,,,,,,John Harbaugh,Zac Taylor,,CIN00,Paul Brown Stadium
+2022_18_LAC_DEN,2022,REG,18,2023-01-08,Sunday,13:00,LAC,,DEN,,Home,,,,2023010812,,,202301080den,,,7,7,-110,-110,-0,-110,-110,,,,1,outdoors,grass,,,,,,,Brandon Staley,Nathaniel Hackett,,DEN00,Empower Field at Mile High
+2022_18_DET_GB,2022,REG,18,2023-01-08,Sunday,13:00,DET,,GB,,Home,,,,2023010804,,,202301080gnb,,,7,7,330,-410,8,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
+2022_18_HOU_IND,2022,REG,18,2023-01-08,Sunday,13:00,HOU,,IND,,Home,,,,2023010805,,,202301080clt,,,7,7,420,-540,10,-110,-110,,,,1,,fieldturf,,,,,,,Lovie Smith,Frank Reich,,IND00,Lucas Oil Stadium
+2022_18_TEN_JAX,2022,REG,18,2023-01-08,Sunday,13:00,TEN,,JAX,,Home,,,,2023010806,,,202301080jax,,,10,7,-150,130,-3,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Vrabel,Doug Pederson,,JAX00,TIAA Bank Stadium
+2022_18_KC_LV,2022,REG,18,2023-01-08,Sunday,13:00,KC,,LV,,Home,,,,2023010813,,,202301080rai,,,7,7,-130,110,-2,-110,-110,,,,1,dome,grass,,,,,,,Andy Reid,Josh McDaniels,,VEG00,Allegiant Stadium
+2022_18_NYJ_MIA,2022,REG,18,2023-01-08,Sunday,13:00,NYJ,,MIA,,Home,,,,2023010807,,,202301080mia,,,7,7,205,-245,5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Robert Saleh,Mike McDaniel,,MIA00,Hard Rock Stadium
+2022_18_CAR_NO,2022,REG,18,2023-01-08,Sunday,13:00,CAR,,NO,,Home,,,,2023010808,,,202301080nor,,,7,7,135,-155,3,-110,-110,,,,1,dome,astroturf,,,,,,,Matt Rhule,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2022_18_NYG_PHI,2022,REG,18,2023-01-08,Sunday,13:00,NYG,,PHI,,Home,,,,2023010809,,,202301080phi,,,7,7,190,-225,5,-110,-110,,,,1,outdoors,grass,,,,,,,Brian Daboll,Nick Sirianni,,PHI00,Lincoln Financial Field
 2022_18_CLE_PIT,2022,REG,18,2023-01-08,Sunday,13:00,CLE,,PIT,,Home,,,,2023010810,,,202301080pit,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Acrisure Stadium
-2022_18_LA_SEA,2022,REG,18,2023-01-08,Sunday,13:00,LA,,SEA,,Home,,,,2023010814,,,202301080sea,,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
-2022_18_ARI_SF,2022,REG,18,2023-01-08,Sunday,13:00,ARI,,SF,,Home,,,,2023010815,,,202301080sfo,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
-2022_18_DAL_WAS,2022,REG,18,2023-01-08,Sunday,13:00,DAL,,WAS,,Home,,,,2023010811,,,202301080was,,,10,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Ron Rivera,,WAS00,FedExField
+2022_18_LA_SEA,2022,REG,18,2023-01-08,Sunday,13:00,LA,,SEA,,Home,,,,2023010814,,,202301080sea,,,7,7,-245,205,-5.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Sean McVay,Pete Carroll,,SEA00,Lumen Field
+2022_18_ARI_SF,2022,REG,18,2023-01-08,Sunday,13:00,ARI,,SF,,Home,,,,2023010815,,,202301080sfo,,,7,7,135,-155,3,100,-120,,,,1,outdoors,grass,,,,,,,Kliff Kingsbury,Kyle Shanahan,,SFO01,Levi's Stadium
+2022_18_DAL_WAS,2022,REG,18,2023-01-08,Sunday,13:00,DAL,,WAS,,Home,,,,2023010811,,,202301080was,,,10,7,-120,100,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Ron Rivera,,WAS00,FedExField
