@@ -3336,8 +3336,8 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,ZenTaco,50
 2021_01_MIN_CIN,zweinberg18,29
 2021_01_MIN_CIN,zybxixi,50
-2021_01_SF_DET,,10
 2021_01_SF_DET,,50
+2021_01_SF_DET,,10
 2021_01_SF_DET,__beraldo,50
 2021_01_SF_DET,__DavidOfficial,17
 2021_01_SF_DET,_alendowsky,31
@@ -8047,8 +8047,8 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,ZenTaco,50
 2021_01_MIA_NE,zweinberg18,55
 2021_01_MIA_NE,zybxixi,50
-2021_01_GB_NO,,50
 2021_01_GB_NO,,32
+2021_01_GB_NO,,50
 2021_01_GB_NO,__beraldo,50
 2021_01_GB_NO,__DavidOfficial,25
 2021_01_GB_NO,_alendowsky,29
@@ -11580,8 +11580,8 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,zackry_mc,25
 2021_02_NO_CAR,zacwest91,65
 2021_02_NO_CAR,zweinberg18,40
-2021_02_CIN_CHI,,42
 2021_02_CIN_CHI,,44
+2021_02_CIN_CHI,,42
 2021_02_CIN_CHI,__DavidOfficial,51
 2021_02_CIN_CHI,_DH44_,65
 2021_02_CIN_CHI,_jclemons,53
@@ -14178,8 +14178,8 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,zackry_mc,0
 2021_02_NE_NYJ,zacwest91,43
 2021_02_NE_NYJ,zweinberg18,45
-2021_02_SF_PHI,,47
 2021_02_SF_PHI,,61
+2021_02_SF_PHI,,47
 2021_02_SF_PHI,__DavidOfficial,40
 2021_02_SF_PHI,_DH44_,22
 2021_02_SF_PHI,_jclemons,44
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,38
 2021_02_DET_GB,,70
+2021_02_DET_GB,,38
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -17992,8 +17992,8 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,,45
+2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,50
 2021_03_BAL_DET,,21
+2021_03_BAL_DET,,50
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -19492,8 +19492,8 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,YayySports,28
 2021_03_ARI_JAX,zackry_mc,0
 2021_03_ARI_JAX,zweinberg18,28
-2021_03_LAC_KC,,42
 2021_03_LAC_KC,,50
+2021_03_LAC_KC,,42
 2021_03_LAC_KC,__DavidOfficial,52
 2021_03_LAC_KC,_alendowsky,52
 2021_03_LAC_KC,_DH44_,53
@@ -20242,8 +20242,8 @@ game_id,screen_name,prediction
 2021_03_NO_NE,YayySports,53
 2021_03_NO_NE,zackry_mc,100
 2021_03_NO_NE,zweinberg18,45
-2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,,50
+2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
@@ -20617,8 +20617,8 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,YayySports,66
 2021_03_ATL_NYG,zackry_mc,50
 2021_03_ATL_NYG,zweinberg18,55
-2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,,50
+2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -23262,8 +23262,8 @@ game_id,screen_name,prediction
 2021_03_GB_SF,YayySports,64
 2021_03_GB_SF,zackry_mc,50
 2021_03_GB_SF,zweinberg18,55
-2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,,35
+2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,__DavidOfficial,67
 2021_03_PHI_DAL,_alendowsky,51
 2021_03_PHI_DAL,_DH44_,80
@@ -58402,6 +58402,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,FXL_3,33
 2021_10_LA_SF,GabbVautour,50
 2021_10_LA_SF,gaberrowe,29
+2021_10_LA_SF,gage_anderson91,30
 2021_10_LA_SF,GEversden,22
 2021_10_LA_SF,GleamTweeter,0
 2021_10_LA_SF,globymyzelf,32
@@ -58410,7 +58411,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,greerreNFL,38
 2021_10_LA_SF,GridInsights,63
 2021_10_LA_SF,gshelor,28
-2021_10_LA_SF,gvader24,30
 2021_10_LA_SF,henrygise,57
 2021_10_LA_SF,htennis98,28
 2021_10_LA_SF,HumphreyIsland,30
@@ -58699,6 +58699,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,FuzzyLogicBrock,22
 2021_11_NE_ATL,FXL_3,36
 2021_11_NE_ATL,gaberrowe,25
+2021_11_NE_ATL,gage_anderson91,8
 2021_11_NE_ATL,GEversden,33
 2021_11_NE_ATL,GleamTweeter,20
 2021_11_NE_ATL,godin_jon,24
@@ -58706,7 +58707,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,greerreNFL,26
 2021_11_NE_ATL,GridInsights,24
 2021_11_NE_ATL,gshelor,15
-2021_11_NE_ATL,gvader24,8
 2021_11_NE_ATL,henrygise,50
 2021_11_NE_ATL,htennis98,50
 2021_11_NE_ATL,HumphreyIsland,50
@@ -58973,6 +58973,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,FuzzyLogicBrock,78
 2021_11_IND_BUF,FXL_3,69
 2021_11_IND_BUF,gaberrowe,71
+2021_11_IND_BUF,gage_anderson91,79
 2021_11_IND_BUF,GEversden,74
 2021_11_IND_BUF,GleamTweeter,50
 2021_11_IND_BUF,godin_jon,70
@@ -58980,7 +58981,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,greerreNFL,73
 2021_11_IND_BUF,GridInsights,70
 2021_11_IND_BUF,gshelor,94
-2021_11_IND_BUF,gvader24,79
 2021_11_IND_BUF,henrygise,50
 2021_11_IND_BUF,htennis98,66
 2021_11_IND_BUF,HumphreyIsland,50
@@ -59256,6 +59256,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,FuzzyLogicBrock,78
 2021_11_WAS_CAR,FXL_3,58
 2021_11_WAS_CAR,gaberrowe,45
+2021_11_WAS_CAR,gage_anderson91,35
 2021_11_WAS_CAR,GEversden,67
 2021_11_WAS_CAR,GleamTweeter,50
 2021_11_WAS_CAR,godin_jon,56
@@ -59263,7 +59264,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,greerreNFL,52
 2021_11_WAS_CAR,GridInsights,56
 2021_11_WAS_CAR,gshelor,60
-2021_11_WAS_CAR,gvader24,35
 2021_11_WAS_CAR,henrygise,50
 2021_11_WAS_CAR,htennis98,57
 2021_11_WAS_CAR,HumphreyIsland,50
@@ -59540,6 +59540,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,FuzzyLogicBrock,22
 2021_11_BAL_CHI,FXL_3,25
 2021_11_BAL_CHI,gaberrowe,35
+2021_11_BAL_CHI,gage_anderson91,31
 2021_11_BAL_CHI,GEversden,27
 2021_11_BAL_CHI,GleamTweeter,20
 2021_11_BAL_CHI,godin_jon,30
@@ -59547,7 +59548,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,greerreNFL,48
 2021_11_BAL_CHI,GridInsights,67
 2021_11_BAL_CHI,gshelor,25
-2021_11_BAL_CHI,gvader24,31
 2021_11_BAL_CHI,henrygise,50
 2021_11_BAL_CHI,htennis98,38
 2021_11_BAL_CHI,HumphreyIsland,50
@@ -59824,6 +59824,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,FuzzyLogicBrock,78
 2021_11_DET_CLE,FXL_3,81
 2021_11_DET_CLE,gaberrowe,83
+2021_11_DET_CLE,gage_anderson91,78
 2021_11_DET_CLE,GEversden,80
 2021_11_DET_CLE,GleamTweeter,100
 2021_11_DET_CLE,godin_jon,70
@@ -59831,7 +59832,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,greerreNFL,80
 2021_11_DET_CLE,GridInsights,78
 2021_11_DET_CLE,gshelor,96
-2021_11_DET_CLE,gvader24,78
 2021_11_DET_CLE,henrygise,50
 2021_11_DET_CLE,htennis98,83
 2021_11_DET_CLE,HumphreyIsland,50
@@ -60107,6 +60107,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,FuzzyLogicBrock,32
 2021_11_SF_JAX,FXL_3,26
 2021_11_SF_JAX,gaberrowe,27
+2021_11_SF_JAX,gage_anderson91,18
 2021_11_SF_JAX,GEversden,39
 2021_11_SF_JAX,GleamTweeter,21
 2021_11_SF_JAX,godin_jon,20
@@ -60114,7 +60115,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,greerreNFL,29
 2021_11_SF_JAX,GridInsights,74
 2021_11_SF_JAX,gshelor,22
-2021_11_SF_JAX,gvader24,18
 2021_11_SF_JAX,henrygise,50
 2021_11_SF_JAX,htennis98,38
 2021_11_SF_JAX,HumphreyIsland,50
@@ -60390,6 +60390,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,FuzzyLogicBrock,23
 2021_11_GB_MIN,FXL_3,40
 2021_11_GB_MIN,gaberrowe,53
+2021_11_GB_MIN,gage_anderson91,57
 2021_11_GB_MIN,GEversden,32
 2021_11_GB_MIN,GleamTweeter,50
 2021_11_GB_MIN,godin_jon,30
@@ -60397,7 +60398,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,greerreNFL,40
 2021_11_GB_MIN,GridInsights,43
 2021_11_GB_MIN,gshelor,35
-2021_11_GB_MIN,gvader24,57
 2021_11_GB_MIN,henrygise,50
 2021_11_GB_MIN,htennis98,54
 2021_11_GB_MIN,HumphreyIsland,50
@@ -60673,6 +60673,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,FuzzyLogicBrock,63
 2021_11_MIA_NYJ,FXL_3,42
 2021_11_MIA_NYJ,gaberrowe,36
+2021_11_MIA_NYJ,gage_anderson91,32
 2021_11_MIA_NYJ,GEversden,37
 2021_11_MIA_NYJ,GleamTweeter,50
 2021_11_MIA_NYJ,godin_jon,40
@@ -60680,7 +60681,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,greerreNFL,35
 2021_11_MIA_NYJ,GridInsights,35
 2021_11_MIA_NYJ,gshelor,52
-2021_11_MIA_NYJ,gvader24,32
 2021_11_MIA_NYJ,henrygise,50
 2021_11_MIA_NYJ,htennis98,45
 2021_11_MIA_NYJ,HumphreyIsland,50
@@ -60957,6 +60957,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,FuzzyLogicBrock,78
 2021_11_NO_PHI,FXL_3,45
 2021_11_NO_PHI,gaberrowe,60
+2021_11_NO_PHI,gage_anderson91,39
 2021_11_NO_PHI,GEversden,49
 2021_11_NO_PHI,GleamTweeter,50
 2021_11_NO_PHI,godin_jon,55
@@ -60964,7 +60965,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,greerreNFL,55
 2021_11_NO_PHI,GridInsights,44
 2021_11_NO_PHI,gshelor,49
-2021_11_NO_PHI,gvader24,39
 2021_11_NO_PHI,henrygise,50
 2021_11_NO_PHI,htennis98,53
 2021_11_NO_PHI,HumphreyIsland,50
@@ -61241,6 +61241,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,FuzzyLogicBrock,78
 2021_11_HOU_TEN,FXL_3,75
 2021_11_HOU_TEN,gaberrowe,85
+2021_11_HOU_TEN,gage_anderson91,100
 2021_11_HOU_TEN,GEversden,73
 2021_11_HOU_TEN,GleamTweeter,80
 2021_11_HOU_TEN,godin_jon,100
@@ -61248,7 +61249,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,greerreNFL,79
 2021_11_HOU_TEN,GridInsights,78
 2021_11_HOU_TEN,gshelor,84
-2021_11_HOU_TEN,gvader24,100
 2021_11_HOU_TEN,henrygise,50
 2021_11_HOU_TEN,htennis98,88
 2021_11_HOU_TEN,HumphreyIsland,50
@@ -61525,6 +61525,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,FuzzyLogicBrock,65
 2021_11_CIN_LV,FXL_3,51
 2021_11_CIN_LV,gaberrowe,46
+2021_11_CIN_LV,gage_anderson91,35
 2021_11_CIN_LV,GEversden,43
 2021_11_CIN_LV,GleamTweeter,50
 2021_11_CIN_LV,godin_jon,45
@@ -61532,7 +61533,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,greerreNFL,48
 2021_11_CIN_LV,GridInsights,52
 2021_11_CIN_LV,gshelor,43
-2021_11_CIN_LV,gvader24,35
 2021_11_CIN_LV,henrygise,50
 2021_11_CIN_LV,htennis98,49
 2021_11_CIN_LV,HumphreyIsland,50
@@ -61809,6 +61809,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,FuzzyLogicBrock,22
 2021_11_DAL_KC,FXL_3,60
 2021_11_DAL_KC,gaberrowe,57
+2021_11_DAL_KC,gage_anderson91,46
 2021_11_DAL_KC,GEversden,62
 2021_11_DAL_KC,GleamTweeter,50
 2021_11_DAL_KC,godin_jon,45
@@ -61816,7 +61817,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,greerreNFL,46
 2021_11_DAL_KC,GridInsights,46
 2021_11_DAL_KC,gshelor,70
-2021_11_DAL_KC,gvader24,46
 2021_11_DAL_KC,henrygise,50
 2021_11_DAL_KC,htennis98,48
 2021_11_DAL_KC,HumphreyIsland,50
@@ -62093,6 +62093,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,FuzzyLogicBrock,78
 2021_11_ARI_SEA,FXL_3,54
 2021_11_ARI_SEA,gaberrowe,39
+2021_11_ARI_SEA,gage_anderson91,36
 2021_11_ARI_SEA,GEversden,38
 2021_11_ARI_SEA,GleamTweeter,50
 2021_11_ARI_SEA,godin_jon,45
@@ -62100,7 +62101,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,greerreNFL,59
 2021_11_ARI_SEA,GridInsights,56
 2021_11_ARI_SEA,gshelor,44
-2021_11_ARI_SEA,gvader24,36
 2021_11_ARI_SEA,henrygise,50
 2021_11_ARI_SEA,htennis98,52
 2021_11_ARI_SEA,HumphreyIsland,50
@@ -62378,6 +62378,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,FuzzyLogicBrock,68
 2021_11_PIT_LAC,FXL_3,70
 2021_11_PIT_LAC,gaberrowe,72
+2021_11_PIT_LAC,gage_anderson91,69
 2021_11_PIT_LAC,GEversden,47
 2021_11_PIT_LAC,GleamTweeter,50
 2021_11_PIT_LAC,godin_jon,70
@@ -62385,7 +62386,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,greerreNFL,64
 2021_11_PIT_LAC,GridInsights,75
 2021_11_PIT_LAC,gshelor,71
-2021_11_PIT_LAC,gvader24,69
 2021_11_PIT_LAC,henrygise,50
 2021_11_PIT_LAC,htennis98,54
 2021_11_PIT_LAC,HumphreyIsland,50
@@ -62665,6 +62665,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,FuzzyLogicBrock,100
 2021_11_NYG_TB,FXL_3,85
 2021_11_NYG_TB,gaberrowe,83
+2021_11_NYG_TB,gage_anderson91,87
 2021_11_NYG_TB,GEversden,78
 2021_11_NYG_TB,GleamTweeter,79
 2021_11_NYG_TB,godin_jon,80
@@ -62672,7 +62673,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,greerreNFL,78
 2021_11_NYG_TB,GridInsights,79
 2021_11_NYG_TB,gshelor,97
-2021_11_NYG_TB,gvader24,87
 2021_11_NYG_TB,henrygise,50
 2021_11_NYG_TB,htennis98,71
 2021_11_NYG_TB,HumphreyIsland,50
@@ -62939,6 +62939,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,FuzzyLogicBrock,22
 2021_12_CHI_DET,FXL_3,44
 2021_12_CHI_DET,gaberrowe,42
+2021_12_CHI_DET,gage_anderson91,45
 2021_12_CHI_DET,GEversden,34
 2021_12_CHI_DET,GleamTweeter,50
 2021_12_CHI_DET,godin_jon,48
@@ -62946,7 +62947,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,greerreNFL,43
 2021_12_CHI_DET,GridInsights,49
 2021_12_CHI_DET,gshelor,32
-2021_12_CHI_DET,gvader24,45
 2021_12_CHI_DET,htennis98,50
 2021_12_CHI_DET,HunterHarmuth46,41
 2021_12_CHI_DET,InternalMetrics,50
@@ -63181,6 +63181,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,FuzzyLogicBrock,78
 2021_12_LV_DAL,FXL_3,67
 2021_12_LV_DAL,gaberrowe,77
+2021_12_LV_DAL,gage_anderson91,88
 2021_12_LV_DAL,GEversden,77
 2021_12_LV_DAL,GleamTweeter,50
 2021_12_LV_DAL,godin_jon,86
@@ -63188,7 +63189,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,greerreNFL,74
 2021_12_LV_DAL,GridInsights,72
 2021_12_LV_DAL,gshelor,90
-2021_12_LV_DAL,gvader24,88
 2021_12_LV_DAL,htennis98,71
 2021_12_LV_DAL,HunterHarmuth46,34
 2021_12_LV_DAL,InternalMetrics,69
@@ -63425,6 +63425,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,FuzzyLogicBrock,22
 2021_12_BUF_NO,FXL_3,28
 2021_12_BUF_NO,gaberrowe,31
+2021_12_BUF_NO,gage_anderson91,36
 2021_12_BUF_NO,GEversden,37
 2021_12_BUF_NO,GleamTweeter,50
 2021_12_BUF_NO,godin_jon,47
@@ -63432,7 +63433,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,greerreNFL,31
 2021_12_BUF_NO,GridInsights,68
 2021_12_BUF_NO,gshelor,27
-2021_12_BUF_NO,gvader24,36
 2021_12_BUF_NO,htennis98,31
 2021_12_BUF_NO,HunterHarmuth46,33
 2021_12_BUF_NO,InternalMetrics,29
@@ -63675,6 +63675,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,FuzzyLogicBrock,22
 2021_12_PIT_CIN,FXL_3,65
 2021_12_PIT_CIN,gaberrowe,57
+2021_12_PIT_CIN,gage_anderson91,71
 2021_12_PIT_CIN,GEversden,55
 2021_12_PIT_CIN,GleamTweeter,50
 2021_12_PIT_CIN,godin_jon,54
@@ -63682,7 +63683,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,greerreNFL,52
 2021_12_PIT_CIN,GridInsights,64
 2021_12_PIT_CIN,gshelor,64
-2021_12_PIT_CIN,gvader24,71
 2021_12_PIT_CIN,htennis98,61
 2021_12_PIT_CIN,HunterHarmuth46,43
 2021_12_PIT_CIN,InternalMetrics,59
@@ -63936,6 +63936,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,FuzzyLogicBrock,77
 2021_12_NYJ_HOU,FXL_3,61
 2021_12_NYJ_HOU,gaberrowe,61
+2021_12_NYJ_HOU,gage_anderson91,69
 2021_12_NYJ_HOU,GEversden,51
 2021_12_NYJ_HOU,GleamTweeter,50
 2021_12_NYJ_HOU,godin_jon,55
@@ -63943,7 +63944,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,greerreNFL,56
 2021_12_NYJ_HOU,GridInsights,41
 2021_12_NYJ_HOU,gshelor,60
-2021_12_NYJ_HOU,gvader24,69
 2021_12_NYJ_HOU,htennis98,47
 2021_12_NYJ_HOU,HunterHarmuth46,58
 2021_12_NYJ_HOU,InternalMetrics,65
@@ -64197,6 +64197,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,FuzzyLogicBrock,22
 2021_12_TB_IND,FXL_3,30
 2021_12_TB_IND,gaberrowe,48
+2021_12_TB_IND,gage_anderson91,55
 2021_12_TB_IND,GEversden,35
 2021_12_TB_IND,GleamTweeter,50
 2021_12_TB_IND,godin_jon,45
@@ -64204,7 +64205,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,greerreNFL,37
 2021_12_TB_IND,GridInsights,38
 2021_12_TB_IND,gshelor,14
-2021_12_TB_IND,gvader24,55
 2021_12_TB_IND,htennis98,42
 2021_12_TB_IND,HunterHarmuth46,55
 2021_12_TB_IND,InternalMetrics,25
@@ -64458,6 +64458,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,FuzzyLogicBrock,23
 2021_12_ATL_JAX,FXL_3,40
 2021_12_ATL_JAX,gaberrowe,52
+2021_12_ATL_JAX,gage_anderson91,42
 2021_12_ATL_JAX,GEversden,32
 2021_12_ATL_JAX,GleamTweeter,50
 2021_12_ATL_JAX,godin_jon,40
@@ -64465,7 +64466,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,greerreNFL,49
 2021_12_ATL_JAX,GridInsights,45
 2021_12_ATL_JAX,gshelor,38
-2021_12_ATL_JAX,gvader24,42
 2021_12_ATL_JAX,htennis98,36
 2021_12_ATL_JAX,HunterHarmuth46,34
 2021_12_ATL_JAX,InternalMetrics,53
@@ -64719,6 +64719,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,FuzzyLogicBrock,22
 2021_12_CAR_MIA,FXL_3,45
 2021_12_CAR_MIA,gaberrowe,55
+2021_12_CAR_MIA,gage_anderson91,45
 2021_12_CAR_MIA,GEversden,43
 2021_12_CAR_MIA,GleamTweeter,50
 2021_12_CAR_MIA,godin_jon,46
@@ -64726,7 +64727,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,greerreNFL,45
 2021_12_CAR_MIA,GridInsights,50
 2021_12_CAR_MIA,gshelor,37
-2021_12_CAR_MIA,gvader24,45
 2021_12_CAR_MIA,htennis98,38
 2021_12_CAR_MIA,HunterHarmuth46,38
 2021_12_CAR_MIA,InternalMetrics,61
@@ -64980,6 +64980,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,FuzzyLogicBrock,78
 2021_12_TEN_NE,FXL_3,68
 2021_12_TEN_NE,gaberrowe,73
+2021_12_TEN_NE,gage_anderson91,70
 2021_12_TEN_NE,GEversden,64
 2021_12_TEN_NE,GleamTweeter,50
 2021_12_TEN_NE,godin_jon,60
@@ -64987,7 +64988,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,greerreNFL,65
 2021_12_TEN_NE,GridInsights,68
 2021_12_TEN_NE,gshelor,74
-2021_12_TEN_NE,gvader24,70
 2021_12_TEN_NE,htennis98,64
 2021_12_TEN_NE,HunterHarmuth46,67
 2021_12_TEN_NE,InternalMetrics,73
@@ -65241,6 +65241,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,FuzzyLogicBrock,22
 2021_12_PHI_NYG,FXL_3,35
 2021_12_PHI_NYG,gaberrowe,30
+2021_12_PHI_NYG,gage_anderson91,10
 2021_12_PHI_NYG,GEversden,33
 2021_12_PHI_NYG,GleamTweeter,50
 2021_12_PHI_NYG,godin_jon,25
@@ -65248,7 +65249,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,greerreNFL,33
 2021_12_PHI_NYG,GridInsights,31
 2021_12_PHI_NYG,gshelor,33
-2021_12_PHI_NYG,gvader24,10
 2021_12_PHI_NYG,htennis98,32
 2021_12_PHI_NYG,HunterHarmuth46,0
 2021_12_PHI_NYG,InternalMetrics,36
@@ -65502,6 +65502,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,FuzzyLogicBrock,22
 2021_12_LAC_DEN,FXL_3,35
 2021_12_LAC_DEN,gaberrowe,42
+2021_12_LAC_DEN,gage_anderson91,25
 2021_12_LAC_DEN,GEversden,40
 2021_12_LAC_DEN,GleamTweeter,50
 2021_12_LAC_DEN,godin_jon,45
@@ -65509,7 +65510,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,greerreNFL,40
 2021_12_LAC_DEN,GridInsights,35
 2021_12_LAC_DEN,gshelor,36
-2021_12_LAC_DEN,gvader24,25
 2021_12_LAC_DEN,htennis98,33
 2021_12_LAC_DEN,HunterHarmuth46,32
 2021_12_LAC_DEN,InternalMetrics,39
@@ -65763,6 +65763,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,FuzzyLogicBrock,22
 2021_12_LA_GB,FXL_3,48
 2021_12_LA_GB,gaberrowe,46
+2021_12_LA_GB,gage_anderson91,57
 2021_12_LA_GB,GEversden,59
 2021_12_LA_GB,GleamTweeter,50
 2021_12_LA_GB,godin_jon,58
@@ -65770,7 +65771,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,greerreNFL,47
 2021_12_LA_GB,GridInsights,49
 2021_12_LA_GB,gshelor,43
-2021_12_LA_GB,gvader24,57
 2021_12_LA_GB,htennis98,47
 2021_12_LA_GB,HunterHarmuth46,57
 2021_12_LA_GB,InternalMetrics,39
@@ -66024,6 +66024,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,FuzzyLogicBrock,22
 2021_12_MIN_SF,FXL_3,45
 2021_12_MIN_SF,gaberrowe,46
+2021_12_MIN_SF,gage_anderson91,72
 2021_12_MIN_SF,GEversden,47
 2021_12_MIN_SF,GleamTweeter,50
 2021_12_MIN_SF,godin_jon,55
@@ -66031,7 +66032,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,greerreNFL,59
 2021_12_MIN_SF,GridInsights,53
 2021_12_MIN_SF,gshelor,40
-2021_12_MIN_SF,gvader24,72
 2021_12_MIN_SF,htennis98,44
 2021_12_MIN_SF,HunterHarmuth46,37
 2021_12_MIN_SF,InternalMetrics,60
@@ -66285,6 +66285,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,FuzzyLogicBrock,78
 2021_12_CLE_BAL,FXL_3,49
 2021_12_CLE_BAL,gaberrowe,62
+2021_12_CLE_BAL,gage_anderson91,40
 2021_12_CLE_BAL,GEversden,71
 2021_12_CLE_BAL,GleamTweeter,50
 2021_12_CLE_BAL,godin_jon,55
@@ -66292,7 +66293,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,greerreNFL,67
 2021_12_CLE_BAL,GridInsights,51
 2021_12_CLE_BAL,gshelor,73
-2021_12_CLE_BAL,gvader24,40
 2021_12_CLE_BAL,htennis98,60
 2021_12_CLE_BAL,HunterHarmuth46,64
 2021_12_CLE_BAL,InternalMetrics,40
@@ -66547,6 +66547,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,FuzzyLogicBrock,78
 2021_12_SEA_WAS,FXL_3,45
 2021_12_SEA_WAS,gaberrowe,53
+2021_12_SEA_WAS,gage_anderson91,61
 2021_12_SEA_WAS,GEversden,49
 2021_12_SEA_WAS,GleamTweeter,19
 2021_12_SEA_WAS,godin_jon,55
@@ -66554,7 +66555,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,greerreNFL,51
 2021_12_SEA_WAS,GridInsights,45
 2021_12_SEA_WAS,gshelor,41
-2021_12_SEA_WAS,gvader24,61
 2021_12_SEA_WAS,htennis98,49
 2021_12_SEA_WAS,HunterHarmuth46,28
 2021_12_SEA_WAS,InternalMetrics,45
@@ -66798,6 +66798,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,FuzzyLogicBrock,50
 2021_13_DAL_NO,FXL_3,34
 2021_13_DAL_NO,gaberrowe,44
+2021_13_DAL_NO,gage_anderson91,26
 2021_13_DAL_NO,GEversden,25
 2021_13_DAL_NO,GleamTweeter,50
 2021_13_DAL_NO,godin_jon,30
@@ -66805,7 +66806,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,greerreNFL,30
 2021_13_DAL_NO,GridInsights,35
 2021_13_DAL_NO,gshelor,17
-2021_13_DAL_NO,gvader24,26
 2021_13_DAL_NO,henrygise,30
 2021_13_DAL_NO,htennis98,34
 2021_13_DAL_NO,HunterHarmuth46,50
@@ -67038,6 +67038,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,FuzzyLogicBrock,50
 2021_13_TB_ATL,FXL_3,12
 2021_13_TB_ATL,gaberrowe,23
+2021_13_TB_ATL,gage_anderson91,10
 2021_13_TB_ATL,GEversden,29
 2021_13_TB_ATL,GleamTweeter,20
 2021_13_TB_ATL,godin_jon,20
@@ -67045,7 +67046,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,greerreNFL,19
 2021_13_TB_ATL,GridInsights,22
 2021_13_TB_ATL,gshelor,7
-2021_13_TB_ATL,gvader24,10
 2021_13_TB_ATL,henrygise,20
 2021_13_TB_ATL,htennis98,22
 2021_13_TB_ATL,HunterHarmuth46,50
@@ -67287,6 +67287,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,FuzzyLogicBrock,50
 2021_13_ARI_CHI,FXL_3,21
 2021_13_ARI_CHI,gaberrowe,22
+2021_13_ARI_CHI,gage_anderson91,14
 2021_13_ARI_CHI,GEversden,18
 2021_13_ARI_CHI,GleamTweeter,20
 2021_13_ARI_CHI,godin_jon,10
@@ -67294,7 +67295,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,greerreNFL,25
 2021_13_ARI_CHI,GridInsights,25
 2021_13_ARI_CHI,gshelor,17
-2021_13_ARI_CHI,gvader24,14
 2021_13_ARI_CHI,henrygise,31
 2021_13_ARI_CHI,htennis98,22
 2021_13_ARI_CHI,HunterHarmuth46,50
@@ -67536,6 +67536,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,FuzzyLogicBrock,50
 2021_13_LAC_CIN,FXL_3,49
 2021_13_LAC_CIN,gaberrowe,54
+2021_13_LAC_CIN,gage_anderson91,71
 2021_13_LAC_CIN,GEversden,51
 2021_13_LAC_CIN,GleamTweeter,50
 2021_13_LAC_CIN,godin_jon,60
@@ -67543,7 +67544,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,greerreNFL,54
 2021_13_LAC_CIN,GridInsights,49
 2021_13_LAC_CIN,gshelor,46
-2021_13_LAC_CIN,gvader24,71
 2021_13_LAC_CIN,henrygise,63
 2021_13_LAC_CIN,htennis98,51
 2021_13_LAC_CIN,HunterHarmuth46,50
@@ -67785,6 +67785,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,FuzzyLogicBrock,50
 2021_13_MIN_DET,FXL_3,17
 2021_13_MIN_DET,gaberrowe,28
+2021_13_MIN_DET,gage_anderson91,28
 2021_13_MIN_DET,GEversden,24
 2021_13_MIN_DET,GleamTweeter,20
 2021_13_MIN_DET,godin_jon,20
@@ -67792,7 +67793,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,greerreNFL,27
 2021_13_MIN_DET,GridInsights,67
 2021_13_MIN_DET,gshelor,21
-2021_13_MIN_DET,gvader24,28
 2021_13_MIN_DET,henrygise,33
 2021_13_MIN_DET,htennis98,24
 2021_13_MIN_DET,HunterHarmuth46,50
@@ -68034,6 +68034,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,FuzzyLogicBrock,50
 2021_13_IND_HOU,FXL_3,13
 2021_13_IND_HOU,gaberrowe,12
+2021_13_IND_HOU,gage_anderson91,18
 2021_13_IND_HOU,GEversden,34
 2021_13_IND_HOU,GleamTweeter,20
 2021_13_IND_HOU,godin_jon,15
@@ -68041,7 +68042,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,greerreNFL,20
 2021_13_IND_HOU,GridInsights,74
 2021_13_IND_HOU,gshelor,4
-2021_13_IND_HOU,gvader24,18
 2021_13_IND_HOU,henrygise,27
 2021_13_IND_HOU,htennis98,28
 2021_13_IND_HOU,HunterHarmuth46,50
@@ -68283,6 +68283,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,FuzzyLogicBrock,50
 2021_13_NYG_MIA,FXL_3,63
 2021_13_NYG_MIA,gaberrowe,57
+2021_13_NYG_MIA,gage_anderson91,67
 2021_13_NYG_MIA,GEversden,59
 2021_13_NYG_MIA,GleamTweeter,50
 2021_13_NYG_MIA,godin_jon,55
@@ -68290,7 +68291,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,greerreNFL,68
 2021_13_NYG_MIA,GridInsights,73
 2021_13_NYG_MIA,gshelor,70
-2021_13_NYG_MIA,gvader24,67
 2021_13_NYG_MIA,henrygise,49
 2021_13_NYG_MIA,htennis98,60
 2021_13_NYG_MIA,HunterHarmuth46,50
@@ -68532,6 +68532,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,FuzzyLogicBrock,50
 2021_13_PHI_NYJ,FXL_3,25
 2021_13_PHI_NYJ,gaberrowe,24
+2021_13_PHI_NYJ,gage_anderson91,22
 2021_13_PHI_NYJ,GEversden,30
 2021_13_PHI_NYJ,GleamTweeter,50
 2021_13_PHI_NYJ,godin_jon,34
@@ -68539,7 +68540,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,greerreNFL,33
 2021_13_PHI_NYJ,GridInsights,60
 2021_13_PHI_NYJ,gshelor,5
-2021_13_PHI_NYJ,gvader24,22
 2021_13_PHI_NYJ,henrygise,32
 2021_13_PHI_NYJ,htennis98,33
 2021_13_PHI_NYJ,HunterHarmuth46,50
@@ -68781,6 +68781,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,FuzzyLogicBrock,50
 2021_13_JAX_LA,FXL_3,93
 2021_13_JAX_LA,gaberrowe,80
+2021_13_JAX_LA,gage_anderson91,90
 2021_13_JAX_LA,GEversden,85
 2021_13_JAX_LA,GleamTweeter,80
 2021_13_JAX_LA,godin_jon,75
@@ -68788,7 +68789,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,greerreNFL,85
 2021_13_JAX_LA,GridInsights,80
 2021_13_JAX_LA,gshelor,97
-2021_13_JAX_LA,gvader24,90
 2021_13_JAX_LA,henrygise,78
 2021_13_JAX_LA,htennis98,78
 2021_13_JAX_LA,HunterHarmuth46,50
@@ -69030,6 +69030,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,FuzzyLogicBrock,50
 2021_13_WAS_LV,FXL_3,61
 2021_13_WAS_LV,gaberrowe,39
+2021_13_WAS_LV,gage_anderson91,59
 2021_13_WAS_LV,GEversden,64
 2021_13_WAS_LV,GleamTweeter,50
 2021_13_WAS_LV,godin_jon,52
@@ -69037,7 +69038,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,greerreNFL,48
 2021_13_WAS_LV,GridInsights,47
 2021_13_WAS_LV,gshelor,71
-2021_13_WAS_LV,gvader24,59
 2021_13_WAS_LV,henrygise,58
 2021_13_WAS_LV,htennis98,38
 2021_13_WAS_LV,HunterHarmuth46,50
@@ -69279,6 +69279,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,FuzzyLogicBrock,50
 2021_13_BAL_PIT,FXL_3,33
 2021_13_BAL_PIT,gaberrowe,39
+2021_13_BAL_PIT,gage_anderson91,33
 2021_13_BAL_PIT,GEversden,37
 2021_13_BAL_PIT,GleamTweeter,50
 2021_13_BAL_PIT,godin_jon,25
@@ -69286,7 +69287,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,greerreNFL,34
 2021_13_BAL_PIT,GridInsights,46
 2021_13_BAL_PIT,gshelor,26
-2021_13_BAL_PIT,gvader24,33
 2021_13_BAL_PIT,henrygise,32
 2021_13_BAL_PIT,htennis98,38
 2021_13_BAL_PIT,HunterHarmuth46,50
@@ -69528,6 +69528,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,FuzzyLogicBrock,50
 2021_13_SF_SEA,FXL_3,34
 2021_13_SF_SEA,gaberrowe,37
+2021_13_SF_SEA,gage_anderson91,34
 2021_13_SF_SEA,GEversden,33
 2021_13_SF_SEA,GleamTweeter,50
 2021_13_SF_SEA,godin_jon,25
@@ -69535,7 +69536,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,greerreNFL,40
 2021_13_SF_SEA,GridInsights,42
 2021_13_SF_SEA,gshelor,44
-2021_13_SF_SEA,gvader24,34
 2021_13_SF_SEA,henrygise,26
 2021_13_SF_SEA,htennis98,34
 2021_13_SF_SEA,HunterHarmuth46,50
@@ -69777,6 +69777,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,FuzzyLogicBrock,50
 2021_13_DEN_KC,FXL_3,82
 2021_13_DEN_KC,gaberrowe,61
+2021_13_DEN_KC,gage_anderson91,83
 2021_13_DEN_KC,GEversden,67
 2021_13_DEN_KC,GleamTweeter,50
 2021_13_DEN_KC,godin_jon,75
@@ -69784,7 +69785,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,greerreNFL,75
 2021_13_DEN_KC,GridInsights,73
 2021_13_DEN_KC,gshelor,84
-2021_13_DEN_KC,gvader24,83
 2021_13_DEN_KC,henrygise,82
 2021_13_DEN_KC,htennis98,62
 2021_13_DEN_KC,HunterHarmuth46,50
@@ -70027,6 +70027,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,FuzzyLogicBrock,50
 2021_13_NE_BUF,FXL_3,46
 2021_13_NE_BUF,gaberrowe,54
+2021_13_NE_BUF,gage_anderson91,38
 2021_13_NE_BUF,GEversden,58
 2021_13_NE_BUF,GleamTweeter,50
 2021_13_NE_BUF,godin_jon,52
@@ -70034,7 +70035,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,greerreNFL,53
 2021_13_NE_BUF,GridInsights,54
 2021_13_NE_BUF,gshelor,43
-2021_13_NE_BUF,gvader24,38
 2021_13_NE_BUF,henrygise,80
 2021_13_NE_BUF,htennis98,60
 2021_13_NE_BUF,HunterHarmuth46,50
@@ -70264,13 +70264,13 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,futuregoat,57
 2021_14_PIT_MIN,FXL_3,49
 2021_14_PIT_MIN,gaberrowe,76
+2021_14_PIT_MIN,gage_anderson91,58
 2021_14_PIT_MIN,GEversden,70
 2021_14_PIT_MIN,GleamTweeter,50
 2021_14_PIT_MIN,godin_jon,43
 2021_14_PIT_MIN,goldencane14,76
 2021_14_PIT_MIN,greerreNFL,63
 2021_14_PIT_MIN,GridInsights,50
-2021_14_PIT_MIN,gvader24,58
 2021_14_PIT_MIN,henrygise,65
 2021_14_PIT_MIN,htennis98,50
 2021_14_PIT_MIN,IAM_B_Rad,38
@@ -70481,6 +70481,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,FuzzyLogicBrock,50
 2021_14_ATL_CAR,FXL_3,55
 2021_14_ATL_CAR,gaberrowe,59
+2021_14_ATL_CAR,gage_anderson91,59
 2021_14_ATL_CAR,GEversden,48
 2021_14_ATL_CAR,giantsbadgers,50
 2021_14_ATL_CAR,GleamTweeter,50
@@ -70489,7 +70490,6 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,greerreNFL,58
 2021_14_ATL_CAR,GridInsights,50
 2021_14_ATL_CAR,gshelor,50
-2021_14_ATL_CAR,gvader24,59
 2021_14_ATL_CAR,henrygise,47
 2021_14_ATL_CAR,htennis98,50
 2021_14_ATL_CAR,IAM_B_Rad,66
@@ -70708,6 +70708,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,FuzzyLogicBrock,50
 2021_14_BAL_CLE,FXL_3,61
 2021_14_BAL_CLE,gaberrowe,52
+2021_14_BAL_CLE,gage_anderson91,62
 2021_14_BAL_CLE,GEversden,56
 2021_14_BAL_CLE,giantsbadgers,50
 2021_14_BAL_CLE,GleamTweeter,50
@@ -70716,7 +70717,6 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,greerreNFL,49
 2021_14_BAL_CLE,GridInsights,50
 2021_14_BAL_CLE,gshelor,50
-2021_14_BAL_CLE,gvader24,62
 2021_14_BAL_CLE,henrygise,46
 2021_14_BAL_CLE,htennis98,50
 2021_14_BAL_CLE,IAM_B_Rad,37
@@ -70935,6 +70935,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,FuzzyLogicBrock,50
 2021_14_SEA_HOU,FXL_3,20
 2021_14_SEA_HOU,gaberrowe,30
+2021_14_SEA_HOU,gage_anderson91,34
 2021_14_SEA_HOU,GEversden,17
 2021_14_SEA_HOU,giantsbadgers,50
 2021_14_SEA_HOU,GleamTweeter,20
@@ -70943,7 +70944,6 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,greerreNFL,22
 2021_14_SEA_HOU,GridInsights,50
 2021_14_SEA_HOU,gshelor,50
-2021_14_SEA_HOU,gvader24,34
 2021_14_SEA_HOU,henrygise,24
 2021_14_SEA_HOU,htennis98,50
 2021_14_SEA_HOU,IAM_B_Rad,16
@@ -71162,6 +71162,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,FuzzyLogicBrock,50
 2021_14_LV_KC,FXL_3,82
 2021_14_LV_KC,gaberrowe,80
+2021_14_LV_KC,gage_anderson91,90
 2021_14_LV_KC,GEversden,68
 2021_14_LV_KC,giantsbadgers,50
 2021_14_LV_KC,GleamTweeter,80
@@ -71170,7 +71171,6 @@ game_id,screen_name,prediction
 2021_14_LV_KC,greerreNFL,79
 2021_14_LV_KC,GridInsights,50
 2021_14_LV_KC,gshelor,50
-2021_14_LV_KC,gvader24,90
 2021_14_LV_KC,henrygise,66
 2021_14_LV_KC,htennis98,50
 2021_14_LV_KC,IAM_B_Rad,84
@@ -71389,6 +71389,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,FuzzyLogicBrock,50
 2021_14_NO_NYJ,FXL_3,26
 2021_14_NO_NYJ,gaberrowe,29
+2021_14_NO_NYJ,gage_anderson91,28
 2021_14_NO_NYJ,GEversden,29
 2021_14_NO_NYJ,giantsbadgers,50
 2021_14_NO_NYJ,GleamTweeter,50
@@ -71397,7 +71398,6 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,greerreNFL,32
 2021_14_NO_NYJ,GridInsights,50
 2021_14_NO_NYJ,gshelor,50
-2021_14_NO_NYJ,gvader24,28
 2021_14_NO_NYJ,henrygise,32
 2021_14_NO_NYJ,htennis98,50
 2021_14_NO_NYJ,IAM_B_Rad,31
@@ -71616,6 +71616,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,FuzzyLogicBrock,50
 2021_14_JAX_TEN,FXL_3,85
 2021_14_JAX_TEN,gaberrowe,81
+2021_14_JAX_TEN,gage_anderson91,85
 2021_14_JAX_TEN,GEversden,69
 2021_14_JAX_TEN,giantsbadgers,50
 2021_14_JAX_TEN,GleamTweeter,80
@@ -71624,7 +71625,6 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,greerreNFL,78
 2021_14_JAX_TEN,GridInsights,50
 2021_14_JAX_TEN,gshelor,50
-2021_14_JAX_TEN,gvader24,85
 2021_14_JAX_TEN,henrygise,70
 2021_14_JAX_TEN,htennis98,50
 2021_14_JAX_TEN,IAM_B_Rad,86
@@ -71843,6 +71843,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,FuzzyLogicBrock,50
 2021_14_DAL_WAS,FXL_3,29
 2021_14_DAL_WAS,gaberrowe,37
+2021_14_DAL_WAS,gage_anderson91,10
 2021_14_DAL_WAS,GEversden,42
 2021_14_DAL_WAS,giantsbadgers,50
 2021_14_DAL_WAS,GleamTweeter,50
@@ -71851,7 +71852,6 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,greerreNFL,35
 2021_14_DAL_WAS,GridInsights,50
 2021_14_DAL_WAS,gshelor,50
-2021_14_DAL_WAS,gvader24,10
 2021_14_DAL_WAS,henrygise,20
 2021_14_DAL_WAS,htennis98,50
 2021_14_DAL_WAS,IAM_B_Rad,36
@@ -72071,6 +72071,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,FuzzyLogicBrock,50
 2021_14_DET_DEN,FXL_3,82
 2021_14_DET_DEN,gaberrowe,58
+2021_14_DET_DEN,gage_anderson91,82
 2021_14_DET_DEN,GEversden,89
 2021_14_DET_DEN,giantsbadgers,50
 2021_14_DET_DEN,GleamTweeter,80
@@ -72079,7 +72080,6 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,greerreNFL,77
 2021_14_DET_DEN,GridInsights,50
 2021_14_DET_DEN,gshelor,98
-2021_14_DET_DEN,gvader24,82
 2021_14_DET_DEN,henrygise,70
 2021_14_DET_DEN,htennis98,50
 2021_14_DET_DEN,IAM_B_Rad,65
@@ -72299,6 +72299,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,FuzzyLogicBrock,50
 2021_14_NYG_LAC,FXL_3,82
 2021_14_NYG_LAC,gaberrowe,85
+2021_14_NYG_LAC,gage_anderson91,85
 2021_14_NYG_LAC,GEversden,64
 2021_14_NYG_LAC,giantsbadgers,50
 2021_14_NYG_LAC,GleamTweeter,80
@@ -72307,7 +72308,6 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,greerreNFL,76
 2021_14_NYG_LAC,GridInsights,50
 2021_14_NYG_LAC,gshelor,98
-2021_14_NYG_LAC,gvader24,85
 2021_14_NYG_LAC,henrygise,67
 2021_14_NYG_LAC,htennis98,50
 2021_14_NYG_LAC,IAM_B_Rad,71
@@ -72527,6 +72527,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,FuzzyLogicBrock,50
 2021_14_SF_CIN,FXL_3,59
 2021_14_SF_CIN,gaberrowe,47
+2021_14_SF_CIN,gage_anderson91,21
 2021_14_SF_CIN,GEversden,40
 2021_14_SF_CIN,giantsbadgers,50
 2021_14_SF_CIN,GleamTweeter,50
@@ -72535,7 +72536,6 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,greerreNFL,46
 2021_14_SF_CIN,GridInsights,50
 2021_14_SF_CIN,gshelor,65
-2021_14_SF_CIN,gvader24,21
 2021_14_SF_CIN,henrygise,48
 2021_14_SF_CIN,htennis98,50
 2021_14_SF_CIN,IAM_B_Rad,38
@@ -72756,6 +72756,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,FuzzyLogicBrock,50
 2021_14_BUF_TB,FXL_3,65
 2021_14_BUF_TB,gaberrowe,48
+2021_14_BUF_TB,gage_anderson91,68
 2021_14_BUF_TB,GEversden,58
 2021_14_BUF_TB,giantsbadgers,50
 2021_14_BUF_TB,GleamTweeter,50
@@ -72764,7 +72765,6 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,greerreNFL,61
 2021_14_BUF_TB,GridInsights,50
 2021_14_BUF_TB,gshelor,98
-2021_14_BUF_TB,gvader24,68
 2021_14_BUF_TB,henrygise,54
 2021_14_BUF_TB,htennis98,50
 2021_14_BUF_TB,IAM_B_Rad,52
@@ -72986,6 +72986,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,FuzzyLogicBrock,50
 2021_14_CHI_GB,FXL_3,87
 2021_14_CHI_GB,gaberrowe,82
+2021_14_CHI_GB,gage_anderson91,90
 2021_14_CHI_GB,GEversden,83
 2021_14_CHI_GB,giantsbadgers,50
 2021_14_CHI_GB,GleamTweeter,50
@@ -72994,7 +72995,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,greerreNFL,84
 2021_14_CHI_GB,GridInsights,50
 2021_14_CHI_GB,gshelor,98
-2021_14_CHI_GB,gvader24,90
 2021_14_CHI_GB,henrygise,80
 2021_14_CHI_GB,htennis98,50
 2021_14_CHI_GB,IAM_B_Rad,77
@@ -73216,6 +73216,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,FuzzyLogicBrock,100
 2021_14_LA_ARI,FXL_3,49
 2021_14_LA_ARI,gaberrowe,51
+2021_14_LA_ARI,gage_anderson91,78
 2021_14_LA_ARI,GEversden,61
 2021_14_LA_ARI,giantsbadgers,50
 2021_14_LA_ARI,GleamTweeter,50
@@ -73224,7 +73225,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,greerreNFL,51
 2021_14_LA_ARI,GridInsights,50
 2021_14_LA_ARI,gshelor,92
-2021_14_LA_ARI,gvader24,78
 2021_14_LA_ARI,henrygise,68
 2021_14_LA_ARI,htennis98,50
 2021_14_LA_ARI,IAM_B_Rad,56
@@ -73435,6 +73435,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,FuzzyLogicBrock,0
 2021_15_KC_LAC,FXL_3,42
 2021_15_KC_LAC,gaberrowe,45
+2021_15_KC_LAC,gage_anderson91,31
 2021_15_KC_LAC,GEversden,31
 2021_15_KC_LAC,GleamTweeter,50
 2021_15_KC_LAC,godin_jon,30
@@ -73442,7 +73443,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,greerreNFL,38
 2021_15_KC_LAC,GridInsights,50
 2021_15_KC_LAC,gshelor,11
-2021_15_KC_LAC,gvader24,31
 2021_15_KC_LAC,htennis98,50
 2021_15_KC_LAC,ishep123,42
 2021_15_KC_LAC,j_druzzi,42
@@ -73635,6 +73635,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,FuzzyLogicBrock,0
 2021_15_NE_IND,FXL_3,49
 2021_15_NE_IND,gaberrowe,57
+2021_15_NE_IND,gage_anderson91,38
 2021_15_NE_IND,GEversden,48
 2021_15_NE_IND,GleamTweeter,50
 2021_15_NE_IND,godin_jon,49
@@ -73642,7 +73643,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,greerreNFL,44
 2021_15_NE_IND,GridInsights,50
 2021_15_NE_IND,gshelor,10
-2021_15_NE_IND,gvader24,38
 2021_15_NE_IND,hagearty20,0
 2021_15_NE_IND,henrygise,56
 2021_15_NE_IND,htennis98,50
@@ -73848,6 +73848,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,FuzzyLogicBrock,100
 2021_15_CAR_BUF,FXL_3,83
 2021_15_CAR_BUF,gaberrowe,86
+2021_15_CAR_BUF,gage_anderson91,90
 2021_15_CAR_BUF,GEversden,100
 2021_15_CAR_BUF,GleamTweeter,80
 2021_15_CAR_BUF,godin_jon,75
@@ -73855,7 +73856,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,greerreNFL,81
 2021_15_CAR_BUF,GridInsights,50
 2021_15_CAR_BUF,gshelor,96
-2021_15_CAR_BUF,gvader24,90
 2021_15_CAR_BUF,hagearty20,100
 2021_15_CAR_BUF,henrygise,78
 2021_15_CAR_BUF,htennis98,50
@@ -74063,6 +74063,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,FuzzyLogicBrock,0
 2021_15_ARI_DET,FXL_3,13
 2021_15_ARI_DET,gaberrowe,18
+2021_15_ARI_DET,gage_anderson91,10
 2021_15_ARI_DET,GEversden,0
 2021_15_ARI_DET,GleamTweeter,20
 2021_15_ARI_DET,godin_jon,10
@@ -74070,7 +74071,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,greerreNFL,16
 2021_15_ARI_DET,GridInsights,50
 2021_15_ARI_DET,gshelor,3
-2021_15_ARI_DET,gvader24,10
 2021_15_ARI_DET,hagearty20,10
 2021_15_ARI_DET,henrygise,20
 2021_15_ARI_DET,htennis98,50
@@ -74278,6 +74278,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,FuzzyLogicBrock,50
 2021_15_HOU_JAX,FXL_3,49
 2021_15_HOU_JAX,gaberrowe,67
+2021_15_HOU_JAX,gage_anderson91,73
 2021_15_HOU_JAX,GEversden,54
 2021_15_HOU_JAX,GleamTweeter,50
 2021_15_HOU_JAX,godin_jon,45
@@ -74285,7 +74286,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,greerreNFL,57
 2021_15_HOU_JAX,GridInsights,50
 2021_15_HOU_JAX,gshelor,45
-2021_15_HOU_JAX,gvader24,73
 2021_15_HOU_JAX,hagearty20,46
 2021_15_HOU_JAX,henrygise,65
 2021_15_HOU_JAX,htennis98,50
@@ -74493,6 +74493,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,FuzzyLogicBrock,50
 2021_15_NYJ_MIA,FXL_3,80
 2021_15_NYJ_MIA,gaberrowe,78
+2021_15_NYJ_MIA,gage_anderson91,83
 2021_15_NYJ_MIA,GEversden,74
 2021_15_NYJ_MIA,GleamTweeter,80
 2021_15_NYJ_MIA,godin_jon,75
@@ -74500,7 +74501,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,greerreNFL,80
 2021_15_NYJ_MIA,GridInsights,50
 2021_15_NYJ_MIA,gshelor,75
-2021_15_NYJ_MIA,gvader24,83
 2021_15_NYJ_MIA,hagearty20,58
 2021_15_NYJ_MIA,henrygise,66
 2021_15_NYJ_MIA,htennis98,50
@@ -74708,6 +74708,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,FuzzyLogicBrock,0
 2021_15_DAL_NYG,FXL_3,15
 2021_15_DAL_NYG,gaberrowe,28
+2021_15_DAL_NYG,gage_anderson91,10
 2021_15_DAL_NYG,GEversden,20
 2021_15_DAL_NYG,GleamTweeter,20
 2021_15_DAL_NYG,godin_jon,0
@@ -74715,7 +74716,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,greerreNFL,24
 2021_15_DAL_NYG,GridInsights,50
 2021_15_DAL_NYG,gshelor,12
-2021_15_DAL_NYG,gvader24,10
 2021_15_DAL_NYG,hagearty20,0
 2021_15_DAL_NYG,henrygise,20
 2021_15_DAL_NYG,htennis98,50
@@ -74923,6 +74923,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,FuzzyLogicBrock,0
 2021_15_TEN_PIT,FXL_3,51
 2021_15_TEN_PIT,gaberrowe,42
+2021_15_TEN_PIT,gage_anderson91,33
 2021_15_TEN_PIT,GEversden,39
 2021_15_TEN_PIT,GleamTweeter,50
 2021_15_TEN_PIT,godin_jon,39
@@ -74930,7 +74931,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,greerreNFL,53
 2021_15_TEN_PIT,GridInsights,50
 2021_15_TEN_PIT,gshelor,24
-2021_15_TEN_PIT,gvader24,33
 2021_15_TEN_PIT,hagearty20,25
 2021_15_TEN_PIT,henrygise,40
 2021_15_TEN_PIT,htennis98,50
@@ -75138,6 +75138,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,FuzzyLogicBrock,0
 2021_15_CIN_DEN,FXL_3,40
 2021_15_CIN_DEN,gaberrowe,48
+2021_15_CIN_DEN,gage_anderson91,39
 2021_15_CIN_DEN,GEversden,43
 2021_15_CIN_DEN,GleamTweeter,50
 2021_15_CIN_DEN,godin_jon,39
@@ -75145,7 +75146,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,greerreNFL,54
 2021_15_CIN_DEN,GridInsights,50
 2021_15_CIN_DEN,gshelor,39
-2021_15_CIN_DEN,gvader24,39
 2021_15_CIN_DEN,hagearty20,71
 2021_15_CIN_DEN,henrygise,35
 2021_15_CIN_DEN,htennis98,50
@@ -75355,6 +75355,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,FuzzyLogicBrock,100
 2021_15_ATL_SF,FXL_3,80
 2021_15_ATL_SF,gaberrowe,78
+2021_15_ATL_SF,gage_anderson91,90
 2021_15_ATL_SF,GEversden,75
 2021_15_ATL_SF,GleamTweeter,80
 2021_15_ATL_SF,godin_jon,70
@@ -75362,7 +75363,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,greerreNFL,77
 2021_15_ATL_SF,GridInsights,50
 2021_15_ATL_SF,gshelor,80
-2021_15_ATL_SF,gvader24,90
 2021_15_ATL_SF,hagearty20,75
 2021_15_ATL_SF,henrygise,50
 2021_15_ATL_SF,htennis98,50
@@ -75572,6 +75572,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,FuzzyLogicBrock,0
 2021_15_GB_BAL,FXL_3,24
 2021_15_GB_BAL,gaberrowe,30
+2021_15_GB_BAL,gage_anderson91,15
 2021_15_GB_BAL,GEversden,23
 2021_15_GB_BAL,GleamTweeter,50
 2021_15_GB_BAL,godin_jon,25
@@ -75579,7 +75580,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,greerreNFL,25
 2021_15_GB_BAL,GridInsights,50
 2021_15_GB_BAL,gshelor,52
-2021_15_GB_BAL,gvader24,15
 2021_15_GB_BAL,hagearty20,24
 2021_15_GB_BAL,henrygise,45
 2021_15_GB_BAL,htennis98,50
@@ -75789,6 +75789,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,FuzzyLogicBrock,100
 2021_15_NO_TB,FXL_3,84
 2021_15_NO_TB,gaberrowe,85
+2021_15_NO_TB,gage_anderson91,90
 2021_15_NO_TB,GEversden,77
 2021_15_NO_TB,GleamTweeter,80
 2021_15_NO_TB,godin_jon,95
@@ -75796,7 +75797,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,greerreNFL,81
 2021_15_NO_TB,GridInsights,50
 2021_15_NO_TB,gshelor,98
-2021_15_NO_TB,gvader24,90
 2021_15_NO_TB,hagearty20,100
 2021_15_NO_TB,henrygise,80
 2021_15_NO_TB,htennis98,50
@@ -76009,6 +76009,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,FuzzyLogicBrock,100
 2021_15_LV_CLE,FXL_3,51
 2021_15_LV_CLE,gaberrowe,55
+2021_15_LV_CLE,gage_anderson91,10
 2021_15_LV_CLE,GEversden,60
 2021_15_LV_CLE,GleamTweeter,50
 2021_15_LV_CLE,godin_jon,60
@@ -76016,7 +76017,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,greerreNFL,47
 2021_15_LV_CLE,GridInsights,50
 2021_15_LV_CLE,gshelor,88
-2021_15_LV_CLE,gvader24,10
 2021_15_LV_CLE,hagearty20,59
 2021_15_LV_CLE,henrygise,35
 2021_15_LV_CLE,htennis98,50
@@ -76230,6 +76230,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,FuzzyLogicBrock,0
 2021_15_MIN_CHI,FXL_3,31
 2021_15_MIN_CHI,gaberrowe,25
+2021_15_MIN_CHI,gage_anderson91,10
 2021_15_MIN_CHI,GEversden,34
 2021_15_MIN_CHI,GleamTweeter,50
 2021_15_MIN_CHI,godin_jon,45
@@ -76237,7 +76238,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,greerreNFL,28
 2021_15_MIN_CHI,GridInsights,50
 2021_15_MIN_CHI,gshelor,4
-2021_15_MIN_CHI,gvader24,10
 2021_15_MIN_CHI,hagearty20,26
 2021_15_MIN_CHI,henrygise,44
 2021_15_MIN_CHI,htennis98,50
@@ -76452,6 +76452,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,FuzzyLogicBrock,100
 2021_15_SEA_LA,FXL_3,75
 2021_15_SEA_LA,gaberrowe,81
+2021_15_SEA_LA,gage_anderson91,90
 2021_15_SEA_LA,GEversden,74
 2021_15_SEA_LA,GleamTweeter,80
 2021_15_SEA_LA,godin_jon,90
@@ -76459,7 +76460,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,greerreNFL,73
 2021_15_SEA_LA,GridInsights,50
 2021_15_SEA_LA,gshelor,64
-2021_15_SEA_LA,gvader24,90
 2021_15_SEA_LA,hagearty20,100
 2021_15_SEA_LA,henrygise,57
 2021_15_SEA_LA,htennis98,50
@@ -76674,6 +76674,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,FuzzyLogicBrock,0
 2021_15_WAS_PHI,FXL_3,65
 2021_15_WAS_PHI,gaberrowe,77
+2021_15_WAS_PHI,gage_anderson91,90
 2021_15_WAS_PHI,GEversden,69
 2021_15_WAS_PHI,GleamTweeter,50
 2021_15_WAS_PHI,godin_jon,60
@@ -76681,7 +76682,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,greerreNFL,77
 2021_15_WAS_PHI,GridInsights,50
 2021_15_WAS_PHI,gshelor,41
-2021_15_WAS_PHI,gvader24,90
 2021_15_WAS_PHI,hagearty20,50
 2021_15_WAS_PHI,henrygise,80
 2021_15_WAS_PHI,htennis98,50
@@ -76882,10 +76882,10 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,FuzzyLogicBrock,50
 2021_16_SF_TEN,FXL_3,35
 2021_16_SF_TEN,gaberrowe,42
+2021_16_SF_TEN,gage_anderson91,28
 2021_16_SF_TEN,godin_jon,40
 2021_16_SF_TEN,goldencane14,25
 2021_16_SF_TEN,greerreNFL,38
-2021_16_SF_TEN,gvader24,28
 2021_16_SF_TEN,htennis98,50
 2021_16_SF_TEN,ishep123,54
 2021_16_SF_TEN,Ivanxcky,42
@@ -77065,10 +77065,10 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,FuzzyLogicBrock,50
 2021_16_CLE_GB,FXL_3,49
 2021_16_CLE_GB,gaberrowe,79
+2021_16_CLE_GB,gage_anderson91,82
 2021_16_CLE_GB,godin_jon,85
 2021_16_CLE_GB,goldencane14,76
 2021_16_CLE_GB,greerreNFL,76
-2021_16_CLE_GB,gvader24,82
 2021_16_CLE_GB,htennis98,50
 2021_16_CLE_GB,ishep123,78
 2021_16_CLE_GB,Ivanxcky,80
@@ -77251,10 +77251,10 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,FuzzyLogicBrock,50
 2021_16_IND_ARI,FXL_3,60
 2021_16_IND_ARI,gaberrowe,48
+2021_16_IND_ARI,gage_anderson91,76
 2021_16_IND_ARI,godin_jon,46
 2021_16_IND_ARI,goldencane14,79
 2021_16_IND_ARI,greerreNFL,51
-2021_16_IND_ARI,gvader24,76
 2021_16_IND_ARI,htennis98,50
 2021_16_IND_ARI,ishep123,58
 2021_16_IND_ARI,Ivanxcky,48
@@ -77441,10 +77441,10 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,FuzzyLogicBrock,50
 2021_16_DET_ATL,FXL_3,76
 2021_16_DET_ATL,gaberrowe,55
+2021_16_DET_ATL,gage_anderson91,87
 2021_16_DET_ATL,godin_jon,70
 2021_16_DET_ATL,goldencane14,68
 2021_16_DET_ATL,greerreNFL,72
-2021_16_DET_ATL,gvader24,87
 2021_16_DET_ATL,htennis98,50
 2021_16_DET_ATL,ishep123,85
 2021_16_DET_ATL,Ivanxcky,48
@@ -77634,10 +77634,10 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,FuzzyLogicBrock,50
 2021_16_TB_CAR,FXL_3,17
 2021_16_TB_CAR,gaberrowe,15
+2021_16_TB_CAR,gage_anderson91,10
 2021_16_TB_CAR,godin_jon,15
 2021_16_TB_CAR,goldencane14,21
 2021_16_TB_CAR,greerreNFL,18
-2021_16_TB_CAR,gvader24,10
 2021_16_TB_CAR,htennis98,50
 2021_16_TB_CAR,ishep123,16
 2021_16_TB_CAR,Ivanxcky,25
@@ -77827,10 +77827,10 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,FuzzyLogicBrock,50
 2021_16_BAL_CIN,FXL_3,55
 2021_16_BAL_CIN,gaberrowe,54
+2021_16_BAL_CIN,gage_anderson91,72
 2021_16_BAL_CIN,godin_jon,60
 2021_16_BAL_CIN,goldencane14,66
 2021_16_BAL_CIN,greerreNFL,70
-2021_16_BAL_CIN,gvader24,72
 2021_16_BAL_CIN,htennis98,50
 2021_16_BAL_CIN,ishep123,60
 2021_16_BAL_CIN,Ivanxcky,52
@@ -78020,10 +78020,10 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,FuzzyLogicBrock,50
 2021_16_LAC_HOU,FXL_3,16
 2021_16_LAC_HOU,gaberrowe,17
+2021_16_LAC_HOU,gage_anderson91,10
 2021_16_LAC_HOU,godin_jon,5
 2021_16_LAC_HOU,goldencane14,20
 2021_16_LAC_HOU,greerreNFL,15
-2021_16_LAC_HOU,gvader24,10
 2021_16_LAC_HOU,htennis98,50
 2021_16_LAC_HOU,ishep123,13
 2021_16_LAC_HOU,Ivanxcky,30
@@ -78213,10 +78213,10 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,FuzzyLogicBrock,50
 2021_16_LA_MIN,FXL_3,27
 2021_16_LA_MIN,gaberrowe,35
+2021_16_LA_MIN,gage_anderson91,70
 2021_16_LA_MIN,godin_jon,25
 2021_16_LA_MIN,goldencane14,37
 2021_16_LA_MIN,greerreNFL,35
-2021_16_LA_MIN,gvader24,70
 2021_16_LA_MIN,htennis98,50
 2021_16_LA_MIN,ishep123,43
 2021_16_LA_MIN,Ivanxcky,46
@@ -78406,10 +78406,10 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,FuzzyLogicBrock,50
 2021_16_BUF_NE,FXL_3,36
 2021_16_BUF_NE,gaberrowe,51
+2021_16_BUF_NE,gage_anderson91,64
 2021_16_BUF_NE,godin_jon,49
 2021_16_BUF_NE,goldencane14,55
 2021_16_BUF_NE,greerreNFL,49
-2021_16_BUF_NE,gvader24,64
 2021_16_BUF_NE,htennis98,50
 2021_16_BUF_NE,ishep123,45
 2021_16_BUF_NE,Ivanxcky,45
@@ -78599,10 +78599,10 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,FuzzyLogicBrock,50
 2021_16_JAX_NYJ,FXL_3,52
 2021_16_JAX_NYJ,gaberrowe,47
+2021_16_JAX_NYJ,gage_anderson91,62
 2021_16_JAX_NYJ,godin_jon,55
 2021_16_JAX_NYJ,goldencane14,50
 2021_16_JAX_NYJ,greerreNFL,52
-2021_16_JAX_NYJ,gvader24,62
 2021_16_JAX_NYJ,htennis98,50
 2021_16_JAX_NYJ,ishep123,57
 2021_16_JAX_NYJ,Ivanxcky,52
@@ -78792,10 +78792,10 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,FuzzyLogicBrock,50
 2021_16_NYG_PHI,FXL_3,76
 2021_16_NYG_PHI,gaberrowe,88
+2021_16_NYG_PHI,gage_anderson91,85
 2021_16_NYG_PHI,godin_jon,85
 2021_16_NYG_PHI,goldencane14,79
 2021_16_NYG_PHI,greerreNFL,80
-2021_16_NYG_PHI,gvader24,85
 2021_16_NYG_PHI,htennis98,50
 2021_16_NYG_PHI,ishep123,83
 2021_16_NYG_PHI,Ivanxcky,60
@@ -78986,11 +78986,11 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,FuzzyLogicBrock,50
 2021_16_CHI_SEA,FXL_3,69
 2021_16_CHI_SEA,gaberrowe,65
+2021_16_CHI_SEA,gage_anderson91,76
 2021_16_CHI_SEA,godin_jon,70
 2021_16_CHI_SEA,goldencane14,50
 2021_16_CHI_SEA,greerreNFL,71
 2021_16_CHI_SEA,gshelor,50
-2021_16_CHI_SEA,gvader24,76
 2021_16_CHI_SEA,htennis98,50
 2021_16_CHI_SEA,ishep123,80
 2021_16_CHI_SEA,Ivanxcky,55
@@ -79183,11 +79183,11 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,FuzzyLogicBrock,50
 2021_16_PIT_KC,FXL_3,83
 2021_16_PIT_KC,gaberrowe,75
+2021_16_PIT_KC,gage_anderson91,88
 2021_16_PIT_KC,godin_jon,86
 2021_16_PIT_KC,goldencane14,79
 2021_16_PIT_KC,greerreNFL,80
 2021_16_PIT_KC,gshelor,98
-2021_16_PIT_KC,gvader24,88
 2021_16_PIT_KC,htennis98,50
 2021_16_PIT_KC,ishep123,76
 2021_16_PIT_KC,Ivanxcky,62
@@ -79380,11 +79380,11 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,FuzzyLogicBrock,50
 2021_16_DEN_LV,FXL_3,52
 2021_16_DEN_LV,gaberrowe,45
+2021_16_DEN_LV,gage_anderson91,61
 2021_16_DEN_LV,godin_jon,60
 2021_16_DEN_LV,goldencane14,50
 2021_16_DEN_LV,greerreNFL,49
 2021_16_DEN_LV,gshelor,66
-2021_16_DEN_LV,gvader24,61
 2021_16_DEN_LV,htennis98,50
 2021_16_DEN_LV,ishep123,54
 2021_16_DEN_LV,Ivanxcky,46
@@ -79578,11 +79578,11 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,FuzzyLogicBrock,50
 2021_16_WAS_DAL,FXL_3,81
 2021_16_WAS_DAL,gaberrowe,79
+2021_16_WAS_DAL,gage_anderson91,90
 2021_16_WAS_DAL,godin_jon,100
 2021_16_WAS_DAL,goldencane14,80
 2021_16_WAS_DAL,greerreNFL,76
 2021_16_WAS_DAL,gshelor,99
-2021_16_WAS_DAL,gvader24,90
 2021_16_WAS_DAL,htennis98,50
 2021_16_WAS_DAL,ishep123,82
 2021_16_WAS_DAL,Ivanxcky,65
@@ -79777,11 +79777,11 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,FuzzyLogicBrock,50
 2021_16_MIA_NO,FXL_3,47
 2021_16_MIA_NO,gaberrowe,52
+2021_16_MIA_NO,gage_anderson91,10
 2021_16_MIA_NO,godin_jon,45
 2021_16_MIA_NO,goldencane14,0
 2021_16_MIA_NO,greerreNFL,35
 2021_16_MIA_NO,gshelor,68
-2021_16_MIA_NO,gvader24,10
 2021_16_MIA_NO,htennis98,50
 2021_16_MIA_NO,IAM_B_Rad,50
 2021_16_MIA_NO,ishep123,41
@@ -79979,6 +79979,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,futuregoat,40
 2021_17_LA_BAL,FXL_3,32
 2021_17_LA_BAL,gaberrowe,24
+2021_17_LA_BAL,gage_anderson91,21
 2021_17_LA_BAL,GavinDRod,28
 2021_17_LA_BAL,godin_jon,30
 2021_17_LA_BAL,GodofGamblersss,50
@@ -79986,7 +79987,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,goldencane14,0
 2021_17_LA_BAL,greerreNFL,27
 2021_17_LA_BAL,gshelor,58
-2021_17_LA_BAL,gvader24,21
 2021_17_LA_BAL,Havoc4Check,35
 2021_17_LA_BAL,htennis98,50
 2021_17_LA_BAL,IAM_B_Rad,19
@@ -80182,6 +80182,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,futuregoat,84
 2021_17_ATL_BUF,FXL_3,88
 2021_17_ATL_BUF,gaberrowe,100
+2021_17_ATL_BUF,gage_anderson91,90
 2021_17_ATL_BUF,GavinDRod,90
 2021_17_ATL_BUF,godin_jon,100
 2021_17_ATL_BUF,GodofGamblersss,50
@@ -80189,7 +80190,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,goldencane14,100
 2021_17_ATL_BUF,greerreNFL,87
 2021_17_ATL_BUF,gshelor,96
-2021_17_ATL_BUF,gvader24,90
 2021_17_ATL_BUF,Havoc4Check,88
 2021_17_ATL_BUF,htennis98,50
 2021_17_ATL_BUF,IAM_B_Rad,100
@@ -80385,6 +80385,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,futuregoat,55
 2021_17_NYG_CHI,FXL_3,64
 2021_17_NYG_CHI,gaberrowe,74
+2021_17_NYG_CHI,gage_anderson91,75
 2021_17_NYG_CHI,GavinDRod,70
 2021_17_NYG_CHI,godin_jon,55
 2021_17_NYG_CHI,GodofGamblersss,50
@@ -80392,7 +80393,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,goldencane14,70
 2021_17_NYG_CHI,greerreNFL,64
 2021_17_NYG_CHI,gshelor,60
-2021_17_NYG_CHI,gvader24,75
 2021_17_NYG_CHI,Havoc4Check,67
 2021_17_NYG_CHI,htennis98,50
 2021_17_NYG_CHI,IAM_B_Rad,100
@@ -80588,6 +80588,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,futuregoat,19
 2021_17_KC_CIN,FXL_3,32
 2021_17_KC_CIN,gaberrowe,41
+2021_17_KC_CIN,gage_anderson91,30
 2021_17_KC_CIN,GavinDRod,31
 2021_17_KC_CIN,godin_jon,40
 2021_17_KC_CIN,GodofGamblersss,50
@@ -80595,7 +80596,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,goldencane14,34
 2021_17_KC_CIN,greerreNFL,38
 2021_17_KC_CIN,gshelor,24
-2021_17_KC_CIN,gvader24,30
 2021_17_KC_CIN,Havoc4Check,62
 2021_17_KC_CIN,htennis98,50
 2021_17_KC_CIN,IAM_B_Rad,34
@@ -80791,6 +80791,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,futuregoat,67
 2021_17_LV_IND,FXL_3,74
 2021_17_LV_IND,gaberrowe,81
+2021_17_LV_IND,gage_anderson91,87
 2021_17_LV_IND,GavinDRod,73
 2021_17_LV_IND,godin_jon,75
 2021_17_LV_IND,GodofGamblersss,50
@@ -80798,7 +80799,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,goldencane14,76
 2021_17_LV_IND,greerreNFL,75
 2021_17_LV_IND,gshelor,71
-2021_17_LV_IND,gvader24,87
 2021_17_LV_IND,Havoc4Check,77
 2021_17_LV_IND,htennis98,50
 2021_17_LV_IND,IAM_B_Rad,81
@@ -80994,6 +80994,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,futuregoat,75
 2021_17_JAX_NE,FXL_3,89
 2021_17_JAX_NE,gaberrowe,92
+2021_17_JAX_NE,gage_anderson91,90
 2021_17_JAX_NE,GavinDRod,92
 2021_17_JAX_NE,godin_jon,90
 2021_17_JAX_NE,GodofGamblersss,50
@@ -81001,7 +81002,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,goldencane14,100
 2021_17_JAX_NE,greerreNFL,89
 2021_17_JAX_NE,gshelor,98
-2021_17_JAX_NE,gvader24,90
 2021_17_JAX_NE,Havoc4Check,100
 2021_17_JAX_NE,htennis98,50
 2021_17_JAX_NE,IAM_B_Rad,89
@@ -81197,6 +81197,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,futuregoat,19
 2021_17_TB_NYJ,FXL_3,14
 2021_17_TB_NYJ,gaberrowe,9
+2021_17_TB_NYJ,gage_anderson91,10
 2021_17_TB_NYJ,GavinDRod,4
 2021_17_TB_NYJ,godin_jon,5
 2021_17_TB_NYJ,GodofGamblersss,50
@@ -81204,7 +81205,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,goldencane14,0
 2021_17_TB_NYJ,greerreNFL,13
 2021_17_TB_NYJ,gshelor,2
-2021_17_TB_NYJ,gvader24,10
 2021_17_TB_NYJ,Havoc4Check,0
 2021_17_TB_NYJ,htennis98,50
 2021_17_TB_NYJ,IAM_B_Rad,0
@@ -81400,6 +81400,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,futuregoat,54
 2021_17_MIA_TEN,FXL_3,55
 2021_17_MIA_TEN,gaberrowe,57
+2021_17_MIA_TEN,gage_anderson91,69
 2021_17_MIA_TEN,GavinDRod,62
 2021_17_MIA_TEN,godin_jon,65
 2021_17_MIA_TEN,GodofGamblersss,50
@@ -81407,7 +81408,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,goldencane14,40
 2021_17_MIA_TEN,greerreNFL,55
 2021_17_MIA_TEN,gshelor,87
-2021_17_MIA_TEN,gvader24,69
 2021_17_MIA_TEN,Havoc4Check,61
 2021_17_MIA_TEN,htennis98,50
 2021_17_MIA_TEN,IAM_B_Rad,70
@@ -81603,6 +81603,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,futuregoat,38
 2021_17_PHI_WAS,FXL_3,27
 2021_17_PHI_WAS,gaberrowe,25
+2021_17_PHI_WAS,gage_anderson91,26
 2021_17_PHI_WAS,GavinDRod,33
 2021_17_PHI_WAS,godin_jon,25
 2021_17_PHI_WAS,GodofGamblersss,50
@@ -81610,7 +81611,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,goldencane14,40
 2021_17_PHI_WAS,greerreNFL,30
 2021_17_PHI_WAS,gshelor,30
-2021_17_PHI_WAS,gvader24,26
 2021_17_PHI_WAS,Havoc4Check,65
 2021_17_PHI_WAS,htennis98,50
 2021_17_PHI_WAS,IAM_B_Rad,21
@@ -81806,6 +81806,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,futuregoat,55
 2021_17_DEN_LAC,FXL_3,67
 2021_17_DEN_LAC,gaberrowe,78
+2021_17_DEN_LAC,gage_anderson91,77
 2021_17_DEN_LAC,GavinDRod,77
 2021_17_DEN_LAC,godin_jon,63
 2021_17_DEN_LAC,GodofGamblersss,50
@@ -81813,7 +81814,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,goldencane14,70
 2021_17_DEN_LAC,greerreNFL,75
 2021_17_DEN_LAC,gshelor,79
-2021_17_DEN_LAC,gvader24,77
 2021_17_DEN_LAC,Havoc4Check,80
 2021_17_DEN_LAC,htennis98,50
 2021_17_DEN_LAC,IAM_B_Rad,79
@@ -82009,6 +82009,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,futuregoat,68
 2021_17_HOU_SF,FXL_3,90
 2021_17_HOU_SF,gaberrowe,84
+2021_17_HOU_SF,gage_anderson91,90
 2021_17_HOU_SF,GavinDRod,86
 2021_17_HOU_SF,godin_jon,76
 2021_17_HOU_SF,GodofGamblersss,50
@@ -82016,7 +82017,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,goldencane14,100
 2021_17_HOU_SF,greerreNFL,82
 2021_17_HOU_SF,gshelor,96
-2021_17_HOU_SF,gvader24,90
 2021_17_HOU_SF,Havoc4Check,90
 2021_17_HOU_SF,htennis98,50
 2021_17_HOU_SF,IAM_B_Rad,79
@@ -82212,6 +82212,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,futuregoat,67
 2021_17_ARI_DAL,FXL_3,64
 2021_17_ARI_DAL,gaberrowe,67
+2021_17_ARI_DAL,gage_anderson91,90
 2021_17_ARI_DAL,GavinDRod,64
 2021_17_ARI_DAL,godin_jon,75
 2021_17_ARI_DAL,GodofGamblersss,50
@@ -82219,7 +82220,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,goldencane14,60
 2021_17_ARI_DAL,greerreNFL,65
 2021_17_ARI_DAL,gshelor,72
-2021_17_ARI_DAL,gvader24,90
 2021_17_ARI_DAL,Havoc4Check,71
 2021_17_ARI_DAL,htennis98,50
 2021_17_ARI_DAL,IAM_B_Rad,80
@@ -82415,6 +82415,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,futuregoat,61
 2021_17_CAR_NO,FXL_3,48
 2021_17_CAR_NO,gaberrowe,68
+2021_17_CAR_NO,gage_anderson91,79
 2021_17_CAR_NO,GavinDRod,78
 2021_17_CAR_NO,godin_jon,66
 2021_17_CAR_NO,GodofGamblersss,50
@@ -82422,7 +82423,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,goldencane14,71
 2021_17_CAR_NO,greerreNFL,68
 2021_17_CAR_NO,gshelor,69
-2021_17_CAR_NO,gvader24,79
 2021_17_CAR_NO,Havoc4Check,75
 2021_17_CAR_NO,htennis98,50
 2021_17_CAR_NO,IAM_B_Rad,62
@@ -82618,6 +82618,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,futuregoat,68
 2021_17_DET_SEA,FXL_3,66
 2021_17_DET_SEA,gaberrowe,75
+2021_17_DET_SEA,gage_anderson91,83
 2021_17_DET_SEA,GavinDRod,77
 2021_17_DET_SEA,godin_jon,65
 2021_17_DET_SEA,GodofGamblersss,50
@@ -82625,7 +82626,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,goldencane14,76
 2021_17_DET_SEA,greerreNFL,74
 2021_17_DET_SEA,gshelor,85
-2021_17_DET_SEA,gvader24,83
 2021_17_DET_SEA,Havoc4Check,82
 2021_17_DET_SEA,htennis98,50
 2021_17_DET_SEA,IAM_B_Rad,27
@@ -82821,6 +82821,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,futuregoat,67
 2021_17_MIN_GB,FXL_3,78
 2021_17_MIN_GB,gaberrowe,79
+2021_17_MIN_GB,gage_anderson91,90
 2021_17_MIN_GB,GavinDRod,91
 2021_17_MIN_GB,godin_jon,55
 2021_17_MIN_GB,GodofGamblersss,50
@@ -82828,7 +82829,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,goldencane14,100
 2021_17_MIN_GB,greerreNFL,84
 2021_17_MIN_GB,gshelor,93
-2021_17_MIN_GB,gvader24,90
 2021_17_MIN_GB,Havoc4Check,80
 2021_17_MIN_GB,htennis98,50
 2021_17_MIN_GB,IAM_B_Rad,88
@@ -83025,6 +83025,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,futuregoat,47
 2021_17_CLE_PIT,FXL_3,38
 2021_17_CLE_PIT,gaberrowe,43
+2021_17_CLE_PIT,gage_anderson91,28
 2021_17_CLE_PIT,GavinDRod,60
 2021_17_CLE_PIT,godin_jon,51
 2021_17_CLE_PIT,GodofGamblersss,50
@@ -83032,7 +83033,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,goldencane14,40
 2021_17_CLE_PIT,greerreNFL,46
 2021_17_CLE_PIT,gshelor,34
-2021_17_CLE_PIT,gvader24,28
 2021_17_CLE_PIT,Havoc4Check,62
 2021_17_CLE_PIT,htennis98,50
 2021_17_CLE_PIT,IAM_B_Rad,16
@@ -83216,13 +83216,13 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,futuregoat,20
 2021_18_KC_DEN,FXL_3,15
 2021_18_KC_DEN,gaberrowe,16
+2021_18_KC_DEN,gage_anderson91,10
 2021_18_KC_DEN,GavinDRod,13
 2021_18_KC_DEN,GleamTweeter,20
 2021_18_KC_DEN,godin_jon,10
 2021_18_KC_DEN,goldencane14,22
 2021_18_KC_DEN,greerreNFL,21
 2021_18_KC_DEN,gshelor,3
-2021_18_KC_DEN,gvader24,10
 2021_18_KC_DEN,Havoc4Check,50
 2021_18_KC_DEN,htennis98,50
 2021_18_KC_DEN,ishep123,15
@@ -83383,13 +83383,13 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,futuregoat,36
 2021_18_DAL_PHI,FXL_3,27
 2021_18_DAL_PHI,gaberrowe,53
+2021_18_DAL_PHI,gage_anderson91,10
 2021_18_DAL_PHI,GavinDRod,39
 2021_18_DAL_PHI,GleamTweeter,20
 2021_18_DAL_PHI,godin_jon,30
 2021_18_DAL_PHI,goldencane14,36
 2021_18_DAL_PHI,greerreNFL,35
 2021_18_DAL_PHI,gshelor,4
-2021_18_DAL_PHI,gvader24,10
 2021_18_DAL_PHI,Havoc4Check,50
 2021_18_DAL_PHI,htennis98,50
 2021_18_DAL_PHI,ishep123,33
@@ -83555,13 +83555,13 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,futuregoat,61
 2021_18_PIT_BAL,FXL_3,66
 2021_18_PIT_BAL,gaberrowe,65
+2021_18_PIT_BAL,gage_anderson91,74
 2021_18_PIT_BAL,GavinDRod,65
 2021_18_PIT_BAL,GleamTweeter,50
 2021_18_PIT_BAL,godin_jon,60
 2021_18_PIT_BAL,goldencane14,64
 2021_18_PIT_BAL,greerreNFL,59
 2021_18_PIT_BAL,gshelor,72
-2021_18_PIT_BAL,gvader24,74
 2021_18_PIT_BAL,Havoc4Check,50
 2021_18_PIT_BAL,htennis98,50
 2021_18_PIT_BAL,ishep123,45
@@ -83735,13 +83735,13 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,futuregoat,56
 2021_18_CIN_CLE,FXL_3,62
 2021_18_CIN_CLE,gaberrowe,43
+2021_18_CIN_CLE,gage_anderson91,27
 2021_18_CIN_CLE,GavinDRod,66
 2021_18_CIN_CLE,GleamTweeter,20
 2021_18_CIN_CLE,godin_jon,0
 2021_18_CIN_CLE,goldencane14,67
 2021_18_CIN_CLE,greerreNFL,65
 2021_18_CIN_CLE,gshelor,26
-2021_18_CIN_CLE,gvader24,27
 2021_18_CIN_CLE,Havoc4Check,50
 2021_18_CIN_CLE,htennis98,50
 2021_18_CIN_CLE,ishep123,72
@@ -83915,13 +83915,13 @@ game_id,screen_name,prediction
 2021_18_GB_DET,futuregoat,19
 2021_18_GB_DET,FXL_3,35
 2021_18_GB_DET,gaberrowe,54
+2021_18_GB_DET,gage_anderson91,59
 2021_18_GB_DET,GavinDRod,31
 2021_18_GB_DET,GleamTweeter,50
 2021_18_GB_DET,godin_jon,0
 2021_18_GB_DET,goldencane14,38
 2021_18_GB_DET,greerreNFL,38
 2021_18_GB_DET,gshelor,2
-2021_18_GB_DET,gvader24,59
 2021_18_GB_DET,Havoc4Check,50
 2021_18_GB_DET,htennis98,50
 2021_18_GB_DET,ishep123,48
@@ -84095,13 +84095,13 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,futuregoat,32
 2021_18_TEN_HOU,FXL_3,19
 2021_18_TEN_HOU,gaberrowe,22
+2021_18_TEN_HOU,gage_anderson91,10
 2021_18_TEN_HOU,GavinDRod,18
 2021_18_TEN_HOU,GleamTweeter,20
 2021_18_TEN_HOU,godin_jon,0
 2021_18_TEN_HOU,goldencane14,20
 2021_18_TEN_HOU,greerreNFL,20
 2021_18_TEN_HOU,gshelor,7
-2021_18_TEN_HOU,gvader24,10
 2021_18_TEN_HOU,Havoc4Check,50
 2021_18_TEN_HOU,htennis98,50
 2021_18_TEN_HOU,ishep123,9
@@ -84275,13 +84275,13 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,futuregoat,26
 2021_18_IND_JAX,FXL_3,9
 2021_18_IND_JAX,gaberrowe,10
+2021_18_IND_JAX,gage_anderson91,10
 2021_18_IND_JAX,GavinDRod,10
 2021_18_IND_JAX,GleamTweeter,20
 2021_18_IND_JAX,godin_jon,0
 2021_18_IND_JAX,goldencane14,13
 2021_18_IND_JAX,greerreNFL,13
 2021_18_IND_JAX,gshelor,8
-2021_18_IND_JAX,gvader24,10
 2021_18_IND_JAX,Havoc4Check,50
 2021_18_IND_JAX,htennis98,50
 2021_18_IND_JAX,ishep123,15
@@ -84455,13 +84455,13 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,futuregoat,57
 2021_18_CHI_MIN,FXL_3,67
 2021_18_CHI_MIN,gaberrowe,52
+2021_18_CHI_MIN,gage_anderson91,61
 2021_18_CHI_MIN,GavinDRod,62
 2021_18_CHI_MIN,GleamTweeter,50
 2021_18_CHI_MIN,godin_jon,56
 2021_18_CHI_MIN,goldencane14,68
 2021_18_CHI_MIN,greerreNFL,69
 2021_18_CHI_MIN,gshelor,69
-2021_18_CHI_MIN,gvader24,61
 2021_18_CHI_MIN,Havoc4Check,50
 2021_18_CHI_MIN,htennis98,50
 2021_18_CHI_MIN,ishep123,68
@@ -84635,13 +84635,13 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,futuregoat,48
 2021_18_WAS_NYG,FXL_3,26
 2021_18_WAS_NYG,gaberrowe,29
+2021_18_WAS_NYG,gage_anderson91,14
 2021_18_WAS_NYG,GavinDRod,28
 2021_18_WAS_NYG,GleamTweeter,50
 2021_18_WAS_NYG,godin_jon,25
 2021_18_WAS_NYG,goldencane14,27
 2021_18_WAS_NYG,greerreNFL,34
 2021_18_WAS_NYG,gshelor,20
-2021_18_WAS_NYG,gvader24,14
 2021_18_WAS_NYG,Havoc4Check,50
 2021_18_WAS_NYG,htennis98,50
 2021_18_WAS_NYG,ishep123,27
@@ -84816,13 +84816,13 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,futuregoat,43
 2021_18_SEA_ARI,FXL_3,72
 2021_18_SEA_ARI,gaberrowe,82
+2021_18_SEA_ARI,gage_anderson91,83
 2021_18_SEA_ARI,GavinDRod,66
 2021_18_SEA_ARI,GleamTweeter,80
 2021_18_SEA_ARI,godin_jon,80
 2021_18_SEA_ARI,goldencane14,67
 2021_18_SEA_ARI,greerreNFL,63
 2021_18_SEA_ARI,gshelor,82
-2021_18_SEA_ARI,gvader24,83
 2021_18_SEA_ARI,Havoc4Check,50
 2021_18_SEA_ARI,htennis98,50
 2021_18_SEA_ARI,ishep123,55
@@ -84997,13 +84997,13 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,futuregoat,39
 2021_18_NO_ATL,FXL_3,37
 2021_18_NO_ATL,gaberrowe,38
+2021_18_NO_ATL,gage_anderson91,28
 2021_18_NO_ATL,GavinDRod,35
 2021_18_NO_ATL,GleamTweeter,50
 2021_18_NO_ATL,godin_jon,40
 2021_18_NO_ATL,goldencane14,37
 2021_18_NO_ATL,greerreNFL,37
 2021_18_NO_ATL,gshelor,31
-2021_18_NO_ATL,gvader24,28
 2021_18_NO_ATL,Havoc4Check,50
 2021_18_NO_ATL,htennis98,50
 2021_18_NO_ATL,ishep123,32
@@ -85178,13 +85178,13 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,futuregoat,83
 2021_18_NYJ_BUF,FXL_3,88
 2021_18_NYJ_BUF,gaberrowe,91
+2021_18_NYJ_BUF,gage_anderson91,90
 2021_18_NYJ_BUF,GavinDRod,93
 2021_18_NYJ_BUF,GleamTweeter,79
 2021_18_NYJ_BUF,godin_jon,95
 2021_18_NYJ_BUF,goldencane14,89
 2021_18_NYJ_BUF,greerreNFL,86
 2021_18_NYJ_BUF,gshelor,98
-2021_18_NYJ_BUF,gvader24,90
 2021_18_NYJ_BUF,Havoc4Check,50
 2021_18_NYJ_BUF,htennis98,50
 2021_18_NYJ_BUF,ishep123,92
@@ -85359,13 +85359,13 @@ game_id,screen_name,prediction
 2021_18_SF_LA,futuregoat,56
 2021_18_SF_LA,FXL_3,66
 2021_18_SF_LA,gaberrowe,76
+2021_18_SF_LA,gage_anderson91,72
 2021_18_SF_LA,GavinDRod,63
 2021_18_SF_LA,GleamTweeter,50
 2021_18_SF_LA,godin_jon,60
 2021_18_SF_LA,goldencane14,65
 2021_18_SF_LA,greerreNFL,62
 2021_18_SF_LA,gshelor,69
-2021_18_SF_LA,gvader24,72
 2021_18_SF_LA,Havoc4Check,50
 2021_18_SF_LA,htennis98,50
 2021_18_SF_LA,ishep123,64
@@ -85540,13 +85540,13 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,futuregoat,29
 2021_18_NE_MIA,FXL_3,32
 2021_18_NE_MIA,gaberrowe,35
+2021_18_NE_MIA,gage_anderson91,15
 2021_18_NE_MIA,GavinDRod,29
 2021_18_NE_MIA,GleamTweeter,21
 2021_18_NE_MIA,godin_jon,40
 2021_18_NE_MIA,goldencane14,29
 2021_18_NE_MIA,greerreNFL,30
 2021_18_NE_MIA,gshelor,9
-2021_18_NE_MIA,gvader24,15
 2021_18_NE_MIA,Havoc4Check,50
 2021_18_NE_MIA,htennis98,50
 2021_18_NE_MIA,ishep123,43
@@ -85721,13 +85721,13 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,futuregoat,79
 2021_18_CAR_TB,FXL_3,83
 2021_18_CAR_TB,gaberrowe,73
+2021_18_CAR_TB,gage_anderson91,88
 2021_18_CAR_TB,GavinDRod,90
 2021_18_CAR_TB,GleamTweeter,79
 2021_18_CAR_TB,godin_jon,80
 2021_18_CAR_TB,goldencane14,76
 2021_18_CAR_TB,greerreNFL,75
 2021_18_CAR_TB,gshelor,95
-2021_18_CAR_TB,gvader24,88
 2021_18_CAR_TB,Havoc4Check,50
 2021_18_CAR_TB,htennis98,50
 2021_18_CAR_TB,ishep123,81
@@ -85903,13 +85903,13 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,futuregoat,39
 2021_18_LAC_LV,FXL_3,37
 2021_18_LAC_LV,gaberrowe,36
+2021_18_LAC_LV,gage_anderson91,36
 2021_18_LAC_LV,GavinDRod,33
 2021_18_LAC_LV,GleamTweeter,50
 2021_18_LAC_LV,godin_jon,40
 2021_18_LAC_LV,goldencane14,41
 2021_18_LAC_LV,greerreNFL,33
 2021_18_LAC_LV,gshelor,58
-2021_18_LAC_LV,gvader24,36
 2021_18_LAC_LV,Havoc4Check,50
 2021_18_LAC_LV,htennis98,50
 2021_18_LAC_LV,ishep123,32
@@ -86090,6 +86090,7 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,futuregoat,60
 2021_19_LV_CIN,FXL_3,56
 2021_19_LV_CIN,gaberrowe,67
+2021_19_LV_CIN,gage_anderson91,90
 2021_19_LV_CIN,GavinDRod,70
 2021_19_LV_CIN,gberg1303,50
 2021_19_LV_CIN,GleamTweeter,80
@@ -86099,7 +86100,6 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,greerreNFL,67
 2021_19_LV_CIN,Greg_1534,0
 2021_19_LV_CIN,gshelor,87
-2021_19_LV_CIN,gvader24,90
 2021_19_LV_CIN,harrisonmw27,69
 2021_19_LV_CIN,Hellingschris,60
 2021_19_LV_CIN,htennis98,50
@@ -86312,6 +86312,7 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,futuregoat,60
 2021_19_NE_BUF,FXL_3,70
 2021_19_NE_BUF,gaberrowe,70
+2021_19_NE_BUF,gage_anderson91,90
 2021_19_NE_BUF,GavinDRod,65
 2021_19_NE_BUF,gberg1303,50
 2021_19_NE_BUF,GleamTweeter,64
@@ -86321,7 +86322,6 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,greerreNFL,62
 2021_19_NE_BUF,Greg_1534,100
 2021_19_NE_BUF,gshelor,47
-2021_19_NE_BUF,gvader24,90
 2021_19_NE_BUF,harrisonmw27,66
 2021_19_NE_BUF,Hellingschris,58
 2021_19_NE_BUF,htennis98,50
@@ -86536,6 +86536,7 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,futuregoat,65
 2021_19_PHI_TB,FXL_3,91
 2021_19_PHI_TB,gaberrowe,73
+2021_19_PHI_TB,gage_anderson91,90
 2021_19_PHI_TB,GavinDRod,80
 2021_19_PHI_TB,gberg1303,50
 2021_19_PHI_TB,GleamTweeter,100
@@ -86545,7 +86546,6 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,greerreNFL,75
 2021_19_PHI_TB,Greg_1534,100
 2021_19_PHI_TB,gshelor,99
-2021_19_PHI_TB,gvader24,90
 2021_19_PHI_TB,harrisonmw27,100
 2021_19_PHI_TB,Hellingschris,47
 2021_19_PHI_TB,htennis98,50
@@ -86762,6 +86762,7 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,futuregoat,55
 2021_19_SF_DAL,FXL_3,66
 2021_19_SF_DAL,gaberrowe,49
+2021_19_SF_DAL,gage_anderson91,90
 2021_19_SF_DAL,GavinDRod,57
 2021_19_SF_DAL,gberg1303,50
 2021_19_SF_DAL,GleamTweeter,58
@@ -86771,7 +86772,6 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,greerreNFL,64
 2021_19_SF_DAL,Greg_1534,100
 2021_19_SF_DAL,gshelor,81
-2021_19_SF_DAL,gvader24,90
 2021_19_SF_DAL,harrisonmw27,76
 2021_19_SF_DAL,Hellingschris,46
 2021_19_SF_DAL,htennis98,50
@@ -86990,6 +86990,7 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,futuregoat,74
 2021_19_PIT_KC,FXL_3,93
 2021_19_PIT_KC,gaberrowe,81
+2021_19_PIT_KC,gage_anderson91,90
 2021_19_PIT_KC,GavinDRod,93
 2021_19_PIT_KC,gberg1303,50
 2021_19_PIT_KC,GleamTweeter,100
@@ -86999,7 +87000,6 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,greerreNFL,90
 2021_19_PIT_KC,Greg_1534,100
 2021_19_PIT_KC,gshelor,99
-2021_19_PIT_KC,gvader24,90
 2021_19_PIT_KC,harrisonmw27,100
 2021_19_PIT_KC,Hellingschris,100
 2021_19_PIT_KC,htennis98,50
@@ -87218,6 +87218,7 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,futuregoat,56
 2021_19_ARI_LA,FXL_3,65
 2021_19_ARI_LA,gaberrowe,67
+2021_19_ARI_LA,gage_anderson91,80
 2021_19_ARI_LA,GavinDRod,59
 2021_19_ARI_LA,gberg1303,50
 2021_19_ARI_LA,GleamTweeter,63
@@ -87227,7 +87228,6 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,greerreNFL,60
 2021_19_ARI_LA,Greg_1534,74
 2021_19_ARI_LA,gshelor,49
-2021_19_ARI_LA,gvader24,80
 2021_19_ARI_LA,harrisonmw27,38
 2021_19_ARI_LA,Hellingschris,66
 2021_19_ARI_LA,htennis98,50
@@ -87431,6 +87431,7 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,futuregoat,60
 2021_20_CIN_TEN,FXL_3,45
 2021_20_CIN_TEN,gaberrowe,65
+2021_20_CIN_TEN,gage_anderson91,90
 2021_20_CIN_TEN,GavinDRod,59
 2021_20_CIN_TEN,GleamTweeter,63
 2021_20_CIN_TEN,godin_jon,45
@@ -87438,7 +87439,6 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,grayson_bb,90
 2021_20_CIN_TEN,greerreNFL,57
 2021_20_CIN_TEN,gshelor,44
-2021_20_CIN_TEN,gvader24,90
 2021_20_CIN_TEN,Hellingschris,75
 2021_20_CIN_TEN,ishep123,69
 2021_20_CIN_TEN,jacklich10,58
@@ -87608,6 +87608,7 @@ game_id,screen_name,prediction
 2021_20_SF_GB,futuregoat,65
 2021_20_SF_GB,FXL_3,74
 2021_20_SF_GB,gaberrowe,74
+2021_20_SF_GB,gage_anderson91,90
 2021_20_SF_GB,GavinDRod,65
 2021_20_SF_GB,GleamTweeter,63
 2021_20_SF_GB,godin_jon,75
@@ -87615,7 +87616,6 @@ game_id,screen_name,prediction
 2021_20_SF_GB,grayson_bb,100
 2021_20_SF_GB,greerreNFL,67
 2021_20_SF_GB,gshelor,88
-2021_20_SF_GB,gvader24,90
 2021_20_SF_GB,Hellingschris,40
 2021_20_SF_GB,ishep123,72
 2021_20_SF_GB,jacklich10,73
@@ -87791,6 +87791,7 @@ game_id,screen_name,prediction
 2021_20_LA_TB,futuregoat,53
 2021_20_LA_TB,FXL_3,55
 2021_20_LA_TB,gaberrowe,48
+2021_20_LA_TB,gage_anderson91,72
 2021_20_LA_TB,GavinDRod,64
 2021_20_LA_TB,GleamTweeter,50
 2021_20_LA_TB,godin_jon,40
@@ -87798,7 +87799,6 @@ game_id,screen_name,prediction
 2021_20_LA_TB,grayson_bb,100
 2021_20_LA_TB,greerreNFL,58
 2021_20_LA_TB,gshelor,75
-2021_20_LA_TB,gvader24,72
 2021_20_LA_TB,Hellingschris,75
 2021_20_LA_TB,ishep123,67
 2021_20_LA_TB,jacklich10,61
@@ -87977,6 +87977,7 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,futuregoat,51
 2021_20_BUF_KC,FXL_3,45
 2021_20_BUF_KC,gaberrowe,51
+2021_20_BUF_KC,gage_anderson91,70
 2021_20_BUF_KC,GavinDRod,58
 2021_20_BUF_KC,GleamTweeter,50
 2021_20_BUF_KC,godin_jon,40
@@ -87984,7 +87985,6 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,grayson_bb,100
 2021_20_BUF_KC,greerreNFL,54
 2021_20_BUF_KC,gshelor,40
-2021_20_BUF_KC,gvader24,70
 2021_20_BUF_KC,Hellingschris,20
 2021_20_BUF_KC,ishep123,61
 2021_20_BUF_KC,jacklich10,55
@@ -88157,13 +88157,13 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,futuregoat,60
 2021_21_CIN_KC,FXL_3,82
 2021_21_CIN_KC,gaberrowe,83
+2021_21_CIN_KC,gage_anderson91,100
 2021_21_CIN_KC,GavinDRod,75
 2021_21_CIN_KC,GleamTweeter,100
 2021_21_CIN_KC,godin_jon,95
 2021_21_CIN_KC,goldencane14,100
 2021_21_CIN_KC,greerreNFL,76
 2021_21_CIN_KC,gshelor,99
-2021_21_CIN_KC,gvader24,100
 2021_21_CIN_KC,Hellingschris,100
 2021_21_CIN_KC,ishep123,85
 2021_21_CIN_KC,jacklich10,100
@@ -88307,13 +88307,13 @@ game_id,screen_name,prediction
 2021_21_SF_LA,futuregoat,56
 2021_21_SF_LA,FXL_3,63
 2021_21_SF_LA,gaberrowe,71
+2021_21_SF_LA,gage_anderson91,100
 2021_21_SF_LA,GavinDRod,59
 2021_21_SF_LA,GleamTweeter,61
 2021_21_SF_LA,godin_jon,70
 2021_21_SF_LA,goldencane14,0
 2021_21_SF_LA,greerreNFL,58
 2021_21_SF_LA,gshelor,99
-2021_21_SF_LA,gvader24,100
 2021_21_SF_LA,Hellingschris,29
 2021_21_SF_LA,ishep123,72
 2021_21_SF_LA,jacklich10,67
@@ -88456,13 +88456,13 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,futuregoat,45
 2021_22_LA_CIN,FXL_3,0
 2021_22_LA_CIN,gaberrowe,22
+2021_22_LA_CIN,gage_anderson91,50
 2021_22_LA_CIN,GavinDRod,38
 2021_22_LA_CIN,GleamTweeter,0
 2021_22_LA_CIN,godin_jon,60
 2021_22_LA_CIN,goldencane14,0
 2021_22_LA_CIN,greerreNFL,40
 2021_22_LA_CIN,gshelor,100
-2021_22_LA_CIN,gvader24,50
 2021_22_LA_CIN,Hellingschris,100
 2021_22_LA_CIN,ishep123,25
 2021_22_LA_CIN,jacklich10,22
