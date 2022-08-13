@@ -440,7 +440,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,Oodles26881319,88
 2021_01_DAL_TB,ostegall,50
 2021_01_DAL_TB,OuttaWorkLC,100
-2021_01_DAL_TB,oxfordcomma_,76
 2021_01_DAL_TB,packeRanalytics,83
 2021_01_DAL_TB,PanBulgaricus,69
 2021_01_DAL_TB,papajohn5656,50
@@ -538,6 +537,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,stats2sports,84
 2021_01_DAL_TB,statwala,73
 2021_01_DAL_TB,StephenAk24,56
+2021_01_DAL_TB,stephenlacman,76
 2021_01_DAL_TB,SteveGoMe,60
 2021_01_DAL_TB,stevenskalman,84
 2021_01_DAL_TB,StillZam,65
@@ -1106,7 +1106,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,Oodles26881319,74
 2021_01_PHI_ATL,ostegall,58
 2021_01_PHI_ATL,OuttaWorkLC,50
-2021_01_PHI_ATL,oxfordcomma_,62
 2021_01_PHI_ATL,packeRanalytics,66
 2021_01_PHI_ATL,PanBulgaricus,61
 2021_01_PHI_ATL,papajohn5656,50
@@ -1210,6 +1209,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,StatsWashington,50
 2021_01_PHI_ATL,statwala,64
 2021_01_PHI_ATL,StephenAk24,61
+2021_01_PHI_ATL,stephenlacman,62
 2021_01_PHI_ATL,SteveGoMe,46
 2021_01_PHI_ATL,stevenskalman,66
 2021_01_PHI_ATL,StillZam,56
@@ -1779,7 +1779,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,Oodles26881319,62
 2021_01_PIT_BUF,ostegall,61
 2021_01_PIT_BUF,OuttaWorkLC,50
-2021_01_PIT_BUF,oxfordcomma_,71
 2021_01_PIT_BUF,packeRanalytics,61
 2021_01_PIT_BUF,PanBulgaricus,80
 2021_01_PIT_BUF,papajohn5656,50
@@ -1883,6 +1882,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,StatsWashington,50
 2021_01_PIT_BUF,statwala,73
 2021_01_PIT_BUF,StephenAk24,61
+2021_01_PIT_BUF,stephenlacman,71
 2021_01_PIT_BUF,SteveGoMe,70
 2021_01_PIT_BUF,stevenskalman,58
 2021_01_PIT_BUF,StillZam,64
@@ -2452,7 +2452,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,Oodles26881319,50
 2021_01_NYJ_CAR,ostegall,44
 2021_01_NYJ_CAR,OuttaWorkLC,51
-2021_01_NYJ_CAR,oxfordcomma_,65
 2021_01_NYJ_CAR,packeRanalytics,47
 2021_01_NYJ_CAR,PanBulgaricus,43
 2021_01_NYJ_CAR,papajohn5656,50
@@ -2556,6 +2555,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,StatsWashington,50
 2021_01_NYJ_CAR,statwala,67
 2021_01_NYJ_CAR,StephenAk24,55
+2021_01_NYJ_CAR,stephenlacman,65
 2021_01_NYJ_CAR,SteveGoMe,64
 2021_01_NYJ_CAR,stevenskalman,76
 2021_01_NYJ_CAR,StillZam,55
@@ -3125,7 +3125,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,Oodles26881319,40
 2021_01_MIN_CIN,ostegall,44
 2021_01_MIN_CIN,OuttaWorkLC,50
-2021_01_MIN_CIN,oxfordcomma_,41
 2021_01_MIN_CIN,packeRanalytics,47
 2021_01_MIN_CIN,PanBulgaricus,37
 2021_01_MIN_CIN,papajohn5656,50
@@ -3229,6 +3228,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,StatsWashington,50
 2021_01_MIN_CIN,statwala,36
 2021_01_MIN_CIN,StephenAk24,33
+2021_01_MIN_CIN,stephenlacman,41
 2021_01_MIN_CIN,SteveGoMe,46
 2021_01_MIN_CIN,stevenskalman,26
 2021_01_MIN_CIN,StillZam,48
@@ -3798,7 +3798,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,Oodles26881319,10
 2021_01_SF_DET,ostegall,31
 2021_01_SF_DET,OuttaWorkLC,50
-2021_01_SF_DET,oxfordcomma_,24
 2021_01_SF_DET,packeRanalytics,9
 2021_01_SF_DET,PanBulgaricus,27
 2021_01_SF_DET,papajohn5656,50
@@ -3902,6 +3901,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,StatsWashington,50
 2021_01_SF_DET,statwala,24
 2021_01_SF_DET,StephenAk24,44
+2021_01_SF_DET,stephenlacman,24
 2021_01_SF_DET,SteveGoMe,10
 2021_01_SF_DET,stevenskalman,8
 2021_01_SF_DET,StillZam,34
@@ -4009,8 +4009,8 @@ game_id,screen_name,prediction
 2021_01_SF_DET,ZenTaco,50
 2021_01_SF_DET,zweinberg18,20
 2021_01_SF_DET,zybxixi,50
-2021_01_JAX_HOU,,50
 2021_01_JAX_HOU,,31
+2021_01_JAX_HOU,,50
 2021_01_JAX_HOU,__beraldo,50
 2021_01_JAX_HOU,__DavidOfficial,45
 2021_01_JAX_HOU,_alendowsky,56
@@ -4471,7 +4471,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,Oodles26881319,40
 2021_01_JAX_HOU,ostegall,42
 2021_01_JAX_HOU,OuttaWorkLC,50
-2021_01_JAX_HOU,oxfordcomma_,39
 2021_01_JAX_HOU,packeRanalytics,45
 2021_01_JAX_HOU,PanBulgaricus,39
 2021_01_JAX_HOU,papajohn5656,50
@@ -4575,6 +4574,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,StatsWashington,50
 2021_01_JAX_HOU,statwala,40
 2021_01_JAX_HOU,StephenAk24,38
+2021_01_JAX_HOU,stephenlacman,39
 2021_01_JAX_HOU,SteveGoMe,40
 2021_01_JAX_HOU,stevenskalman,62
 2021_01_JAX_HOU,StillZam,41
@@ -4682,8 +4682,8 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
-2021_01_SEA_IND,,25
 2021_01_SEA_IND,,50
+2021_01_SEA_IND,,25
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
 2021_01_SEA_IND,_alendowsky,50
@@ -5144,7 +5144,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,Oodles26881319,20
 2021_01_SEA_IND,ostegall,39
 2021_01_SEA_IND,OuttaWorkLC,50
-2021_01_SEA_IND,oxfordcomma_,41
 2021_01_SEA_IND,packeRanalytics,46
 2021_01_SEA_IND,PanBulgaricus,69
 2021_01_SEA_IND,papajohn5656,50
@@ -5248,6 +5247,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,StatsWashington,50
 2021_01_SEA_IND,statwala,40
 2021_01_SEA_IND,StephenAk24,43
+2021_01_SEA_IND,stephenlacman,41
 2021_01_SEA_IND,SteveGoMe,40
 2021_01_SEA_IND,stevenskalman,53
 2021_01_SEA_IND,StillZam,43
@@ -5355,8 +5355,8 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,ZenTaco,50
 2021_01_SEA_IND,zweinberg18,35
 2021_01_SEA_IND,zybxixi,50
-2021_01_ARI_TEN,,50
 2021_01_ARI_TEN,,64
+2021_01_ARI_TEN,,50
 2021_01_ARI_TEN,__beraldo,50
 2021_01_ARI_TEN,__DavidOfficial,65
 2021_01_ARI_TEN,_alendowsky,50
@@ -5817,7 +5817,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,Oodles26881319,70
 2021_01_ARI_TEN,ostegall,78
 2021_01_ARI_TEN,OuttaWorkLC,50
-2021_01_ARI_TEN,oxfordcomma_,59
 2021_01_ARI_TEN,packeRanalytics,47
 2021_01_ARI_TEN,PanBulgaricus,55
 2021_01_ARI_TEN,papajohn5656,50
@@ -5921,6 +5920,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,StatsWashington,50
 2021_01_ARI_TEN,statwala,61
 2021_01_ARI_TEN,StephenAk24,51
+2021_01_ARI_TEN,stephenlacman,59
 2021_01_ARI_TEN,SteveGoMe,64
 2021_01_ARI_TEN,stevenskalman,64
 2021_01_ARI_TEN,StillZam,52
@@ -6028,8 +6028,8 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,ZenTaco,50
 2021_01_ARI_TEN,zweinberg18,70
 2021_01_ARI_TEN,zybxixi,50
-2021_01_LAC_WAS,,24
 2021_01_LAC_WAS,,50
+2021_01_LAC_WAS,,24
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
 2021_01_LAC_WAS,_alendowsky,50
@@ -6490,7 +6490,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,Oodles26881319,45
 2021_01_LAC_WAS,ostegall,59
 2021_01_LAC_WAS,OuttaWorkLC,50
-2021_01_LAC_WAS,oxfordcomma_,53
 2021_01_LAC_WAS,packeRanalytics,47
 2021_01_LAC_WAS,PanBulgaricus,52
 2021_01_LAC_WAS,papajohn5656,50
@@ -6594,6 +6593,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,StatsWashington,50
 2021_01_LAC_WAS,statwala,48
 2021_01_LAC_WAS,StephenAk24,38
+2021_01_LAC_WAS,stephenlacman,53
 2021_01_LAC_WAS,SteveGoMe,40
 2021_01_LAC_WAS,stevenskalman,64
 2021_01_LAC_WAS,StillZam,53
@@ -6701,8 +6701,8 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,ZenTaco,50
 2021_01_LAC_WAS,zweinberg18,40
 2021_01_LAC_WAS,zybxixi,50
-2021_01_CLE_KC,,50
 2021_01_CLE_KC,,90
+2021_01_CLE_KC,,50
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
 2021_01_CLE_KC,_alendowsky,61
@@ -7163,7 +7163,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,Oodles26881319,62
 2021_01_CLE_KC,ostegall,56
 2021_01_CLE_KC,OuttaWorkLC,50
-2021_01_CLE_KC,oxfordcomma_,69
 2021_01_CLE_KC,packeRanalytics,59
 2021_01_CLE_KC,PanBulgaricus,68
 2021_01_CLE_KC,papajohn5656,50
@@ -7267,6 +7266,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,StatsWashington,70
 2021_01_CLE_KC,statwala,73
 2021_01_CLE_KC,StephenAk24,57
+2021_01_CLE_KC,stephenlacman,69
 2021_01_CLE_KC,SteveGoMe,70
 2021_01_CLE_KC,stevenskalman,83
 2021_01_CLE_KC,StillZam,61
@@ -7374,8 +7374,8 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
-2021_01_MIA_NE,,50
 2021_01_MIA_NE,,30
+2021_01_MIA_NE,,50
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
 2021_01_MIA_NE,_alendowsky,63
@@ -7836,7 +7836,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,Oodles26881319,55
 2021_01_MIA_NE,ostegall,44
 2021_01_MIA_NE,OuttaWorkLC,50
-2021_01_MIA_NE,oxfordcomma_,62
 2021_01_MIA_NE,packeRanalytics,47
 2021_01_MIA_NE,PanBulgaricus,46
 2021_01_MIA_NE,papajohn5656,50
@@ -7940,6 +7939,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,StatsWashington,60
 2021_01_MIA_NE,statwala,59
 2021_01_MIA_NE,StephenAk24,44
+2021_01_MIA_NE,stephenlacman,62
 2021_01_MIA_NE,SteveGoMe,46
 2021_01_MIA_NE,stevenskalman,60
 2021_01_MIA_NE,StillZam,49
@@ -8509,7 +8509,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,Oodles26881319,45
 2021_01_GB_NO,ostegall,31
 2021_01_GB_NO,OuttaWorkLC,50
-2021_01_GB_NO,oxfordcomma_,38
 2021_01_GB_NO,packeRanalytics,31
 2021_01_GB_NO,PanBulgaricus,75
 2021_01_GB_NO,papajohn5656,50
@@ -8613,6 +8612,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,StatsWashington,38
 2021_01_GB_NO,statwala,40
 2021_01_GB_NO,StephenAk24,33
+2021_01_GB_NO,stephenlacman,38
 2021_01_GB_NO,SteveGoMe,30
 2021_01_GB_NO,stevenskalman,65
 2021_01_GB_NO,StillZam,44
@@ -9182,7 +9182,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,Oodles26881319,55
 2021_01_DEN_NYG,ostegall,51
 2021_01_DEN_NYG,OuttaWorkLC,50
-2021_01_DEN_NYG,oxfordcomma_,41
 2021_01_DEN_NYG,packeRanalytics,25
 2021_01_DEN_NYG,PanBulgaricus,55
 2021_01_DEN_NYG,papajohn5656,50
@@ -9286,6 +9285,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,StatsWashington,47
 2021_01_DEN_NYG,statwala,46
 2021_01_DEN_NYG,StephenAk24,46
+2021_01_DEN_NYG,stephenlacman,41
 2021_01_DEN_NYG,SteveGoMe,46
 2021_01_DEN_NYG,stevenskalman,13
 2021_01_DEN_NYG,StillZam,47
@@ -9856,7 +9856,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,Oodles26881319,85
 2021_01_CHI_LA,ostegall,46
 2021_01_CHI_LA,OuttaWorkLC,50
-2021_01_CHI_LA,oxfordcomma_,76
 2021_01_CHI_LA,packeRanalytics,54
 2021_01_CHI_LA,PanBulgaricus,70
 2021_01_CHI_LA,papajohn5656,50
@@ -9961,6 +9960,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,StatsWashington,67
 2021_01_CHI_LA,statwala,75
 2021_01_CHI_LA,StephenAk24,83
+2021_01_CHI_LA,stephenlacman,76
 2021_01_CHI_LA,SteveGoMe,70
 2021_01_CHI_LA,stevenskalman,90
 2021_01_CHI_LA,StillZam,65
@@ -10551,7 +10551,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,Oodles26881319,25
 2021_01_BAL_LV,ostegall,60
 2021_01_BAL_LV,OuttaWorkLC,50
-2021_01_BAL_LV,oxfordcomma_,36
 2021_01_BAL_LV,packeRanalytics,11
 2021_01_BAL_LV,PanBulgaricus,39
 2021_01_BAL_LV,papajohn5656,50
@@ -10659,6 +10658,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,StatsWashington,39
 2021_01_BAL_LV,statwala,31
 2021_01_BAL_LV,StephenAk24,43
+2021_01_BAL_LV,stephenlacman,36
 2021_01_BAL_LV,SteveGoMe,30
 2021_01_BAL_LV,stevenskalman,56
 2021_01_BAL_LV,StillZam,34
@@ -11027,7 +11027,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,olivierlav,58
 2021_02_NYG_WAS,Oodles26881319,40
 2021_02_NYG_WAS,ostegall,44
-2021_02_NYG_WAS,oxfordcomma_,50
 2021_02_NYG_WAS,packeRanalytics,71
 2021_02_NYG_WAS,ParanjaiP,50
 2021_02_NYG_WAS,Pavel_Vab,41
@@ -11084,6 +11083,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,Starshipunicorn,64
 2021_02_NYG_WAS,StatsWashington,53
 2021_02_NYG_WAS,Stephen69273945,50
+2021_02_NYG_WAS,stephenlacman,50
 2021_02_NYG_WAS,SteveGoMe,50
 2021_02_NYG_WAS,steviej325,75
 2021_02_NYG_WAS,StillZam,58
@@ -11441,7 +11441,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,olivierlav,34
 2021_02_NO_CAR,Oodles26881319,40
 2021_02_NO_CAR,ostegall,58
-2021_02_NO_CAR,oxfordcomma_,45
 2021_02_NO_CAR,packeRanalytics,28
 2021_02_NO_CAR,PanBulgaricus,28
 2021_02_NO_CAR,ParanjaiP,50
@@ -11507,6 +11506,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,StatsInTheWild,49
 2021_02_NO_CAR,StatsWashington,36
 2021_02_NO_CAR,Stephen69273945,50
+2021_02_NO_CAR,stephenlacman,45
 2021_02_NO_CAR,SteveGoMe,50
 2021_02_NO_CAR,stevenskalman,29
 2021_02_NO_CAR,steviej325,43
@@ -11874,7 +11874,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,olivierlav,50
 2021_02_CIN_CHI,Oodles26881319,60
 2021_02_CIN_CHI,ostegall,52
-2021_02_CIN_CHI,oxfordcomma_,54
 2021_02_CIN_CHI,packeRanalytics,51
 2021_02_CIN_CHI,PanBulgaricus,44
 2021_02_CIN_CHI,ParanjaiP,50
@@ -11940,6 +11939,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,StatsInTheWild,70
 2021_02_CIN_CHI,StatsWashington,46
 2021_02_CIN_CHI,Stephen69273945,50
+2021_02_CIN_CHI,stephenlacman,54
 2021_02_CIN_CHI,SteveGoMe,50
 2021_02_CIN_CHI,stevenskalman,47
 2021_02_CIN_CHI,steviej325,47
@@ -12307,7 +12307,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,olivierlav,79
 2021_02_HOU_CLE,Oodles26881319,100
 2021_02_HOU_CLE,ostegall,100
-2021_02_HOU_CLE,oxfordcomma_,100
 2021_02_HOU_CLE,packeRanalytics,64
 2021_02_HOU_CLE,PanBulgaricus,90
 2021_02_HOU_CLE,ParanjaiP,50
@@ -12373,6 +12372,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,StatsInTheWild,96
 2021_02_HOU_CLE,StatsWashington,79
 2021_02_HOU_CLE,Stephen69273945,50
+2021_02_HOU_CLE,stephenlacman,100
 2021_02_HOU_CLE,SteveGoMe,50
 2021_02_HOU_CLE,stevenskalman,71
 2021_02_HOU_CLE,steviej325,51
@@ -12740,7 +12740,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,olivierlav,41
 2021_02_LA_IND,Oodles26881319,45
 2021_02_LA_IND,ostegall,39
-2021_02_LA_IND,oxfordcomma_,34
 2021_02_LA_IND,packeRanalytics,47
 2021_02_LA_IND,PanBulgaricus,40
 2021_02_LA_IND,ParanjaiP,50
@@ -12806,6 +12805,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,StatsInTheWild,26
 2021_02_LA_IND,StatsWashington,37
 2021_02_LA_IND,Stephen69273945,50
+2021_02_LA_IND,stephenlacman,34
 2021_02_LA_IND,SteveGoMe,50
 2021_02_LA_IND,stevenskalman,20
 2021_02_LA_IND,steviej325,53
@@ -13173,7 +13173,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,olivierlav,33
 2021_02_DEN_JAX,Oodles26881319,35
 2021_02_DEN_JAX,ostegall,41
-2021_02_DEN_JAX,oxfordcomma_,30
 2021_02_DEN_JAX,packeRanalytics,42
 2021_02_DEN_JAX,PanBulgaricus,38
 2021_02_DEN_JAX,ParanjaiP,50
@@ -13239,6 +13238,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,StatsInTheWild,19
 2021_02_DEN_JAX,StatsWashington,40
 2021_02_DEN_JAX,Stephen69273945,50
+2021_02_DEN_JAX,stephenlacman,30
 2021_02_DEN_JAX,SteveGoMe,50
 2021_02_DEN_JAX,stevenskalman,0
 2021_02_DEN_JAX,steviej325,46
@@ -13606,7 +13606,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,olivierlav,43
 2021_02_BUF_MIA,Oodles26881319,45
 2021_02_BUF_MIA,ostegall,41
-2021_02_BUF_MIA,oxfordcomma_,37
 2021_02_BUF_MIA,packeRanalytics,21
 2021_02_BUF_MIA,PanBulgaricus,35
 2021_02_BUF_MIA,ParanjaiP,50
@@ -13672,6 +13671,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,StatsInTheWild,64
 2021_02_BUF_MIA,StatsWashington,40
 2021_02_BUF_MIA,Stephen69273945,50
+2021_02_BUF_MIA,stephenlacman,37
 2021_02_BUF_MIA,SteveGoMe,50
 2021_02_BUF_MIA,stevenskalman,64
 2021_02_BUF_MIA,steviej325,35
@@ -14039,7 +14039,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,olivierlav,24
 2021_02_NE_NYJ,Oodles26881319,40
 2021_02_NE_NYJ,ostegall,38
-2021_02_NE_NYJ,oxfordcomma_,33
 2021_02_NE_NYJ,packeRanalytics,22
 2021_02_NE_NYJ,PanBulgaricus,41
 2021_02_NE_NYJ,ParanjaiP,50
@@ -14105,6 +14104,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,StatsInTheWild,36
 2021_02_NE_NYJ,StatsWashington,30
 2021_02_NE_NYJ,Stephen69273945,50
+2021_02_NE_NYJ,stephenlacman,33
 2021_02_NE_NYJ,SteveGoMe,50
 2021_02_NE_NYJ,stevenskalman,0
 2021_02_NE_NYJ,steviej325,0
@@ -14472,7 +14472,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,olivierlav,35
 2021_02_SF_PHI,Oodles26881319,45
 2021_02_SF_PHI,ostegall,37
-2021_02_SF_PHI,oxfordcomma_,42
 2021_02_SF_PHI,packeRanalytics,45
 2021_02_SF_PHI,PanBulgaricus,37
 2021_02_SF_PHI,ParanjaiP,50
@@ -14538,6 +14537,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,StatsInTheWild,59
 2021_02_SF_PHI,StatsWashington,43
 2021_02_SF_PHI,Stephen69273945,50
+2021_02_SF_PHI,stephenlacman,42
 2021_02_SF_PHI,SteveGoMe,50
 2021_02_SF_PHI,stevenskalman,48
 2021_02_SF_PHI,steviej325,57
@@ -14905,7 +14905,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,olivierlav,71
 2021_02_LV_PIT,Oodles26881319,50
 2021_02_LV_PIT,ostegall,41
-2021_02_LV_PIT,oxfordcomma_,62
 2021_02_LV_PIT,packeRanalytics,74
 2021_02_LV_PIT,PanBulgaricus,55
 2021_02_LV_PIT,ParanjaiP,50
@@ -14971,6 +14970,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,StatsInTheWild,59
 2021_02_LV_PIT,StatsWashington,66
 2021_02_LV_PIT,Stephen69273945,50
+2021_02_LV_PIT,stephenlacman,62
 2021_02_LV_PIT,SteveGoMe,50
 2021_02_LV_PIT,stevenskalman,82
 2021_02_LV_PIT,steviej325,57
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,,62
+2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -15339,7 +15339,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,olivierlav,55
 2021_02_MIN_ARI,Oodles26881319,80
 2021_02_MIN_ARI,ostegall,63
-2021_02_MIN_ARI,oxfordcomma_,54
 2021_02_MIN_ARI,packeRanalytics,57
 2021_02_MIN_ARI,PanBulgaricus,60
 2021_02_MIN_ARI,ParanjaiP,50
@@ -15405,6 +15404,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,StatsInTheWild,58
 2021_02_MIN_ARI,StatsWashington,63
 2021_02_MIN_ARI,Stephen69273945,50
+2021_02_MIN_ARI,stephenlacman,54
 2021_02_MIN_ARI,SteveGoMe,50
 2021_02_MIN_ARI,stevenskalman,45
 2021_02_MIN_ARI,steviej325,44
@@ -15773,7 +15773,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,olivierlav,79
 2021_02_ATL_TB,Oodles26881319,90
 2021_02_ATL_TB,ostegall,91
-2021_02_ATL_TB,oxfordcomma_,85
 2021_02_ATL_TB,packeRanalytics,58
 2021_02_ATL_TB,PanBulgaricus,84
 2021_02_ATL_TB,ParanjaiP,50
@@ -15839,6 +15838,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,StatsInTheWild,62
 2021_02_ATL_TB,StatsWashington,79
 2021_02_ATL_TB,Stephen69273945,50
+2021_02_ATL_TB,stephenlacman,85
 2021_02_ATL_TB,SteveGoMe,50
 2021_02_ATL_TB,stevenskalman,88
 2021_02_ATL_TB,steviej325,64
@@ -16207,7 +16207,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,olivierlav,64
 2021_02_DAL_LAC,Oodles26881319,60
 2021_02_DAL_LAC,ostegall,57
-2021_02_DAL_LAC,oxfordcomma_,60
 2021_02_DAL_LAC,packeRanalytics,72
 2021_02_DAL_LAC,PanBulgaricus,57
 2021_02_DAL_LAC,ParanjaiP,50
@@ -16273,6 +16272,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,StatsInTheWild,83
 2021_02_DAL_LAC,StatsWashington,53
 2021_02_DAL_LAC,Stephen69273945,50
+2021_02_DAL_LAC,stephenlacman,60
 2021_02_DAL_LAC,SteveGoMe,50
 2021_02_DAL_LAC,stevenskalman,66
 2021_02_DAL_LAC,steviej325,57
@@ -16641,7 +16641,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,olivierlav,57
 2021_02_TEN_SEA,Oodles26881319,90
 2021_02_TEN_SEA,ostegall,65
-2021_02_TEN_SEA,oxfordcomma_,71
 2021_02_TEN_SEA,packeRanalytics,78
 2021_02_TEN_SEA,PanBulgaricus,63
 2021_02_TEN_SEA,ParanjaiP,50
@@ -16707,6 +16706,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,StatsInTheWild,52
 2021_02_TEN_SEA,StatsWashington,68
 2021_02_TEN_SEA,Stephen69273945,50
+2021_02_TEN_SEA,stephenlacman,71
 2021_02_TEN_SEA,SteveGoMe,50
 2021_02_TEN_SEA,stevenskalman,91
 2021_02_TEN_SEA,steviej325,77
@@ -17075,7 +17075,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,olivierlav,40
 2021_02_KC_BAL,Oodles26881319,45
 2021_02_KC_BAL,ostegall,37
-2021_02_KC_BAL,oxfordcomma_,36
 2021_02_KC_BAL,packeRanalytics,32
 2021_02_KC_BAL,PanBulgaricus,30
 2021_02_KC_BAL,ParanjaiP,16
@@ -17141,6 +17140,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,StatsInTheWild,46
 2021_02_KC_BAL,StatsWashington,36
 2021_02_KC_BAL,Stephen69273945,50
+2021_02_KC_BAL,stephenlacman,36
 2021_02_KC_BAL,SteveGoMe,50
 2021_02_KC_BAL,stevenskalman,26
 2021_02_KC_BAL,steviej325,33
@@ -17509,7 +17509,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,olivierlav,75
 2021_02_DET_GB,Oodles26881319,95
 2021_02_DET_GB,ostegall,68
-2021_02_DET_GB,oxfordcomma_,89
 2021_02_DET_GB,packeRanalytics,59
 2021_02_DET_GB,PanBulgaricus,80
 2021_02_DET_GB,ParanjaiP,50
@@ -17575,6 +17574,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,StatsInTheWild,95
 2021_02_DET_GB,StatsWashington,78
 2021_02_DET_GB,Stephen69273945,50
+2021_02_DET_GB,stephenlacman,89
 2021_02_DET_GB,SteveGoMe,50
 2021_02_DET_GB,stevenskalman,60
 2021_02_DET_GB,steviej325,0
@@ -17890,7 +17890,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,olivierlav,18
 2021_03_CAR_HOU,Oodles26881319,10
 2021_03_CAR_HOU,ostegall,22
-2021_03_CAR_HOU,oxfordcomma_,0
 2021_03_CAR_HOU,PatriotsStatsR,0
 2021_03_CAR_HOU,Pavel_Vab,44
 2021_03_CAR_HOU,PeteESunshine,0
@@ -17939,6 +17938,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,Starshipunicorn,18
 2021_03_CAR_HOU,StatsInTheWild,46
 2021_03_CAR_HOU,StatsWashington,25
+2021_03_CAR_HOU,stephenlacman,0
 2021_03_CAR_HOU,stevenskalman,23
 2021_03_CAR_HOU,steviej325,50
 2021_03_CAR_HOU,StillZam,20
@@ -17992,8 +17992,8 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,,45
+2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
@@ -18254,7 +18254,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,olivierlav,69
 2021_03_WAS_BUF,Oodles26881319,60
 2021_03_WAS_BUF,ostegall,63
-2021_03_WAS_BUF,oxfordcomma_,75
 2021_03_WAS_BUF,packeRanalytics,57
 2021_03_WAS_BUF,PanBulgaricus,70
 2021_03_WAS_BUF,PatriotsStatsR,100
@@ -18311,6 +18310,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,Starshipunicorn,76
 2021_03_WAS_BUF,StatsInTheWild,62
 2021_03_WAS_BUF,StatsWashington,75
+2021_03_WAS_BUF,stephenlacman,75
 2021_03_WAS_BUF,stevenskalman,81
 2021_03_WAS_BUF,steviej325,85
 2021_03_WAS_BUF,StillZam,67
@@ -18367,8 +18367,8 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,50
 2021_03_CHI_CLE,,63
+2021_03_CHI_CLE,,50
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -18629,7 +18629,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,olivierlav,70
 2021_03_CHI_CLE,Oodles26881319,65
 2021_03_CHI_CLE,ostegall,70
-2021_03_CHI_CLE,oxfordcomma_,75
 2021_03_CHI_CLE,packeRanalytics,83
 2021_03_CHI_CLE,PanBulgaricus,76
 2021_03_CHI_CLE,PatriotsStatsR,100
@@ -18686,6 +18685,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,Starshipunicorn,60
 2021_03_CHI_CLE,StatsInTheWild,76
 2021_03_CHI_CLE,StatsWashington,72
+2021_03_CHI_CLE,stephenlacman,75
 2021_03_CHI_CLE,stevenskalman,82
 2021_03_CHI_CLE,steviej325,50
 2021_03_CHI_CLE,StillZam,68
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
+2021_03_BAL_DET,,21
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -19004,7 +19004,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,olivierlav,19
 2021_03_BAL_DET,Oodles26881319,35
 2021_03_BAL_DET,ostegall,25
-2021_03_BAL_DET,oxfordcomma_,23
 2021_03_BAL_DET,packeRanalytics,11
 2021_03_BAL_DET,PanBulgaricus,23
 2021_03_BAL_DET,PatriotsStatsR,0
@@ -19061,6 +19060,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,Starshipunicorn,17
 2021_03_BAL_DET,StatsInTheWild,35
 2021_03_BAL_DET,StatsWashington,25
+2021_03_BAL_DET,stephenlacman,23
 2021_03_BAL_DET,stevenskalman,0
 2021_03_BAL_DET,steviej325,0
 2021_03_BAL_DET,StillZam,38
@@ -19379,7 +19379,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,olivierlav,23
 2021_03_ARI_JAX,Oodles26881319,20
 2021_03_ARI_JAX,ostegall,6
-2021_03_ARI_JAX,oxfordcomma_,25
 2021_03_ARI_JAX,packeRanalytics,34
 2021_03_ARI_JAX,PanBulgaricus,31
 2021_03_ARI_JAX,PatriotsStatsR,39
@@ -19436,6 +19435,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,Starshipunicorn,22
 2021_03_ARI_JAX,StatsInTheWild,44
 2021_03_ARI_JAX,StatsWashington,27
+2021_03_ARI_JAX,stephenlacman,25
 2021_03_ARI_JAX,stevenskalman,13
 2021_03_ARI_JAX,steviej325,0
 2021_03_ARI_JAX,StillZam,42
@@ -19754,7 +19754,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,olivierlav,60
 2021_03_LAC_KC,Oodles26881319,65
 2021_03_LAC_KC,ostegall,66
-2021_03_LAC_KC,oxfordcomma_,73
 2021_03_LAC_KC,packeRanalytics,54
 2021_03_LAC_KC,PanBulgaricus,71
 2021_03_LAC_KC,PatriotsStatsR,50
@@ -19811,6 +19810,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,Starshipunicorn,70
 2021_03_LAC_KC,StatsInTheWild,63
 2021_03_LAC_KC,StatsWashington,71
+2021_03_LAC_KC,stephenlacman,73
 2021_03_LAC_KC,stevenskalman,76
 2021_03_LAC_KC,steviej325,80
 2021_03_LAC_KC,StillZam,59
@@ -20129,7 +20129,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,olivierlav,48
 2021_03_NO_NE,Oodles26881319,45
 2021_03_NO_NE,ostegall,56
-2021_03_NO_NE,oxfordcomma_,58
 2021_03_NO_NE,packeRanalytics,79
 2021_03_NO_NE,PanBulgaricus,39
 2021_03_NO_NE,PatriotsStatsR,55
@@ -20186,6 +20185,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,Starshipunicorn,43
 2021_03_NO_NE,StatsInTheWild,54
 2021_03_NO_NE,StatsWashington,55
+2021_03_NO_NE,stephenlacman,58
 2021_03_NO_NE,stevenskalman,78
 2021_03_NO_NE,steviej325,64
 2021_03_NO_NE,StillZam,47
@@ -20504,7 +20504,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,olivierlav,47
 2021_03_ATL_NYG,Oodles26881319,49
 2021_03_ATL_NYG,ostegall,43
-2021_03_ATL_NYG,oxfordcomma_,59
 2021_03_ATL_NYG,packeRanalytics,52
 2021_03_ATL_NYG,PanBulgaricus,43
 2021_03_ATL_NYG,PatriotsStatsR,52
@@ -20561,6 +20560,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,Starshipunicorn,62
 2021_03_ATL_NYG,StatsInTheWild,64
 2021_03_ATL_NYG,StatsWashington,55
+2021_03_ATL_NYG,stephenlacman,59
 2021_03_ATL_NYG,stevenskalman,58
 2021_03_ATL_NYG,steviej325,44
 2021_03_ATL_NYG,StillZam,56
@@ -20617,8 +20617,8 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,YayySports,66
 2021_03_ATL_NYG,zackry_mc,50
 2021_03_ATL_NYG,zweinberg18,55
-2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,,50
+2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -20879,7 +20879,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,olivierlav,58
 2021_03_CIN_PIT,Oodles26881319,51
 2021_03_CIN_PIT,ostegall,61
-2021_03_CIN_PIT,oxfordcomma_,60
 2021_03_CIN_PIT,packeRanalytics,88
 2021_03_CIN_PIT,PanBulgaricus,66
 2021_03_CIN_PIT,PatriotsStatsR,57
@@ -20936,6 +20935,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,Starshipunicorn,43
 2021_03_CIN_PIT,StatsInTheWild,69
 2021_03_CIN_PIT,StatsWashington,58
+2021_03_CIN_PIT,stephenlacman,60
 2021_03_CIN_PIT,stevenskalman,60
 2021_03_CIN_PIT,steviej325,58
 2021_03_CIN_PIT,StillZam,52
@@ -21254,7 +21254,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,olivierlav,60
 2021_03_IND_TEN,Oodles26881319,85
 2021_03_IND_TEN,ostegall,63
-2021_03_IND_TEN,oxfordcomma_,69
 2021_03_IND_TEN,packeRanalytics,58
 2021_03_IND_TEN,PanBulgaricus,59
 2021_03_IND_TEN,PatriotsStatsR,53
@@ -21311,6 +21310,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,Starshipunicorn,60
 2021_03_IND_TEN,StatsInTheWild,61
 2021_03_IND_TEN,StatsWashington,67
+2021_03_IND_TEN,stephenlacman,69
 2021_03_IND_TEN,stevenskalman,57
 2021_03_IND_TEN,steviej325,58
 2021_03_IND_TEN,StillZam,59
@@ -21631,7 +21631,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,olivierlav,85
 2021_03_NYJ_DEN,Oodles26881319,90
 2021_03_NYJ_DEN,ostegall,83
-2021_03_NYJ_DEN,oxfordcomma_,83
 2021_03_NYJ_DEN,packeRanalytics,95
 2021_03_NYJ_DEN,PanBulgaricus,76
 2021_03_NYJ_DEN,PatriotsStatsR,55
@@ -21688,6 +21687,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,Starshipunicorn,76
 2021_03_NYJ_DEN,StatsInTheWild,89
 2021_03_NYJ_DEN,StatsWashington,79
+2021_03_NYJ_DEN,stephenlacman,83
 2021_03_NYJ_DEN,stevenskalman,88
 2021_03_NYJ_DEN,steviej325,100
 2021_03_NYJ_DEN,StillZam,75
@@ -22010,7 +22010,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,olivierlav,52
 2021_03_MIA_LV,Oodles26881319,80
 2021_03_MIA_LV,ostegall,33
-2021_03_MIA_LV,oxfordcomma_,70
 2021_03_MIA_LV,packeRanalytics,67
 2021_03_MIA_LV,PanBulgaricus,66
 2021_03_MIA_LV,PatriotsStatsR,63
@@ -22067,6 +22066,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,Starshipunicorn,68
 2021_03_MIA_LV,StatsInTheWild,40
 2021_03_MIA_LV,StatsWashington,60
+2021_03_MIA_LV,stephenlacman,70
 2021_03_MIA_LV,stevenskalman,63
 2021_03_MIA_LV,steviej325,71
 2021_03_MIA_LV,StillZam,64
@@ -22124,8 +22124,8 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
-2021_03_TB_LA,,64
 2021_03_TB_LA,,50
+2021_03_TB_LA,,64
 2021_03_TB_LA,__DavidOfficial,40
 2021_03_TB_LA,_alendowsky,52
 2021_03_TB_LA,_DH44_,50
@@ -22389,7 +22389,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,olivierlav,38
 2021_03_TB_LA,Oodles26881319,49
 2021_03_TB_LA,ostegall,42
-2021_03_TB_LA,oxfordcomma_,47
 2021_03_TB_LA,packeRanalytics,12
 2021_03_TB_LA,PanBulgaricus,42
 2021_03_TB_LA,PatriotsStatsR,59
@@ -22446,6 +22445,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,Starshipunicorn,42
 2021_03_TB_LA,StatsInTheWild,37
 2021_03_TB_LA,StatsWashington,54
+2021_03_TB_LA,stephenlacman,47
 2021_03_TB_LA,stevenskalman,44
 2021_03_TB_LA,steviej325,36
 2021_03_TB_LA,StillZam,53
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
+2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
@@ -22768,7 +22768,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,olivierlav,44
 2021_03_SEA_MIN,Oodles26881319,55
 2021_03_SEA_MIN,ostegall,54
-2021_03_SEA_MIN,oxfordcomma_,46
 2021_03_SEA_MIN,packeRanalytics,18
 2021_03_SEA_MIN,PanBulgaricus,37
 2021_03_SEA_MIN,PatriotsStatsR,49
@@ -22825,6 +22824,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,Starshipunicorn,34
 2021_03_SEA_MIN,StatsInTheWild,35
 2021_03_SEA_MIN,StatsWashington,45
+2021_03_SEA_MIN,stephenlacman,46
 2021_03_SEA_MIN,stevenskalman,71
 2021_03_SEA_MIN,steviej325,34
 2021_03_SEA_MIN,StillZam,47
@@ -23148,7 +23148,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,olivierlav,70
 2021_03_GB_SF,Oodles26881319,55
 2021_03_GB_SF,ostegall,69
-2021_03_GB_SF,oxfordcomma_,48
 2021_03_GB_SF,packeRanalytics,47
 2021_03_GB_SF,PanBulgaricus,40
 2021_03_GB_SF,PatriotsStatsR,47
@@ -23205,6 +23204,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,Starshipunicorn,67
 2021_03_GB_SF,StatsInTheWild,51
 2021_03_GB_SF,StatsWashington,57
+2021_03_GB_SF,stephenlacman,48
 2021_03_GB_SF,stevenskalman,66
 2021_03_GB_SF,steviej325,40
 2021_03_GB_SF,StillZam,58
@@ -23262,8 +23262,8 @@ game_id,screen_name,prediction
 2021_03_GB_SF,YayySports,64
 2021_03_GB_SF,zackry_mc,50
 2021_03_GB_SF,zweinberg18,55
-2021_03_PHI_DAL,,35
 2021_03_PHI_DAL,,50
+2021_03_PHI_DAL,,35
 2021_03_PHI_DAL,__DavidOfficial,67
 2021_03_PHI_DAL,_alendowsky,51
 2021_03_PHI_DAL,_DH44_,80
@@ -23541,7 +23541,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,olivierlav,46
 2021_03_PHI_DAL,Oodles26881319,55
 2021_03_PHI_DAL,ostegall,68
-2021_03_PHI_DAL,oxfordcomma_,59
 2021_03_PHI_DAL,packeRanalytics,72
 2021_03_PHI_DAL,PanBulgaricus,50
 2021_03_PHI_DAL,PatriotsStatsR,54
@@ -23600,6 +23599,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,Starshipunicorn,70
 2021_03_PHI_DAL,StatsInTheWild,75
 2021_03_PHI_DAL,StatsWashington,59
+2021_03_PHI_DAL,stephenlacman,59
 2021_03_PHI_DAL,stevenskalman,37
 2021_03_PHI_DAL,steviej325,42
 2021_03_PHI_DAL,StillZam,58
@@ -23908,7 +23908,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,olivierlav,65
 2021_04_JAX_CIN,Oodles26881319,65
 2021_04_JAX_CIN,ostegall,83
-2021_04_JAX_CIN,oxfordcomma_,50
 2021_04_JAX_CIN,packeRanalytics,54
 2021_04_JAX_CIN,PanBulgaricus,64
 2021_04_JAX_CIN,PatriotsStatsR,55
@@ -23961,6 +23960,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,Starshipunicorn,78
 2021_04_JAX_CIN,StatsInTheWild,50
 2021_04_JAX_CIN,StatsWashington,71
+2021_04_JAX_CIN,stephenlacman,50
 2021_04_JAX_CIN,steviej325,100
 2021_04_JAX_CIN,StillZam,79
 2021_04_JAX_CIN,StoicPhysician,97
@@ -24285,7 +24285,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,olivierlav,46
 2021_04_WAS_ATL,Oodles26881319,58
 2021_04_WAS_ATL,ostegall,60
-2021_04_WAS_ATL,oxfordcomma_,45
 2021_04_WAS_ATL,packeRanalytics,56
 2021_04_WAS_ATL,PanBulgaricus,53
 2021_04_WAS_ATL,ParanjaiP,50
@@ -24347,6 +24346,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,Starshipunicorn,58
 2021_04_WAS_ATL,StatsInTheWild,51
 2021_04_WAS_ATL,StatsWashington,52
+2021_04_WAS_ATL,stephenlacman,45
 2021_04_WAS_ATL,steviej325,58
 2021_04_WAS_ATL,StillZam,44
 2021_04_WAS_ATL,StoicPhysician,3
@@ -24677,7 +24677,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,olivierlav,94
 2021_04_HOU_BUF,Oodles26881319,100
 2021_04_HOU_BUF,ostegall,100
-2021_04_HOU_BUF,oxfordcomma_,100
 2021_04_HOU_BUF,packeRanalytics,93
 2021_04_HOU_BUF,PanBulgaricus,95
 2021_04_HOU_BUF,ParanjaiP,50
@@ -24739,6 +24738,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,Starshipunicorn,80
 2021_04_HOU_BUF,StatsInTheWild,93
 2021_04_HOU_BUF,StatsWashington,87
+2021_04_HOU_BUF,stephenlacman,100
 2021_04_HOU_BUF,steviej325,100
 2021_04_HOU_BUF,StillZam,92
 2021_04_HOU_BUF,StoicPhysician,100
@@ -25069,7 +25069,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,olivierlav,67
 2021_04_DET_CHI,Oodles26881319,45
 2021_04_DET_CHI,ostegall,68
-2021_04_DET_CHI,oxfordcomma_,53
 2021_04_DET_CHI,packeRanalytics,43
 2021_04_DET_CHI,PanBulgaricus,45
 2021_04_DET_CHI,ParanjaiP,50
@@ -25131,6 +25130,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,Starshipunicorn,60
 2021_04_DET_CHI,StatsInTheWild,66
 2021_04_DET_CHI,StatsWashington,55
+2021_04_DET_CHI,stephenlacman,53
 2021_04_DET_CHI,steviej325,47
 2021_04_DET_CHI,StillZam,55
 2021_04_DET_CHI,StoicPhysician,91
@@ -25461,7 +25461,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,olivierlav,59
 2021_04_CAR_DAL,Oodles26881319,80
 2021_04_CAR_DAL,ostegall,75
-2021_04_CAR_DAL,oxfordcomma_,64
 2021_04_CAR_DAL,packeRanalytics,55
 2021_04_CAR_DAL,PanBulgaricus,65
 2021_04_CAR_DAL,ParanjaiP,50
@@ -25523,6 +25522,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,Starshipunicorn,64
 2021_04_CAR_DAL,StatsInTheWild,65
 2021_04_CAR_DAL,StatsWashington,63
+2021_04_CAR_DAL,stephenlacman,64
 2021_04_CAR_DAL,steviej325,46
 2021_04_CAR_DAL,StillZam,61
 2021_04_CAR_DAL,StoicPhysician,98
@@ -25853,7 +25853,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,olivierlav,63
 2021_04_IND_MIA,Oodles26881319,75
 2021_04_IND_MIA,ostegall,60
-2021_04_IND_MIA,oxfordcomma_,55
 2021_04_IND_MIA,packeRanalytics,50
 2021_04_IND_MIA,PanBulgaricus,53
 2021_04_IND_MIA,ParanjaiP,50
@@ -25915,6 +25914,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,Starshipunicorn,58
 2021_04_IND_MIA,StatsInTheWild,47
 2021_04_IND_MIA,StatsWashington,53
+2021_04_IND_MIA,stephenlacman,55
 2021_04_IND_MIA,steviej325,46
 2021_04_IND_MIA,StillZam,50
 2021_04_IND_MIA,StoicPhysician,0
@@ -26245,7 +26245,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,olivierlav,33
 2021_04_CLE_MIN,Oodles26881319,35
 2021_04_CLE_MIN,ostegall,55
-2021_04_CLE_MIN,oxfordcomma_,49
 2021_04_CLE_MIN,packeRanalytics,50
 2021_04_CLE_MIN,PanBulgaricus,40
 2021_04_CLE_MIN,ParanjaiP,50
@@ -26307,6 +26306,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,Starshipunicorn,40
 2021_04_CLE_MIN,StatsInTheWild,51
 2021_04_CLE_MIN,StatsWashington,49
+2021_04_CLE_MIN,stephenlacman,49
 2021_04_CLE_MIN,steviej325,55
 2021_04_CLE_MIN,StillZam,50
 2021_04_CLE_MIN,StoicPhysician,0
@@ -26637,7 +26637,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,olivierlav,59
 2021_04_NYG_NO,Oodles26881319,70
 2021_04_NYG_NO,ostegall,45
-2021_04_NYG_NO,oxfordcomma_,74
 2021_04_NYG_NO,packeRanalytics,57
 2021_04_NYG_NO,PanBulgaricus,64
 2021_04_NYG_NO,ParanjaiP,50
@@ -26699,6 +26698,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,Starshipunicorn,60
 2021_04_NYG_NO,StatsInTheWild,64
 2021_04_NYG_NO,StatsWashington,66
+2021_04_NYG_NO,stephenlacman,74
 2021_04_NYG_NO,steviej325,63
 2021_04_NYG_NO,StillZam,50
 2021_04_NYG_NO,StoicPhysician,100
@@ -27029,7 +27029,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,olivierlav,31
 2021_04_TEN_NYJ,Oodles26881319,43
 2021_04_TEN_NYJ,ostegall,23
-2021_04_TEN_NYJ,oxfordcomma_,30
 2021_04_TEN_NYJ,packeRanalytics,38
 2021_04_TEN_NYJ,PanBulgaricus,40
 2021_04_TEN_NYJ,ParanjaiP,50
@@ -27091,6 +27090,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,Starshipunicorn,42
 2021_04_TEN_NYJ,StatsInTheWild,26
 2021_04_TEN_NYJ,StatsWashington,28
+2021_04_TEN_NYJ,stephenlacman,30
 2021_04_TEN_NYJ,steviej325,40
 2021_04_TEN_NYJ,StillZam,50
 2021_04_TEN_NYJ,StoicPhysician,0
@@ -27421,7 +27421,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,olivierlav,23
 2021_04_KC_PHI,Oodles26881319,15
 2021_04_KC_PHI,ostegall,17
-2021_04_KC_PHI,oxfordcomma_,24
 2021_04_KC_PHI,packeRanalytics,8
 2021_04_KC_PHI,PanBulgaricus,10
 2021_04_KC_PHI,ParanjaiP,50
@@ -27483,6 +27482,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,Starshipunicorn,20
 2021_04_KC_PHI,StatsInTheWild,26
 2021_04_KC_PHI,StatsWashington,28
+2021_04_KC_PHI,stephenlacman,24
 2021_04_KC_PHI,steviej325,35
 2021_04_KC_PHI,StillZam,50
 2021_04_KC_PHI,StoicPhysician,0
@@ -27815,7 +27815,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,olivierlav,65
 2021_04_ARI_LA,Oodles26881319,55
 2021_04_ARI_LA,ostegall,59
-2021_04_ARI_LA,oxfordcomma_,67
 2021_04_ARI_LA,packeRanalytics,63
 2021_04_ARI_LA,PanBulgaricus,65
 2021_04_ARI_LA,ParanjaiP,50
@@ -27877,6 +27876,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,Starshipunicorn,60
 2021_04_ARI_LA,StatsInTheWild,61
 2021_04_ARI_LA,StatsWashington,65
+2021_04_ARI_LA,stephenlacman,67
 2021_04_ARI_LA,steviej325,70
 2021_04_ARI_LA,StillZam,50
 2021_04_ARI_LA,StoicPhysician,100
@@ -28211,7 +28211,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,olivierlav,61
 2021_04_SEA_SF,Oodles26881319,75
 2021_04_SEA_SF,ostegall,42
-2021_04_SEA_SF,oxfordcomma_,51
 2021_04_SEA_SF,packeRanalytics,53
 2021_04_SEA_SF,PanBulgaricus,45
 2021_04_SEA_SF,ParanjaiP,50
@@ -28273,6 +28272,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,Starshipunicorn,60
 2021_04_SEA_SF,StatsInTheWild,53
 2021_04_SEA_SF,StatsWashington,56
+2021_04_SEA_SF,stephenlacman,51
 2021_04_SEA_SF,steviej325,47
 2021_04_SEA_SF,StillZam,50
 2021_04_SEA_SF,StoicPhysician,0
@@ -28609,7 +28609,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,olivierlav,42
 2021_04_BAL_DEN,Oodles26881319,40
 2021_04_BAL_DEN,ostegall,39
-2021_04_BAL_DEN,oxfordcomma_,45
 2021_04_BAL_DEN,packeRanalytics,14
 2021_04_BAL_DEN,PanBulgaricus,42
 2021_04_BAL_DEN,ParanjaiP,50
@@ -28671,6 +28670,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,Starshipunicorn,45
 2021_04_BAL_DEN,StatsInTheWild,48
 2021_04_BAL_DEN,StatsWashington,47
+2021_04_BAL_DEN,stephenlacman,45
 2021_04_BAL_DEN,steviej325,44
 2021_04_BAL_DEN,StillZam,50
 2021_04_BAL_DEN,StoicPhysician,95
@@ -29007,7 +29007,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,olivierlav,54
 2021_04_PIT_GB,Oodles26881319,82
 2021_04_PIT_GB,ostegall,76
-2021_04_PIT_GB,oxfordcomma_,74
 2021_04_PIT_GB,packeRanalytics,95
 2021_04_PIT_GB,PanBulgaricus,72
 2021_04_PIT_GB,ParanjaiP,50
@@ -29069,6 +29068,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,Starshipunicorn,64
 2021_04_PIT_GB,StatsInTheWild,71
 2021_04_PIT_GB,StatsWashington,68
+2021_04_PIT_GB,stephenlacman,74
 2021_04_PIT_GB,steviej325,59
 2021_04_PIT_GB,StillZam,50
 2021_04_PIT_GB,StoicPhysician,94
@@ -29407,7 +29407,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,olivierlav,16
 2021_04_TB_NE,Oodles26881319,23
 2021_04_TB_NE,ostegall,24
-2021_04_TB_NE,oxfordcomma_,30
 2021_04_TB_NE,packeRanalytics,11
 2021_04_TB_NE,PanBulgaricus,10
 2021_04_TB_NE,ParanjaiP,50
@@ -29469,6 +29468,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,Starshipunicorn,35
 2021_04_TB_NE,StatsInTheWild,34
 2021_04_TB_NE,StatsWashington,33
+2021_04_TB_NE,stephenlacman,30
 2021_04_TB_NE,steviej325,44
 2021_04_TB_NE,StillZam,23
 2021_04_TB_NE,StoicPhysician,0
@@ -29815,7 +29815,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,olivierlav,54
 2021_04_LV_LAC,Oodles26881319,57
 2021_04_LV_LAC,ostegall,42
-2021_04_LV_LAC,oxfordcomma_,51
 2021_04_LV_LAC,packeRanalytics,81
 2021_04_LV_LAC,PanBulgaricus,56
 2021_04_LV_LAC,ParanjaiP,50
@@ -29882,6 +29881,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,Starshipunicorn,62
 2021_04_LV_LAC,StatsInTheWild,70
 2021_04_LV_LAC,StatsWashington,60
+2021_04_LV_LAC,stephenlacman,51
 2021_04_LV_LAC,steviej325,67
 2021_04_LV_LAC,StillZam,61
 2021_04_LV_LAC,StoicPhysician,99
@@ -30186,7 +30186,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,Odinbn,55
 2021_05_LA_SEA,olivierlav,38
 2021_05_LA_SEA,ostegall,38
-2021_05_LA_SEA,oxfordcomma_,45
 2021_05_LA_SEA,PanBulgaricus,50
 2021_05_LA_SEA,PatPasq,50
 2021_05_LA_SEA,PatriotsStatsR,46
@@ -30247,6 +30246,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,Starshipunicorn,40
 2021_05_LA_SEA,StatsInTheWild,40
 2021_05_LA_SEA,StatsWashington,50
+2021_05_LA_SEA,stephenlacman,45
 2021_05_LA_SEA,stevenskalman,57
 2021_05_LA_SEA,steviej325,59
 2021_05_LA_SEA,StillZam,39
@@ -30552,7 +30552,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,Odinbn,65
 2021_05_NYJ_ATL,olivierlav,46
 2021_05_NYJ_ATL,ostegall,55
-2021_05_NYJ_ATL,oxfordcomma_,60
 2021_05_NYJ_ATL,PanBulgaricus,50
 2021_05_NYJ_ATL,PatPasq,55
 2021_05_NYJ_ATL,PatriotsStatsR,54
@@ -30616,6 +30615,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,Starshipunicorn,48
 2021_05_NYJ_ATL,StatsInTheWild,63
 2021_05_NYJ_ATL,StatsWashington,58
+2021_05_NYJ_ATL,stephenlacman,60
 2021_05_NYJ_ATL,stevenskalman,59
 2021_05_NYJ_ATL,steviej325,55
 2021_05_NYJ_ATL,StillZam,58
@@ -30928,7 +30928,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,olivierlav,52
 2021_05_PHI_CAR,Oodles26881319,50
 2021_05_PHI_CAR,ostegall,62
-2021_05_PHI_CAR,oxfordcomma_,57
 2021_05_PHI_CAR,packeRanalytics,47
 2021_05_PHI_CAR,PanBulgaricus,50
 2021_05_PHI_CAR,PatPasq,67
@@ -30994,6 +30993,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,Starshipunicorn,60
 2021_05_PHI_CAR,StatsInTheWild,52
 2021_05_PHI_CAR,StatsWashington,60
+2021_05_PHI_CAR,stephenlacman,57
 2021_05_PHI_CAR,stevenskalman,65
 2021_05_PHI_CAR,steviej325,57
 2021_05_PHI_CAR,StillZam,59
@@ -31306,7 +31306,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,olivierlav,55
 2021_05_GB_CIN,Oodles26881319,50
 2021_05_GB_CIN,ostegall,27
-2021_05_GB_CIN,oxfordcomma_,45
 2021_05_GB_CIN,packeRanalytics,13
 2021_05_GB_CIN,PanBulgaricus,50
 2021_05_GB_CIN,PatPasq,33
@@ -31372,6 +31371,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,Starshipunicorn,40
 2021_05_GB_CIN,StatsInTheWild,38
 2021_05_GB_CIN,StatsWashington,42
+2021_05_GB_CIN,stephenlacman,45
 2021_05_GB_CIN,stevenskalman,57
 2021_05_GB_CIN,steviej325,50
 2021_05_GB_CIN,StillZam,39
@@ -31684,7 +31684,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,olivierlav,16
 2021_05_NE_HOU,Oodles26881319,50
 2021_05_NE_HOU,ostegall,32
-2021_05_NE_HOU,oxfordcomma_,22
 2021_05_NE_HOU,packeRanalytics,18
 2021_05_NE_HOU,PanBulgaricus,50
 2021_05_NE_HOU,PatPasq,15
@@ -31750,6 +31749,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,Starshipunicorn,30
 2021_05_NE_HOU,StatsInTheWild,15
 2021_05_NE_HOU,StatsWashington,23
+2021_05_NE_HOU,stephenlacman,22
 2021_05_NE_HOU,stevenskalman,23
 2021_05_NE_HOU,steviej325,0
 2021_05_NE_HOU,StillZam,19
@@ -32062,7 +32062,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,olivierlav,39
 2021_05_TEN_JAX,Oodles26881319,50
 2021_05_TEN_JAX,ostegall,38
-2021_05_TEN_JAX,oxfordcomma_,35
 2021_05_TEN_JAX,packeRanalytics,42
 2021_05_TEN_JAX,PanBulgaricus,50
 2021_05_TEN_JAX,PatPasq,34
@@ -32128,6 +32127,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,Starshipunicorn,40
 2021_05_TEN_JAX,StatsInTheWild,25
 2021_05_TEN_JAX,StatsWashington,36
+2021_05_TEN_JAX,stephenlacman,35
 2021_05_TEN_JAX,stevenskalman,10
 2021_05_TEN_JAX,steviej325,0
 2021_05_TEN_JAX,StillZam,34
@@ -32439,7 +32439,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,olivierlav,71
 2021_05_DET_MIN,Oodles26881319,50
 2021_05_DET_MIN,ostegall,78
-2021_05_DET_MIN,oxfordcomma_,86
 2021_05_DET_MIN,packeRanalytics,44
 2021_05_DET_MIN,PanBulgaricus,50
 2021_05_DET_MIN,PatPasq,66
@@ -32505,6 +32504,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,Starshipunicorn,64
 2021_05_DET_MIN,StatsInTheWild,72
 2021_05_DET_MIN,StatsWashington,80
+2021_05_DET_MIN,stephenlacman,86
 2021_05_DET_MIN,stevenskalman,100
 2021_05_DET_MIN,steviej325,50
 2021_05_DET_MIN,StillZam,64
@@ -32817,7 +32817,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,olivierlav,41
 2021_05_DEN_PIT,Oodles26881319,50
 2021_05_DEN_PIT,ostegall,57
-2021_05_DEN_PIT,oxfordcomma_,44
 2021_05_DEN_PIT,packeRanalytics,41
 2021_05_DEN_PIT,PanBulgaricus,50
 2021_05_DEN_PIT,PatPasq,40
@@ -32883,6 +32882,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,Starshipunicorn,40
 2021_05_DEN_PIT,StatsInTheWild,47
 2021_05_DEN_PIT,StatsWashington,50
+2021_05_DEN_PIT,stephenlacman,44
 2021_05_DEN_PIT,stevenskalman,58
 2021_05_DEN_PIT,steviej325,50
 2021_05_DEN_PIT,StillZam,53
@@ -33194,7 +33194,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,olivierlav,84
 2021_05_MIA_TB,Oodles26881319,50
 2021_05_MIA_TB,ostegall,77
-2021_05_MIA_TB,oxfordcomma_,82
 2021_05_MIA_TB,packeRanalytics,85
 2021_05_MIA_TB,PanBulgaricus,50
 2021_05_MIA_TB,PatPasq,100
@@ -33260,6 +33259,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,Starshipunicorn,74
 2021_05_MIA_TB,StatsInTheWild,86
 2021_05_MIA_TB,StatsWashington,79
+2021_05_MIA_TB,stephenlacman,82
 2021_05_MIA_TB,stevenskalman,100
 2021_05_MIA_TB,steviej325,50
 2021_05_MIA_TB,StillZam,79
@@ -33572,7 +33572,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,olivierlav,37
 2021_05_NO_WAS,Oodles26881319,50
 2021_05_NO_WAS,ostegall,44
-2021_05_NO_WAS,oxfordcomma_,42
 2021_05_NO_WAS,packeRanalytics,47
 2021_05_NO_WAS,PanBulgaricus,50
 2021_05_NO_WAS,PatPasq,54
@@ -33638,6 +33637,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,Starshipunicorn,42
 2021_05_NO_WAS,StatsInTheWild,48
 2021_05_NO_WAS,StatsWashington,45
+2021_05_NO_WAS,stephenlacman,42
 2021_05_NO_WAS,stevenskalman,59
 2021_05_NO_WAS,steviej325,50
 2021_05_NO_WAS,StillZam,55
@@ -33952,7 +33952,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,olivierlav,56
 2021_05_CLE_LAC,Oodles26881319,67
 2021_05_CLE_LAC,ostegall,63
-2021_05_CLE_LAC,oxfordcomma_,50
 2021_05_CLE_LAC,packeRanalytics,58
 2021_05_CLE_LAC,PanBulgaricus,50
 2021_05_CLE_LAC,PatPasq,67
@@ -34019,6 +34018,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,Starshipunicorn,66
 2021_05_CLE_LAC,StatsInTheWild,51
 2021_05_CLE_LAC,StatsWashington,56
+2021_05_CLE_LAC,stephenlacman,50
 2021_05_CLE_LAC,stevenskalman,43
 2021_05_CLE_LAC,steviej325,50
 2021_05_CLE_LAC,StillZam,50
@@ -34334,7 +34334,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,olivierlav,69
 2021_05_CHI_LV,Oodles26881319,60
 2021_05_CHI_LV,ostegall,37
-2021_05_CHI_LV,oxfordcomma_,69
 2021_05_CHI_LV,packeRanalytics,38
 2021_05_CHI_LV,PanBulgaricus,50
 2021_05_CHI_LV,PatPasq,76
@@ -34401,6 +34400,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,Starshipunicorn,58
 2021_05_CHI_LV,StatsInTheWild,70
 2021_05_CHI_LV,StatsWashington,68
+2021_05_CHI_LV,stephenlacman,69
 2021_05_CHI_LV,stevenskalman,79
 2021_05_CHI_LV,steviej325,50
 2021_05_CHI_LV,StillZam,61
@@ -34716,7 +34716,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,olivierlav,59
 2021_05_SF_ARI,Oodles26881319,61
 2021_05_SF_ARI,ostegall,60
-2021_05_SF_ARI,oxfordcomma_,69
 2021_05_SF_ARI,packeRanalytics,17
 2021_05_SF_ARI,PanBulgaricus,50
 2021_05_SF_ARI,PatPasq,82
@@ -34783,6 +34782,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,Starshipunicorn,56
 2021_05_SF_ARI,StatsInTheWild,49
 2021_05_SF_ARI,StatsWashington,66
+2021_05_SF_ARI,stephenlacman,69
 2021_05_SF_ARI,stevenskalman,45
 2021_05_SF_ARI,steviej325,50
 2021_05_SF_ARI,StillZam,53
@@ -35098,7 +35098,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,olivierlav,65
 2021_05_NYG_DAL,Oodles26881319,85
 2021_05_NYG_DAL,ostegall,72
-2021_05_NYG_DAL,oxfordcomma_,74
 2021_05_NYG_DAL,packeRanalytics,78
 2021_05_NYG_DAL,PanBulgaricus,50
 2021_05_NYG_DAL,PatPasq,81
@@ -35165,6 +35164,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,Starshipunicorn,70
 2021_05_NYG_DAL,StatsInTheWild,70
 2021_05_NYG_DAL,StatsWashington,74
+2021_05_NYG_DAL,stephenlacman,74
 2021_05_NYG_DAL,stevenskalman,79
 2021_05_NYG_DAL,steviej325,50
 2021_05_NYG_DAL,StillZam,79
@@ -35481,7 +35481,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,olivierlav,67
 2021_05_BUF_KC,Oodles26881319,65
 2021_05_BUF_KC,ostegall,43
-2021_05_BUF_KC,oxfordcomma_,57
 2021_05_BUF_KC,packeRanalytics,67
 2021_05_BUF_KC,PanBulgaricus,50
 2021_05_BUF_KC,PatPasq,53
@@ -35549,6 +35548,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,Starshipunicorn,54
 2021_05_BUF_KC,StatsInTheWild,63
 2021_05_BUF_KC,StatsWashington,57
+2021_05_BUF_KC,stephenlacman,57
 2021_05_BUF_KC,stevenskalman,62
 2021_05_BUF_KC,steviej325,50
 2021_05_BUF_KC,StillZam,61
@@ -35870,7 +35870,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,olivierlav,76
 2021_05_IND_BAL,Oodles26881319,85
 2021_05_IND_BAL,ostegall,79
-2021_05_IND_BAL,oxfordcomma_,74
 2021_05_IND_BAL,packeRanalytics,82
 2021_05_IND_BAL,PanBulgaricus,50
 2021_05_IND_BAL,PatPasq,84
@@ -35939,6 +35938,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,Starshipunicorn,70
 2021_05_IND_BAL,StatsInTheWild,71
 2021_05_IND_BAL,StatsWashington,74
+2021_05_IND_BAL,stephenlacman,74
 2021_05_IND_BAL,stevenskalman,87
 2021_05_IND_BAL,steviej325,66
 2021_05_IND_BAL,StillZam,69
@@ -36224,7 +36224,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,Odinbn,0
 2021_06_TB_PHI,olivierlav,36
 2021_06_TB_PHI,ostegall,50
-2021_06_TB_PHI,oxfordcomma_,50
 2021_06_TB_PHI,packeRanalytics,18
 2021_06_TB_PHI,PanBulgaricus,21
 2021_06_TB_PHI,PatriotsStatsR,0
@@ -36279,6 +36278,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,Starshipunicorn,30
 2021_06_TB_PHI,StatsInTheWild,29
 2021_06_TB_PHI,StatsWashington,29
+2021_06_TB_PHI,stephenlacman,50
 2021_06_TB_PHI,stevenskalman,11
 2021_06_TB_PHI,steviej325,50
 2021_06_TB_PHI,StillZam,50
@@ -36564,7 +36564,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,Odinbn,45
 2021_06_MIA_JAX,olivierlav,44
 2021_06_MIA_JAX,ostegall,27
-2021_06_MIA_JAX,oxfordcomma_,50
 2021_06_MIA_JAX,packeRanalytics,52
 2021_06_MIA_JAX,PanBulgaricus,44
 2021_06_MIA_JAX,PatriotsStatsR,47
@@ -36620,6 +36619,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,Starshipunicorn,40
 2021_06_MIA_JAX,StatsInTheWild,50
 2021_06_MIA_JAX,StatsWashington,42
+2021_06_MIA_JAX,stephenlacman,50
 2021_06_MIA_JAX,stevenskalman,17
 2021_06_MIA_JAX,steviej325,50
 2021_06_MIA_JAX,StillZam,39
@@ -36908,7 +36908,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,Odinbn,40
 2021_06_LAC_BAL,olivierlav,47
 2021_06_LAC_BAL,ostegall,60
-2021_06_LAC_BAL,oxfordcomma_,60
 2021_06_LAC_BAL,packeRanalytics,42
 2021_06_LAC_BAL,PanBulgaricus,45
 2021_06_LAC_BAL,PatriotsStatsR,35
@@ -36965,6 +36964,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,Starshipunicorn,36
 2021_06_LAC_BAL,StatsInTheWild,56
 2021_06_LAC_BAL,StatsWashington,60
+2021_06_LAC_BAL,stephenlacman,60
 2021_06_LAC_BAL,stevenskalman,35
 2021_06_LAC_BAL,steviej325,50
 2021_06_LAC_BAL,StillZam,64
@@ -37255,7 +37255,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,Odinbn,55
 2021_06_MIN_CAR,olivierlav,54
 2021_06_MIN_CAR,ostegall,58
-2021_06_MIN_CAR,oxfordcomma_,45
 2021_06_MIN_CAR,packeRanalytics,45
 2021_06_MIN_CAR,PanBulgaricus,43
 2021_06_MIN_CAR,PatriotsStatsR,40
@@ -37312,6 +37311,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,Starshipunicorn,60
 2021_06_MIN_CAR,StatsInTheWild,43
 2021_06_MIN_CAR,StatsWashington,45
+2021_06_MIN_CAR,stephenlacman,45
 2021_06_MIN_CAR,stevenskalman,29
 2021_06_MIN_CAR,steviej325,50
 2021_06_MIN_CAR,StillZam,52
@@ -37601,7 +37601,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,Odinbn,0
 2021_06_GB_CHI,olivierlav,28
 2021_06_GB_CHI,ostegall,38
-2021_06_GB_CHI,oxfordcomma_,32
 2021_06_GB_CHI,packeRanalytics,44
 2021_06_GB_CHI,PanBulgaricus,30
 2021_06_GB_CHI,PatriotsStatsR,0
@@ -37658,6 +37657,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,Starshipunicorn,30
 2021_06_GB_CHI,StatsInTheWild,28
 2021_06_GB_CHI,StatsWashington,32
+2021_06_GB_CHI,stephenlacman,32
 2021_06_GB_CHI,stevenskalman,58
 2021_06_GB_CHI,steviej325,50
 2021_06_GB_CHI,StillZam,22
@@ -37947,7 +37947,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,Odinbn,0
 2021_06_CIN_DET,olivierlav,30
 2021_06_CIN_DET,ostegall,59
-2021_06_CIN_DET,oxfordcomma_,37
 2021_06_CIN_DET,packeRanalytics,52
 2021_06_CIN_DET,PanBulgaricus,42
 2021_06_CIN_DET,PatriotsStatsR,36
@@ -38004,6 +38003,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,Starshipunicorn,40
 2021_06_CIN_DET,StatsInTheWild,32
 2021_06_CIN_DET,StatsWashington,37
+2021_06_CIN_DET,stephenlacman,37
 2021_06_CIN_DET,stevenskalman,58
 2021_06_CIN_DET,steviej325,50
 2021_06_CIN_DET,StillZam,43
@@ -38293,7 +38293,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,Odinbn,65
 2021_06_HOU_IND,olivierlav,65
 2021_06_HOU_IND,ostegall,74
-2021_06_HOU_IND,oxfordcomma_,79
 2021_06_HOU_IND,packeRanalytics,58
 2021_06_HOU_IND,PanBulgaricus,65
 2021_06_HOU_IND,PatriotsStatsR,54
@@ -38350,6 +38349,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,Starshipunicorn,68
 2021_06_HOU_IND,StatsInTheWild,81
 2021_06_HOU_IND,StatsWashington,79
+2021_06_HOU_IND,stephenlacman,79
 2021_06_HOU_IND,stevenskalman,58
 2021_06_HOU_IND,steviej325,50
 2021_06_HOU_IND,StillZam,74
@@ -38639,7 +38639,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,Odinbn,0
 2021_06_LA_NYG,olivierlav,13
 2021_06_LA_NYG,ostegall,27
-2021_06_LA_NYG,oxfordcomma_,25
 2021_06_LA_NYG,packeRanalytics,27
 2021_06_LA_NYG,PanBulgaricus,19
 2021_06_LA_NYG,PatriotsStatsR,0
@@ -38696,6 +38695,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,Starshipunicorn,20
 2021_06_LA_NYG,StatsInTheWild,18
 2021_06_LA_NYG,StatsWashington,25
+2021_06_LA_NYG,stephenlacman,25
 2021_06_LA_NYG,stevenskalman,25
 2021_06_LA_NYG,steviej325,50
 2021_06_LA_NYG,StillZam,36
@@ -38985,7 +38985,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,Odinbn,0
 2021_06_KC_WAS,olivierlav,18
 2021_06_KC_WAS,ostegall,37
-2021_06_KC_WAS,oxfordcomma_,29
 2021_06_KC_WAS,packeRanalytics,19
 2021_06_KC_WAS,PanBulgaricus,25
 2021_06_KC_WAS,PatriotsStatsR,0
@@ -39042,6 +39041,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,Starshipunicorn,20
 2021_06_KC_WAS,StatsInTheWild,25
 2021_06_KC_WAS,StatsWashington,29
+2021_06_KC_WAS,stephenlacman,29
 2021_06_KC_WAS,stevenskalman,54
 2021_06_KC_WAS,steviej325,50
 2021_06_KC_WAS,StillZam,22
@@ -39332,7 +39332,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,Odinbn,40
 2021_06_ARI_CLE,olivierlav,62
 2021_06_ARI_CLE,ostegall,33
-2021_06_ARI_CLE,oxfordcomma_,60
 2021_06_ARI_CLE,packeRanalytics,65
 2021_06_ARI_CLE,PanBulgaricus,45
 2021_06_ARI_CLE,PatriotsStatsR,47
@@ -39389,6 +39388,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,Starshipunicorn,58
 2021_06_ARI_CLE,StatsInTheWild,59
 2021_06_ARI_CLE,StatsWashington,60
+2021_06_ARI_CLE,stephenlacman,60
 2021_06_ARI_CLE,stevenskalman,64
 2021_06_ARI_CLE,steviej325,50
 2021_06_ARI_CLE,StillZam,49
@@ -39680,7 +39680,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,Odinbn,60
 2021_06_LV_DEN,olivierlav,60
 2021_06_LV_DEN,ostegall,33
-2021_06_LV_DEN,oxfordcomma_,60
 2021_06_LV_DEN,packeRanalytics,57
 2021_06_LV_DEN,PanBulgaricus,55
 2021_06_LV_DEN,PatriotsStatsR,47
@@ -39737,6 +39736,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,Starshipunicorn,64
 2021_06_LV_DEN,StatsInTheWild,64
 2021_06_LV_DEN,StatsWashington,67
+2021_06_LV_DEN,stephenlacman,60
 2021_06_LV_DEN,stevenskalman,50
 2021_06_LV_DEN,steviej325,50
 2021_06_LV_DEN,StillZam,63
@@ -40028,7 +40028,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,Odinbn,0
 2021_06_DAL_NE,olivierlav,38
 2021_06_DAL_NE,ostegall,28
-2021_06_DAL_NE,oxfordcomma_,36
 2021_06_DAL_NE,packeRanalytics,26
 2021_06_DAL_NE,PanBulgaricus,28
 2021_06_DAL_NE,PatriotsStatsR,55
@@ -40085,6 +40084,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,Starshipunicorn,20
 2021_06_DAL_NE,StatsInTheWild,48
 2021_06_DAL_NE,StatsWashington,36
+2021_06_DAL_NE,stephenlacman,36
 2021_06_DAL_NE,stevenskalman,61
 2021_06_DAL_NE,steviej325,50
 2021_06_DAL_NE,StillZam,37
@@ -40377,7 +40377,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,Odinbn,60
 2021_06_SEA_PIT,olivierlav,46
 2021_06_SEA_PIT,ostegall,65
-2021_06_SEA_PIT,oxfordcomma_,60
 2021_06_SEA_PIT,packeRanalytics,74
 2021_06_SEA_PIT,PanBulgaricus,47
 2021_06_SEA_PIT,PatriotsStatsR,55
@@ -40434,6 +40433,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,Starshipunicorn,60
 2021_06_SEA_PIT,StatsInTheWild,43
 2021_06_SEA_PIT,StatsWashington,67
+2021_06_SEA_PIT,stephenlacman,60
 2021_06_SEA_PIT,stevenskalman,78
 2021_06_SEA_PIT,steviej325,50
 2021_06_SEA_PIT,StillZam,66
@@ -40728,7 +40728,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,Odinbn,0
 2021_06_BUF_TEN,olivierlav,21
 2021_06_BUF_TEN,ostegall,30
-2021_06_BUF_TEN,oxfordcomma_,31
 2021_06_BUF_TEN,packeRanalytics,19
 2021_06_BUF_TEN,PanBulgaricus,31
 2021_06_BUF_TEN,PatriotsStatsR,32
@@ -40785,6 +40784,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,Starshipunicorn,20
 2021_06_BUF_TEN,StatsInTheWild,38
 2021_06_BUF_TEN,StatsWashington,31
+2021_06_BUF_TEN,stephenlacman,31
 2021_06_BUF_TEN,stevenskalman,43
 2021_06_BUF_TEN,steviej325,50
 2021_06_BUF_TEN,StillZam,29
@@ -41040,7 +41040,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,notvictorcc,41
 2021_07_DEN_CLE,Odinbn,40
 2021_07_DEN_CLE,ostegall,59
-2021_07_DEN_CLE,oxfordcomma_,50
 2021_07_DEN_CLE,packeRanalytics,54
 2021_07_DEN_CLE,PatriotsStatsR,41
 2021_07_DEN_CLE,PESMan66,19
@@ -41085,6 +41084,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,SportsandMath1,61
 2021_07_DEN_CLE,Staffenburgen,50
 2021_07_DEN_CLE,Starshipunicorn,42
+2021_07_DEN_CLE,stephenlacman,50
 2021_07_DEN_CLE,stevenskalman,80
 2021_07_DEN_CLE,stilak12,61
 2021_07_DEN_CLE,StillZam,50
@@ -41357,7 +41357,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,notvictorcc,100
 2021_07_CIN_BAL,Odinbn,100
 2021_07_CIN_BAL,ostegall,67
-2021_07_CIN_BAL,oxfordcomma_,50
 2021_07_CIN_BAL,packeRanalytics,84
 2021_07_CIN_BAL,PatriotsStatsR,63
 2021_07_CIN_BAL,PESMan66,91
@@ -41408,6 +41407,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,Staffenburgen,50
 2021_07_CIN_BAL,Starshipunicorn,68
 2021_07_CIN_BAL,StatsInTheWild,72
+2021_07_CIN_BAL,stephenlacman,50
 2021_07_CIN_BAL,stevenskalman,100
 2021_07_CIN_BAL,stilak12,63
 2021_07_CIN_BAL,StillZam,50
@@ -41687,7 +41687,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,notvictorcc,100
 2021_07_WAS_GB,Odinbn,100
 2021_07_WAS_GB,ostegall,72
-2021_07_WAS_GB,oxfordcomma_,50
 2021_07_WAS_GB,packeRanalytics,86
 2021_07_WAS_GB,PatriotsStatsR,100
 2021_07_WAS_GB,PESMan66,91
@@ -41738,6 +41737,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,Staffenburgen,50
 2021_07_WAS_GB,Starshipunicorn,81
 2021_07_WAS_GB,StatsInTheWild,73
+2021_07_WAS_GB,stephenlacman,50
 2021_07_WAS_GB,stevenskalman,68
 2021_07_WAS_GB,stilak12,64
 2021_07_WAS_GB,StillZam,50
@@ -42017,7 +42017,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,notvictorcc,45
 2021_07_ATL_MIA,Odinbn,30
 2021_07_ATL_MIA,ostegall,39
-2021_07_ATL_MIA,oxfordcomma_,50
 2021_07_ATL_MIA,packeRanalytics,54
 2021_07_ATL_MIA,PatriotsStatsR,36
 2021_07_ATL_MIA,PESMan66,34
@@ -42068,6 +42067,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,Staffenburgen,50
 2021_07_ATL_MIA,Starshipunicorn,54
 2021_07_ATL_MIA,StatsInTheWild,64
+2021_07_ATL_MIA,stephenlacman,50
 2021_07_ATL_MIA,stevenskalman,62
 2021_07_ATL_MIA,stilak12,45
 2021_07_ATL_MIA,StillZam,50
@@ -42347,7 +42347,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,notvictorcc,69
 2021_07_NYJ_NE,Odinbn,80
 2021_07_NYJ_NE,ostegall,65
-2021_07_NYJ_NE,oxfordcomma_,50
 2021_07_NYJ_NE,packeRanalytics,67
 2021_07_NYJ_NE,PatriotsStatsR,100
 2021_07_NYJ_NE,PESMan66,100
@@ -42398,6 +42397,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,Staffenburgen,50
 2021_07_NYJ_NE,Starshipunicorn,80
 2021_07_NYJ_NE,StatsInTheWild,72
+2021_07_NYJ_NE,stephenlacman,50
 2021_07_NYJ_NE,stevenskalman,100
 2021_07_NYJ_NE,stilak12,68
 2021_07_NYJ_NE,StillZam,50
@@ -42677,7 +42677,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,notvictorcc,57
 2021_07_CAR_NYG,Odinbn,30
 2021_07_CAR_NYG,ostegall,33
-2021_07_CAR_NYG,oxfordcomma_,50
 2021_07_CAR_NYG,packeRanalytics,38
 2021_07_CAR_NYG,PatriotsStatsR,45
 2021_07_CAR_NYG,PESMan66,1
@@ -42728,6 +42727,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,Staffenburgen,50
 2021_07_CAR_NYG,Starshipunicorn,30
 2021_07_CAR_NYG,StatsInTheWild,47
+2021_07_CAR_NYG,stephenlacman,50
 2021_07_CAR_NYG,stevenskalman,34
 2021_07_CAR_NYG,stilak12,35
 2021_07_CAR_NYG,StillZam,50
@@ -43007,7 +43007,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,notvictorcc,37
 2021_07_KC_TEN,Odinbn,2
 2021_07_KC_TEN,ostegall,42
-2021_07_KC_TEN,oxfordcomma_,50
 2021_07_KC_TEN,packeRanalytics,21
 2021_07_KC_TEN,PatriotsStatsR,0
 2021_07_KC_TEN,PESMan66,15
@@ -43058,6 +43057,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,Staffenburgen,50
 2021_07_KC_TEN,Starshipunicorn,32
 2021_07_KC_TEN,StatsInTheWild,27
+2021_07_KC_TEN,stephenlacman,50
 2021_07_KC_TEN,stevenskalman,63
 2021_07_KC_TEN,stilak12,43
 2021_07_KC_TEN,StillZam,50
@@ -43340,7 +43340,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,notvictorcc,100
 2021_07_DET_LA,Odinbn,100
 2021_07_DET_LA,ostegall,78
-2021_07_DET_LA,oxfordcomma_,50
 2021_07_DET_LA,packeRanalytics,76
 2021_07_DET_LA,PatriotsStatsR,100
 2021_07_DET_LA,PESMan66,100
@@ -43391,6 +43390,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,Staffenburgen,50
 2021_07_DET_LA,Starshipunicorn,82
 2021_07_DET_LA,StatsInTheWild,87
+2021_07_DET_LA,stephenlacman,50
 2021_07_DET_LA,stevenskalman,100
 2021_07_DET_LA,stilak12,75
 2021_07_DET_LA,StillZam,50
@@ -43673,7 +43673,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,notvictorcc,68
 2021_07_PHI_LV,Odinbn,82
 2021_07_PHI_LV,ostegall,59
-2021_07_PHI_LV,oxfordcomma_,50
 2021_07_PHI_LV,packeRanalytics,45
 2021_07_PHI_LV,PatriotsStatsR,56
 2021_07_PHI_LV,PESMan66,100
@@ -43724,6 +43723,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,Staffenburgen,50
 2021_07_PHI_LV,Starshipunicorn,60
 2021_07_PHI_LV,StatsInTheWild,65
+2021_07_PHI_LV,stephenlacman,50
 2021_07_PHI_LV,stevenskalman,62
 2021_07_PHI_LV,stilak12,59
 2021_07_PHI_LV,StillZam,50
@@ -44006,7 +44006,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,notvictorcc,100
 2021_07_HOU_ARI,Odinbn,100
 2021_07_HOU_ARI,ostegall,78
-2021_07_HOU_ARI,oxfordcomma_,50
 2021_07_HOU_ARI,packeRanalytics,82
 2021_07_HOU_ARI,PatriotsStatsR,100
 2021_07_HOU_ARI,PESMan66,100
@@ -44057,6 +44056,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,Staffenburgen,50
 2021_07_HOU_ARI,Starshipunicorn,82
 2021_07_HOU_ARI,StatsInTheWild,92
+2021_07_HOU_ARI,stephenlacman,50
 2021_07_HOU_ARI,stevenskalman,100
 2021_07_HOU_ARI,stilak12,100
 2021_07_HOU_ARI,StillZam,50
@@ -44339,7 +44339,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,notvictorcc,100
 2021_07_CHI_TB,Odinbn,100
 2021_07_CHI_TB,ostegall,75
-2021_07_CHI_TB,oxfordcomma_,50
 2021_07_CHI_TB,packeRanalytics,68
 2021_07_CHI_TB,PatriotsStatsR,100
 2021_07_CHI_TB,PESMan66,100
@@ -44390,6 +44389,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,Staffenburgen,50
 2021_07_CHI_TB,Starshipunicorn,76
 2021_07_CHI_TB,StatsInTheWild,85
+2021_07_CHI_TB,stephenlacman,50
 2021_07_CHI_TB,stevenskalman,100
 2021_07_CHI_TB,stilak12,61
 2021_07_CHI_TB,StillZam,50
@@ -44675,7 +44675,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,notvictorcc,61
 2021_07_IND_SF,Odinbn,65
 2021_07_IND_SF,ostegall,43
-2021_07_IND_SF,oxfordcomma_,50
 2021_07_IND_SF,packeRanalytics,61
 2021_07_IND_SF,PatriotsStatsR,53
 2021_07_IND_SF,PESMan66,67
@@ -44726,6 +44725,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,Staffenburgen,50
 2021_07_IND_SF,Starshipunicorn,67
 2021_07_IND_SF,StatsInTheWild,63
+2021_07_IND_SF,stephenlacman,50
 2021_07_IND_SF,stevenskalman,54
 2021_07_IND_SF,stilak12,47
 2021_07_IND_SF,StillZam,50
@@ -45012,7 +45012,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,notvictorcc,60
 2021_07_NO_SEA,Odinbn,28
 2021_07_NO_SEA,ostegall,39
-2021_07_NO_SEA,oxfordcomma_,50
 2021_07_NO_SEA,packeRanalytics,17
 2021_07_NO_SEA,PatriotsStatsR,42
 2021_07_NO_SEA,PESMan66,24
@@ -45063,6 +45062,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,Staffenburgen,50
 2021_07_NO_SEA,Starshipunicorn,38
 2021_07_NO_SEA,StatsInTheWild,40
+2021_07_NO_SEA,stephenlacman,50
 2021_07_NO_SEA,stevenskalman,72
 2021_07_NO_SEA,stilak12,42
 2021_07_NO_SEA,StillZam,50
@@ -45610,7 +45610,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,notvictorcc,61
 2021_08_CAR_ATL,Odinbn,70
 2021_08_CAR_ATL,ostegall,69
-2021_08_CAR_ATL,oxfordcomma_,58
 2021_08_CAR_ATL,packeRanalytics,42
 2021_08_CAR_ATL,PESMan66,68
 2021_08_CAR_ATL,PeteESunshine,50
@@ -45661,6 +45660,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,Staffenburgen,50
 2021_08_CAR_ATL,Starshipunicorn,48
 2021_08_CAR_ATL,StatsInTheWild,67
+2021_08_CAR_ATL,stephenlacman,58
 2021_08_CAR_ATL,stevenskalman,71
 2021_08_CAR_ATL,stilak12,45
 2021_08_CAR_ATL,survanta1,50
@@ -45920,7 +45920,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,notvictorcc,100
 2021_08_MIA_BUF,Odinbn,100
 2021_08_MIA_BUF,ostegall,73
-2021_08_MIA_BUF,oxfordcomma_,100
 2021_08_MIA_BUF,packeRanalytics,78
 2021_08_MIA_BUF,PESMan66,100
 2021_08_MIA_BUF,PeteESunshine,50
@@ -45971,6 +45970,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,Staffenburgen,50
 2021_08_MIA_BUF,Starshipunicorn,75
 2021_08_MIA_BUF,StatsInTheWild,93
+2021_08_MIA_BUF,stephenlacman,100
 2021_08_MIA_BUF,stevenskalman,100
 2021_08_MIA_BUF,stilak12,82
 2021_08_MIA_BUF,survanta1,50
@@ -46230,7 +46230,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,notvictorcc,39
 2021_08_SF_CHI,Odinbn,31
 2021_08_SF_CHI,ostegall,59
-2021_08_SF_CHI,oxfordcomma_,40
 2021_08_SF_CHI,packeRanalytics,18
 2021_08_SF_CHI,PESMan66,15
 2021_08_SF_CHI,PeteESunshine,50
@@ -46281,6 +46280,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,Staffenburgen,50
 2021_08_SF_CHI,Starshipunicorn,54
 2021_08_SF_CHI,StatsInTheWild,35
+2021_08_SF_CHI,stephenlacman,40
 2021_08_SF_CHI,stevenskalman,58
 2021_08_SF_CHI,stilak12,41
 2021_08_SF_CHI,survanta1,50
@@ -46540,7 +46540,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,notvictorcc,87
 2021_08_PIT_CLE,Odinbn,45
 2021_08_PIT_CLE,ostegall,40
-2021_08_PIT_CLE,oxfordcomma_,66
 2021_08_PIT_CLE,packeRanalytics,56
 2021_08_PIT_CLE,PESMan66,22
 2021_08_PIT_CLE,PeteESunshine,50
@@ -46591,6 +46590,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,Staffenburgen,50
 2021_08_PIT_CLE,Starshipunicorn,69
 2021_08_PIT_CLE,StatsInTheWild,69
+2021_08_PIT_CLE,stephenlacman,66
 2021_08_PIT_CLE,stevenskalman,68
 2021_08_PIT_CLE,stilak12,68
 2021_08_PIT_CLE,survanta1,50
@@ -46849,7 +46849,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,notvictorcc,81
 2021_08_PHI_DET,Odinbn,35
 2021_08_PHI_DET,ostegall,59
-2021_08_PHI_DET,oxfordcomma_,39
 2021_08_PHI_DET,packeRanalytics,54
 2021_08_PHI_DET,PESMan66,0
 2021_08_PHI_DET,PeteESunshine,50
@@ -46900,6 +46899,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,Staffenburgen,50
 2021_08_PHI_DET,Starshipunicorn,47
 2021_08_PHI_DET,StatsInTheWild,27
+2021_08_PHI_DET,stephenlacman,39
 2021_08_PHI_DET,stevenskalman,56
 2021_08_PHI_DET,stilak12,38
 2021_08_PHI_DET,survanta1,50
@@ -47159,7 +47159,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,notvictorcc,0
 2021_08_LA_HOU,Odinbn,0
 2021_08_LA_HOU,ostegall,26
-2021_08_LA_HOU,oxfordcomma_,0
 2021_08_LA_HOU,packeRanalytics,7
 2021_08_LA_HOU,PESMan66,0
 2021_08_LA_HOU,PeteESunshine,50
@@ -47210,6 +47209,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,Staffenburgen,50
 2021_08_LA_HOU,Starshipunicorn,15
 2021_08_LA_HOU,StatsInTheWild,0
+2021_08_LA_HOU,stephenlacman,0
 2021_08_LA_HOU,stevenskalman,0
 2021_08_LA_HOU,stilak12,17
 2021_08_LA_HOU,survanta1,50
@@ -47469,7 +47469,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,notvictorcc,27
 2021_08_TEN_IND,Odinbn,60
 2021_08_TEN_IND,ostegall,41
-2021_08_TEN_IND,oxfordcomma_,52
 2021_08_TEN_IND,packeRanalytics,47
 2021_08_TEN_IND,PESMan66,16
 2021_08_TEN_IND,PeteESunshine,50
@@ -47520,6 +47519,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,Staffenburgen,50
 2021_08_TEN_IND,Starshipunicorn,44
 2021_08_TEN_IND,StatsInTheWild,33
+2021_08_TEN_IND,stephenlacman,52
 2021_08_TEN_IND,stevenskalman,50
 2021_08_TEN_IND,stilak12,45
 2021_08_TEN_IND,survanta1,50
@@ -47779,7 +47779,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,notvictorcc,24
 2021_08_CIN_NYJ,Odinbn,0
 2021_08_CIN_NYJ,ostegall,31
-2021_08_CIN_NYJ,oxfordcomma_,0
 2021_08_CIN_NYJ,packeRanalytics,37
 2021_08_CIN_NYJ,PESMan66,0
 2021_08_CIN_NYJ,PeteESunshine,50
@@ -47830,6 +47829,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,Staffenburgen,50
 2021_08_CIN_NYJ,Starshipunicorn,22
 2021_08_CIN_NYJ,StatsInTheWild,18
+2021_08_CIN_NYJ,stephenlacman,0
 2021_08_CIN_NYJ,stevenskalman,50
 2021_08_CIN_NYJ,stilak12,26
 2021_08_CIN_NYJ,survanta1,50
@@ -48089,7 +48089,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,notvictorcc,73
 2021_08_NE_LAC,Odinbn,70
 2021_08_NE_LAC,ostegall,67
-2021_08_NE_LAC,oxfordcomma_,64
 2021_08_NE_LAC,packeRanalytics,83
 2021_08_NE_LAC,PESMan66,79
 2021_08_NE_LAC,PeteESunshine,50
@@ -48140,6 +48139,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,Staffenburgen,50
 2021_08_NE_LAC,Starshipunicorn,56
 2021_08_NE_LAC,StatsInTheWild,72
+2021_08_NE_LAC,stephenlacman,64
 2021_08_NE_LAC,stevenskalman,82
 2021_08_NE_LAC,stilak12,57
 2021_08_NE_LAC,survanta1,65
@@ -48399,7 +48399,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,notvictorcc,68
 2021_08_JAX_SEA,Odinbn,45
 2021_08_JAX_SEA,ostegall,40
-2021_08_JAX_SEA,oxfordcomma_,64
 2021_08_JAX_SEA,packeRanalytics,46
 2021_08_JAX_SEA,PESMan66,96
 2021_08_JAX_SEA,PeteESunshine,50
@@ -48450,6 +48449,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,Staffenburgen,50
 2021_08_JAX_SEA,Starshipunicorn,60
 2021_08_JAX_SEA,StatsInTheWild,58
+2021_08_JAX_SEA,stephenlacman,64
 2021_08_JAX_SEA,stevenskalman,50
 2021_08_JAX_SEA,stilak12,62
 2021_08_JAX_SEA,survanta1,40
@@ -48709,7 +48709,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,notvictorcc,49
 2021_08_WAS_DEN,Odinbn,65
 2021_08_WAS_DEN,ostegall,41
-2021_08_WAS_DEN,oxfordcomma_,63
 2021_08_WAS_DEN,packeRanalytics,63
 2021_08_WAS_DEN,PESMan66,76
 2021_08_WAS_DEN,PeteESunshine,50
@@ -48760,6 +48759,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,Staffenburgen,50
 2021_08_WAS_DEN,Starshipunicorn,58
 2021_08_WAS_DEN,StatsInTheWild,64
+2021_08_WAS_DEN,stephenlacman,63
 2021_08_WAS_DEN,stevenskalman,50
 2021_08_WAS_DEN,stilak12,59
 2021_08_WAS_DEN,survanta1,40
@@ -49019,7 +49019,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,notvictorcc,31
 2021_08_TB_NO,Odinbn,0
 2021_08_TB_NO,ostegall,35
-2021_08_TB_NO,oxfordcomma_,35
 2021_08_TB_NO,packeRanalytics,41
 2021_08_TB_NO,PESMan66,0
 2021_08_TB_NO,PeteESunshine,50
@@ -49070,6 +49069,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,Staffenburgen,50
 2021_08_TB_NO,Starshipunicorn,34
 2021_08_TB_NO,StatsInTheWild,25
+2021_08_TB_NO,stephenlacman,35
 2021_08_TB_NO,stevenskalman,50
 2021_08_TB_NO,stilak12,29
 2021_08_TB_NO,survanta1,15
@@ -49330,7 +49330,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,notvictorcc,58
 2021_08_DAL_MIN,Odinbn,49
 2021_08_DAL_MIN,ostegall,38
-2021_08_DAL_MIN,oxfordcomma_,59
 2021_08_DAL_MIN,packeRanalytics,75
 2021_08_DAL_MIN,PESMan66,24
 2021_08_DAL_MIN,PeteESunshine,50
@@ -49382,6 +49381,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,Staffenburgen,50
 2021_08_DAL_MIN,Starshipunicorn,46
 2021_08_DAL_MIN,StatsInTheWild,10
+2021_08_DAL_MIN,stephenlacman,59
 2021_08_DAL_MIN,stevenskalman,50
 2021_08_DAL_MIN,stilak12,56
 2021_08_DAL_MIN,survanta1,65
@@ -49646,7 +49646,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,notvictorcc,72
 2021_08_NYG_KC,Odinbn,86
 2021_08_NYG_KC,ostegall,61
-2021_08_NYG_KC,oxfordcomma_,80
 2021_08_NYG_KC,packeRanalytics,84
 2021_08_NYG_KC,PESMan66,100
 2021_08_NYG_KC,PeteESunshine,50
@@ -49698,6 +49697,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,Staffenburgen,50
 2021_08_NYG_KC,Starshipunicorn,70
 2021_08_NYG_KC,StatsInTheWild,78
+2021_08_NYG_KC,stephenlacman,80
 2021_08_NYG_KC,stevenskalman,50
 2021_08_NYG_KC,stilak12,85
 2021_08_NYG_KC,survanta1,90
@@ -49958,7 +49958,6 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,notvictorcc,79
 2021_09_NYJ_IND,ocdobv,100
 2021_09_NYJ_IND,ostegall,69
-2021_09_NYJ_IND,oxfordcomma_,50
 2021_09_NYJ_IND,packeRanalytics,76
 2021_09_NYJ_IND,PCdoBettor,50
 2021_09_NYJ_IND,PeytonWarren28,50
@@ -50002,6 +50001,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,spurs158,75
 2021_09_NYJ_IND,Staffenburgen,50
 2021_09_NYJ_IND,Starshipunicorn,61
+2021_09_NYJ_IND,stephenlacman,50
 2021_09_NYJ_IND,stilak12,70
 2021_09_NYJ_IND,survanta1,60
 2021_09_NYJ_IND,Tariqorange,100
@@ -50271,7 +50271,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,notvictorcc,80
 2021_09_MIN_BAL,ocdobv,90
 2021_09_MIN_BAL,ostegall,65
-2021_09_MIN_BAL,oxfordcomma_,70
 2021_09_MIN_BAL,packeRanalytics,81
 2021_09_MIN_BAL,PCdoBettor,55
 2021_09_MIN_BAL,PeteESunshine,91
@@ -50322,6 +50321,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,Staffenburgen,50
 2021_09_MIN_BAL,Starshipunicorn,80
 2021_09_MIN_BAL,StatsInTheWild,50
+2021_09_MIN_BAL,stephenlacman,70
 2021_09_MIN_BAL,stilak12,65
 2021_09_MIN_BAL,survanta1,60
 2021_09_MIN_BAL,Tariqorange,65
@@ -50595,7 +50595,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,notvictorcc,35
 2021_09_NE_CAR,ocdobv,50
 2021_09_NE_CAR,ostegall,37
-2021_09_NE_CAR,oxfordcomma_,38
 2021_09_NE_CAR,packeRanalytics,18
 2021_09_NE_CAR,PCdoBettor,40
 2021_09_NE_CAR,PeteESunshine,50
@@ -50646,6 +50645,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,Staffenburgen,50
 2021_09_NE_CAR,Starshipunicorn,40
 2021_09_NE_CAR,StatsInTheWild,50
+2021_09_NE_CAR,stephenlacman,38
 2021_09_NE_CAR,stilak12,40
 2021_09_NE_CAR,survanta1,45
 2021_09_NE_CAR,Tariqorange,80
@@ -50919,7 +50919,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,notvictorcc,59
 2021_09_CLE_CIN,ocdobv,50
 2021_09_CLE_CIN,ostegall,67
-2021_09_CLE_CIN,oxfordcomma_,55
 2021_09_CLE_CIN,packeRanalytics,44
 2021_09_CLE_CIN,PCdoBettor,49
 2021_09_CLE_CIN,PeteESunshine,50
@@ -50970,6 +50969,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,Staffenburgen,50
 2021_09_CLE_CIN,Starshipunicorn,46
 2021_09_CLE_CIN,StatsInTheWild,50
+2021_09_CLE_CIN,stephenlacman,55
 2021_09_CLE_CIN,stilak12,45
 2021_09_CLE_CIN,survanta1,18
 2021_09_CLE_CIN,Tariqorange,90
@@ -51243,7 +51243,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,notvictorcc,73
 2021_09_DEN_DAL,ocdobv,100
 2021_09_DEN_DAL,ostegall,68
-2021_09_DEN_DAL,oxfordcomma_,78
 2021_09_DEN_DAL,packeRanalytics,86
 2021_09_DEN_DAL,PCdoBettor,62
 2021_09_DEN_DAL,PeteESunshine,50
@@ -51294,6 +51293,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,Staffenburgen,50
 2021_09_DEN_DAL,Starshipunicorn,64
 2021_09_DEN_DAL,StatsInTheWild,50
+2021_09_DEN_DAL,stephenlacman,78
 2021_09_DEN_DAL,stilak12,70
 2021_09_DEN_DAL,survanta1,75
 2021_09_DEN_DAL,Tariqorange,45
@@ -51567,7 +51567,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,notvictorcc,0
 2021_09_BUF_JAX,ocdobv,0
 2021_09_BUF_JAX,ostegall,27
-2021_09_BUF_JAX,oxfordcomma_,12
 2021_09_BUF_JAX,packeRanalytics,3
 2021_09_BUF_JAX,PCdoBettor,32
 2021_09_BUF_JAX,PeteESunshine,50
@@ -51618,6 +51617,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,Staffenburgen,50
 2021_09_BUF_JAX,Starshipunicorn,28
 2021_09_BUF_JAX,StatsInTheWild,50
+2021_09_BUF_JAX,stephenlacman,12
 2021_09_BUF_JAX,stilak12,10
 2021_09_BUF_JAX,survanta1,0
 2021_09_BUF_JAX,Tariqorange,0
@@ -51891,7 +51891,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,notvictorcc,84
 2021_09_HOU_MIA,ocdobv,70
 2021_09_HOU_MIA,ostegall,44
-2021_09_HOU_MIA,oxfordcomma_,55
 2021_09_HOU_MIA,packeRanalytics,70
 2021_09_HOU_MIA,PCdoBettor,38
 2021_09_HOU_MIA,PeteESunshine,50
@@ -51942,6 +51941,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,Staffenburgen,50
 2021_09_HOU_MIA,Starshipunicorn,58
 2021_09_HOU_MIA,StatsInTheWild,50
+2021_09_HOU_MIA,stephenlacman,55
 2021_09_HOU_MIA,stilak12,60
 2021_09_HOU_MIA,survanta1,60
 2021_09_HOU_MIA,Tariqorange,65
@@ -52215,7 +52215,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,notvictorcc,71
 2021_09_ATL_NO,ocdobv,90
 2021_09_ATL_NO,ostegall,66
-2021_09_ATL_NO,oxfordcomma_,70
 2021_09_ATL_NO,packeRanalytics,76
 2021_09_ATL_NO,PCdoBettor,53
 2021_09_ATL_NO,PeteESunshine,50
@@ -52266,6 +52265,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,Staffenburgen,50
 2021_09_ATL_NO,Starshipunicorn,70
 2021_09_ATL_NO,StatsInTheWild,50
+2021_09_ATL_NO,stephenlacman,70
 2021_09_ATL_NO,stilak12,68
 2021_09_ATL_NO,survanta1,60
 2021_09_ATL_NO,Tariqorange,80
@@ -52539,7 +52539,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,notvictorcc,29
 2021_09_LV_NYG,ocdobv,50
 2021_09_LV_NYG,ostegall,33
-2021_09_LV_NYG,oxfordcomma_,40
 2021_09_LV_NYG,packeRanalytics,46
 2021_09_LV_NYG,PCdoBettor,31
 2021_09_LV_NYG,PeteESunshine,50
@@ -52590,6 +52589,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,Staffenburgen,50
 2021_09_LV_NYG,Starshipunicorn,43
 2021_09_LV_NYG,StatsInTheWild,50
+2021_09_LV_NYG,stephenlacman,40
 2021_09_LV_NYG,stilak12,40
 2021_09_LV_NYG,survanta1,30
 2021_09_LV_NYG,Tariqorange,0
@@ -52867,7 +52867,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,ocdobv,50
 2021_09_LAC_PHI,Odinbn,50
 2021_09_LAC_PHI,ostegall,60
-2021_09_LAC_PHI,oxfordcomma_,46
 2021_09_LAC_PHI,packeRanalytics,21
 2021_09_LAC_PHI,PCdoBettor,46
 2021_09_LAC_PHI,PeteESunshine,50
@@ -52918,6 +52917,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,Staffenburgen,50
 2021_09_LAC_PHI,Starshipunicorn,36
 2021_09_LAC_PHI,StatsInTheWild,50
+2021_09_LAC_PHI,stephenlacman,46
 2021_09_LAC_PHI,stilak12,36
 2021_09_LAC_PHI,survanta1,40
 2021_09_LAC_PHI,Tariqorange,30
@@ -53195,7 +53195,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,ocdobv,100
 2021_09_GB_KC,Odinbn,50
 2021_09_GB_KC,ostegall,66
-2021_09_GB_KC,oxfordcomma_,74
 2021_09_GB_KC,packeRanalytics,76
 2021_09_GB_KC,PCdoBettor,63
 2021_09_GB_KC,PeteESunshine,50
@@ -53246,6 +53245,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,Staffenburgen,50
 2021_09_GB_KC,Starshipunicorn,64
 2021_09_GB_KC,StatsInTheWild,69
+2021_09_GB_KC,stephenlacman,74
 2021_09_GB_KC,stilak12,42
 2021_09_GB_KC,survanta1,89
 2021_09_GB_KC,Tariqorange,60
@@ -53523,7 +53523,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,ocdobv,50
 2021_09_ARI_SF,Odinbn,50
 2021_09_ARI_SF,ostegall,57
-2021_09_ARI_SF,oxfordcomma_,55
 2021_09_ARI_SF,packeRanalytics,62
 2021_09_ARI_SF,PCdoBettor,47
 2021_09_ARI_SF,PeteESunshine,50
@@ -53574,6 +53573,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,Staffenburgen,50
 2021_09_ARI_SF,Starshipunicorn,44
 2021_09_ARI_SF,StatsInTheWild,2
+2021_09_ARI_SF,stephenlacman,55
 2021_09_ARI_SF,stilak12,34
 2021_09_ARI_SF,survanta1,72
 2021_09_ARI_SF,Tariqorange,85
@@ -53854,7 +53854,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,ocdobv,100
 2021_09_TEN_LA,Odinbn,50
 2021_09_TEN_LA,ostegall,71
-2021_09_TEN_LA,oxfordcomma_,74
 2021_09_TEN_LA,packeRanalytics,58
 2021_09_TEN_LA,PCdoBettor,58
 2021_09_TEN_LA,PeteESunshine,50
@@ -53905,6 +53904,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,Staffenburgen,50
 2021_09_TEN_LA,Starshipunicorn,75
 2021_09_TEN_LA,StatsInTheWild,63
+2021_09_TEN_LA,stephenlacman,74
 2021_09_TEN_LA,stilak12,65
 2021_09_TEN_LA,survanta1,45
 2021_09_TEN_LA,Tariqorange,65
@@ -54192,7 +54192,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,ocdobv,90
 2021_09_CHI_PIT,Odinbn,50
 2021_09_CHI_PIT,ostegall,70
-2021_09_CHI_PIT,oxfordcomma_,65
 2021_09_CHI_PIT,packeRanalytics,62
 2021_09_CHI_PIT,PCdoBettor,60
 2021_09_CHI_PIT,PeteESunshine,50
@@ -54243,6 +54242,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,Staffenburgen,50
 2021_09_CHI_PIT,Starshipunicorn,54
 2021_09_CHI_PIT,StatsInTheWild,72
+2021_09_CHI_PIT,stephenlacman,65
 2021_09_CHI_PIT,stilak12,62
 2021_09_CHI_PIT,survanta1,45
 2021_09_CHI_PIT,Tariqorange,100
@@ -54492,7 +54492,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,ocdobv,35
 2021_10_BAL_MIA,oscarintx,0
 2021_10_BAL_MIA,ostegall,41
-2021_10_BAL_MIA,oxfordcomma_,22
 2021_10_BAL_MIA,packeRanalytics,15
 2021_10_BAL_MIA,PCdoBettor,27
 2021_10_BAL_MIA,PFF_Eric,24
@@ -54532,6 +54531,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,Starshipunicorn,18
 2021_10_BAL_MIA,stat_butler,50
 2021_10_BAL_MIA,StatsInTheWild,50
+2021_10_BAL_MIA,stephenlacman,22
 2021_10_BAL_MIA,steviej325,15
 2021_10_BAL_MIA,stilak12,20
 2021_10_BAL_MIA,survanta1,50
@@ -54795,7 +54795,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,ocdobv,69
 2021_10_ATL_DAL,oscarintx,100
 2021_10_ATL_DAL,ostegall,70
-2021_10_ATL_DAL,oxfordcomma_,77
 2021_10_ATL_DAL,packeRanalytics,81
 2021_10_ATL_DAL,PCdoBettor,62
 2021_10_ATL_DAL,PFF_Eric,50
@@ -54839,6 +54838,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,Starshipunicorn,78
 2021_10_ATL_DAL,stat_butler,50
 2021_10_ATL_DAL,StatsInTheWild,65
+2021_10_ATL_DAL,stephenlacman,77
 2021_10_ATL_DAL,steviej325,57
 2021_10_ATL_DAL,stilak12,72
 2021_10_ATL_DAL,survanta1,50
@@ -55104,7 +55104,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,ocdobv,70
 2021_10_JAX_IND,oscarintx,81
 2021_10_JAX_IND,ostegall,70
-2021_10_JAX_IND,oxfordcomma_,79
 2021_10_JAX_IND,packeRanalytics,66
 2021_10_JAX_IND,PCdoBettor,69
 2021_10_JAX_IND,PFF_Eric,50
@@ -55148,6 +55147,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,Starshipunicorn,70
 2021_10_JAX_IND,stat_butler,50
 2021_10_JAX_IND,StatsInTheWild,66
+2021_10_JAX_IND,stephenlacman,79
 2021_10_JAX_IND,steviej325,86
 2021_10_JAX_IND,stilak12,66
 2021_10_JAX_IND,survanta1,50
@@ -55413,7 +55413,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,ocdobv,53
 2021_10_CLE_NE,oscarintx,74
 2021_10_CLE_NE,ostegall,30
-2021_10_CLE_NE,oxfordcomma_,49
 2021_10_CLE_NE,packeRanalytics,68
 2021_10_CLE_NE,PCdoBettor,43
 2021_10_CLE_NE,PFF_Eric,50
@@ -55457,6 +55456,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,Starshipunicorn,45
 2021_10_CLE_NE,stat_butler,50
 2021_10_CLE_NE,StatsInTheWild,42
+2021_10_CLE_NE,stephenlacman,49
 2021_10_CLE_NE,steviej325,42
 2021_10_CLE_NE,stilak12,45
 2021_10_CLE_NE,survanta1,50
@@ -55722,7 +55722,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,ocdobv,28
 2021_10_BUF_NYJ,oscarintx,0
 2021_10_BUF_NYJ,ostegall,0
-2021_10_BUF_NYJ,oxfordcomma_,15
 2021_10_BUF_NYJ,packeRanalytics,12
 2021_10_BUF_NYJ,PCdoBettor,28
 2021_10_BUF_NYJ,PFF_Eric,50
@@ -55766,6 +55765,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,Starshipunicorn,24
 2021_10_BUF_NYJ,stat_butler,50
 2021_10_BUF_NYJ,StatsInTheWild,0
+2021_10_BUF_NYJ,stephenlacman,15
 2021_10_BUF_NYJ,steviej325,0
 2021_10_BUF_NYJ,stilak12,15
 2021_10_BUF_NYJ,survanta1,50
@@ -56031,7 +56031,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,ocdobv,63
 2021_10_DET_PIT,oscarintx,100
 2021_10_DET_PIT,ostegall,75
-2021_10_DET_PIT,oxfordcomma_,61
 2021_10_DET_PIT,packeRanalytics,58
 2021_10_DET_PIT,PCdoBettor,58
 2021_10_DET_PIT,PFF_Eric,50
@@ -56075,6 +56074,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,Starshipunicorn,45
 2021_10_DET_PIT,stat_butler,50
 2021_10_DET_PIT,StatsInTheWild,83
+2021_10_DET_PIT,stephenlacman,61
 2021_10_DET_PIT,steviej325,45
 2021_10_DET_PIT,stilak12,64
 2021_10_DET_PIT,survanta1,50
@@ -56340,7 +56340,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,ocdobv,54
 2021_10_NO_TEN,oscarintx,69
 2021_10_NO_TEN,ostegall,60
-2021_10_NO_TEN,oxfordcomma_,58
 2021_10_NO_TEN,packeRanalytics,66
 2021_10_NO_TEN,PCdoBettor,65
 2021_10_NO_TEN,PFF_Eric,50
@@ -56384,6 +56383,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,Starshipunicorn,60
 2021_10_NO_TEN,stat_butler,50
 2021_10_NO_TEN,StatsInTheWild,63
+2021_10_NO_TEN,stephenlacman,58
 2021_10_NO_TEN,steviej325,65
 2021_10_NO_TEN,stilak12,67
 2021_10_NO_TEN,survanta1,50
@@ -56649,7 +56649,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,ocdobv,35
 2021_10_TB_WAS,oscarintx,0
 2021_10_TB_WAS,ostegall,25
-2021_10_TB_WAS,oxfordcomma_,21
 2021_10_TB_WAS,packeRanalytics,12
 2021_10_TB_WAS,PCdoBettor,42
 2021_10_TB_WAS,PFF_Eric,50
@@ -56693,6 +56692,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,Starshipunicorn,21
 2021_10_TB_WAS,stat_butler,50
 2021_10_TB_WAS,StatsInTheWild,29
+2021_10_TB_WAS,stephenlacman,21
 2021_10_TB_WAS,steviej325,8
 2021_10_TB_WAS,stilak12,20
 2021_10_TB_WAS,survanta1,50
@@ -56958,7 +56958,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,ocdobv,65
 2021_10_CAR_ARI,oscarintx,100
 2021_10_CAR_ARI,ostegall,100
-2021_10_CAR_ARI,oxfordcomma_,79
 2021_10_CAR_ARI,packeRanalytics,75
 2021_10_CAR_ARI,PCdoBettor,83
 2021_10_CAR_ARI,PFF_Eric,50
@@ -57002,6 +57001,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,Starshipunicorn,76
 2021_10_CAR_ARI,stat_butler,50
 2021_10_CAR_ARI,StatsInTheWild,68
+2021_10_CAR_ARI,stephenlacman,79
 2021_10_CAR_ARI,steviej325,61
 2021_10_CAR_ARI,stilak12,72
 2021_10_CAR_ARI,survanta1,50
@@ -57267,7 +57267,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,ocdobv,55
 2021_10_MIN_LAC,oscarintx,76
 2021_10_MIN_LAC,ostegall,40
-2021_10_MIN_LAC,oxfordcomma_,61
 2021_10_MIN_LAC,packeRanalytics,77
 2021_10_MIN_LAC,PCdoBettor,59
 2021_10_MIN_LAC,PFF_Eric,50
@@ -57311,6 +57310,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,Starshipunicorn,69
 2021_10_MIN_LAC,stat_butler,50
 2021_10_MIN_LAC,StatsInTheWild,79
+2021_10_MIN_LAC,stephenlacman,61
 2021_10_MIN_LAC,steviej325,66
 2021_10_MIN_LAC,stilak12,61
 2021_10_MIN_LAC,survanta1,50
@@ -57576,7 +57576,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,ocdobv,53
 2021_10_PHI_DEN,oscarintx,100
 2021_10_PHI_DEN,ostegall,70
-2021_10_PHI_DEN,oxfordcomma_,55
 2021_10_PHI_DEN,packeRanalytics,42
 2021_10_PHI_DEN,PCdoBettor,38
 2021_10_PHI_DEN,PFF_Eric,50
@@ -57620,6 +57619,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,Starshipunicorn,73
 2021_10_PHI_DEN,stat_butler,50
 2021_10_PHI_DEN,StatsInTheWild,42
+2021_10_PHI_DEN,stephenlacman,55
 2021_10_PHI_DEN,steviej325,46
 2021_10_PHI_DEN,stilak12,54
 2021_10_PHI_DEN,survanta1,50
@@ -57885,7 +57885,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,ocdobv,56
 2021_10_SEA_GB,oscarintx,78
 2021_10_SEA_GB,ostegall,60
-2021_10_SEA_GB,oxfordcomma_,63
 2021_10_SEA_GB,packeRanalytics,37
 2021_10_SEA_GB,PCdoBettor,63
 2021_10_SEA_GB,PFF_Eric,50
@@ -57929,6 +57928,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,Starshipunicorn,72
 2021_10_SEA_GB,stat_butler,50
 2021_10_SEA_GB,StatsInTheWild,37
+2021_10_SEA_GB,stephenlacman,63
 2021_10_SEA_GB,steviej325,43
 2021_10_SEA_GB,stilak12,66
 2021_10_SEA_GB,survanta1,50
@@ -58196,7 +58196,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,ocdobv,46
 2021_10_KC_LV,oscarintx,24
 2021_10_KC_LV,ostegall,50
-2021_10_KC_LV,oxfordcomma_,43
 2021_10_KC_LV,packeRanalytics,35
 2021_10_KC_LV,PCdoBettor,50
 2021_10_KC_LV,PFF_Eric,50
@@ -58240,6 +58239,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,Starshipunicorn,57
 2021_10_KC_LV,stat_butler,50
 2021_10_KC_LV,StatsInTheWild,38
+2021_10_KC_LV,stephenlacman,43
 2021_10_KC_LV,steviej325,29
 2021_10_KC_LV,stilak12,35
 2021_10_KC_LV,survanta1,50
@@ -58513,7 +58513,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,ocdobv,43
 2021_10_LA_SF,oscarintx,25
 2021_10_LA_SF,ostegall,30
-2021_10_LA_SF,oxfordcomma_,37
 2021_10_LA_SF,packeRanalytics,37
 2021_10_LA_SF,PCdoBettor,36
 2021_10_LA_SF,PFF_Eric,43
@@ -58557,6 +58556,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,Starshipunicorn,16
 2021_10_LA_SF,stat_butler,50
 2021_10_LA_SF,StatsInTheWild,27
+2021_10_LA_SF,stephenlacman,37
 2021_10_LA_SF,steviej325,43
 2021_10_LA_SF,stilak12,36
 2021_10_LA_SF,survanta1,50
@@ -58797,7 +58797,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,noahrmiller,32
 2021_11_NE_ATL,ocdobv,40
 2021_11_NE_ATL,ostegall,50
-2021_11_NE_ATL,oxfordcomma_,25
 2021_11_NE_ATL,packeRanalytics,36
 2021_11_NE_ATL,PCdoBettor,31
 2021_11_NE_ATL,PFF_Eric,50
@@ -58839,6 +58838,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,SportsandMath1,34
 2021_11_NE_ATL,Starshipunicorn,36
 2021_11_NE_ATL,StatsInTheWild,50
+2021_11_NE_ATL,stephenlacman,25
 2021_11_NE_ATL,stilak12,22
 2021_11_NE_ATL,TDC331,0
 2021_11_NE_ATL,TDSC07,30
@@ -59077,7 +59077,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,ocdobv,62
 2021_11_IND_BUF,oscarjonesslc1,90
 2021_11_IND_BUF,ostegall,50
-2021_11_IND_BUF,oxfordcomma_,73
 2021_11_IND_BUF,packeRanalytics,79
 2021_11_IND_BUF,PCdoBettor,50
 2021_11_IND_BUF,PeteESunshine,50
@@ -59121,6 +59120,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,SportsandMath1,78
 2021_11_IND_BUF,Starshipunicorn,68
 2021_11_IND_BUF,StatsInTheWild,50
+2021_11_IND_BUF,stephenlacman,73
 2021_11_IND_BUF,stilak12,80
 2021_11_IND_BUF,TDC331,95
 2021_11_IND_BUF,TDSC07,74
@@ -59360,7 +59360,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,ocdobv,56
 2021_11_WAS_CAR,oscarjonesslc1,75
 2021_11_WAS_CAR,ostegall,50
-2021_11_WAS_CAR,oxfordcomma_,60
 2021_11_WAS_CAR,packeRanalytics,53
 2021_11_WAS_CAR,PCdoBettor,41
 2021_11_WAS_CAR,PeteESunshine,50
@@ -59404,6 +59403,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,SportsandMath1,57
 2021_11_WAS_CAR,Starshipunicorn,56
 2021_11_WAS_CAR,StatsInTheWild,50
+2021_11_WAS_CAR,stephenlacman,60
 2021_11_WAS_CAR,stilak12,55
 2021_11_WAS_CAR,TDC331,78
 2021_11_WAS_CAR,TDSC07,60
@@ -59644,7 +59644,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,ocdobv,41
 2021_11_BAL_CHI,oscarjonesslc1,75
 2021_11_BAL_CHI,ostegall,50
-2021_11_BAL_CHI,oxfordcomma_,33
 2021_11_BAL_CHI,packeRanalytics,23
 2021_11_BAL_CHI,PCdoBettor,37
 2021_11_BAL_CHI,PeteESunshine,50
@@ -59688,6 +59687,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,SportsandMath1,40
 2021_11_BAL_CHI,Starshipunicorn,33
 2021_11_BAL_CHI,StatsInTheWild,50
+2021_11_BAL_CHI,stephenlacman,33
 2021_11_BAL_CHI,stilak12,35
 2021_11_BAL_CHI,TDC331,30
 2021_11_BAL_CHI,TDSC07,34
@@ -59928,7 +59928,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,ocdobv,66
 2021_11_DET_CLE,oscarjonesslc1,50
 2021_11_DET_CLE,ostegall,50
-2021_11_DET_CLE,oxfordcomma_,81
 2021_11_DET_CLE,packeRanalytics,46
 2021_11_DET_CLE,PCdoBettor,66
 2021_11_DET_CLE,PeteESunshine,50
@@ -59972,6 +59971,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,SportsandMath1,86
 2021_11_DET_CLE,Starshipunicorn,79
 2021_11_DET_CLE,StatsInTheWild,50
+2021_11_DET_CLE,stephenlacman,81
 2021_11_DET_CLE,stilak12,81
 2021_11_DET_CLE,TDC331,79
 2021_11_DET_CLE,TDSC07,81
@@ -60211,7 +60211,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,ocdobv,39
 2021_11_SF_JAX,oscarjonesslc1,50
 2021_11_SF_JAX,ostegall,50
-2021_11_SF_JAX,oxfordcomma_,29
 2021_11_SF_JAX,packeRanalytics,35
 2021_11_SF_JAX,PCdoBettor,32
 2021_11_SF_JAX,PeteESunshine,50
@@ -60255,6 +60254,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,SportsandMath1,22
 2021_11_SF_JAX,Starshipunicorn,38
 2021_11_SF_JAX,StatsInTheWild,50
+2021_11_SF_JAX,stephenlacman,29
 2021_11_SF_JAX,stilak12,37
 2021_11_SF_JAX,TDC331,17
 2021_11_SF_JAX,TDSC07,31
@@ -60494,7 +60494,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,ocdobv,49
 2021_11_GB_MIN,oscarjonesslc1,50
 2021_11_GB_MIN,ostegall,50
-2021_11_GB_MIN,oxfordcomma_,48
 2021_11_GB_MIN,packeRanalytics,55
 2021_11_GB_MIN,PCdoBettor,46
 2021_11_GB_MIN,PeteESunshine,50
@@ -60538,6 +60537,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,SportsandMath1,49
 2021_11_GB_MIN,Starshipunicorn,35
 2021_11_GB_MIN,StatsInTheWild,50
+2021_11_GB_MIN,stephenlacman,48
 2021_11_GB_MIN,stilak12,38
 2021_11_GB_MIN,TDC331,15
 2021_11_GB_MIN,TDSC07,40
@@ -60777,7 +60777,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,ocdobv,43
 2021_11_MIA_NYJ,oscarjonesslc1,50
 2021_11_MIA_NYJ,ostegall,50
-2021_11_MIA_NYJ,oxfordcomma_,38
 2021_11_MIA_NYJ,packeRanalytics,41
 2021_11_MIA_NYJ,PCdoBettor,46
 2021_11_MIA_NYJ,PeteESunshine,50
@@ -60821,6 +60820,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,SportsandMath1,20
 2021_11_MIA_NYJ,Starshipunicorn,34
 2021_11_MIA_NYJ,StatsInTheWild,50
+2021_11_MIA_NYJ,stephenlacman,38
 2021_11_MIA_NYJ,stilak12,45
 2021_11_MIA_NYJ,TDC331,36
 2021_11_MIA_NYJ,TDSC07,40
@@ -61061,7 +61061,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,ocdobv,54
 2021_11_NO_PHI,oscarjonesslc1,50
 2021_11_NO_PHI,ostegall,50
-2021_11_NO_PHI,oxfordcomma_,55
 2021_11_NO_PHI,packeRanalytics,62
 2021_11_NO_PHI,PCdoBettor,54
 2021_11_NO_PHI,PeteESunshine,50
@@ -61105,6 +61104,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,SportsandMath1,49
 2021_11_NO_PHI,Starshipunicorn,45
 2021_11_NO_PHI,StatsInTheWild,50
+2021_11_NO_PHI,stephenlacman,55
 2021_11_NO_PHI,stilak12,53
 2021_11_NO_PHI,TDC331,77
 2021_11_NO_PHI,TDSC07,65
@@ -61345,7 +61345,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,ocdobv,65
 2021_11_HOU_TEN,oscarjonesslc1,50
 2021_11_HOU_TEN,ostegall,50
-2021_11_HOU_TEN,oxfordcomma_,79
 2021_11_HOU_TEN,packeRanalytics,62
 2021_11_HOU_TEN,PCdoBettor,57
 2021_11_HOU_TEN,PeteESunshine,50
@@ -61389,6 +61388,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,SportsandMath1,93
 2021_11_HOU_TEN,Starshipunicorn,71
 2021_11_HOU_TEN,StatsInTheWild,50
+2021_11_HOU_TEN,stephenlacman,79
 2021_11_HOU_TEN,stilak12,81
 2021_11_HOU_TEN,TDC331,100
 2021_11_HOU_TEN,TDSC07,100
@@ -61629,7 +61629,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,ocdobv,48
 2021_11_CIN_LV,oscarjonesslc1,50
 2021_11_CIN_LV,ostegall,50
-2021_11_CIN_LV,oxfordcomma_,48
 2021_11_CIN_LV,packeRanalytics,35
 2021_11_CIN_LV,PCdoBettor,58
 2021_11_CIN_LV,PeteESunshine,50
@@ -61673,6 +61672,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,SportsandMath1,49
 2021_11_CIN_LV,Starshipunicorn,34
 2021_11_CIN_LV,StatsInTheWild,50
+2021_11_CIN_LV,stephenlacman,48
 2021_11_CIN_LV,stilak12,45
 2021_11_CIN_LV,TDC331,27
 2021_11_CIN_LV,TDSC07,40
@@ -61913,7 +61913,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,ocdobv,53
 2021_11_DAL_KC,oscarjonesslc1,50
 2021_11_DAL_KC,ostegall,50
-2021_11_DAL_KC,oxfordcomma_,55
 2021_11_DAL_KC,packeRanalytics,42
 2021_11_DAL_KC,PCdoBettor,42
 2021_11_DAL_KC,PeteESunshine,50
@@ -61957,6 +61956,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,SportsandMath1,55
 2021_11_DAL_KC,Starshipunicorn,32
 2021_11_DAL_KC,StatsInTheWild,50
+2021_11_DAL_KC,stephenlacman,55
 2021_11_DAL_KC,stilak12,46
 2021_11_DAL_KC,TDC331,37
 2021_11_DAL_KC,TDSC07,40
@@ -62197,7 +62197,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,ocdobv,55
 2021_11_ARI_SEA,oscarjonesslc1,50
 2021_11_ARI_SEA,ostegall,50
-2021_11_ARI_SEA,oxfordcomma_,59
 2021_11_ARI_SEA,packeRanalytics,35
 2021_11_ARI_SEA,PCdoBettor,45
 2021_11_ARI_SEA,PeteESunshine,50
@@ -62241,6 +62240,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,SportsandMath1,64
 2021_11_ARI_SEA,Starshipunicorn,53
 2021_11_ARI_SEA,StatsInTheWild,50
+2021_11_ARI_SEA,stephenlacman,59
 2021_11_ARI_SEA,stilak12,54
 2021_11_ARI_SEA,TDC331,14
 2021_11_ARI_SEA,TDSC07,44
@@ -62483,7 +62483,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,ocdobv,60
 2021_11_PIT_LAC,oscarjonesslc1,50
 2021_11_PIT_LAC,ostegall,50
-2021_11_PIT_LAC,oxfordcomma_,70
 2021_11_PIT_LAC,packeRanalytics,76
 2021_11_PIT_LAC,PCdoBettor,43
 2021_11_PIT_LAC,PeteESunshine,50
@@ -62527,6 +62526,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,SportsandMath1,68
 2021_11_PIT_LAC,Starshipunicorn,58
 2021_11_PIT_LAC,StatsInTheWild,50
+2021_11_PIT_LAC,stephenlacman,70
 2021_11_PIT_LAC,stilak12,63
 2021_11_PIT_LAC,TDC331,82
 2021_11_PIT_LAC,TDSC07,60
@@ -62770,7 +62770,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,ocdobv,66
 2021_11_NYG_TB,oscarjonesslc1,50
 2021_11_NYG_TB,ostegall,50
-2021_11_NYG_TB,oxfordcomma_,81
 2021_11_NYG_TB,packeRanalytics,74
 2021_11_NYG_TB,PCdoBettor,61
 2021_11_NYG_TB,PeteESunshine,50
@@ -62814,6 +62813,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,SportsandMath1,92
 2021_11_NYG_TB,Starshipunicorn,75
 2021_11_NYG_TB,StatsInTheWild,100
+2021_11_NYG_TB,stephenlacman,81
 2021_11_NYG_TB,stilak12,78
 2021_11_NYG_TB,TDC331,68
 2021_11_NYG_TB,TDSC07,81
@@ -63020,7 +63020,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,noahrmiller,42
 2021_12_CHI_DET,ocdobv,45
 2021_12_CHI_DET,Odinbn,50
-2021_12_CHI_DET,oxfordcomma_,37
 2021_12_CHI_DET,PCdoBettor,44
 2021_12_CHI_DET,PeteESunshine,0
 2021_12_CHI_DET,PFF_Brad,45
@@ -63055,6 +63054,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,SportsandMath1,25
 2021_12_CHI_DET,Starshipunicorn,36
 2021_12_CHI_DET,StatsInTheWild,32
+2021_12_CHI_DET,stephenlacman,37
 2021_12_CHI_DET,stilak12,50
 2021_12_CHI_DET,TDC331,63
 2021_12_CHI_DET,TDSC07,25
@@ -63264,7 +63264,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,noahrmiller,65
 2021_12_LV_DAL,ocdobv,68
 2021_12_LV_DAL,Odinbn,50
-2021_12_LV_DAL,oxfordcomma_,74
 2021_12_LV_DAL,PCdoBettor,59
 2021_12_LV_DAL,PeteESunshine,100
 2021_12_LV_DAL,PFF_Brad,60
@@ -63299,6 +63298,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,SportsandMath1,75
 2021_12_LV_DAL,Starshipunicorn,69
 2021_12_LV_DAL,StatsInTheWild,88
+2021_12_LV_DAL,stephenlacman,74
 2021_12_LV_DAL,stilak12,50
 2021_12_LV_DAL,TDC331,83
 2021_12_LV_DAL,TDSC07,100
@@ -63508,7 +63508,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,noahrmiller,40
 2021_12_BUF_NO,ocdobv,40
 2021_12_BUF_NO,Odinbn,50
-2021_12_BUF_NO,oxfordcomma_,29
 2021_12_BUF_NO,PCdoBettor,58
 2021_12_BUF_NO,PeteESunshine,0
 2021_12_BUF_NO,PFF_Brad,0
@@ -63543,6 +63542,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,SportsandMath1,25
 2021_12_BUF_NO,Starshipunicorn,38
 2021_12_BUF_NO,StatsInTheWild,39
+2021_12_BUF_NO,stephenlacman,29
 2021_12_BUF_NO,stilak12,50
 2021_12_BUF_NO,TDC331,23
 2021_12_BUF_NO,TDSC07,40
@@ -63763,7 +63763,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,noahrmiller,61
 2021_12_PIT_CIN,ocdobv,60
 2021_12_PIT_CIN,Odinbn,50
-2021_12_PIT_CIN,oxfordcomma_,63
 2021_12_PIT_CIN,packeRanalytics,66
 2021_12_PIT_CIN,PCdoBettor,60
 2021_12_PIT_CIN,PeteESunshine,65
@@ -63802,6 +63801,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,SportsandMath1,59
 2021_12_PIT_CIN,Starshipunicorn,60
 2021_12_PIT_CIN,StatsInTheWild,63
+2021_12_PIT_CIN,stephenlacman,63
 2021_12_PIT_CIN,stilak12,50
 2021_12_PIT_CIN,TDC331,39
 2021_12_PIT_CIN,TDSC07,74
@@ -64024,7 +64024,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,noahrmiller,55
 2021_12_NYJ_HOU,ocdobv,61
 2021_12_NYJ_HOU,Odinbn,50
-2021_12_NYJ_HOU,oxfordcomma_,56
 2021_12_NYJ_HOU,packeRanalytics,44
 2021_12_NYJ_HOU,PCdoBettor,56
 2021_12_NYJ_HOU,PeteESunshine,71
@@ -64063,6 +64062,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,SportsandMath1,51
 2021_12_NYJ_HOU,Starshipunicorn,42
 2021_12_NYJ_HOU,StatsInTheWild,50
+2021_12_NYJ_HOU,stephenlacman,56
 2021_12_NYJ_HOU,stilak12,50
 2021_12_NYJ_HOU,TDC331,57
 2021_12_NYJ_HOU,TDSC07,70
@@ -64285,7 +64285,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,noahrmiller,39
 2021_12_TB_IND,ocdobv,38
 2021_12_TB_IND,Odinbn,50
-2021_12_TB_IND,oxfordcomma_,39
 2021_12_TB_IND,packeRanalytics,28
 2021_12_TB_IND,PCdoBettor,60
 2021_12_TB_IND,PeteESunshine,18
@@ -64324,6 +64323,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,SportsandMath1,40
 2021_12_TB_IND,Starshipunicorn,46
 2021_12_TB_IND,StatsInTheWild,50
+2021_12_TB_IND,stephenlacman,39
 2021_12_TB_IND,stilak12,50
 2021_12_TB_IND,TDC331,61
 2021_12_TB_IND,TDSC07,56
@@ -64546,7 +64546,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,noahrmiller,42
 2021_12_ATL_JAX,ocdobv,45
 2021_12_ATL_JAX,Odinbn,50
-2021_12_ATL_JAX,oxfordcomma_,47
 2021_12_ATL_JAX,packeRanalytics,44
 2021_12_ATL_JAX,PCdoBettor,57
 2021_12_ATL_JAX,PeteESunshine,65
@@ -64585,6 +64584,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,SportsandMath1,44
 2021_12_ATL_JAX,Starshipunicorn,40
 2021_12_ATL_JAX,StatsInTheWild,50
+2021_12_ATL_JAX,stephenlacman,47
 2021_12_ATL_JAX,stilak12,50
 2021_12_ATL_JAX,TDC331,63
 2021_12_ATL_JAX,TDSC07,35
@@ -64807,7 +64807,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,noahrmiller,54
 2021_12_CAR_MIA,ocdobv,46
 2021_12_CAR_MIA,Odinbn,50
-2021_12_CAR_MIA,oxfordcomma_,45
 2021_12_CAR_MIA,packeRanalytics,53
 2021_12_CAR_MIA,PCdoBettor,58
 2021_12_CAR_MIA,PeteESunshine,73
@@ -64846,6 +64845,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,SportsandMath1,51
 2021_12_CAR_MIA,Starshipunicorn,44
 2021_12_CAR_MIA,StatsInTheWild,49
+2021_12_CAR_MIA,stephenlacman,45
 2021_12_CAR_MIA,stilak12,50
 2021_12_CAR_MIA,TDC331,84
 2021_12_CAR_MIA,TDSC07,45
@@ -65068,7 +65068,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,noahrmiller,45
 2021_12_TEN_NE,ocdobv,73
 2021_12_TEN_NE,Odinbn,50
-2021_12_TEN_NE,oxfordcomma_,72
 2021_12_TEN_NE,packeRanalytics,76
 2021_12_TEN_NE,PCdoBettor,60
 2021_12_TEN_NE,PeteESunshine,100
@@ -65107,6 +65106,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,SportsandMath1,67
 2021_12_TEN_NE,Starshipunicorn,66
 2021_12_TEN_NE,StatsInTheWild,50
+2021_12_TEN_NE,stephenlacman,72
 2021_12_TEN_NE,stilak12,50
 2021_12_TEN_NE,TDC331,81
 2021_12_TEN_NE,TDSC07,60
@@ -65329,7 +65329,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,noahrmiller,37
 2021_12_PHI_NYG,ocdobv,39
 2021_12_PHI_NYG,Odinbn,50
-2021_12_PHI_NYG,oxfordcomma_,38
 2021_12_PHI_NYG,packeRanalytics,26
 2021_12_PHI_NYG,PCdoBettor,43
 2021_12_PHI_NYG,PeteESunshine,69
@@ -65368,6 +65367,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,SportsandMath1,40
 2021_12_PHI_NYG,Starshipunicorn,32
 2021_12_PHI_NYG,StatsInTheWild,52
+2021_12_PHI_NYG,stephenlacman,38
 2021_12_PHI_NYG,stilak12,50
 2021_12_PHI_NYG,TDC331,0
 2021_12_PHI_NYG,TDSC07,15
@@ -65590,7 +65590,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,noahrmiller,41
 2021_12_LAC_DEN,ocdobv,39
 2021_12_LAC_DEN,Odinbn,50
-2021_12_LAC_DEN,oxfordcomma_,42
 2021_12_LAC_DEN,packeRanalytics,25
 2021_12_LAC_DEN,PCdoBettor,45
 2021_12_LAC_DEN,PeteESunshine,24
@@ -65629,6 +65628,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,SportsandMath1,44
 2021_12_LAC_DEN,Starshipunicorn,55
 2021_12_LAC_DEN,StatsInTheWild,50
+2021_12_LAC_DEN,stephenlacman,42
 2021_12_LAC_DEN,stilak12,50
 2021_12_LAC_DEN,TDC331,19
 2021_12_LAC_DEN,TDSC07,15
@@ -65851,7 +65851,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,noahrmiller,41
 2021_12_LA_GB,ocdobv,49
 2021_12_LA_GB,Odinbn,50
-2021_12_LA_GB,oxfordcomma_,44
 2021_12_LA_GB,packeRanalytics,58
 2021_12_LA_GB,PCdoBettor,50
 2021_12_LA_GB,PeteESunshine,15
@@ -65890,6 +65889,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,SportsandMath1,47
 2021_12_LA_GB,Starshipunicorn,56
 2021_12_LA_GB,StatsInTheWild,50
+2021_12_LA_GB,stephenlacman,44
 2021_12_LA_GB,stilak12,50
 2021_12_LA_GB,TDC331,100
 2021_12_LA_GB,TDSC07,55
@@ -66112,7 +66112,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,noahrmiller,41
 2021_12_MIN_SF,ocdobv,56
 2021_12_MIN_SF,Odinbn,50
-2021_12_MIN_SF,oxfordcomma_,62
 2021_12_MIN_SF,packeRanalytics,39
 2021_12_MIN_SF,PCdoBettor,44
 2021_12_MIN_SF,PeteESunshine,36
@@ -66151,6 +66150,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,SportsandMath1,58
 2021_12_MIN_SF,Starshipunicorn,47
 2021_12_MIN_SF,StatsInTheWild,50
+2021_12_MIN_SF,stephenlacman,62
 2021_12_MIN_SF,stilak12,50
 2021_12_MIN_SF,TDC331,25
 2021_12_MIN_SF,TDSC07,60
@@ -66373,7 +66373,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,noahrmiller,56
 2021_12_CLE_BAL,ocdobv,57
 2021_12_CLE_BAL,Odinbn,50
-2021_12_CLE_BAL,oxfordcomma_,60
 2021_12_CLE_BAL,packeRanalytics,71
 2021_12_CLE_BAL,PCdoBettor,53
 2021_12_CLE_BAL,PeteESunshine,19
@@ -66412,6 +66411,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,SportsandMath1,61
 2021_12_CLE_BAL,Starshipunicorn,58
 2021_12_CLE_BAL,StatsInTheWild,50
+2021_12_CLE_BAL,stephenlacman,60
 2021_12_CLE_BAL,stilak12,50
 2021_12_CLE_BAL,TDC331,89
 2021_12_CLE_BAL,TDSC07,70
@@ -66637,7 +66637,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,noahrmiller,61
 2021_12_SEA_WAS,ocdobv,50
 2021_12_SEA_WAS,Odinbn,50
-2021_12_SEA_WAS,oxfordcomma_,50
 2021_12_SEA_WAS,packeRanalytics,44
 2021_12_SEA_WAS,PCdoBettor,58
 2021_12_SEA_WAS,PeteESunshine,1
@@ -66676,6 +66675,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,SportsandMath1,40
 2021_12_SEA_WAS,Starshipunicorn,54
 2021_12_SEA_WAS,StatsInTheWild,50
+2021_12_SEA_WAS,stephenlacman,50
 2021_12_SEA_WAS,stilak12,50
 2021_12_SEA_WAS,TDC331,89
 2021_12_SEA_WAS,TDSC07,54
@@ -66880,7 +66880,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,NEZtakes,14
 2021_13_DAL_NO,nleloia42,29
 2021_13_DAL_NO,noahrmiller,22
-2021_13_DAL_NO,oxfordcomma_,50
 2021_13_DAL_NO,PCdoBettor,50
 2021_13_DAL_NO,PeteESunshine,0
 2021_13_DAL_NO,PFF_Brad,25
@@ -66911,6 +66910,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,sportfoliokings,25
 2021_13_DAL_NO,SportsandMath1,34
 2021_13_DAL_NO,Starshipunicorn,36
+2021_13_DAL_NO,stephenlacman,50
 2021_13_DAL_NO,TDC331,0
 2021_13_DAL_NO,TDSC07,25
 2021_13_DAL_NO,Teddy__D,17
@@ -67123,7 +67123,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,NEZtakes,22
 2021_13_TB_ATL,nleloia42,24
 2021_13_TB_ATL,noahrmiller,11
-2021_13_TB_ATL,oxfordcomma_,0
 2021_13_TB_ATL,packeRanalytics,16
 2021_13_TB_ATL,PCdoBettor,15
 2021_13_TB_ATL,PeteESunshine,0
@@ -67157,6 +67156,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,sportfoliokings,21
 2021_13_TB_ATL,SportsandMath1,19
 2021_13_TB_ATL,Starshipunicorn,26
+2021_13_TB_ATL,stephenlacman,0
 2021_13_TB_ATL,stilak12,21
 2021_13_TB_ATL,TDC331,0
 2021_13_TB_ATL,TDSC07,19
@@ -67372,7 +67372,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,NEZtakes,34
 2021_13_ARI_CHI,nleloia42,33
 2021_13_ARI_CHI,noahrmiller,25
-2021_13_ARI_CHI,oxfordcomma_,25
 2021_13_ARI_CHI,packeRanalytics,31
 2021_13_ARI_CHI,PCdoBettor,50
 2021_13_ARI_CHI,PeteESunshine,4
@@ -67406,6 +67405,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,sportfoliokings,41
 2021_13_ARI_CHI,SportsandMath1,21
 2021_13_ARI_CHI,Starshipunicorn,26
+2021_13_ARI_CHI,stephenlacman,25
 2021_13_ARI_CHI,stilak12,23
 2021_13_ARI_CHI,TDC331,0
 2021_13_ARI_CHI,TDSC07,20
@@ -67621,7 +67621,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,NEZtakes,47
 2021_13_LAC_CIN,nleloia42,50
 2021_13_LAC_CIN,noahrmiller,57
-2021_13_LAC_CIN,oxfordcomma_,59
 2021_13_LAC_CIN,packeRanalytics,43
 2021_13_LAC_CIN,PCdoBettor,68
 2021_13_LAC_CIN,PeteESunshine,100
@@ -67655,6 +67654,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,sportfoliokings,41
 2021_13_LAC_CIN,SportsandMath1,48
 2021_13_LAC_CIN,Starshipunicorn,58
+2021_13_LAC_CIN,stephenlacman,59
 2021_13_LAC_CIN,stilak12,58
 2021_13_LAC_CIN,TDC331,0
 2021_13_LAC_CIN,TDSC07,61
@@ -67870,7 +67870,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,NEZtakes,17
 2021_13_MIN_DET,nleloia42,31
 2021_13_MIN_DET,noahrmiller,10
-2021_13_MIN_DET,oxfordcomma_,26
 2021_13_MIN_DET,packeRanalytics,33
 2021_13_MIN_DET,PCdoBettor,35
 2021_13_MIN_DET,PeteESunshine,0
@@ -67904,6 +67903,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,sportfoliokings,38
 2021_13_MIN_DET,SportsandMath1,29
 2021_13_MIN_DET,Starshipunicorn,31
+2021_13_MIN_DET,stephenlacman,26
 2021_13_MIN_DET,stilak12,29
 2021_13_MIN_DET,TDC331,20
 2021_13_MIN_DET,TDSC07,25
@@ -68119,7 +68119,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,NEZtakes,35
 2021_13_IND_HOU,nleloia42,29
 2021_13_IND_HOU,noahrmiller,6
-2021_13_IND_HOU,oxfordcomma_,21
 2021_13_IND_HOU,packeRanalytics,17
 2021_13_IND_HOU,PCdoBettor,34
 2021_13_IND_HOU,PeteESunshine,0
@@ -68153,6 +68152,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,sportfoliokings,31
 2021_13_IND_HOU,SportsandMath1,20
 2021_13_IND_HOU,Starshipunicorn,24
+2021_13_IND_HOU,stephenlacman,21
 2021_13_IND_HOU,stilak12,24
 2021_13_IND_HOU,TDC331,0
 2021_13_IND_HOU,TDSC07,20
@@ -68368,7 +68368,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,NEZtakes,81
 2021_13_NYG_MIA,nleloia42,57
 2021_13_NYG_MIA,noahrmiller,67
-2021_13_NYG_MIA,oxfordcomma_,70
 2021_13_NYG_MIA,packeRanalytics,57
 2021_13_NYG_MIA,PCdoBettor,68
 2021_13_NYG_MIA,PeteESunshine,100
@@ -68402,6 +68401,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,sportfoliokings,66
 2021_13_NYG_MIA,SportsandMath1,69
 2021_13_NYG_MIA,Starshipunicorn,62
+2021_13_NYG_MIA,stephenlacman,70
 2021_13_NYG_MIA,stilak12,57
 2021_13_NYG_MIA,TDC331,78
 2021_13_NYG_MIA,TDSC07,58
@@ -68617,7 +68617,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,NEZtakes,46
 2021_13_PHI_NYJ,nleloia42,31
 2021_13_PHI_NYJ,noahrmiller,41
-2021_13_PHI_NYJ,oxfordcomma_,29
 2021_13_PHI_NYJ,packeRanalytics,21
 2021_13_PHI_NYJ,PCdoBettor,41
 2021_13_PHI_NYJ,PeteESunshine,33
@@ -68651,6 +68650,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,sportfoliokings,41
 2021_13_PHI_NYJ,SportsandMath1,31
 2021_13_PHI_NYJ,Starshipunicorn,34
+2021_13_PHI_NYJ,stephenlacman,29
 2021_13_PHI_NYJ,stilak12,38
 2021_13_PHI_NYJ,TDC331,0
 2021_13_PHI_NYJ,TDSC07,25
@@ -68866,7 +68866,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,NEZtakes,86
 2021_13_JAX_LA,nleloia42,83
 2021_13_JAX_LA,noahrmiller,100
-2021_13_JAX_LA,oxfordcomma_,100
 2021_13_JAX_LA,packeRanalytics,66
 2021_13_JAX_LA,PCdoBettor,61
 2021_13_JAX_LA,PeteESunshine,100
@@ -68900,6 +68899,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,sportfoliokings,75
 2021_13_JAX_LA,SportsandMath1,82
 2021_13_JAX_LA,Starshipunicorn,78
+2021_13_JAX_LA,stephenlacman,100
 2021_13_JAX_LA,stilak12,81
 2021_13_JAX_LA,TDC331,33
 2021_13_JAX_LA,TDSC07,84
@@ -69115,7 +69115,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,NEZtakes,47
 2021_13_WAS_LV,nleloia42,65
 2021_13_WAS_LV,noahrmiller,64
-2021_13_WAS_LV,oxfordcomma_,53
 2021_13_WAS_LV,packeRanalytics,43
 2021_13_WAS_LV,PCdoBettor,63
 2021_13_WAS_LV,PeteESunshine,69
@@ -69149,6 +69148,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,sportfoliokings,41
 2021_13_WAS_LV,SportsandMath1,54
 2021_13_WAS_LV,Starshipunicorn,56
+2021_13_WAS_LV,stephenlacman,53
 2021_13_WAS_LV,stilak12,57
 2021_13_WAS_LV,TDC331,54
 2021_13_WAS_LV,TDSC07,57
@@ -69364,7 +69364,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,NEZtakes,46
 2021_13_BAL_PIT,nleloia42,36
 2021_13_BAL_PIT,noahrmiller,39
-2021_13_BAL_PIT,oxfordcomma_,35
 2021_13_BAL_PIT,packeRanalytics,29
 2021_13_BAL_PIT,PCdoBettor,32
 2021_13_BAL_PIT,PeteESunshine,0
@@ -69398,6 +69397,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,sportfoliokings,36
 2021_13_BAL_PIT,SportsandMath1,32
 2021_13_BAL_PIT,Starshipunicorn,32
+2021_13_BAL_PIT,stephenlacman,35
 2021_13_BAL_PIT,stilak12,41
 2021_13_BAL_PIT,TDC331,0
 2021_13_BAL_PIT,TDSC07,38
@@ -69613,7 +69613,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,NEZtakes,46
 2021_13_SF_SEA,nleloia42,28
 2021_13_SF_SEA,noahrmiller,39
-2021_13_SF_SEA,oxfordcomma_,39
 2021_13_SF_SEA,packeRanalytics,27
 2021_13_SF_SEA,PCdoBettor,29
 2021_13_SF_SEA,PeteESunshine,66
@@ -69647,6 +69646,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,sportfoliokings,52
 2021_13_SF_SEA,SportsandMath1,36
 2021_13_SF_SEA,Starshipunicorn,34
+2021_13_SF_SEA,stephenlacman,39
 2021_13_SF_SEA,stilak12,39
 2021_13_SF_SEA,TDC331,0
 2021_13_SF_SEA,TDSC07,35
@@ -69862,7 +69862,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,NEZtakes,72
 2021_13_DEN_KC,nleloia42,66
 2021_13_DEN_KC,noahrmiller,71
-2021_13_DEN_KC,oxfordcomma_,78
 2021_13_DEN_KC,packeRanalytics,63
 2021_13_DEN_KC,PCdoBettor,42
 2021_13_DEN_KC,PeteESunshine,100
@@ -69896,6 +69895,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,sportfoliokings,79
 2021_13_DEN_KC,SportsandMath1,74
 2021_13_DEN_KC,Starshipunicorn,44
+2021_13_DEN_KC,stephenlacman,78
 2021_13_DEN_KC,stilak12,72
 2021_13_DEN_KC,TDC331,100
 2021_13_DEN_KC,TDSC07,70
@@ -70113,7 +70113,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,NEZtakes,49
 2021_13_NE_BUF,nleloia42,61
 2021_13_NE_BUF,noahrmiller,48
-2021_13_NE_BUF,oxfordcomma_,58
 2021_13_NE_BUF,packeRanalytics,43
 2021_13_NE_BUF,PCdoBettor,40
 2021_13_NE_BUF,PeteESunshine,30
@@ -70147,6 +70146,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,sportfoliokings,53
 2021_13_NE_BUF,SportsandMath1,65
 2021_13_NE_BUF,Starshipunicorn,46
+2021_13_NE_BUF,stephenlacman,58
 2021_13_NE_BUF,stilak12,52
 2021_13_NE_BUF,TDC331,10
 2021_13_NE_BUF,TDSC07,45
