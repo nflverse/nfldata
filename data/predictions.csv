@@ -368,6 +368,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,MarcRichards284,76
 2021_01_DAL_TB,mark_mello818,80
 2021_01_DAL_TB,Market,78
+2021_01_DAL_TB,MarkoMarkonym,90
 2021_01_DAL_TB,MarkTentinger,69
 2021_01_DAL_TB,marlonmaloney,50
 2021_01_DAL_TB,marrodc,25
@@ -610,7 +611,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,venzor_james,85
 2021_01_DAL_TB,Vick7nyk,75
 2021_01_DAL_TB,vidhartbhatia,100
-2021_01_DAL_TB,ViennaFalcons,90
 2021_01_DAL_TB,vikram_logan,81
 2021_01_DAL_TB,VinceOMahony,70
 2021_01_DAL_TB,vinimpossivel,82
@@ -1025,6 +1025,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,MarcRichards284,62
 2021_01_PHI_ATL,mark_mello818,70
 2021_01_PHI_ATL,Market,63
+2021_01_PHI_ATL,MarkoMarkonym,60
 2021_01_PHI_ATL,MarkTentinger,50
 2021_01_PHI_ATL,marlonmaloney,50
 2021_01_PHI_ATL,marrodc,100
@@ -1282,7 +1283,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,venzor_james,50
 2021_01_PHI_ATL,Vick7nyk,50
 2021_01_PHI_ATL,vidhartbhatia,70
-2021_01_PHI_ATL,ViennaFalcons,60
 2021_01_PHI_ATL,vikram_logan,29
 2021_01_PHI_ATL,VinceOMahony,60
 2021_01_PHI_ATL,vinimpossivel,27
@@ -1698,6 +1698,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,MarcRichards284,67
 2021_01_PIT_BUF,mark_mello818,72
 2021_01_PIT_BUF,Market,71
+2021_01_PIT_BUF,MarkoMarkonym,89
 2021_01_PIT_BUF,MarkTentinger,100
 2021_01_PIT_BUF,marlonmaloney,50
 2021_01_PIT_BUF,marrodc,100
@@ -1955,7 +1956,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,venzor_james,50
 2021_01_PIT_BUF,Vick7nyk,50
 2021_01_PIT_BUF,vidhartbhatia,75
-2021_01_PIT_BUF,ViennaFalcons,89
 2021_01_PIT_BUF,vikram_logan,73
 2021_01_PIT_BUF,VinceOMahony,66
 2021_01_PIT_BUF,vinimpossivel,44
@@ -1990,8 +1990,8 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,ZenTaco,50
 2021_01_PIT_BUF,zweinberg18,66
 2021_01_PIT_BUF,zybxixi,50
-2021_01_NYJ_CAR,,61
 2021_01_NYJ_CAR,,80
+2021_01_NYJ_CAR,,61
 2021_01_NYJ_CAR,__beraldo,50
 2021_01_NYJ_CAR,__DavidOfficial,76
 2021_01_NYJ_CAR,_alendowsky,49
@@ -2371,6 +2371,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,MarcRichards284,60
 2021_01_NYJ_CAR,mark_mello818,34
 2021_01_NYJ_CAR,Market,63
+2021_01_NYJ_CAR,MarkoMarkonym,40
 2021_01_NYJ_CAR,MarkTentinger,64
 2021_01_NYJ_CAR,marlonmaloney,50
 2021_01_NYJ_CAR,marrodc,63
@@ -2628,7 +2629,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,venzor_james,50
 2021_01_NYJ_CAR,Vick7nyk,50
 2021_01_NYJ_CAR,vidhartbhatia,60
-2021_01_NYJ_CAR,ViennaFalcons,40
 2021_01_NYJ_CAR,vikram_logan,46
 2021_01_NYJ_CAR,VinceOMahony,60
 2021_01_NYJ_CAR,vinimpossivel,73
@@ -3044,6 +3044,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,MarcRichards284,34
 2021_01_MIN_CIN,mark_mello818,62
 2021_01_MIN_CIN,Market,44
+2021_01_MIN_CIN,MarkoMarkonym,65
 2021_01_MIN_CIN,MarkTentinger,0
 2021_01_MIN_CIN,marlonmaloney,50
 2021_01_MIN_CIN,marrodc,0
@@ -3301,7 +3302,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,venzor_james,50
 2021_01_MIN_CIN,Vick7nyk,50
 2021_01_MIN_CIN,vidhartbhatia,40
-2021_01_MIN_CIN,ViennaFalcons,65
 2021_01_MIN_CIN,vikram_logan,57
 2021_01_MIN_CIN,VinceOMahony,47
 2021_01_MIN_CIN,vinimpossivel,38
@@ -3717,6 +3717,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,MarcRichards284,17
 2021_01_SF_DET,mark_mello818,28
 2021_01_SF_DET,Market,22
+2021_01_SF_DET,MarkoMarkonym,10
 2021_01_SF_DET,MarkTentinger,0
 2021_01_SF_DET,marlonmaloney,50
 2021_01_SF_DET,marrodc,0
@@ -3974,7 +3975,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,venzor_james,50
 2021_01_SF_DET,Vick7nyk,50
 2021_01_SF_DET,vidhartbhatia,0
-2021_01_SF_DET,ViennaFalcons,10
 2021_01_SF_DET,vikram_logan,34
 2021_01_SF_DET,VinceOMahony,34
 2021_01_SF_DET,vinimpossivel,9
@@ -4390,6 +4390,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,MarcRichards284,29
 2021_01_JAX_HOU,mark_mello818,37
 2021_01_JAX_HOU,Market,38
+2021_01_JAX_HOU,MarkoMarkonym,80
 2021_01_JAX_HOU,MarkTentinger,32
 2021_01_JAX_HOU,marlonmaloney,50
 2021_01_JAX_HOU,marrodc,2
@@ -4647,7 +4648,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,venzor_james,50
 2021_01_JAX_HOU,Vick7nyk,50
 2021_01_JAX_HOU,vidhartbhatia,35
-2021_01_JAX_HOU,ViennaFalcons,80
 2021_01_JAX_HOU,vikram_logan,41
 2021_01_JAX_HOU,VinceOMahony,42
 2021_01_JAX_HOU,vinimpossivel,28
@@ -5063,6 +5063,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,MarcRichards284,38
 2021_01_SEA_IND,mark_mello818,63
 2021_01_SEA_IND,Market,42
+2021_01_SEA_IND,MarkoMarkonym,20
 2021_01_SEA_IND,MarkTentinger,6
 2021_01_SEA_IND,marlonmaloney,50
 2021_01_SEA_IND,marrodc,30
@@ -5320,7 +5321,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,venzor_james,50
 2021_01_SEA_IND,Vick7nyk,50
 2021_01_SEA_IND,vidhartbhatia,0
-2021_01_SEA_IND,ViennaFalcons,20
 2021_01_SEA_IND,vikram_logan,35
 2021_01_SEA_IND,VinceOMahony,45
 2021_01_SEA_IND,vinimpossivel,36
@@ -5736,6 +5736,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,MarcRichards284,54
 2021_01_ARI_TEN,mark_mello818,74
 2021_01_ARI_TEN,Market,58
+2021_01_ARI_TEN,MarkoMarkonym,40
 2021_01_ARI_TEN,MarkTentinger,62
 2021_01_ARI_TEN,marlonmaloney,50
 2021_01_ARI_TEN,marrodc,100
@@ -5993,7 +5994,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,venzor_james,50
 2021_01_ARI_TEN,Vick7nyk,50
 2021_01_ARI_TEN,vidhartbhatia,70
-2021_01_ARI_TEN,ViennaFalcons,40
 2021_01_ARI_TEN,vikram_logan,41
 2021_01_ARI_TEN,VinceOMahony,59
 2021_01_ARI_TEN,vinimpossivel,73
@@ -6409,6 +6409,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,MarcRichards284,51
 2021_01_LAC_WAS,mark_mello818,40
 2021_01_LAC_WAS,Market,55
+2021_01_LAC_WAS,MarkoMarkonym,9
 2021_01_LAC_WAS,MarkTentinger,34
 2021_01_LAC_WAS,marlonmaloney,50
 2021_01_LAC_WAS,marrodc,35
@@ -6666,7 +6667,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,venzor_james,50
 2021_01_LAC_WAS,Vick7nyk,50
 2021_01_LAC_WAS,vidhartbhatia,40
-2021_01_LAC_WAS,ViennaFalcons,9
 2021_01_LAC_WAS,vikram_logan,36
 2021_01_LAC_WAS,VinceOMahony,55
 2021_01_LAC_WAS,vinimpossivel,52
@@ -7082,6 +7082,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,MarcRichards284,80
 2021_01_CLE_KC,mark_mello818,81
 2021_01_CLE_KC,Market,69
+2021_01_CLE_KC,MarkoMarkonym,92
 2021_01_CLE_KC,MarkTentinger,100
 2021_01_CLE_KC,marlonmaloney,50
 2021_01_CLE_KC,marrodc,65
@@ -7339,7 +7340,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,venzor_james,50
 2021_01_CLE_KC,Vick7nyk,50
 2021_01_CLE_KC,vidhartbhatia,100
-2021_01_CLE_KC,ViennaFalcons,92
 2021_01_CLE_KC,vikram_logan,94
 2021_01_CLE_KC,VinceOMahony,65
 2021_01_CLE_KC,vinimpossivel,70
@@ -7755,6 +7755,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,MarcRichards284,58
 2021_01_MIA_NE,mark_mello818,54
 2021_01_MIA_NE,Market,62
+2021_01_MIA_NE,MarkoMarkonym,78
 2021_01_MIA_NE,MarkTentinger,70
 2021_01_MIA_NE,marlonmaloney,50
 2021_01_MIA_NE,marrodc,70
@@ -8012,7 +8013,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,venzor_james,50
 2021_01_MIA_NE,Vick7nyk,50
 2021_01_MIA_NE,vidhartbhatia,60
-2021_01_MIA_NE,ViennaFalcons,78
 2021_01_MIA_NE,vikram_logan,62
 2021_01_MIA_NE,VinceOMahony,52
 2021_01_MIA_NE,vinimpossivel,66
@@ -8428,6 +8428,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,MarcRichards284,28
 2021_01_GB_NO,mark_mello818,23
 2021_01_GB_NO,Market,37
+2021_01_GB_NO,MarkoMarkonym,32
 2021_01_GB_NO,MarkTentinger,0
 2021_01_GB_NO,marlonmaloney,50
 2021_01_GB_NO,marrodc,30
@@ -8685,7 +8686,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,venzor_james,50
 2021_01_GB_NO,Vick7nyk,50
 2021_01_GB_NO,vidhartbhatia,20
-2021_01_GB_NO,ViennaFalcons,32
 2021_01_GB_NO,vikram_logan,34
 2021_01_GB_NO,VinceOMahony,41
 2021_01_GB_NO,vinimpossivel,11
@@ -9101,6 +9101,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,MarcRichards284,41
 2021_01_DEN_NYG,mark_mello818,34
 2021_01_DEN_NYG,Market,43
+2021_01_DEN_NYG,MarkoMarkonym,65
 2021_01_DEN_NYG,MarkTentinger,0
 2021_01_DEN_NYG,marlonmaloney,50
 2021_01_DEN_NYG,marrodc,35
@@ -9358,7 +9359,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,venzor_james,50
 2021_01_DEN_NYG,Vick7nyk,50
 2021_01_DEN_NYG,vidhartbhatia,30
-2021_01_DEN_NYG,ViennaFalcons,65
 2021_01_DEN_NYG,vikram_logan,52
 2021_01_DEN_NYG,VinceOMahony,54
 2021_01_DEN_NYG,vinimpossivel,48
@@ -9775,6 +9775,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,MarcRichards284,84
 2021_01_CHI_LA,mark_mello818,70
 2021_01_CHI_LA,Market,77
+2021_01_CHI_LA,MarkoMarkonym,62
 2021_01_CHI_LA,MarkTentinger,100
 2021_01_CHI_LA,marlonmaloney,50
 2021_01_CHI_LA,marrodc,100
@@ -10033,7 +10034,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,venzor_james,50
 2021_01_CHI_LA,Vick7nyk,50
 2021_01_CHI_LA,vidhartbhatia,80
-2021_01_CHI_LA,ViennaFalcons,62
 2021_01_CHI_LA,vikram_logan,64
 2021_01_CHI_LA,VinceOMahony,59
 2021_01_CHI_LA,vinimpossivel,66
@@ -10467,6 +10467,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,MarcRichards284,26
 2021_01_BAL_LV,mark_mello818,28
 2021_01_BAL_LV,Market,39
+2021_01_BAL_LV,MarkoMarkonym,18
 2021_01_BAL_LV,MarkTentinger,0
 2021_01_BAL_LV,marlonmaloney,50
 2021_01_BAL_LV,MarltonMike,30
@@ -10734,7 +10735,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,venzor_james,50
 2021_01_BAL_LV,Vick7nyk,40
 2021_01_BAL_LV,vidhartbhatia,0
-2021_01_BAL_LV,ViennaFalcons,18
 2021_01_BAL_LV,vikram_logan,26
 2021_01_BAL_LV,VinceOMahony,47
 2021_01_BAL_LV,vinimpossivel,41
@@ -10981,6 +10981,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,MarcRichards284,55
 2021_02_NYG_WAS,mark_mello818,50
 2021_02_NYG_WAS,Market,65
+2021_02_NYG_WAS,MarkoMarkonym,30
 2021_02_NYG_WAS,MarltonMike,56
 2021_02_NYG_WAS,marrodc,63
 2021_02_NYG_WAS,Martentoellner,64
@@ -11127,7 +11128,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,v3lardy,100
 2021_02_NYG_WAS,vedjos,73
 2021_02_NYG_WAS,vidhartbhatia,50
-2021_02_NYG_WAS,ViennaFalcons,30
 2021_02_NYG_WAS,vikram_logan,68
 2021_02_NYG_WAS,VinceOMahony,59
 2021_02_NYG_WAS,vinimpossivel,65
@@ -11387,6 +11387,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,MarcRichards284,41
 2021_02_NO_CAR,mark_mello818,50
 2021_02_NO_CAR,Market,42
+2021_02_NO_CAR,MarkoMarkonym,35
 2021_02_NO_CAR,MarltonMike,55
 2021_02_NO_CAR,marrodc,20
 2021_02_NO_CAR,Martentoellner,36
@@ -11557,7 +11558,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,vedjos,40
 2021_02_NO_CAR,venzor_james,35
 2021_02_NO_CAR,vidhartbhatia,35
-2021_02_NO_CAR,ViennaFalcons,35
 2021_02_NO_CAR,vikram_logan,32
 2021_02_NO_CAR,VinceOMahony,43
 2021_02_NO_CAR,vinimpossivel,37
@@ -11820,6 +11820,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,MarcRichards284,47
 2021_02_CIN_CHI,mark_mello818,50
 2021_02_CIN_CHI,Market,54
+2021_02_CIN_CHI,MarkoMarkonym,43
 2021_02_CIN_CHI,MarltonMike,37
 2021_02_CIN_CHI,marrodc,38
 2021_02_CIN_CHI,Martentoellner,54
@@ -11990,7 +11991,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,vedjos,43
 2021_02_CIN_CHI,venzor_james,50
 2021_02_CIN_CHI,vidhartbhatia,55
-2021_02_CIN_CHI,ViennaFalcons,43
 2021_02_CIN_CHI,vikram_logan,44
 2021_02_CIN_CHI,VinceOMahony,44
 2021_02_CIN_CHI,vinimpossivel,66
@@ -12253,6 +12253,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,MarcRichards284,94
 2021_02_HOU_CLE,mark_mello818,50
 2021_02_HOU_CLE,Market,84
+2021_02_HOU_CLE,MarkoMarkonym,70
 2021_02_HOU_CLE,MarltonMike,81
 2021_02_HOU_CLE,marrodc,100
 2021_02_HOU_CLE,Martentoellner,86
@@ -12423,7 +12424,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,vedjos,89
 2021_02_HOU_CLE,venzor_james,90
 2021_02_HOU_CLE,vidhartbhatia,65
-2021_02_HOU_CLE,ViennaFalcons,70
 2021_02_HOU_CLE,vikram_logan,92
 2021_02_HOU_CLE,VinceOMahony,100
 2021_02_HOU_CLE,vinimpossivel,81
@@ -12686,6 +12686,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,MarcRichards284,30
 2021_02_LA_IND,mark_mello818,50
 2021_02_LA_IND,Market,35
+2021_02_LA_IND,MarkoMarkonym,44
 2021_02_LA_IND,MarltonMike,38
 2021_02_LA_IND,marrodc,21
 2021_02_LA_IND,Martentoellner,38
@@ -12856,7 +12857,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,vedjos,25
 2021_02_LA_IND,venzor_james,60
 2021_02_LA_IND,vidhartbhatia,30
-2021_02_LA_IND,ViennaFalcons,44
 2021_02_LA_IND,vikram_logan,46
 2021_02_LA_IND,VinceOMahony,45
 2021_02_LA_IND,vinimpossivel,17
@@ -13119,6 +13119,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,MarcRichards284,39
 2021_02_DEN_JAX,mark_mello818,50
 2021_02_DEN_JAX,Market,31
+2021_02_DEN_JAX,MarkoMarkonym,24
 2021_02_DEN_JAX,MarltonMike,17
 2021_02_DEN_JAX,marrodc,0
 2021_02_DEN_JAX,Martentoellner,32
@@ -13289,7 +13290,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,vedjos,34
 2021_02_DEN_JAX,venzor_james,38
 2021_02_DEN_JAX,vidhartbhatia,45
-2021_02_DEN_JAX,ViennaFalcons,24
 2021_02_DEN_JAX,vikram_logan,43
 2021_02_DEN_JAX,VinceOMahony,35
 2021_02_DEN_JAX,vinimpossivel,39
@@ -13552,6 +13552,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,MarcRichards284,29
 2021_02_BUF_MIA,mark_mello818,50
 2021_02_BUF_MIA,Market,37
+2021_02_BUF_MIA,MarkoMarkonym,28
 2021_02_BUF_MIA,MarltonMike,58
 2021_02_BUF_MIA,marrodc,24
 2021_02_BUF_MIA,Martentoellner,35
@@ -13722,7 +13723,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,vedjos,42
 2021_02_BUF_MIA,venzor_james,45
 2021_02_BUF_MIA,vidhartbhatia,35
-2021_02_BUF_MIA,ViennaFalcons,28
 2021_02_BUF_MIA,vikram_logan,30
 2021_02_BUF_MIA,VinceOMahony,44
 2021_02_BUF_MIA,vinimpossivel,44
@@ -13985,6 +13985,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,MarcRichards284,25
 2021_02_NE_NYJ,mark_mello818,50
 2021_02_NE_NYJ,Market,32
+2021_02_NE_NYJ,MarkoMarkonym,25
 2021_02_NE_NYJ,MarltonMike,25
 2021_02_NE_NYJ,marrodc,0
 2021_02_NE_NYJ,Martentoellner,33
@@ -14155,7 +14156,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,vedjos,18
 2021_02_NE_NYJ,venzor_james,40
 2021_02_NE_NYJ,vidhartbhatia,25
-2021_02_NE_NYJ,ViennaFalcons,25
 2021_02_NE_NYJ,vikram_logan,33
 2021_02_NE_NYJ,VinceOMahony,39
 2021_02_NE_NYJ,vinimpossivel,58
@@ -14418,6 +14418,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,MarcRichards284,45
 2021_02_SF_PHI,mark_mello818,50
 2021_02_SF_PHI,Market,42
+2021_02_SF_PHI,MarkoMarkonym,27
 2021_02_SF_PHI,MarltonMike,52
 2021_02_SF_PHI,marrodc,20
 2021_02_SF_PHI,Martentoellner,40
@@ -14588,7 +14589,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,vedjos,31
 2021_02_SF_PHI,venzor_james,25
 2021_02_SF_PHI,vidhartbhatia,41
-2021_02_SF_PHI,ViennaFalcons,27
 2021_02_SF_PHI,vikram_logan,57
 2021_02_SF_PHI,VinceOMahony,45
 2021_02_SF_PHI,vinimpossivel,31
@@ -14851,6 +14851,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,MarcRichards284,76
 2021_02_LV_PIT,mark_mello818,50
 2021_02_LV_PIT,Market,68
+2021_02_LV_PIT,MarkoMarkonym,26
 2021_02_LV_PIT,MarltonMike,71
 2021_02_LV_PIT,marrodc,66
 2021_02_LV_PIT,Martentoellner,65
@@ -15021,7 +15022,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,vedjos,60
 2021_02_LV_PIT,venzor_james,55
 2021_02_LV_PIT,vidhartbhatia,60
-2021_02_LV_PIT,ViennaFalcons,26
 2021_02_LV_PIT,vikram_logan,58
 2021_02_LV_PIT,VinceOMahony,58
 2021_02_LV_PIT,vinimpossivel,65
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,62
 2021_02_MIN_ARI,,61
+2021_02_MIN_ARI,,62
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -15285,6 +15285,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,MarcRichards284,62
 2021_02_MIN_ARI,mark_mello818,50
 2021_02_MIN_ARI,Market,64
+2021_02_MIN_ARI,MarkoMarkonym,75
 2021_02_MIN_ARI,MarltonMike,47
 2021_02_MIN_ARI,marrodc,71
 2021_02_MIN_ARI,Martentoellner,64
@@ -15455,7 +15456,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,vedjos,70
 2021_02_MIN_ARI,venzor_james,45
 2021_02_MIN_ARI,vidhartbhatia,65
-2021_02_MIN_ARI,ViennaFalcons,75
 2021_02_MIN_ARI,vikram_logan,76
 2021_02_MIN_ARI,VinceOMahony,56
 2021_02_MIN_ARI,vinimpossivel,73
@@ -15719,6 +15719,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,MarcRichards284,81
 2021_02_ATL_TB,mark_mello818,50
 2021_02_ATL_TB,Market,86
+2021_02_ATL_TB,MarkoMarkonym,74
 2021_02_ATL_TB,MarltonMike,85
 2021_02_ATL_TB,marrodc,100
 2021_02_ATL_TB,Martentoellner,86
@@ -15889,7 +15890,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,vedjos,90
 2021_02_ATL_TB,venzor_james,55
 2021_02_ATL_TB,vidhartbhatia,100
-2021_02_ATL_TB,ViennaFalcons,74
 2021_02_ATL_TB,vikram_logan,87
 2021_02_ATL_TB,VinceOMahony,74
 2021_02_ATL_TB,vinimpossivel,89
@@ -16153,6 +16153,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,MarcRichards284,51
 2021_02_DAL_LAC,mark_mello818,50
 2021_02_DAL_LAC,Market,59
+2021_02_DAL_LAC,MarkoMarkonym,29
 2021_02_DAL_LAC,MarltonMike,39
 2021_02_DAL_LAC,marrodc,24
 2021_02_DAL_LAC,Martentoellner,58
@@ -16323,7 +16324,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,vedjos,47
 2021_02_DAL_LAC,venzor_james,48
 2021_02_DAL_LAC,vidhartbhatia,70
-2021_02_DAL_LAC,ViennaFalcons,29
 2021_02_DAL_LAC,vikram_logan,39
 2021_02_DAL_LAC,VinceOMahony,54
 2021_02_DAL_LAC,vinimpossivel,41
@@ -16587,6 +16587,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,MarcRichards284,65
 2021_02_TEN_SEA,mark_mello818,50
 2021_02_TEN_SEA,Market,72
+2021_02_TEN_SEA,MarkoMarkonym,73
 2021_02_TEN_SEA,MarltonMike,64
 2021_02_TEN_SEA,marrodc,75
 2021_02_TEN_SEA,Martentoellner,70
@@ -16757,7 +16758,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,vedjos,69
 2021_02_TEN_SEA,venzor_james,55
 2021_02_TEN_SEA,vidhartbhatia,100
-2021_02_TEN_SEA,ViennaFalcons,73
 2021_02_TEN_SEA,vikram_logan,58
 2021_02_TEN_SEA,VinceOMahony,65
 2021_02_TEN_SEA,vinimpossivel,67
@@ -17021,6 +17021,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,MarcRichards284,34
 2021_02_KC_BAL,mark_mello818,50
 2021_02_KC_BAL,Market,39
+2021_02_KC_BAL,MarkoMarkonym,46
 2021_02_KC_BAL,MarltonMike,40
 2021_02_KC_BAL,marrodc,23
 2021_02_KC_BAL,Martentoellner,39
@@ -17191,7 +17192,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,vedjos,29
 2021_02_KC_BAL,venzor_james,55
 2021_02_KC_BAL,vidhartbhatia,0
-2021_02_KC_BAL,ViennaFalcons,46
 2021_02_KC_BAL,vikram_logan,27
 2021_02_KC_BAL,VinceOMahony,45
 2021_02_KC_BAL,vinimpossivel,23
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,70
 2021_02_DET_GB,,38
+2021_02_DET_GB,,70
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -17455,6 +17455,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,MarcRichards284,100
 2021_02_DET_GB,mark_mello818,50
 2021_02_DET_GB,Market,81
+2021_02_DET_GB,MarkoMarkonym,75
 2021_02_DET_GB,MarltonMike,58
 2021_02_DET_GB,marrodc,45
 2021_02_DET_GB,Martentoellner,84
@@ -17625,7 +17626,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,vedjos,87
 2021_02_DET_GB,venzor_james,75
 2021_02_DET_GB,vidhartbhatia,80
-2021_02_DET_GB,ViennaFalcons,75
 2021_02_DET_GB,vikram_logan,57
 2021_02_DET_GB,VinceOMahony,100
 2021_02_DET_GB,vinimpossivel,85
@@ -17845,6 +17845,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,maloney_jarrod,0
 2021_03_CAR_HOU,MarcRichards284,12
 2021_03_CAR_HOU,Market,22
+2021_03_CAR_HOU,MarkoMarkonym,44
 2021_03_CAR_HOU,marrodc,0
 2021_03_CAR_HOU,Martentoellner,50
 2021_03_CAR_HOU,matt12oneil,8
@@ -17973,7 +17974,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,vedjos,28
 2021_03_CAR_HOU,venzor_james,50
 2021_03_CAR_HOU,vidhartbhatia,0
-2021_03_CAR_HOU,ViennaFalcons,44
 2021_03_CAR_HOU,vikram_logan,20
 2021_03_CAR_HOU,VinceOMahony,39
 2021_03_CAR_HOU,VinnyCal,10
@@ -18207,6 +18207,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,maloney_jarrod,81
 2021_03_WAS_BUF,MarcRichards284,72
 2021_03_WAS_BUF,Market,75
+2021_03_WAS_BUF,MarkoMarkonym,60
 2021_03_WAS_BUF,marrodc,64
 2021_03_WAS_BUF,Martentoellner,73
 2021_03_WAS_BUF,matt12oneil,75
@@ -18348,7 +18349,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,vedjos,45
 2021_03_WAS_BUF,venzor_james,50
 2021_03_WAS_BUF,vidhartbhatia,80
-2021_03_WAS_BUF,ViennaFalcons,60
 2021_03_WAS_BUF,vikram_logan,78
 2021_03_WAS_BUF,VinceOMahony,65
 2021_03_WAS_BUF,VinnyCal,57
@@ -18367,8 +18367,8 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
+2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -18582,6 +18582,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,maloney_jarrod,65
 2021_03_CHI_CLE,MarcRichards284,66
 2021_03_CHI_CLE,Market,77
+2021_03_CHI_CLE,MarkoMarkonym,58
 2021_03_CHI_CLE,marrodc,70
 2021_03_CHI_CLE,Martentoellner,75
 2021_03_CHI_CLE,matt12oneil,90
@@ -18723,7 +18724,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,vedjos,65
 2021_03_CHI_CLE,venzor_james,50
 2021_03_CHI_CLE,vidhartbhatia,67
-2021_03_CHI_CLE,ViennaFalcons,58
 2021_03_CHI_CLE,vikram_logan,69
 2021_03_CHI_CLE,VinceOMahony,80
 2021_03_CHI_CLE,VinnyCal,55
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,50
 2021_03_BAL_DET,,21
+2021_03_BAL_DET,,50
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -18957,6 +18957,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,maloney_jarrod,15
 2021_03_BAL_DET,MarcRichards284,25
 2021_03_BAL_DET,Market,25
+2021_03_BAL_DET,MarkoMarkonym,27
 2021_03_BAL_DET,marrodc,0
 2021_03_BAL_DET,Martentoellner,23
 2021_03_BAL_DET,matt12oneil,10
@@ -19098,7 +19099,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,vedjos,28
 2021_03_BAL_DET,venzor_james,50
 2021_03_BAL_DET,vidhartbhatia,20
-2021_03_BAL_DET,ViennaFalcons,27
 2021_03_BAL_DET,vikram_logan,22
 2021_03_BAL_DET,VinceOMahony,31
 2021_03_BAL_DET,VinnyCal,8
@@ -19117,8 +19117,8 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,YayySports,21
 2021_03_BAL_DET,zackry_mc,0
 2021_03_BAL_DET,zweinberg18,5
-2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,,22
+2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,__DavidOfficial,0
 2021_03_ARI_JAX,_alendowsky,43
 2021_03_ARI_JAX,_DH44_,48
@@ -19332,6 +19332,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,maloney_jarrod,24
 2021_03_ARI_JAX,MarcRichards284,35
 2021_03_ARI_JAX,Market,24
+2021_03_ARI_JAX,MarkoMarkonym,30
 2021_03_ARI_JAX,marrodc,0
 2021_03_ARI_JAX,Martentoellner,24
 2021_03_ARI_JAX,matt12oneil,10
@@ -19473,7 +19474,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,vedjos,25
 2021_03_ARI_JAX,venzor_james,50
 2021_03_ARI_JAX,vidhartbhatia,10
-2021_03_ARI_JAX,ViennaFalcons,30
 2021_03_ARI_JAX,vikram_logan,17
 2021_03_ARI_JAX,VinceOMahony,25
 2021_03_ARI_JAX,VinnyCal,27
@@ -19707,6 +19707,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,maloney_jarrod,69
 2021_03_LAC_KC,MarcRichards284,80
 2021_03_LAC_KC,Market,71
+2021_03_LAC_KC,MarkoMarkonym,58
 2021_03_LAC_KC,marrodc,71
 2021_03_LAC_KC,Martentoellner,75
 2021_03_LAC_KC,matt12oneil,100
@@ -19848,7 +19849,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,vedjos,59
 2021_03_LAC_KC,venzor_james,50
 2021_03_LAC_KC,vidhartbhatia,75
-2021_03_LAC_KC,ViennaFalcons,58
 2021_03_LAC_KC,vikram_logan,74
 2021_03_LAC_KC,VinceOMahony,68
 2021_03_LAC_KC,VinnyCal,66
@@ -20082,6 +20082,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,maloney_jarrod,43
 2021_03_NO_NE,MarcRichards284,65
 2021_03_NO_NE,Market,58
+2021_03_NO_NE,MarkoMarkonym,45
 2021_03_NO_NE,marrodc,40
 2021_03_NO_NE,Martentoellner,57
 2021_03_NO_NE,matt12oneil,70
@@ -20223,7 +20224,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,vedjos,66
 2021_03_NO_NE,venzor_james,50
 2021_03_NO_NE,vidhartbhatia,60
-2021_03_NO_NE,ViennaFalcons,45
 2021_03_NO_NE,vikram_logan,41
 2021_03_NO_NE,VinceOMahony,56
 2021_03_NO_NE,VinnyCal,50
@@ -20242,8 +20242,8 @@ game_id,screen_name,prediction
 2021_03_NO_NE,YayySports,53
 2021_03_NO_NE,zackry_mc,100
 2021_03_NO_NE,zweinberg18,45
-2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,,50
+2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
@@ -20457,6 +20457,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,maloney_jarrod,37
 2021_03_ATL_NYG,MarcRichards284,54
 2021_03_ATL_NYG,Market,57
+2021_03_ATL_NYG,MarkoMarkonym,63
 2021_03_ATL_NYG,marrodc,45
 2021_03_ATL_NYG,Martentoellner,60
 2021_03_ATL_NYG,matt12oneil,56
@@ -20598,7 +20599,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,vedjos,47
 2021_03_ATL_NYG,venzor_james,50
 2021_03_ATL_NYG,vidhartbhatia,55
-2021_03_ATL_NYG,ViennaFalcons,63
 2021_03_ATL_NYG,vikram_logan,63
 2021_03_ATL_NYG,VinceOMahony,56
 2021_03_ATL_NYG,VinnyCal,50
@@ -20617,8 +20617,8 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,YayySports,66
 2021_03_ATL_NYG,zackry_mc,50
 2021_03_ATL_NYG,zweinberg18,55
-2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,,57
+2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -20832,6 +20832,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,maloney_jarrod,61
 2021_03_CIN_PIT,MarcRichards284,66
 2021_03_CIN_PIT,Market,57
+2021_03_CIN_PIT,MarkoMarkonym,33
 2021_03_CIN_PIT,marrodc,70
 2021_03_CIN_PIT,Martentoellner,55
 2021_03_CIN_PIT,matt12oneil,71
@@ -20973,7 +20974,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,vedjos,68
 2021_03_CIN_PIT,venzor_james,50
 2021_03_CIN_PIT,vidhartbhatia,55
-2021_03_CIN_PIT,ViennaFalcons,33
 2021_03_CIN_PIT,vikram_logan,66
 2021_03_CIN_PIT,VinceOMahony,65
 2021_03_CIN_PIT,VinnyCal,60
@@ -21207,6 +21207,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,maloney_jarrod,65
 2021_03_IND_TEN,MarcRichards284,65
 2021_03_IND_TEN,Market,65
+2021_03_IND_TEN,MarkoMarkonym,61
 2021_03_IND_TEN,marrodc,100
 2021_03_IND_TEN,Martentoellner,64
 2021_03_IND_TEN,matt12oneil,61
@@ -21348,7 +21349,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,vedjos,73
 2021_03_IND_TEN,venzor_james,50
 2021_03_IND_TEN,vidhartbhatia,65
-2021_03_IND_TEN,ViennaFalcons,61
 2021_03_IND_TEN,vikram_logan,65
 2021_03_IND_TEN,VinceOMahony,60
 2021_03_IND_TEN,VinnyCal,61
@@ -21584,6 +21584,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,maloney_jarrod,80
 2021_03_NYJ_DEN,MarcRichards284,75
 2021_03_NYJ_DEN,Market,83
+2021_03_NYJ_DEN,MarkoMarkonym,55
 2021_03_NYJ_DEN,marrodc,100
 2021_03_NYJ_DEN,Martentoellner,78
 2021_03_NYJ_DEN,matt12oneil,91
@@ -21726,7 +21727,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,vedjos,60
 2021_03_NYJ_DEN,venzor_james,50
 2021_03_NYJ_DEN,vidhartbhatia,80
-2021_03_NYJ_DEN,ViennaFalcons,55
 2021_03_NYJ_DEN,vikram_logan,58
 2021_03_NYJ_DEN,VinceOMahony,86
 2021_03_NYJ_DEN,VinnyCal,67
@@ -21963,6 +21963,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,maloney_jarrod,45
 2021_03_MIA_LV,MarcRichards284,62
 2021_03_MIA_LV,Market,64
+2021_03_MIA_LV,MarkoMarkonym,46
 2021_03_MIA_LV,marrodc,100
 2021_03_MIA_LV,Martentoellner,64
 2021_03_MIA_LV,matt12oneil,72
@@ -22105,7 +22106,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,vedjos,77
 2021_03_MIA_LV,venzor_james,50
 2021_03_MIA_LV,vidhartbhatia,70
-2021_03_MIA_LV,ViennaFalcons,46
 2021_03_MIA_LV,vikram_logan,86
 2021_03_MIA_LV,VinceOMahony,69
 2021_03_MIA_LV,VinnyCal,65
@@ -22342,6 +22342,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,maloney_jarrod,40
 2021_03_TB_LA,MarcRichards284,44
 2021_03_TB_LA,Market,50
+2021_03_TB_LA,MarkoMarkonym,25
 2021_03_TB_LA,marrodc,32
 2021_03_TB_LA,Martentoellner,45
 2021_03_TB_LA,matt12oneil,25
@@ -22484,7 +22485,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,vedjos,45
 2021_03_TB_LA,venzor_james,50
 2021_03_TB_LA,vidhartbhatia,40
-2021_03_TB_LA,ViennaFalcons,25
 2021_03_TB_LA,vikram_logan,27
 2021_03_TB_LA,VinceOMahony,35
 2021_03_TB_LA,VinnyCal,47
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
+2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
@@ -22721,6 +22721,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,maloney_jarrod,47
 2021_03_SEA_MIN,MarcRichards284,57
 2021_03_SEA_MIN,Market,47
+2021_03_SEA_MIN,MarkoMarkonym,38
 2021_03_SEA_MIN,marrodc,66
 2021_03_SEA_MIN,Martentoellner,40
 2021_03_SEA_MIN,matt12oneil,28
@@ -22863,7 +22864,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,vedjos,31
 2021_03_SEA_MIN,venzor_james,50
 2021_03_SEA_MIN,vidhartbhatia,45
-2021_03_SEA_MIN,ViennaFalcons,38
 2021_03_SEA_MIN,vikram_logan,36
 2021_03_SEA_MIN,VinceOMahony,35
 2021_03_SEA_MIN,VinnyCal,44
@@ -23101,6 +23101,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,maloney_jarrod,45
 2021_03_GB_SF,MarcRichards284,39
 2021_03_GB_SF,Market,63
+2021_03_GB_SF,MarkoMarkonym,44
 2021_03_GB_SF,marrodc,74
 2021_03_GB_SF,Martentoellner,60
 2021_03_GB_SF,matt12oneil,30
@@ -23243,7 +23244,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,vedjos,40
 2021_03_GB_SF,venzor_james,50
 2021_03_GB_SF,vidhartbhatia,41
-2021_03_GB_SF,ViennaFalcons,44
 2021_03_GB_SF,vikram_logan,44
 2021_03_GB_SF,VinceOMahony,62
 2021_03_GB_SF,VinnyCal,47
@@ -23262,8 +23262,8 @@ game_id,screen_name,prediction
 2021_03_GB_SF,YayySports,64
 2021_03_GB_SF,zackry_mc,50
 2021_03_GB_SF,zweinberg18,55
-2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,,35
+2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,__DavidOfficial,67
 2021_03_PHI_DAL,_alendowsky,51
 2021_03_PHI_DAL,_DH44_,80
@@ -23490,6 +23490,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,maloney_jarrod,100
 2021_03_PHI_DAL,MarcRichards284,75
 2021_03_PHI_DAL,Market,64
+2021_03_PHI_DAL,MarkoMarkonym,70
 2021_03_PHI_DAL,marrodc,100
 2021_03_PHI_DAL,Martentoellner,60
 2021_03_PHI_DAL,matt12oneil,82
@@ -23640,7 +23641,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,vedjos,70
 2021_03_PHI_DAL,venzor_james,50
 2021_03_PHI_DAL,vidhartbhatia,55
-2021_03_PHI_DAL,ViennaFalcons,70
 2021_03_PHI_DAL,vikram_logan,69
 2021_03_PHI_DAL,VinceOMahony,65
 2021_03_PHI_DAL,VinnyCal,62
@@ -23862,6 +23862,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,maloney_jarrod,50
 2021_04_JAX_CIN,MarcRichards284,67
 2021_04_JAX_CIN,Market,77
+2021_04_JAX_CIN,MarkoMarkonym,66
 2021_04_JAX_CIN,MarltonMike,71
 2021_04_JAX_CIN,marrodc,100
 2021_04_JAX_CIN,Martentoellner,76
@@ -23998,7 +23999,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,v3lardy,100
 2021_04_JAX_CIN,vedjos,68
 2021_04_JAX_CIN,vidhartbhatia,80
-2021_04_JAX_CIN,ViennaFalcons,66
 2021_04_JAX_CIN,vikram_logan,77
 2021_04_JAX_CIN,VinceOMahony,50
 2021_04_JAX_CIN,VinnyCal,74
@@ -24237,6 +24237,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,maloney_jarrod,60
 2021_04_WAS_ATL,MarcRichards284,52
 2021_04_WAS_ATL,Market,47
+2021_04_WAS_ATL,MarkoMarkonym,62
 2021_04_WAS_ATL,MarltonMike,46
 2021_04_WAS_ATL,marrodc,37
 2021_04_WAS_ATL,Martentoellner,45
@@ -24388,7 +24389,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,vedjos,36
 2021_04_WAS_ATL,venzor_james,70
 2021_04_WAS_ATL,vidhartbhatia,55
-2021_04_WAS_ATL,ViennaFalcons,62
 2021_04_WAS_ATL,vikram_logan,56
 2021_04_WAS_ATL,VinceOMahony,50
 2021_04_WAS_ATL,VinnyCal,63
@@ -24629,6 +24629,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,maloney_jarrod,91
 2021_04_HOU_BUF,MarcRichards284,99
 2021_04_HOU_BUF,Market,91
+2021_04_HOU_BUF,MarkoMarkonym,73
 2021_04_HOU_BUF,MarltonMike,92
 2021_04_HOU_BUF,marrodc,100
 2021_04_HOU_BUF,Martentoellner,92
@@ -24780,7 +24781,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,vedjos,90
 2021_04_HOU_BUF,venzor_james,90
 2021_04_HOU_BUF,vidhartbhatia,100
-2021_04_HOU_BUF,ViennaFalcons,73
 2021_04_HOU_BUF,vikram_logan,83
 2021_04_HOU_BUF,VinceOMahony,100
 2021_04_HOU_BUF,VinnyCal,100
@@ -25021,6 +25021,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,maloney_jarrod,40
 2021_04_DET_CHI,MarcRichards284,61
 2021_04_DET_CHI,Market,58
+2021_04_DET_CHI,MarkoMarkonym,44
 2021_04_DET_CHI,MarltonMike,49
 2021_04_DET_CHI,marrodc,34
 2021_04_DET_CHI,Martentoellner,63
@@ -25172,7 +25173,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,vedjos,40
 2021_04_DET_CHI,venzor_james,45
 2021_04_DET_CHI,vidhartbhatia,45
-2021_04_DET_CHI,ViennaFalcons,44
 2021_04_DET_CHI,vikram_logan,43
 2021_04_DET_CHI,VinceOMahony,57
 2021_04_DET_CHI,VinnyCal,61
@@ -25413,6 +25413,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,maloney_jarrod,70
 2021_04_CAR_DAL,MarcRichards284,61
 2021_04_CAR_DAL,Market,66
+2021_04_CAR_DAL,MarkoMarkonym,56
 2021_04_CAR_DAL,MarltonMike,41
 2021_04_CAR_DAL,marrodc,100
 2021_04_CAR_DAL,Martentoellner,62
@@ -25564,7 +25565,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,vedjos,60
 2021_04_CAR_DAL,venzor_james,60
 2021_04_CAR_DAL,vidhartbhatia,65
-2021_04_CAR_DAL,ViennaFalcons,56
 2021_04_CAR_DAL,vikram_logan,41
 2021_04_CAR_DAL,VinceOMahony,61
 2021_04_CAR_DAL,VinnyCal,54
@@ -25805,6 +25805,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,maloney_jarrod,50
 2021_04_IND_MIA,MarcRichards284,53
 2021_04_IND_MIA,Market,58
+2021_04_IND_MIA,MarkoMarkonym,50
 2021_04_IND_MIA,MarltonMike,48
 2021_04_IND_MIA,marrodc,59
 2021_04_IND_MIA,Martentoellner,55
@@ -25956,7 +25957,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,vedjos,39
 2021_04_IND_MIA,venzor_james,40
 2021_04_IND_MIA,vidhartbhatia,45
-2021_04_IND_MIA,ViennaFalcons,50
 2021_04_IND_MIA,vikram_logan,54
 2021_04_IND_MIA,VinceOMahony,62
 2021_04_IND_MIA,VinnyCal,50
@@ -26197,6 +26197,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,maloney_jarrod,35
 2021_04_CLE_MIN,MarcRichards284,60
 2021_04_CLE_MIN,Market,50
+2021_04_CLE_MIN,MarkoMarkonym,43
 2021_04_CLE_MIN,MarltonMike,56
 2021_04_CLE_MIN,marrodc,31
 2021_04_CLE_MIN,Martentoellner,43
@@ -26348,7 +26349,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,vedjos,40
 2021_04_CLE_MIN,venzor_james,46
 2021_04_CLE_MIN,vidhartbhatia,45
-2021_04_CLE_MIN,ViennaFalcons,43
 2021_04_CLE_MIN,vikram_logan,33
 2021_04_CLE_MIN,VinceOMahony,43
 2021_04_CLE_MIN,VinnyCal,27
@@ -26589,6 +26589,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,maloney_jarrod,100
 2021_04_NYG_NO,MarcRichards284,70
 2021_04_NYG_NO,Market,75
+2021_04_NYG_NO,MarkoMarkonym,62
 2021_04_NYG_NO,MarltonMike,57
 2021_04_NYG_NO,marrodc,80
 2021_04_NYG_NO,Martentoellner,75
@@ -26740,7 +26741,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,vedjos,67
 2021_04_NYG_NO,venzor_james,74
 2021_04_NYG_NO,vidhartbhatia,65
-2021_04_NYG_NO,ViennaFalcons,62
 2021_04_NYG_NO,vikram_logan,76
 2021_04_NYG_NO,VinceOMahony,57
 2021_04_NYG_NO,VinnyCal,62
@@ -26981,6 +26981,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,maloney_jarrod,30
 2021_04_TEN_NYJ,MarcRichards284,26
 2021_04_TEN_NYJ,Market,32
+2021_04_TEN_NYJ,MarkoMarkonym,33
 2021_04_TEN_NYJ,MarltonMike,60
 2021_04_TEN_NYJ,marrodc,31
 2021_04_TEN_NYJ,Martentoellner,27
@@ -27132,7 +27133,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,vedjos,10
 2021_04_TEN_NYJ,venzor_james,30
 2021_04_TEN_NYJ,vidhartbhatia,42
-2021_04_TEN_NYJ,ViennaFalcons,33
 2021_04_TEN_NYJ,vikram_logan,31
 2021_04_TEN_NYJ,VinceOMahony,0
 2021_04_TEN_NYJ,VinnyCal,19
@@ -27373,6 +27373,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,maloney_jarrod,15
 2021_04_KC_PHI,MarcRichards284,1
 2021_04_KC_PHI,Market,25
+2021_04_KC_PHI,MarkoMarkonym,33
 2021_04_KC_PHI,MarltonMike,25
 2021_04_KC_PHI,marrodc,0
 2021_04_KC_PHI,Martentoellner,26
@@ -27524,7 +27525,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,vedjos,21
 2021_04_KC_PHI,venzor_james,30
 2021_04_KC_PHI,vidhartbhatia,20
-2021_04_KC_PHI,ViennaFalcons,33
 2021_04_KC_PHI,vikram_logan,20
 2021_04_KC_PHI,VinceOMahony,0
 2021_04_KC_PHI,VinnyCal,9
@@ -27766,6 +27766,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,maloney_jarrod,70
 2021_04_ARI_LA,MarcRichards284,63
 2021_04_ARI_LA,Market,65
+2021_04_ARI_LA,MarkoMarkonym,39
 2021_04_ARI_LA,MarltonMike,55
 2021_04_ARI_LA,marrodc,75
 2021_04_ARI_LA,Martentoellner,61
@@ -27920,7 +27921,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,vedjos,65
 2021_04_ARI_LA,venzor_james,70
 2021_04_ARI_LA,vidhartbhatia,65
-2021_04_ARI_LA,ViennaFalcons,39
 2021_04_ARI_LA,vikram_logan,55
 2021_04_ARI_LA,VinceOMahony,70
 2021_04_ARI_LA,VinnyCal,56
@@ -28162,6 +28162,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,maloney_jarrod,44
 2021_04_SEA_SF,MarcRichards284,47
 2021_04_SEA_SF,Market,56
+2021_04_SEA_SF,MarkoMarkonym,45
 2021_04_SEA_SF,MarltonMike,62
 2021_04_SEA_SF,marrodc,31
 2021_04_SEA_SF,Martentoellner,55
@@ -28316,7 +28317,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,vedjos,47
 2021_04_SEA_SF,venzor_james,60
 2021_04_SEA_SF,vidhartbhatia,45
-2021_04_SEA_SF,ViennaFalcons,45
 2021_04_SEA_SF,vikram_logan,44
 2021_04_SEA_SF,VinceOMahony,41
 2021_04_SEA_SF,VinnyCal,35
@@ -28560,6 +28560,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,maloney_jarrod,55
 2021_04_BAL_DEN,MarcRichards284,43
 2021_04_BAL_DEN,Market,53
+2021_04_BAL_DEN,MarkoMarkonym,26
 2021_04_BAL_DEN,MarltonMike,56
 2021_04_BAL_DEN,marrodc,31
 2021_04_BAL_DEN,Martentoellner,50
@@ -28714,7 +28715,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,vedjos,40
 2021_04_BAL_DEN,venzor_james,40
 2021_04_BAL_DEN,vidhartbhatia,55
-2021_04_BAL_DEN,ViennaFalcons,26
 2021_04_BAL_DEN,vikram_logan,35
 2021_04_BAL_DEN,VinceOMahony,53
 2021_04_BAL_DEN,VinnyCal,40
@@ -28958,6 +28958,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,maloney_jarrod,62
 2021_04_PIT_GB,MarcRichards284,78
 2021_04_PIT_GB,Market,71
+2021_04_PIT_GB,MarkoMarkonym,73
 2021_04_PIT_GB,MarltonMike,79
 2021_04_PIT_GB,marrodc,100
 2021_04_PIT_GB,Martentoellner,73
@@ -29112,7 +29113,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,vedjos,67
 2021_04_PIT_GB,venzor_james,75
 2021_04_PIT_GB,vidhartbhatia,85
-2021_04_PIT_GB,ViennaFalcons,73
 2021_04_PIT_GB,vikram_logan,69
 2021_04_PIT_GB,VinceOMahony,58
 2021_04_PIT_GB,VinnyCal,84
@@ -29357,6 +29357,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,maloney_jarrod,65
 2021_04_TB_NE,MarcRichards284,34
 2021_04_TB_NE,Market,30
+2021_04_TB_NE,MarkoMarkonym,59
 2021_04_TB_NE,MarltonMike,27
 2021_04_TB_NE,marrodc,0
 2021_04_TB_NE,Martentoellner,28
@@ -29512,7 +29513,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,vedjos,16
 2021_04_TB_NE,venzor_james,35
 2021_04_TB_NE,vidhartbhatia,20
-2021_04_TB_NE,ViennaFalcons,59
 2021_04_TB_NE,vikram_logan,34
 2021_04_TB_NE,VinceOMahony,0
 2021_04_TB_NE,VinnyCal,18
@@ -29763,6 +29763,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,maloney_jarrod,40
 2021_04_LV_LAC,MarcRichards284,64
 2021_04_LV_LAC,Market,60
+2021_04_LV_LAC,MarkoMarkonym,54
 2021_04_LV_LAC,MarltonMike,43
 2021_04_LV_LAC,marrodc,61
 2021_04_LV_LAC,Martentoellner,58
@@ -29928,7 +29929,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,vedjos,70
 2021_04_LV_LAC,venzor_james,50
 2021_04_LV_LAC,vidhartbhatia,66
-2021_04_LV_LAC,ViennaFalcons,54
 2021_04_LV_LAC,vikram_logan,56
 2021_04_LV_LAC,VinceOMahony,53
 2021_04_LV_LAC,VinnyCal,45
@@ -30140,6 +30140,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,manalytics3,45
 2021_05_LA_SEA,MarcRichards284,50
 2021_05_LA_SEA,Market,44
+2021_05_LA_SEA,MarkoMarkonym,62
 2021_05_LA_SEA,marrodc,55
 2021_05_LA_SEA,Martentoellner,43
 2021_05_LA_SEA,mattglen_,55
@@ -30286,7 +30287,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,vedjos,30
 2021_05_LA_SEA,venzor_james,15
 2021_05_LA_SEA,Vick7nyk,0
-2021_05_LA_SEA,ViennaFalcons,62
 2021_05_LA_SEA,vikram_logan,54
 2021_05_LA_SEA,VinceOMahony,53
 2021_05_LA_SEA,VinnyCal,61
@@ -30506,6 +30506,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,manalytics3,57
 2021_05_NYJ_ATL,MarcRichards284,50
 2021_05_NYJ_ATL,Market,59
+2021_05_NYJ_ATL,MarkoMarkonym,44
 2021_05_NYJ_ATL,marrodc,54
 2021_05_NYJ_ATL,Martentoellner,56
 2021_05_NYJ_ATL,mattglen_,55
@@ -30656,7 +30657,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,vedjos,64
 2021_05_NYJ_ATL,venzor_james,50
 2021_05_NYJ_ATL,Vick7nyk,58
-2021_05_NYJ_ATL,ViennaFalcons,44
 2021_05_NYJ_ATL,vikram_logan,50
 2021_05_NYJ_ATL,VinceOMahony,56
 2021_05_NYJ_ATL,VinnyCal,50
@@ -30881,6 +30881,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,manalytics3,58
 2021_05_PHI_CAR,MarcRichards284,55
 2021_05_PHI_CAR,Market,57
+2021_05_PHI_CAR,MarkoMarkonym,64
 2021_05_PHI_CAR,marrodc,80
 2021_05_PHI_CAR,Martentoellner,61
 2021_05_PHI_CAR,mattglen_,64
@@ -31034,7 +31035,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,vedjos,67
 2021_05_PHI_CAR,venzor_james,50
 2021_05_PHI_CAR,Vick7nyk,42
-2021_05_PHI_CAR,ViennaFalcons,64
 2021_05_PHI_CAR,vikram_logan,62
 2021_05_PHI_CAR,VinceOMahony,69
 2021_05_PHI_CAR,VinnyCal,49
@@ -31259,6 +31259,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,manalytics3,25
 2021_05_GB_CIN,MarcRichards284,33
 2021_05_GB_CIN,Market,46
+2021_05_GB_CIN,MarkoMarkonym,35
 2021_05_GB_CIN,marrodc,25
 2021_05_GB_CIN,Martentoellner,42
 2021_05_GB_CIN,mattglen_,28
@@ -31412,7 +31413,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,vedjos,29
 2021_05_GB_CIN,venzor_james,50
 2021_05_GB_CIN,Vick7nyk,15
-2021_05_GB_CIN,ViennaFalcons,35
 2021_05_GB_CIN,vikram_logan,36
 2021_05_GB_CIN,VinceOMahony,34
 2021_05_GB_CIN,VinnyCal,27
@@ -31637,6 +31637,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,manalytics3,0
 2021_05_NE_HOU,MarcRichards284,22
 2021_05_NE_HOU,Market,25
+2021_05_NE_HOU,MarkoMarkonym,18
 2021_05_NE_HOU,marrodc,0
 2021_05_NE_HOU,Martentoellner,26
 2021_05_NE_HOU,mattglen_,55
@@ -31790,7 +31791,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,vedjos,15
 2021_05_NE_HOU,venzor_james,50
 2021_05_NE_HOU,Vick7nyk,22
-2021_05_NE_HOU,ViennaFalcons,18
 2021_05_NE_HOU,vikram_logan,22
 2021_05_NE_HOU,VinceOMahony,25
 2021_05_NE_HOU,VinnyCal,36
@@ -32015,6 +32015,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,manalytics3,0
 2021_05_TEN_JAX,MarcRichards284,42
 2021_05_TEN_JAX,Market,36
+2021_05_TEN_JAX,MarkoMarkonym,21
 2021_05_TEN_JAX,marrodc,40
 2021_05_TEN_JAX,Martentoellner,31
 2021_05_TEN_JAX,mattglen_,26
@@ -32168,7 +32169,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,vedjos,24
 2021_05_TEN_JAX,venzor_james,50
 2021_05_TEN_JAX,Vick7nyk,41
-2021_05_TEN_JAX,ViennaFalcons,21
 2021_05_TEN_JAX,vikram_logan,26
 2021_05_TEN_JAX,VinceOMahony,33
 2021_05_TEN_JAX,VinnyCal,36
@@ -32392,6 +32392,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,manalytics3,63
 2021_05_DET_MIN,MarcRichards284,91
 2021_05_DET_MIN,Market,78
+2021_05_DET_MIN,MarkoMarkonym,64
 2021_05_DET_MIN,marrodc,80
 2021_05_DET_MIN,Martentoellner,79
 2021_05_DET_MIN,mattglen_,84
@@ -32545,7 +32546,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,vedjos,61
 2021_05_DET_MIN,venzor_james,50
 2021_05_DET_MIN,Vick7nyk,55
-2021_05_DET_MIN,ViennaFalcons,64
 2021_05_DET_MIN,vikram_logan,66
 2021_05_DET_MIN,VinceOMahony,67
 2021_05_DET_MIN,VinnyCal,63
@@ -32770,6 +32770,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,manalytics3,52
 2021_05_DEN_PIT,MarcRichards284,59
 2021_05_DEN_PIT,Market,46
+2021_05_DEN_PIT,MarkoMarkonym,40
 2021_05_DEN_PIT,marrodc,25
 2021_05_DEN_PIT,Martentoellner,46
 2021_05_DEN_PIT,mattglen_,61
@@ -32923,7 +32924,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,vedjos,38
 2021_05_DEN_PIT,venzor_james,50
 2021_05_DEN_PIT,Vick7nyk,38
-2021_05_DEN_PIT,ViennaFalcons,40
 2021_05_DEN_PIT,vikram_logan,60
 2021_05_DEN_PIT,VinceOMahony,48
 2021_05_DEN_PIT,VinnyCal,44
@@ -33147,6 +33147,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,manalytics3,65
 2021_05_MIA_TB,MarcRichards284,71
 2021_05_MIA_TB,Market,82
+2021_05_MIA_TB,MarkoMarkonym,81
 2021_05_MIA_TB,marrodc,100
 2021_05_MIA_TB,Martentoellner,82
 2021_05_MIA_TB,mattglen_,91
@@ -33300,7 +33301,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,vedjos,80
 2021_05_MIA_TB,venzor_james,50
 2021_05_MIA_TB,Vick7nyk,100
-2021_05_MIA_TB,ViennaFalcons,81
 2021_05_MIA_TB,vikram_logan,67
 2021_05_MIA_TB,VinceOMahony,75
 2021_05_MIA_TB,VinnyCal,87
@@ -33525,6 +33525,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,manalytics3,27
 2021_05_NO_WAS,MarcRichards284,52
 2021_05_NO_WAS,Market,45
+2021_05_NO_WAS,MarkoMarkonym,34
 2021_05_NO_WAS,marrodc,30
 2021_05_NO_WAS,Martentoellner,39
 2021_05_NO_WAS,mattglen_,48
@@ -33678,7 +33679,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,vedjos,36
 2021_05_NO_WAS,venzor_james,50
 2021_05_NO_WAS,Vick7nyk,52
-2021_05_NO_WAS,ViennaFalcons,34
 2021_05_NO_WAS,vikram_logan,34
 2021_05_NO_WAS,VinceOMahony,47
 2021_05_NO_WAS,VinnyCal,38
@@ -33905,6 +33905,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,manalytics3,45
 2021_05_CLE_LAC,MarcRichards284,55
 2021_05_CLE_LAC,Market,55
+2021_05_CLE_LAC,MarkoMarkonym,45
 2021_05_CLE_LAC,marrodc,65
 2021_05_CLE_LAC,Martentoellner,55
 2021_05_CLE_LAC,mattglen_,50
@@ -34060,7 +34061,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,vedjos,49
 2021_05_CLE_LAC,venzor_james,50
 2021_05_CLE_LAC,Vick7nyk,39
-2021_05_CLE_LAC,ViennaFalcons,45
 2021_05_CLE_LAC,vikram_logan,64
 2021_05_CLE_LAC,VinceOMahony,54
 2021_05_CLE_LAC,VinnyCal,50
@@ -34287,6 +34287,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,manalytics3,80
 2021_05_CHI_LV,MarcRichards284,62
 2021_05_CHI_LV,Market,69
+2021_05_CHI_LV,MarkoMarkonym,45
 2021_05_CHI_LV,marrodc,81
 2021_05_CHI_LV,Martentoellner,67
 2021_05_CHI_LV,mattglen_,76
@@ -34442,7 +34443,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,vedjos,64
 2021_05_CHI_LV,venzor_james,50
 2021_05_CHI_LV,Vick7nyk,73
-2021_05_CHI_LV,ViennaFalcons,45
 2021_05_CHI_LV,vikram_logan,76
 2021_05_CHI_LV,VinceOMahony,75
 2021_05_CHI_LV,VinnyCal,64
@@ -34669,6 +34669,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,manalytics3,61
 2021_05_SF_ARI,MarcRichards284,65
 2021_05_SF_ARI,Market,71
+2021_05_SF_ARI,MarkoMarkonym,53
 2021_05_SF_ARI,marrodc,79
 2021_05_SF_ARI,Martentoellner,66
 2021_05_SF_ARI,mattglen_,78
@@ -34824,7 +34825,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,vedjos,58
 2021_05_SF_ARI,venzor_james,50
 2021_05_SF_ARI,Vick7nyk,68
-2021_05_SF_ARI,ViennaFalcons,53
 2021_05_SF_ARI,vikram_logan,64
 2021_05_SF_ARI,VinceOMahony,76
 2021_05_SF_ARI,VinnyCal,50
@@ -35051,6 +35051,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,manalytics3,68
 2021_05_NYG_DAL,MarcRichards284,69
 2021_05_NYG_DAL,Market,75
+2021_05_NYG_DAL,MarkoMarkonym,76
 2021_05_NYG_DAL,marrodc,100
 2021_05_NYG_DAL,Martentoellner,71
 2021_05_NYG_DAL,mattglen_,49
@@ -35206,7 +35207,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,vedjos,59
 2021_05_NYG_DAL,venzor_james,50
 2021_05_NYG_DAL,Vick7nyk,100
-2021_05_NYG_DAL,ViennaFalcons,76
 2021_05_NYG_DAL,vikram_logan,74
 2021_05_NYG_DAL,VinceOMahony,73
 2021_05_NYG_DAL,VinnyCal,81
@@ -35434,6 +35434,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,manalytics3,45
 2021_05_BUF_KC,MarcRichards284,60
 2021_05_BUF_KC,Market,56
+2021_05_BUF_KC,MarkoMarkonym,64
 2021_05_BUF_KC,marrodc,71
 2021_05_BUF_KC,Martentoellner,58
 2021_05_BUF_KC,mattglen_,60
@@ -35591,7 +35592,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,vedjos,79
 2021_05_BUF_KC,venzor_james,50
 2021_05_BUF_KC,Vick7nyk,61
-2021_05_BUF_KC,ViennaFalcons,64
 2021_05_BUF_KC,vikram_logan,59
 2021_05_BUF_KC,VinceOMahony,57
 2021_05_BUF_KC,VinnyCal,68
@@ -35823,6 +35823,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,manalytics3,59
 2021_05_IND_BAL,MarcRichards284,72
 2021_05_IND_BAL,Market,76
+2021_05_IND_BAL,MarkoMarkonym,76
 2021_05_IND_BAL,marrodc,100
 2021_05_IND_BAL,Martentoellner,71
 2021_05_IND_BAL,mattglen_,100
@@ -35982,7 +35983,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,vedjos,70
 2021_05_IND_BAL,venzor_james,50
 2021_05_IND_BAL,Vick7nyk,57
-2021_05_IND_BAL,ViennaFalcons,76
 2021_05_IND_BAL,vikram_logan,70
 2021_05_IND_BAL,VinceOMahony,81
 2021_05_IND_BAL,VinnyCal,100
@@ -36185,6 +36185,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,MarcBRobertson,20
 2021_06_TB_PHI,MarcRichards284,50
 2021_06_TB_PHI,Market,29
+2021_06_TB_PHI,MarkoMarkonym,40
 2021_06_TB_PHI,marrodc,37
 2021_06_TB_PHI,Martentoellner,26
 2021_06_TB_PHI,mattglen_,0
@@ -36312,7 +36313,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,v3lardy,0
 2021_06_TB_PHI,vedjos,0
 2021_06_TB_PHI,Vick7nyk,0
-2021_06_TB_PHI,ViennaFalcons,40
 2021_06_TB_PHI,vikram_logan,50
 2021_06_TB_PHI,VinceOMahony,23
 2021_06_TB_PHI,VinnyCal,19
@@ -36522,6 +36522,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,MarcBRobertson,42
 2021_06_MIA_JAX,MarcRichards284,53
 2021_06_MIA_JAX,Market,46
+2021_06_MIA_JAX,MarkoMarkonym,41
 2021_06_MIA_JAX,marrodc,40
 2021_06_MIA_JAX,Martentoellner,36
 2021_06_MIA_JAX,mattglen_,27
@@ -36655,7 +36656,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,vedjos,56
 2021_06_MIA_JAX,Vick7nyk,20
 2021_06_MIA_JAX,vidhartbhatia,42
-2021_06_MIA_JAX,ViennaFalcons,41
 2021_06_MIA_JAX,vikram_logan,50
 2021_06_MIA_JAX,VinceOMahony,34
 2021_06_MIA_JAX,VinnyCal,50
@@ -36866,6 +36866,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,MarcBRobertson,47
 2021_06_LAC_BAL,MarcRichards284,48
 2021_06_LAC_BAL,Market,61
+2021_06_LAC_BAL,MarkoMarkonym,42
 2021_06_LAC_BAL,marrodc,40
 2021_06_LAC_BAL,Martentoellner,61
 2021_06_LAC_BAL,mattglen_,50
@@ -37001,7 +37002,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,vedjos,47
 2021_06_LAC_BAL,Vick7nyk,40
 2021_06_LAC_BAL,vidhartbhatia,60
-2021_06_LAC_BAL,ViennaFalcons,42
 2021_06_LAC_BAL,vikram_logan,43
 2021_06_LAC_BAL,VinceOMahony,55
 2021_06_LAC_BAL,VinnyCal,44
@@ -37212,6 +37212,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,MarcBRobertson,45
 2021_06_MIN_CAR,MarcRichards284,35
 2021_06_MIN_CAR,Market,44
+2021_06_MIN_CAR,MarkoMarkonym,44
 2021_06_MIN_CAR,marrodc,60
 2021_06_MIN_CAR,Martentoellner,44
 2021_06_MIN_CAR,matt12oneil,50
@@ -37348,7 +37349,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,vedjos,39
 2021_06_MIN_CAR,Vick7nyk,35
 2021_06_MIN_CAR,vidhartbhatia,40
-2021_06_MIN_CAR,ViennaFalcons,44
 2021_06_MIN_CAR,vikram_logan,41
 2021_06_MIN_CAR,VinceOMahony,56
 2021_06_MIN_CAR,VinnyCal,45
@@ -37559,6 +37559,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,MarcBRobertson,35
 2021_06_GB_CHI,MarcRichards284,17
 2021_06_GB_CHI,Market,32
+2021_06_GB_CHI,MarkoMarkonym,29
 2021_06_GB_CHI,marrodc,31
 2021_06_GB_CHI,Martentoellner,31
 2021_06_GB_CHI,mattglen_,23
@@ -37694,7 +37695,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,vedjos,24
 2021_06_GB_CHI,Vick7nyk,34
 2021_06_GB_CHI,vidhartbhatia,25
-2021_06_GB_CHI,ViennaFalcons,29
 2021_06_GB_CHI,vikram_logan,25
 2021_06_GB_CHI,VinceOMahony,30
 2021_06_GB_CHI,VinnyCal,21
@@ -37905,6 +37905,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,MarcBRobertson,55
 2021_06_CIN_DET,MarcRichards284,43
 2021_06_CIN_DET,Market,36
+2021_06_CIN_DET,MarkoMarkonym,29
 2021_06_CIN_DET,marrodc,31
 2021_06_CIN_DET,Martentoellner,34
 2021_06_CIN_DET,mattglen_,52
@@ -38040,7 +38041,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,vedjos,27
 2021_06_CIN_DET,Vick7nyk,42
 2021_06_CIN_DET,vidhartbhatia,39
-2021_06_CIN_DET,ViennaFalcons,29
 2021_06_CIN_DET,vikram_logan,45
 2021_06_CIN_DET,VinceOMahony,42
 2021_06_CIN_DET,VinnyCal,45
@@ -38251,6 +38251,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,MarcBRobertson,85
 2021_06_HOU_IND,MarcRichards284,70
 2021_06_HOU_IND,Market,79
+2021_06_HOU_IND,MarkoMarkonym,60
 2021_06_HOU_IND,marrodc,62
 2021_06_HOU_IND,Martentoellner,80
 2021_06_HOU_IND,mattglen_,88
@@ -38386,7 +38387,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,vedjos,74
 2021_06_HOU_IND,Vick7nyk,64
 2021_06_HOU_IND,vidhartbhatia,84
-2021_06_HOU_IND,ViennaFalcons,60
 2021_06_HOU_IND,vikram_logan,78
 2021_06_HOU_IND,VinceOMahony,81
 2021_06_HOU_IND,VinnyCal,55
@@ -38597,6 +38597,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,MarcBRobertson,5
 2021_06_LA_NYG,MarcRichards284,30
 2021_06_LA_NYG,Market,26
+2021_06_LA_NYG,MarkoMarkonym,60
 2021_06_LA_NYG,marrodc,0
 2021_06_LA_NYG,Martentoellner,25
 2021_06_LA_NYG,mattglen_,0
@@ -38732,7 +38733,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,vedjos,17
 2021_06_LA_NYG,Vick7nyk,29
 2021_06_LA_NYG,vidhartbhatia,18
-2021_06_LA_NYG,ViennaFalcons,60
 2021_06_LA_NYG,vikram_logan,35
 2021_06_LA_NYG,VinceOMahony,31
 2021_06_LA_NYG,VinnyCal,17
@@ -38943,6 +38943,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,MarcBRobertson,0
 2021_06_KC_WAS,MarcRichards284,0
 2021_06_KC_WAS,Market,30
+2021_06_KC_WAS,MarkoMarkonym,33
 2021_06_KC_WAS,marrodc,36
 2021_06_KC_WAS,Martentoellner,29
 2021_06_KC_WAS,mattglen_,0
@@ -39078,7 +39079,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,vedjos,24
 2021_06_KC_WAS,Vick7nyk,17
 2021_06_KC_WAS,vidhartbhatia,16
-2021_06_KC_WAS,ViennaFalcons,33
 2021_06_KC_WAS,vikram_logan,20
 2021_06_KC_WAS,VinceOMahony,27
 2021_06_KC_WAS,VinnyCal,7
@@ -39289,6 +39289,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,MarcBRobertson,51
 2021_06_ARI_CLE,MarcRichards284,53
 2021_06_ARI_CLE,Market,57
+2021_06_ARI_CLE,MarkoMarkonym,62
 2021_06_ARI_CLE,marrodc,39
 2021_06_ARI_CLE,Martentoellner,62
 2021_06_ARI_CLE,matt12oneil,50
@@ -39425,7 +39426,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,vedjos,58
 2021_06_ARI_CLE,Vick7nyk,54
 2021_06_ARI_CLE,vidhartbhatia,45
-2021_06_ARI_CLE,ViennaFalcons,62
 2021_06_ARI_CLE,vikram_logan,32
 2021_06_ARI_CLE,VinceOMahony,59
 2021_06_ARI_CLE,VinnyCal,66
@@ -39637,6 +39637,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,MarcBRobertson,51
 2021_06_LV_DEN,MarcRichards284,56
 2021_06_LV_DEN,Market,65
+2021_06_LV_DEN,MarkoMarkonym,70
 2021_06_LV_DEN,marrodc,66
 2021_06_LV_DEN,Martentoellner,60
 2021_06_LV_DEN,matt12oneil,50
@@ -39773,7 +39774,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,vedjos,40
 2021_06_LV_DEN,Vick7nyk,42
 2021_06_LV_DEN,vidhartbhatia,56
-2021_06_LV_DEN,ViennaFalcons,70
 2021_06_LV_DEN,vikram_logan,61
 2021_06_LV_DEN,VinceOMahony,61
 2021_06_LV_DEN,VinnyCal,41
@@ -39985,6 +39985,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,MarcBRobertson,40
 2021_06_DAL_NE,MarcRichards284,45
 2021_06_DAL_NE,Market,36
+2021_06_DAL_NE,MarkoMarkonym,35
 2021_06_DAL_NE,marrodc,0
 2021_06_DAL_NE,Martentoellner,40
 2021_06_DAL_NE,matt12oneil,50
@@ -40121,7 +40122,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,vedjos,26
 2021_06_DAL_NE,Vick7nyk,30
 2021_06_DAL_NE,vidhartbhatia,35
-2021_06_DAL_NE,ViennaFalcons,35
 2021_06_DAL_NE,vikram_logan,28
 2021_06_DAL_NE,VinceOMahony,42
 2021_06_DAL_NE,VinnyCal,31
@@ -40334,6 +40334,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,MarcBRobertson,52
 2021_06_SEA_PIT,MarcRichards284,85
 2021_06_SEA_PIT,Market,66
+2021_06_SEA_PIT,MarkoMarkonym,45
 2021_06_SEA_PIT,marrodc,60
 2021_06_SEA_PIT,Martentoellner,63
 2021_06_SEA_PIT,matt12oneil,50
@@ -40470,7 +40471,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,vedjos,41
 2021_06_SEA_PIT,Vick7nyk,53
 2021_06_SEA_PIT,vidhartbhatia,48
-2021_06_SEA_PIT,ViennaFalcons,45
 2021_06_SEA_PIT,vikram_logan,57
 2021_06_SEA_PIT,VinceOMahony,45
 2021_06_SEA_PIT,VinnyCal,58
@@ -40685,6 +40685,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,MarcBRobertson,32
 2021_06_BUF_TEN,MarcRichards284,36
 2021_06_BUF_TEN,Market,31
+2021_06_BUF_TEN,MarkoMarkonym,25
 2021_06_BUF_TEN,marrodc,0
 2021_06_BUF_TEN,Martentoellner,32
 2021_06_BUF_TEN,matt12oneil,50
@@ -40821,7 +40822,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,vedjos,0
 2021_06_BUF_TEN,Vick7nyk,40
 2021_06_BUF_TEN,vidhartbhatia,25
-2021_06_BUF_TEN,ViennaFalcons,25
 2021_06_BUF_TEN,vikram_logan,25
 2021_06_BUF_TEN,VinceOMahony,25
 2021_06_BUF_TEN,VinnyCal,38
@@ -41003,6 +41003,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,manalytics3,39
 2021_07_DEN_CLE,MarcRichards284,71
 2021_07_DEN_CLE,Market,53
+2021_07_DEN_CLE,MarkoMarkonym,30
 2021_07_DEN_CLE,marrodc,46
 2021_07_DEN_CLE,Martentoellner,50
 2021_07_DEN_CLE,mattglen_,100
@@ -41114,7 +41115,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,ukbradc,40
 2021_07_DEN_CLE,v3lardy,100
 2021_07_DEN_CLE,vedjos,42
-2021_07_DEN_CLE,ViennaFalcons,30
 2021_07_DEN_CLE,VinceOMahony,43
 2021_07_DEN_CLE,WadeFuller,61
 2021_07_DEN_CLE,waltzdawg,58
@@ -41317,6 +41317,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,manalytics3,65
 2021_07_CIN_BAL,MarcRichards284,70
 2021_07_CIN_BAL,Market,71
+2021_07_CIN_BAL,MarkoMarkonym,73
 2021_07_CIN_BAL,marrodc,77
 2021_07_CIN_BAL,Martentoellner,70
 2021_07_CIN_BAL,matt12oneil,50
@@ -41441,7 +41442,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,v3lardy,100
 2021_07_CIN_BAL,vedjos,76
 2021_07_CIN_BAL,Vick7nyk,50
-2021_07_CIN_BAL,ViennaFalcons,73
 2021_07_CIN_BAL,VinceOMahony,68
 2021_07_CIN_BAL,Vyse_the_Legend,100
 2021_07_CIN_BAL,WadeFuller,69
@@ -41647,6 +41647,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,manalytics3,88
 2021_07_WAS_GB,MarcRichards284,85
 2021_07_WAS_GB,Market,77
+2021_07_WAS_GB,MarkoMarkonym,66
 2021_07_WAS_GB,marrodc,77
 2021_07_WAS_GB,Martentoellner,78
 2021_07_WAS_GB,matt12oneil,50
@@ -41771,7 +41772,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,v3lardy,100
 2021_07_WAS_GB,vedjos,78
 2021_07_WAS_GB,Vick7nyk,50
-2021_07_WAS_GB,ViennaFalcons,66
 2021_07_WAS_GB,VinceOMahony,69
 2021_07_WAS_GB,Vyse_the_Legend,100
 2021_07_WAS_GB,WadeFuller,72
@@ -41977,6 +41977,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,manalytics3,50
 2021_07_ATL_MIA,MarcRichards284,52
 2021_07_ATL_MIA,Market,45
+2021_07_ATL_MIA,MarkoMarkonym,40
 2021_07_ATL_MIA,marrodc,40
 2021_07_ATL_MIA,Martentoellner,41
 2021_07_ATL_MIA,matt12oneil,50
@@ -42101,7 +42102,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,v3lardy,0
 2021_07_ATL_MIA,vedjos,32
 2021_07_ATL_MIA,Vick7nyk,50
-2021_07_ATL_MIA,ViennaFalcons,40
 2021_07_ATL_MIA,VinceOMahony,60
 2021_07_ATL_MIA,Vyse_the_Legend,65
 2021_07_ATL_MIA,WadeFuller,50
@@ -42307,6 +42307,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,manalytics3,50
 2021_07_NYJ_NE,MarcRichards284,69
 2021_07_NYJ_NE,Market,73
+2021_07_NYJ_NE,MarkoMarkonym,76
 2021_07_NYJ_NE,marrodc,77
 2021_07_NYJ_NE,Martentoellner,70
 2021_07_NYJ_NE,matt12oneil,50
@@ -42431,7 +42432,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,v3lardy,100
 2021_07_NYJ_NE,vedjos,79
 2021_07_NYJ_NE,Vick7nyk,50
-2021_07_NYJ_NE,ViennaFalcons,76
 2021_07_NYJ_NE,VinceOMahony,69
 2021_07_NYJ_NE,Vyse_the_Legend,100
 2021_07_NYJ_NE,WadeFuller,72
@@ -42637,6 +42637,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,manalytics3,50
 2021_07_CAR_NYG,MarcRichards284,43
 2021_07_CAR_NYG,Market,41
+2021_07_CAR_NYG,MarkoMarkonym,61
 2021_07_CAR_NYG,marrodc,45
 2021_07_CAR_NYG,Martentoellner,42
 2021_07_CAR_NYG,matt12oneil,50
@@ -42761,7 +42762,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,v3lardy,0
 2021_07_CAR_NYG,vedjos,35
 2021_07_CAR_NYG,Vick7nyk,50
-2021_07_CAR_NYG,ViennaFalcons,61
 2021_07_CAR_NYG,VinceOMahony,50
 2021_07_CAR_NYG,Vyse_the_Legend,0
 2021_07_CAR_NYG,WadeFuller,41
@@ -42967,6 +42967,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,manalytics3,50
 2021_07_KC_TEN,MarcRichards284,25
 2021_07_KC_TEN,Market,34
+2021_07_KC_TEN,MarkoMarkonym,23
 2021_07_KC_TEN,marrodc,38
 2021_07_KC_TEN,Martentoellner,36
 2021_07_KC_TEN,matt12oneil,50
@@ -43091,7 +43092,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,v3lardy,100
 2021_07_KC_TEN,vedjos,24
 2021_07_KC_TEN,Vick7nyk,50
-2021_07_KC_TEN,ViennaFalcons,23
 2021_07_KC_TEN,VinceOMahony,39
 2021_07_KC_TEN,Vyse_the_Legend,26
 2021_07_KC_TEN,WadeFuller,35
@@ -43299,6 +43299,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,manalytics3,50
 2021_07_DET_LA,MarcRichards284,85
 2021_07_DET_LA,Market,90
+2021_07_DET_LA,MarkoMarkonym,89
 2021_07_DET_LA,marrodc,100
 2021_07_DET_LA,Martentoellner,93
 2021_07_DET_LA,matt12oneil,50
@@ -43424,7 +43425,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,v3lardy,100
 2021_07_DET_LA,vedjos,91
 2021_07_DET_LA,Vick7nyk,100
-2021_07_DET_LA,ViennaFalcons,89
 2021_07_DET_LA,VinceOMahony,67
 2021_07_DET_LA,Vyse_the_Legend,100
 2021_07_DET_LA,WadeFuller,83
@@ -43632,6 +43632,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,manalytics3,50
 2021_07_PHI_LV,MarcRichards284,50
 2021_07_PHI_LV,Market,51
+2021_07_PHI_LV,MarkoMarkonym,65
 2021_07_PHI_LV,marrodc,60
 2021_07_PHI_LV,Martentoellner,61
 2021_07_PHI_LV,matt12oneil,50
@@ -43757,7 +43758,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,v3lardy,0
 2021_07_PHI_LV,vedjos,65
 2021_07_PHI_LV,Vick7nyk,27
-2021_07_PHI_LV,ViennaFalcons,65
 2021_07_PHI_LV,VinceOMahony,62
 2021_07_PHI_LV,Vyse_the_Legend,0
 2021_07_PHI_LV,WadeFuller,59
@@ -43965,6 +43965,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,manalytics3,50
 2021_07_HOU_ARI,MarcRichards284,50
 2021_07_HOU_ARI,Market,92
+2021_07_HOU_ARI,MarkoMarkonym,92
 2021_07_HOU_ARI,marrodc,100
 2021_07_HOU_ARI,Martentoellner,93
 2021_07_HOU_ARI,matt12oneil,50
@@ -44090,7 +44091,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,v3lardy,100
 2021_07_HOU_ARI,vedjos,81
 2021_07_HOU_ARI,Vick7nyk,100
-2021_07_HOU_ARI,ViennaFalcons,92
 2021_07_HOU_ARI,VinceOMahony,100
 2021_07_HOU_ARI,Vyse_the_Legend,100
 2021_07_HOU_ARI,WadeFuller,82
@@ -44298,6 +44298,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,manalytics3,50
 2021_07_CHI_TB,MarcRichards284,50
 2021_07_CHI_TB,Market,84
+2021_07_CHI_TB,MarkoMarkonym,74
 2021_07_CHI_TB,marrodc,100
 2021_07_CHI_TB,Martentoellner,85
 2021_07_CHI_TB,matt12oneil,50
@@ -44423,7 +44424,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,v3lardy,100
 2021_07_CHI_TB,vedjos,90
 2021_07_CHI_TB,Vick7nyk,64
-2021_07_CHI_TB,ViennaFalcons,74
 2021_07_CHI_TB,VinceOMahony,69
 2021_07_CHI_TB,Vyse_the_Legend,90
 2021_07_CHI_TB,WadeFuller,77
@@ -44633,6 +44633,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,manalytics3,50
 2021_07_IND_SF,MarcRichards284,50
 2021_07_IND_SF,Market,61
+2021_07_IND_SF,MarkoMarkonym,67
 2021_07_IND_SF,marrodc,40
 2021_07_IND_SF,Martentoellner,61
 2021_07_IND_SF,matt12oneil,50
@@ -44759,7 +44760,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,v3lardy,100
 2021_07_IND_SF,vedjos,43
 2021_07_IND_SF,Vick7nyk,46
-2021_07_IND_SF,ViennaFalcons,67
 2021_07_IND_SF,vikram_logan,50
 2021_07_IND_SF,VinceOMahony,56
 2021_07_IND_SF,Vyse_the_Legend,33
@@ -44970,6 +44970,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,manalytics3,50
 2021_07_NO_SEA,MarcRichards284,50
 2021_07_NO_SEA,Market,32
+2021_07_NO_SEA,MarkoMarkonym,31
 2021_07_NO_SEA,marrodc,38
 2021_07_NO_SEA,Martentoellner,35
 2021_07_NO_SEA,matt12oneil,50
@@ -45098,7 +45099,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,v3lardy,0
 2021_07_NO_SEA,vedjos,18
 2021_07_NO_SEA,Vick7nyk,52
-2021_07_NO_SEA,ViennaFalcons,31
 2021_07_NO_SEA,vikram_logan,30
 2021_07_NO_SEA,VinceOMahony,61
 2021_07_NO_SEA,Vyse_the_Legend,46
@@ -45274,6 +45274,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,mA26159197,74
 2021_08_GB_ARI,maloney_jarrod,44
 2021_08_GB_ARI,Market,72
+2021_08_GB_ARI,MarkoMarkonym,60
 2021_08_GB_ARI,marrodc,60
 2021_08_GB_ARI,MattGullotta,50
 2021_08_GB_ARI,MattOctuplicate,59
@@ -45384,7 +45385,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,ukbradc,61
 2021_08_GB_ARI,v3lardy,100
 2021_08_GB_ARI,vedjos,35
-2021_08_GB_ARI,ViennaFalcons,60
 2021_08_GB_ARI,vikram_logan,71
 2021_08_GB_ARI,WadeFuller,63
 2021_08_GB_ARI,wessonmo,69
@@ -45573,6 +45573,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,mA26159197,27
 2021_08_CAR_ATL,maloney_jarrod,46
 2021_08_CAR_ATL,Market,55
+2021_08_CAR_ATL,MarkoMarkonym,40
 2021_08_CAR_ATL,marrodc,55
 2021_08_CAR_ATL,Martentoellner,50
 2021_08_CAR_ATL,mattglen_,60
@@ -45693,7 +45694,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,ukbradc,50
 2021_08_CAR_ATL,v3lardy,0
 2021_08_CAR_ATL,vedjos,43
-2021_08_CAR_ATL,ViennaFalcons,40
 2021_08_CAR_ATL,vikram_logan,53
 2021_08_CAR_ATL,VinceOMahony,61
 2021_08_CAR_ATL,WadeFuller,54
@@ -45883,6 +45883,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,mA26159197,100
 2021_08_MIA_BUF,maloney_jarrod,100
 2021_08_MIA_BUF,Market,88
+2021_08_MIA_BUF,MarkoMarkonym,77
 2021_08_MIA_BUF,marrodc,100
 2021_08_MIA_BUF,Martentoellner,50
 2021_08_MIA_BUF,mattglen_,100
@@ -46003,7 +46004,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,ukbradc,100
 2021_08_MIA_BUF,v3lardy,100
 2021_08_MIA_BUF,vedjos,88
-2021_08_MIA_BUF,ViennaFalcons,77
 2021_08_MIA_BUF,vikram_logan,78
 2021_08_MIA_BUF,VinceOMahony,100
 2021_08_MIA_BUF,WadeFuller,81
@@ -46193,6 +46193,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,mA26159197,43
 2021_08_SF_CHI,maloney_jarrod,60
 2021_08_SF_CHI,Market,34
+2021_08_SF_CHI,MarkoMarkonym,45
 2021_08_SF_CHI,marrodc,40
 2021_08_SF_CHI,Martentoellner,50
 2021_08_SF_CHI,mattglen_,45
@@ -46313,7 +46314,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,ukbradc,58
 2021_08_SF_CHI,v3lardy,100
 2021_08_SF_CHI,vedjos,29
-2021_08_SF_CHI,ViennaFalcons,45
 2021_08_SF_CHI,vikram_logan,37
 2021_08_SF_CHI,VinceOMahony,50
 2021_08_SF_CHI,WadeFuller,41
@@ -46503,6 +46503,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,mA26159197,60
 2021_08_PIT_CLE,maloney_jarrod,59
 2021_08_PIT_CLE,Market,67
+2021_08_PIT_CLE,MarkoMarkonym,68
 2021_08_PIT_CLE,marrodc,62
 2021_08_PIT_CLE,Martentoellner,50
 2021_08_PIT_CLE,mattglen_,76
@@ -46623,7 +46624,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,ukbradc,60
 2021_08_PIT_CLE,v3lardy,100
 2021_08_PIT_CLE,vedjos,55
-2021_08_PIT_CLE,ViennaFalcons,68
 2021_08_PIT_CLE,vikram_logan,71
 2021_08_PIT_CLE,VinceOMahony,65
 2021_08_PIT_CLE,WadeFuller,59
@@ -46812,6 +46812,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,mA26159197,59
 2021_08_PHI_DET,maloney_jarrod,69
 2021_08_PHI_DET,Market,39
+2021_08_PHI_DET,MarkoMarkonym,43
 2021_08_PHI_DET,marrodc,46
 2021_08_PHI_DET,Martentoellner,50
 2021_08_PHI_DET,mattglen_,37
@@ -46932,7 +46933,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,ukbradc,39
 2021_08_PHI_DET,v3lardy,0
 2021_08_PHI_DET,vedjos,55
-2021_08_PHI_DET,ViennaFalcons,43
 2021_08_PHI_DET,vikram_logan,38
 2021_08_PHI_DET,VinceOMahony,50
 2021_08_PHI_DET,WadeFuller,49
@@ -47122,6 +47122,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,mA26159197,0
 2021_08_LA_HOU,maloney_jarrod,20
 2021_08_LA_HOU,Market,12
+2021_08_LA_HOU,MarkoMarkonym,19
 2021_08_LA_HOU,marrodc,0
 2021_08_LA_HOU,Martentoellner,50
 2021_08_LA_HOU,mattglen_,0
@@ -47242,7 +47243,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,ukbradc,2
 2021_08_LA_HOU,v3lardy,0
 2021_08_LA_HOU,vedjos,7
-2021_08_LA_HOU,ViennaFalcons,19
 2021_08_LA_HOU,vikram_logan,7
 2021_08_LA_HOU,VinceOMahony,0
 2021_08_LA_HOU,WadeFuller,28
@@ -47432,6 +47432,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,mA26159197,47
 2021_08_TEN_IND,maloney_jarrod,41
 2021_08_TEN_IND,Market,60
+2021_08_TEN_IND,MarkoMarkonym,33
 2021_08_TEN_IND,marrodc,41
 2021_08_TEN_IND,Martentoellner,50
 2021_08_TEN_IND,mattglen_,37
@@ -47552,7 +47553,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,ukbradc,42
 2021_08_TEN_IND,v3lardy,0
 2021_08_TEN_IND,vedjos,59
-2021_08_TEN_IND,ViennaFalcons,33
 2021_08_TEN_IND,vikram_logan,43
 2021_08_TEN_IND,VinceOMahony,50
 2021_08_TEN_IND,WadeFuller,53
@@ -47742,6 +47742,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,mA26159197,0
 2021_08_CIN_NYJ,maloney_jarrod,55
 2021_08_CIN_NYJ,Market,19
+2021_08_CIN_NYJ,MarkoMarkonym,27
 2021_08_CIN_NYJ,marrodc,0
 2021_08_CIN_NYJ,Martentoellner,50
 2021_08_CIN_NYJ,mattglen_,33
@@ -47862,7 +47863,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,ukbradc,0
 2021_08_CIN_NYJ,v3lardy,0
 2021_08_CIN_NYJ,vedjos,15
-2021_08_CIN_NYJ,ViennaFalcons,27
 2021_08_CIN_NYJ,vikram_logan,23
 2021_08_CIN_NYJ,VinceOMahony,0
 2021_08_CIN_NYJ,WadeFuller,29
@@ -48052,6 +48052,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,mA26159197,69
 2021_08_NE_LAC,maloney_jarrod,40
 2021_08_NE_LAC,Market,63
+2021_08_NE_LAC,MarkoMarkonym,57
 2021_08_NE_LAC,marrodc,55
 2021_08_NE_LAC,Martentoellner,59
 2021_08_NE_LAC,mattglen_,70
@@ -48172,7 +48173,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,ukbradc,72
 2021_08_NE_LAC,v3lardy,0
 2021_08_NE_LAC,vedjos,54
-2021_08_NE_LAC,ViennaFalcons,57
 2021_08_NE_LAC,vikram_logan,65
 2021_08_NE_LAC,VinceOMahony,50
 2021_08_NE_LAC,WadeFuller,63
@@ -48362,6 +48362,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,mA26159197,75
 2021_08_JAX_SEA,maloney_jarrod,56
 2021_08_JAX_SEA,Market,64
+2021_08_JAX_SEA,MarkoMarkonym,56
 2021_08_JAX_SEA,marrodc,58
 2021_08_JAX_SEA,Martentoellner,66
 2021_08_JAX_SEA,mattglen_,65
@@ -48482,7 +48483,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,ukbradc,42
 2021_08_JAX_SEA,v3lardy,100
 2021_08_JAX_SEA,vedjos,43
-2021_08_JAX_SEA,ViennaFalcons,56
 2021_08_JAX_SEA,vikram_logan,62
 2021_08_JAX_SEA,VinceOMahony,72
 2021_08_JAX_SEA,WadeFuller,61
@@ -48672,6 +48672,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,mA26159197,85
 2021_08_WAS_DEN,maloney_jarrod,63
 2021_08_WAS_DEN,Market,64
+2021_08_WAS_DEN,MarkoMarkonym,58
 2021_08_WAS_DEN,marrodc,58
 2021_08_WAS_DEN,Martentoellner,62
 2021_08_WAS_DEN,mattglen_,70
@@ -48792,7 +48793,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,ukbradc,58
 2021_08_WAS_DEN,v3lardy,0
 2021_08_WAS_DEN,vedjos,42
-2021_08_WAS_DEN,ViennaFalcons,58
 2021_08_WAS_DEN,vikram_logan,60
 2021_08_WAS_DEN,VinceOMahony,65
 2021_08_WAS_DEN,WadeFuller,63
@@ -48982,6 +48982,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,mA26159197,43
 2021_08_TB_NO,maloney_jarrod,54
 2021_08_TB_NO,Market,36
+2021_08_TB_NO,MarkoMarkonym,56
 2021_08_TB_NO,marrodc,0
 2021_08_TB_NO,Martentoellner,34
 2021_08_TB_NO,mattglen_,31
@@ -49102,7 +49103,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,ukbradc,36
 2021_08_TB_NO,v3lardy,0
 2021_08_TB_NO,vedjos,28
-2021_08_TB_NO,ViennaFalcons,56
 2021_08_TB_NO,vikram_logan,44
 2021_08_TB_NO,VinceOMahony,0
 2021_08_TB_NO,WadeFuller,32
@@ -49293,6 +49293,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,mA26159197,37
 2021_08_DAL_MIN,maloney_jarrod,0
 2021_08_DAL_MIN,Market,67
+2021_08_DAL_MIN,MarkoMarkonym,56
 2021_08_DAL_MIN,marrodc,46
 2021_08_DAL_MIN,Martentoellner,62
 2021_08_DAL_MIN,mattglen_,24
@@ -49414,7 +49415,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,ukbradc,42
 2021_08_DAL_MIN,v3lardy,0
 2021_08_DAL_MIN,vedjos,25
-2021_08_DAL_MIN,ViennaFalcons,56
 2021_08_DAL_MIN,vikram_logan,53
 2021_08_DAL_MIN,VinceOMahony,50
 2021_08_DAL_MIN,vivo_NFL,45
@@ -49608,6 +49608,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,maloney_jarrod,70
 2021_08_NYG_KC,MarkAtwood1984,57
 2021_08_NYG_KC,Market,82
+2021_08_NYG_KC,MarkoMarkonym,82
 2021_08_NYG_KC,marrodc,69
 2021_08_NYG_KC,Martentoellner,82
 2021_08_NYG_KC,matt12oneil,50
@@ -49731,7 +49732,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,ukbradc,76
 2021_08_NYG_KC,v3lardy,100
 2021_08_NYG_KC,vedjos,61
-2021_08_NYG_KC,ViennaFalcons,82
 2021_08_NYG_KC,vikram_logan,58
 2021_08_NYG_KC,VinceOMahony,100
 2021_08_NYG_KC,vivo_NFL,55
@@ -49923,6 +49923,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,MarcRichards284,50
 2021_09_NYJ_IND,MarkAtwood1984,59
 2021_09_NYJ_IND,Market,81
+2021_09_NYJ_IND,MarkoMarkonym,60
 2021_09_NYJ_IND,marrodc,48
 2021_09_NYJ_IND,Martentoellner,83
 2021_09_NYJ_IND,matt12oneil,50
@@ -50033,7 +50034,6 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,v3lardy,100
 2021_09_NYJ_IND,vedjos,84
 2021_09_NYJ_IND,venzor_james,100
-2021_09_NYJ_IND,ViennaFalcons,60
 2021_09_NYJ_IND,vikram_logan,50
 2021_09_NYJ_IND,VinceOMahony,71
 2021_09_NYJ_IND,vivo_NFL,75
@@ -50234,6 +50234,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,MarcRichards284,50
 2021_09_MIN_BAL,MarkAtwood1984,56
 2021_09_MIN_BAL,Market,73
+2021_09_MIN_BAL,MarkoMarkonym,61
 2021_09_MIN_BAL,marrodc,58
 2021_09_MIN_BAL,Martentoellner,71
 2021_09_MIN_BAL,matt12oneil,50
@@ -50356,7 +50357,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,v3lardy,100
 2021_09_MIN_BAL,vedjos,60
 2021_09_MIN_BAL,venzor_james,70
-2021_09_MIN_BAL,ViennaFalcons,61
 2021_09_MIN_BAL,vikram_logan,72
 2021_09_MIN_BAL,VinceOMahony,99
 2021_09_MIN_BAL,vivo_NFL,55
@@ -50558,6 +50558,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,MarcRichards284,50
 2021_09_NE_CAR,MarkAtwood1984,42
 2021_09_NE_CAR,Market,38
+2021_09_NE_CAR,MarkoMarkonym,46
 2021_09_NE_CAR,marrodc,14
 2021_09_NE_CAR,Martentoellner,38
 2021_09_NE_CAR,matt12oneil,50
@@ -50680,7 +50681,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,v3lardy,0
 2021_09_NE_CAR,vedjos,28
 2021_09_NE_CAR,venzor_james,40
-2021_09_NE_CAR,ViennaFalcons,46
 2021_09_NE_CAR,vikram_logan,41
 2021_09_NE_CAR,VinceOMahony,36
 2021_09_NE_CAR,vivo_NFL,45
@@ -50882,6 +50882,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,MarcRichards284,50
 2021_09_CLE_CIN,MarkAtwood1984,47
 2021_09_CLE_CIN,Market,55
+2021_09_CLE_CIN,MarkoMarkonym,55
 2021_09_CLE_CIN,marrodc,58
 2021_09_CLE_CIN,Martentoellner,55
 2021_09_CLE_CIN,matt12oneil,50
@@ -51004,7 +51005,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,v3lardy,100
 2021_09_CLE_CIN,vedjos,53
 2021_09_CLE_CIN,venzor_james,30
-2021_09_CLE_CIN,ViennaFalcons,55
 2021_09_CLE_CIN,vikram_logan,64
 2021_09_CLE_CIN,VinceOMahony,58
 2021_09_CLE_CIN,vivo_NFL,45
@@ -51206,6 +51206,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,MarcRichards284,50
 2021_09_DEN_DAL,MarkAtwood1984,54
 2021_09_DEN_DAL,Market,80
+2021_09_DEN_DAL,MarkoMarkonym,80
 2021_09_DEN_DAL,marrodc,98
 2021_09_DEN_DAL,Martentoellner,78
 2021_09_DEN_DAL,matt12oneil,50
@@ -51328,7 +51329,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,v3lardy,100
 2021_09_DEN_DAL,vedjos,80
 2021_09_DEN_DAL,venzor_james,65
-2021_09_DEN_DAL,ViennaFalcons,80
 2021_09_DEN_DAL,vikram_logan,76
 2021_09_DEN_DAL,VinceOMahony,86
 2021_09_DEN_DAL,vivo_NFL,57
@@ -51530,6 +51530,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,MarcRichards284,50
 2021_09_BUF_JAX,MarkAtwood1984,32
 2021_09_BUF_JAX,Market,11
+2021_09_BUF_JAX,MarkoMarkonym,77
 2021_09_BUF_JAX,marrodc,1
 2021_09_BUF_JAX,Martentoellner,50
 2021_09_BUF_JAX,matt12oneil,50
@@ -51652,7 +51653,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,v3lardy,0
 2021_09_BUF_JAX,vedjos,12
 2021_09_BUF_JAX,venzor_james,0
-2021_09_BUF_JAX,ViennaFalcons,77
 2021_09_BUF_JAX,vikram_logan,19
 2021_09_BUF_JAX,VinceOMahony,0
 2021_09_BUF_JAX,vivo_NFL,0
@@ -51854,6 +51854,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,MarcRichards284,50
 2021_09_HOU_MIA,MarkAtwood1984,44
 2021_09_HOU_MIA,Market,63
+2021_09_HOU_MIA,MarkoMarkonym,40
 2021_09_HOU_MIA,marrodc,44
 2021_09_HOU_MIA,Martentoellner,70
 2021_09_HOU_MIA,matt12oneil,50
@@ -51976,7 +51977,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,v3lardy,0
 2021_09_HOU_MIA,vedjos,42
 2021_09_HOU_MIA,venzor_james,50
-2021_09_HOU_MIA,ViennaFalcons,40
 2021_09_HOU_MIA,vikram_logan,71
 2021_09_HOU_MIA,VinceOMahony,72
 2021_09_HOU_MIA,vivo_NFL,46
@@ -52178,6 +52178,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,MarcRichards284,50
 2021_09_ATL_NO,MarkAtwood1984,42
 2021_09_ATL_NO,Market,71
+2021_09_ATL_NO,MarkoMarkonym,38
 2021_09_ATL_NO,marrodc,57
 2021_09_ATL_NO,Martentoellner,71
 2021_09_ATL_NO,matt12oneil,50
@@ -52300,7 +52301,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,v3lardy,100
 2021_09_ATL_NO,vedjos,59
 2021_09_ATL_NO,venzor_james,60
-2021_09_ATL_NO,ViennaFalcons,38
 2021_09_ATL_NO,vikram_logan,77
 2021_09_ATL_NO,VinceOMahony,72
 2021_09_ATL_NO,vivo_NFL,75
@@ -52502,6 +52502,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,MarcRichards284,50
 2021_09_LV_NYG,MarkAtwood1984,41
 2021_09_LV_NYG,Market,41
+2021_09_LV_NYG,MarkoMarkonym,60
 2021_09_LV_NYG,marrodc,44
 2021_09_LV_NYG,Martentoellner,37
 2021_09_LV_NYG,matt12oneil,50
@@ -52624,7 +52625,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,v3lardy,0
 2021_09_LV_NYG,vedjos,54
 2021_09_LV_NYG,venzor_james,45
-2021_09_LV_NYG,ViennaFalcons,60
 2021_09_LV_NYG,vikram_logan,38
 2021_09_LV_NYG,VinceOMahony,28
 2021_09_LV_NYG,vivo_NFL,42
@@ -52829,6 +52829,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,MarcRichards284,50
 2021_09_LAC_PHI,MarkAtwood1984,41
 2021_09_LAC_PHI,Market,50
+2021_09_LAC_PHI,MarkoMarkonym,29
 2021_09_LAC_PHI,marrodc,34
 2021_09_LAC_PHI,Martentoellner,47
 2021_09_LAC_PHI,matt12oneil,50
@@ -52952,7 +52953,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,v3lardy,0
 2021_09_LAC_PHI,vedjos,27
 2021_09_LAC_PHI,venzor_james,40
-2021_09_LAC_PHI,ViennaFalcons,29
 2021_09_LAC_PHI,vikram_logan,36
 2021_09_LAC_PHI,VinceOMahony,40
 2021_09_LAC_PHI,vivo_NFL,45
@@ -53157,6 +53157,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,MarcRichards284,50
 2021_09_GB_KC,MarkAtwood1984,36
 2021_09_GB_KC,Market,74
+2021_09_GB_KC,MarkoMarkonym,79
 2021_09_GB_KC,marrodc,90
 2021_09_GB_KC,Martentoellner,50
 2021_09_GB_KC,matt12oneil,50
@@ -53280,7 +53281,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,v3lardy,100
 2021_09_GB_KC,vedjos,43
 2021_09_GB_KC,venzor_james,100
-2021_09_GB_KC,ViennaFalcons,79
 2021_09_GB_KC,vikram_logan,61
 2021_09_GB_KC,VinceOMahony,50
 2021_09_GB_KC,vivo_NFL,46
@@ -53485,6 +53485,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,MarcRichards284,50
 2021_09_ARI_SF,MarkAtwood1984,57
 2021_09_ARI_SF,Market,68
+2021_09_ARI_SF,MarkoMarkonym,36
 2021_09_ARI_SF,marrodc,53
 2021_09_ARI_SF,Martentoellner,56
 2021_09_ARI_SF,matt12oneil,50
@@ -53608,7 +53609,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,v3lardy,0
 2021_09_ARI_SF,vedjos,83
 2021_09_ARI_SF,venzor_james,70
-2021_09_ARI_SF,ViennaFalcons,36
 2021_09_ARI_SF,vikram_logan,64
 2021_09_ARI_SF,VinceOMahony,43
 2021_09_ARI_SF,vivo_NFL,0
@@ -53816,6 +53816,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,MarcRichards284,50
 2021_09_TEN_LA,MarkAtwood1984,63
 2021_09_TEN_LA,Market,75
+2021_09_TEN_LA,MarkoMarkonym,40
 2021_09_TEN_LA,marrodc,90
 2021_09_TEN_LA,Martentoellner,71
 2021_09_TEN_LA,matt12oneil,50
@@ -53939,7 +53940,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,v3lardy,100
 2021_09_TEN_LA,vedjos,59
 2021_09_TEN_LA,venzor_james,80
-2021_09_TEN_LA,ViennaFalcons,40
 2021_09_TEN_LA,vikram_logan,75
 2021_09_TEN_LA,VinceOMahony,81
 2021_09_TEN_LA,vivo_NFL,100
@@ -54154,6 +54154,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,MarcRichards284,50
 2021_09_CHI_PIT,MarkAtwood1984,61
 2021_09_CHI_PIT,Market,73
+2021_09_CHI_PIT,MarkoMarkonym,41
 2021_09_CHI_PIT,marrodc,90
 2021_09_CHI_PIT,Martentoellner,70
 2021_09_CHI_PIT,matt12oneil,50
@@ -54278,7 +54279,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,vedjos,41
 2021_09_CHI_PIT,venzor_james,80
 2021_09_CHI_PIT,Vick7nyk,100
-2021_09_CHI_PIT,ViennaFalcons,41
 2021_09_CHI_PIT,vikram_logan,68
 2021_09_CHI_PIT,VinceOMahony,73
 2021_09_CHI_PIT,vivo_NFL,100
@@ -54458,6 +54458,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,MafiaNumbers,50
 2021_10_BAL_MIA,maloney_jarrod,55
 2021_10_BAL_MIA,Market,23
+2021_10_BAL_MIA,MarkoMarkonym,19
 2021_10_BAL_MIA,marrodc,10
 2021_10_BAL_MIA,Martentoellner,24
 2021_10_BAL_MIA,mattglen_,14
@@ -54563,7 +54564,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,v3lardy,0
 2021_10_BAL_MIA,vedjos,11
 2021_10_BAL_MIA,Vick7nyk,46
-2021_10_BAL_MIA,ViennaFalcons,19
 2021_10_BAL_MIA,vikram_logan,50
 2021_10_BAL_MIA,vivo_NFL,29
 2021_10_BAL_MIA,Vyse_the_Legend,50
@@ -54760,6 +54760,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,MafiaNumbers,50
 2021_10_ATL_DAL,maloney_jarrod,100
 2021_10_ATL_DAL,Market,77
+2021_10_ATL_DAL,MarkoMarkonym,59
 2021_10_ATL_DAL,marrodc,98
 2021_10_ATL_DAL,Martentoellner,73
 2021_10_ATL_DAL,mattglen_,88
@@ -54871,7 +54872,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,v3lardy,100
 2021_10_ATL_DAL,vedjos,72
 2021_10_ATL_DAL,Vick7nyk,67
-2021_10_ATL_DAL,ViennaFalcons,59
 2021_10_ATL_DAL,vikram_logan,50
 2021_10_ATL_DAL,vivo_NFL,70
 2021_10_ATL_DAL,Vyse_the_Legend,50
@@ -55069,6 +55069,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,MafiaNumbers,100
 2021_10_JAX_IND,maloney_jarrod,53
 2021_10_JAX_IND,Market,79
+2021_10_JAX_IND,MarkoMarkonym,67
 2021_10_JAX_IND,marrodc,98
 2021_10_JAX_IND,Martentoellner,80
 2021_10_JAX_IND,mattglen_,89
@@ -55180,7 +55181,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,v3lardy,0
 2021_10_JAX_IND,vedjos,84
 2021_10_JAX_IND,Vick7nyk,60
-2021_10_JAX_IND,ViennaFalcons,67
 2021_10_JAX_IND,vikram_logan,50
 2021_10_JAX_IND,vivo_NFL,81
 2021_10_JAX_IND,Vyse_the_Legend,50
@@ -55378,6 +55378,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,MafiaNumbers,50
 2021_10_CLE_NE,maloney_jarrod,56
 2021_10_CLE_NE,Market,55
+2021_10_CLE_NE,MarkoMarkonym,55
 2021_10_CLE_NE,marrodc,98
 2021_10_CLE_NE,Martentoellner,55
 2021_10_CLE_NE,mattglen_,35
@@ -55489,7 +55490,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,v3lardy,100
 2021_10_CLE_NE,vedjos,44
 2021_10_CLE_NE,Vick7nyk,41
-2021_10_CLE_NE,ViennaFalcons,55
 2021_10_CLE_NE,vikram_logan,50
 2021_10_CLE_NE,vivo_NFL,39
 2021_10_CLE_NE,Vyse_the_Legend,50
@@ -55687,6 +55687,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,MafiaNumbers,50
 2021_10_BUF_NYJ,maloney_jarrod,45
 2021_10_BUF_NYJ,Market,15
+2021_10_BUF_NYJ,MarkoMarkonym,26
 2021_10_BUF_NYJ,marrodc,2
 2021_10_BUF_NYJ,Martentoellner,14
 2021_10_BUF_NYJ,mattglen_,0
@@ -55798,7 +55799,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,v3lardy,0
 2021_10_BUF_NYJ,vedjos,29
 2021_10_BUF_NYJ,Vick7nyk,2
-2021_10_BUF_NYJ,ViennaFalcons,26
 2021_10_BUF_NYJ,vikram_logan,50
 2021_10_BUF_NYJ,vivo_NFL,20
 2021_10_BUF_NYJ,Vyse_the_Legend,50
@@ -55996,6 +55996,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,MafiaNumbers,50
 2021_10_DET_PIT,maloney_jarrod,55
 2021_10_DET_PIT,Market,76
+2021_10_DET_PIT,MarkoMarkonym,41
 2021_10_DET_PIT,marrodc,98
 2021_10_DET_PIT,Martentoellner,70
 2021_10_DET_PIT,mattglen_,100
@@ -56107,7 +56108,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,v3lardy,100
 2021_10_DET_PIT,vedjos,67
 2021_10_DET_PIT,Vick7nyk,68
-2021_10_DET_PIT,ViennaFalcons,41
 2021_10_DET_PIT,vikram_logan,50
 2021_10_DET_PIT,vivo_NFL,100
 2021_10_DET_PIT,Vyse_the_Legend,50
@@ -56305,6 +56305,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,MafiaNumbers,50
 2021_10_NO_TEN,maloney_jarrod,48
 2021_10_NO_TEN,Market,58
+2021_10_NO_TEN,MarkoMarkonym,58
 2021_10_NO_TEN,marrodc,98
 2021_10_NO_TEN,Martentoellner,60
 2021_10_NO_TEN,mattglen_,68
@@ -56416,7 +56417,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,v3lardy,100
 2021_10_NO_TEN,vedjos,67
 2021_10_NO_TEN,Vick7nyk,57
-2021_10_NO_TEN,ViennaFalcons,58
 2021_10_NO_TEN,vikram_logan,50
 2021_10_NO_TEN,vivo_NFL,60
 2021_10_NO_TEN,Vyse_the_Legend,50
@@ -56614,6 +56614,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,MafiaNumbers,50
 2021_10_TB_WAS,maloney_jarrod,21
 2021_10_TB_WAS,Market,21
+2021_10_TB_WAS,MarkoMarkonym,21
 2021_10_TB_WAS,marrodc,2
 2021_10_TB_WAS,Martentoellner,19
 2021_10_TB_WAS,mattglen_,0
@@ -56725,7 +56726,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,v3lardy,0
 2021_10_TB_WAS,vedjos,22
 2021_10_TB_WAS,Vick7nyk,28
-2021_10_TB_WAS,ViennaFalcons,21
 2021_10_TB_WAS,vikram_logan,50
 2021_10_TB_WAS,vivo_NFL,0
 2021_10_TB_WAS,Vyse_the_Legend,50
@@ -56923,6 +56923,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,MafiaNumbers,50
 2021_10_CAR_ARI,maloney_jarrod,80
 2021_10_CAR_ARI,Market,74
+2021_10_CAR_ARI,MarkoMarkonym,79
 2021_10_CAR_ARI,marrodc,54
 2021_10_CAR_ARI,Martentoellner,80
 2021_10_CAR_ARI,mattglen_,89
@@ -57034,7 +57035,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,v3lardy,100
 2021_10_CAR_ARI,vedjos,42
 2021_10_CAR_ARI,Vick7nyk,64
-2021_10_CAR_ARI,ViennaFalcons,79
 2021_10_CAR_ARI,vikram_logan,50
 2021_10_CAR_ARI,vivo_NFL,100
 2021_10_CAR_ARI,Vyse_the_Legend,50
@@ -57232,6 +57232,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,MafiaNumbers,50
 2021_10_MIN_LAC,maloney_jarrod,61
 2021_10_MIN_LAC,Market,63
+2021_10_MIN_LAC,MarkoMarkonym,41
 2021_10_MIN_LAC,marrodc,98
 2021_10_MIN_LAC,Martentoellner,59
 2021_10_MIN_LAC,mattglen_,62
@@ -57343,7 +57344,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,v3lardy,100
 2021_10_MIN_LAC,vedjos,45
 2021_10_MIN_LAC,Vick7nyk,44
-2021_10_MIN_LAC,ViennaFalcons,41
 2021_10_MIN_LAC,vikram_logan,50
 2021_10_MIN_LAC,vivo_NFL,61
 2021_10_MIN_LAC,Vyse_the_Legend,50
@@ -57541,6 +57541,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,MafiaNumbers,50
 2021_10_PHI_DEN,maloney_jarrod,65
 2021_10_PHI_DEN,Market,51
+2021_10_PHI_DEN,MarkoMarkonym,42
 2021_10_PHI_DEN,marrodc,60
 2021_10_PHI_DEN,Martentoellner,44
 2021_10_PHI_DEN,mattglen_,67
@@ -57652,7 +57653,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,v3lardy,0
 2021_10_PHI_DEN,vedjos,43
 2021_10_PHI_DEN,Vick7nyk,29
-2021_10_PHI_DEN,ViennaFalcons,42
 2021_10_PHI_DEN,vikram_logan,50
 2021_10_PHI_DEN,vivo_NFL,60
 2021_10_PHI_DEN,Vyse_the_Legend,50
@@ -57850,6 +57850,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,MafiaNumbers,50
 2021_10_SEA_GB,maloney_jarrod,62
 2021_10_SEA_GB,Market,61
+2021_10_SEA_GB,MarkoMarkonym,41
 2021_10_SEA_GB,marrodc,48
 2021_10_SEA_GB,Martentoellner,58
 2021_10_SEA_GB,mattglen_,38
@@ -57961,7 +57962,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,v3lardy,100
 2021_10_SEA_GB,vedjos,68
 2021_10_SEA_GB,Vick7nyk,73
-2021_10_SEA_GB,ViennaFalcons,41
 2021_10_SEA_GB,vikram_logan,50
 2021_10_SEA_GB,vivo_NFL,62
 2021_10_SEA_GB,Vyse_the_Legend,50
@@ -58161,6 +58161,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,MafiaNumbers,50
 2021_10_KC_LV,maloney_jarrod,43
 2021_10_KC_LV,Market,42
+2021_10_KC_LV,MarkoMarkonym,44
 2021_10_KC_LV,marrodc,2
 2021_10_KC_LV,Martentoellner,39
 2021_10_KC_LV,mattglen_,33
@@ -58272,7 +58273,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,v3lardy,100
 2021_10_KC_LV,vedjos,52
 2021_10_KC_LV,Vick7nyk,29
-2021_10_KC_LV,ViennaFalcons,44
 2021_10_KC_LV,vikram_logan,50
 2021_10_KC_LV,vivo_NFL,38
 2021_10_KC_LV,Vyse_the_Legend,50
@@ -58476,6 +58476,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,maloney_jarrod,27
 2021_10_LA_SF,MarcRichards284,19
 2021_10_LA_SF,Market,38
+2021_10_LA_SF,MarkoMarkonym,45
 2021_10_LA_SF,marrodc,2
 2021_10_LA_SF,Martentoellner,39
 2021_10_LA_SF,mattglen_,25
@@ -58589,7 +58590,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,v3lardy,0
 2021_10_LA_SF,vedjos,27
 2021_10_LA_SF,Vick7nyk,53
-2021_10_LA_SF,ViennaFalcons,45
 2021_10_LA_SF,vikram_logan,50
 2021_10_LA_SF,vivo_NFL,19
 2021_10_LA_SF,Vyse_the_Legend,50
@@ -58763,6 +58763,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,maloney_jarrod,50
 2021_11_NE_ATL,MarcRichards284,50
 2021_11_NE_ATL,Market,26
+2021_11_NE_ATL,MarkoMarkonym,38
 2021_11_NE_ATL,marrodc,3
 2021_11_NE_ATL,Martentoellner,30
 2021_11_NE_ATL,mattglen_,39
@@ -58863,7 +58864,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,v3lardy,0
 2021_11_NE_ATL,vedjos,25
 2021_11_NE_ATL,Vick7nyk,50
-2021_11_NE_ATL,ViennaFalcons,38
 2021_11_NE_ATL,vivo_NFL,50
 2021_11_NE_ATL,WadeFuller,26
 2021_11_NE_ATL,wessonmo,26
@@ -59039,6 +59039,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,maloney_jarrod,50
 2021_11_IND_BUF,MarcRichards284,50
 2021_11_IND_BUF,Market,74
+2021_11_IND_BUF,MarkoMarkonym,69
 2021_11_IND_BUF,marrodc,41
 2021_11_IND_BUF,Martentoellner,72
 2021_11_IND_BUF,mattglen_,83
@@ -59146,7 +59147,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,v3lardy,100
 2021_11_IND_BUF,vedjos,70
 2021_11_IND_BUF,Vick7nyk,50
-2021_11_IND_BUF,ViennaFalcons,69
 2021_11_IND_BUF,vivo_NFL,50
 2021_11_IND_BUF,WadeFuller,70
 2021_11_IND_BUF,wessonmo,74
@@ -59322,6 +59322,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,maloney_jarrod,50
 2021_11_WAS_CAR,MarcRichards284,50
 2021_11_WAS_CAR,Market,62
+2021_11_WAS_CAR,MarkoMarkonym,41
 2021_11_WAS_CAR,marrodc,65
 2021_11_WAS_CAR,Martentoellner,57
 2021_11_WAS_CAR,mattglen_,48
@@ -59430,7 +59431,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,v3lardy,100
 2021_11_WAS_CAR,vedjos,44
 2021_11_WAS_CAR,Vick7nyk,50
-2021_11_WAS_CAR,ViennaFalcons,41
 2021_11_WAS_CAR,vivo_NFL,50
 2021_11_WAS_CAR,WadeFuller,61
 2021_11_WAS_CAR,wessonmo,66
@@ -59606,6 +59606,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,maloney_jarrod,50
 2021_11_BAL_CHI,MarcRichards284,50
 2021_11_BAL_CHI,Market,33
+2021_11_BAL_CHI,MarkoMarkonym,60
 2021_11_BAL_CHI,marrodc,60
 2021_11_BAL_CHI,Martentoellner,35
 2021_11_BAL_CHI,mattglen_,24
@@ -59714,7 +59715,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,v3lardy,100
 2021_11_BAL_CHI,vedjos,26
 2021_11_BAL_CHI,Vick7nyk,50
-2021_11_BAL_CHI,ViennaFalcons,60
 2021_11_BAL_CHI,vivo_NFL,50
 2021_11_BAL_CHI,WadeFuller,27
 2021_11_BAL_CHI,wessonmo,47
@@ -59890,6 +59890,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,maloney_jarrod,50
 2021_11_DET_CLE,MarcRichards284,50
 2021_11_DET_CLE,Market,83
+2021_11_DET_CLE,MarkoMarkonym,71
 2021_11_DET_CLE,marrodc,95
 2021_11_DET_CLE,Martentoellner,87
 2021_11_DET_CLE,mattglen_,55
@@ -59997,7 +59998,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,v3lardy,100
 2021_11_DET_CLE,vedjos,85
 2021_11_DET_CLE,Vick7nyk,50
-2021_11_DET_CLE,ViennaFalcons,71
 2021_11_DET_CLE,vivo_NFL,50
 2021_11_DET_CLE,WadeFuller,78
 2021_11_DET_CLE,wessonmo,100
@@ -60173,6 +60173,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,maloney_jarrod,50
 2021_11_SF_JAX,MarcRichards284,50
 2021_11_SF_JAX,Market,28
+2021_11_SF_JAX,MarkoMarkonym,27
 2021_11_SF_JAX,marrodc,7
 2021_11_SF_JAX,Martentoellner,30
 2021_11_SF_JAX,mattglen_,25
@@ -60280,7 +60281,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,v3lardy,0
 2021_11_SF_JAX,vedjos,26
 2021_11_SF_JAX,Vick7nyk,50
-2021_11_SF_JAX,ViennaFalcons,27
 2021_11_SF_JAX,vivo_NFL,50
 2021_11_SF_JAX,WadeFuller,28
 2021_11_SF_JAX,wessonmo,25
@@ -60456,6 +60456,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,maloney_jarrod,50
 2021_11_GB_MIN,MarcRichards284,50
 2021_11_GB_MIN,Market,49
+2021_11_GB_MIN,MarkoMarkonym,35
 2021_11_GB_MIN,marrodc,90
 2021_11_GB_MIN,Martentoellner,43
 2021_11_GB_MIN,mattglen_,59
@@ -60563,7 +60564,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,v3lardy,100
 2021_11_GB_MIN,vedjos,35
 2021_11_GB_MIN,Vick7nyk,50
-2021_11_GB_MIN,ViennaFalcons,35
 2021_11_GB_MIN,vivo_NFL,50
 2021_11_GB_MIN,WadeFuller,45
 2021_11_GB_MIN,wessonmo,51
@@ -60739,6 +60739,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,maloney_jarrod,50
 2021_11_MIA_NYJ,MarcRichards284,50
 2021_11_MIA_NYJ,Market,37
+2021_11_MIA_NYJ,MarkoMarkonym,34
 2021_11_MIA_NYJ,marrodc,2
 2021_11_MIA_NYJ,Martentoellner,37
 2021_11_MIA_NYJ,mattglen_,41
@@ -60847,7 +60848,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,v3lardy,0
 2021_11_MIA_NYJ,vedjos,25
 2021_11_MIA_NYJ,Vick7nyk,50
-2021_11_MIA_NYJ,ViennaFalcons,34
 2021_11_MIA_NYJ,vivo_NFL,50
 2021_11_MIA_NYJ,WadeFuller,43
 2021_11_MIA_NYJ,wessonmo,35
@@ -61023,6 +61023,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,maloney_jarrod,50
 2021_11_NO_PHI,MarcRichards284,50
 2021_11_NO_PHI,Market,58
+2021_11_NO_PHI,MarkoMarkonym,62
 2021_11_NO_PHI,marrodc,78
 2021_11_NO_PHI,Martentoellner,56
 2021_11_NO_PHI,mattglen_,58
@@ -61131,7 +61132,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,v3lardy,100
 2021_11_NO_PHI,vedjos,38
 2021_11_NO_PHI,Vick7nyk,50
-2021_11_NO_PHI,ViennaFalcons,62
 2021_11_NO_PHI,vivo_NFL,50
 2021_11_NO_PHI,WadeFuller,52
 2021_11_NO_PHI,wessonmo,52
@@ -61307,6 +61307,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,maloney_jarrod,50
 2021_11_HOU_TEN,MarcRichards284,50
 2021_11_HOU_TEN,Market,80
+2021_11_HOU_TEN,MarkoMarkonym,71
 2021_11_HOU_TEN,marrodc,98
 2021_11_HOU_TEN,Martentoellner,83
 2021_11_HOU_TEN,mattglen_,79
@@ -61415,7 +61416,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,v3lardy,100
 2021_11_HOU_TEN,vedjos,83
 2021_11_HOU_TEN,Vick7nyk,50
-2021_11_HOU_TEN,ViennaFalcons,71
 2021_11_HOU_TEN,vivo_NFL,50
 2021_11_HOU_TEN,WadeFuller,76
 2021_11_HOU_TEN,wessonmo,80
@@ -61591,6 +61591,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,maloney_jarrod,50
 2021_11_CIN_LV,MarcRichards284,50
 2021_11_CIN_LV,Market,46
+2021_11_CIN_LV,MarkoMarkonym,44
 2021_11_CIN_LV,marrodc,5
 2021_11_CIN_LV,Martentoellner,45
 2021_11_CIN_LV,mattglen_,69
@@ -61699,7 +61700,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,v3lardy,100
 2021_11_CIN_LV,vedjos,42
 2021_11_CIN_LV,Vick7nyk,50
-2021_11_CIN_LV,ViennaFalcons,44
 2021_11_CIN_LV,vivo_NFL,62
 2021_11_CIN_LV,WadeFuller,54
 2021_11_CIN_LV,wessonmo,54
@@ -61875,6 +61875,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,maloney_jarrod,0
 2021_11_DAL_KC,MarcRichards284,50
 2021_11_DAL_KC,Market,56
+2021_11_DAL_KC,MarkoMarkonym,43
 2021_11_DAL_KC,marrodc,0
 2021_11_DAL_KC,Martentoellner,60
 2021_11_DAL_KC,mattglen_,71
@@ -61983,7 +61984,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,v3lardy,0
 2021_11_DAL_KC,vedjos,42
 2021_11_DAL_KC,Vick7nyk,50
-2021_11_DAL_KC,ViennaFalcons,43
 2021_11_DAL_KC,vivo_NFL,63
 2021_11_DAL_KC,WadeFuller,55
 2021_11_DAL_KC,wessonmo,54
@@ -62159,6 +62159,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,maloney_jarrod,50
 2021_11_ARI_SEA,MarcRichards284,50
 2021_11_ARI_SEA,Market,59
+2021_11_ARI_SEA,MarkoMarkonym,62
 2021_11_ARI_SEA,marrodc,31
 2021_11_ARI_SEA,Martentoellner,57
 2021_11_ARI_SEA,mattglen_,72
@@ -62267,7 +62268,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,v3lardy,0
 2021_11_ARI_SEA,vedjos,33
 2021_11_ARI_SEA,Vick7nyk,50
-2021_11_ARI_SEA,ViennaFalcons,62
 2021_11_ARI_SEA,vivo_NFL,0
 2021_11_ARI_SEA,WadeFuller,47
 2021_11_ARI_SEA,wessonmo,50
@@ -62445,6 +62445,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,maloney_jarrod,50
 2021_11_PIT_LAC,MarcRichards284,50
 2021_11_PIT_LAC,Market,70
+2021_11_PIT_LAC,MarkoMarkonym,74
 2021_11_PIT_LAC,marrodc,98
 2021_11_PIT_LAC,Martentoellner,67
 2021_11_PIT_LAC,mattglen_,69
@@ -62553,7 +62554,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,v3lardy,100
 2021_11_PIT_LAC,vedjos,80
 2021_11_PIT_LAC,Vick7nyk,50
-2021_11_PIT_LAC,ViennaFalcons,74
 2021_11_PIT_LAC,vivo_NFL,41
 2021_11_PIT_LAC,WadeFuller,59
 2021_11_PIT_LAC,wessonmo,76
@@ -62732,6 +62732,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,maloney_jarrod,50
 2021_11_NYG_TB,MarcRichards284,100
 2021_11_NYG_TB,Market,81
+2021_11_NYG_TB,MarkoMarkonym,69
 2021_11_NYG_TB,marrodc,97
 2021_11_NYG_TB,Martentoellner,82
 2021_11_NYG_TB,mattglen_,44
@@ -62840,7 +62841,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,v3lardy,100
 2021_11_NYG_TB,vedjos,85
 2021_11_NYG_TB,Vick7nyk,100
-2021_11_NYG_TB,ViennaFalcons,69
 2021_11_NYG_TB,vivo_NFL,99
 2021_11_NYG_TB,WadeFuller,78
 2021_11_NYG_TB,wessonmo,81
@@ -62991,6 +62991,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,linsky,60
 2021_12_CHI_DET,MarcRichards284,46
 2021_12_CHI_DET,Market,45
+2021_12_CHI_DET,MarkoMarkonym,59
 2021_12_CHI_DET,marrodc,60
 2021_12_CHI_DET,Martentoellner,36
 2021_12_CHI_DET,MattOctuplicate,47
@@ -63081,7 +63082,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,v3lardy,0
 2021_12_CHI_DET,vedjos,57
 2021_12_CHI_DET,Vick7nyk,50
-2021_12_CHI_DET,ViennaFalcons,59
 2021_12_CHI_DET,vivo_NFL,50
 2021_12_CHI_DET,WadeFuller,49
 2021_12_CHI_DET,wessonmo,45
@@ -63235,6 +63235,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,linsky,74
 2021_12_LV_DAL,MarcRichards284,74
 2021_12_LV_DAL,Market,74
+2021_12_LV_DAL,MarkoMarkonym,73
 2021_12_LV_DAL,marrodc,98
 2021_12_LV_DAL,Martentoellner,72
 2021_12_LV_DAL,MattOctuplicate,71
@@ -63325,7 +63326,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,v3lardy,100
 2021_12_LV_DAL,vedjos,80
 2021_12_LV_DAL,Vick7nyk,50
-2021_12_LV_DAL,ViennaFalcons,73
 2021_12_LV_DAL,vivo_NFL,81
 2021_12_LV_DAL,WadeFuller,72
 2021_12_LV_DAL,wessonmo,80
@@ -63479,6 +63479,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,linsky,19
 2021_12_BUF_NO,MarcRichards284,27
 2021_12_BUF_NO,Market,29
+2021_12_BUF_NO,MarkoMarkonym,62
 2021_12_BUF_NO,marrodc,10
 2021_12_BUF_NO,Martentoellner,31
 2021_12_BUF_NO,MattOctuplicate,24
@@ -63569,7 +63570,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,v3lardy,0
 2021_12_BUF_NO,vedjos,40
 2021_12_BUF_NO,Vick7nyk,50
-2021_12_BUF_NO,ViennaFalcons,62
 2021_12_BUF_NO,vivo_NFL,71
 2021_12_BUF_NO,WadeFuller,34
 2021_12_BUF_NO,wessonmo,28
@@ -63732,6 +63732,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,maloney_jarrod,65
 2021_12_PIT_CIN,MarcRichards284,45
 2021_12_PIT_CIN,Market,62
+2021_12_PIT_CIN,MarkoMarkonym,66
 2021_12_PIT_CIN,marrodc,95
 2021_12_PIT_CIN,Martentoellner,64
 2021_12_PIT_CIN,mattglen_,41
@@ -63829,7 +63830,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,v3lardy,0
 2021_12_PIT_CIN,vedjos,69
 2021_12_PIT_CIN,Vick7nyk,50
-2021_12_PIT_CIN,ViennaFalcons,66
 2021_12_PIT_CIN,vikram_logan,59
 2021_12_PIT_CIN,vivo_NFL,61
 2021_12_PIT_CIN,WadeFuller,53
@@ -63993,6 +63993,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,maloney_jarrod,50
 2021_12_NYJ_HOU,MarcRichards284,59
 2021_12_NYJ_HOU,Market,57
+2021_12_NYJ_HOU,MarkoMarkonym,46
 2021_12_NYJ_HOU,marrodc,57
 2021_12_NYJ_HOU,Martentoellner,57
 2021_12_NYJ_HOU,mattglen_,56
@@ -64090,7 +64091,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,v3lardy,100
 2021_12_NYJ_HOU,vedjos,45
 2021_12_NYJ_HOU,Vick7nyk,50
-2021_12_NYJ_HOU,ViennaFalcons,46
 2021_12_NYJ_HOU,vikram_logan,72
 2021_12_NYJ_HOU,vivo_NFL,55
 2021_12_NYJ_HOU,WadeFuller,53
@@ -64254,6 +64254,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,maloney_jarrod,54
 2021_12_TB_IND,MarcRichards284,39
 2021_12_TB_IND,Market,42
+2021_12_TB_IND,MarkoMarkonym,37
 2021_12_TB_IND,marrodc,5
 2021_12_TB_IND,Martentoellner,42
 2021_12_TB_IND,mattglen_,57
@@ -64351,7 +64352,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,v3lardy,0
 2021_12_TB_IND,vedjos,25
 2021_12_TB_IND,Vick7nyk,50
-2021_12_TB_IND,ViennaFalcons,37
 2021_12_TB_IND,vikram_logan,43
 2021_12_TB_IND,vivo_NFL,39
 2021_12_TB_IND,WadeFuller,40
@@ -64515,6 +64515,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,maloney_jarrod,56
 2021_12_ATL_JAX,MarcRichards284,56
 2021_12_ATL_JAX,Market,48
+2021_12_ATL_JAX,MarkoMarkonym,61
 2021_12_ATL_JAX,marrodc,54
 2021_12_ATL_JAX,Martentoellner,41
 2021_12_ATL_JAX,mattglen_,35
@@ -64612,7 +64613,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,v3lardy,100
 2021_12_ATL_JAX,vedjos,41
 2021_12_ATL_JAX,Vick7nyk,50
-2021_12_ATL_JAX,ViennaFalcons,61
 2021_12_ATL_JAX,vikram_logan,54
 2021_12_ATL_JAX,vivo_NFL,0
 2021_12_ATL_JAX,WadeFuller,50
@@ -64776,6 +64776,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,maloney_jarrod,50
 2021_12_CAR_MIA,MarcRichards284,58
 2021_12_CAR_MIA,Market,47
+2021_12_CAR_MIA,MarkoMarkonym,62
 2021_12_CAR_MIA,marrodc,30
 2021_12_CAR_MIA,Martentoellner,48
 2021_12_CAR_MIA,mattglen_,57
@@ -64873,7 +64874,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,v3lardy,0
 2021_12_CAR_MIA,vedjos,43
 2021_12_CAR_MIA,Vick7nyk,50
-2021_12_CAR_MIA,ViennaFalcons,62
 2021_12_CAR_MIA,vikram_logan,38
 2021_12_CAR_MIA,vivo_NFL,56
 2021_12_CAR_MIA,WadeFuller,48
@@ -65037,6 +65037,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,maloney_jarrod,62
 2021_12_TEN_NE,MarcRichards284,55
 2021_12_TEN_NE,Market,73
+2021_12_TEN_NE,MarkoMarkonym,62
 2021_12_TEN_NE,marrodc,98
 2021_12_TEN_NE,Martentoellner,71
 2021_12_TEN_NE,mattglen_,54
@@ -65134,7 +65135,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,v3lardy,100
 2021_12_TEN_NE,vedjos,63
 2021_12_TEN_NE,Vick7nyk,50
-2021_12_TEN_NE,ViennaFalcons,62
 2021_12_TEN_NE,vikram_logan,76
 2021_12_TEN_NE,vivo_NFL,61
 2021_12_TEN_NE,WadeFuller,62
@@ -65298,6 +65298,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,maloney_jarrod,69
 2021_12_PHI_NYG,MarcRichards284,43
 2021_12_PHI_NYG,Market,36
+2021_12_PHI_NYG,MarkoMarkonym,39
 2021_12_PHI_NYG,marrodc,3
 2021_12_PHI_NYG,Martentoellner,35
 2021_12_PHI_NYG,mattglen_,55
@@ -65395,7 +65396,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,v3lardy,0
 2021_12_PHI_NYG,vedjos,37
 2021_12_PHI_NYG,Vick7nyk,50
-2021_12_PHI_NYG,ViennaFalcons,39
 2021_12_PHI_NYG,vikram_logan,37
 2021_12_PHI_NYG,vivo_NFL,0
 2021_12_PHI_NYG,WadeFuller,38
@@ -65559,6 +65559,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,maloney_jarrod,43
 2021_12_LAC_DEN,MarcRichards284,33
 2021_12_LAC_DEN,Market,43
+2021_12_LAC_DEN,MarkoMarkonym,38
 2021_12_LAC_DEN,marrodc,3
 2021_12_LAC_DEN,Martentoellner,41
 2021_12_LAC_DEN,mattglen_,37
@@ -65656,7 +65657,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,v3lardy,0
 2021_12_LAC_DEN,vedjos,38
 2021_12_LAC_DEN,Vick7nyk,50
-2021_12_LAC_DEN,ViennaFalcons,38
 2021_12_LAC_DEN,vikram_logan,35
 2021_12_LAC_DEN,vivo_NFL,40
 2021_12_LAC_DEN,WadeFuller,41
@@ -65820,6 +65820,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,maloney_jarrod,71
 2021_12_LA_GB,MarcRichards284,39
 2021_12_LA_GB,Market,47
+2021_12_LA_GB,MarkoMarkonym,65
 2021_12_LA_GB,marrodc,88
 2021_12_LA_GB,Martentoellner,44
 2021_12_LA_GB,mattglen_,56
@@ -65917,7 +65918,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,v3lardy,100
 2021_12_LA_GB,vedjos,39
 2021_12_LA_GB,Vick7nyk,50
-2021_12_LA_GB,ViennaFalcons,65
 2021_12_LA_GB,vikram_logan,57
 2021_12_LA_GB,vivo_NFL,52
 2021_12_LA_GB,WadeFuller,55
@@ -66081,6 +66081,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,maloney_jarrod,68
 2021_12_MIN_SF,MarcRichards284,32
 2021_12_MIN_SF,Market,63
+2021_12_MIN_SF,MarkoMarkonym,66
 2021_12_MIN_SF,marrodc,2
 2021_12_MIN_SF,Martentoellner,50
 2021_12_MIN_SF,mattglen_,43
@@ -66178,7 +66179,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,v3lardy,0
 2021_12_MIN_SF,vedjos,42
 2021_12_MIN_SF,Vick7nyk,50
-2021_12_MIN_SF,ViennaFalcons,66
 2021_12_MIN_SF,vikram_logan,47
 2021_12_MIN_SF,vivo_NFL,59
 2021_12_MIN_SF,WadeFuller,54
@@ -66342,6 +66342,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,maloney_jarrod,63
 2021_12_CLE_BAL,MarcRichards284,63
 2021_12_CLE_BAL,Market,59
+2021_12_CLE_BAL,MarkoMarkonym,66
 2021_12_CLE_BAL,marrodc,81
 2021_12_CLE_BAL,Martentoellner,57
 2021_12_CLE_BAL,mattglen_,58
@@ -66439,7 +66440,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,v3lardy,100
 2021_12_CLE_BAL,vedjos,58
 2021_12_CLE_BAL,Vick7nyk,50
-2021_12_CLE_BAL,ViennaFalcons,66
 2021_12_CLE_BAL,vikram_logan,64
 2021_12_CLE_BAL,vivo_NFL,59
 2021_12_CLE_BAL,WadeFuller,55
@@ -66606,6 +66606,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,maloney_jarrod,53
 2021_12_SEA_WAS,MarcRichards284,36
 2021_12_SEA_WAS,Market,45
+2021_12_SEA_WAS,MarkoMarkonym,35
 2021_12_SEA_WAS,marrodc,92
 2021_12_SEA_WAS,Martentoellner,52
 2021_12_SEA_WAS,mattglen_,41
@@ -66703,7 +66704,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,v3lardy,100
 2021_12_SEA_WAS,vedjos,59
 2021_12_SEA_WAS,Vick7nyk,50
-2021_12_SEA_WAS,ViennaFalcons,35
 2021_12_SEA_WAS,vikram_logan,58
 2021_12_SEA_WAS,vivo_NFL,43
 2021_12_SEA_WAS,WadeFuller,49
@@ -66853,6 +66853,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,maloney_jarrod,0
 2021_13_DAL_NO,MarcRichards284,41
 2021_13_DAL_NO,Market,30
+2021_13_DAL_NO,MarkoMarkonym,58
 2021_13_DAL_NO,marrodc,2
 2021_13_DAL_NO,Martentoellner,31
 2021_13_DAL_NO,MattGullotta,50
@@ -66937,7 +66938,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,ukbradc,37
 2021_13_DAL_NO,v3lardy,0
 2021_13_DAL_NO,vedjos,16
-2021_13_DAL_NO,ViennaFalcons,58
 2021_13_DAL_NO,vikram_logan,50
 2021_13_DAL_NO,vivo_NFL,58
 2021_13_DAL_NO,WadeFuller,37
@@ -67096,6 +67096,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,maloney_jarrod,50
 2021_13_TB_ATL,MarcRichards284,0
 2021_13_TB_ATL,Market,20
+2021_13_TB_ATL,MarkoMarkonym,39
 2021_13_TB_ATL,marrodc,2
 2021_13_TB_ATL,Martentoellner,17
 2021_13_TB_ATL,MattGullotta,50
@@ -67184,7 +67185,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,ukbradc,0
 2021_13_TB_ATL,v3lardy,0
 2021_13_TB_ATL,vedjos,24
-2021_13_TB_ATL,ViennaFalcons,39
 2021_13_TB_ATL,vikram_logan,50
 2021_13_TB_ATL,vivo_NFL,0
 2021_13_TB_ATL,WadeFuller,25
@@ -67345,6 +67345,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,maloney_jarrod,50
 2021_13_ARI_CHI,MarcRichards284,32
 2021_13_ARI_CHI,Market,23
+2021_13_ARI_CHI,MarkoMarkonym,38
 2021_13_ARI_CHI,marrodc,2
 2021_13_ARI_CHI,Martentoellner,27
 2021_13_ARI_CHI,MattGullotta,50
@@ -67433,7 +67434,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,ukbradc,0
 2021_13_ARI_CHI,v3lardy,0
 2021_13_ARI_CHI,vedjos,25
-2021_13_ARI_CHI,ViennaFalcons,38
 2021_13_ARI_CHI,vikram_logan,50
 2021_13_ARI_CHI,vivo_NFL,31
 2021_13_ARI_CHI,WadeFuller,32
@@ -67594,6 +67594,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,maloney_jarrod,50
 2021_13_LAC_CIN,MarcRichards284,51
 2021_13_LAC_CIN,Market,57
+2021_13_LAC_CIN,MarkoMarkonym,38
 2021_13_LAC_CIN,marrodc,69
 2021_13_LAC_CIN,Martentoellner,62
 2021_13_LAC_CIN,MattGullotta,50
@@ -67682,7 +67683,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,ukbradc,57
 2021_13_LAC_CIN,v3lardy,0
 2021_13_LAC_CIN,vedjos,39
-2021_13_LAC_CIN,ViennaFalcons,38
 2021_13_LAC_CIN,vikram_logan,50
 2021_13_LAC_CIN,vivo_NFL,45
 2021_13_LAC_CIN,WadeFuller,50
@@ -67843,6 +67843,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,maloney_jarrod,50
 2021_13_MIN_DET,MarcRichards284,0
 2021_13_MIN_DET,Market,27
+2021_13_MIN_DET,MarkoMarkonym,58
 2021_13_MIN_DET,marrodc,52
 2021_13_MIN_DET,Martentoellner,50
 2021_13_MIN_DET,MattGullotta,50
@@ -67931,7 +67932,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,ukbradc,25
 2021_13_MIN_DET,v3lardy,0
 2021_13_MIN_DET,vedjos,33
-2021_13_MIN_DET,ViennaFalcons,58
 2021_13_MIN_DET,vikram_logan,50
 2021_13_MIN_DET,vivo_NFL,31
 2021_13_MIN_DET,WadeFuller,33
@@ -68092,6 +68092,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,maloney_jarrod,50
 2021_13_IND_HOU,MarcRichards284,0
 2021_13_IND_HOU,Market,22
+2021_13_IND_HOU,MarkoMarkonym,38
 2021_13_IND_HOU,marrodc,55
 2021_13_IND_HOU,Martentoellner,17
 2021_13_IND_HOU,MattGullotta,50
@@ -68180,7 +68181,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,ukbradc,14
 2021_13_IND_HOU,v3lardy,0
 2021_13_IND_HOU,vedjos,34
-2021_13_IND_HOU,ViennaFalcons,38
 2021_13_IND_HOU,vikram_logan,50
 2021_13_IND_HOU,vivo_NFL,24
 2021_13_IND_HOU,WadeFuller,25
@@ -68341,6 +68341,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,maloney_jarrod,50
 2021_13_NYG_MIA,MarcRichards284,68
 2021_13_NYG_MIA,Market,72
+2021_13_NYG_MIA,MarkoMarkonym,39
 2021_13_NYG_MIA,marrodc,98
 2021_13_NYG_MIA,Martentoellner,68
 2021_13_NYG_MIA,MattGullotta,50
@@ -68429,7 +68430,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,ukbradc,54
 2021_13_NYG_MIA,v3lardy,100
 2021_13_NYG_MIA,vedjos,70
-2021_13_NYG_MIA,ViennaFalcons,39
 2021_13_NYG_MIA,vikram_logan,50
 2021_13_NYG_MIA,vivo_NFL,55
 2021_13_NYG_MIA,WadeFuller,65
@@ -68590,6 +68590,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,maloney_jarrod,50
 2021_13_PHI_NYJ,MarcRichards284,39
 2021_13_PHI_NYJ,Market,35
+2021_13_PHI_NYJ,MarkoMarkonym,38
 2021_13_PHI_NYJ,marrodc,2
 2021_13_PHI_NYJ,Martentoellner,30
 2021_13_PHI_NYJ,MattGullotta,50
@@ -68678,7 +68679,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,ukbradc,41
 2021_13_PHI_NYJ,v3lardy,0
 2021_13_PHI_NYJ,vedjos,35
-2021_13_PHI_NYJ,ViennaFalcons,38
 2021_13_PHI_NYJ,vikram_logan,50
 2021_13_PHI_NYJ,vivo_NFL,64
 2021_13_PHI_NYJ,WadeFuller,28
@@ -68839,6 +68839,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,maloney_jarrod,50
 2021_13_JAX_LA,MarcRichards284,50
 2021_13_JAX_LA,Market,86
+2021_13_JAX_LA,MarkoMarkonym,82
 2021_13_JAX_LA,marrodc,98
 2021_13_JAX_LA,Martentoellner,87
 2021_13_JAX_LA,MattGullotta,50
@@ -68927,7 +68928,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,ukbradc,100
 2021_13_JAX_LA,v3lardy,100
 2021_13_JAX_LA,vedjos,93
-2021_13_JAX_LA,ViennaFalcons,82
 2021_13_JAX_LA,vikram_logan,50
 2021_13_JAX_LA,vivo_NFL,100
 2021_13_JAX_LA,WadeFuller,80
@@ -69088,6 +69088,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,maloney_jarrod,50
 2021_13_WAS_LV,MarcRichards284,54
 2021_13_WAS_LV,Market,55
+2021_13_WAS_LV,MarkoMarkonym,38
 2021_13_WAS_LV,marrodc,93
 2021_13_WAS_LV,Martentoellner,54
 2021_13_WAS_LV,MattGullotta,50
@@ -69176,7 +69177,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,ukbradc,40
 2021_13_WAS_LV,v3lardy,0
 2021_13_WAS_LV,vedjos,57
-2021_13_WAS_LV,ViennaFalcons,38
 2021_13_WAS_LV,vikram_logan,50
 2021_13_WAS_LV,vivo_NFL,55
 2021_13_WAS_LV,WadeFuller,56
@@ -69337,6 +69337,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,maloney_jarrod,50
 2021_13_BAL_PIT,MarcRichards284,39
 2021_13_BAL_PIT,Market,36
+2021_13_BAL_PIT,MarkoMarkonym,36
 2021_13_BAL_PIT,marrodc,5
 2021_13_BAL_PIT,Martentoellner,32
 2021_13_BAL_PIT,MattGullotta,50
@@ -69425,7 +69426,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,ukbradc,34
 2021_13_BAL_PIT,v3lardy,0
 2021_13_BAL_PIT,vedjos,22
-2021_13_BAL_PIT,ViennaFalcons,36
 2021_13_BAL_PIT,vikram_logan,50
 2021_13_BAL_PIT,vivo_NFL,56
 2021_13_BAL_PIT,WadeFuller,40
@@ -69586,6 +69586,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,maloney_jarrod,50
 2021_13_SF_SEA,MarcRichards284,46
 2021_13_SF_SEA,Market,43
+2021_13_SF_SEA,MarkoMarkonym,34
 2021_13_SF_SEA,marrodc,8
 2021_13_SF_SEA,Martentoellner,37
 2021_13_SF_SEA,MattGullotta,50
@@ -69674,7 +69675,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,ukbradc,43
 2021_13_SF_SEA,v3lardy,0
 2021_13_SF_SEA,vedjos,32
-2021_13_SF_SEA,ViennaFalcons,34
 2021_13_SF_SEA,vikram_logan,50
 2021_13_SF_SEA,vivo_NFL,57
 2021_13_SF_SEA,WadeFuller,36
@@ -69835,6 +69835,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,maloney_jarrod,50
 2021_13_DEN_KC,MarcRichards284,73
 2021_13_DEN_KC,Market,77
+2021_13_DEN_KC,MarkoMarkonym,76
 2021_13_DEN_KC,marrodc,93
 2021_13_DEN_KC,Martentoellner,77
 2021_13_DEN_KC,MattGullotta,50
@@ -69923,7 +69924,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,ukbradc,67
 2021_13_DEN_KC,v3lardy,100
 2021_13_DEN_KC,vedjos,42
-2021_13_DEN_KC,ViennaFalcons,76
 2021_13_DEN_KC,vikram_logan,50
 2021_13_DEN_KC,vivo_NFL,72
 2021_13_DEN_KC,WadeFuller,31
@@ -70085,6 +70085,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,maloney_jarrod,50
 2021_13_NE_BUF,MarcRichards284,63
 2021_13_NE_BUF,Market,58
+2021_13_NE_BUF,MarkoMarkonym,35
 2021_13_NE_BUF,marrodc,3
 2021_13_NE_BUF,Martentoellner,58
 2021_13_NE_BUF,mattglen_,52
@@ -70174,7 +70175,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,ukbradc,50
 2021_13_NE_BUF,v3lardy,0
 2021_13_NE_BUF,vedjos,30
-2021_13_NE_BUF,ViennaFalcons,35
 2021_13_NE_BUF,vikram_logan,50
 2021_13_NE_BUF,vivo_NFL,56
 2021_13_NE_BUF,WadeFuller,54
@@ -70310,6 +70310,7 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,lifelongJJ18fan,59
 2021_14_PIT_MIN,maloney_jarrod,43
 2021_14_PIT_MIN,Market,62
+2021_14_PIT_MIN,MarkoMarkonym,57
 2021_14_PIT_MIN,marrodc,50
 2021_14_PIT_MIN,Martentoellner,63
 2021_14_PIT_MIN,mattglen_,58
@@ -70388,7 +70389,6 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,ukbradc,72
 2021_14_PIT_MIN,v3lardy,100
 2021_14_PIT_MIN,vedjos,66
-2021_14_PIT_MIN,ViennaFalcons,57
 2021_14_PIT_MIN,vivo_NFL,62
 2021_14_PIT_MIN,Vyse_the_Legend,50
 2021_14_PIT_MIN,WadeFuller,56
@@ -70531,6 +70531,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,linsky,37
 2021_14_ATL_CAR,maloney_jarrod,50
 2021_14_ATL_CAR,Market,56
+2021_14_ATL_CAR,MarkoMarkonym,45
 2021_14_ATL_CAR,marrodc,55
 2021_14_ATL_CAR,Martentoellner,55
 2021_14_ATL_CAR,mattglen_,55
@@ -70615,7 +70616,6 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,ukbradc,72
 2021_14_ATL_CAR,v3lardy,100
 2021_14_ATL_CAR,vedjos,66
-2021_14_ATL_CAR,ViennaFalcons,45
 2021_14_ATL_CAR,vivo_NFL,60
 2021_14_ATL_CAR,Vyse_the_Legend,50
 2021_14_ATL_CAR,WadeFuller,56
@@ -70758,6 +70758,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,linsky,63
 2021_14_BAL_CLE,maloney_jarrod,50
 2021_14_BAL_CLE,Market,59
+2021_14_BAL_CLE,MarkoMarkonym,46
 2021_14_BAL_CLE,marrodc,0
 2021_14_BAL_CLE,Martentoellner,56
 2021_14_BAL_CLE,mattglen_,45
@@ -70842,7 +70843,6 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,ukbradc,39
 2021_14_BAL_CLE,v3lardy,0
 2021_14_BAL_CLE,vedjos,39
-2021_14_BAL_CLE,ViennaFalcons,46
 2021_14_BAL_CLE,vivo_NFL,39
 2021_14_BAL_CLE,Vyse_the_Legend,50
 2021_14_BAL_CLE,WadeFuller,54
@@ -70985,6 +70985,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,linsky,31
 2021_14_SEA_HOU,maloney_jarrod,50
 2021_14_SEA_HOU,Market,22
+2021_14_SEA_HOU,MarkoMarkonym,18
 2021_14_SEA_HOU,marrodc,0
 2021_14_SEA_HOU,Martentoellner,21
 2021_14_SEA_HOU,mattglen_,0
@@ -71069,7 +71070,6 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,ukbradc,38
 2021_14_SEA_HOU,v3lardy,100
 2021_14_SEA_HOU,vedjos,32
-2021_14_SEA_HOU,ViennaFalcons,18
 2021_14_SEA_HOU,vivo_NFL,31
 2021_14_SEA_HOU,Vyse_the_Legend,0
 2021_14_SEA_HOU,WadeFuller,32
@@ -71212,6 +71212,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,linsky,81
 2021_14_LV_KC,maloney_jarrod,50
 2021_14_LV_KC,Market,79
+2021_14_LV_KC,MarkoMarkonym,76
 2021_14_LV_KC,marrodc,100
 2021_14_LV_KC,Martentoellner,78
 2021_14_LV_KC,mattglen_,65
@@ -71296,7 +71297,6 @@ game_id,screen_name,prediction
 2021_14_LV_KC,ukbradc,73
 2021_14_LV_KC,v3lardy,0
 2021_14_LV_KC,vedjos,65
-2021_14_LV_KC,ViennaFalcons,76
 2021_14_LV_KC,vivo_NFL,72
 2021_14_LV_KC,Vyse_the_Legend,100
 2021_14_LV_KC,WadeFuller,72
@@ -71439,6 +71439,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,linsky,47
 2021_14_NO_NYJ,maloney_jarrod,50
 2021_14_NO_NYJ,Market,36
+2021_14_NO_NYJ,MarkoMarkonym,55
 2021_14_NO_NYJ,marrodc,44
 2021_14_NO_NYJ,Martentoellner,29
 2021_14_NO_NYJ,mattglen_,39
@@ -71523,7 +71524,6 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,ukbradc,62
 2021_14_NO_NYJ,v3lardy,0
 2021_14_NO_NYJ,vedjos,16
-2021_14_NO_NYJ,ViennaFalcons,55
 2021_14_NO_NYJ,vivo_NFL,36
 2021_14_NO_NYJ,Vyse_the_Legend,50
 2021_14_NO_NYJ,WadeFuller,44
@@ -71666,6 +71666,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,linsky,73
 2021_14_JAX_TEN,maloney_jarrod,50
 2021_14_JAX_TEN,Market,77
+2021_14_JAX_TEN,MarkoMarkonym,74
 2021_14_JAX_TEN,marrodc,84
 2021_14_JAX_TEN,Martentoellner,78
 2021_14_JAX_TEN,mattglen_,67
@@ -71750,7 +71751,6 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,ukbradc,74
 2021_14_JAX_TEN,v3lardy,100
 2021_14_JAX_TEN,vedjos,75
-2021_14_JAX_TEN,ViennaFalcons,74
 2021_14_JAX_TEN,vivo_NFL,91
 2021_14_JAX_TEN,Vyse_the_Legend,50
 2021_14_JAX_TEN,WadeFuller,77
@@ -71893,6 +71893,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,linsky,35
 2021_14_DAL_WAS,maloney_jarrod,50
 2021_14_DAL_WAS,Market,28
+2021_14_DAL_WAS,MarkoMarkonym,38
 2021_14_DAL_WAS,marrodc,100
 2021_14_DAL_WAS,Martentoellner,31
 2021_14_DAL_WAS,mattglen_,44
@@ -71977,7 +71978,6 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,ukbradc,35
 2021_14_DAL_WAS,v3lardy,0
 2021_14_DAL_WAS,vedjos,24
-2021_14_DAL_WAS,ViennaFalcons,38
 2021_14_DAL_WAS,vivo_NFL,50
 2021_14_DAL_WAS,Vyse_the_Legend,0
 2021_14_DAL_WAS,WadeFuller,41
@@ -72121,6 +72121,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,linsky,65
 2021_14_DET_DEN,maloney_jarrod,50
 2021_14_DET_DEN,Market,84
+2021_14_DET_DEN,MarkoMarkonym,76
 2021_14_DET_DEN,marrodc,14
 2021_14_DET_DEN,Martentoellner,82
 2021_14_DET_DEN,mattglen_,61
@@ -72205,7 +72206,6 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,ukbradc,68
 2021_14_DET_DEN,v3lardy,100
 2021_14_DET_DEN,vedjos,78
-2021_14_DET_DEN,ViennaFalcons,76
 2021_14_DET_DEN,vivo_NFL,72
 2021_14_DET_DEN,Vyse_the_Legend,50
 2021_14_DET_DEN,WadeFuller,76
@@ -72349,6 +72349,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,linsky,82
 2021_14_NYG_LAC,maloney_jarrod,50
 2021_14_NYG_LAC,Market,77
+2021_14_NYG_LAC,MarkoMarkonym,78
 2021_14_NYG_LAC,marrodc,100
 2021_14_NYG_LAC,Martentoellner,76
 2021_14_NYG_LAC,mattglen_,73
@@ -72433,7 +72434,6 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,ukbradc,70
 2021_14_NYG_LAC,v3lardy,100
 2021_14_NYG_LAC,vedjos,69
-2021_14_NYG_LAC,ViennaFalcons,78
 2021_14_NYG_LAC,vivo_NFL,89
 2021_14_NYG_LAC,Vyse_the_Legend,50
 2021_14_NYG_LAC,WadeFuller,74
@@ -72577,6 +72577,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,linsky,74
 2021_14_SF_CIN,maloney_jarrod,50
 2021_14_SF_CIN,Market,45
+2021_14_SF_CIN,MarkoMarkonym,48
 2021_14_SF_CIN,marrodc,63
 2021_14_SF_CIN,Martentoellner,45
 2021_14_SF_CIN,mattglen_,54
@@ -72662,7 +72663,6 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,ukbradc,67
 2021_14_SF_CIN,v3lardy,100
 2021_14_SF_CIN,vedjos,58
-2021_14_SF_CIN,ViennaFalcons,48
 2021_14_SF_CIN,vivo_NFL,42
 2021_14_SF_CIN,Vyse_the_Legend,50
 2021_14_SF_CIN,WadeFuller,36
@@ -72806,6 +72806,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,linsky,42
 2021_14_BUF_TB,maloney_jarrod,50
 2021_14_BUF_TB,Market,63
+2021_14_BUF_TB,MarkoMarkonym,45
 2021_14_BUF_TB,marrodc,86
 2021_14_BUF_TB,Martentoellner,64
 2021_14_BUF_TB,mattglen_,67
@@ -72891,7 +72892,6 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,ukbradc,58
 2021_14_BUF_TB,v3lardy,100
 2021_14_BUF_TB,vedjos,67
-2021_14_BUF_TB,ViennaFalcons,45
 2021_14_BUF_TB,vivo_NFL,69
 2021_14_BUF_TB,Vyse_the_Legend,50
 2021_14_BUF_TB,WadeFuller,58
@@ -73036,6 +73036,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,linsky,74
 2021_14_CHI_GB,maloney_jarrod,50
 2021_14_CHI_GB,Market,84
+2021_14_CHI_GB,MarkoMarkonym,66
 2021_14_CHI_GB,marrodc,100
 2021_14_CHI_GB,Martentoellner,82
 2021_14_CHI_GB,mattglen_,79
@@ -73121,7 +73122,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,ukbradc,64
 2021_14_CHI_GB,v3lardy,100
 2021_14_CHI_GB,vedjos,84
-2021_14_CHI_GB,ViennaFalcons,66
 2021_14_CHI_GB,vivo_NFL,100
 2021_14_CHI_GB,Vyse_the_Legend,100
 2021_14_CHI_GB,WadeFuller,80
@@ -73267,6 +73267,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,lousabad44,0
 2021_14_LA_ARI,maloney_jarrod,50
 2021_14_LA_ARI,Market,62
+2021_14_LA_ARI,MarkoMarkonym,66
 2021_14_LA_ARI,marrodc,65
 2021_14_LA_ARI,Martentoellner,58
 2021_14_LA_ARI,mattglen_,63
@@ -73352,7 +73353,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,ukbradc,43
 2021_14_LA_ARI,v3lardy,100
 2021_14_LA_ARI,vedjos,62
-2021_14_LA_ARI,ViennaFalcons,66
 2021_14_LA_ARI,vivo_NFL,61
 2021_14_LA_ARI,Vyse_the_Legend,65
 2021_14_LA_ARI,WadeFuller,51
@@ -73476,6 +73476,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,linsky,34
 2021_15_KC_LAC,lousabad44,0
 2021_15_KC_LAC,Market,38
+2021_15_KC_LAC,MarkoMarkonym,58
 2021_15_KC_LAC,marrodc,2
 2021_15_KC_LAC,Martentoellner,50
 2021_15_KC_LAC,mattglen_,58
@@ -73549,7 +73550,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,ukbradc,28
 2021_15_KC_LAC,v3lardy,100
 2021_15_KC_LAC,vedjos,55
-2021_15_KC_LAC,ViennaFalcons,58
 2021_15_KC_LAC,vivo_NFL,44
 2021_15_KC_LAC,Vyse_the_Legend,50
 2021_15_KC_LAC,WadeFuller,39
@@ -73682,6 +73682,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,linsky,37
 2021_15_NE_IND,lousabad44,63
 2021_15_NE_IND,Market,51
+2021_15_NE_IND,MarkoMarkonym,39
 2021_15_NE_IND,marrodc,0
 2021_15_NE_IND,Martentoellner,50
 2021_15_NE_IND,mattglen_,55
@@ -73760,7 +73761,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,ukbradc,49
 2021_15_NE_IND,v3lardy,0
 2021_15_NE_IND,vedjos,43
-2021_15_NE_IND,ViennaFalcons,39
 2021_15_NE_IND,vivo_NFL,43
 2021_15_NE_IND,Vyse_the_Legend,50
 2021_15_NE_IND,WadeFuller,55
@@ -73896,6 +73896,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,linsky,85
 2021_15_CAR_BUF,lousabad44,100
 2021_15_CAR_BUF,Market,85
+2021_15_CAR_BUF,MarkoMarkonym,75
 2021_15_CAR_BUF,marrodc,100
 2021_15_CAR_BUF,Martentoellner,50
 2021_15_CAR_BUF,mattglen_,70
@@ -73975,7 +73976,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,ukbradc,74
 2021_15_CAR_BUF,v3lardy,100
 2021_15_CAR_BUF,vedjos,89
-2021_15_CAR_BUF,ViennaFalcons,75
 2021_15_CAR_BUF,vivo_NFL,62
 2021_15_CAR_BUF,Vyse_the_Legend,50
 2021_15_CAR_BUF,WadeFuller,76
@@ -74111,6 +74111,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,linsky,18
 2021_15_ARI_DET,lousabad44,0
 2021_15_ARI_DET,Market,16
+2021_15_ARI_DET,MarkoMarkonym,18
 2021_15_ARI_DET,marrodc,3
 2021_15_ARI_DET,Martentoellner,50
 2021_15_ARI_DET,mattglen_,0
@@ -74190,7 +74191,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,ukbradc,0
 2021_15_ARI_DET,v3lardy,0
 2021_15_ARI_DET,vedjos,18
-2021_15_ARI_DET,ViennaFalcons,18
 2021_15_ARI_DET,vivo_NFL,0
 2021_15_ARI_DET,Vyse_the_Legend,50
 2021_15_ARI_DET,WadeFuller,31
@@ -74326,6 +74326,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,linsky,65
 2021_15_HOU_JAX,lousabad44,0
 2021_15_HOU_JAX,Market,70
+2021_15_HOU_JAX,MarkoMarkonym,56
 2021_15_HOU_JAX,marrodc,0
 2021_15_HOU_JAX,Martentoellner,50
 2021_15_HOU_JAX,mattglen_,53
@@ -74405,7 +74406,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,ukbradc,50
 2021_15_HOU_JAX,v3lardy,0
 2021_15_HOU_JAX,vedjos,55
-2021_15_HOU_JAX,ViennaFalcons,56
 2021_15_HOU_JAX,vivo_NFL,44
 2021_15_HOU_JAX,Vyse_the_Legend,50
 2021_15_HOU_JAX,WadeFuller,62
@@ -74541,6 +74541,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,linsky,67
 2021_15_NYJ_MIA,lousabad44,100
 2021_15_NYJ_MIA,Market,79
+2021_15_NYJ_MIA,MarkoMarkonym,68
 2021_15_NYJ_MIA,marrodc,100
 2021_15_NYJ_MIA,Martentoellner,50
 2021_15_NYJ_MIA,mattglen_,66
@@ -74620,7 +74621,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,ukbradc,58
 2021_15_NYJ_MIA,v3lardy,100
 2021_15_NYJ_MIA,vedjos,68
-2021_15_NYJ_MIA,ViennaFalcons,68
 2021_15_NYJ_MIA,vivo_NFL,62
 2021_15_NYJ_MIA,Vyse_the_Legend,50
 2021_15_NYJ_MIA,WadeFuller,71
@@ -74756,6 +74756,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,linsky,16
 2021_15_DAL_NYG,lousabad44,0
 2021_15_DAL_NYG,Market,18
+2021_15_DAL_NYG,MarkoMarkonym,21
 2021_15_DAL_NYG,marrodc,0
 2021_15_DAL_NYG,Martentoellner,50
 2021_15_DAL_NYG,mattglen_,44
@@ -74835,7 +74836,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,ukbradc,35
 2021_15_DAL_NYG,v3lardy,0
 2021_15_DAL_NYG,vedjos,26
-2021_15_DAL_NYG,ViennaFalcons,21
 2021_15_DAL_NYG,vivo_NFL,1
 2021_15_DAL_NYG,Vyse_the_Legend,50
 2021_15_DAL_NYG,WadeFuller,30
@@ -74971,6 +74971,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,linsky,31
 2021_15_TEN_PIT,lousabad44,0
 2021_15_TEN_PIT,Market,53
+2021_15_TEN_PIT,MarkoMarkonym,32
 2021_15_TEN_PIT,marrodc,0
 2021_15_TEN_PIT,Martentoellner,50
 2021_15_TEN_PIT,mattglen_,43
@@ -75050,7 +75051,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,ukbradc,38
 2021_15_TEN_PIT,v3lardy,0
 2021_15_TEN_PIT,vedjos,37
-2021_15_TEN_PIT,ViennaFalcons,32
 2021_15_TEN_PIT,vivo_NFL,38
 2021_15_TEN_PIT,Vyse_the_Legend,50
 2021_15_TEN_PIT,WadeFuller,45
@@ -75187,6 +75187,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,linsky,35
 2021_15_CIN_DEN,lousabad44,0
 2021_15_CIN_DEN,Market,59
+2021_15_CIN_DEN,MarkoMarkonym,38
 2021_15_CIN_DEN,marrodc,42
 2021_15_CIN_DEN,Martentoellner,50
 2021_15_CIN_DEN,mattglen_,47
@@ -75267,7 +75268,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,ukbradc,38
 2021_15_CIN_DEN,v3lardy,0
 2021_15_CIN_DEN,vedjos,41
-2021_15_CIN_DEN,ViennaFalcons,38
 2021_15_CIN_DEN,vivo_NFL,55
 2021_15_CIN_DEN,Vyse_the_Legend,50
 2021_15_CIN_DEN,WadeFuller,51
@@ -75404,6 +75404,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,linsky,76
 2021_15_ATL_SF,lousabad44,100
 2021_15_ATL_SF,Market,77
+2021_15_ATL_SF,MarkoMarkonym,42
 2021_15_ATL_SF,marrodc,100
 2021_15_ATL_SF,Martentoellner,50
 2021_15_ATL_SF,mattglen_,57
@@ -75484,7 +75485,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,ukbradc,66
 2021_15_ATL_SF,v3lardy,100
 2021_15_ATL_SF,vedjos,78
-2021_15_ATL_SF,ViennaFalcons,42
 2021_15_ATL_SF,vivo_NFL,56
 2021_15_ATL_SF,Vyse_the_Legend,50
 2021_15_ATL_SF,WadeFuller,73
@@ -75621,6 +75621,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,linsky,29
 2021_15_GB_BAL,lousabad44,0
 2021_15_GB_BAL,Market,24
+2021_15_GB_BAL,MarkoMarkonym,38
 2021_15_GB_BAL,marrodc,0
 2021_15_GB_BAL,Martentoellner,50
 2021_15_GB_BAL,mattglen_,46
@@ -75701,7 +75702,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,ukbradc,36
 2021_15_GB_BAL,v3lardy,0
 2021_15_GB_BAL,vedjos,23
-2021_15_GB_BAL,ViennaFalcons,38
 2021_15_GB_BAL,vivo_NFL,39
 2021_15_GB_BAL,Vyse_the_Legend,50
 2021_15_GB_BAL,WadeFuller,33
@@ -75838,6 +75838,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,linsky,81
 2021_15_NO_TB,lousabad44,100
 2021_15_NO_TB,Market,81
+2021_15_NO_TB,MarkoMarkonym,74
 2021_15_NO_TB,marrodc,100
 2021_15_NO_TB,Martentoellner,50
 2021_15_NO_TB,mattglen_,65
@@ -75919,7 +75920,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,ukbradc,67
 2021_15_NO_TB,v3lardy,100
 2021_15_NO_TB,vedjos,85
-2021_15_NO_TB,ViennaFalcons,74
 2021_15_NO_TB,vivo_NFL,69
 2021_15_NO_TB,Vyse_the_Legend,50
 2021_15_NO_TB,WadeFuller,77
@@ -76059,6 +76059,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,lousabad44,100
 2021_15_LV_CLE,MarcRichards284,35
 2021_15_LV_CLE,Market,42
+2021_15_LV_CLE,MarkoMarkonym,36
 2021_15_LV_CLE,marrodc,2
 2021_15_LV_CLE,Martentoellner,50
 2021_15_LV_CLE,mattglen_,60
@@ -76140,7 +76141,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,ukbradc,62
 2021_15_LV_CLE,v3lardy,0
 2021_15_LV_CLE,vedjos,67
-2021_15_LV_CLE,ViennaFalcons,36
 2021_15_LV_CLE,vivo_NFL,57
 2021_15_LV_CLE,Vyse_the_Legend,50
 2021_15_LV_CLE,WadeFuller,49
@@ -76280,6 +76280,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,lousabad44,0
 2021_15_MIN_CHI,MarcRichards284,0
 2021_15_MIN_CHI,Market,26
+2021_15_MIN_CHI,MarkoMarkonym,30
 2021_15_MIN_CHI,marrodc,38
 2021_15_MIN_CHI,Martentoellner,50
 2021_15_MIN_CHI,mattglen_,45
@@ -76361,7 +76362,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,ukbradc,39
 2021_15_MIN_CHI,v3lardy,0
 2021_15_MIN_CHI,vedjos,31
-2021_15_MIN_CHI,ViennaFalcons,30
 2021_15_MIN_CHI,vivo_NFL,38
 2021_15_MIN_CHI,Vyse_the_Legend,50
 2021_15_MIN_CHI,WadeFuller,31
@@ -76502,6 +76502,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,lousabad44,100
 2021_15_SEA_LA,MarcRichards284,100
 2021_15_SEA_LA,Market,76
+2021_15_SEA_LA,MarkoMarkonym,39
 2021_15_SEA_LA,marrodc,100
 2021_15_SEA_LA,Martentoellner,50
 2021_15_SEA_LA,mattglen_,57
@@ -76583,7 +76584,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,ukbradc,69
 2021_15_SEA_LA,v3lardy,100
 2021_15_SEA_LA,vedjos,87
-2021_15_SEA_LA,ViennaFalcons,39
 2021_15_SEA_LA,vivo_NFL,69
 2021_15_SEA_LA,Vyse_the_Legend,50
 2021_15_SEA_LA,WadeFuller,60
@@ -76724,6 +76724,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,lousabad44,74
 2021_15_WAS_PHI,MarcRichards284,61
 2021_15_WAS_PHI,Market,80
+2021_15_WAS_PHI,MarkoMarkonym,67
 2021_15_WAS_PHI,marrodc,100
 2021_15_WAS_PHI,Martentoellner,50
 2021_15_WAS_PHI,mattglen_,62
@@ -76805,7 +76806,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,ukbradc,50
 2021_15_WAS_PHI,v3lardy,100
 2021_15_WAS_PHI,vedjos,43
-2021_15_WAS_PHI,ViennaFalcons,67
 2021_15_WAS_PHI,vivo_NFL,44
 2021_15_WAS_PHI,Vyse_the_Legend,50
 2021_15_WAS_PHI,WadeFuller,71
@@ -76917,6 +76917,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,linsky,37
 2021_16_SF_TEN,lousabad44,100
 2021_16_SF_TEN,Market,38
+2021_16_SF_TEN,MarkoMarkonym,39
 2021_16_SF_TEN,marrodc,2
 2021_16_SF_TEN,Martentoellner,40
 2021_16_SF_TEN,mattglen_,59
@@ -76986,7 +76987,6 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,trussell417,39
 2021_16_SF_TEN,v3lardy,0
 2021_16_SF_TEN,vedjos,17
-2021_16_SF_TEN,ViennaFalcons,39
 2021_16_SF_TEN,vivo_NFL,50
 2021_16_SF_TEN,WadeFuller,37
 2021_16_SF_TEN,wessonmo,35
@@ -77101,6 +77101,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,linsky,65
 2021_16_CLE_GB,lousabad44,100
 2021_16_CLE_GB,Market,78
+2021_16_CLE_GB,MarkoMarkonym,73
 2021_16_CLE_GB,marrodc,2
 2021_16_CLE_GB,Martentoellner,50
 2021_16_CLE_GB,mattglen_,71
@@ -77172,7 +77173,6 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,ukbradc,50
 2021_16_CLE_GB,v3lardy,100
 2021_16_CLE_GB,vedjos,80
-2021_16_CLE_GB,ViennaFalcons,73
 2021_16_CLE_GB,vivo_NFL,50
 2021_16_CLE_GB,WadeFuller,70
 2021_16_CLE_GB,wessonmo,75
@@ -77289,6 +77289,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,linsky,60
 2021_16_IND_ARI,lousabad44,100
 2021_16_IND_ARI,Market,60
+2021_16_IND_ARI,MarkoMarkonym,59
 2021_16_IND_ARI,marrodc,6
 2021_16_IND_ARI,Martentoellner,57
 2021_16_IND_ARI,mattglen_,52
@@ -77360,7 +77361,6 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,ukbradc,50
 2021_16_IND_ARI,v3lardy,100
 2021_16_IND_ARI,vedjos,37
-2021_16_IND_ARI,ViennaFalcons,59
 2021_16_IND_ARI,vivo_NFL,50
 2021_16_IND_ARI,WadeFuller,54
 2021_16_IND_ARI,wessonmo,50
@@ -77479,6 +77479,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,linsky,61
 2021_16_DET_ATL,lousabad44,100
 2021_16_DET_ATL,Market,76
+2021_16_DET_ATL,MarkoMarkonym,39
 2021_16_DET_ATL,marrodc,8
 2021_16_DET_ATL,Martentoellner,50
 2021_16_DET_ATL,mattglen_,65
@@ -77553,7 +77554,6 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,ukbradc,50
 2021_16_DET_ATL,v3lardy,0
 2021_16_DET_ATL,vedjos,75
-2021_16_DET_ATL,ViennaFalcons,39
 2021_16_DET_ATL,vivo_NFL,50
 2021_16_DET_ATL,WadeFuller,65
 2021_16_DET_ATL,wessonmo,78
@@ -77672,6 +77672,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,linsky,35
 2021_16_TB_CAR,lousabad44,0
 2021_16_TB_CAR,Market,19
+2021_16_TB_CAR,MarkoMarkonym,29
 2021_16_TB_CAR,marrodc,95
 2021_16_TB_CAR,Martentoellner,50
 2021_16_TB_CAR,mattglen_,33
@@ -77746,7 +77747,6 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,ukbradc,50
 2021_16_TB_CAR,v3lardy,0
 2021_16_TB_CAR,vedjos,15
-2021_16_TB_CAR,ViennaFalcons,29
 2021_16_TB_CAR,vivo_NFL,50
 2021_16_TB_CAR,WadeFuller,25
 2021_16_TB_CAR,wessonmo,19
@@ -77865,6 +77865,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,linsky,64
 2021_16_BAL_CIN,lousabad44,100
 2021_16_BAL_CIN,Market,76
+2021_16_BAL_CIN,MarkoMarkonym,72
 2021_16_BAL_CIN,marrodc,93
 2021_16_BAL_CIN,Martentoellner,50
 2021_16_BAL_CIN,mattglen_,34
@@ -77939,7 +77940,6 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,ukbradc,50
 2021_16_BAL_CIN,v3lardy,0
 2021_16_BAL_CIN,vedjos,45
-2021_16_BAL_CIN,ViennaFalcons,72
 2021_16_BAL_CIN,vivo_NFL,50
 2021_16_BAL_CIN,WadeFuller,52
 2021_16_BAL_CIN,wessonmo,60
@@ -78058,6 +78058,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,linsky,24
 2021_16_LAC_HOU,lousabad44,0
 2021_16_LAC_HOU,Market,16
+2021_16_LAC_HOU,MarkoMarkonym,23
 2021_16_LAC_HOU,marrodc,0
 2021_16_LAC_HOU,Martentoellner,50
 2021_16_LAC_HOU,mattglen_,39
@@ -78132,7 +78133,6 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,ukbradc,50
 2021_16_LAC_HOU,v3lardy,0
 2021_16_LAC_HOU,vedjos,31
-2021_16_LAC_HOU,ViennaFalcons,23
 2021_16_LAC_HOU,vivo_NFL,50
 2021_16_LAC_HOU,WadeFuller,28
 2021_16_LAC_HOU,wessonmo,16
@@ -78251,6 +78251,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,linsky,28
 2021_16_LA_MIN,lousabad44,0
 2021_16_LA_MIN,Market,38
+2021_16_LA_MIN,MarkoMarkonym,39
 2021_16_LA_MIN,marrodc,7
 2021_16_LA_MIN,Martentoellner,50
 2021_16_LA_MIN,mattglen_,30
@@ -78325,7 +78326,6 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,ukbradc,50
 2021_16_LA_MIN,v3lardy,0
 2021_16_LA_MIN,vedjos,39
-2021_16_LA_MIN,ViennaFalcons,39
 2021_16_LA_MIN,vivo_NFL,50
 2021_16_LA_MIN,WadeFuller,38
 2021_16_LA_MIN,wessonmo,41
@@ -78444,6 +78444,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,linsky,30
 2021_16_BUF_NE,lousabad44,0
 2021_16_BUF_NE,Market,52
+2021_16_BUF_NE,MarkoMarkonym,40
 2021_16_BUF_NE,marrodc,93
 2021_16_BUF_NE,Martentoellner,50
 2021_16_BUF_NE,mattglen_,42
@@ -78518,7 +78519,6 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,ukbradc,50
 2021_16_BUF_NE,v3lardy,100
 2021_16_BUF_NE,vedjos,42
-2021_16_BUF_NE,ViennaFalcons,40
 2021_16_BUF_NE,vivo_NFL,50
 2021_16_BUF_NE,WadeFuller,58
 2021_16_BUF_NE,wessonmo,53
@@ -78637,6 +78637,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,linsky,62
 2021_16_JAX_NYJ,lousabad44,0
 2021_16_JAX_NYJ,Market,54
+2021_16_JAX_NYJ,MarkoMarkonym,64
 2021_16_JAX_NYJ,marrodc,92
 2021_16_JAX_NYJ,Martentoellner,50
 2021_16_JAX_NYJ,mattglen_,37
@@ -78711,7 +78712,6 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,ukbradc,50
 2021_16_JAX_NYJ,v3lardy,100
 2021_16_JAX_NYJ,vedjos,56
-2021_16_JAX_NYJ,ViennaFalcons,64
 2021_16_JAX_NYJ,vivo_NFL,50
 2021_16_JAX_NYJ,WadeFuller,48
 2021_16_JAX_NYJ,wessonmo,50
@@ -78830,6 +78830,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,linsky,76
 2021_16_NYG_PHI,lousabad44,100
 2021_16_NYG_PHI,Market,81
+2021_16_NYG_PHI,MarkoMarkonym,73
 2021_16_NYG_PHI,marrodc,92
 2021_16_NYG_PHI,Martentoellner,50
 2021_16_NYG_PHI,mattglen_,65
@@ -78904,7 +78905,6 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,ukbradc,50
 2021_16_NYG_PHI,v3lardy,100
 2021_16_NYG_PHI,vedjos,64
-2021_16_NYG_PHI,ViennaFalcons,73
 2021_16_NYG_PHI,vivo_NFL,50
 2021_16_NYG_PHI,WadeFuller,74
 2021_16_NYG_PHI,wessonmo,100
@@ -79026,6 +79026,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,linsky,79
 2021_16_CHI_SEA,lousabad44,100
 2021_16_CHI_SEA,Market,74
+2021_16_CHI_SEA,MarkoMarkonym,67
 2021_16_CHI_SEA,marrodc,8
 2021_16_CHI_SEA,Martentoellner,50
 2021_16_CHI_SEA,mattglen_,61
@@ -79101,7 +79102,6 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,ukbradc,28
 2021_16_CHI_SEA,v3lardy,0
 2021_16_CHI_SEA,vedjos,43
-2021_16_CHI_SEA,ViennaFalcons,67
 2021_16_CHI_SEA,vivo_NFL,50
 2021_16_CHI_SEA,WadeFuller,73
 2021_16_CHI_SEA,wessonmo,67
@@ -79223,6 +79223,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,linsky,79
 2021_16_PIT_KC,lousabad44,100
 2021_16_PIT_KC,Market,77
+2021_16_PIT_KC,MarkoMarkonym,72
 2021_16_PIT_KC,marrodc,98
 2021_16_PIT_KC,Martentoellner,50
 2021_16_PIT_KC,mattglen_,71
@@ -79298,7 +79299,6 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,ukbradc,50
 2021_16_PIT_KC,v3lardy,0
 2021_16_PIT_KC,vedjos,84
-2021_16_PIT_KC,ViennaFalcons,72
 2021_16_PIT_KC,vivo_NFL,50
 2021_16_PIT_KC,WadeFuller,73
 2021_16_PIT_KC,wessonmo,81
@@ -79420,6 +79420,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,linsky,37
 2021_16_DEN_LV,lousabad44,100
 2021_16_DEN_LV,Market,49
+2021_16_DEN_LV,MarkoMarkonym,61
 2021_16_DEN_LV,marrodc,9
 2021_16_DEN_LV,Martentoellner,50
 2021_16_DEN_LV,mattglen_,63
@@ -79495,7 +79496,6 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,ukbradc,50
 2021_16_DEN_LV,v3lardy,100
 2021_16_DEN_LV,vedjos,62
-2021_16_DEN_LV,ViennaFalcons,61
 2021_16_DEN_LV,vivo_NFL,50
 2021_16_DEN_LV,WadeFuller,50
 2021_16_DEN_LV,wessonmo,50
@@ -79618,6 +79618,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,linsky,72
 2021_16_WAS_DAL,lousabad44,100
 2021_16_WAS_DAL,Market,79
+2021_16_WAS_DAL,MarkoMarkonym,77
 2021_16_WAS_DAL,marrodc,100
 2021_16_WAS_DAL,Martentoellner,50
 2021_16_WAS_DAL,mattglen_,61
@@ -79694,7 +79695,6 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,ukbradc,50
 2021_16_WAS_DAL,v3lardy,100
 2021_16_WAS_DAL,vedjos,78
-2021_16_WAS_DAL,ViennaFalcons,77
 2021_16_WAS_DAL,vivo_NFL,50
 2021_16_WAS_DAL,WadeFuller,76
 2021_16_WAS_DAL,wessonmo,75
@@ -79819,6 +79819,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,linsky,73
 2021_16_MIA_NO,lousabad44,100
 2021_16_MIA_NO,Market,40
+2021_16_MIA_NO,MarkoMarkonym,43
 2021_16_MIA_NO,marrodc,93
 2021_16_MIA_NO,Martentoellner,50
 2021_16_MIA_NO,mattglen_,66
@@ -79895,7 +79896,6 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,ukbradc,50
 2021_16_MIA_NO,v3lardy,0
 2021_16_MIA_NO,vedjos,65
-2021_16_MIA_NO,ViennaFalcons,43
 2021_16_MIA_NO,vivo_NFL,66
 2021_16_MIA_NO,WadeFuller,56
 2021_16_MIA_NO,wessonmo,20
@@ -80022,6 +80022,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,linsky,23
 2021_17_LA_BAL,Luizzenrique12,56
 2021_17_LA_BAL,Market,27
+2021_17_LA_BAL,MarkoMarkonym,39
 2021_17_LA_BAL,marrodc,7
 2021_17_LA_BAL,MathWithJerome,13
 2021_17_LA_BAL,mattglen_,47
@@ -80097,7 +80098,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,twain_w,50
 2021_17_LA_BAL,v3lardy,0
 2021_17_LA_BAL,vedjos,56
-2021_17_LA_BAL,ViennaFalcons,39
 2021_17_LA_BAL,vivo_NFL,50
 2021_17_LA_BAL,WadeFuller,36
 2021_17_LA_BAL,wessonmo,29
@@ -80225,6 +80225,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,linsky,78
 2021_17_ATL_BUF,Luizzenrique12,40
 2021_17_ATL_BUF,Market,87
+2021_17_ATL_BUF,MarkoMarkonym,81
 2021_17_ATL_BUF,marrodc,91
 2021_17_ATL_BUF,MathWithJerome,58
 2021_17_ATL_BUF,mattglen_,63
@@ -80300,7 +80301,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,twain_w,50
 2021_17_ATL_BUF,v3lardy,100
 2021_17_ATL_BUF,vedjos,75
-2021_17_ATL_BUF,ViennaFalcons,81
 2021_17_ATL_BUF,vivo_NFL,50
 2021_17_ATL_BUF,WadeFuller,80
 2021_17_ATL_BUF,wessonmo,100
@@ -80428,6 +80428,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,linsky,74
 2021_17_NYG_CHI,Luizzenrique12,46
 2021_17_NYG_CHI,Market,72
+2021_17_NYG_CHI,MarkoMarkonym,65
 2021_17_NYG_CHI,marrodc,93
 2021_17_NYG_CHI,MathWithJerome,53
 2021_17_NYG_CHI,mattglen_,58
@@ -80503,7 +80504,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,twain_w,50
 2021_17_NYG_CHI,v3lardy,100
 2021_17_NYG_CHI,vedjos,63
-2021_17_NYG_CHI,ViennaFalcons,65
 2021_17_NYG_CHI,vivo_NFL,50
 2021_17_NYG_CHI,WadeFuller,69
 2021_17_NYG_CHI,wessonmo,76
@@ -80631,6 +80631,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,linsky,31
 2021_17_KC_CIN,Luizzenrique12,56
 2021_17_KC_CIN,Market,38
+2021_17_KC_CIN,MarkoMarkonym,38
 2021_17_KC_CIN,marrodc,6
 2021_17_KC_CIN,MathWithJerome,17
 2021_17_KC_CIN,mattglen_,47
@@ -80706,7 +80707,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,twain_w,50
 2021_17_KC_CIN,v3lardy,100
 2021_17_KC_CIN,vedjos,26
-2021_17_KC_CIN,ViennaFalcons,38
 2021_17_KC_CIN,vivo_NFL,50
 2021_17_KC_CIN,WadeFuller,30
 2021_17_KC_CIN,wessonmo,29
@@ -80834,6 +80834,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,linsky,75
 2021_17_LV_IND,Luizzenrique12,42
 2021_17_LV_IND,Market,77
+2021_17_LV_IND,MarkoMarkonym,68
 2021_17_LV_IND,marrodc,89
 2021_17_LV_IND,MathWithJerome,43
 2021_17_LV_IND,mattglen_,64
@@ -80909,7 +80910,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,twain_w,50
 2021_17_LV_IND,v3lardy,100
 2021_17_LV_IND,vedjos,79
-2021_17_LV_IND,ViennaFalcons,68
 2021_17_LV_IND,vivo_NFL,50
 2021_17_LV_IND,WadeFuller,71
 2021_17_LV_IND,wessonmo,74
@@ -81037,6 +81037,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,linsky,83
 2021_17_JAX_NE,Luizzenrique12,33
 2021_17_JAX_NE,Market,88
+2021_17_JAX_NE,MarkoMarkonym,84
 2021_17_JAX_NE,marrodc,100
 2021_17_JAX_NE,MathWithJerome,98
 2021_17_JAX_NE,mattglen_,58
@@ -81112,7 +81113,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,twain_w,50
 2021_17_JAX_NE,v3lardy,100
 2021_17_JAX_NE,vedjos,77
-2021_17_JAX_NE,ViennaFalcons,84
 2021_17_JAX_NE,vivo_NFL,50
 2021_17_JAX_NE,WadeFuller,83
 2021_17_JAX_NE,wessonmo,100
@@ -81240,6 +81240,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,linsky,21
 2021_17_TB_NYJ,Luizzenrique12,62
 2021_17_TB_NYJ,Market,13
+2021_17_TB_NYJ,MarkoMarkonym,18
 2021_17_TB_NYJ,marrodc,1
 2021_17_TB_NYJ,MathWithJerome,0
 2021_17_TB_NYJ,mattglen_,41
@@ -81315,7 +81316,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,twain_w,50
 2021_17_TB_NYJ,v3lardy,0
 2021_17_TB_NYJ,vedjos,14
-2021_17_TB_NYJ,ViennaFalcons,18
 2021_17_TB_NYJ,vivo_NFL,50
 2021_17_TB_NYJ,WadeFuller,25
 2021_17_TB_NYJ,wessonmo,15
@@ -81443,6 +81443,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,linsky,63
 2021_17_MIA_TEN,Luizzenrique12,55
 2021_17_MIA_TEN,Market,61
+2021_17_MIA_TEN,MarkoMarkonym,60
 2021_17_MIA_TEN,marrodc,15
 2021_17_MIA_TEN,MathWithJerome,42
 2021_17_MIA_TEN,mattglen_,63
@@ -81518,7 +81519,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,twain_w,50
 2021_17_MIA_TEN,v3lardy,0
 2021_17_MIA_TEN,vedjos,70
-2021_17_MIA_TEN,ViennaFalcons,60
 2021_17_MIA_TEN,vivo_NFL,50
 2021_17_MIA_TEN,WadeFuller,59
 2021_17_MIA_TEN,wessonmo,56
@@ -81646,6 +81646,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,linsky,26
 2021_17_PHI_WAS,Luizzenrique12,43
 2021_17_PHI_WAS,Market,32
+2021_17_PHI_WAS,MarkoMarkonym,41
 2021_17_PHI_WAS,marrodc,2
 2021_17_PHI_WAS,MathWithJerome,46
 2021_17_PHI_WAS,mattglen_,44
@@ -81721,7 +81722,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,twain_w,50
 2021_17_PHI_WAS,v3lardy,0
 2021_17_PHI_WAS,vedjos,34
-2021_17_PHI_WAS,ViennaFalcons,41
 2021_17_PHI_WAS,vivo_NFL,50
 2021_17_PHI_WAS,WadeFuller,38
 2021_17_PHI_WAS,wessonmo,37
@@ -81849,6 +81849,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,linsky,67
 2021_17_DEN_LAC,Luizzenrique12,61
 2021_17_DEN_LAC,Market,75
+2021_17_DEN_LAC,MarkoMarkonym,63
 2021_17_DEN_LAC,marrodc,93
 2021_17_DEN_LAC,MathWithJerome,61
 2021_17_DEN_LAC,mattglen_,59
@@ -81924,7 +81925,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,twain_w,50
 2021_17_DEN_LAC,v3lardy,100
 2021_17_DEN_LAC,vedjos,44
-2021_17_DEN_LAC,ViennaFalcons,63
 2021_17_DEN_LAC,vivo_NFL,50
 2021_17_DEN_LAC,WadeFuller,63
 2021_17_DEN_LAC,wessonmo,76
@@ -82052,6 +82052,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,linsky,75
 2021_17_HOU_SF,Luizzenrique12,61
 2021_17_HOU_SF,Market,83
+2021_17_HOU_SF,MarkoMarkonym,86
 2021_17_HOU_SF,marrodc,93
 2021_17_HOU_SF,MathWithJerome,54
 2021_17_HOU_SF,mattglen_,58
@@ -82127,7 +82128,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,twain_w,50
 2021_17_HOU_SF,v3lardy,100
 2021_17_HOU_SF,vedjos,87
-2021_17_HOU_SF,ViennaFalcons,86
 2021_17_HOU_SF,vivo_NFL,50
 2021_17_HOU_SF,WadeFuller,78
 2021_17_HOU_SF,wessonmo,80
@@ -82255,6 +82255,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,linsky,61
 2021_17_ARI_DAL,Luizzenrique12,57
 2021_17_ARI_DAL,Market,70
+2021_17_ARI_DAL,MarkoMarkonym,40
 2021_17_ARI_DAL,marrodc,100
 2021_17_ARI_DAL,MathWithJerome,48
 2021_17_ARI_DAL,mattglen_,52
@@ -82330,7 +82331,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,twain_w,50
 2021_17_ARI_DAL,v3lardy,100
 2021_17_ARI_DAL,vedjos,63
-2021_17_ARI_DAL,ViennaFalcons,40
 2021_17_ARI_DAL,vivo_NFL,50
 2021_17_ARI_DAL,WadeFuller,59
 2021_17_ARI_DAL,wessonmo,70
@@ -82458,6 +82458,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,linsky,65
 2021_17_CAR_NO,Luizzenrique12,62
 2021_17_CAR_NO,Market,71
+2021_17_CAR_NO,MarkoMarkonym,43
 2021_17_CAR_NO,marrodc,95
 2021_17_CAR_NO,MathWithJerome,64
 2021_17_CAR_NO,mattglen_,60
@@ -82533,7 +82534,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,twain_w,50
 2021_17_CAR_NO,v3lardy,100
 2021_17_CAR_NO,vedjos,79
-2021_17_CAR_NO,ViennaFalcons,43
 2021_17_CAR_NO,vivo_NFL,50
 2021_17_CAR_NO,WadeFuller,71
 2021_17_CAR_NO,wessonmo,68
@@ -82661,6 +82661,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,linsky,54
 2021_17_DET_SEA,Luizzenrique12,57
 2021_17_DET_SEA,Market,77
+2021_17_DET_SEA,MarkoMarkonym,61
 2021_17_DET_SEA,marrodc,94
 2021_17_DET_SEA,MathWithJerome,55
 2021_17_DET_SEA,mattglen_,58
@@ -82736,7 +82737,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,twain_w,50
 2021_17_DET_SEA,v3lardy,0
 2021_17_DET_SEA,vedjos,62
-2021_17_DET_SEA,ViennaFalcons,61
 2021_17_DET_SEA,vivo_NFL,50
 2021_17_DET_SEA,WadeFuller,72
 2021_17_DET_SEA,wessonmo,82
@@ -82864,6 +82864,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,linsky,68
 2021_17_MIN_GB,Luizzenrique12,64
 2021_17_MIN_GB,Market,85
+2021_17_MIN_GB,MarkoMarkonym,69
 2021_17_MIN_GB,marrodc,5
 2021_17_MIN_GB,MathWithJerome,91
 2021_17_MIN_GB,mattglen_,67
@@ -82939,7 +82940,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,twain_w,50
 2021_17_MIN_GB,v3lardy,100
 2021_17_MIN_GB,vedjos,91
-2021_17_MIN_GB,ViennaFalcons,69
 2021_17_MIN_GB,vivo_NFL,50
 2021_17_MIN_GB,WadeFuller,70
 2021_17_MIN_GB,wessonmo,100
@@ -83068,6 +83068,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,linsky,34
 2021_17_CLE_PIT,Luizzenrique12,48
 2021_17_CLE_PIT,Market,47
+2021_17_CLE_PIT,MarkoMarkonym,42
 2021_17_CLE_PIT,marrodc,9
 2021_17_CLE_PIT,MathWithJerome,36
 2021_17_CLE_PIT,mattglen_,48
@@ -83145,7 +83146,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,twain_w,50
 2021_17_CLE_PIT,v3lardy,0
 2021_17_CLE_PIT,vedjos,32
-2021_17_CLE_PIT,ViennaFalcons,42
 2021_17_CLE_PIT,vivo_NFL,50
 2021_17_CLE_PIT,WadeFuller,37
 2021_17_CLE_PIT,wessonmo,47
@@ -83255,6 +83255,7 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,linsky,12
 2021_18_KC_DEN,lousabad44,0
 2021_18_KC_DEN,Market,18
+2021_18_KC_DEN,MarkoMarkonym,50
 2021_18_KC_DEN,MathWithJerome,15
 2021_18_KC_DEN,MattOctuplicate,14
 2021_18_KC_DEN,MaxErazo5,16
@@ -83314,7 +83315,6 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,trussell417,26
 2021_18_KC_DEN,v3lardy,0
 2021_18_KC_DEN,vedjos,16
-2021_18_KC_DEN,ViennaFalcons,50
 2021_18_KC_DEN,WadeFuller,26
 2021_18_KC_DEN,wessonmo,50
 2021_18_KC_DEN,WillShields3,20
@@ -83422,6 +83422,7 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,linsky,61
 2021_18_DAL_PHI,lousabad44,0
 2021_18_DAL_PHI,Market,28
+2021_18_DAL_PHI,MarkoMarkonym,50
 2021_18_DAL_PHI,MathWithJerome,47
 2021_18_DAL_PHI,MattOctuplicate,45
 2021_18_DAL_PHI,MaxErazo5,26
@@ -83482,7 +83483,6 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,trussell417,6
 2021_18_DAL_PHI,v3lardy,0
 2021_18_DAL_PHI,vedjos,66
-2021_18_DAL_PHI,ViennaFalcons,50
 2021_18_DAL_PHI,WadeFuller,43
 2021_18_DAL_PHI,wessonmo,19
 2021_18_DAL_PHI,WillShields3,25
@@ -83594,6 +83594,7 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,linsky,69
 2021_18_PIT_BAL,lousabad44,100
 2021_18_PIT_BAL,Market,59
+2021_18_PIT_BAL,MarkoMarkonym,60
 2021_18_PIT_BAL,marrodc,50
 2021_18_PIT_BAL,MathWithJerome,53
 2021_18_PIT_BAL,mattglen_,50
@@ -83661,7 +83662,6 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,trussell417,40
 2021_18_PIT_BAL,v3lardy,100
 2021_18_PIT_BAL,vedjos,57
-2021_18_PIT_BAL,ViennaFalcons,60
 2021_18_PIT_BAL,WadeFuller,55
 2021_18_PIT_BAL,wessonmo,81
 2021_18_PIT_BAL,WillShields3,69
@@ -83774,6 +83774,7 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,linsky,24
 2021_18_CIN_CLE,lousabad44,0
 2021_18_CIN_CLE,Market,70
+2021_18_CIN_CLE,MarkoMarkonym,65
 2021_18_CIN_CLE,marrodc,50
 2021_18_CIN_CLE,MathWithJerome,44
 2021_18_CIN_CLE,mattglen_,50
@@ -83841,7 +83842,6 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,trussell417,29
 2021_18_CIN_CLE,v3lardy,0
 2021_18_CIN_CLE,vedjos,28
-2021_18_CIN_CLE,ViennaFalcons,65
 2021_18_CIN_CLE,WadeFuller,60
 2021_18_CIN_CLE,wessonmo,79
 2021_18_CIN_CLE,WillShields3,46
@@ -83954,6 +83954,7 @@ game_id,screen_name,prediction
 2021_18_GB_DET,linsky,25
 2021_18_GB_DET,lousabad44,0
 2021_18_GB_DET,Market,36
+2021_18_GB_DET,MarkoMarkonym,40
 2021_18_GB_DET,marrodc,50
 2021_18_GB_DET,MathWithJerome,0
 2021_18_GB_DET,mattglen_,50
@@ -84021,7 +84022,6 @@ game_id,screen_name,prediction
 2021_18_GB_DET,trussell417,45
 2021_18_GB_DET,v3lardy,0
 2021_18_GB_DET,vedjos,61
-2021_18_GB_DET,ViennaFalcons,40
 2021_18_GB_DET,WadeFuller,37
 2021_18_GB_DET,wessonmo,32
 2021_18_GB_DET,WillShields3,40
@@ -84134,6 +84134,7 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,linsky,39
 2021_18_TEN_HOU,lousabad44,0
 2021_18_TEN_HOU,Market,19
+2021_18_TEN_HOU,MarkoMarkonym,27
 2021_18_TEN_HOU,marrodc,50
 2021_18_TEN_HOU,MathWithJerome,44
 2021_18_TEN_HOU,mattglen_,50
@@ -84201,7 +84202,6 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,trussell417,5
 2021_18_TEN_HOU,v3lardy,0
 2021_18_TEN_HOU,vedjos,11
-2021_18_TEN_HOU,ViennaFalcons,27
 2021_18_TEN_HOU,WadeFuller,27
 2021_18_TEN_HOU,wessonmo,0
 2021_18_TEN_HOU,WillShields3,20
@@ -84314,6 +84314,7 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,linsky,38
 2021_18_IND_JAX,lousabad44,0
 2021_18_IND_JAX,Market,13
+2021_18_IND_JAX,MarkoMarkonym,25
 2021_18_IND_JAX,marrodc,50
 2021_18_IND_JAX,MathWithJerome,28
 2021_18_IND_JAX,mattglen_,50
@@ -84381,7 +84382,6 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,trussell417,5
 2021_18_IND_JAX,v3lardy,0
 2021_18_IND_JAX,vedjos,12
-2021_18_IND_JAX,ViennaFalcons,25
 2021_18_IND_JAX,WadeFuller,25
 2021_18_IND_JAX,wessonmo,14
 2021_18_IND_JAX,WillShields3,5
@@ -84494,6 +84494,7 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,linsky,65
 2021_18_CHI_MIN,lousabad44,100
 2021_18_CHI_MIN,Market,63
+2021_18_CHI_MIN,MarkoMarkonym,57
 2021_18_CHI_MIN,marrodc,50
 2021_18_CHI_MIN,MathWithJerome,42
 2021_18_CHI_MIN,mattglen_,50
@@ -84561,7 +84562,6 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,trussell417,45
 2021_18_CHI_MIN,v3lardy,100
 2021_18_CHI_MIN,vedjos,41
-2021_18_CHI_MIN,ViennaFalcons,57
 2021_18_CHI_MIN,WadeFuller,67
 2021_18_CHI_MIN,wessonmo,64
 2021_18_CHI_MIN,WillShields3,57
@@ -84674,6 +84674,7 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,linsky,31
 2021_18_WAS_NYG,lousabad44,0
 2021_18_WAS_NYG,Market,32
+2021_18_WAS_NYG,MarkoMarkonym,29
 2021_18_WAS_NYG,marrodc,50
 2021_18_WAS_NYG,MathWithJerome,45
 2021_18_WAS_NYG,mattglen_,50
@@ -84741,7 +84742,6 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,trussell417,20
 2021_18_WAS_NYG,v3lardy,0
 2021_18_WAS_NYG,vedjos,22
-2021_18_WAS_NYG,ViennaFalcons,29
 2021_18_WAS_NYG,WadeFuller,30
 2021_18_WAS_NYG,wessonmo,29
 2021_18_WAS_NYG,WillShields3,24
@@ -84855,6 +84855,7 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,linsky,75
 2021_18_SEA_ARI,lousabad44,100
 2021_18_SEA_ARI,Market,67
+2021_18_SEA_ARI,MarkoMarkonym,65
 2021_18_SEA_ARI,marrodc,0
 2021_18_SEA_ARI,MathWithJerome,60
 2021_18_SEA_ARI,mattglen_,63
@@ -84922,7 +84923,6 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,trussell417,72
 2021_18_SEA_ARI,v3lardy,100
 2021_18_SEA_ARI,vedjos,77
-2021_18_SEA_ARI,ViennaFalcons,65
 2021_18_SEA_ARI,WadeFuller,61
 2021_18_SEA_ARI,wessonmo,67
 2021_18_SEA_ARI,WillShields3,75
@@ -85036,6 +85036,7 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,linsky,25
 2021_18_NO_ATL,lousabad44,0
 2021_18_NO_ATL,Market,34
+2021_18_NO_ATL,MarkoMarkonym,58
 2021_18_NO_ATL,marrodc,0
 2021_18_NO_ATL,MathWithJerome,72
 2021_18_NO_ATL,mattglen_,43
@@ -85103,7 +85104,6 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,trussell417,26
 2021_18_NO_ATL,v3lardy,0
 2021_18_NO_ATL,vedjos,18
-2021_18_NO_ATL,ViennaFalcons,58
 2021_18_NO_ATL,WadeFuller,44
 2021_18_NO_ATL,wessonmo,44
 2021_18_NO_ATL,WillShields3,37
@@ -85217,6 +85217,7 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,linsky,84
 2021_18_NYJ_BUF,lousabad44,100
 2021_18_NYJ_BUF,Market,89
+2021_18_NYJ_BUF,MarkoMarkonym,83
 2021_18_NYJ_BUF,marrodc,100
 2021_18_NYJ_BUF,MathWithJerome,89
 2021_18_NYJ_BUF,mattglen_,84
@@ -85284,7 +85285,6 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,trussell417,98
 2021_18_NYJ_BUF,v3lardy,100
 2021_18_NYJ_BUF,vedjos,91
-2021_18_NYJ_BUF,ViennaFalcons,83
 2021_18_NYJ_BUF,WadeFuller,81
 2021_18_NYJ_BUF,wessonmo,87
 2021_18_NYJ_BUF,WillShields3,90
@@ -85398,6 +85398,7 @@ game_id,screen_name,prediction
 2021_18_SF_LA,linsky,73
 2021_18_SF_LA,lousabad44,100
 2021_18_SF_LA,Market,61
+2021_18_SF_LA,MarkoMarkonym,46
 2021_18_SF_LA,marrodc,0
 2021_18_SF_LA,MathWithJerome,56
 2021_18_SF_LA,mattglen_,65
@@ -85465,7 +85466,6 @@ game_id,screen_name,prediction
 2021_18_SF_LA,trussell417,62
 2021_18_SF_LA,v3lardy,100
 2021_18_SF_LA,vedjos,78
-2021_18_SF_LA,ViennaFalcons,46
 2021_18_SF_LA,WadeFuller,59
 2021_18_SF_LA,wessonmo,68
 2021_18_SF_LA,WillShields3,70
@@ -85579,6 +85579,7 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,linsky,17
 2021_18_NE_MIA,lousabad44,0
 2021_18_NE_MIA,Market,32
+2021_18_NE_MIA,MarkoMarkonym,29
 2021_18_NE_MIA,marrodc,0
 2021_18_NE_MIA,MathWithJerome,42
 2021_18_NE_MIA,mattglen_,42
@@ -85646,7 +85647,6 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,trussell417,43
 2021_18_NE_MIA,v3lardy,0
 2021_18_NE_MIA,vedjos,19
-2021_18_NE_MIA,ViennaFalcons,29
 2021_18_NE_MIA,WadeFuller,29
 2021_18_NE_MIA,wessonmo,35
 2021_18_NE_MIA,WillShields3,20
@@ -85760,6 +85760,7 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,linsky,82
 2021_18_CAR_TB,lousabad44,100
 2021_18_CAR_TB,Market,80
+2021_18_CAR_TB,MarkoMarkonym,71
 2021_18_CAR_TB,marrodc,0
 2021_18_CAR_TB,MathWithJerome,82
 2021_18_CAR_TB,mattglen_,60
@@ -85827,7 +85828,6 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,trussell417,86
 2021_18_CAR_TB,v3lardy,100
 2021_18_CAR_TB,vedjos,81
-2021_18_CAR_TB,ViennaFalcons,71
 2021_18_CAR_TB,WadeFuller,76
 2021_18_CAR_TB,wessonmo,79
 2021_18_CAR_TB,WillShields3,83
@@ -85942,6 +85942,7 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,linsky,25
 2021_18_LAC_LV,lousabad44,0
 2021_18_LAC_LV,Market,38
+2021_18_LAC_LV,MarkoMarkonym,41
 2021_18_LAC_LV,marrodc,0
 2021_18_LAC_LV,MathWithJerome,45
 2021_18_LAC_LV,mattglen_,34
@@ -86010,7 +86011,6 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,trussell417,41
 2021_18_LAC_LV,v3lardy,0
 2021_18_LAC_LV,vedjos,26
-2021_18_LAC_LV,ViennaFalcons,41
 2021_18_LAC_LV,WadeFuller,38
 2021_18_LAC_LV,wessonmo,34
 2021_18_LAC_LV,WillShields3,38
@@ -86140,6 +86140,7 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,lousabad44,100
 2021_19_LV_CIN,mahomatiks,75
 2021_19_LV_CIN,Market,69
+2021_19_LV_CIN,MarkoMarkonym,39
 2021_19_LV_CIN,marrodc,100
 2021_19_LV_CIN,MathWithJerome,58
 2021_19_LV_CIN,matt_lenz16,20
@@ -86226,7 +86227,6 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,v3lardy,100
 2021_19_LV_CIN,vaqihh,100
 2021_19_LV_CIN,Vaughan_Kramer,73
-2021_19_LV_CIN,ViennaFalcons,39
 2021_19_LV_CIN,vivo_NFL,62
 2021_19_LV_CIN,WadeFuller,67
 2021_19_LV_CIN,wessonmo,75
@@ -86362,6 +86362,7 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,lousabad44,0
 2021_19_NE_BUF,mahomatiks,80
 2021_19_NE_BUF,Market,65
+2021_19_NE_BUF,MarkoMarkonym,39
 2021_19_NE_BUF,marrodc,100
 2021_19_NE_BUF,MathWithJerome,50
 2021_19_NE_BUF,matt_lenz16,100
@@ -86448,7 +86449,6 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,v3lardy,0
 2021_19_NE_BUF,vaqihh,45
 2021_19_NE_BUF,Vaughan_Kramer,61
-2021_19_NE_BUF,ViennaFalcons,39
 2021_19_NE_BUF,vivo_NFL,57
 2021_19_NE_BUF,WadeFuller,66
 2021_19_NE_BUF,wessonmo,60
@@ -86586,6 +86586,7 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,lousabad44,100
 2021_19_PHI_TB,mahomatiks,95
 2021_19_PHI_TB,Market,75
+2021_19_PHI_TB,MarkoMarkonym,74
 2021_19_PHI_TB,marrodc,45
 2021_19_PHI_TB,MathWithJerome,84
 2021_19_PHI_TB,matt_lenz16,72
@@ -86674,7 +86675,6 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,v3lardy,100
 2021_19_PHI_TB,vaqihh,100
 2021_19_PHI_TB,Vaughan_Kramer,45
-2021_19_PHI_TB,ViennaFalcons,74
 2021_19_PHI_TB,vivo_NFL,75
 2021_19_PHI_TB,WadeFuller,76
 2021_19_PHI_TB,wessonmo,85
@@ -86812,6 +86812,7 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,lousabad44,100
 2021_19_SF_DAL,mahomatiks,35
 2021_19_SF_DAL,Market,60
+2021_19_SF_DAL,MarkoMarkonym,40
 2021_19_SF_DAL,marrodc,100
 2021_19_SF_DAL,MathWithJerome,44
 2021_19_SF_DAL,matt_lenz16,22
@@ -86900,7 +86901,6 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,v3lardy,100
 2021_19_SF_DAL,vaqihh,70
 2021_19_SF_DAL,Vaughan_Kramer,45
-2021_19_SF_DAL,ViennaFalcons,40
 2021_19_SF_DAL,vivo_NFL,64
 2021_19_SF_DAL,WadeFuller,60
 2021_19_SF_DAL,wessonmo,67
@@ -87040,6 +87040,7 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,lousabad44,100
 2021_19_PIT_KC,mahomatiks,100
 2021_19_PIT_KC,Market,84
+2021_19_PIT_KC,MarkoMarkonym,82
 2021_19_PIT_KC,marrodc,100
 2021_19_PIT_KC,MathWithJerome,89
 2021_19_PIT_KC,matt_lenz16,41
@@ -87128,7 +87129,6 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,v3lardy,100
 2021_19_PIT_KC,vaqihh,85
 2021_19_PIT_KC,Vaughan_Kramer,90
-2021_19_PIT_KC,ViennaFalcons,82
 2021_19_PIT_KC,vivo_NFL,65
 2021_19_PIT_KC,WadeFuller,85
 2021_19_PIT_KC,wessonmo,100
@@ -87270,6 +87270,7 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,lousabad44,100
 2021_19_ARI_LA,mahomatiks,30
 2021_19_ARI_LA,Market,62
+2021_19_ARI_LA,MarkoMarkonym,39
 2021_19_ARI_LA,marrodc,44
 2021_19_ARI_LA,MathWithJerome,55
 2021_19_ARI_LA,matt_lenz16,42
@@ -87358,7 +87359,6 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,v3lardy,100
 2021_19_ARI_LA,vaqihh,55
 2021_19_ARI_LA,Vaughan_Kramer,45
-2021_19_ARI_LA,ViennaFalcons,39
 2021_19_ARI_LA,vivo_NFL,46
 2021_19_ARI_LA,WadeFuller,63
 2021_19_ARI_LA,wessonmo,62
