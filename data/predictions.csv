@@ -476,7 +476,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,recspecs730,68
 2021_01_DAL_TB,RedneckHockey06,59
 2021_01_DAL_TB,ReeceVersusLife,51
-2021_01_DAL_TB,reinhurdler,71
+2021_01_DAL_TB,reinhardNFL,71
 2021_01_DAL_TB,Ric_Shern,58
 2021_01_DAL_TB,RikopusGamblus,50
 2021_01_DAL_TB,Ringtailed79,50
@@ -1143,7 +1143,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,recspecs730,70
 2021_01_PHI_ATL,RedneckHockey06,54
 2021_01_PHI_ATL,ReeceVersusLife,50
-2021_01_PHI_ATL,reinhurdler,60
+2021_01_PHI_ATL,reinhardNFL,60
 2021_01_PHI_ATL,rgazon,80
 2021_01_PHI_ATL,Rhino4952,53
 2021_01_PHI_ATL,Ric_Shern,44
@@ -1816,7 +1816,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,recspecs730,65
 2021_01_PIT_BUF,RedneckHockey06,56
 2021_01_PIT_BUF,ReeceVersusLife,50
-2021_01_PIT_BUF,reinhurdler,79
+2021_01_PIT_BUF,reinhardNFL,79
 2021_01_PIT_BUF,rgazon,75
 2021_01_PIT_BUF,Rhino4952,66
 2021_01_PIT_BUF,Ric_Shern,78
@@ -2489,7 +2489,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,recspecs730,80
 2021_01_NYJ_CAR,RedneckHockey06,50
 2021_01_NYJ_CAR,ReeceVersusLife,50
-2021_01_NYJ_CAR,reinhurdler,56
+2021_01_NYJ_CAR,reinhardNFL,56
 2021_01_NYJ_CAR,rgazon,65
 2021_01_NYJ_CAR,Rhino4952,39
 2021_01_NYJ_CAR,Ric_Shern,65
@@ -3162,7 +3162,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,recspecs730,20
 2021_01_MIN_CIN,RedneckHockey06,50
 2021_01_MIN_CIN,ReeceVersusLife,50
-2021_01_MIN_CIN,reinhurdler,37
+2021_01_MIN_CIN,reinhardNFL,37
 2021_01_MIN_CIN,rgazon,10
 2021_01_MIN_CIN,Rhino4952,52
 2021_01_MIN_CIN,Ric_Shern,2
@@ -3336,8 +3336,8 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,ZenTaco,50
 2021_01_MIN_CIN,zweinberg18,29
 2021_01_MIN_CIN,zybxixi,50
-2021_01_SF_DET,,10
 2021_01_SF_DET,,50
+2021_01_SF_DET,,10
 2021_01_SF_DET,__beraldo,50
 2021_01_SF_DET,__DavidOfficial,17
 2021_01_SF_DET,_alendowsky,31
@@ -3835,7 +3835,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,recspecs730,19
 2021_01_SF_DET,RedneckHockey06,50
 2021_01_SF_DET,ReeceVersusLife,50
-2021_01_SF_DET,reinhurdler,46
+2021_01_SF_DET,reinhardNFL,46
 2021_01_SF_DET,rgazon,0
 2021_01_SF_DET,Rhino4952,10
 2021_01_SF_DET,Ric_Shern,30
@@ -4508,7 +4508,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,recspecs730,45
 2021_01_JAX_HOU,RedneckHockey06,50
 2021_01_JAX_HOU,ReeceVersusLife,50
-2021_01_JAX_HOU,reinhurdler,34
+2021_01_JAX_HOU,reinhardNFL,34
 2021_01_JAX_HOU,rgazon,36
 2021_01_JAX_HOU,Rhino4952,32
 2021_01_JAX_HOU,Ric_Shern,28
@@ -4682,8 +4682,8 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
-2021_01_SEA_IND,,25
 2021_01_SEA_IND,,50
+2021_01_SEA_IND,,25
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
 2021_01_SEA_IND,_alendowsky,50
@@ -5181,7 +5181,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,recspecs730,34
 2021_01_SEA_IND,RedneckHockey06,50
 2021_01_SEA_IND,ReeceVersusLife,50
-2021_01_SEA_IND,reinhurdler,36
+2021_01_SEA_IND,reinhardNFL,36
 2021_01_SEA_IND,rgazon,34
 2021_01_SEA_IND,Rhino4952,31
 2021_01_SEA_IND,Ric_Shern,38
@@ -5854,7 +5854,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,recspecs730,42
 2021_01_ARI_TEN,RedneckHockey06,50
 2021_01_ARI_TEN,ReeceVersusLife,50
-2021_01_ARI_TEN,reinhurdler,62
+2021_01_ARI_TEN,reinhardNFL,62
 2021_01_ARI_TEN,rgazon,25
 2021_01_ARI_TEN,Rhino4952,52
 2021_01_ARI_TEN,Ric_Shern,40
@@ -6028,8 +6028,8 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,ZenTaco,50
 2021_01_ARI_TEN,zweinberg18,70
 2021_01_ARI_TEN,zybxixi,50
-2021_01_LAC_WAS,,24
 2021_01_LAC_WAS,,50
+2021_01_LAC_WAS,,24
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
 2021_01_LAC_WAS,_alendowsky,50
@@ -6527,7 +6527,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,recspecs730,39
 2021_01_LAC_WAS,RedneckHockey06,50
 2021_01_LAC_WAS,ReeceVersusLife,50
-2021_01_LAC_WAS,reinhurdler,56
+2021_01_LAC_WAS,reinhardNFL,56
 2021_01_LAC_WAS,rgazon,30
 2021_01_LAC_WAS,Rhino4952,48
 2021_01_LAC_WAS,Ric_Shern,37
@@ -6701,8 +6701,8 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,ZenTaco,50
 2021_01_LAC_WAS,zweinberg18,40
 2021_01_LAC_WAS,zybxixi,50
-2021_01_CLE_KC,,50
 2021_01_CLE_KC,,90
+2021_01_CLE_KC,,50
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
 2021_01_CLE_KC,_alendowsky,61
@@ -7200,7 +7200,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,recspecs730,65
 2021_01_CLE_KC,RedneckHockey06,50
 2021_01_CLE_KC,ReeceVersusLife,50
-2021_01_CLE_KC,reinhurdler,75
+2021_01_CLE_KC,reinhardNFL,75
 2021_01_CLE_KC,rgazon,80
 2021_01_CLE_KC,Rhino4952,53
 2021_01_CLE_KC,Ric_Shern,95
@@ -7374,8 +7374,8 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
-2021_01_MIA_NE,,50
 2021_01_MIA_NE,,30
+2021_01_MIA_NE,,50
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
 2021_01_MIA_NE,_alendowsky,63
@@ -7873,7 +7873,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,recspecs730,65
 2021_01_MIA_NE,RedneckHockey06,50
 2021_01_MIA_NE,ReeceVersusLife,50
-2021_01_MIA_NE,reinhurdler,56
+2021_01_MIA_NE,reinhardNFL,56
 2021_01_MIA_NE,rgazon,35
 2021_01_MIA_NE,Rhino4952,45
 2021_01_MIA_NE,Ric_Shern,60
@@ -8546,7 +8546,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,recspecs730,35
 2021_01_GB_NO,RedneckHockey06,50
 2021_01_GB_NO,ReeceVersusLife,50
-2021_01_GB_NO,reinhurdler,36
+2021_01_GB_NO,reinhardNFL,36
 2021_01_GB_NO,rgazon,30
 2021_01_GB_NO,Rhino4952,52
 2021_01_GB_NO,Ric_Shern,53
@@ -9219,7 +9219,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,recspecs730,59
 2021_01_DEN_NYG,RedneckHockey06,50
 2021_01_DEN_NYG,ReeceVersusLife,50
-2021_01_DEN_NYG,reinhurdler,44
+2021_01_DEN_NYG,reinhardNFL,44
 2021_01_DEN_NYG,rgazon,30
 2021_01_DEN_NYG,Rhino4952,39
 2021_01_DEN_NYG,Ric_Shern,42
@@ -9894,7 +9894,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,recspecs730,81
 2021_01_CHI_LA,RedneckHockey06,50
 2021_01_CHI_LA,ReeceVersusLife,50
-2021_01_CHI_LA,reinhurdler,68
+2021_01_CHI_LA,reinhardNFL,68
 2021_01_CHI_LA,rgazon,41
 2021_01_CHI_LA,Rhino4952,62
 2021_01_CHI_LA,Ric_Shern,64
@@ -10590,7 +10590,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,recspecs730,42
 2021_01_BAL_LV,RedneckHockey06,50
 2021_01_BAL_LV,ReeceVersusLife,50
-2021_01_BAL_LV,reinhurdler,29
+2021_01_BAL_LV,reinhardNFL,29
 2021_01_BAL_LV,RetroVato16,28
 2021_01_BAL_LV,rgazon,20
 2021_01_BAL_LV,Rhino4952,12
@@ -11052,7 +11052,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,RealNateKeiper,100
 2021_02_NYG_WAS,recspecs730,80
 2021_02_NYG_WAS,ReeceVersusLife,50
-2021_02_NYG_WAS,reinhurdler,59
+2021_02_NYG_WAS,reinhardNFL,59
 2021_02_NYG_WAS,Ric_Shern,77
 2021_02_NYG_WAS,robbiejdunne,50
 2021_02_NYG_WAS,RobertsNumber49,47
@@ -11470,7 +11470,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,RealNateKeiper,0
 2021_02_NO_CAR,recspecs730,25
 2021_02_NO_CAR,ReeceVersusLife,50
-2021_02_NO_CAR,reinhurdler,23
+2021_02_NO_CAR,reinhardNFL,23
 2021_02_NO_CAR,Ric_Shern,30
 2021_02_NO_CAR,robbiejdunne,50
 2021_02_NO_CAR,RobertsNumber49,18
@@ -11580,8 +11580,8 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,zackry_mc,25
 2021_02_NO_CAR,zacwest91,65
 2021_02_NO_CAR,zweinberg18,40
-2021_02_CIN_CHI,,42
 2021_02_CIN_CHI,,44
+2021_02_CIN_CHI,,42
 2021_02_CIN_CHI,__DavidOfficial,51
 2021_02_CIN_CHI,_DH44_,65
 2021_02_CIN_CHI,_jclemons,53
@@ -11903,7 +11903,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,RealNateKeiper,40
 2021_02_CIN_CHI,recspecs730,40
 2021_02_CIN_CHI,ReeceVersusLife,50
-2021_02_CIN_CHI,reinhurdler,52
+2021_02_CIN_CHI,reinhardNFL,52
 2021_02_CIN_CHI,Ric_Shern,78
 2021_02_CIN_CHI,robbiejdunne,50
 2021_02_CIN_CHI,RobertsNumber49,45
@@ -12336,7 +12336,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,RealNateKeiper,100
 2021_02_HOU_CLE,recspecs730,90
 2021_02_HOU_CLE,ReeceVersusLife,50
-2021_02_HOU_CLE,reinhurdler,87
+2021_02_HOU_CLE,reinhardNFL,87
 2021_02_HOU_CLE,Ric_Shern,50
 2021_02_HOU_CLE,robbiejdunne,50
 2021_02_HOU_CLE,RobertsNumber49,87
@@ -12769,7 +12769,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,RealNateKeiper,30
 2021_02_LA_IND,recspecs730,25
 2021_02_LA_IND,ReeceVersusLife,50
-2021_02_LA_IND,reinhurdler,35
+2021_02_LA_IND,reinhardNFL,35
 2021_02_LA_IND,Ric_Shern,17
 2021_02_LA_IND,robbiejdunne,50
 2021_02_LA_IND,RobertsNumber49,26
@@ -13202,7 +13202,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,RealNateKeiper,0
 2021_02_DEN_JAX,recspecs730,38
 2021_02_DEN_JAX,ReeceVersusLife,50
-2021_02_DEN_JAX,reinhurdler,35
+2021_02_DEN_JAX,reinhardNFL,35
 2021_02_DEN_JAX,Ric_Shern,50
 2021_02_DEN_JAX,robbiejdunne,50
 2021_02_DEN_JAX,RobertsNumber49,45
@@ -13635,7 +13635,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,RealNateKeiper,40
 2021_02_BUF_MIA,recspecs730,29
 2021_02_BUF_MIA,ReeceVersusLife,50
-2021_02_BUF_MIA,reinhurdler,32
+2021_02_BUF_MIA,reinhardNFL,32
 2021_02_BUF_MIA,Ric_Shern,33
 2021_02_BUF_MIA,robbiejdunne,50
 2021_02_BUF_MIA,RobertsNumber49,25
@@ -14068,7 +14068,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,RealNateKeiper,0
 2021_02_NE_NYJ,recspecs730,9
 2021_02_NE_NYJ,ReeceVersusLife,50
-2021_02_NE_NYJ,reinhurdler,28
+2021_02_NE_NYJ,reinhardNFL,28
 2021_02_NE_NYJ,Ric_Shern,37
 2021_02_NE_NYJ,robbiejdunne,50
 2021_02_NE_NYJ,RobertsNumber49,53
@@ -14178,8 +14178,8 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,zackry_mc,0
 2021_02_NE_NYJ,zacwest91,43
 2021_02_NE_NYJ,zweinberg18,45
-2021_02_SF_PHI,,61
 2021_02_SF_PHI,,47
+2021_02_SF_PHI,,61
 2021_02_SF_PHI,__DavidOfficial,40
 2021_02_SF_PHI,_DH44_,22
 2021_02_SF_PHI,_jclemons,44
@@ -14501,7 +14501,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,RealNateKeiper,45
 2021_02_SF_PHI,recspecs730,30
 2021_02_SF_PHI,ReeceVersusLife,50
-2021_02_SF_PHI,reinhurdler,34
+2021_02_SF_PHI,reinhardNFL,34
 2021_02_SF_PHI,Ric_Shern,32
 2021_02_SF_PHI,robbiejdunne,50
 2021_02_SF_PHI,RobertsNumber49,52
@@ -14934,7 +14934,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,RealNateKeiper,90
 2021_02_LV_PIT,recspecs730,42
 2021_02_LV_PIT,ReeceVersusLife,50
-2021_02_LV_PIT,reinhurdler,55
+2021_02_LV_PIT,reinhardNFL,55
 2021_02_LV_PIT,Ric_Shern,68
 2021_02_LV_PIT,robbiejdunne,50
 2021_02_LV_PIT,RobertsNumber49,47
@@ -15368,7 +15368,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,RealNateKeiper,45
 2021_02_MIN_ARI,recspecs730,60
 2021_02_MIN_ARI,ReeceVersusLife,50
-2021_02_MIN_ARI,reinhurdler,66
+2021_02_MIN_ARI,reinhardNFL,66
 2021_02_MIN_ARI,Ric_Shern,70
 2021_02_MIN_ARI,robbiejdunne,50
 2021_02_MIN_ARI,RobertsNumber49,56
@@ -15802,7 +15802,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,RealNateKeiper,100
 2021_02_ATL_TB,recspecs730,70
 2021_02_ATL_TB,ReeceVersusLife,50
-2021_02_ATL_TB,reinhurdler,74
+2021_02_ATL_TB,reinhardNFL,74
 2021_02_ATL_TB,Ric_Shern,69
 2021_02_ATL_TB,robbiejdunne,50
 2021_02_ATL_TB,RobertsNumber49,90
@@ -16236,7 +16236,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,RealNateKeiper,65
 2021_02_DAL_LAC,recspecs730,40
 2021_02_DAL_LAC,ReeceVersusLife,50
-2021_02_DAL_LAC,reinhurdler,56
+2021_02_DAL_LAC,reinhardNFL,56
 2021_02_DAL_LAC,Ric_Shern,50
 2021_02_DAL_LAC,robbiejdunne,50
 2021_02_DAL_LAC,RobertsNumber49,43
@@ -16670,7 +16670,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,RealNateKeiper,60
 2021_02_TEN_SEA,recspecs730,65
 2021_02_TEN_SEA,ReeceVersusLife,50
-2021_02_TEN_SEA,reinhurdler,67
+2021_02_TEN_SEA,reinhardNFL,67
 2021_02_TEN_SEA,Ric_Shern,83
 2021_02_TEN_SEA,robbiejdunne,50
 2021_02_TEN_SEA,RobertsNumber49,55
@@ -16780,8 +16780,8 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,zackry_mc,81
 2021_02_TEN_SEA,zacwest91,76
 2021_02_TEN_SEA,zweinberg18,58
-2021_02_KC_BAL,,19
 2021_02_KC_BAL,,43
+2021_02_KC_BAL,,19
 2021_02_KC_BAL,__DavidOfficial,45
 2021_02_KC_BAL,_DH44_,51
 2021_02_KC_BAL,_jclemons,38
@@ -17104,7 +17104,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,RealNateKeiper,0
 2021_02_KC_BAL,recspecs730,20
 2021_02_KC_BAL,ReeceVersusLife,50
-2021_02_KC_BAL,reinhurdler,33
+2021_02_KC_BAL,reinhardNFL,33
 2021_02_KC_BAL,Ric_Shern,50
 2021_02_KC_BAL,robbiejdunne,50
 2021_02_KC_BAL,RobertsNumber49,42
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,38
 2021_02_DET_GB,,70
+2021_02_DET_GB,,38
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -17538,7 +17538,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,RealNateKeiper,100
 2021_02_DET_GB,recspecs730,88
 2021_02_DET_GB,ReeceVersusLife,50
-2021_02_DET_GB,reinhurdler,79
+2021_02_DET_GB,reinhardNFL,79
 2021_02_DET_GB,Ric_Shern,88
 2021_02_DET_GB,robbiejdunne,50
 2021_02_DET_GB,RobertsNumber49,92
@@ -17911,7 +17911,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,RealNateKeiper,50
 2021_03_CAR_HOU,recspecs730,31
 2021_03_CAR_HOU,ReeceVersusLife,50
-2021_03_CAR_HOU,reinhurdler,32
+2021_03_CAR_HOU,reinhardNFL,32
 2021_03_CAR_HOU,Ric_Shern,100
 2021_03_CAR_HOU,romantorres73,21
 2021_03_CAR_HOU,sambrothers23,35
@@ -18281,7 +18281,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,RealNateKeiper,50
 2021_03_WAS_BUF,recspecs730,74
 2021_03_WAS_BUF,ReeceVersusLife,50
-2021_03_WAS_BUF,reinhurdler,74
+2021_03_WAS_BUF,reinhardNFL,74
 2021_03_WAS_BUF,Ric_Shern,83
 2021_03_WAS_BUF,romantorres73,75
 2021_03_WAS_BUF,sahil_bolar,78
@@ -18656,7 +18656,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,RealNateKeiper,50
 2021_03_CHI_CLE,recspecs730,50
 2021_03_CHI_CLE,ReeceVersusLife,50
-2021_03_CHI_CLE,reinhurdler,77
+2021_03_CHI_CLE,reinhardNFL,77
 2021_03_CHI_CLE,Ric_Shern,38
 2021_03_CHI_CLE,romantorres73,78
 2021_03_CHI_CLE,sahil_bolar,65
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
+2021_03_BAL_DET,,21
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -19031,7 +19031,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,RealNateKeiper,50
 2021_03_BAL_DET,recspecs730,13
 2021_03_BAL_DET,ReeceVersusLife,50
-2021_03_BAL_DET,reinhurdler,23
+2021_03_BAL_DET,reinhardNFL,23
 2021_03_BAL_DET,Ric_Shern,0
 2021_03_BAL_DET,romantorres73,27
 2021_03_BAL_DET,sahil_bolar,21
@@ -19406,7 +19406,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,RealNateKeiper,50
 2021_03_ARI_JAX,recspecs730,6
 2021_03_ARI_JAX,ReeceVersusLife,50
-2021_03_ARI_JAX,reinhurdler,20
+2021_03_ARI_JAX,reinhardNFL,20
 2021_03_ARI_JAX,Ric_Shern,50
 2021_03_ARI_JAX,romantorres73,26
 2021_03_ARI_JAX,sahil_bolar,32
@@ -19781,7 +19781,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,RealNateKeiper,50
 2021_03_LAC_KC,recspecs730,72
 2021_03_LAC_KC,ReeceVersusLife,50
-2021_03_LAC_KC,reinhurdler,75
+2021_03_LAC_KC,reinhardNFL,75
 2021_03_LAC_KC,Ric_Shern,77
 2021_03_LAC_KC,romantorres73,65
 2021_03_LAC_KC,sahil_bolar,65
@@ -20156,7 +20156,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,RealNateKeiper,50
 2021_03_NO_NE,recspecs730,45
 2021_03_NO_NE,ReeceVersusLife,50
-2021_03_NO_NE,reinhurdler,54
+2021_03_NO_NE,reinhardNFL,54
 2021_03_NO_NE,Ric_Shern,44
 2021_03_NO_NE,romantorres73,49
 2021_03_NO_NE,sahil_bolar,54
@@ -20531,7 +20531,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,RealNateKeiper,50
 2021_03_ATL_NYG,recspecs730,35
 2021_03_ATL_NYG,ReeceVersusLife,50
-2021_03_ATL_NYG,reinhurdler,56
+2021_03_ATL_NYG,reinhardNFL,56
 2021_03_ATL_NYG,Ric_Shern,0
 2021_03_ATL_NYG,romantorres73,55
 2021_03_ATL_NYG,sahil_bolar,55
@@ -20906,7 +20906,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,RealNateKeiper,50
 2021_03_CIN_PIT,recspecs730,58
 2021_03_CIN_PIT,ReeceVersusLife,50
-2021_03_CIN_PIT,reinhurdler,56
+2021_03_CIN_PIT,reinhardNFL,56
 2021_03_CIN_PIT,Ric_Shern,68
 2021_03_CIN_PIT,romantorres73,49
 2021_03_CIN_PIT,sahil_bolar,54
@@ -21281,7 +21281,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,RealNateKeiper,50
 2021_03_IND_TEN,recspecs730,68
 2021_03_IND_TEN,ReeceVersusLife,50
-2021_03_IND_TEN,reinhurdler,66
+2021_03_IND_TEN,reinhardNFL,66
 2021_03_IND_TEN,Ric_Shern,68
 2021_03_IND_TEN,romantorres73,65
 2021_03_IND_TEN,sahil_bolar,74
@@ -21658,7 +21658,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,RealNateKeiper,50
 2021_03_NYJ_DEN,recspecs730,86
 2021_03_NYJ_DEN,ReeceVersusLife,50
-2021_03_NYJ_DEN,reinhurdler,81
+2021_03_NYJ_DEN,reinhardNFL,81
 2021_03_NYJ_DEN,Ric_Shern,78
 2021_03_NYJ_DEN,romantorres73,85
 2021_03_NYJ_DEN,sahil_bolar,80
@@ -21745,8 +21745,8 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,YayySports,81
 2021_03_NYJ_DEN,zackry_mc,100
 2021_03_NYJ_DEN,zweinberg18,73
-2021_03_MIA_LV,,50
 2021_03_MIA_LV,,69
+2021_03_MIA_LV,,50
 2021_03_MIA_LV,__DavidOfficial,75
 2021_03_MIA_LV,_alendowsky,55
 2021_03_MIA_LV,_DH44_,49
@@ -22037,7 +22037,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,RealNateKeiper,50
 2021_03_MIA_LV,recspecs730,84
 2021_03_MIA_LV,ReeceVersusLife,50
-2021_03_MIA_LV,reinhurdler,66
+2021_03_MIA_LV,reinhardNFL,66
 2021_03_MIA_LV,Ric_Shern,77
 2021_03_MIA_LV,romantorres73,66
 2021_03_MIA_LV,sahil_bolar,69
@@ -22416,7 +22416,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,RealNateKeiper,50
 2021_03_TB_LA,recspecs730,55
 2021_03_TB_LA,ReeceVersusLife,50
-2021_03_TB_LA,reinhurdler,39
+2021_03_TB_LA,reinhardNFL,39
 2021_03_TB_LA,Ric_Shern,63
 2021_03_TB_LA,romantorres73,43
 2021_03_TB_LA,sahil_bolar,44
@@ -22795,7 +22795,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,RealNateKeiper,50
 2021_03_SEA_MIN,recspecs730,57
 2021_03_SEA_MIN,ReeceVersusLife,50
-2021_03_SEA_MIN,reinhurdler,41
+2021_03_SEA_MIN,reinhardNFL,41
 2021_03_SEA_MIN,Ric_Shern,50
 2021_03_SEA_MIN,romantorres73,49
 2021_03_SEA_MIN,sahil_bolar,36
@@ -23175,7 +23175,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,RealNateKeiper,50
 2021_03_GB_SF,recspecs730,41
 2021_03_GB_SF,ReeceVersusLife,50
-2021_03_GB_SF,reinhurdler,52
+2021_03_GB_SF,reinhardNFL,52
 2021_03_GB_SF,Ric_Shern,52
 2021_03_GB_SF,romantorres73,45
 2021_03_GB_SF,sahil_bolar,43
@@ -23569,7 +23569,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,RealNateKeiper,50
 2021_03_PHI_DAL,recspecs730,75
 2021_03_PHI_DAL,ReeceVersusLife,50
-2021_03_PHI_DAL,reinhurdler,64
+2021_03_PHI_DAL,reinhardNFL,64
 2021_03_PHI_DAL,Ric_Shern,65
 2021_03_PHI_DAL,romantorres73,55
 2021_03_PHI_DAL,sahil_bolar,65
@@ -23931,7 +23931,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,realChinmay,95
 2021_04_JAX_CIN,recspecs730,78
 2021_04_JAX_CIN,ReeceVersusLife,50
-2021_04_JAX_CIN,reinhurdler,71
+2021_04_JAX_CIN,reinhardNFL,71
 2021_04_JAX_CIN,Ric_Shern,28
 2021_04_JAX_CIN,romantorres73,69
 2021_04_JAX_CIN,sahil_bolar,50
@@ -24313,7 +24313,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,RealNateKeiper,15
 2021_04_WAS_ATL,recspecs730,57
 2021_04_WAS_ATL,ReeceVersusLife,50
-2021_04_WAS_ATL,reinhurdler,49
+2021_04_WAS_ATL,reinhardNFL,49
 2021_04_WAS_ATL,Ric_Shern,50
 2021_04_WAS_ATL,romantorres73,45
 2021_04_WAS_ATL,sahil_bolar,50
@@ -24705,7 +24705,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,RealNateKeiper,100
 2021_04_HOU_BUF,recspecs730,92
 2021_04_HOU_BUF,ReeceVersusLife,50
-2021_04_HOU_BUF,reinhurdler,86
+2021_04_HOU_BUF,reinhardNFL,86
 2021_04_HOU_BUF,Ric_Shern,100
 2021_04_HOU_BUF,romantorres73,90
 2021_04_HOU_BUF,sahil_bolar,86
@@ -25097,7 +25097,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,RealNateKeiper,51
 2021_04_DET_CHI,recspecs730,45
 2021_04_DET_CHI,ReeceVersusLife,50
-2021_04_DET_CHI,reinhurdler,57
+2021_04_DET_CHI,reinhardNFL,57
 2021_04_DET_CHI,Ric_Shern,78
 2021_04_DET_CHI,romantorres73,49
 2021_04_DET_CHI,sahil_bolar,50
@@ -25489,7 +25489,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,RealNateKeiper,55
 2021_04_CAR_DAL,recspecs730,65
 2021_04_CAR_DAL,ReeceVersusLife,50
-2021_04_CAR_DAL,reinhurdler,63
+2021_04_CAR_DAL,reinhardNFL,63
 2021_04_CAR_DAL,Ric_Shern,100
 2021_04_CAR_DAL,romantorres73,55
 2021_04_CAR_DAL,sahil_bolar,77
@@ -25881,7 +25881,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,RealNateKeiper,60
 2021_04_IND_MIA,recspecs730,39
 2021_04_IND_MIA,ReeceVersusLife,50
-2021_04_IND_MIA,reinhurdler,52
+2021_04_IND_MIA,reinhardNFL,52
 2021_04_IND_MIA,Ric_Shern,42
 2021_04_IND_MIA,romantorres73,49
 2021_04_IND_MIA,sahil_bolar,49
@@ -26273,7 +26273,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,RealNateKeiper,0
 2021_04_CLE_MIN,recspecs730,56
 2021_04_CLE_MIN,ReeceVersusLife,50
-2021_04_CLE_MIN,reinhurdler,42
+2021_04_CLE_MIN,reinhardNFL,42
 2021_04_CLE_MIN,Ric_Shern,63
 2021_04_CLE_MIN,romantorres73,47
 2021_04_CLE_MIN,sahil_bolar,38
@@ -26665,7 +26665,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,RealNateKeiper,70
 2021_04_NYG_NO,recspecs730,84
 2021_04_NYG_NO,ReeceVersusLife,50
-2021_04_NYG_NO,reinhurdler,71
+2021_04_NYG_NO,reinhardNFL,71
 2021_04_NYG_NO,Ric_Shern,67
 2021_04_NYG_NO,romantorres73,70
 2021_04_NYG_NO,sahil_bolar,80
@@ -27057,7 +27057,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,RealNateKeiper,35
 2021_04_TEN_NYJ,recspecs730,9
 2021_04_TEN_NYJ,ReeceVersusLife,50
-2021_04_TEN_NYJ,reinhurdler,28
+2021_04_TEN_NYJ,reinhardNFL,28
 2021_04_TEN_NYJ,Ric_Shern,50
 2021_04_TEN_NYJ,romantorres73,35
 2021_04_TEN_NYJ,sahil_bolar,18
@@ -27449,7 +27449,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,RealNateKeiper,52
 2021_04_KC_PHI,recspecs730,14
 2021_04_KC_PHI,ReeceVersusLife,50
-2021_04_KC_PHI,reinhurdler,21
+2021_04_KC_PHI,reinhardNFL,21
 2021_04_KC_PHI,Ric_Shern,56
 2021_04_KC_PHI,romantorres73,35
 2021_04_KC_PHI,sahil_bolar,17
@@ -27843,7 +27843,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,RealNateKeiper,20
 2021_04_ARI_LA,recspecs730,60
 2021_04_ARI_LA,ReeceVersusLife,50
-2021_04_ARI_LA,reinhurdler,63
+2021_04_ARI_LA,reinhardNFL,63
 2021_04_ARI_LA,Ric_Shern,58
 2021_04_ARI_LA,romantorres73,63
 2021_04_ARI_LA,sahil_bolar,77
@@ -28239,7 +28239,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,RealNateKeiper,50
 2021_04_SEA_SF,recspecs730,45
 2021_04_SEA_SF,ReeceVersusLife,50
-2021_04_SEA_SF,reinhurdler,54
+2021_04_SEA_SF,reinhardNFL,54
 2021_04_SEA_SF,Ric_Shern,50
 2021_04_SEA_SF,romantorres73,52
 2021_04_SEA_SF,sahil_bolar,53
@@ -28637,7 +28637,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,RealNateKeiper,95
 2021_04_BAL_DEN,recspecs730,22
 2021_04_BAL_DEN,ReeceVersusLife,50
-2021_04_BAL_DEN,reinhurdler,45
+2021_04_BAL_DEN,reinhardNFL,45
 2021_04_BAL_DEN,Ric_Shern,27
 2021_04_BAL_DEN,romantorres73,49
 2021_04_BAL_DEN,sahil_bolar,29
@@ -29035,7 +29035,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,RealNateKeiper,75
 2021_04_PIT_GB,recspecs730,83
 2021_04_PIT_GB,ReeceVersusLife,50
-2021_04_PIT_GB,reinhurdler,76
+2021_04_PIT_GB,reinhardNFL,76
 2021_04_PIT_GB,Ric_Shern,50
 2021_04_PIT_GB,romantorres73,70
 2021_04_PIT_GB,sahil_bolar,80
@@ -29435,7 +29435,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,RealNateKeiper,0
 2021_04_TB_NE,recspecs730,36
 2021_04_TB_NE,ReeceVersusLife,50
-2021_04_TB_NE,reinhurdler,22
+2021_04_TB_NE,reinhardNFL,22
 2021_04_TB_NE,Ric_Shern,65
 2021_04_TB_NE,romantorres73,35
 2021_04_TB_NE,sahil_bolar,37
@@ -29845,7 +29845,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,RealNateKeiper,10
 2021_04_LV_LAC,recspecs730,61
 2021_04_LV_LAC,ReeceVersusLife,50
-2021_04_LV_LAC,reinhurdler,59
+2021_04_LV_LAC,reinhardNFL,59
 2021_04_LV_LAC,Ric_Shern,50
 2021_04_LV_LAC,romantorres73,55
 2021_04_LV_LAC,rp_21_,60
@@ -30215,7 +30215,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,realChinmay,43
 2021_05_LA_SEA,recspecs730,41
 2021_05_LA_SEA,ReeceVersusLife,50
-2021_05_LA_SEA,reinhurdler,41
+2021_05_LA_SEA,reinhardNFL,41
 2021_05_LA_SEA,Ric_Shern,37
 2021_05_LA_SEA,romantorres73,45
 2021_05_LA_SEA,rp_21_,53
@@ -30582,7 +30582,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,RealNateKeiper,0
 2021_05_NYJ_ATL,recspecs730,80
 2021_05_NYJ_ATL,ReeceVersusLife,50
-2021_05_NYJ_ATL,reinhurdler,61
+2021_05_NYJ_ATL,reinhardNFL,61
 2021_05_NYJ_ATL,Ric_Shern,69
 2021_05_NYJ_ATL,romantorres73,49
 2021_05_NYJ_ATL,rp_21_,64
@@ -30960,7 +30960,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,RealNateKeiper,100
 2021_05_PHI_CAR,recspecs730,45
 2021_05_PHI_CAR,ReeceVersusLife,50
-2021_05_PHI_CAR,reinhurdler,59
+2021_05_PHI_CAR,reinhardNFL,59
 2021_05_PHI_CAR,Ric_Shern,33
 2021_05_PHI_CAR,romantorres73,60
 2021_05_PHI_CAR,rp_21_,57
@@ -31338,7 +31338,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,RealNateKeiper,100
 2021_05_GB_CIN,recspecs730,33
 2021_05_GB_CIN,ReeceVersusLife,50
-2021_05_GB_CIN,reinhurdler,35
+2021_05_GB_CIN,reinhardNFL,35
 2021_05_GB_CIN,Ric_Shern,67
 2021_05_GB_CIN,romantorres73,40
 2021_05_GB_CIN,rp_21_,24
@@ -31716,7 +31716,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,RealNateKeiper,0
 2021_05_NE_HOU,recspecs730,15
 2021_05_NE_HOU,ReeceVersusLife,50
-2021_05_NE_HOU,reinhurdler,27
+2021_05_NE_HOU,reinhardNFL,27
 2021_05_NE_HOU,Ric_Shern,0
 2021_05_NE_HOU,romantorres73,32
 2021_05_NE_HOU,rp_21_,36
@@ -32094,7 +32094,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,RealNateKeiper,0
 2021_05_TEN_JAX,recspecs730,24
 2021_05_TEN_JAX,ReeceVersusLife,50
-2021_05_TEN_JAX,reinhurdler,27
+2021_05_TEN_JAX,reinhardNFL,27
 2021_05_TEN_JAX,Ric_Shern,57
 2021_05_TEN_JAX,romantorres73,38
 2021_05_TEN_JAX,rp_21_,43
@@ -32471,7 +32471,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,RealNateKeiper,100
 2021_05_DET_MIN,recspecs730,82
 2021_05_DET_MIN,ReeceVersusLife,50
-2021_05_DET_MIN,reinhurdler,73
+2021_05_DET_MIN,reinhardNFL,73
 2021_05_DET_MIN,Ric_Shern,100
 2021_05_DET_MIN,romantorres73,69
 2021_05_DET_MIN,rp_21_,61
@@ -32849,7 +32849,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,RealNateKeiper,100
 2021_05_DEN_PIT,recspecs730,57
 2021_05_DEN_PIT,ReeceVersusLife,50
-2021_05_DEN_PIT,reinhurdler,54
+2021_05_DEN_PIT,reinhardNFL,54
 2021_05_DEN_PIT,Ric_Shern,42
 2021_05_DEN_PIT,romantorres73,45
 2021_05_DEN_PIT,rp_21_,46
@@ -33226,7 +33226,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,RealNateKeiper,100
 2021_05_MIA_TB,recspecs730,88
 2021_05_MIA_TB,ReeceVersusLife,50
-2021_05_MIA_TB,reinhurdler,76
+2021_05_MIA_TB,reinhardNFL,76
 2021_05_MIA_TB,Ric_Shern,69
 2021_05_MIA_TB,romantorres73,75
 2021_05_MIA_TB,rp_21_,81
@@ -33604,7 +33604,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,RealNateKeiper,0
 2021_05_NO_WAS,recspecs730,41
 2021_05_NO_WAS,ReeceVersusLife,50
-2021_05_NO_WAS,reinhurdler,43
+2021_05_NO_WAS,reinhardNFL,43
 2021_05_NO_WAS,Ric_Shern,39
 2021_05_NO_WAS,romantorres73,49
 2021_05_NO_WAS,rp_21_,39
@@ -33985,7 +33985,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,RealNateKeiper,100
 2021_05_CLE_LAC,recspecs730,57
 2021_05_CLE_LAC,ReeceVersusLife,50
-2021_05_CLE_LAC,reinhurdler,47
+2021_05_CLE_LAC,reinhardNFL,47
 2021_05_CLE_LAC,Ric_Shern,69
 2021_05_CLE_LAC,romantorres73,49
 2021_05_CLE_LAC,rp_21_,44
@@ -34367,7 +34367,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,RealNateKeiper,0
 2021_05_CHI_LV,recspecs730,63
 2021_05_CHI_LV,ReeceVersusLife,50
-2021_05_CHI_LV,reinhurdler,64
+2021_05_CHI_LV,reinhardNFL,64
 2021_05_CHI_LV,Ric_Shern,44
 2021_05_CHI_LV,romantorres73,64
 2021_05_CHI_LV,rp_21_,63
@@ -34749,7 +34749,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,RealNateKeiper,0
 2021_05_SF_ARI,recspecs730,42
 2021_05_SF_ARI,ReeceVersusLife,50
-2021_05_SF_ARI,reinhurdler,65
+2021_05_SF_ARI,reinhardNFL,65
 2021_05_SF_ARI,Ric_Shern,50
 2021_05_SF_ARI,romantorres73,55
 2021_05_SF_ARI,rp_21_,67
@@ -35131,7 +35131,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,RealNateKeiper,100
 2021_05_NYG_DAL,recspecs730,75
 2021_05_NYG_DAL,ReeceVersusLife,50
-2021_05_NYG_DAL,reinhurdler,72
+2021_05_NYG_DAL,reinhardNFL,72
 2021_05_NYG_DAL,Ric_Shern,74
 2021_05_NYG_DAL,romantorres73,74
 2021_05_NYG_DAL,rp_21_,71
@@ -35514,7 +35514,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,RealNateKeiper,100
 2021_05_BUF_KC,recspecs730,61
 2021_05_BUF_KC,ReeceVersusLife,50
-2021_05_BUF_KC,reinhurdler,62
+2021_05_BUF_KC,reinhardNFL,62
 2021_05_BUF_KC,Ric_Shern,61
 2021_05_BUF_KC,romantorres73,53
 2021_05_BUF_KC,rp_21_,65
@@ -35903,7 +35903,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,RealNateKeiper,100
 2021_05_IND_BAL,recspecs730,85
 2021_05_IND_BAL,ReeceVersusLife,50
-2021_05_IND_BAL,reinhurdler,69
+2021_05_IND_BAL,reinhardNFL,69
 2021_05_IND_BAL,Ric_Shern,100
 2021_05_IND_BAL,romantorres73,79
 2021_05_IND_BAL,rp_21_,74
@@ -36249,7 +36249,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,realChinmay,20
 2021_06_TB_PHI,RealNateKeiper,50
 2021_06_TB_PHI,recspecs730,20
-2021_06_TB_PHI,reinhurdler,27
+2021_06_TB_PHI,reinhardNFL,27
 2021_06_TB_PHI,Ric_Shern,51
 2021_06_TB_PHI,robertJustinsu1,32
 2021_06_TB_PHI,romantorres73,29
@@ -36589,7 +36589,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,realChinmay,39
 2021_06_MIA_JAX,RealNateKeiper,50
 2021_06_MIA_JAX,recspecs730,55
-2021_06_MIA_JAX,reinhurdler,37
+2021_06_MIA_JAX,reinhardNFL,37
 2021_06_MIA_JAX,Ric_Shern,66
 2021_06_MIA_JAX,robertJustinsu1,29
 2021_06_MIA_JAX,romantorres73,45
@@ -36934,7 +36934,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,realChinmay,44
 2021_06_LAC_BAL,RealNateKeiper,50
 2021_06_LAC_BAL,recspecs730,43
-2021_06_LAC_BAL,reinhurdler,62
+2021_06_LAC_BAL,reinhardNFL,62
 2021_06_LAC_BAL,Ric_Shern,37
 2021_06_LAC_BAL,robertJustinsu1,41
 2021_06_LAC_BAL,romantorres73,52
@@ -37281,7 +37281,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,realChinmay,46
 2021_06_MIN_CAR,RealNateKeiper,50
 2021_06_MIN_CAR,recspecs730,39
-2021_06_MIN_CAR,reinhurdler,53
+2021_06_MIN_CAR,reinhardNFL,53
 2021_06_MIN_CAR,Ric_Shern,33
 2021_06_MIN_CAR,robertJustinsu1,47
 2021_06_MIN_CAR,romantorres73,48
@@ -37627,7 +37627,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,realChinmay,30
 2021_06_GB_CHI,RealNateKeiper,50
 2021_06_GB_CHI,recspecs730,17
-2021_06_GB_CHI,reinhurdler,35
+2021_06_GB_CHI,reinhardNFL,35
 2021_06_GB_CHI,Ric_Shern,71
 2021_06_GB_CHI,robertJustinsu1,12
 2021_06_GB_CHI,romantorres73,32
@@ -37973,7 +37973,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,realChinmay,32
 2021_06_CIN_DET,RealNateKeiper,50
 2021_06_CIN_DET,recspecs730,29
-2021_06_CIN_DET,reinhurdler,41
+2021_06_CIN_DET,reinhardNFL,41
 2021_06_CIN_DET,Ric_Shern,62
 2021_06_CIN_DET,robertJustinsu1,53
 2021_06_CIN_DET,romantorres73,40
@@ -38319,7 +38319,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,realChinmay,75
 2021_06_HOU_IND,RealNateKeiper,50
 2021_06_HOU_IND,recspecs730,63
-2021_06_HOU_IND,reinhurdler,82
+2021_06_HOU_IND,reinhardNFL,82
 2021_06_HOU_IND,Ric_Shern,82
 2021_06_HOU_IND,robertJustinsu1,61
 2021_06_HOU_IND,romantorres73,75
@@ -38665,7 +38665,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,realChinmay,21
 2021_06_LA_NYG,RealNateKeiper,50
 2021_06_LA_NYG,recspecs730,11
-2021_06_LA_NYG,reinhurdler,20
+2021_06_LA_NYG,reinhardNFL,20
 2021_06_LA_NYG,Ric_Shern,0
 2021_06_LA_NYG,robertJustinsu1,13
 2021_06_LA_NYG,romantorres73,26
@@ -39011,7 +39011,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,realChinmay,25
 2021_06_KC_WAS,RealNateKeiper,50
 2021_06_KC_WAS,recspecs730,25
-2021_06_KC_WAS,reinhurdler,28
+2021_06_KC_WAS,reinhardNFL,28
 2021_06_KC_WAS,Ric_Shern,0
 2021_06_KC_WAS,robertJustinsu1,19
 2021_06_KC_WAS,romantorres73,32
@@ -39358,7 +39358,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,realChinmay,50
 2021_06_ARI_CLE,RealNateKeiper,50
 2021_06_ARI_CLE,recspecs730,39
-2021_06_ARI_CLE,reinhurdler,59
+2021_06_ARI_CLE,reinhardNFL,59
 2021_06_ARI_CLE,Ric_Shern,38
 2021_06_ARI_CLE,robertJustinsu1,55
 2021_06_ARI_CLE,romantorres73,52
@@ -39706,7 +39706,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,realChinmay,59
 2021_06_LV_DEN,RealNateKeiper,50
 2021_06_LV_DEN,recspecs730,41
-2021_06_LV_DEN,reinhurdler,63
+2021_06_LV_DEN,reinhardNFL,63
 2021_06_LV_DEN,Ric_Shern,39
 2021_06_LV_DEN,robertJustinsu1,46
 2021_06_LV_DEN,romantorres73,65
@@ -40054,7 +40054,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,realChinmay,25
 2021_06_DAL_NE,RealNateKeiper,50
 2021_06_DAL_NE,recspecs730,40
-2021_06_DAL_NE,reinhurdler,35
+2021_06_DAL_NE,reinhardNFL,35
 2021_06_DAL_NE,Ric_Shern,24
 2021_06_DAL_NE,robertJustinsu1,31
 2021_06_DAL_NE,romantorres73,40
@@ -40403,7 +40403,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,realChinmay,60
 2021_06_SEA_PIT,RealNateKeiper,50
 2021_06_SEA_PIT,recspecs730,56
-2021_06_SEA_PIT,reinhurdler,66
+2021_06_SEA_PIT,reinhardNFL,66
 2021_06_SEA_PIT,Ric_Shern,50
 2021_06_SEA_PIT,robertJustinsu1,48
 2021_06_SEA_PIT,romantorres73,69
@@ -40754,7 +40754,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,realChinmay,10
 2021_06_BUF_TEN,RealNateKeiper,50
 2021_06_BUF_TEN,recspecs730,20
-2021_06_BUF_TEN,reinhurdler,32
+2021_06_BUF_TEN,reinhardNFL,32
 2021_06_BUF_TEN,Ric_Shern,17
 2021_06_BUF_TEN,robertJustinsu1,41
 2021_06_BUF_TEN,romantorres73,31
@@ -41059,7 +41059,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,RavensStatsNFL,64
 2021_07_DEN_CLE,Ravvv21,80
 2021_07_DEN_CLE,recspecs730,71
-2021_07_DEN_CLE,reinhurdler,51
+2021_07_DEN_CLE,reinhardNFL,51
 2021_07_DEN_CLE,Ric_Shern,38
 2021_07_DEN_CLE,romantorres73,49
 2021_07_DEN_CLE,rp_21_,60
@@ -41378,7 +41378,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,Ravvv21,100
 2021_07_CIN_BAL,RChurchill26,73
 2021_07_CIN_BAL,recspecs730,85
-2021_07_CIN_BAL,reinhurdler,67
+2021_07_CIN_BAL,reinhardNFL,67
 2021_07_CIN_BAL,Ric_Shern,100
 2021_07_CIN_BAL,romantorres73,65
 2021_07_CIN_BAL,rp_21_,72
@@ -41708,7 +41708,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,Ravvv21,100
 2021_07_WAS_GB,RChurchill26,82
 2021_07_WAS_GB,recspecs730,80
-2021_07_WAS_GB,reinhurdler,74
+2021_07_WAS_GB,reinhardNFL,74
 2021_07_WAS_GB,Ric_Shern,50
 2021_07_WAS_GB,romantorres73,78
 2021_07_WAS_GB,rp_21_,77
@@ -42038,7 +42038,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,Ravvv21,78
 2021_07_ATL_MIA,RChurchill26,19
 2021_07_ATL_MIA,recspecs730,21
-2021_07_ATL_MIA,reinhurdler,48
+2021_07_ATL_MIA,reinhardNFL,48
 2021_07_ATL_MIA,Ric_Shern,50
 2021_07_ATL_MIA,romantorres73,51
 2021_07_ATL_MIA,rp_21_,41
@@ -42368,7 +42368,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,Ravvv21,67
 2021_07_NYJ_NE,RChurchill26,89
 2021_07_NYJ_NE,recspecs730,81
-2021_07_NYJ_NE,reinhurdler,77
+2021_07_NYJ_NE,reinhardNFL,77
 2021_07_NYJ_NE,Ric_Shern,49
 2021_07_NYJ_NE,romantorres73,65
 2021_07_NYJ_NE,rp_21_,62
@@ -42698,7 +42698,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,Ravvv21,23
 2021_07_CAR_NYG,RChurchill26,5
 2021_07_CAR_NYG,recspecs730,23
-2021_07_CAR_NYG,reinhurdler,46
+2021_07_CAR_NYG,reinhardNFL,46
 2021_07_CAR_NYG,Ric_Shern,53
 2021_07_CAR_NYG,romantorres73,48
 2021_07_CAR_NYG,rp_21_,43
@@ -43028,7 +43028,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,Ravvv21,0
 2021_07_KC_TEN,RChurchill26,88
 2021_07_KC_TEN,recspecs730,39
-2021_07_KC_TEN,reinhurdler,29
+2021_07_KC_TEN,reinhardNFL,29
 2021_07_KC_TEN,Ric_Shern,35
 2021_07_KC_TEN,romantorres73,45
 2021_07_KC_TEN,rp_21_,29
@@ -43361,7 +43361,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,Ravvv21,100
 2021_07_DET_LA,RChurchill26,97
 2021_07_DET_LA,recspecs730,90
-2021_07_DET_LA,reinhurdler,80
+2021_07_DET_LA,reinhardNFL,80
 2021_07_DET_LA,Ric_Shern,100
 2021_07_DET_LA,romantorres73,85
 2021_07_DET_LA,rp_21_,84
@@ -43694,7 +43694,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,Ravvv21,71
 2021_07_PHI_LV,RChurchill26,85
 2021_07_PHI_LV,recspecs730,73
-2021_07_PHI_LV,reinhurdler,59
+2021_07_PHI_LV,reinhardNFL,59
 2021_07_PHI_LV,Ric_Shern,34
 2021_07_PHI_LV,romantorres73,55
 2021_07_PHI_LV,rp_21_,42
@@ -44027,7 +44027,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,Ravvv21,100
 2021_07_HOU_ARI,RChurchill26,100
 2021_07_HOU_ARI,recspecs730,77
-2021_07_HOU_ARI,reinhurdler,86
+2021_07_HOU_ARI,reinhardNFL,86
 2021_07_HOU_ARI,Ric_Shern,100
 2021_07_HOU_ARI,romantorres73,90
 2021_07_HOU_ARI,rp_21_,81
@@ -44360,7 +44360,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,Ravvv21,100
 2021_07_CHI_TB,RChurchill26,100
 2021_07_CHI_TB,recspecs730,75
-2021_07_CHI_TB,reinhurdler,80
+2021_07_CHI_TB,reinhardNFL,80
 2021_07_CHI_TB,Ric_Shern,50
 2021_07_CHI_TB,romantorres73,75
 2021_07_CHI_TB,rp_21_,88
@@ -44696,7 +44696,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,Ravvv21,36
 2021_07_IND_SF,RChurchill26,16
 2021_07_IND_SF,recspecs730,39
-2021_07_IND_SF,reinhurdler,67
+2021_07_IND_SF,reinhardNFL,67
 2021_07_IND_SF,Ric_Shern,58
 2021_07_IND_SF,romantorres73,49
 2021_07_IND_SF,rp_21_,63
@@ -45033,7 +45033,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,Ravvv21,38
 2021_07_NO_SEA,RChurchill26,27
 2021_07_NO_SEA,recspecs730,38
-2021_07_NO_SEA,reinhurdler,35
+2021_07_NO_SEA,reinhardNFL,35
 2021_07_NO_SEA,Ric_Shern,0
 2021_07_NO_SEA,romantorres73,39
 2021_07_NO_SEA,rp_21_,38
@@ -45328,7 +45328,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,RChurchill26,79
 2021_08_GB_ARI,realChinmay,100
 2021_08_GB_ARI,recspecs730,59
-2021_08_GB_ARI,reinhurdler,64
+2021_08_GB_ARI,reinhardNFL,64
 2021_08_GB_ARI,Ric_Shern,50
 2021_08_GB_ARI,romantorres73,60
 2021_08_GB_ARI,rp_21_,50
@@ -45631,7 +45631,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,RChurchill26,85
 2021_08_CAR_ATL,realChinmay,0
 2021_08_CAR_ATL,recspecs730,70
-2021_08_CAR_ATL,reinhurdler,59
+2021_08_CAR_ATL,reinhardNFL,59
 2021_08_CAR_ATL,Ric_Shern,100
 2021_08_CAR_ATL,romantorres73,53
 2021_08_CAR_ATL,rp_21_,59
@@ -45941,7 +45941,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,RChurchill26,100
 2021_08_MIA_BUF,realChinmay,100
 2021_08_MIA_BUF,recspecs730,90
-2021_08_MIA_BUF,reinhurdler,78
+2021_08_MIA_BUF,reinhardNFL,78
 2021_08_MIA_BUF,Ric_Shern,100
 2021_08_MIA_BUF,romantorres73,75
 2021_08_MIA_BUF,rp_21_,76
@@ -46251,7 +46251,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,RChurchill26,82
 2021_08_SF_CHI,realChinmay,0
 2021_08_SF_CHI,recspecs730,42
-2021_08_SF_CHI,reinhurdler,39
+2021_08_SF_CHI,reinhardNFL,39
 2021_08_SF_CHI,Ric_Shern,100
 2021_08_SF_CHI,romantorres73,40
 2021_08_SF_CHI,rp_21_,37
@@ -46561,7 +46561,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,RChurchill26,36
 2021_08_PIT_CLE,realChinmay,50
 2021_08_PIT_CLE,recspecs730,59
-2021_08_PIT_CLE,reinhurdler,64
+2021_08_PIT_CLE,reinhardNFL,64
 2021_08_PIT_CLE,Ric_Shern,0
 2021_08_PIT_CLE,romantorres73,57
 2021_08_PIT_CLE,rp_21_,36
@@ -46870,7 +46870,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,RChurchill26,41
 2021_08_PHI_DET,realChinmay,50
 2021_08_PHI_DET,recspecs730,23
-2021_08_PHI_DET,reinhurdler,37
+2021_08_PHI_DET,reinhardNFL,37
 2021_08_PHI_DET,Ric_Shern,100
 2021_08_PHI_DET,romantorres73,45
 2021_08_PHI_DET,rp_21_,33
@@ -47180,7 +47180,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,RChurchill26,0
 2021_08_LA_HOU,realChinmay,0
 2021_08_LA_HOU,recspecs730,8
-2021_08_LA_HOU,reinhurdler,13
+2021_08_LA_HOU,reinhardNFL,13
 2021_08_LA_HOU,Ric_Shern,0
 2021_08_LA_HOU,romantorres73,15
 2021_08_LA_HOU,rp_21_,0
@@ -47490,7 +47490,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,RChurchill26,12
 2021_08_TEN_IND,realChinmay,50
 2021_08_TEN_IND,recspecs730,25
-2021_08_TEN_IND,reinhurdler,47
+2021_08_TEN_IND,reinhardNFL,47
 2021_08_TEN_IND,Ric_Shern,0
 2021_08_TEN_IND,romantorres73,53
 2021_08_TEN_IND,rp_21_,40
@@ -47800,7 +47800,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,RChurchill26,8
 2021_08_CIN_NYJ,realChinmay,0
 2021_08_CIN_NYJ,recspecs730,21
-2021_08_CIN_NYJ,reinhurdler,20
+2021_08_CIN_NYJ,reinhardNFL,20
 2021_08_CIN_NYJ,Ric_Shern,0
 2021_08_CIN_NYJ,romantorres73,30
 2021_08_CIN_NYJ,rp_21_,26
@@ -48110,7 +48110,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,RChurchill26,86
 2021_08_NE_LAC,realChinmay,50
 2021_08_NE_LAC,recspecs730,44
-2021_08_NE_LAC,reinhurdler,68
+2021_08_NE_LAC,reinhardNFL,68
 2021_08_NE_LAC,Ric_Shern,100
 2021_08_NE_LAC,romantorres73,53
 2021_08_NE_LAC,rp_21_,72
@@ -48420,7 +48420,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,RChurchill26,84
 2021_08_JAX_SEA,realChinmay,50
 2021_08_JAX_SEA,recspecs730,62
-2021_08_JAX_SEA,reinhurdler,66
+2021_08_JAX_SEA,reinhardNFL,66
 2021_08_JAX_SEA,Ric_Shern,0
 2021_08_JAX_SEA,romantorres73,49
 2021_08_JAX_SEA,rp_21_,60
@@ -48730,7 +48730,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,RChurchill26,70
 2021_08_WAS_DEN,realChinmay,50
 2021_08_WAS_DEN,recspecs730,44
-2021_08_WAS_DEN,reinhurdler,68
+2021_08_WAS_DEN,reinhardNFL,68
 2021_08_WAS_DEN,Ric_Shern,100
 2021_08_WAS_DEN,romantorres73,54
 2021_08_WAS_DEN,rp_21_,56
@@ -49040,7 +49040,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,RChurchill26,27
 2021_08_TB_NO,realChinmay,35
 2021_08_TB_NO,recspecs730,22
-2021_08_TB_NO,reinhurdler,27
+2021_08_TB_NO,reinhardNFL,27
 2021_08_TB_NO,Ric_Shern,100
 2021_08_TB_NO,romantorres73,45
 2021_08_TB_NO,rp_21_,24
@@ -49351,7 +49351,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,RChurchill26,5
 2021_08_DAL_MIN,realChinmay,50
 2021_08_DAL_MIN,recspecs730,68
-2021_08_DAL_MIN,reinhurdler,62
+2021_08_DAL_MIN,reinhardNFL,62
 2021_08_DAL_MIN,Ric_Shern,0
 2021_08_DAL_MIN,romantorres73,55
 2021_08_DAL_MIN,rp_21_,74
@@ -49667,7 +49667,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,RChurchill26,63
 2021_08_NYG_KC,realChinmay,100
 2021_08_NYG_KC,recspecs730,90
-2021_08_NYG_KC,reinhurdler,83
+2021_08_NYG_KC,reinhardNFL,83
 2021_08_NYG_KC,Ric_Shern,100
 2021_08_NYG_KC,romantorres73,65
 2021_08_NYG_KC,rp_21_,100
@@ -49975,7 +49975,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,Ravvv21,100
 2021_09_NYJ_IND,RChurchill26,77
 2021_09_NYJ_IND,recspecs730,88
-2021_09_NYJ_IND,reinhurdler,74
+2021_09_NYJ_IND,reinhardNFL,74
 2021_09_NYJ_IND,Ric_Shern,50
 2021_09_NYJ_IND,romantorres73,75
 2021_09_NYJ_IND,rp_21_,92
@@ -50290,7 +50290,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,Ravvv21,100
 2021_09_MIN_BAL,RChurchill26,78
 2021_09_MIN_BAL,recspecs730,81
-2021_09_MIN_BAL,reinhurdler,68
+2021_09_MIN_BAL,reinhardNFL,68
 2021_09_MIN_BAL,Ric_Shern,100
 2021_09_MIN_BAL,RobertFrey40,52
 2021_09_MIN_BAL,romantorres73,65
@@ -50614,7 +50614,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,Ravvv21,37
 2021_09_NE_CAR,RChurchill26,23
 2021_09_NE_CAR,recspecs730,21
-2021_09_NE_CAR,reinhurdler,36
+2021_09_NE_CAR,reinhardNFL,36
 2021_09_NE_CAR,Ric_Shern,58
 2021_09_NE_CAR,RobertFrey40,50
 2021_09_NE_CAR,romantorres73,2
@@ -50938,7 +50938,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,Ravvv21,51
 2021_09_CLE_CIN,RChurchill26,69
 2021_09_CLE_CIN,recspecs730,63
-2021_09_CLE_CIN,reinhurdler,44
+2021_09_CLE_CIN,reinhardNFL,44
 2021_09_CLE_CIN,Ric_Shern,50
 2021_09_CLE_CIN,RobertFrey40,50
 2021_09_CLE_CIN,romantorres73,55
@@ -51262,7 +51262,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,Ravvv21,73
 2021_09_DEN_DAL,RChurchill26,88
 2021_09_DEN_DAL,recspecs730,70
-2021_09_DEN_DAL,reinhurdler,75
+2021_09_DEN_DAL,reinhardNFL,75
 2021_09_DEN_DAL,Ric_Shern,100
 2021_09_DEN_DAL,RobertFrey40,50
 2021_09_DEN_DAL,romantorres73,64
@@ -51586,7 +51586,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,Ravvv21,0
 2021_09_BUF_JAX,RChurchill26,0
 2021_09_BUF_JAX,recspecs730,6
-2021_09_BUF_JAX,reinhurdler,20
+2021_09_BUF_JAX,reinhardNFL,20
 2021_09_BUF_JAX,Ric_Shern,0
 2021_09_BUF_JAX,RobertFrey40,0
 2021_09_BUF_JAX,romantorres73,15
@@ -51910,7 +51910,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,Ravvv21,100
 2021_09_HOU_MIA,RChurchill26,38
 2021_09_HOU_MIA,recspecs730,76
-2021_09_HOU_MIA,reinhurdler,75
+2021_09_HOU_MIA,reinhardNFL,75
 2021_09_HOU_MIA,Ric_Shern,58
 2021_09_HOU_MIA,RobertFrey40,50
 2021_09_HOU_MIA,romantorres73,51
@@ -52234,7 +52234,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,Ravvv21,47
 2021_09_ATL_NO,RChurchill26,28
 2021_09_ATL_NO,recspecs730,40
-2021_09_ATL_NO,reinhurdler,55
+2021_09_ATL_NO,reinhardNFL,55
 2021_09_ATL_NO,Ric_Shern,40
 2021_09_ATL_NO,RobertFrey40,62
 2021_09_ATL_NO,romantorres73,55
@@ -52558,7 +52558,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,Ravvv21,41
 2021_09_LV_NYG,RChurchill26,28
 2021_09_LV_NYG,recspecs730,34
-2021_09_LV_NYG,reinhurdler,40
+2021_09_LV_NYG,reinhardNFL,40
 2021_09_LV_NYG,Ric_Shern,40
 2021_09_LV_NYG,RobertFrey40,39
 2021_09_LV_NYG,romantorres73,43
@@ -52886,7 +52886,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,Ravvv21,39
 2021_09_LAC_PHI,RChurchill26,72
 2021_09_LAC_PHI,recspecs730,23
-2021_09_LAC_PHI,reinhurdler,41
+2021_09_LAC_PHI,reinhardNFL,41
 2021_09_LAC_PHI,Ric_Shern,0
 2021_09_LAC_PHI,RobertFrey40,0
 2021_09_LAC_PHI,romantorres73,41
@@ -53214,7 +53214,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,Ravvv21,51
 2021_09_GB_KC,RChurchill26,33
 2021_09_GB_KC,recspecs730,69
-2021_09_GB_KC,reinhurdler,80
+2021_09_GB_KC,reinhardNFL,80
 2021_09_GB_KC,Ric_Shern,70
 2021_09_GB_KC,RobertFrey40,64
 2021_09_GB_KC,romantorres73,59
@@ -53542,7 +53542,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,Ravvv21,33
 2021_09_ARI_SF,RChurchill26,32
 2021_09_ARI_SF,recspecs730,57
-2021_09_ARI_SF,reinhurdler,70
+2021_09_ARI_SF,reinhardNFL,70
 2021_09_ARI_SF,Ric_Shern,37
 2021_09_ARI_SF,RobertFrey40,50
 2021_09_ARI_SF,romantorres73,55
@@ -53873,7 +53873,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,Ravvv21,63
 2021_09_TEN_LA,RChurchill26,88
 2021_09_TEN_LA,recspecs730,79
-2021_09_TEN_LA,reinhurdler,79
+2021_09_TEN_LA,reinhardNFL,79
 2021_09_TEN_LA,Ric_Shern,100
 2021_09_TEN_LA,RobertFrey40,79
 2021_09_TEN_LA,romantorres73,63
@@ -54211,7 +54211,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,Ravvv21,100
 2021_09_CHI_PIT,RChurchill26,61
 2021_09_CHI_PIT,recspecs730,45
-2021_09_CHI_PIT,reinhurdler,69
+2021_09_CHI_PIT,reinhardNFL,69
 2021_09_CHI_PIT,Ric_Shern,43
 2021_09_CHI_PIT,RobertFrey40,99
 2021_09_CHI_PIT,romantorres73,55
@@ -54504,7 +54504,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,RavensStatsNFL,0
 2021_10_BAL_MIA,Ravvv21,40
 2021_10_BAL_MIA,recspecs730,12
-2021_10_BAL_MIA,reinhurdler,24
+2021_10_BAL_MIA,reinhardNFL,24
 2021_10_BAL_MIA,romantorres73,41
 2021_10_BAL_MIA,rp_21_,50
 2021_10_BAL_MIA,RTorresCnm,35
@@ -54809,7 +54809,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,Ravvv21,56
 2021_10_ATL_DAL,RChurchill26,50
 2021_10_ATL_DAL,recspecs730,67
-2021_10_ATL_DAL,reinhurdler,72
+2021_10_ATL_DAL,reinhardNFL,72
 2021_10_ATL_DAL,romantorres73,67
 2021_10_ATL_DAL,rp_21_,66
 2021_10_ATL_DAL,RTorresCnm,65
@@ -55118,7 +55118,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,Ravvv21,58
 2021_10_JAX_IND,RChurchill26,50
 2021_10_JAX_IND,recspecs730,82
-2021_10_JAX_IND,reinhurdler,79
+2021_10_JAX_IND,reinhardNFL,79
 2021_10_JAX_IND,romantorres73,70
 2021_10_JAX_IND,rp_21_,75
 2021_10_JAX_IND,RTorresCnm,75
@@ -55427,7 +55427,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,Ravvv21,43
 2021_10_CLE_NE,RChurchill26,50
 2021_10_CLE_NE,recspecs730,67
-2021_10_CLE_NE,reinhurdler,56
+2021_10_CLE_NE,reinhardNFL,56
 2021_10_CLE_NE,romantorres73,49
 2021_10_CLE_NE,rp_21_,62
 2021_10_CLE_NE,RTorresCnm,65
@@ -55736,7 +55736,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,Ravvv21,44
 2021_10_BUF_NYJ,RChurchill26,50
 2021_10_BUF_NYJ,recspecs730,9
-2021_10_BUF_NYJ,reinhurdler,19
+2021_10_BUF_NYJ,reinhardNFL,19
 2021_10_BUF_NYJ,romantorres73,25
 2021_10_BUF_NYJ,rp_21_,12
 2021_10_BUF_NYJ,RTorresCnm,25
@@ -56045,7 +56045,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,Ravvv21,57
 2021_10_DET_PIT,RChurchill26,50
 2021_10_DET_PIT,recspecs730,57
-2021_10_DET_PIT,reinhurdler,76
+2021_10_DET_PIT,reinhardNFL,76
 2021_10_DET_PIT,romantorres73,54
 2021_10_DET_PIT,rp_21_,72
 2021_10_DET_PIT,RTorresCnm,75
@@ -56354,7 +56354,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,Ravvv21,55
 2021_10_NO_TEN,RChurchill26,50
 2021_10_NO_TEN,recspecs730,40
-2021_10_NO_TEN,reinhurdler,58
+2021_10_NO_TEN,reinhardNFL,58
 2021_10_NO_TEN,romantorres73,59
 2021_10_NO_TEN,rp_21_,39
 2021_10_NO_TEN,RTorresCnm,55
@@ -56663,7 +56663,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,Ravvv21,44
 2021_10_TB_WAS,RChurchill26,50
 2021_10_TB_WAS,recspecs730,18
-2021_10_TB_WAS,reinhurdler,21
+2021_10_TB_WAS,reinhardNFL,21
 2021_10_TB_WAS,romantorres73,38
 2021_10_TB_WAS,rp_21_,16
 2021_10_TB_WAS,RTorresCnm,15
@@ -56972,7 +56972,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,Ravvv21,54
 2021_10_CAR_ARI,RChurchill26,76
 2021_10_CAR_ARI,recspecs730,76
-2021_10_CAR_ARI,reinhurdler,76
+2021_10_CAR_ARI,reinhardNFL,76
 2021_10_CAR_ARI,romantorres73,56
 2021_10_CAR_ARI,rp_21_,57
 2021_10_CAR_ARI,RTorresCnm,85
@@ -57281,7 +57281,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,Ravvv21,53
 2021_10_MIN_LAC,RChurchill26,26
 2021_10_MIN_LAC,recspecs730,56
-2021_10_MIN_LAC,reinhurdler,66
+2021_10_MIN_LAC,reinhardNFL,66
 2021_10_MIN_LAC,romantorres73,54
 2021_10_MIN_LAC,rp_21_,70
 2021_10_MIN_LAC,RTorresCnm,45
@@ -57590,7 +57590,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,Ravvv21,45
 2021_10_PHI_DEN,RChurchill26,19
 2021_10_PHI_DEN,recspecs730,41
-2021_10_PHI_DEN,reinhurdler,52
+2021_10_PHI_DEN,reinhardNFL,52
 2021_10_PHI_DEN,romantorres73,52
 2021_10_PHI_DEN,rp_21_,36
 2021_10_PHI_DEN,RTorresCnm,35
@@ -57899,7 +57899,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,Ravvv21,55
 2021_10_SEA_GB,RChurchill26,100
 2021_10_SEA_GB,recspecs730,41
-2021_10_SEA_GB,reinhurdler,67
+2021_10_SEA_GB,reinhardNFL,67
 2021_10_SEA_GB,romantorres73,69
 2021_10_SEA_GB,rp_21_,74
 2021_10_SEA_GB,RTorresCnm,55
@@ -58210,7 +58210,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,Ravvv21,46
 2021_10_KC_LV,RChurchill26,88
 2021_10_KC_LV,recspecs730,21
-2021_10_KC_LV,reinhurdler,33
+2021_10_KC_LV,reinhardNFL,33
 2021_10_KC_LV,romantorres73,51
 2021_10_KC_LV,rp_21_,25
 2021_10_KC_LV,RTorresCnm,45
@@ -58527,7 +58527,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,Ravvv21,23
 2021_10_LA_SF,RChurchill26,0
 2021_10_LA_SF,recspecs730,16
-2021_10_LA_SF,reinhurdler,31
+2021_10_LA_SF,reinhardNFL,31
 2021_10_LA_SF,romantorres73,44
 2021_10_LA_SF,rp_21_,29
 2021_10_LA_SF,RTorresCnm,25
@@ -58811,7 +58811,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,Ravvv21,50
 2021_11_NE_ATL,RChurchill26,50
 2021_11_NE_ATL,recspecs730,20
-2021_11_NE_ATL,reinhurdler,31
+2021_11_NE_ATL,reinhardNFL,31
 2021_11_NE_ATL,romantorres73,40
 2021_11_NE_ATL,rp_21_,50
 2021_11_NE_ATL,RTorresCnm,15
@@ -59092,7 +59092,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,Ravvv21,45
 2021_11_IND_BUF,RChurchill26,78
 2021_11_IND_BUF,recspecs730,67
-2021_11_IND_BUF,reinhurdler,76
+2021_11_IND_BUF,reinhardNFL,76
 2021_11_IND_BUF,romantorres73,60
 2021_11_IND_BUF,rp_21_,65
 2021_11_IND_BUF,RTorresCnm,65
@@ -59375,7 +59375,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,Ravvv21,46
 2021_11_WAS_CAR,RChurchill26,83
 2021_11_WAS_CAR,recspecs730,44
-2021_11_WAS_CAR,reinhurdler,53
+2021_11_WAS_CAR,reinhardNFL,53
 2021_11_WAS_CAR,romantorres73,52
 2021_11_WAS_CAR,rp_21_,69
 2021_11_WAS_CAR,RTorresCnm,55
@@ -59659,7 +59659,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,Ravvv21,20
 2021_11_BAL_CHI,RChurchill26,71
 2021_11_BAL_CHI,recspecs730,53
-2021_11_BAL_CHI,reinhurdler,47
+2021_11_BAL_CHI,reinhardNFL,47
 2021_11_BAL_CHI,romantorres73,51
 2021_11_BAL_CHI,rp_21_,64
 2021_11_BAL_CHI,RTorresCnm,35
@@ -59943,7 +59943,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,Ravvv21,55
 2021_11_DET_CLE,RChurchill26,39
 2021_11_DET_CLE,recspecs730,67
-2021_11_DET_CLE,reinhurdler,85
+2021_11_DET_CLE,reinhardNFL,85
 2021_11_DET_CLE,romantorres73,75
 2021_11_DET_CLE,rp_21_,77
 2021_11_DET_CLE,RTorresCnm,75
@@ -60226,7 +60226,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,Ravvv21,53
 2021_11_SF_JAX,RChurchill26,16
 2021_11_SF_JAX,recspecs730,18
-2021_11_SF_JAX,reinhurdler,23
+2021_11_SF_JAX,reinhardNFL,23
 2021_11_SF_JAX,romantorres73,40
 2021_11_SF_JAX,rp_21_,23
 2021_11_SF_JAX,RTorresCnm,35
@@ -60509,7 +60509,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,Ravvv21,41
 2021_11_GB_MIN,RChurchill26,32
 2021_11_GB_MIN,recspecs730,36
-2021_11_GB_MIN,reinhurdler,42
+2021_11_GB_MIN,reinhardNFL,42
 2021_11_GB_MIN,romantorres73,47
 2021_11_GB_MIN,rp_21_,58
 2021_11_GB_MIN,RTorresCnm,45
@@ -60792,7 +60792,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,Ravvv21,30
 2021_11_MIA_NYJ,RChurchill26,41
 2021_11_MIA_NYJ,recspecs730,30
-2021_11_MIA_NYJ,reinhurdler,33
+2021_11_MIA_NYJ,reinhardNFL,33
 2021_11_MIA_NYJ,romantorres73,39
 2021_11_MIA_NYJ,rp_21_,39
 2021_11_MIA_NYJ,RTorresCnm,45
@@ -61076,7 +61076,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,Ravvv21,46
 2021_11_NO_PHI,RChurchill26,19
 2021_11_NO_PHI,recspecs730,43
-2021_11_NO_PHI,reinhurdler,53
+2021_11_NO_PHI,reinhardNFL,53
 2021_11_NO_PHI,romantorres73,52
 2021_11_NO_PHI,rp_21_,39
 2021_11_NO_PHI,RTorresCnm,55
@@ -61360,7 +61360,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,Ravvv21,79
 2021_11_HOU_TEN,RChurchill26,88
 2021_11_HOU_TEN,recspecs730,76
-2021_11_HOU_TEN,reinhurdler,83
+2021_11_HOU_TEN,reinhardNFL,83
 2021_11_HOU_TEN,romantorres73,65
 2021_11_HOU_TEN,rp_21_,61
 2021_11_HOU_TEN,RTorresCnm,85
@@ -61644,7 +61644,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,Ravvv21,54
 2021_11_CIN_LV,RChurchill26,68
 2021_11_CIN_LV,recspecs730,41
-2021_11_CIN_LV,reinhurdler,40
+2021_11_CIN_LV,reinhardNFL,40
 2021_11_CIN_LV,romantorres73,51
 2021_11_CIN_LV,rp_21_,60
 2021_11_CIN_LV,RTorresCnm,45
@@ -61928,7 +61928,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,Ravvv21,59
 2021_11_DAL_KC,RChurchill26,66
 2021_11_DAL_KC,recspecs730,66
-2021_11_DAL_KC,reinhurdler,62
+2021_11_DAL_KC,reinhardNFL,62
 2021_11_DAL_KC,romantorres73,52
 2021_11_DAL_KC,rp_21_,64
 2021_11_DAL_KC,RTorresCnm,45
@@ -62212,7 +62212,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,Ravvv21,56
 2021_11_ARI_SEA,RChurchill26,73
 2021_11_ARI_SEA,recspecs730,63
-2021_11_ARI_SEA,reinhurdler,62
+2021_11_ARI_SEA,reinhardNFL,62
 2021_11_ARI_SEA,romantorres73,52
 2021_11_ARI_SEA,rp_21_,69
 2021_11_ARI_SEA,RTorresCnm,45
@@ -62498,7 +62498,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,Ravvv21,64
 2021_11_PIT_LAC,RChurchill26,88
 2021_11_PIT_LAC,recspecs730,65
-2021_11_PIT_LAC,reinhurdler,65
+2021_11_PIT_LAC,reinhardNFL,65
 2021_11_PIT_LAC,romantorres73,52
 2021_11_PIT_LAC,rp_21_,76
 2021_11_PIT_LAC,RTorresCnm,48
@@ -62785,7 +62785,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,Ravvv21,61
 2021_11_NYG_TB,RChurchill26,87
 2021_11_NYG_TB,recspecs730,87
-2021_11_NYG_TB,reinhurdler,78
+2021_11_NYG_TB,reinhardNFL,78
 2021_11_NYG_TB,romantorres73,68
 2021_11_NYG_TB,rp_21_,89
 2021_11_NYG_TB,RTorresCnm,75
@@ -63031,7 +63031,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,RavensStatsNFL,1
 2021_12_CHI_DET,Ravvv21,64
 2021_12_CHI_DET,recspecs730,43
-2021_12_CHI_DET,reinhurdler,37
+2021_12_CHI_DET,reinhardNFL,37
 2021_12_CHI_DET,romantorres73,46
 2021_12_CHI_DET,rp_21_,28
 2021_12_CHI_DET,RTorresCnm,45
@@ -63275,7 +63275,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,RavensStatsNFL,0
 2021_12_LV_DAL,Ravvv21,56
 2021_12_LV_DAL,recspecs730,61
-2021_12_LV_DAL,reinhurdler,70
+2021_12_LV_DAL,reinhardNFL,70
 2021_12_LV_DAL,romantorres73,63
 2021_12_LV_DAL,rp_21_,70
 2021_12_LV_DAL,RTorresCnm,85
@@ -63519,7 +63519,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,RavensStatsNFL,0
 2021_12_BUF_NO,Ravvv21,41
 2021_12_BUF_NO,recspecs730,31
-2021_12_BUF_NO,reinhurdler,28
+2021_12_BUF_NO,reinhardNFL,28
 2021_12_BUF_NO,romantorres73,35
 2021_12_BUF_NO,rp_21_,18
 2021_12_BUF_NO,RTorresCnm,35
@@ -63776,7 +63776,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,RavensStatsNFL,0
 2021_12_PIT_CIN,Ravvv21,57
 2021_12_PIT_CIN,recspecs730,69
-2021_12_PIT_CIN,reinhurdler,64
+2021_12_PIT_CIN,reinhardNFL,64
 2021_12_PIT_CIN,Ric_Shern,50
 2021_12_PIT_CIN,romantorres73,53
 2021_12_PIT_CIN,rp_21_,74
@@ -64037,7 +64037,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,RavensStatsNFL,0
 2021_12_NYJ_HOU,Ravvv21,53
 2021_12_NYJ_HOU,recspecs730,42
-2021_12_NYJ_HOU,reinhurdler,51
+2021_12_NYJ_HOU,reinhardNFL,51
 2021_12_NYJ_HOU,Ric_Shern,50
 2021_12_NYJ_HOU,romantorres73,49
 2021_12_NYJ_HOU,rp_21_,42
@@ -64298,7 +64298,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,RavensStatsNFL,0
 2021_12_TB_IND,Ravvv21,56
 2021_12_TB_IND,recspecs730,37
-2021_12_TB_IND,reinhurdler,32
+2021_12_TB_IND,reinhardNFL,32
 2021_12_TB_IND,Ric_Shern,50
 2021_12_TB_IND,romantorres73,43
 2021_12_TB_IND,rp_21_,29
@@ -64559,7 +64559,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,RavensStatsNFL,0
 2021_12_ATL_JAX,Ravvv21,45
 2021_12_ATL_JAX,recspecs730,25
-2021_12_ATL_JAX,reinhurdler,42
+2021_12_ATL_JAX,reinhardNFL,42
 2021_12_ATL_JAX,Ric_Shern,50
 2021_12_ATL_JAX,romantorres73,47
 2021_12_ATL_JAX,rp_21_,36
@@ -64820,7 +64820,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,RavensStatsNFL,0
 2021_12_CAR_MIA,Ravvv21,60
 2021_12_CAR_MIA,recspecs730,37
-2021_12_CAR_MIA,reinhurdler,52
+2021_12_CAR_MIA,reinhardNFL,52
 2021_12_CAR_MIA,Ric_Shern,50
 2021_12_CAR_MIA,romantorres73,51
 2021_12_CAR_MIA,rp_21_,44
@@ -65081,7 +65081,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,RavensStatsNFL,0
 2021_12_TEN_NE,Ravvv21,47
 2021_12_TEN_NE,recspecs730,76
-2021_12_TEN_NE,reinhurdler,66
+2021_12_TEN_NE,reinhardNFL,66
 2021_12_TEN_NE,Ric_Shern,50
 2021_12_TEN_NE,romantorres73,58
 2021_12_TEN_NE,rp_21_,64
@@ -65342,7 +65342,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,RavensStatsNFL,0
 2021_12_PHI_NYG,Ravvv21,49
 2021_12_PHI_NYG,recspecs730,28
-2021_12_PHI_NYG,reinhurdler,35
+2021_12_PHI_NYG,reinhardNFL,35
 2021_12_PHI_NYG,Ric_Shern,50
 2021_12_PHI_NYG,romantorres73,45
 2021_12_PHI_NYG,rp_21_,42
@@ -65603,7 +65603,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,RavensStatsNFL,0
 2021_12_LAC_DEN,Ravvv21,38
 2021_12_LAC_DEN,recspecs730,35
-2021_12_LAC_DEN,reinhurdler,35
+2021_12_LAC_DEN,reinhardNFL,35
 2021_12_LAC_DEN,Ric_Shern,50
 2021_12_LAC_DEN,romantorres73,51
 2021_12_LAC_DEN,rp_21_,38
@@ -65864,7 +65864,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,RavensStatsNFL,0
 2021_12_LA_GB,Ravvv21,42
 2021_12_LA_GB,recspecs730,54
-2021_12_LA_GB,reinhurdler,51
+2021_12_LA_GB,reinhardNFL,51
 2021_12_LA_GB,Ric_Shern,50
 2021_12_LA_GB,romantorres73,55
 2021_12_LA_GB,rp_21_,69
@@ -66125,7 +66125,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,RavensStatsNFL,0
 2021_12_MIN_SF,Ravvv21,43
 2021_12_MIN_SF,recspecs730,39
-2021_12_MIN_SF,reinhurdler,61
+2021_12_MIN_SF,reinhardNFL,61
 2021_12_MIN_SF,Ric_Shern,50
 2021_12_MIN_SF,romantorres73,52
 2021_12_MIN_SF,rp_21_,61
@@ -66386,7 +66386,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,RavensStatsNFL,0
 2021_12_CLE_BAL,Ravvv21,57
 2021_12_CLE_BAL,recspecs730,67
-2021_12_CLE_BAL,reinhurdler,64
+2021_12_CLE_BAL,reinhardNFL,64
 2021_12_CLE_BAL,Ric_Shern,50
 2021_12_CLE_BAL,romantorres73,59
 2021_12_CLE_BAL,rp_21_,69
@@ -66650,7 +66650,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,RavensStatsNFL,0
 2021_12_SEA_WAS,Ravvv21,39
 2021_12_SEA_WAS,recspecs730,39
-2021_12_SEA_WAS,reinhurdler,41
+2021_12_SEA_WAS,reinhardNFL,41
 2021_12_SEA_WAS,Ric_Shern,50
 2021_12_SEA_WAS,romantorres73,49
 2021_12_SEA_WAS,rp_21_,38
@@ -66890,7 +66890,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,quad_father85,30
 2021_13_DAL_NO,Ravvv21,0
 2021_13_DAL_NO,recspecs730,26
-2021_13_DAL_NO,reinhurdler,29
+2021_13_DAL_NO,reinhardNFL,29
 2021_13_DAL_NO,romantorres73,37
 2021_13_DAL_NO,RTorresCnm,35
 2021_13_DAL_NO,RyanCSchroeder,43
@@ -67134,7 +67134,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,quad_father85,19
 2021_13_TB_ATL,Ravvv21,0
 2021_13_TB_ATL,recspecs730,15
-2021_13_TB_ATL,reinhurdler,19
+2021_13_TB_ATL,reinhardNFL,19
 2021_13_TB_ATL,romantorres73,27
 2021_13_TB_ATL,rp_21_,12
 2021_13_TB_ATL,RTorresCnm,15
@@ -67383,7 +67383,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,quad_father85,25
 2021_13_ARI_CHI,Ravvv21,0
 2021_13_ARI_CHI,recspecs730,29
-2021_13_ARI_CHI,reinhurdler,25
+2021_13_ARI_CHI,reinhardNFL,25
 2021_13_ARI_CHI,romantorres73,37
 2021_13_ARI_CHI,rp_21_,29
 2021_13_ARI_CHI,RTorresCnm,15
@@ -67632,7 +67632,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,quad_father85,59
 2021_13_LAC_CIN,Ravvv21,61
 2021_13_LAC_CIN,recspecs730,61
-2021_13_LAC_CIN,reinhurdler,60
+2021_13_LAC_CIN,reinhardNFL,60
 2021_13_LAC_CIN,romantorres73,47
 2021_13_LAC_CIN,rp_21_,66
 2021_13_LAC_CIN,RTorresCnm,55
@@ -67881,7 +67881,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,quad_father85,27
 2021_13_MIN_DET,Ravvv21,0
 2021_13_MIN_DET,recspecs730,31
-2021_13_MIN_DET,reinhurdler,27
+2021_13_MIN_DET,reinhardNFL,27
 2021_13_MIN_DET,romantorres73,37
 2021_13_MIN_DET,rp_21_,21
 2021_13_MIN_DET,RTorresCnm,35
@@ -68130,7 +68130,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,quad_father85,21
 2021_13_IND_HOU,Ravvv21,0
 2021_13_IND_HOU,recspecs730,19
-2021_13_IND_HOU,reinhurdler,24
+2021_13_IND_HOU,reinhardNFL,24
 2021_13_IND_HOU,romantorres73,27
 2021_13_IND_HOU,rp_21_,33
 2021_13_IND_HOU,RTorresCnm,25
@@ -68379,7 +68379,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,quad_father85,70
 2021_13_NYG_MIA,Ravvv21,100
 2021_13_NYG_MIA,recspecs730,64
-2021_13_NYG_MIA,reinhurdler,64
+2021_13_NYG_MIA,reinhardNFL,64
 2021_13_NYG_MIA,romantorres73,55
 2021_13_NYG_MIA,rp_21_,68
 2021_13_NYG_MIA,RTorresCnm,65
@@ -68628,7 +68628,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,quad_father85,34
 2021_13_PHI_NYJ,Ravvv21,42
 2021_13_PHI_NYJ,recspecs730,25
-2021_13_PHI_NYJ,reinhurdler,28
+2021_13_PHI_NYJ,reinhardNFL,28
 2021_13_PHI_NYJ,romantorres73,46
 2021_13_PHI_NYJ,rp_21_,25
 2021_13_PHI_NYJ,RTorresCnm,30
@@ -68877,7 +68877,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,quad_father85,85
 2021_13_JAX_LA,Ravvv21,56
 2021_13_JAX_LA,recspecs730,89
-2021_13_JAX_LA,reinhurdler,84
+2021_13_JAX_LA,reinhardNFL,84
 2021_13_JAX_LA,romantorres73,85
 2021_13_JAX_LA,rp_21_,96
 2021_13_JAX_LA,RTorresCnm,85
@@ -69126,7 +69126,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,quad_father85,54
 2021_13_WAS_LV,Ravvv21,58
 2021_13_WAS_LV,recspecs730,65
-2021_13_WAS_LV,reinhurdler,55
+2021_13_WAS_LV,reinhardNFL,55
 2021_13_WAS_LV,romantorres73,53
 2021_13_WAS_LV,rp_21_,71
 2021_13_WAS_LV,RTorresCnm,55
@@ -69375,7 +69375,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,quad_father85,35
 2021_13_BAL_PIT,Ravvv21,57
 2021_13_BAL_PIT,recspecs730,28
-2021_13_BAL_PIT,reinhurdler,35
+2021_13_BAL_PIT,reinhardNFL,35
 2021_13_BAL_PIT,romantorres73,45
 2021_13_BAL_PIT,rp_21_,26
 2021_13_BAL_PIT,RTorresCnm,25
@@ -69624,7 +69624,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,quad_father85,39
 2021_13_SF_SEA,Ravvv21,57
 2021_13_SF_SEA,recspecs730,39
-2021_13_SF_SEA,reinhurdler,39
+2021_13_SF_SEA,reinhardNFL,39
 2021_13_SF_SEA,romantorres73,43
 2021_13_SF_SEA,rp_21_,37
 2021_13_SF_SEA,RTorresCnm,45
@@ -69873,7 +69873,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,quad_father85,78
 2021_13_DEN_KC,Ravvv21,100
 2021_13_DEN_KC,recspecs730,65
-2021_13_DEN_KC,reinhurdler,82
+2021_13_DEN_KC,reinhardNFL,82
 2021_13_DEN_KC,romantorres73,63
 2021_13_DEN_KC,rp_21_,68
 2021_13_DEN_KC,RTorresCnm,85
@@ -70124,7 +70124,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,quad_father85,58
 2021_13_NE_BUF,Ravvv21,53
 2021_13_NE_BUF,recspecs730,41
-2021_13_NE_BUF,reinhurdler,55
+2021_13_NE_BUF,reinhardNFL,55
 2021_13_NE_BUF,romantorres73,49
 2021_13_NE_BUF,rp_21_,67
 2021_13_NE_BUF,RTorresCnm,45
@@ -70345,7 +70345,7 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,quad_father85,40
 2021_14_PIT_MIN,RavensStatsNFL,50
 2021_14_PIT_MIN,recspecs730,67
-2021_14_PIT_MIN,reinhurdler,58
+2021_14_PIT_MIN,reinhardNFL,58
 2021_14_PIT_MIN,romantorres73,49
 2021_14_PIT_MIN,rp_21_,57
 2021_14_PIT_MIN,RTorresCnm,65
@@ -70568,7 +70568,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,quad_father85,59
 2021_14_ATL_CAR,RavensStatsNFL,50
 2021_14_ATL_CAR,recspecs730,46
-2021_14_ATL_CAR,reinhurdler,51
+2021_14_ATL_CAR,reinhardNFL,51
 2021_14_ATL_CAR,romantorres73,48
 2021_14_ATL_CAR,rp_21_,56
 2021_14_ATL_CAR,RTorresCnm,55
@@ -70795,7 +70795,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,quad_father85,55
 2021_14_BAL_CLE,RavensStatsNFL,50
 2021_14_BAL_CLE,recspecs730,43
-2021_14_BAL_CLE,reinhurdler,53
+2021_14_BAL_CLE,reinhardNFL,53
 2021_14_BAL_CLE,romantorres73,52
 2021_14_BAL_CLE,rp_21_,39
 2021_14_BAL_CLE,RTorresCnm,55
@@ -71022,7 +71022,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,quad_father85,26
 2021_14_SEA_HOU,RavensStatsNFL,50
 2021_14_SEA_HOU,recspecs730,34
-2021_14_SEA_HOU,reinhurdler,25
+2021_14_SEA_HOU,reinhardNFL,25
 2021_14_SEA_HOU,romantorres73,39
 2021_14_SEA_HOU,rp_21_,19
 2021_14_SEA_HOU,RTorresCnm,30
@@ -71249,7 +71249,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,quad_father85,79
 2021_14_LV_KC,RavensStatsNFL,50
 2021_14_LV_KC,recspecs730,70
-2021_14_LV_KC,reinhurdler,74
+2021_14_LV_KC,reinhardNFL,74
 2021_14_LV_KC,romantorres73,63
 2021_14_LV_KC,rp_21_,66
 2021_14_LV_KC,RTorresCnm,85
@@ -71476,7 +71476,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,quad_father85,33
 2021_14_NO_NYJ,RavensStatsNFL,50
 2021_14_NO_NYJ,recspecs730,25
-2021_14_NO_NYJ,reinhurdler,31
+2021_14_NO_NYJ,reinhardNFL,31
 2021_14_NO_NYJ,romantorres73,40
 2021_14_NO_NYJ,rp_21_,24
 2021_14_NO_NYJ,RTorresCnm,35
@@ -71703,7 +71703,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,quad_father85,80
 2021_14_JAX_TEN,RavensStatsNFL,50
 2021_14_JAX_TEN,recspecs730,72
-2021_14_JAX_TEN,reinhurdler,79
+2021_14_JAX_TEN,reinhardNFL,79
 2021_14_JAX_TEN,romantorres73,70
 2021_14_JAX_TEN,rp_21_,83
 2021_14_JAX_TEN,RTorresCnm,85
@@ -71930,7 +71930,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,quad_father85,36
 2021_14_DAL_WAS,RavensStatsNFL,50
 2021_14_DAL_WAS,recspecs730,33
-2021_14_DAL_WAS,reinhurdler,26
+2021_14_DAL_WAS,reinhardNFL,26
 2021_14_DAL_WAS,romantorres73,45
 2021_14_DAL_WAS,rp_21_,26
 2021_14_DAL_WAS,RTorresCnm,30
@@ -72158,7 +72158,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,quad_father85,76
 2021_14_DET_DEN,RavensStatsNFL,50
 2021_14_DET_DEN,recspecs730,72
-2021_14_DET_DEN,reinhurdler,74
+2021_14_DET_DEN,reinhardNFL,74
 2021_14_DET_DEN,romantorres73,70
 2021_14_DET_DEN,rp_21_,70
 2021_14_DET_DEN,RTorresCnm,80
@@ -72386,7 +72386,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,quad_father85,81
 2021_14_NYG_LAC,RavensStatsNFL,50
 2021_14_NYG_LAC,recspecs730,79
-2021_14_NYG_LAC,reinhurdler,76
+2021_14_NYG_LAC,reinhardNFL,76
 2021_14_NYG_LAC,romantorres73,63
 2021_14_NYG_LAC,rp_21_,85
 2021_14_NYG_LAC,RTorresCnm,75
@@ -72614,7 +72614,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,quad_father85,51
 2021_14_SF_CIN,RavensStatsNFL,50
 2021_14_SF_CIN,recspecs730,61
-2021_14_SF_CIN,reinhurdler,51
+2021_14_SF_CIN,reinhardNFL,51
 2021_14_SF_CIN,romantorres73,48
 2021_14_SF_CIN,rp_21_,55
 2021_14_SF_CIN,RTorresCnm,55
@@ -72843,7 +72843,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,quad_father85,61
 2021_14_BUF_TB,RavensStatsNFL,50
 2021_14_BUF_TB,recspecs730,66
-2021_14_BUF_TB,reinhurdler,69
+2021_14_BUF_TB,reinhardNFL,69
 2021_14_BUF_TB,romantorres73,54
 2021_14_BUF_TB,rp_21_,67
 2021_14_BUF_TB,RTorresCnm,65
@@ -73073,7 +73073,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,quad_father85,83
 2021_14_CHI_GB,RavensStatsNFL,50
 2021_14_CHI_GB,recspecs730,81
-2021_14_CHI_GB,reinhurdler,80
+2021_14_CHI_GB,reinhardNFL,80
 2021_14_CHI_GB,romantorres73,70
 2021_14_CHI_GB,rp_21_,87
 2021_14_CHI_GB,RTorresCnm,85
@@ -73304,7 +73304,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,quad_father85,66
 2021_14_LA_ARI,RavensStatsNFL,50
 2021_14_LA_ARI,recspecs730,41
-2021_14_LA_ARI,reinhurdler,57
+2021_14_LA_ARI,reinhardNFL,57
 2021_14_LA_ARI,romantorres73,54
 2021_14_LA_ARI,rp_21_,65
 2021_14_LA_ARI,RTorresCnm,65
@@ -73509,7 +73509,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,pthoenen,50
 2021_15_KC_LAC,quad_father85,37
 2021_15_KC_LAC,recspecs730,33
-2021_15_KC_LAC,reinhurdler,37
+2021_15_KC_LAC,reinhardNFL,37
 2021_15_KC_LAC,romantorres73,45
 2021_15_KC_LAC,rp_21_,32
 2021_15_KC_LAC,RTorresCnm,35
@@ -73716,7 +73716,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,pthoenen,45
 2021_15_NE_IND,quad_father85,56
 2021_15_NE_IND,recspecs730,39
-2021_15_NE_IND,reinhurdler,44
+2021_15_NE_IND,reinhardNFL,44
 2021_15_NE_IND,romantorres73,46
 2021_15_NE_IND,rp_21_,42
 2021_15_NE_IND,RTorresCnm,48
@@ -73931,7 +73931,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,pthoenen,75
 2021_15_CAR_BUF,quad_father85,83
 2021_15_CAR_BUF,recspecs730,80
-2021_15_CAR_BUF,reinhurdler,69
+2021_15_CAR_BUF,reinhardNFL,69
 2021_15_CAR_BUF,romantorres73,85
 2021_15_CAR_BUF,rp_21_,87
 2021_15_CAR_BUF,RTorresCnm,85
@@ -74146,7 +74146,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,pthoenen,19
 2021_15_ARI_DET,quad_father85,14
 2021_15_ARI_DET,recspecs730,19
-2021_15_ARI_DET,reinhurdler,19
+2021_15_ARI_DET,reinhardNFL,19
 2021_15_ARI_DET,romantorres73,27
 2021_15_ARI_DET,rp_21_,8
 2021_15_ARI_DET,RTorresCnm,15
@@ -74361,7 +74361,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,pthoenen,64
 2021_15_HOU_JAX,quad_father85,66
 2021_15_HOU_JAX,recspecs730,45
-2021_15_HOU_JAX,reinhurdler,57
+2021_15_HOU_JAX,reinhardNFL,57
 2021_15_HOU_JAX,romantorres73,48
 2021_15_HOU_JAX,rp_21_,62
 2021_15_HOU_JAX,RTorresCnm,60
@@ -74576,7 +74576,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,pthoenen,68
 2021_15_NYJ_MIA,quad_father85,78
 2021_15_NYJ_MIA,recspecs730,72
-2021_15_NYJ_MIA,reinhurdler,77
+2021_15_NYJ_MIA,reinhardNFL,77
 2021_15_NYJ_MIA,romantorres73,59
 2021_15_NYJ_MIA,rp_21_,82
 2021_15_NYJ_MIA,RTorresCnm,75
@@ -74791,7 +74791,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,pthoenen,27
 2021_15_DAL_NYG,quad_father85,19
 2021_15_DAL_NYG,recspecs730,24
-2021_15_DAL_NYG,reinhurdler,21
+2021_15_DAL_NYG,reinhardNFL,21
 2021_15_DAL_NYG,romantorres73,37
 2021_15_DAL_NYG,rp_21_,17
 2021_15_DAL_NYG,RTorresCnm,25
@@ -75006,7 +75006,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,pthoenen,44
 2021_15_TEN_PIT,quad_father85,52
 2021_15_TEN_PIT,recspecs730,47
-2021_15_TEN_PIT,reinhurdler,49
+2021_15_TEN_PIT,reinhardNFL,49
 2021_15_TEN_PIT,romantorres73,46
 2021_15_TEN_PIT,rp_21_,55
 2021_15_TEN_PIT,RTorresCnm,45
@@ -75222,7 +75222,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,pthoenen,45
 2021_15_CIN_DEN,quad_father85,58
 2021_15_CIN_DEN,recspecs730,42
-2021_15_CIN_DEN,reinhurdler,52
+2021_15_CIN_DEN,reinhardNFL,52
 2021_15_CIN_DEN,romantorres73,51
 2021_15_CIN_DEN,rp_21_,37
 2021_15_CIN_DEN,RTorresCnm,45
@@ -75439,7 +75439,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,pthoenen,74
 2021_15_ATL_SF,quad_father85,77
 2021_15_ATL_SF,recspecs730,68
-2021_15_ATL_SF,reinhurdler,74
+2021_15_ATL_SF,reinhardNFL,74
 2021_15_ATL_SF,romantorres73,63
 2021_15_ATL_SF,rp_21_,64
 2021_15_ATL_SF,RTorresCnm,85
@@ -75656,7 +75656,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,pthoenen,32
 2021_15_GB_BAL,quad_father85,22
 2021_15_GB_BAL,recspecs730,20
-2021_15_GB_BAL,reinhurdler,29
+2021_15_GB_BAL,reinhardNFL,29
 2021_15_GB_BAL,romantorres73,41
 2021_15_GB_BAL,rp_21_,21
 2021_15_GB_BAL,RTorresCnm,30
@@ -75874,7 +75874,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,pthoenen,73
 2021_15_NO_TB,quad_father85,82
 2021_15_NO_TB,recspecs730,78
-2021_15_NO_TB,reinhurdler,80
+2021_15_NO_TB,reinhardNFL,80
 2021_15_NO_TB,romantorres73,67
 2021_15_NO_TB,rp_21_,85
 2021_15_NO_TB,RTorresCnm,85
@@ -76095,7 +76095,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,pthoenen,52
 2021_15_LV_CLE,quad_father85,24
 2021_15_LV_CLE,recspecs730,35
-2021_15_LV_CLE,reinhurdler,43
+2021_15_LV_CLE,reinhardNFL,43
 2021_15_LV_CLE,romantorres73,51
 2021_15_LV_CLE,rp_21_,40
 2021_15_LV_CLE,RTorresCnm,44
@@ -76316,7 +76316,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,pthoenen,39
 2021_15_MIN_CHI,quad_father85,27
 2021_15_MIN_CHI,recspecs730,29
-2021_15_MIN_CHI,reinhurdler,26
+2021_15_MIN_CHI,reinhardNFL,26
 2021_15_MIN_CHI,romantorres73,44
 2021_15_MIN_CHI,rp_21_,35
 2021_15_MIN_CHI,RTorresCnm,25
@@ -76538,7 +76538,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,pthoenen,71
 2021_15_SEA_LA,quad_father85,84
 2021_15_SEA_LA,recspecs730,77
-2021_15_SEA_LA,reinhurdler,66
+2021_15_SEA_LA,reinhardNFL,66
 2021_15_SEA_LA,romantorres73,59
 2021_15_SEA_LA,rp_21_,79
 2021_15_SEA_LA,RTorresCnm,75
@@ -76760,7 +76760,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,pthoenen,68
 2021_15_WAS_PHI,quad_father85,92
 2021_15_WAS_PHI,recspecs730,77
-2021_15_WAS_PHI,reinhurdler,67
+2021_15_WAS_PHI,reinhardNFL,67
 2021_15_WAS_PHI,romantorres73,54
 2021_15_WAS_PHI,rp_21_,77
 2021_15_WAS_PHI,RTorresCnm,75
@@ -76949,7 +76949,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,pthoenen,43
 2021_16_SF_TEN,quad_father85,37
 2021_16_SF_TEN,recspecs730,45
-2021_16_SF_TEN,reinhurdler,44
+2021_16_SF_TEN,reinhardNFL,44
 2021_16_SF_TEN,romantorres73,41
 2021_16_SF_TEN,rp_21_,43
 2021_16_SF_TEN,RTorresCnm,40
@@ -77133,7 +77133,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,pthoenen,59
 2021_16_CLE_GB,quad_father85,83
 2021_16_CLE_GB,recspecs730,78
-2021_16_CLE_GB,reinhurdler,69
+2021_16_CLE_GB,reinhardNFL,69
 2021_16_CLE_GB,romantorres73,73
 2021_16_CLE_GB,rp_21_,82
 2021_16_CLE_GB,RTorresCnm,80
@@ -77321,7 +77321,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,pthoenen,57
 2021_16_IND_ARI,quad_father85,73
 2021_16_IND_ARI,recspecs730,59
-2021_16_IND_ARI,reinhurdler,61
+2021_16_IND_ARI,reinhardNFL,61
 2021_16_IND_ARI,romantorres73,58
 2021_16_IND_ARI,rp_21_,61
 2021_16_IND_ARI,RTorresCnm,53
@@ -77512,7 +77512,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,pthoenen,66
 2021_16_DET_ATL,quad_father85,76
 2021_16_DET_ATL,recspecs730,62
-2021_16_DET_ATL,reinhurdler,72
+2021_16_DET_ATL,reinhardNFL,72
 2021_16_DET_ATL,romantorres73,56
 2021_16_DET_ATL,rp_21_,75
 2021_16_DET_ATL,RTorresCnm,70
@@ -77705,7 +77705,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,pthoenen,12
 2021_16_TB_CAR,quad_father85,19
 2021_16_TB_CAR,recspecs730,23
-2021_16_TB_CAR,reinhurdler,21
+2021_16_TB_CAR,reinhardNFL,21
 2021_16_TB_CAR,romantorres73,41
 2021_16_TB_CAR,rp_21_,23
 2021_16_TB_CAR,RTorresCnm,15
@@ -77898,7 +77898,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,pthoenen,63
 2021_16_BAL_CIN,quad_father85,77
 2021_16_BAL_CIN,recspecs730,73
-2021_16_BAL_CIN,reinhurdler,80
+2021_16_BAL_CIN,reinhardNFL,80
 2021_16_BAL_CIN,romantorres73,59
 2021_16_BAL_CIN,rp_21_,74
 2021_16_BAL_CIN,RTorresCnm,70
@@ -78091,7 +78091,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,pthoenen,25
 2021_16_LAC_HOU,quad_father85,16
 2021_16_LAC_HOU,recspecs730,24
-2021_16_LAC_HOU,reinhurdler,20
+2021_16_LAC_HOU,reinhardNFL,20
 2021_16_LAC_HOU,romantorres73,27
 2021_16_LAC_HOU,rp_21_,16
 2021_16_LAC_HOU,RTorresCnm,20
@@ -78284,7 +78284,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,pthoenen,40
 2021_16_LA_MIN,quad_father85,17
 2021_16_LA_MIN,recspecs730,39
-2021_16_LA_MIN,reinhurdler,36
+2021_16_LA_MIN,reinhardNFL,36
 2021_16_LA_MIN,romantorres73,37
 2021_16_LA_MIN,rp_21_,34
 2021_16_LA_MIN,RTorresCnm,35
@@ -78477,7 +78477,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,pthoenen,46
 2021_16_BUF_NE,quad_father85,36
 2021_16_BUF_NE,recspecs730,62
-2021_16_BUF_NE,reinhurdler,48
+2021_16_BUF_NE,reinhardNFL,48
 2021_16_BUF_NE,romantorres73,51
 2021_16_BUF_NE,rp_21_,56
 2021_16_BUF_NE,RTorresCnm,52
@@ -78670,7 +78670,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,pthoenen,48
 2021_16_JAX_NYJ,quad_father85,55
 2021_16_JAX_NYJ,recspecs730,59
-2021_16_JAX_NYJ,reinhurdler,56
+2021_16_JAX_NYJ,reinhardNFL,56
 2021_16_JAX_NYJ,romantorres73,51
 2021_16_JAX_NYJ,rp_21_,60
 2021_16_JAX_NYJ,RTorresCnm,59
@@ -78863,7 +78863,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,pthoenen,74
 2021_16_NYG_PHI,quad_father85,80
 2021_16_NYG_PHI,recspecs730,77
-2021_16_NYG_PHI,reinhurdler,75
+2021_16_NYG_PHI,reinhardNFL,75
 2021_16_NYG_PHI,romantorres73,59
 2021_16_NYG_PHI,rp_21_,78
 2021_16_NYG_PHI,RTorresCnm,77
@@ -79060,7 +79060,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,pthoenen,58
 2021_16_CHI_SEA,quad_father85,72
 2021_16_CHI_SEA,recspecs730,46
-2021_16_CHI_SEA,reinhurdler,68
+2021_16_CHI_SEA,reinhardNFL,68
 2021_16_CHI_SEA,romantorres73,59
 2021_16_CHI_SEA,rp_21_,67
 2021_16_CHI_SEA,RTorresCnm,68
@@ -79257,7 +79257,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,pthoenen,75
 2021_16_PIT_KC,quad_father85,79
 2021_16_PIT_KC,recspecs730,63
-2021_16_PIT_KC,reinhurdler,77
+2021_16_PIT_KC,reinhardNFL,77
 2021_16_PIT_KC,romantorres73,65
 2021_16_PIT_KC,rp_21_,84
 2021_16_PIT_KC,RTorresCnm,85
@@ -79454,7 +79454,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,pthoenen,43
 2021_16_DEN_LV,quad_father85,52
 2021_16_DEN_LV,recspecs730,58
-2021_16_DEN_LV,reinhurdler,46
+2021_16_DEN_LV,reinhardNFL,46
 2021_16_DEN_LV,romantorres73,56
 2021_16_DEN_LV,rp_21_,65
 2021_16_DEN_LV,RTorresCnm,52
@@ -79653,7 +79653,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,pthoenen,75
 2021_16_WAS_DAL,quad_father85,88
 2021_16_WAS_DAL,recspecs730,76
-2021_16_WAS_DAL,reinhurdler,75
+2021_16_WAS_DAL,reinhardNFL,75
 2021_16_WAS_DAL,romantorres73,63
 2021_16_WAS_DAL,rp_21_,75
 2021_16_WAS_DAL,RTorresCnm,80
@@ -79854,7 +79854,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,pthoenen,44
 2021_16_MIA_NO,quad_father85,31
 2021_16_MIA_NO,recspecs730,44
-2021_16_MIA_NO,reinhurdler,34
+2021_16_MIA_NO,reinhardNFL,34
 2021_16_MIA_NO,romantorres73,46
 2021_16_MIA_NO,rp_21_,34
 2021_16_MIA_NO,RTorresCnm,45
@@ -80055,7 +80055,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,pthoenen,39
 2021_17_LA_BAL,quad_father85,27
 2021_17_LA_BAL,recspecs730,27
-2021_17_LA_BAL,reinhurdler,22
+2021_17_LA_BAL,reinhardNFL,22
 2021_17_LA_BAL,rjafrost1,46
 2021_17_LA_BAL,romantorres73,35
 2021_17_LA_BAL,rp_21_,24
@@ -80258,7 +80258,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,pthoenen,79
 2021_17_ATL_BUF,quad_father85,88
 2021_17_ATL_BUF,recspecs730,82
-2021_17_ATL_BUF,reinhurdler,83
+2021_17_ATL_BUF,reinhardNFL,83
 2021_17_ATL_BUF,rjafrost1,64
 2021_17_ATL_BUF,romantorres73,89
 2021_17_ATL_BUF,rp_21_,88
@@ -80461,7 +80461,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,pthoenen,63
 2021_17_NYG_CHI,quad_father85,72
 2021_17_NYG_CHI,recspecs730,72
-2021_17_NYG_CHI,reinhurdler,64
+2021_17_NYG_CHI,reinhardNFL,64
 2021_17_NYG_CHI,rjafrost1,50
 2021_17_NYG_CHI,romantorres73,54
 2021_17_NYG_CHI,rp_21_,76
@@ -80664,7 +80664,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,pthoenen,35
 2021_17_KC_CIN,quad_father85,34
 2021_17_KC_CIN,recspecs730,25
-2021_17_KC_CIN,reinhurdler,35
+2021_17_KC_CIN,reinhardNFL,35
 2021_17_KC_CIN,rjafrost1,50
 2021_17_KC_CIN,romantorres73,44
 2021_17_KC_CIN,rp_21_,33
@@ -80867,7 +80867,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,pthoenen,66
 2021_17_LV_IND,quad_father85,77
 2021_17_LV_IND,recspecs730,68
-2021_17_LV_IND,reinhurdler,79
+2021_17_LV_IND,reinhardNFL,79
 2021_17_LV_IND,rjafrost1,50
 2021_17_LV_IND,romantorres73,63
 2021_17_LV_IND,rp_21_,71
@@ -81070,7 +81070,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,pthoenen,84
 2021_17_JAX_NE,quad_father85,89
 2021_17_JAX_NE,recspecs730,88
-2021_17_JAX_NE,reinhurdler,84
+2021_17_JAX_NE,reinhardNFL,84
 2021_17_JAX_NE,rjafrost1,50
 2021_17_JAX_NE,romantorres73,89
 2021_17_JAX_NE,rp_21_,89
@@ -81273,7 +81273,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,pthoenen,14
 2021_17_TB_NYJ,quad_father85,13
 2021_17_TB_NYJ,recspecs730,14
-2021_17_TB_NYJ,reinhurdler,17
+2021_17_TB_NYJ,reinhardNFL,17
 2021_17_TB_NYJ,rjafrost1,50
 2021_17_TB_NYJ,romantorres73,11
 2021_17_TB_NYJ,rp_21_,97
@@ -81476,7 +81476,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,pthoenen,62
 2021_17_MIA_TEN,quad_father85,63
 2021_17_MIA_TEN,recspecs730,54
-2021_17_MIA_TEN,reinhurdler,62
+2021_17_MIA_TEN,reinhardNFL,62
 2021_17_MIA_TEN,rjafrost1,50
 2021_17_MIA_TEN,romantorres73,63
 2021_17_MIA_TEN,rp_21_,66
@@ -81679,7 +81679,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,pthoenen,44
 2021_17_PHI_WAS,quad_father85,32
 2021_17_PHI_WAS,recspecs730,34
-2021_17_PHI_WAS,reinhurdler,38
+2021_17_PHI_WAS,reinhardNFL,38
 2021_17_PHI_WAS,rjafrost1,50
 2021_17_PHI_WAS,romantorres73,48
 2021_17_PHI_WAS,rp_21_,36
@@ -81882,7 +81882,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,pthoenen,61
 2021_17_DEN_LAC,quad_father85,75
 2021_17_DEN_LAC,recspecs730,68
-2021_17_DEN_LAC,reinhurdler,74
+2021_17_DEN_LAC,reinhardNFL,74
 2021_17_DEN_LAC,rjafrost1,50
 2021_17_DEN_LAC,romantorres73,58
 2021_17_DEN_LAC,rp_21_,74
@@ -82085,7 +82085,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,pthoenen,77
 2021_17_HOU_SF,quad_father85,49
 2021_17_HOU_SF,recspecs730,72
-2021_17_HOU_SF,reinhurdler,79
+2021_17_HOU_SF,reinhardNFL,79
 2021_17_HOU_SF,rjafrost1,50
 2021_17_HOU_SF,romantorres73,75
 2021_17_HOU_SF,rp_21_,73
@@ -82288,7 +82288,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,pthoenen,61
 2021_17_ARI_DAL,quad_father85,70
 2021_17_ARI_DAL,recspecs730,60
-2021_17_ARI_DAL,reinhurdler,67
+2021_17_ARI_DAL,reinhardNFL,67
 2021_17_ARI_DAL,rjafrost1,50
 2021_17_ARI_DAL,romantorres73,49
 2021_17_ARI_DAL,rp_21_,67
@@ -82491,7 +82491,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,pthoenen,65
 2021_17_CAR_NO,quad_father85,71
 2021_17_CAR_NO,recspecs730,90
-2021_17_CAR_NO,reinhurdler,77
+2021_17_CAR_NO,reinhardNFL,77
 2021_17_CAR_NO,rjafrost1,50
 2021_17_CAR_NO,romantorres73,53
 2021_17_CAR_NO,rp_21_,77
@@ -82694,7 +82694,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,pthoenen,68
 2021_17_DET_SEA,quad_father85,77
 2021_17_DET_SEA,recspecs730,67
-2021_17_DET_SEA,reinhurdler,72
+2021_17_DET_SEA,reinhardNFL,72
 2021_17_DET_SEA,rjafrost1,50
 2021_17_DET_SEA,romantorres73,63
 2021_17_DET_SEA,rp_21_,75
@@ -82897,7 +82897,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,pthoenen,65
 2021_17_MIN_GB,quad_father85,84
 2021_17_MIN_GB,recspecs730,81
-2021_17_MIN_GB,reinhurdler,78
+2021_17_MIN_GB,reinhardNFL,78
 2021_17_MIN_GB,rjafrost1,50
 2021_17_MIN_GB,romantorres73,83
 2021_17_MIN_GB,rp_21_,88
@@ -83101,7 +83101,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,pthoenen,41
 2021_17_CLE_PIT,quad_father85,52
 2021_17_CLE_PIT,recspecs730,42
-2021_17_CLE_PIT,reinhurdler,47
+2021_17_CLE_PIT,reinhardNFL,47
 2021_17_CLE_PIT,rjafrost1,50
 2021_17_CLE_PIT,romantorres73,51
 2021_17_CLE_PIT,rp_21_,56
@@ -83281,7 +83281,7 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,pthoenen,21
 2021_18_KC_DEN,quad_father85,19
 2021_18_KC_DEN,recspecs730,27
-2021_18_KC_DEN,reinhurdler,17
+2021_18_KC_DEN,reinhardNFL,17
 2021_18_KC_DEN,romantorres73,35
 2021_18_KC_DEN,RTorresCnm,0
 2021_18_KC_DEN,RyanCSchroeder,43
@@ -83448,7 +83448,7 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,pthoenen,9
 2021_18_DAL_PHI,quad_father85,22
 2021_18_DAL_PHI,recspecs730,40
-2021_18_DAL_PHI,reinhurdler,21
+2021_18_DAL_PHI,reinhardNFL,21
 2021_18_DAL_PHI,romantorres73,47
 2021_18_DAL_PHI,rp_21_,50
 2021_18_DAL_PHI,RTorresCnm,37
@@ -83625,7 +83625,7 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,pthoenen,76
 2021_18_PIT_BAL,quad_father85,64
 2021_18_PIT_BAL,recspecs730,45
-2021_18_PIT_BAL,reinhurdler,72
+2021_18_PIT_BAL,reinhardNFL,72
 2021_18_PIT_BAL,romantorres73,49
 2021_18_PIT_BAL,rp_21_,59
 2021_18_PIT_BAL,RTorresCnm,57
@@ -83805,7 +83805,7 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,pthoenen,61
 2021_18_CIN_CLE,quad_father85,33
 2021_18_CIN_CLE,recspecs730,59
-2021_18_CIN_CLE,reinhurdler,62
+2021_18_CIN_CLE,reinhardNFL,62
 2021_18_CIN_CLE,romantorres73,53
 2021_18_CIN_CLE,rp_21_,63
 2021_18_CIN_CLE,RTorresCnm,60
@@ -83985,7 +83985,7 @@ game_id,screen_name,prediction
 2021_18_GB_DET,pthoenen,55
 2021_18_GB_DET,quad_father85,33
 2021_18_GB_DET,recspecs730,34
-2021_18_GB_DET,reinhurdler,46
+2021_18_GB_DET,reinhardNFL,46
 2021_18_GB_DET,romantorres73,45
 2021_18_GB_DET,rp_21_,32
 2021_18_GB_DET,RTorresCnm,45
@@ -84165,7 +84165,7 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,pthoenen,24
 2021_18_TEN_HOU,quad_father85,21
 2021_18_TEN_HOU,recspecs730,20
-2021_18_TEN_HOU,reinhurdler,18
+2021_18_TEN_HOU,reinhardNFL,18
 2021_18_TEN_HOU,romantorres73,37
 2021_18_TEN_HOU,rp_21_,13
 2021_18_TEN_HOU,RTorresCnm,0
@@ -84345,7 +84345,7 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,pthoenen,23
 2021_18_IND_JAX,quad_father85,13
 2021_18_IND_JAX,recspecs730,11
-2021_18_IND_JAX,reinhurdler,16
+2021_18_IND_JAX,reinhardNFL,16
 2021_18_IND_JAX,romantorres73,28
 2021_18_IND_JAX,rp_21_,9
 2021_18_IND_JAX,RTorresCnm,0
@@ -84525,7 +84525,7 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,pthoenen,62
 2021_18_CHI_MIN,quad_father85,64
 2021_18_CHI_MIN,recspecs730,64
-2021_18_CHI_MIN,reinhurdler,72
+2021_18_CHI_MIN,reinhardNFL,72
 2021_18_CHI_MIN,romantorres73,55
 2021_18_CHI_MIN,rp_21_,62
 2021_18_CHI_MIN,RTorresCnm,63
@@ -84705,7 +84705,7 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,pthoenen,22
 2021_18_WAS_NYG,quad_father85,26
 2021_18_WAS_NYG,recspecs730,23
-2021_18_WAS_NYG,reinhurdler,30
+2021_18_WAS_NYG,reinhardNFL,30
 2021_18_WAS_NYG,romantorres73,47
 2021_18_WAS_NYG,rp_21_,19
 2021_18_WAS_NYG,RTorresCnm,20
@@ -84886,7 +84886,7 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,pthoenen,82
 2021_18_SEA_ARI,quad_father85,66
 2021_18_SEA_ARI,recspecs730,70
-2021_18_SEA_ARI,reinhurdler,68
+2021_18_SEA_ARI,reinhardNFL,68
 2021_18_SEA_ARI,romantorres73,63
 2021_18_SEA_ARI,rp_21_,77
 2021_18_SEA_ARI,RTorresCnm,85
@@ -85067,7 +85067,7 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,pthoenen,41
 2021_18_NO_ATL,quad_father85,38
 2021_18_NO_ATL,recspecs730,30
-2021_18_NO_ATL,reinhurdler,33
+2021_18_NO_ATL,reinhardNFL,33
 2021_18_NO_ATL,romantorres73,37
 2021_18_NO_ATL,rp_21_,43
 2021_18_NO_ATL,RTorresCnm,35
@@ -85248,7 +85248,7 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,pthoenen,83
 2021_18_NYJ_BUF,quad_father85,89
 2021_18_NYJ_BUF,recspecs730,89
-2021_18_NYJ_BUF,reinhurdler,84
+2021_18_NYJ_BUF,reinhardNFL,84
 2021_18_NYJ_BUF,romantorres73,90
 2021_18_NYJ_BUF,rp_21_,94
 2021_18_NYJ_BUF,RTorresCnm,100
@@ -85429,7 +85429,7 @@ game_id,screen_name,prediction
 2021_18_SF_LA,pthoenen,45
 2021_18_SF_LA,quad_father85,62
 2021_18_SF_LA,recspecs730,59
-2021_18_SF_LA,reinhurdler,71
+2021_18_SF_LA,reinhardNFL,71
 2021_18_SF_LA,romantorres73,60
 2021_18_SF_LA,rp_21_,69
 2021_18_SF_LA,RTorresCnm,83
@@ -85610,7 +85610,7 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,pthoenen,16
 2021_18_NE_MIA,quad_father85,31
 2021_18_NE_MIA,recspecs730,33
-2021_18_NE_MIA,reinhurdler,35
+2021_18_NE_MIA,reinhardNFL,35
 2021_18_NE_MIA,romantorres73,36
 2021_18_NE_MIA,rp_21_,28
 2021_18_NE_MIA,RTorresCnm,15
@@ -85791,7 +85791,7 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,pthoenen,83
 2021_18_CAR_TB,quad_father85,76
 2021_18_CAR_TB,recspecs730,80
-2021_18_CAR_TB,reinhurdler,72
+2021_18_CAR_TB,reinhardNFL,72
 2021_18_CAR_TB,romantorres73,81
 2021_18_CAR_TB,rp_21_,82
 2021_18_CAR_TB,RTorresCnm,100
@@ -85973,7 +85973,7 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,pthoenen,36
 2021_18_LAC_LV,quad_father85,41
 2021_18_LAC_LV,recspecs730,34
-2021_18_LAC_LV,reinhurdler,31
+2021_18_LAC_LV,reinhardNFL,31
 2021_18_LAC_LV,romantorres73,45
 2021_18_LAC_LV,rp_21_,37
 2021_18_LAC_LV,RTorresCnm,0
@@ -86184,7 +86184,7 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,pthoenen,70
 2021_19_LV_CIN,quad_father85,68
 2021_19_LV_CIN,recspecs730,74
-2021_19_LV_CIN,reinhurdler,77
+2021_19_LV_CIN,reinhardNFL,77
 2021_19_LV_CIN,romantorres73,59
 2021_19_LV_CIN,rp_21_,68
 2021_19_LV_CIN,RTorresCnm,63
@@ -86406,7 +86406,7 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,pthoenen,63
 2021_19_NE_BUF,quad_father85,72
 2021_19_NE_BUF,recspecs730,55
-2021_19_NE_BUF,reinhurdler,69
+2021_19_NE_BUF,reinhardNFL,69
 2021_19_NE_BUF,romantorres73,56
 2021_19_NE_BUF,rp_21_,75
 2021_19_NE_BUF,RTorresCnm,62
@@ -86630,7 +86630,7 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,pthoenen,55
 2021_19_PHI_TB,quad_father85,85
 2021_19_PHI_TB,recspecs730,81
-2021_19_PHI_TB,reinhurdler,82
+2021_19_PHI_TB,reinhardNFL,82
 2021_19_PHI_TB,romantorres73,73
 2021_19_PHI_TB,rp_21_,87
 2021_19_PHI_TB,RTorresCnm,84
@@ -86856,7 +86856,7 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,pthoenen,65
 2021_19_SF_DAL,quad_father85,68
 2021_19_SF_DAL,recspecs730,45
-2021_19_SF_DAL,reinhurdler,67
+2021_19_SF_DAL,reinhardNFL,67
 2021_19_SF_DAL,romantorres73,55
 2021_19_SF_DAL,rp_21_,68
 2021_19_SF_DAL,RTorresCnm,53
@@ -87084,7 +87084,7 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,pthoenen,87
 2021_19_PIT_KC,quad_father85,85
 2021_19_PIT_KC,recspecs730,91
-2021_19_PIT_KC,reinhurdler,84
+2021_19_PIT_KC,reinhardNFL,84
 2021_19_PIT_KC,romantorres73,87
 2021_19_PIT_KC,rp_21_,87
 2021_19_PIT_KC,RTorresCnm,90
@@ -87314,7 +87314,7 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,pthoenen,59
 2021_19_ARI_LA,quad_father85,31
 2021_19_ARI_LA,recspecs730,69
-2021_19_ARI_LA,reinhurdler,60
+2021_19_ARI_LA,reinhardNFL,60
 2021_19_ARI_LA,romantorres73,47
 2021_19_ARI_LA,rp_21_,60
 2021_19_ARI_LA,RTorresCnm,56
@@ -87502,7 +87502,7 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,pthoenen,64
 2021_20_CIN_TEN,quad_father85,74
 2021_20_CIN_TEN,recspecs730,43
-2021_20_CIN_TEN,reinhurdler,49
+2021_20_CIN_TEN,reinhardNFL,49
 2021_20_CIN_TEN,romantorres73,47
 2021_20_CIN_TEN,rp_21_,40
 2021_20_CIN_TEN,RTorresCnm,62
@@ -87680,7 +87680,7 @@ game_id,screen_name,prediction
 2021_20_SF_GB,pthoenen,56
 2021_20_SF_GB,quad_father85,68
 2021_20_SF_GB,recspecs730,66
-2021_20_SF_GB,reinhurdler,75
+2021_20_SF_GB,reinhardNFL,75
 2021_20_SF_GB,romantorres73,63
 2021_20_SF_GB,rp_21_,75
 2021_20_SF_GB,RTorresCnm,85
@@ -87864,7 +87864,7 @@ game_id,screen_name,prediction
 2021_20_LA_TB,pthoenen,55
 2021_20_LA_TB,quad_father85,57
 2021_20_LA_TB,recspecs730,47
-2021_20_LA_TB,reinhurdler,65
+2021_20_LA_TB,reinhardNFL,65
 2021_20_LA_TB,romantorres73,53
 2021_20_LA_TB,rp_21_,44
 2021_20_LA_TB,RTorresCnm,55
@@ -88051,7 +88051,7 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,pthoenen,67
 2021_20_BUF_KC,quad_father85,28
 2021_20_BUF_KC,recspecs730,61
-2021_20_BUF_KC,reinhurdler,64
+2021_20_BUF_KC,reinhardNFL,64
 2021_20_BUF_KC,romantorres73,47
 2021_20_BUF_KC,rp_21_,43
 2021_20_BUF_KC,RTorresCnm,54
@@ -88216,7 +88216,7 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,quad_father85,74
 2021_21_CIN_KC,RealNateKeiper,0
 2021_21_CIN_KC,recspecs730,79
-2021_21_CIN_KC,reinhurdler,83
+2021_21_CIN_KC,reinhardNFL,83
 2021_21_CIN_KC,romantorres73,59
 2021_21_CIN_KC,RTorresCnm,80
 2021_21_CIN_KC,RyanCSchroeder,100
@@ -88368,7 +88368,7 @@ game_id,screen_name,prediction
 2021_21_SF_LA,quad_father85,73
 2021_21_SF_LA,RealNateKeiper,0
 2021_21_SF_LA,recspecs730,56
-2021_21_SF_LA,reinhurdler,63
+2021_21_SF_LA,reinhardNFL,63
 2021_21_SF_LA,romantorres73,55
 2021_21_SF_LA,rp_21_,50
 2021_21_SF_LA,RTorresCnm,100
@@ -88516,7 +88516,7 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,quad_father85,100
 2021_22_LA_CIN,RealNateKeiper,100
 2021_22_LA_CIN,recspecs730,44
-2021_22_LA_CIN,reinhurdler,30
+2021_22_LA_CIN,reinhardNFL,30
 2021_22_LA_CIN,romantorres73,53
 2021_22_LA_CIN,rp_21_,26
 2021_22_LA_CIN,RTorresCnm,15
