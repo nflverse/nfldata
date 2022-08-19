@@ -4682,8 +4682,8 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
-2021_01_SEA_IND,,50
 2021_01_SEA_IND,,25
+2021_01_SEA_IND,,50
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
 2021_01_SEA_IND,_alendowsky,50
@@ -6701,8 +6701,8 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,ZenTaco,50
 2021_01_LAC_WAS,zweinberg18,40
 2021_01_LAC_WAS,zybxixi,50
-2021_01_CLE_KC,,50
 2021_01_CLE_KC,,90
+2021_01_CLE_KC,,50
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
 2021_01_CLE_KC,_alendowsky,61
@@ -7374,8 +7374,8 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
-2021_01_MIA_NE,,50
 2021_01_MIA_NE,,30
+2021_01_MIA_NE,,50
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
 2021_01_MIA_NE,_alendowsky,63
@@ -19492,8 +19492,8 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,YayySports,28
 2021_03_ARI_JAX,zackry_mc,0
 2021_03_ARI_JAX,zweinberg18,28
-2021_03_LAC_KC,,42
 2021_03_LAC_KC,,50
+2021_03_LAC_KC,,42
 2021_03_LAC_KC,__DavidOfficial,52
 2021_03_LAC_KC,_alendowsky,52
 2021_03_LAC_KC,_DH44_,53
@@ -20242,8 +20242,8 @@ game_id,screen_name,prediction
 2021_03_NO_NE,YayySports,53
 2021_03_NO_NE,zackry_mc,100
 2021_03_NO_NE,zweinberg18,45
-2021_03_ATL_NYG,,50
 2021_03_ATL_NYG,,60
+2021_03_ATL_NYG,,50
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
@@ -22124,8 +22124,8 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
-2021_03_TB_LA,,64
 2021_03_TB_LA,,50
+2021_03_TB_LA,,64
 2021_03_TB_LA,__DavidOfficial,40
 2021_03_TB_LA,_alendowsky,52
 2021_03_TB_LA,_DH44_,50
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
+2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
@@ -23262,8 +23262,8 @@ game_id,screen_name,prediction
 2021_03_GB_SF,YayySports,64
 2021_03_GB_SF,zackry_mc,50
 2021_03_GB_SF,zweinberg18,55
-2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,,35
+2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,__DavidOfficial,67
 2021_03_PHI_DAL,_alendowsky,51
 2021_03_PHI_DAL,_DH44_,80
