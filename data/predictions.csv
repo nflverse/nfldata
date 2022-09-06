@@ -836,6 +836,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,DraftAndDevEcon,64
 2021_01_PHI_ATL,drewbyts,53
 2021_01_PHI_ATL,drewvankuiken,71
+2021_01_PHI_ATL,DriedUpMondPond,45
 2021_01_PHI_ATL,duckyjones4,58
 2021_01_PHI_ATL,Dudas68,91
 2021_01_PHI_ATL,dudeitsme30,75
@@ -1189,7 +1190,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,Shauncore,70
 2021_01_PHI_ATL,SimBullExchange,63
 2021_01_PHI_ATL,Skogre,45
-2021_01_PHI_ATL,skoltrain87,45
 2021_01_PHI_ATL,SlamGerb,50
 2021_01_PHI_ATL,Slavin22,60
 2021_01_PHI_ATL,SlipsnFlips,63
@@ -1509,6 +1509,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,DraftAndDevEcon,59
 2021_01_PIT_BUF,drewbyts,60
 2021_01_PIT_BUF,drewvankuiken,77
+2021_01_PIT_BUF,DriedUpMondPond,70
 2021_01_PIT_BUF,duckyjones4,62
 2021_01_PIT_BUF,Dudas68,100
 2021_01_PIT_BUF,dudeitsme30,62
@@ -1862,7 +1863,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,Shauncore,78
 2021_01_PIT_BUF,SimBullExchange,73
 2021_01_PIT_BUF,Skogre,42
-2021_01_PIT_BUF,skoltrain87,70
 2021_01_PIT_BUF,SlamGerb,50
 2021_01_PIT_BUF,Slavin22,80
 2021_01_PIT_BUF,SlipsnFlips,64
@@ -2182,6 +2182,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,DraftAndDevEcon,66
 2021_01_NYJ_CAR,drewbyts,62
 2021_01_NYJ_CAR,drewvankuiken,46
+2021_01_NYJ_CAR,DriedUpMondPond,61
 2021_01_NYJ_CAR,duckyjones4,54
 2021_01_NYJ_CAR,Dudas68,44
 2021_01_NYJ_CAR,dudeitsme30,69
@@ -2535,7 +2536,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,Shauncore,43
 2021_01_NYJ_CAR,SimBullExchange,64
 2021_01_NYJ_CAR,Skogre,44
-2021_01_NYJ_CAR,skoltrain87,61
 2021_01_NYJ_CAR,SlamGerb,50
 2021_01_NYJ_CAR,Slavin22,75
 2021_01_NYJ_CAR,SlipsnFlips,56
@@ -2855,6 +2855,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,DraftAndDevEcon,41
 2021_01_MIN_CIN,drewbyts,50
 2021_01_MIN_CIN,drewvankuiken,34
+2021_01_MIN_CIN,DriedUpMondPond,18
 2021_01_MIN_CIN,duckyjones4,43
 2021_01_MIN_CIN,Dudas68,55
 2021_01_MIN_CIN,dudeitsme30,33
@@ -3208,7 +3209,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,Shauncore,45
 2021_01_MIN_CIN,SimBullExchange,43
 2021_01_MIN_CIN,Skogre,56
-2021_01_MIN_CIN,skoltrain87,18
 2021_01_MIN_CIN,SlamGerb,50
 2021_01_MIN_CIN,Slavin22,40
 2021_01_MIN_CIN,SlipsnFlips,45
@@ -3336,8 +3336,8 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,ZenTaco,50
 2021_01_MIN_CIN,zweinberg18,29
 2021_01_MIN_CIN,zybxixi,50
-2021_01_SF_DET,,10
 2021_01_SF_DET,,50
+2021_01_SF_DET,,10
 2021_01_SF_DET,__beraldo,50
 2021_01_SF_DET,__DavidOfficial,17
 2021_01_SF_DET,_alendowsky,31
@@ -3528,6 +3528,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,DraftAndDevEcon,33
 2021_01_SF_DET,drewbyts,0
 2021_01_SF_DET,drewvankuiken,16
+2021_01_SF_DET,DriedUpMondPond,0
 2021_01_SF_DET,duckyjones4,36
 2021_01_SF_DET,Dudas68,5
 2021_01_SF_DET,dudeitsme30,19
@@ -3881,7 +3882,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,Shauncore,15
 2021_01_SF_DET,SimBullExchange,24
 2021_01_SF_DET,Skogre,50
-2021_01_SF_DET,skoltrain87,0
 2021_01_SF_DET,SlamGerb,50
 2021_01_SF_DET,Slavin22,20
 2021_01_SF_DET,SlipsnFlips,16
@@ -4009,8 +4009,8 @@ game_id,screen_name,prediction
 2021_01_SF_DET,ZenTaco,50
 2021_01_SF_DET,zweinberg18,20
 2021_01_SF_DET,zybxixi,50
-2021_01_JAX_HOU,,31
 2021_01_JAX_HOU,,50
+2021_01_JAX_HOU,,31
 2021_01_JAX_HOU,__beraldo,50
 2021_01_JAX_HOU,__DavidOfficial,45
 2021_01_JAX_HOU,_alendowsky,56
@@ -4201,6 +4201,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,DraftAndDevEcon,39
 2021_01_JAX_HOU,drewbyts,0
 2021_01_JAX_HOU,drewvankuiken,34
+2021_01_JAX_HOU,DriedUpMondPond,60
 2021_01_JAX_HOU,duckyjones4,43
 2021_01_JAX_HOU,Dudas68,42
 2021_01_JAX_HOU,dudeitsme30,36
@@ -4554,7 +4555,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,Shauncore,30
 2021_01_JAX_HOU,SimBullExchange,40
 2021_01_JAX_HOU,Skogre,56
-2021_01_JAX_HOU,skoltrain87,60
 2021_01_JAX_HOU,SlamGerb,50
 2021_01_JAX_HOU,Slavin22,35
 2021_01_JAX_HOU,SlipsnFlips,41
@@ -4682,8 +4682,8 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
-2021_01_SEA_IND,,25
 2021_01_SEA_IND,,50
+2021_01_SEA_IND,,25
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
 2021_01_SEA_IND,_alendowsky,50
@@ -4874,6 +4874,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,DraftAndDevEcon,45
 2021_01_SEA_IND,drewbyts,29
 2021_01_SEA_IND,drewvankuiken,44
+2021_01_SEA_IND,DriedUpMondPond,15
 2021_01_SEA_IND,duckyjones4,37
 2021_01_SEA_IND,Dudas68,0
 2021_01_SEA_IND,dudeitsme30,37
@@ -5227,7 +5228,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,Shauncore,35
 2021_01_SEA_IND,SimBullExchange,44
 2021_01_SEA_IND,Skogre,56
-2021_01_SEA_IND,skoltrain87,15
 2021_01_SEA_IND,SlamGerb,50
 2021_01_SEA_IND,Slavin22,25
 2021_01_SEA_IND,SlipsnFlips,45
@@ -5355,8 +5355,8 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,ZenTaco,50
 2021_01_SEA_IND,zweinberg18,35
 2021_01_SEA_IND,zybxixi,50
-2021_01_ARI_TEN,,50
 2021_01_ARI_TEN,,64
+2021_01_ARI_TEN,,50
 2021_01_ARI_TEN,__beraldo,50
 2021_01_ARI_TEN,__DavidOfficial,65
 2021_01_ARI_TEN,_alendowsky,50
@@ -5547,6 +5547,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,DraftAndDevEcon,59
 2021_01_ARI_TEN,drewbyts,55
 2021_01_ARI_TEN,drewvankuiken,50
+2021_01_ARI_TEN,DriedUpMondPond,60
 2021_01_ARI_TEN,duckyjones4,38
 2021_01_ARI_TEN,Dudas68,58
 2021_01_ARI_TEN,dudeitsme30,63
@@ -5900,7 +5901,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,Shauncore,60
 2021_01_ARI_TEN,SimBullExchange,59
 2021_01_ARI_TEN,Skogre,44
-2021_01_ARI_TEN,skoltrain87,60
 2021_01_ARI_TEN,SlamGerb,50
 2021_01_ARI_TEN,Slavin22,60
 2021_01_ARI_TEN,SlipsnFlips,56
@@ -6028,8 +6028,8 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,ZenTaco,50
 2021_01_ARI_TEN,zweinberg18,70
 2021_01_ARI_TEN,zybxixi,50
-2021_01_LAC_WAS,,50
 2021_01_LAC_WAS,,24
+2021_01_LAC_WAS,,50
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
 2021_01_LAC_WAS,_alendowsky,50
@@ -6220,6 +6220,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,DraftAndDevEcon,48
 2021_01_LAC_WAS,drewbyts,45
 2021_01_LAC_WAS,drewvankuiken,41
+2021_01_LAC_WAS,DriedUpMondPond,55
 2021_01_LAC_WAS,duckyjones4,58
 2021_01_LAC_WAS,Dudas68,48
 2021_01_LAC_WAS,dudeitsme30,37
@@ -6573,7 +6574,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,Shauncore,30
 2021_01_LAC_WAS,SimBullExchange,48
 2021_01_LAC_WAS,Skogre,48
-2021_01_LAC_WAS,skoltrain87,55
 2021_01_LAC_WAS,SlamGerb,50
 2021_01_LAC_WAS,Slavin22,45
 2021_01_LAC_WAS,SlipsnFlips,44
@@ -6893,6 +6893,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,DraftAndDevEcon,70
 2021_01_CLE_KC,drewbyts,100
 2021_01_CLE_KC,drewvankuiken,68
+2021_01_CLE_KC,DriedUpMondPond,45
 2021_01_CLE_KC,duckyjones4,46
 2021_01_CLE_KC,Dudas68,66
 2021_01_CLE_KC,dudeitsme30,68
@@ -7246,7 +7247,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,Shauncore,35
 2021_01_CLE_KC,SimBullExchange,68
 2021_01_CLE_KC,Skogre,41
-2021_01_CLE_KC,skoltrain87,45
 2021_01_CLE_KC,SlamGerb,50
 2021_01_CLE_KC,Slavin22,80
 2021_01_CLE_KC,SlipsnFlips,47
@@ -7374,8 +7374,8 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
-2021_01_MIA_NE,,50
 2021_01_MIA_NE,,30
+2021_01_MIA_NE,,50
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
 2021_01_MIA_NE,_alendowsky,63
@@ -7566,6 +7566,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,DraftAndDevEcon,47
 2021_01_MIA_NE,drewbyts,100
 2021_01_MIA_NE,drewvankuiken,44
+2021_01_MIA_NE,DriedUpMondPond,69
 2021_01_MIA_NE,duckyjones4,38
 2021_01_MIA_NE,Dudas68,12
 2021_01_MIA_NE,dudeitsme30,65
@@ -7919,7 +7920,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,Shauncore,60
 2021_01_MIA_NE,SimBullExchange,58
 2021_01_MIA_NE,Skogre,44
-2021_01_MIA_NE,skoltrain87,69
 2021_01_MIA_NE,SlamGerb,50
 2021_01_MIA_NE,Slavin22,60
 2021_01_MIA_NE,SlipsnFlips,54
@@ -8047,8 +8047,8 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,ZenTaco,50
 2021_01_MIA_NE,zweinberg18,55
 2021_01_MIA_NE,zybxixi,50
-2021_01_GB_NO,,50
 2021_01_GB_NO,,32
+2021_01_GB_NO,,50
 2021_01_GB_NO,__beraldo,50
 2021_01_GB_NO,__DavidOfficial,25
 2021_01_GB_NO,_alendowsky,29
@@ -8239,6 +8239,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,DraftAndDevEcon,37
 2021_01_GB_NO,drewbyts,0
 2021_01_GB_NO,drewvankuiken,33
+2021_01_GB_NO,DriedUpMondPond,58
 2021_01_GB_NO,duckyjones4,27
 2021_01_GB_NO,Dudas68,0
 2021_01_GB_NO,dudeitsme30,18
@@ -8592,7 +8593,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,Shauncore,48
 2021_01_GB_NO,SimBullExchange,38
 2021_01_GB_NO,Skogre,57
-2021_01_GB_NO,skoltrain87,58
 2021_01_GB_NO,SlamGerb,50
 2021_01_GB_NO,Slavin22,35
 2021_01_GB_NO,SlipsnFlips,36
@@ -8912,6 +8912,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,DraftAndDevEcon,54
 2021_01_DEN_NYG,drewbyts,0
 2021_01_DEN_NYG,drewvankuiken,54
+2021_01_DEN_NYG,DriedUpMondPond,28
 2021_01_DEN_NYG,duckyjones4,38
 2021_01_DEN_NYG,Dudas68,71
 2021_01_DEN_NYG,dudeitsme30,31
@@ -9265,7 +9266,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,Shauncore,48
 2021_01_DEN_NYG,SimBullExchange,44
 2021_01_DEN_NYG,Skogre,56
-2021_01_DEN_NYG,skoltrain87,28
 2021_01_DEN_NYG,SlamGerb,50
 2021_01_DEN_NYG,Slavin22,35
 2021_01_DEN_NYG,SlipsnFlips,47
@@ -9585,6 +9585,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,DraftAndDevEcon,65
 2021_01_CHI_LA,drewbyts,100
 2021_01_CHI_LA,drewvankuiken,69
+2021_01_CHI_LA,DriedUpMondPond,100
 2021_01_CHI_LA,duckyjones4,63
 2021_01_CHI_LA,Dudas68,77
 2021_01_CHI_LA,dudeitsme30,93
@@ -9940,7 +9941,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,Shauncore,79
 2021_01_CHI_LA,SimBullExchange,73
 2021_01_CHI_LA,Skogre,39
-2021_01_CHI_LA,skoltrain87,100
 2021_01_CHI_LA,SlamGerb,50
 2021_01_CHI_LA,Slavin22,75
 2021_01_CHI_LA,SlipsnFlips,59
@@ -10269,6 +10269,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,drewbyts,0
 2021_01_BAL_LV,DrewDeJ_,18
 2021_01_BAL_LV,drewvankuiken,26
+2021_01_BAL_LV,DriedUpMondPond,35
 2021_01_BAL_LV,duckyjones4,58
 2021_01_BAL_LV,Dudas68,19
 2021_01_BAL_LV,dudeitsme30,17
@@ -10637,7 +10638,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,Shauncore,35
 2021_01_BAL_LV,SimBullExchange,36
 2021_01_BAL_LV,Skogre,57
-2021_01_BAL_LV,skoltrain87,35
 2021_01_BAL_LV,SlamGerb,50
 2021_01_BAL_LV,Slavin22,30
 2021_01_BAL_LV,SlipsnFlips,33
@@ -10876,6 +10876,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,donkeys_mh,48
 2021_02_NYG_WAS,dprestige21,50
 2021_02_NYG_WAS,DraftAndDevEcon,60
+2021_02_NYG_WAS,DriedUpMondPond,86
 2021_02_NYG_WAS,dylanm1002,68
 2021_02_NYG_WAS,e6djdjsmam,60
 2021_02_NYG_WAS,EatinWs,47
@@ -11071,7 +11072,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,Shauncore,75
 2021_02_NYG_WAS,SimBullExchange,35
 2021_02_NYG_WAS,Skogre,46
-2021_02_NYG_WAS,skoltrain87,86
 2021_02_NYG_WAS,Slavin22,55
 2021_02_NYG_WAS,SmelliDrelli,47
 2021_02_NYG_WAS,SonnyFab,44
@@ -11269,6 +11269,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,DraftAndDevEcon,37
 2021_02_NO_CAR,drewbyts,44
 2021_02_NO_CAR,drewvankuiken,33
+2021_02_NO_CAR,DriedUpMondPond,16
 2021_02_NO_CAR,dylanm1002,50
 2021_02_NO_CAR,e6djdjsmam,16
 2021_02_NO_CAR,EatinWs,35
@@ -11492,7 +11493,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,Shauncore,25
 2021_02_NO_CAR,SimBullExchange,60
 2021_02_NO_CAR,Skogre,56
-2021_02_NO_CAR,skoltrain87,16
 2021_02_NO_CAR,Slavin22,30
 2021_02_NO_CAR,SmelliDrelli,26
 2021_02_NO_CAR,SonnyFab,50
@@ -11702,6 +11702,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,DraftAndDevEcon,55
 2021_02_CIN_CHI,drewbyts,0
 2021_02_CIN_CHI,drewvankuiken,60
+2021_02_CIN_CHI,DriedUpMondPond,40
 2021_02_CIN_CHI,dylanm1002,54
 2021_02_CIN_CHI,e6djdjsmam,56
 2021_02_CIN_CHI,EatinWs,55
@@ -11925,7 +11926,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,Shauncore,44
 2021_02_CIN_CHI,SimBullExchange,40
 2021_02_CIN_CHI,Skogre,53
-2021_02_CIN_CHI,skoltrain87,40
 2021_02_CIN_CHI,Slavin22,55
 2021_02_CIN_CHI,SmelliDrelli,40
 2021_02_CIN_CHI,SonnyFab,50
@@ -12135,6 +12135,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,DraftAndDevEcon,72
 2021_02_HOU_CLE,drewbyts,100
 2021_02_HOU_CLE,drewvankuiken,67
+2021_02_HOU_CLE,DriedUpMondPond,100
 2021_02_HOU_CLE,dylanm1002,88
 2021_02_HOU_CLE,e6djdjsmam,100
 2021_02_HOU_CLE,EatinWs,80
@@ -12358,7 +12359,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,Shauncore,83
 2021_02_HOU_CLE,SimBullExchange,100
 2021_02_HOU_CLE,Skogre,38
-2021_02_HOU_CLE,skoltrain87,100
 2021_02_HOU_CLE,Slavin22,90
 2021_02_HOU_CLE,SmelliDrelli,75
 2021_02_HOU_CLE,SonnyFab,50
@@ -12568,6 +12568,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,DraftAndDevEcon,41
 2021_02_LA_IND,drewbyts,0
 2021_02_LA_IND,drewvankuiken,41
+2021_02_LA_IND,DriedUpMondPond,23
 2021_02_LA_IND,dylanm1002,35
 2021_02_LA_IND,e6djdjsmam,32
 2021_02_LA_IND,EatinWs,35
@@ -12791,7 +12792,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,Shauncore,32
 2021_02_LA_IND,SimBullExchange,10
 2021_02_LA_IND,Skogre,59
-2021_02_LA_IND,skoltrain87,23
 2021_02_LA_IND,Slavin22,25
 2021_02_LA_IND,SmelliDrelli,42
 2021_02_LA_IND,SonnyFab,50
@@ -13001,6 +13001,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,DraftAndDevEcon,50
 2021_02_DEN_JAX,drewbyts,65
 2021_02_DEN_JAX,drewvankuiken,37
+2021_02_DEN_JAX,DriedUpMondPond,26
 2021_02_DEN_JAX,dylanm1002,28
 2021_02_DEN_JAX,e6djdjsmam,38
 2021_02_DEN_JAX,EatinWs,25
@@ -13224,7 +13225,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,Shauncore,30
 2021_02_DEN_JAX,SimBullExchange,35
 2021_02_DEN_JAX,Skogre,50
-2021_02_DEN_JAX,skoltrain87,26
 2021_02_DEN_JAX,Slavin22,30
 2021_02_DEN_JAX,SmelliDrelli,30
 2021_02_DEN_JAX,SonnyFab,50
@@ -13434,6 +13434,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,DraftAndDevEcon,45
 2021_02_BUF_MIA,drewbyts,0
 2021_02_BUF_MIA,drewvankuiken,44
+2021_02_BUF_MIA,DriedUpMondPond,35
 2021_02_BUF_MIA,dylanm1002,38
 2021_02_BUF_MIA,e6djdjsmam,42
 2021_02_BUF_MIA,EatinWs,43
@@ -13657,7 +13658,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,Shauncore,35
 2021_02_BUF_MIA,SimBullExchange,25
 2021_02_BUF_MIA,Skogre,50
-2021_02_BUF_MIA,skoltrain87,35
 2021_02_BUF_MIA,Slavin22,30
 2021_02_BUF_MIA,SmelliDrelli,34
 2021_02_BUF_MIA,SonnyFab,50
@@ -13867,6 +13867,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,DraftAndDevEcon,43
 2021_02_NE_NYJ,drewbyts,5
 2021_02_NE_NYJ,drewvankuiken,48
+2021_02_NE_NYJ,DriedUpMondPond,41
 2021_02_NE_NYJ,dylanm1002,30
 2021_02_NE_NYJ,e6djdjsmam,26
 2021_02_NE_NYJ,EatinWs,25
@@ -14090,7 +14091,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,Shauncore,45
 2021_02_NE_NYJ,SimBullExchange,31
 2021_02_NE_NYJ,Skogre,56
-2021_02_NE_NYJ,skoltrain87,41
 2021_02_NE_NYJ,Slavin22,25
 2021_02_NE_NYJ,SmelliDrelli,21
 2021_02_NE_NYJ,SonnyFab,50
@@ -14300,6 +14300,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,DraftAndDevEcon,39
 2021_02_SF_PHI,drewbyts,60
 2021_02_SF_PHI,drewvankuiken,47
+2021_02_SF_PHI,DriedUpMondPond,41
 2021_02_SF_PHI,dylanm1002,41
 2021_02_SF_PHI,e6djdjsmam,38
 2021_02_SF_PHI,EatinWs,35
@@ -14523,7 +14524,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,Shauncore,30
 2021_02_SF_PHI,SimBullExchange,15
 2021_02_SF_PHI,Skogre,53
-2021_02_SF_PHI,skoltrain87,41
 2021_02_SF_PHI,Slavin22,40
 2021_02_SF_PHI,SmelliDrelli,34
 2021_02_SF_PHI,SonnyFab,50
@@ -14733,6 +14733,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,DraftAndDevEcon,60
 2021_02_LV_PIT,drewbyts,100
 2021_02_LV_PIT,drewvankuiken,42
+2021_02_LV_PIT,DriedUpMondPond,70
 2021_02_LV_PIT,dylanm1002,69
 2021_02_LV_PIT,e6djdjsmam,58
 2021_02_LV_PIT,EatinWs,65
@@ -14956,7 +14957,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,Shauncore,35
 2021_02_LV_PIT,SimBullExchange,69
 2021_02_LV_PIT,Skogre,52
-2021_02_LV_PIT,skoltrain87,70
 2021_02_LV_PIT,Slavin22,65
 2021_02_LV_PIT,SmelliDrelli,54
 2021_02_LV_PIT,SonnyFab,50
@@ -15167,6 +15167,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,DraftAndDevEcon,55
 2021_02_MIN_ARI,drewbyts,60
 2021_02_MIN_ARI,drewvankuiken,54
+2021_02_MIN_ARI,DriedUpMondPond,45
 2021_02_MIN_ARI,dylanm1002,66
 2021_02_MIN_ARI,e6djdjsmam,67
 2021_02_MIN_ARI,EatinWs,56
@@ -15390,7 +15391,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,Shauncore,75
 2021_02_MIN_ARI,SimBullExchange,41
 2021_02_MIN_ARI,Skogre,47
-2021_02_MIN_ARI,skoltrain87,45
 2021_02_MIN_ARI,Slavin22,70
 2021_02_MIN_ARI,SmelliDrelli,67
 2021_02_MIN_ARI,SonnyFab,50
@@ -15601,6 +15601,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,DraftAndDevEcon,87
 2021_02_ATL_TB,drewbyts,100
 2021_02_ATL_TB,drewvankuiken,65
+2021_02_ATL_TB,DriedUpMondPond,100
 2021_02_ATL_TB,dylanm1002,85
 2021_02_ATL_TB,e6djdjsmam,87
 2021_02_ATL_TB,EatinWs,80
@@ -15824,7 +15825,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,Shauncore,75
 2021_02_ATL_TB,SimBullExchange,100
 2021_02_ATL_TB,Skogre,38
-2021_02_ATL_TB,skoltrain87,100
 2021_02_ATL_TB,Slavin22,90
 2021_02_ATL_TB,SmelliDrelli,91
 2021_02_ATL_TB,SonnyFab,50
@@ -15912,8 +15912,8 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,zackry_mc,100
 2021_02_ATL_TB,zacwest91,100
 2021_02_ATL_TB,zweinberg18,80
-2021_02_DAL_LAC,,57
 2021_02_DAL_LAC,,36
+2021_02_DAL_LAC,,57
 2021_02_DAL_LAC,__DavidOfficial,45
 2021_02_DAL_LAC,_DH44_,49
 2021_02_DAL_LAC,_jclemons,45
@@ -16035,6 +16035,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,DraftAndDevEcon,52
 2021_02_DAL_LAC,drewbyts,50
 2021_02_DAL_LAC,drewvankuiken,56
+2021_02_DAL_LAC,DriedUpMondPond,66
 2021_02_DAL_LAC,dylanm1002,61
 2021_02_DAL_LAC,e6djdjsmam,57
 2021_02_DAL_LAC,EatinWs,53
@@ -16258,7 +16259,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,Shauncore,69
 2021_02_DAL_LAC,SimBullExchange,30
 2021_02_DAL_LAC,Skogre,53
-2021_02_DAL_LAC,skoltrain87,66
 2021_02_DAL_LAC,Slavin22,40
 2021_02_DAL_LAC,SmelliDrelli,50
 2021_02_DAL_LAC,SonnyFab,50
@@ -16469,6 +16469,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,DraftAndDevEcon,67
 2021_02_TEN_SEA,drewbyts,71
 2021_02_TEN_SEA,drewvankuiken,58
+2021_02_TEN_SEA,DriedUpMondPond,40
 2021_02_TEN_SEA,dylanm1002,69
 2021_02_TEN_SEA,e6djdjsmam,41
 2021_02_TEN_SEA,EatinWs,60
@@ -16692,7 +16693,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,Shauncore,79
 2021_02_TEN_SEA,SimBullExchange,60
 2021_02_TEN_SEA,Skogre,44
-2021_02_TEN_SEA,skoltrain87,40
 2021_02_TEN_SEA,Slavin22,80
 2021_02_TEN_SEA,SmelliDrelli,42
 2021_02_TEN_SEA,SonnyFab,50
@@ -16780,8 +16780,8 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,zackry_mc,81
 2021_02_TEN_SEA,zacwest91,76
 2021_02_TEN_SEA,zweinberg18,58
-2021_02_KC_BAL,,19
 2021_02_KC_BAL,,43
+2021_02_KC_BAL,,19
 2021_02_KC_BAL,__DavidOfficial,45
 2021_02_KC_BAL,_DH44_,51
 2021_02_KC_BAL,_jclemons,38
@@ -16903,6 +16903,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,DraftAndDevEcon,45
 2021_02_KC_BAL,drewbyts,50
 2021_02_KC_BAL,drewvankuiken,43
+2021_02_KC_BAL,DriedUpMondPond,20
 2021_02_KC_BAL,dylanm1002,39
 2021_02_KC_BAL,e6djdjsmam,23
 2021_02_KC_BAL,EatinWs,35
@@ -17126,7 +17127,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,Shauncore,48
 2021_02_KC_BAL,SimBullExchange,25
 2021_02_KC_BAL,Skogre,56
-2021_02_KC_BAL,skoltrain87,20
 2021_02_KC_BAL,Slavin22,30
 2021_02_KC_BAL,SmelliDrelli,62
 2021_02_KC_BAL,SonnyFab,50
@@ -17337,6 +17337,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,DraftAndDevEcon,76
 2021_02_DET_GB,drewbyts,100
 2021_02_DET_GB,drewvankuiken,68
+2021_02_DET_GB,DriedUpMondPond,48
 2021_02_DET_GB,dylanm1002,84
 2021_02_DET_GB,e6djdjsmam,70
 2021_02_DET_GB,EatinWs,80
@@ -17560,7 +17561,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,Shauncore,81
 2021_02_DET_GB,SimBullExchange,100
 2021_02_DET_GB,Skogre,43
-2021_02_DET_GB,skoltrain87,48
 2021_02_DET_GB,Slavin22,85
 2021_02_DET_GB,SmelliDrelli,67
 2021_02_DET_GB,SonnyFab,47
@@ -17748,6 +17748,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,dprestige21,50
 2021_03_CAR_HOU,DraftAndDevEcon,36
 2021_03_CAR_HOU,drewvankuiken,43
+2021_03_CAR_HOU,DriedUpMondPond,0
 2021_03_CAR_HOU,dylanm1002,20
 2021_03_CAR_HOU,dynastyforever1,45
 2021_03_CAR_HOU,e6djdjsmam,29
@@ -17927,7 +17928,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,ShannonHouser12,33
 2021_03_CAR_HOU,Shauncore,24
 2021_03_CAR_HOU,Skogre,62
-2021_03_CAR_HOU,skoltrain87,0
 2021_03_CAR_HOU,Slavin22,10
 2021_03_CAR_HOU,SmelliDrelli,50
 2021_03_CAR_HOU,SonOfSunTzu,42
@@ -17992,8 +17992,8 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,45
 2021_03_WAS_BUF,,50
+2021_03_WAS_BUF,,45
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
@@ -18100,6 +18100,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,dprestige21,50
 2021_03_WAS_BUF,DraftAndDevEcon,70
 2021_03_WAS_BUF,drewvankuiken,70
+2021_03_WAS_BUF,DriedUpMondPond,65
 2021_03_WAS_BUF,dylanm1002,72
 2021_03_WAS_BUF,dynastyforever1,52
 2021_03_WAS_BUF,e6djdjsmam,66
@@ -18299,7 +18300,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,ShannonHouser12,73
 2021_03_WAS_BUF,Shauncore,67
 2021_03_WAS_BUF,Skogre,50
-2021_03_WAS_BUF,skoltrain87,65
 2021_03_WAS_BUF,Slavin22,80
 2021_03_WAS_BUF,SmelliDrelli,84
 2021_03_WAS_BUF,SonOfSunTzu,69
@@ -18475,6 +18475,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,dprestige21,50
 2021_03_CHI_CLE,DraftAndDevEcon,65
 2021_03_CHI_CLE,drewvankuiken,77
+2021_03_CHI_CLE,DriedUpMondPond,78
 2021_03_CHI_CLE,dylanm1002,73
 2021_03_CHI_CLE,dynastyforever1,50
 2021_03_CHI_CLE,e6djdjsmam,80
@@ -18674,7 +18675,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,ShannonHouser12,70
 2021_03_CHI_CLE,Shauncore,65
 2021_03_CHI_CLE,Skogre,38
-2021_03_CHI_CLE,skoltrain87,78
 2021_03_CHI_CLE,Slavin22,70
 2021_03_CHI_CLE,SmelliDrelli,42
 2021_03_CHI_CLE,SonOfSunTzu,66
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,50
 2021_03_BAL_DET,,21
+2021_03_BAL_DET,,50
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -18850,6 +18850,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,dprestige21,50
 2021_03_BAL_DET,DraftAndDevEcon,27
 2021_03_BAL_DET,drewvankuiken,18
+2021_03_BAL_DET,DriedUpMondPond,0
 2021_03_BAL_DET,dylanm1002,22
 2021_03_BAL_DET,dynastyforever1,28
 2021_03_BAL_DET,e6djdjsmam,0
@@ -19049,7 +19050,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,ShannonHouser12,28
 2021_03_BAL_DET,Shauncore,23
 2021_03_BAL_DET,Skogre,62
-2021_03_BAL_DET,skoltrain87,0
 2021_03_BAL_DET,Slavin22,15
 2021_03_BAL_DET,SmelliDrelli,23
 2021_03_BAL_DET,SonOfSunTzu,0
@@ -19117,8 +19117,8 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,YayySports,21
 2021_03_BAL_DET,zackry_mc,0
 2021_03_BAL_DET,zweinberg18,5
-2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,,22
+2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,__DavidOfficial,0
 2021_03_ARI_JAX,_alendowsky,43
 2021_03_ARI_JAX,_DH44_,48
@@ -19225,6 +19225,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,dprestige21,50
 2021_03_ARI_JAX,DraftAndDevEcon,31
 2021_03_ARI_JAX,drewvankuiken,35
+2021_03_ARI_JAX,DriedUpMondPond,0
 2021_03_ARI_JAX,dylanm1002,24
 2021_03_ARI_JAX,dynastyforever1,33
 2021_03_ARI_JAX,e6djdjsmam,12
@@ -19424,7 +19425,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,ShannonHouser12,68
 2021_03_ARI_JAX,Shauncore,35
 2021_03_ARI_JAX,Skogre,62
-2021_03_ARI_JAX,skoltrain87,0
 2021_03_ARI_JAX,Slavin22,20
 2021_03_ARI_JAX,SmelliDrelli,39
 2021_03_ARI_JAX,SonOfSunTzu,18
@@ -19600,6 +19600,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,dprestige21,50
 2021_03_LAC_KC,DraftAndDevEcon,73
 2021_03_LAC_KC,drewvankuiken,67
+2021_03_LAC_KC,DriedUpMondPond,64
 2021_03_LAC_KC,dylanm1002,71
 2021_03_LAC_KC,dynastyforever1,59
 2021_03_LAC_KC,e6djdjsmam,66
@@ -19799,7 +19800,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,ShannonHouser12,100
 2021_03_LAC_KC,Shauncore,40
 2021_03_LAC_KC,Skogre,50
-2021_03_LAC_KC,skoltrain87,64
 2021_03_LAC_KC,Slavin22,75
 2021_03_LAC_KC,SmelliDrelli,64
 2021_03_LAC_KC,SonOfSunTzu,59
@@ -19975,6 +19975,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,dprestige21,50
 2021_03_NO_NE,DraftAndDevEcon,45
 2021_03_NO_NE,drewvankuiken,76
+2021_03_NO_NE,DriedUpMondPond,56
 2021_03_NO_NE,dylanm1002,54
 2021_03_NO_NE,dynastyforever1,50
 2021_03_NO_NE,e6djdjsmam,56
@@ -20174,7 +20175,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,ShannonHouser12,39
 2021_03_NO_NE,Shauncore,40
 2021_03_NO_NE,Skogre,43
-2021_03_NO_NE,skoltrain87,56
 2021_03_NO_NE,Slavin22,65
 2021_03_NO_NE,SmelliDrelli,54
 2021_03_NO_NE,SonOfSunTzu,50
@@ -20350,6 +20350,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,dprestige21,50
 2021_03_ATL_NYG,DraftAndDevEcon,55
 2021_03_ATL_NYG,drewvankuiken,44
+2021_03_ATL_NYG,DriedUpMondPond,64
 2021_03_ATL_NYG,dylanm1002,57
 2021_03_ATL_NYG,dynastyforever1,50
 2021_03_ATL_NYG,e6djdjsmam,65
@@ -20549,7 +20550,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,ShannonHouser12,68
 2021_03_ATL_NYG,Shauncore,41
 2021_03_ATL_NYG,Skogre,43
-2021_03_ATL_NYG,skoltrain87,64
 2021_03_ATL_NYG,Slavin22,40
 2021_03_ATL_NYG,SmelliDrelli,45
 2021_03_ATL_NYG,SonOfSunTzu,50
@@ -20617,8 +20617,8 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,YayySports,66
 2021_03_ATL_NYG,zackry_mc,50
 2021_03_ATL_NYG,zweinberg18,55
-2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,,57
+2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -20725,6 +20725,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,dprestige21,50
 2021_03_CIN_PIT,DraftAndDevEcon,65
 2021_03_CIN_PIT,drewvankuiken,55
+2021_03_CIN_PIT,DriedUpMondPond,65
 2021_03_CIN_PIT,dylanm1002,65
 2021_03_CIN_PIT,dynastyforever1,50
 2021_03_CIN_PIT,e6djdjsmam,59
@@ -20924,7 +20925,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,ShannonHouser12,39
 2021_03_CIN_PIT,Shauncore,70
 2021_03_CIN_PIT,Skogre,43
-2021_03_CIN_PIT,skoltrain87,65
 2021_03_CIN_PIT,Slavin22,70
 2021_03_CIN_PIT,SmelliDrelli,67
 2021_03_CIN_PIT,SonOfSunTzu,54
@@ -21100,6 +21100,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,dprestige21,50
 2021_03_IND_TEN,DraftAndDevEcon,61
 2021_03_IND_TEN,drewvankuiken,42
+2021_03_IND_TEN,DriedUpMondPond,81
 2021_03_IND_TEN,dylanm1002,71
 2021_03_IND_TEN,dynastyforever1,53
 2021_03_IND_TEN,e6djdjsmam,56
@@ -21299,7 +21300,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,ShannonHouser12,66
 2021_03_IND_TEN,Shauncore,40
 2021_03_IND_TEN,Skogre,43
-2021_03_IND_TEN,skoltrain87,81
 2021_03_IND_TEN,Slavin22,80
 2021_03_IND_TEN,SmelliDrelli,62
 2021_03_IND_TEN,SonOfSunTzu,73
@@ -21476,6 +21476,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,dprestige21,50
 2021_03_NYJ_DEN,DraftAndDevEcon,73
 2021_03_NYJ_DEN,drewvankuiken,63
+2021_03_NYJ_DEN,DriedUpMondPond,100
 2021_03_NYJ_DEN,dylanm1002,85
 2021_03_NYJ_DEN,dynastyforever1,54
 2021_03_NYJ_DEN,e6djdjsmam,68
@@ -21676,7 +21677,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,ShannonHouser12,84
 2021_03_NYJ_DEN,Shauncore,73
 2021_03_NYJ_DEN,Skogre,38
-2021_03_NYJ_DEN,skoltrain87,100
 2021_03_NYJ_DEN,Slavin22,90
 2021_03_NYJ_DEN,SmelliDrelli,77
 2021_03_NYJ_DEN,SonOfSunTzu,82
@@ -21854,6 +21854,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,dprestige21,50
 2021_03_MIA_LV,DraftAndDevEcon,63
 2021_03_MIA_LV,drewvankuiken,70
+2021_03_MIA_LV,DriedUpMondPond,57
 2021_03_MIA_LV,dylanm1002,64
 2021_03_MIA_LV,dynastyforever1,50
 2021_03_MIA_LV,e6djdjsmam,64
@@ -22055,7 +22056,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,ShannonHouser12,74
 2021_03_MIA_LV,Shauncore,74
 2021_03_MIA_LV,Skogre,38
-2021_03_MIA_LV,skoltrain87,57
 2021_03_MIA_LV,Slavin22,80
 2021_03_MIA_LV,SmelliDrelli,66
 2021_03_MIA_LV,SonOfSunTzu,57
@@ -22233,6 +22233,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,dprestige21,3
 2021_03_TB_LA,DraftAndDevEcon,45
 2021_03_TB_LA,drewvankuiken,58
+2021_03_TB_LA,DriedUpMondPond,41
 2021_03_TB_LA,dylanm1002,49
 2021_03_TB_LA,dynastyforever1,50
 2021_03_TB_LA,e6djdjsmam,60
@@ -22434,7 +22435,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,ShannonHouser12,24
 2021_03_TB_LA,Shauncore,54
 2021_03_TB_LA,Skogre,56
-2021_03_TB_LA,skoltrain87,41
 2021_03_TB_LA,Slavin22,40
 2021_03_TB_LA,SmelliDrelli,61
 2021_03_TB_LA,SonOfSunTzu,50
@@ -22612,6 +22612,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,dprestige21,50
 2021_03_SEA_MIN,DraftAndDevEcon,43
 2021_03_SEA_MIN,drewvankuiken,42
+2021_03_SEA_MIN,DriedUpMondPond,57
 2021_03_SEA_MIN,dylanm1002,47
 2021_03_SEA_MIN,dynastyforever1,50
 2021_03_SEA_MIN,e6djdjsmam,39
@@ -22813,7 +22814,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,ShannonHouser12,26
 2021_03_SEA_MIN,Shauncore,37
 2021_03_SEA_MIN,Skogre,47
-2021_03_SEA_MIN,skoltrain87,57
 2021_03_SEA_MIN,Slavin22,30
 2021_03_SEA_MIN,SmelliDrelli,60
 2021_03_SEA_MIN,SonOfSunTzu,40
@@ -22991,6 +22991,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,dprestige21,50
 2021_03_GB_SF,DraftAndDevEcon,49
 2021_03_GB_SF,drewvankuiken,57
+2021_03_GB_SF,DriedUpMondPond,65
 2021_03_GB_SF,dylanm1002,63
 2021_03_GB_SF,dynastyforever1,50
 2021_03_GB_SF,e6djdjsmam,56
@@ -23193,7 +23194,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,ShannonHouser12,39
 2021_03_GB_SF,Shauncore,62
 2021_03_GB_SF,Skogre,53
-2021_03_GB_SF,skoltrain87,65
 2021_03_GB_SF,Slavin22,40
 2021_03_GB_SF,SmelliDrelli,44
 2021_03_GB_SF,SonOfSunTzu,58
@@ -23377,6 +23377,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,DraftHistory,50
 2021_03_PHI_DAL,Drew_Van_Kuiken,67
 2021_03_PHI_DAL,drewvankuiken,60
+2021_03_PHI_DAL,DriedUpMondPond,37
 2021_03_PHI_DAL,dylanm1002,64
 2021_03_PHI_DAL,dynastyforever1,50
 2021_03_PHI_DAL,e6djdjsmam,61
@@ -23588,7 +23589,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,ShannonHouser12,69
 2021_03_PHI_DAL,Shauncore,65
 2021_03_PHI_DAL,Skogre,44
-2021_03_PHI_DAL,skoltrain87,37
 2021_03_PHI_DAL,Slavin22,75
 2021_03_PHI_DAL,SmelliDrelli,58
 2021_03_PHI_DAL,SonOfSunTzu,60
@@ -23757,6 +23757,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,DraftAndDevEcon,72
 2021_04_JAX_CIN,DraftHistory,50
 2021_04_JAX_CIN,Drew_Van_Kuiken,50
+2021_04_JAX_CIN,DriedUpMondPond,82
 2021_04_JAX_CIN,dylanm1002,76
 2021_04_JAX_CIN,dynastyforever1,59
 2021_04_JAX_CIN,e6djdjsmam,80
@@ -23949,7 +23950,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,ShannonHouser12,69
 2021_04_JAX_CIN,Shauncore,65
 2021_04_JAX_CIN,SimBullExchange,50
-2021_04_JAX_CIN,skoltrain87,82
 2021_04_JAX_CIN,Slavin22,80
 2021_04_JAX_CIN,SmelliDrelli,74
 2021_04_JAX_CIN,SonOfSunTzu,79
@@ -24126,6 +24126,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,DraftHistory,50
 2021_04_WAS_ATL,DraganVender,50
 2021_04_WAS_ATL,Drew_Van_Kuiken,50
+2021_04_WAS_ATL,DriedUpMondPond,25
 2021_04_WAS_ATL,dylanm1002,47
 2021_04_WAS_ATL,dynastyforever1,50
 2021_04_WAS_ATL,e6djdjsmam,39
@@ -24334,7 +24335,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,SimBullExchange,30
 2021_04_WAS_ATL,SirGrant_Texas,41
 2021_04_WAS_ATL,Skogre,56
-2021_04_WAS_ATL,skoltrain87,25
 2021_04_WAS_ATL,Slavin22,35
 2021_04_WAS_ATL,SmelliDrelli,45
 2021_04_WAS_ATL,SonOfSunTzu,55
@@ -24518,6 +24518,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,DraftHistory,50
 2021_04_HOU_BUF,DraganVender,95
 2021_04_HOU_BUF,Drew_Van_Kuiken,50
+2021_04_HOU_BUF,DriedUpMondPond,98
 2021_04_HOU_BUF,dylanm1002,97
 2021_04_HOU_BUF,dynastyforever1,100
 2021_04_HOU_BUF,e6djdjsmam,100
@@ -24726,7 +24727,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,SimBullExchange,100
 2021_04_HOU_BUF,SirGrant_Texas,86
 2021_04_HOU_BUF,Skogre,36
-2021_04_HOU_BUF,skoltrain87,98
 2021_04_HOU_BUF,Slavin22,95
 2021_04_HOU_BUF,SmelliDrelli,76
 2021_04_HOU_BUF,SonOfSunTzu,77
@@ -24910,6 +24910,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,DraftHistory,50
 2021_04_DET_CHI,DraganVender,65
 2021_04_DET_CHI,Drew_Van_Kuiken,50
+2021_04_DET_CHI,DriedUpMondPond,40
 2021_04_DET_CHI,dylanm1002,55
 2021_04_DET_CHI,dynastyforever1,50
 2021_04_DET_CHI,e6djdjsmam,43
@@ -25118,7 +25119,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,SimBullExchange,85
 2021_04_DET_CHI,SirGrant_Texas,50
 2021_04_DET_CHI,Skogre,53
-2021_04_DET_CHI,skoltrain87,40
 2021_04_DET_CHI,Slavin22,60
 2021_04_DET_CHI,SmelliDrelli,55
 2021_04_DET_CHI,SonOfSunTzu,42
@@ -25302,6 +25302,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,DraftHistory,50
 2021_04_CAR_DAL,DraganVender,55
 2021_04_CAR_DAL,Drew_Van_Kuiken,50
+2021_04_CAR_DAL,DriedUpMondPond,56
 2021_04_CAR_DAL,dylanm1002,67
 2021_04_CAR_DAL,dynastyforever1,100
 2021_04_CAR_DAL,e6djdjsmam,65
@@ -25510,7 +25511,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,SimBullExchange,40
 2021_04_CAR_DAL,SirGrant_Texas,50
 2021_04_CAR_DAL,Skogre,43
-2021_04_CAR_DAL,skoltrain87,56
 2021_04_CAR_DAL,Slavin22,75
 2021_04_CAR_DAL,SmelliDrelli,60
 2021_04_CAR_DAL,SonOfSunTzu,77
@@ -25694,6 +25694,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,DraftHistory,50
 2021_04_IND_MIA,DraganVender,50
 2021_04_IND_MIA,Drew_Van_Kuiken,50
+2021_04_IND_MIA,DriedUpMondPond,62
 2021_04_IND_MIA,dylanm1002,54
 2021_04_IND_MIA,dynastyforever1,50
 2021_04_IND_MIA,e6djdjsmam,39
@@ -25902,7 +25903,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,SimBullExchange,35
 2021_04_IND_MIA,SirGrant_Texas,50
 2021_04_IND_MIA,Skogre,47
-2021_04_IND_MIA,skoltrain87,62
 2021_04_IND_MIA,Slavin22,60
 2021_04_IND_MIA,SmelliDrelli,43
 2021_04_IND_MIA,SonOfSunTzu,45
@@ -26086,6 +26086,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,DraftHistory,50
 2021_04_CLE_MIN,DraganVender,51
 2021_04_CLE_MIN,Drew_Van_Kuiken,50
+2021_04_CLE_MIN,DriedUpMondPond,54
 2021_04_CLE_MIN,dylanm1002,47
 2021_04_CLE_MIN,dynastyforever1,50
 2021_04_CLE_MIN,e6djdjsmam,28
@@ -26294,7 +26295,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,SimBullExchange,0
 2021_04_CLE_MIN,SirGrant_Texas,61
 2021_04_CLE_MIN,Skogre,47
-2021_04_CLE_MIN,skoltrain87,54
 2021_04_CLE_MIN,Slavin22,35
 2021_04_CLE_MIN,SmelliDrelli,38
 2021_04_CLE_MIN,SonOfSunTzu,55
@@ -26478,6 +26478,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,DraftHistory,50
 2021_04_NYG_NO,DraganVender,91
 2021_04_NYG_NO,Drew_Van_Kuiken,50
+2021_04_NYG_NO,DriedUpMondPond,81
 2021_04_NYG_NO,dylanm1002,75
 2021_04_NYG_NO,dynastyforever1,55
 2021_04_NYG_NO,e6djdjsmam,57
@@ -26686,7 +26687,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,SimBullExchange,74
 2021_04_NYG_NO,SirGrant_Texas,50
 2021_04_NYG_NO,Skogre,53
-2021_04_NYG_NO,skoltrain87,81
 2021_04_NYG_NO,Slavin22,85
 2021_04_NYG_NO,SmelliDrelli,40
 2021_04_NYG_NO,SonOfSunTzu,74
@@ -26870,6 +26870,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,DraftHistory,50
 2021_04_TEN_NYJ,DraganVender,29
 2021_04_TEN_NYJ,Drew_Van_Kuiken,50
+2021_04_TEN_NYJ,DriedUpMondPond,2
 2021_04_TEN_NYJ,dylanm1002,23
 2021_04_TEN_NYJ,dynastyforever1,44
 2021_04_TEN_NYJ,e6djdjsmam,25
@@ -27078,7 +27079,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,SimBullExchange,19
 2021_04_TEN_NYJ,SirGrant_Texas,50
 2021_04_TEN_NYJ,Skogre,62
-2021_04_TEN_NYJ,skoltrain87,2
 2021_04_TEN_NYJ,Slavin22,10
 2021_04_TEN_NYJ,SmelliDrelli,26
 2021_04_TEN_NYJ,SonOfSunTzu,7
@@ -27262,6 +27262,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,DraftHistory,50
 2021_04_KC_PHI,DraganVender,23
 2021_04_KC_PHI,Drew_Van_Kuiken,50
+2021_04_KC_PHI,DriedUpMondPond,36
 2021_04_KC_PHI,dylanm1002,27
 2021_04_KC_PHI,dynastyforever1,0
 2021_04_KC_PHI,e6djdjsmam,21
@@ -27470,7 +27471,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,SimBullExchange,0
 2021_04_KC_PHI,SirGrant_Texas,50
 2021_04_KC_PHI,Skogre,62
-2021_04_KC_PHI,skoltrain87,36
 2021_04_KC_PHI,Slavin22,15
 2021_04_KC_PHI,SmelliDrelli,20
 2021_04_KC_PHI,SonOfSunTzu,44
@@ -27655,6 +27655,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,DraftHistory,50
 2021_04_ARI_LA,DraganVender,66
 2021_04_ARI_LA,Drew_Van_Kuiken,50
+2021_04_ARI_LA,DriedUpMondPond,63
 2021_04_ARI_LA,dylanm1002,68
 2021_04_ARI_LA,dynastyforever1,100
 2021_04_ARI_LA,e6djdjsmam,53
@@ -27864,7 +27865,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,SimBullExchange,75
 2021_04_ARI_LA,SirGrant_Texas,50
 2021_04_ARI_LA,Skogre,44
-2021_04_ARI_LA,skoltrain87,63
 2021_04_ARI_LA,Slavin22,75
 2021_04_ARI_LA,SmelliDrelli,65
 2021_04_ARI_LA,SonOfSunTzu,65
@@ -28051,6 +28051,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,DraftHistory,50
 2021_04_SEA_SF,DraganVender,50
 2021_04_SEA_SF,Drew_Van_Kuiken,50
+2021_04_SEA_SF,DriedUpMondPond,69
 2021_04_SEA_SF,dylanm1002,56
 2021_04_SEA_SF,dynastyforever1,50
 2021_04_SEA_SF,e6djdjsmam,63
@@ -28260,7 +28261,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,SimBullExchange,64
 2021_04_SEA_SF,SirGrant_Texas,50
 2021_04_SEA_SF,Skogre,46
-2021_04_SEA_SF,skoltrain87,69
 2021_04_SEA_SF,Slavin22,35
 2021_04_SEA_SF,SmelliDrelli,62
 2021_04_SEA_SF,SonOfSunTzu,49
@@ -28448,6 +28448,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,DraftHistory,50
 2021_04_BAL_DEN,DraganVender,40
 2021_04_BAL_DEN,Drew_Van_Kuiken,50
+2021_04_BAL_DEN,DriedUpMondPond,44
 2021_04_BAL_DEN,dylanm1002,49
 2021_04_BAL_DEN,dynastyforever1,50
 2021_04_BAL_DEN,e6djdjsmam,37
@@ -28658,7 +28659,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,SimBullExchange,33
 2021_04_BAL_DEN,SirGrant_Texas,21
 2021_04_BAL_DEN,Skogre,47
-2021_04_BAL_DEN,skoltrain87,44
 2021_04_BAL_DEN,Slavin22,35
 2021_04_BAL_DEN,SmelliDrelli,38
 2021_04_BAL_DEN,SonOfSunTzu,45
@@ -28846,6 +28846,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,DraftHistory,50
 2021_04_PIT_GB,DraganVender,61
 2021_04_PIT_GB,Drew_Van_Kuiken,50
+2021_04_PIT_GB,DriedUpMondPond,47
 2021_04_PIT_GB,dylanm1002,71
 2021_04_PIT_GB,dynastyforever1,50
 2021_04_PIT_GB,e6djdjsmam,71
@@ -29056,7 +29057,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,SimBullExchange,100
 2021_04_PIT_GB,SirGrant_Texas,65
 2021_04_PIT_GB,Skogre,44
-2021_04_PIT_GB,skoltrain87,47
 2021_04_PIT_GB,Slavin22,80
 2021_04_PIT_GB,SmelliDrelli,62
 2021_04_PIT_GB,SonOfSunTzu,85
@@ -29245,6 +29245,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,DraftHistory,50
 2021_04_TB_NE,DraganVender,25
 2021_04_TB_NE,Drew_Van_Kuiken,50
+2021_04_TB_NE,DriedUpMondPond,15
 2021_04_TB_NE,dylanm1002,30
 2021_04_TB_NE,dynastyforever1,37
 2021_04_TB_NE,e6djdjsmam,26
@@ -29456,7 +29457,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,SimBullExchange,100
 2021_04_TB_NE,SirGrant_Texas,42
 2021_04_TB_NE,Skogre,62
-2021_04_TB_NE,skoltrain87,15
 2021_04_TB_NE,Slavin22,20
 2021_04_TB_NE,SmelliDrelli,34
 2021_04_TB_NE,SonOfSunTzu,27
@@ -29648,6 +29648,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,DraftHistory,50
 2021_04_LV_LAC,DraganVender,59
 2021_04_LV_LAC,Drew_Van_Kuiken,50
+2021_04_LV_LAC,DriedUpMondPond,64
 2021_04_LV_LAC,dylanm1002,60
 2021_04_LV_LAC,dynastyforever1,50
 2021_04_LV_LAC,e6djdjsmam,45
@@ -29869,7 +29870,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,SimBullExchange,49
 2021_04_LV_LAC,SirGrant_Texas,62
 2021_04_LV_LAC,Skogre,53
-2021_04_LV_LAC,skoltrain87,64
 2021_04_LV_LAC,Slavin22,65
 2021_04_LV_LAC,SmelliDrelli,66
 2021_04_LV_LAC,SonOfSunTzu,52
@@ -30044,6 +30044,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,donkeys_mh,50
 2021_05_LA_SEA,dprestige21,50
 2021_05_LA_SEA,DraftAndDevEcon,51
+2021_05_LA_SEA,DriedUpMondPond,41
 2021_05_LA_SEA,dylanm1002,45
 2021_05_LA_SEA,e6djdjsmam,42
 2021_05_LA_SEA,Eagle_Analytic,19
@@ -30235,7 +30236,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,ShannonHouser12,31
 2021_05_LA_SEA,Shauncore,34
 2021_05_LA_SEA,Skogre,42
-2021_05_LA_SEA,skoltrain87,41
 2021_05_LA_SEA,Slavin22,40
 2021_05_LA_SEA,SmelliDrelli,30
 2021_05_LA_SEA,soolsberg,47
@@ -30405,6 +30405,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,dprestige21,50
 2021_05_NYJ_ATL,DraftAndDevEcon,59
 2021_05_NYJ_ATL,DrewDeJ_,30
+2021_05_NYJ_ATL,DriedUpMondPond,61
 2021_05_NYJ_ATL,dylanm1002,59
 2021_05_NYJ_ATL,dynastyforever1,50
 2021_05_NYJ_ATL,e6djdjsmam,45
@@ -30603,7 +30604,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,ShannonHouser12,69
 2021_05_NYJ_ATL,Shauncore,45
 2021_05_NYJ_ATL,Skogre,58
-2021_05_NYJ_ATL,skoltrain87,61
 2021_05_NYJ_ATL,Slavin22,65
 2021_05_NYJ_ATL,SmelliDrelli,44
 2021_05_NYJ_ATL,SonOfSunTzu,70
@@ -30779,6 +30779,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,dprestige21,59
 2021_05_PHI_CAR,DraftAndDevEcon,63
 2021_05_PHI_CAR,DrewDeJ_,36
+2021_05_PHI_CAR,DriedUpMondPond,86
 2021_05_PHI_CAR,dylanm1002,62
 2021_05_PHI_CAR,dynastyforever1,50
 2021_05_PHI_CAR,e6djdjsmam,66
@@ -30981,7 +30982,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,ShannonHouser12,69
 2021_05_PHI_CAR,Shauncore,73
 2021_05_PHI_CAR,Skogre,57
-2021_05_PHI_CAR,skoltrain87,86
 2021_05_PHI_CAR,Slavin22,65
 2021_05_PHI_CAR,SmelliDrelli,41
 2021_05_PHI_CAR,SonOfSunTzu,67
@@ -31157,6 +31157,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,dprestige21,25
 2021_05_GB_CIN,DraftAndDevEcon,41
 2021_05_GB_CIN,DrewDeJ_,25
+2021_05_GB_CIN,DriedUpMondPond,39
 2021_05_GB_CIN,dylanm1002,40
 2021_05_GB_CIN,dynastyforever1,38
 2021_05_GB_CIN,e6djdjsmam,29
@@ -31359,7 +31360,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,ShannonHouser12,30
 2021_05_GB_CIN,Shauncore,35
 2021_05_GB_CIN,Skogre,42
-2021_05_GB_CIN,skoltrain87,39
 2021_05_GB_CIN,Slavin22,30
 2021_05_GB_CIN,SmelliDrelli,44
 2021_05_GB_CIN,SonOfSunTzu,26
@@ -31535,6 +31535,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,dprestige21,34
 2021_05_NE_HOU,DraftAndDevEcon,28
 2021_05_NE_HOU,DrewDeJ_,50
+2021_05_NE_HOU,DriedUpMondPond,2
 2021_05_NE_HOU,dylanm1002,22
 2021_05_NE_HOU,dynastyforever1,15
 2021_05_NE_HOU,e6djdjsmam,35
@@ -31737,7 +31738,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,ShannonHouser12,29
 2021_05_NE_HOU,Shauncore,20
 2021_05_NE_HOU,Skogre,42
-2021_05_NE_HOU,skoltrain87,2
 2021_05_NE_HOU,Slavin22,15
 2021_05_NE_HOU,SmelliDrelli,38
 2021_05_NE_HOU,SonOfSunTzu,20
@@ -31913,6 +31913,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,dprestige21,42
 2021_05_TEN_JAX,DraftAndDevEcon,35
 2021_05_TEN_JAX,DrewDeJ_,43
+2021_05_TEN_JAX,DriedUpMondPond,2
 2021_05_TEN_JAX,dylanm1002,35
 2021_05_TEN_JAX,dynastyforever1,50
 2021_05_TEN_JAX,e6djdjsmam,27
@@ -32115,7 +32116,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,ShannonHouser12,30
 2021_05_TEN_JAX,Shauncore,30
 2021_05_TEN_JAX,Skogre,38
-2021_05_TEN_JAX,skoltrain87,2
 2021_05_TEN_JAX,Slavin22,40
 2021_05_TEN_JAX,SmelliDrelli,39
 2021_05_TEN_JAX,SonOfSunTzu,28
@@ -32290,6 +32290,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,dprestige21,56
 2021_05_DET_MIN,DraftAndDevEcon,72
 2021_05_DET_MIN,DrewDeJ_,67
+2021_05_DET_MIN,DriedUpMondPond,85
 2021_05_DET_MIN,dylanm1002,76
 2021_05_DET_MIN,dynastyforever1,52
 2021_05_DET_MIN,e6djdjsmam,54
@@ -32492,7 +32493,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,ShannonHouser12,69
 2021_05_DET_MIN,Shauncore,86
 2021_05_DET_MIN,Skogre,58
-2021_05_DET_MIN,skoltrain87,85
 2021_05_DET_MIN,Slavin22,80
 2021_05_DET_MIN,SmelliDrelli,66
 2021_05_DET_MIN,SonOfSunTzu,91
@@ -32668,6 +32668,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,dprestige21,50
 2021_05_DEN_PIT,DraftAndDevEcon,53
 2021_05_DEN_PIT,DrewDeJ_,26
+2021_05_DEN_PIT,DriedUpMondPond,40
 2021_05_DEN_PIT,dylanm1002,51
 2021_05_DEN_PIT,dynastyforever1,50
 2021_05_DEN_PIT,e6djdjsmam,35
@@ -32870,7 +32871,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,ShannonHouser12,30
 2021_05_DEN_PIT,Shauncore,70
 2021_05_DEN_PIT,Skogre,57
-2021_05_DEN_PIT,skoltrain87,40
 2021_05_DEN_PIT,Slavin22,40
 2021_05_DEN_PIT,SmelliDrelli,46
 2021_05_DEN_PIT,SonOfSunTzu,28
@@ -33045,6 +33045,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,dprestige21,55
 2021_05_MIA_TB,DraftAndDevEcon,77
 2021_05_MIA_TB,DrewDeJ_,88
+2021_05_MIA_TB,DriedUpMondPond,98
 2021_05_MIA_TB,dylanm1002,80
 2021_05_MIA_TB,dynastyforever1,82
 2021_05_MIA_TB,e6djdjsmam,75
@@ -33247,7 +33248,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,ShannonHouser12,71
 2021_05_MIA_TB,Shauncore,82
 2021_05_MIA_TB,Skogre,58
-2021_05_MIA_TB,skoltrain87,98
 2021_05_MIA_TB,Slavin22,90
 2021_05_MIA_TB,SmelliDrelli,79
 2021_05_MIA_TB,SonOfSunTzu,93
@@ -33423,6 +33423,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,dprestige21,42
 2021_05_NO_WAS,DraftAndDevEcon,37
 2021_05_NO_WAS,DrewDeJ_,55
+2021_05_NO_WAS,DriedUpMondPond,40
 2021_05_NO_WAS,dylanm1002,52
 2021_05_NO_WAS,dynastyforever1,50
 2021_05_NO_WAS,e6djdjsmam,46
@@ -33625,7 +33626,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,ShannonHouser12,70
 2021_05_NO_WAS,Shauncore,55
 2021_05_NO_WAS,Skogre,57
-2021_05_NO_WAS,skoltrain87,40
 2021_05_NO_WAS,Slavin22,40
 2021_05_NO_WAS,SmelliDrelli,50
 2021_05_NO_WAS,SonOfSunTzu,31
@@ -33803,6 +33803,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,dprestige21,50
 2021_05_CLE_LAC,DraftAndDevEcon,53
 2021_05_CLE_LAC,DrewDeJ_,38
+2021_05_CLE_LAC,DriedUpMondPond,36
 2021_05_CLE_LAC,dylanm1002,54
 2021_05_CLE_LAC,dynastyforever1,50
 2021_05_CLE_LAC,e6djdjsmam,42
@@ -34006,7 +34007,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,ShannonHouser12,70
 2021_05_CLE_LAC,Shauncore,60
 2021_05_CLE_LAC,Skogre,43
-2021_05_CLE_LAC,skoltrain87,36
 2021_05_CLE_LAC,Slavin22,65
 2021_05_CLE_LAC,SmelliDrelli,55
 2021_05_CLE_LAC,SonOfSunTzu,53
@@ -34185,6 +34185,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,dprestige21,55
 2021_05_CHI_LV,DraftAndDevEcon,61
 2021_05_CHI_LV,DrewDeJ_,76
+2021_05_CHI_LV,DriedUpMondPond,80
 2021_05_CHI_LV,dylanm1002,67
 2021_05_CHI_LV,dynastyforever1,71
 2021_05_CHI_LV,e6djdjsmam,57
@@ -34388,7 +34389,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,ShannonHouser12,70
 2021_05_CHI_LV,Shauncore,68
 2021_05_CHI_LV,Skogre,57
-2021_05_CHI_LV,skoltrain87,80
 2021_05_CHI_LV,Slavin22,70
 2021_05_CHI_LV,SmelliDrelli,43
 2021_05_CHI_LV,SonOfSunTzu,80
@@ -34567,6 +34567,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,dprestige21,50
 2021_05_SF_ARI,DraftAndDevEcon,61
 2021_05_SF_ARI,DrewDeJ_,78
+2021_05_SF_ARI,DriedUpMondPond,69
 2021_05_SF_ARI,dylanm1002,66
 2021_05_SF_ARI,dynastyforever1,50
 2021_05_SF_ARI,e6djdjsmam,56
@@ -34770,7 +34771,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,ShannonHouser12,71
 2021_05_SF_ARI,Shauncore,78
 2021_05_SF_ARI,Skogre,57
-2021_05_SF_ARI,skoltrain87,69
 2021_05_SF_ARI,Slavin22,75
 2021_05_SF_ARI,SmelliDrelli,65
 2021_05_SF_ARI,SonOfSunTzu,70
@@ -34949,6 +34949,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,dprestige21,59
 2021_05_NYG_DAL,DraftAndDevEcon,72
 2021_05_NYG_DAL,DrewDeJ_,100
+2021_05_NYG_DAL,DriedUpMondPond,84
 2021_05_NYG_DAL,dylanm1002,76
 2021_05_NYG_DAL,dynastyforever1,74
 2021_05_NYG_DAL,e6djdjsmam,57
@@ -35152,7 +35153,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,ShannonHouser12,69
 2021_05_NYG_DAL,Shauncore,80
 2021_05_NYG_DAL,Skogre,67
-2021_05_NYG_DAL,skoltrain87,84
 2021_05_NYG_DAL,Slavin22,85
 2021_05_NYG_DAL,SmelliDrelli,68
 2021_05_NYG_DAL,SonOfSunTzu,55
@@ -35332,6 +35332,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,dprestige21,54
 2021_05_BUF_KC,DraftAndDevEcon,56
 2021_05_BUF_KC,DrewDeJ_,37
+2021_05_BUF_KC,DriedUpMondPond,39
 2021_05_BUF_KC,dylanm1002,61
 2021_05_BUF_KC,dynastyforever1,50
 2021_05_BUF_KC,e6djdjsmam,46
@@ -35536,7 +35537,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,ShannonHouser12,70
 2021_05_BUF_KC,Shauncore,43
 2021_05_BUF_KC,Skogre,43
-2021_05_BUF_KC,skoltrain87,39
 2021_05_BUF_KC,Slavin22,60
 2021_05_BUF_KC,SmelliDrelli,56
 2021_05_BUF_KC,SonOfSunTzu,40
@@ -35719,6 +35719,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,dprestige21,50
 2021_05_IND_BAL,DraftAndDevEcon,70
 2021_05_IND_BAL,DrewDeJ_,67
+2021_05_IND_BAL,DriedUpMondPond,79
 2021_05_IND_BAL,dylanm1002,77
 2021_05_IND_BAL,dynastyforever1,79
 2021_05_IND_BAL,e6djdjsmam,67
@@ -35926,7 +35927,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,ShannonHouser12,71
 2021_05_IND_BAL,Shauncore,73
 2021_05_IND_BAL,Skogre,46
-2021_05_IND_BAL,skoltrain87,79
 2021_05_IND_BAL,Slavin22,75
 2021_05_IND_BAL,SmelliDrelli,70
 2021_05_IND_BAL,SonOfSunTzu,65
@@ -50140,6 +50140,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,DougCoulters,88
 2021_09_MIN_BAL,DraftAndDevEcon,69
 2021_09_MIN_BAL,DrewDeJ_,79
+2021_09_MIN_BAL,DriedUpMondPond,50
 2021_09_MIN_BAL,dylanm1002,73
 2021_09_MIN_BAL,Dynasty1438,50
 2021_09_MIN_BAL,dynastyforever1,60
@@ -50310,7 +50311,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,Shauncore,75
 2021_09_MIN_BAL,simtt28,50
 2021_09_MIN_BAL,Skogre,57
-2021_09_MIN_BAL,skoltrain87,50
 2021_09_MIN_BAL,Slavin22,75
 2021_09_MIN_BAL,SmelliDrelli,71
 2021_09_MIN_BAL,SonOfSunTzu,49
@@ -50464,6 +50464,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,DougCoulters,15
 2021_09_NE_CAR,DraftAndDevEcon,38
 2021_09_NE_CAR,DrewDeJ_,33
+2021_09_NE_CAR,DriedUpMondPond,29
 2021_09_NE_CAR,dylanm1002,35
 2021_09_NE_CAR,Dynasty1438,50
 2021_09_NE_CAR,dynastyforever1,50
@@ -50634,7 +50635,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,Shauncore,44
 2021_09_NE_CAR,simtt28,50
 2021_09_NE_CAR,Skogre,43
-2021_09_NE_CAR,skoltrain87,29
 2021_09_NE_CAR,Slavin22,35
 2021_09_NE_CAR,SmelliDrelli,42
 2021_09_NE_CAR,SonOfSunTzu,37
@@ -50788,6 +50788,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,DougCoulters,47
 2021_09_CLE_CIN,DraftAndDevEcon,46
 2021_09_CLE_CIN,DrewDeJ_,52
+2021_09_CLE_CIN,DriedUpMondPond,41
 2021_09_CLE_CIN,dylanm1002,54
 2021_09_CLE_CIN,Dynasty1438,50
 2021_09_CLE_CIN,dynastyforever1,50
@@ -50958,7 +50959,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,Shauncore,45
 2021_09_CLE_CIN,simtt28,50
 2021_09_CLE_CIN,Skogre,43
-2021_09_CLE_CIN,skoltrain87,41
 2021_09_CLE_CIN,Slavin22,60
 2021_09_CLE_CIN,SmelliDrelli,61
 2021_09_CLE_CIN,SonOfSunTzu,59
@@ -51112,6 +51112,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,DougCoulters,90
 2021_09_DEN_DAL,DraftAndDevEcon,75
 2021_09_DEN_DAL,DrewDeJ_,83
+2021_09_DEN_DAL,DriedUpMondPond,98
 2021_09_DEN_DAL,dylanm1002,81
 2021_09_DEN_DAL,Dynasty1438,50
 2021_09_DEN_DAL,dynastyforever1,59
@@ -51282,7 +51283,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,Shauncore,78
 2021_09_DEN_DAL,simtt28,50
 2021_09_DEN_DAL,Skogre,57
-2021_09_DEN_DAL,skoltrain87,98
 2021_09_DEN_DAL,Slavin22,80
 2021_09_DEN_DAL,SmelliDrelli,44
 2021_09_DEN_DAL,SonOfSunTzu,74
@@ -51436,6 +51436,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,DougCoulters,0
 2021_09_BUF_JAX,DraftAndDevEcon,14
 2021_09_BUF_JAX,DrewDeJ_,0
+2021_09_BUF_JAX,DriedUpMondPond,2
 2021_09_BUF_JAX,dylanm1002,0
 2021_09_BUF_JAX,Dynasty1438,50
 2021_09_BUF_JAX,dynastyforever1,28
@@ -51606,7 +51607,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,Shauncore,0
 2021_09_BUF_JAX,simtt28,50
 2021_09_BUF_JAX,Skogre,38
-2021_09_BUF_JAX,skoltrain87,2
 2021_09_BUF_JAX,Slavin22,5
 2021_09_BUF_JAX,SmelliDrelli,12
 2021_09_BUF_JAX,SonOfSunTzu,8
@@ -51760,6 +51760,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,DougCoulters,80
 2021_09_HOU_MIA,DraftAndDevEcon,70
 2021_09_HOU_MIA,DrewDeJ_,61
+2021_09_HOU_MIA,DriedUpMondPond,41
 2021_09_HOU_MIA,dylanm1002,66
 2021_09_HOU_MIA,Dynasty1438,50
 2021_09_HOU_MIA,dynastyforever1,50
@@ -51930,7 +51931,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,Shauncore,67
 2021_09_HOU_MIA,simtt28,50
 2021_09_HOU_MIA,Skogre,46
-2021_09_HOU_MIA,skoltrain87,41
 2021_09_HOU_MIA,Slavin22,75
 2021_09_HOU_MIA,SmelliDrelli,50
 2021_09_HOU_MIA,SonOfSunTzu,58
@@ -52084,6 +52084,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,DougCoulters,33
 2021_09_ATL_NO,DraftAndDevEcon,73
 2021_09_ATL_NO,DrewDeJ_,58
+2021_09_ATL_NO,DriedUpMondPond,64
 2021_09_ATL_NO,dylanm1002,69
 2021_09_ATL_NO,Dynasty1438,50
 2021_09_ATL_NO,dynastyforever1,50
@@ -52254,7 +52255,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,Shauncore,73
 2021_09_ATL_NO,simtt28,50
 2021_09_ATL_NO,Skogre,43
-2021_09_ATL_NO,skoltrain87,64
 2021_09_ATL_NO,Slavin22,65
 2021_09_ATL_NO,SmelliDrelli,45
 2021_09_ATL_NO,SonOfSunTzu,55
@@ -52408,6 +52408,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,DougCoulters,28
 2021_09_LV_NYG,DraftAndDevEcon,38
 2021_09_LV_NYG,DrewDeJ_,34
+2021_09_LV_NYG,DriedUpMondPond,2
 2021_09_LV_NYG,dylanm1002,37
 2021_09_LV_NYG,Dynasty1438,50
 2021_09_LV_NYG,dynastyforever1,44
@@ -52578,7 +52579,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,Shauncore,34
 2021_09_LV_NYG,simtt28,50
 2021_09_LV_NYG,Skogre,43
-2021_09_LV_NYG,skoltrain87,2
 2021_09_LV_NYG,Slavin22,15
 2021_09_LV_NYG,SmelliDrelli,65
 2021_09_LV_NYG,SonOfSunTzu,44
@@ -52733,6 +52733,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,DougCoulters,16
 2021_09_LAC_PHI,DraftAndDevEcon,47
 2021_09_LAC_PHI,DrewDeJ_,50
+2021_09_LAC_PHI,DriedUpMondPond,2
 2021_09_LAC_PHI,dylanm1002,46
 2021_09_LAC_PHI,Dynasty1438,50
 2021_09_LAC_PHI,dynastyforever1,42
@@ -52906,7 +52907,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,Shauncore,40
 2021_09_LAC_PHI,simtt28,50
 2021_09_LAC_PHI,Skogre,43
-2021_09_LAC_PHI,skoltrain87,2
 2021_09_LAC_PHI,Slavin22,35
 2021_09_LAC_PHI,SmelliDrelli,37
 2021_09_LAC_PHI,SonOfSunTzu,25
@@ -53061,6 +53061,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,DougCoulters,100
 2021_09_GB_KC,DraftAndDevEcon,71
 2021_09_GB_KC,DrewDeJ_,25
+2021_09_GB_KC,DriedUpMondPond,71
 2021_09_GB_KC,dylanm1002,78
 2021_09_GB_KC,Dynasty1438,50
 2021_09_GB_KC,dynastyforever1,50
@@ -53234,7 +53235,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,Shauncore,70
 2021_09_GB_KC,simtt28,50
 2021_09_GB_KC,Skogre,57
-2021_09_GB_KC,skoltrain87,71
 2021_09_GB_KC,Slavin22,65
 2021_09_GB_KC,SmelliDrelli,64
 2021_09_GB_KC,SonOfSunTzu,50
@@ -53389,6 +53389,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,DougCoulters,67
 2021_09_ARI_SF,DraftAndDevEcon,50
 2021_09_ARI_SF,DrewDeJ_,63
+2021_09_ARI_SF,DriedUpMondPond,32
 2021_09_ARI_SF,dylanm1002,65
 2021_09_ARI_SF,Dynasty1438,50
 2021_09_ARI_SF,dynastyforever1,38
@@ -53562,7 +53563,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,Shauncore,65
 2021_09_ARI_SF,simtt28,50
 2021_09_ARI_SF,Skogre,43
-2021_09_ARI_SF,skoltrain87,32
 2021_09_ARI_SF,Slavin22,30
 2021_09_ARI_SF,SmelliDrelli,58
 2021_09_ARI_SF,SonOfSunTzu,31
@@ -53718,6 +53718,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,DougCoulters,15
 2021_09_TEN_LA,DraftAndDevEcon,69
 2021_09_TEN_LA,DrewDeJ_,34
+2021_09_TEN_LA,DriedUpMondPond,98
 2021_09_TEN_LA,dylanm1002,100
 2021_09_TEN_LA,Dynasty1438,50
 2021_09_TEN_LA,dynastyforever1,65
@@ -53893,7 +53894,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,Shauncore,80
 2021_09_TEN_LA,simtt28,50
 2021_09_TEN_LA,Skogre,58
-2021_09_TEN_LA,skoltrain87,98
 2021_09_TEN_LA,Slavin22,80
 2021_09_TEN_LA,SmelliDrelli,63
 2021_09_TEN_LA,SonOfSunTzu,74
@@ -54052,6 +54052,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,DougCoulters,75
 2021_09_CHI_PIT,DraftAndDevEcon,68
 2021_09_CHI_PIT,DrewDeJ_,68
+2021_09_CHI_PIT,DriedUpMondPond,67
 2021_09_CHI_PIT,dylanm1002,100
 2021_09_CHI_PIT,Dynasty1438,50
 2021_09_CHI_PIT,dynastyforever1,64
@@ -54231,7 +54232,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,Shauncore,75
 2021_09_CHI_PIT,simtt28,50
 2021_09_CHI_PIT,Skogre,57
-2021_09_CHI_PIT,skoltrain87,67
 2021_09_CHI_PIT,Slavin22,65
 2021_09_CHI_PIT,SmelliDrelli,71
 2021_09_CHI_PIT,SonOfSunTzu,84
@@ -54373,6 +54373,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,DG_Goldssb,2
 2021_10_BAL_MIA,djgoldman1,20
 2021_10_BAL_MIA,DNebenfhr,50
+2021_10_BAL_MIA,DriedUpMondPond,2
 2021_10_BAL_MIA,dylanm1002,0
 2021_10_BAL_MIA,Dynasty1438,50
 2021_10_BAL_MIA,e6djdjsmam,35
@@ -54520,7 +54521,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,ShannonHouser12,30
 2021_10_BAL_MIA,Shauncore,15
 2021_10_BAL_MIA,Simonator891,40
-2021_10_BAL_MIA,skoltrain87,2
 2021_10_BAL_MIA,Slavin22,10
 2021_10_BAL_MIA,SmelliDrelli,24
 2021_10_BAL_MIA,SonOfSunTzu,9
@@ -54664,6 +54664,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,djgoldman1,77
 2021_10_ATL_DAL,DNebenfhr,81
 2021_10_ATL_DAL,DraftAndDevEcon,75
+2021_10_ATL_DAL,DriedUpMondPond,98
 2021_10_ATL_DAL,dudeitsme30,83
 2021_10_ATL_DAL,dylanm1002,82
 2021_10_ATL_DAL,Dynasty1438,100
@@ -54827,7 +54828,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,ShannonHouser12,71
 2021_10_ATL_DAL,Shauncore,77
 2021_10_ATL_DAL,Simonator891,100
-2021_10_ATL_DAL,skoltrain87,98
 2021_10_ATL_DAL,Slavin22,80
 2021_10_ATL_DAL,SmelliDrelli,75
 2021_10_ATL_DAL,SonOfSunTzu,59
@@ -54973,6 +54973,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,djgoldman1,79
 2021_10_JAX_IND,DNebenfhr,79
 2021_10_JAX_IND,DraftAndDevEcon,77
+2021_10_JAX_IND,DriedUpMondPond,98
 2021_10_JAX_IND,dudeitsme30,88
 2021_10_JAX_IND,dylanm1002,100
 2021_10_JAX_IND,Dynasty1438,100
@@ -55136,7 +55137,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,ShannonHouser12,59
 2021_10_JAX_IND,Shauncore,85
 2021_10_JAX_IND,Simonator891,100
-2021_10_JAX_IND,skoltrain87,98
 2021_10_JAX_IND,Slavin22,85
 2021_10_JAX_IND,SmelliDrelli,74
 2021_10_JAX_IND,SonOfSunTzu,74
@@ -55282,6 +55282,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,djgoldman1,50
 2021_10_CLE_NE,DNebenfhr,44
 2021_10_CLE_NE,DraftAndDevEcon,49
+2021_10_CLE_NE,DriedUpMondPond,39
 2021_10_CLE_NE,dudeitsme30,60
 2021_10_CLE_NE,dylanm1002,53
 2021_10_CLE_NE,Dynasty1438,50
@@ -55445,7 +55446,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,ShannonHouser12,40
 2021_10_CLE_NE,Shauncore,47
 2021_10_CLE_NE,Simonator891,0
-2021_10_CLE_NE,skoltrain87,39
 2021_10_CLE_NE,Slavin22,40
 2021_10_CLE_NE,SmelliDrelli,38
 2021_10_CLE_NE,SonOfSunTzu,46
@@ -55591,6 +55591,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,djgoldman1,7
 2021_10_BUF_NYJ,DNebenfhr,20
 2021_10_BUF_NYJ,DraftAndDevEcon,17
+2021_10_BUF_NYJ,DriedUpMondPond,2
 2021_10_BUF_NYJ,dudeitsme30,15
 2021_10_BUF_NYJ,dylanm1002,14
 2021_10_BUF_NYJ,Dynasty1438,0
@@ -55754,7 +55755,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,ShannonHouser12,25
 2021_10_BUF_NYJ,Shauncore,16
 2021_10_BUF_NYJ,Simonator891,0
-2021_10_BUF_NYJ,skoltrain87,2
 2021_10_BUF_NYJ,Slavin22,5
 2021_10_BUF_NYJ,SmelliDrelli,18
 2021_10_BUF_NYJ,SonOfSunTzu,4
@@ -55900,6 +55900,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,djgoldman1,78
 2021_10_DET_PIT,DNebenfhr,62
 2021_10_DET_PIT,DraftAndDevEcon,77
+2021_10_DET_PIT,DriedUpMondPond,98
 2021_10_DET_PIT,dudeitsme30,100
 2021_10_DET_PIT,dylanm1002,75
 2021_10_DET_PIT,Dynasty1438,73
@@ -56063,7 +56064,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,ShannonHouser12,62
 2021_10_DET_PIT,Shauncore,70
 2021_10_DET_PIT,Simonator891,100
-2021_10_DET_PIT,skoltrain87,98
 2021_10_DET_PIT,Slavin22,85
 2021_10_DET_PIT,SmelliDrelli,70
 2021_10_DET_PIT,SonOfSunTzu,99
@@ -56209,6 +56209,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,djgoldman1,67
 2021_10_NO_TEN,DNebenfhr,60
 2021_10_NO_TEN,DraftAndDevEcon,60
+2021_10_NO_TEN,DriedUpMondPond,66
 2021_10_NO_TEN,dudeitsme30,62
 2021_10_NO_TEN,dylanm1002,61
 2021_10_NO_TEN,Dynasty1438,100
@@ -56372,7 +56373,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,ShannonHouser12,68
 2021_10_NO_TEN,Shauncore,45
 2021_10_NO_TEN,Simonator891,100
-2021_10_NO_TEN,skoltrain87,66
 2021_10_NO_TEN,Slavin22,70
 2021_10_NO_TEN,SmelliDrelli,65
 2021_10_NO_TEN,SonOfSunTzu,63
@@ -56518,6 +56518,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,djgoldman1,11
 2021_10_TB_WAS,DNebenfhr,18
 2021_10_TB_WAS,DraftAndDevEcon,22
+2021_10_TB_WAS,DriedUpMondPond,2
 2021_10_TB_WAS,dudeitsme30,0
 2021_10_TB_WAS,dylanm1002,15
 2021_10_TB_WAS,Dynasty1438,0
@@ -56681,7 +56682,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,ShannonHouser12,29
 2021_10_TB_WAS,Shauncore,19
 2021_10_TB_WAS,Simonator891,0
-2021_10_TB_WAS,skoltrain87,2
 2021_10_TB_WAS,Slavin22,10
 2021_10_TB_WAS,SmelliDrelli,25
 2021_10_TB_WAS,SonOfSunTzu,24
@@ -56827,6 +56827,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,djgoldman1,84
 2021_10_CAR_ARI,DNebenfhr,70
 2021_10_CAR_ARI,DraftAndDevEcon,82
+2021_10_CAR_ARI,DriedUpMondPond,98
 2021_10_CAR_ARI,dudeitsme30,50
 2021_10_CAR_ARI,dylanm1002,100
 2021_10_CAR_ARI,Dynasty1438,100
@@ -56990,7 +56991,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,ShannonHouser12,70
 2021_10_CAR_ARI,Shauncore,70
 2021_10_CAR_ARI,Simonator891,100
-2021_10_CAR_ARI,skoltrain87,98
 2021_10_CAR_ARI,Slavin22,85
 2021_10_CAR_ARI,SmelliDrelli,69
 2021_10_CAR_ARI,SonOfSunTzu,65
@@ -57136,6 +57136,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,djgoldman1,61
 2021_10_MIN_LAC,DNebenfhr,61
 2021_10_MIN_LAC,DraftAndDevEcon,58
+2021_10_MIN_LAC,DriedUpMondPond,50
 2021_10_MIN_LAC,dudeitsme30,66
 2021_10_MIN_LAC,dylanm1002,60
 2021_10_MIN_LAC,Dynasty1438,34
@@ -57299,7 +57300,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,ShannonHouser12,71
 2021_10_MIN_LAC,Shauncore,65
 2021_10_MIN_LAC,Simonator891,0
-2021_10_MIN_LAC,skoltrain87,50
 2021_10_MIN_LAC,Slavin22,65
 2021_10_MIN_LAC,SmelliDrelli,61
 2021_10_MIN_LAC,SonOfSunTzu,63
@@ -57445,6 +57445,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,djgoldman1,56
 2021_10_PHI_DEN,DNebenfhr,57
 2021_10_PHI_DEN,DraftAndDevEcon,59
+2021_10_PHI_DEN,DriedUpMondPond,63
 2021_10_PHI_DEN,dudeitsme30,66
 2021_10_PHI_DEN,dylanm1002,58
 2021_10_PHI_DEN,Dynasty1438,32
@@ -57608,7 +57609,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,ShannonHouser12,37
 2021_10_PHI_DEN,Shauncore,62
 2021_10_PHI_DEN,Simonator891,0
-2021_10_PHI_DEN,skoltrain87,63
 2021_10_PHI_DEN,Slavin22,45
 2021_10_PHI_DEN,SmelliDrelli,47
 2021_10_PHI_DEN,SonOfSunTzu,64
@@ -57754,6 +57754,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,djgoldman1,56
 2021_10_SEA_GB,DNebenfhr,63
 2021_10_SEA_GB,DraftAndDevEcon,59
+2021_10_SEA_GB,DriedUpMondPond,41
 2021_10_SEA_GB,dudeitsme30,98
 2021_10_SEA_GB,dylanm1002,64
 2021_10_SEA_GB,Dynasty1438,67
@@ -57917,7 +57918,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,ShannonHouser12,45
 2021_10_SEA_GB,Shauncore,63
 2021_10_SEA_GB,Simonator891,100
-2021_10_SEA_GB,skoltrain87,41
 2021_10_SEA_GB,Slavin22,35
 2021_10_SEA_GB,SmelliDrelli,59
 2021_10_SEA_GB,SonOfSunTzu,50
@@ -58064,6 +58064,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,DNebenfhr,35
 2021_10_KC_LV,DougCoulters,81
 2021_10_KC_LV,DraftAndDevEcon,41
+2021_10_KC_LV,DriedUpMondPond,2
 2021_10_KC_LV,dudeitsme30,42
 2021_10_KC_LV,dylanm1002,44
 2021_10_KC_LV,Dynasty1438,64
@@ -58228,7 +58229,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,ShannonHouser12,30
 2021_10_KC_LV,Shauncore,54
 2021_10_KC_LV,Simonator891,0
-2021_10_KC_LV,skoltrain87,2
 2021_10_KC_LV,Slavin22,30
 2021_10_KC_LV,SmelliDrelli,58
 2021_10_KC_LV,SonOfSunTzu,45
@@ -58376,6 +58376,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,DNebenfhr,33
 2021_10_LA_SF,DougCoulters,0
 2021_10_LA_SF,DraftAndDevEcon,40
+2021_10_LA_SF,DriedUpMondPond,2
 2021_10_LA_SF,dudeitsme30,11
 2021_10_LA_SF,dylanm1002,38
 2021_10_LA_SF,Dynasty1438,18
@@ -58545,7 +58546,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,ShannonHouser12,20
 2021_10_LA_SF,Shauncore,30
 2021_10_LA_SF,Simonator891,0
-2021_10_LA_SF,skoltrain87,2
 2021_10_LA_SF,Slavin22,25
 2021_10_LA_SF,SmelliDrelli,33
 2021_10_LA_SF,SonOfSunTzu,29
@@ -58681,6 +58681,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,DNebenfhr,24
 2021_11_NE_ATL,DougCoulters,0
 2021_11_NE_ATL,DraftAndDevEcon,50
+2021_11_NE_ATL,DriedUpMondPond,2
 2021_11_NE_ATL,Dynasty1438,50
 2021_11_NE_ATL,dynastyforever1,39
 2021_11_NE_ATL,e6djdjsmam,25
@@ -58829,7 +58830,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,ShannonHouser12,30
 2021_11_NE_ATL,Shauncore,19
 2021_11_NE_ATL,Simonator891,2
-2021_11_NE_ATL,skoltrain87,2
 2021_11_NE_ATL,Slavin22,15
 2021_11_NE_ATL,SmelliDrelli,50
 2021_11_NE_ATL,SonOfSunTzu,50
@@ -58954,6 +58954,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,DNebenfhr,75
 2021_11_IND_BUF,DougCoulters,79
 2021_11_IND_BUF,DraftAndDevEcon,71
+2021_11_IND_BUF,DriedUpMondPond,98
 2021_11_IND_BUF,Dynasty1438,50
 2021_11_IND_BUF,dynastyforever1,50
 2021_11_IND_BUF,e6djdjsmam,60
@@ -59111,7 +59112,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,ShannonHouser12,71
 2021_11_IND_BUF,Shauncore,78
 2021_11_IND_BUF,Simonator891,98
-2021_11_IND_BUF,skoltrain87,98
 2021_11_IND_BUF,Slavin22,90
 2021_11_IND_BUF,SmelliDrelli,76
 2021_11_IND_BUF,SonOfSunTzu,82
@@ -59237,6 +59237,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,DNebenfhr,65
 2021_11_WAS_CAR,DougCoulters,38
 2021_11_WAS_CAR,DraftAndDevEcon,58
+2021_11_WAS_CAR,DriedUpMondPond,40
 2021_11_WAS_CAR,Dynasty1438,50
 2021_11_WAS_CAR,dynastyforever1,50
 2021_11_WAS_CAR,e6djdjsmam,46
@@ -59394,7 +59395,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,ShannonHouser12,55
 2021_11_WAS_CAR,Shauncore,58
 2021_11_WAS_CAR,Simonator891,98
-2021_11_WAS_CAR,skoltrain87,40
 2021_11_WAS_CAR,Slavin22,65
 2021_11_WAS_CAR,SmelliDrelli,63
 2021_11_WAS_CAR,SonOfSunTzu,46
@@ -59521,6 +59521,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,DNebenfhr,35
 2021_11_BAL_CHI,DougCoulters,36
 2021_11_BAL_CHI,DraftAndDevEcon,43
+2021_11_BAL_CHI,DriedUpMondPond,41
 2021_11_BAL_CHI,Dynasty1438,50
 2021_11_BAL_CHI,dynastyforever1,25
 2021_11_BAL_CHI,e6djdjsmam,50
@@ -59678,7 +59679,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,ShannonHouser12,25
 2021_11_BAL_CHI,Shauncore,50
 2021_11_BAL_CHI,Simonator891,2
-2021_11_BAL_CHI,skoltrain87,41
 2021_11_BAL_CHI,Slavin22,20
 2021_11_BAL_CHI,SmelliDrelli,60
 2021_11_BAL_CHI,SonOfSunTzu,17
@@ -59805,6 +59805,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,DNebenfhr,80
 2021_11_DET_CLE,DougCoulters,45
 2021_11_DET_CLE,DraftAndDevEcon,85
+2021_11_DET_CLE,DriedUpMondPond,98
 2021_11_DET_CLE,Dynasty1438,50
 2021_11_DET_CLE,dynastyforever1,60
 2021_11_DET_CLE,e6djdjsmam,100
@@ -59962,7 +59963,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,ShannonHouser12,71
 2021_11_DET_CLE,Shauncore,78
 2021_11_DET_CLE,Simonator891,98
-2021_11_DET_CLE,skoltrain87,98
 2021_11_DET_CLE,Slavin22,85
 2021_11_DET_CLE,SmelliDrelli,81
 2021_11_DET_CLE,SonOfSunTzu,68
@@ -60088,6 +60088,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,DNebenfhr,25
 2021_11_SF_JAX,DougCoulters,34
 2021_11_SF_JAX,DraftAndDevEcon,28
+2021_11_SF_JAX,DriedUpMondPond,2
 2021_11_SF_JAX,Dynasty1438,50
 2021_11_SF_JAX,dynastyforever1,40
 2021_11_SF_JAX,e6djdjsmam,33
@@ -60245,7 +60246,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,ShannonHouser12,38
 2021_11_SF_JAX,Shauncore,25
 2021_11_SF_JAX,Simonator891,2
-2021_11_SF_JAX,skoltrain87,2
 2021_11_SF_JAX,Slavin22,15
 2021_11_SF_JAX,SmelliDrelli,35
 2021_11_SF_JAX,SonOfSunTzu,40
@@ -60371,6 +60371,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,DNebenfhr,50
 2021_11_GB_MIN,DougCoulters,26
 2021_11_GB_MIN,DraftAndDevEcon,40
+2021_11_GB_MIN,DriedUpMondPond,50
 2021_11_GB_MIN,Dynasty1438,50
 2021_11_GB_MIN,dynastyforever1,50
 2021_11_GB_MIN,e6djdjsmam,52
@@ -60528,7 +60529,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,ShannonHouser12,35
 2021_11_GB_MIN,Shauncore,40
 2021_11_GB_MIN,Simonator891,98
-2021_11_GB_MIN,skoltrain87,50
 2021_11_GB_MIN,Slavin22,40
 2021_11_GB_MIN,SmelliDrelli,44
 2021_11_GB_MIN,SonOfSunTzu,24
@@ -60654,6 +60654,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,DNebenfhr,30
 2021_11_MIA_NYJ,DougCoulters,26
 2021_11_MIA_NYJ,DraftAndDevEcon,38
+2021_11_MIA_NYJ,DriedUpMondPond,41
 2021_11_MIA_NYJ,Dynasty1438,50
 2021_11_MIA_NYJ,dynastyforever1,50
 2021_11_MIA_NYJ,e6djdjsmam,46
@@ -60811,7 +60812,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,ShannonHouser12,55
 2021_11_MIA_NYJ,Shauncore,54
 2021_11_MIA_NYJ,Simonator891,2
-2021_11_MIA_NYJ,skoltrain87,41
 2021_11_MIA_NYJ,Slavin22,25
 2021_11_MIA_NYJ,SmelliDrelli,39
 2021_11_MIA_NYJ,SonOfSunTzu,54
@@ -60938,6 +60938,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,DNebenfhr,42
 2021_11_NO_PHI,DougCoulters,24
 2021_11_NO_PHI,DraftAndDevEcon,52
+2021_11_NO_PHI,DriedUpMondPond,55
 2021_11_NO_PHI,Dynasty1438,50
 2021_11_NO_PHI,dynastyforever1,50
 2021_11_NO_PHI,e6djdjsmam,45
@@ -61095,7 +61096,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,ShannonHouser12,55
 2021_11_NO_PHI,Shauncore,43
 2021_11_NO_PHI,Simonator891,2
-2021_11_NO_PHI,skoltrain87,55
 2021_11_NO_PHI,Slavin22,60
 2021_11_NO_PHI,SmelliDrelli,45
 2021_11_NO_PHI,SonOfSunTzu,59
@@ -61222,6 +61222,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,DNebenfhr,80
 2021_11_HOU_TEN,DougCoulters,100
 2021_11_HOU_TEN,DraftAndDevEcon,82
+2021_11_HOU_TEN,DriedUpMondPond,98
 2021_11_HOU_TEN,Dynasty1438,50
 2021_11_HOU_TEN,dynastyforever1,79
 2021_11_HOU_TEN,e6djdjsmam,80
@@ -61379,7 +61380,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,ShannonHouser12,90
 2021_11_HOU_TEN,Shauncore,85
 2021_11_HOU_TEN,Simonator891,98
-2021_11_HOU_TEN,skoltrain87,98
 2021_11_HOU_TEN,Slavin22,95
 2021_11_HOU_TEN,SmelliDrelli,67
 2021_11_HOU_TEN,SonOfSunTzu,91
@@ -61506,6 +61506,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,DNebenfhr,40
 2021_11_CIN_LV,DougCoulters,72
 2021_11_CIN_LV,DraftAndDevEcon,49
+2021_11_CIN_LV,DriedUpMondPond,36
 2021_11_CIN_LV,Dynasty1438,50
 2021_11_CIN_LV,dynastyforever1,50
 2021_11_CIN_LV,e6djdjsmam,60
@@ -61663,7 +61664,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,ShannonHouser12,45
 2021_11_CIN_LV,Shauncore,57
 2021_11_CIN_LV,Simonator891,2
-2021_11_CIN_LV,skoltrain87,36
 2021_11_CIN_LV,Slavin22,60
 2021_11_CIN_LV,SmelliDrelli,41
 2021_11_CIN_LV,SonOfSunTzu,58
@@ -61790,6 +61790,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,DNebenfhr,57
 2021_11_DAL_KC,DougCoulters,37
 2021_11_DAL_KC,DraftAndDevEcon,56
+2021_11_DAL_KC,DriedUpMondPond,2
 2021_11_DAL_KC,Dynasty1438,50
 2021_11_DAL_KC,dynastyforever1,50
 2021_11_DAL_KC,e6djdjsmam,45
@@ -61947,7 +61948,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,ShannonHouser12,45
 2021_11_DAL_KC,Shauncore,44
 2021_11_DAL_KC,Simonator891,2
-2021_11_DAL_KC,skoltrain87,2
 2021_11_DAL_KC,Slavin22,65
 2021_11_DAL_KC,SmelliDrelli,61
 2021_11_DAL_KC,SonOfSunTzu,43
@@ -62074,6 +62074,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,DNebenfhr,59
 2021_11_ARI_SEA,DougCoulters,73
 2021_11_ARI_SEA,DraftAndDevEcon,47
+2021_11_ARI_SEA,DriedUpMondPond,47
 2021_11_ARI_SEA,Dynasty1438,50
 2021_11_ARI_SEA,dynastyforever1,50
 2021_11_ARI_SEA,e6djdjsmam,45
@@ -62231,7 +62232,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,ShannonHouser12,56
 2021_11_ARI_SEA,Shauncore,55
 2021_11_ARI_SEA,Simonator891,50
-2021_11_ARI_SEA,skoltrain87,47
 2021_11_ARI_SEA,Slavin22,60
 2021_11_ARI_SEA,SmelliDrelli,57
 2021_11_ARI_SEA,SonOfSunTzu,50
@@ -62359,6 +62359,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,DNebenfhr,63
 2021_11_PIT_LAC,DougCoulters,100
 2021_11_PIT_LAC,DraftAndDevEcon,62
+2021_11_PIT_LAC,DriedUpMondPond,98
 2021_11_PIT_LAC,Dynasty1438,50
 2021_11_PIT_LAC,dynastyforever1,62
 2021_11_PIT_LAC,e6djdjsmam,69
@@ -62517,7 +62518,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,ShannonHouser12,93
 2021_11_PIT_LAC,Shauncore,70
 2021_11_PIT_LAC,Simonator891,98
-2021_11_PIT_LAC,skoltrain87,98
 2021_11_PIT_LAC,Slavin22,85
 2021_11_PIT_LAC,SmelliDrelli,67
 2021_11_PIT_LAC,SonOfSunTzu,74
@@ -62646,6 +62646,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,DNebenfhr,80
 2021_11_NYG_TB,DougCoulters,100
 2021_11_NYG_TB,DraftAndDevEcon,81
+2021_11_NYG_TB,DriedUpMondPond,98
 2021_11_NYG_TB,Dynasty1438,100
 2021_11_NYG_TB,dynastyforever1,69
 2021_11_NYG_TB,e6djdjsmam,72
@@ -62804,7 +62805,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,ShannonHouser12,45
 2021_11_NYG_TB,Shauncore,79
 2021_11_NYG_TB,Simonator891,98
-2021_11_NYG_TB,skoltrain87,98
 2021_11_NYG_TB,Slavin22,95
 2021_11_NYG_TB,SmelliDrelli,75
 2021_11_NYG_TB,SonOfSunTzu,86
@@ -62922,6 +62922,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,devnavani,50
 2021_12_CHI_DET,DNebenfhr,55
 2021_12_CHI_DET,DraftAndDevEcon,35
+2021_12_CHI_DET,DriedUpMondPond,64
 2021_12_CHI_DET,Dynasty1438,73
 2021_12_CHI_DET,dynastyforever1,50
 2021_12_CHI_DET,e6djdjsmam,53
@@ -63045,7 +63046,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,ShannonHouser12,36
 2021_12_CHI_DET,Shauncore,37
 2021_12_CHI_DET,Simonator891,50
-2021_12_CHI_DET,skoltrain87,64
 2021_12_CHI_DET,Slavin22,20
 2021_12_CHI_DET,SmelliDrelli,54
 2021_12_CHI_DET,SonOfSunTzu,42
@@ -63163,6 +63163,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,devnavani,72
 2021_12_LV_DAL,DNebenfhr,70
 2021_12_LV_DAL,DraftAndDevEcon,72
+2021_12_LV_DAL,DriedUpMondPond,42
 2021_12_LV_DAL,Dynasty1438,69
 2021_12_LV_DAL,dynastyforever1,50
 2021_12_LV_DAL,e6djdjsmam,61
@@ -63289,7 +63290,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,ShannonHouser12,66
 2021_12_LV_DAL,Shauncore,72
 2021_12_LV_DAL,Simonator891,100
-2021_12_LV_DAL,skoltrain87,42
 2021_12_LV_DAL,Slavin22,80
 2021_12_LV_DAL,SmelliDrelli,74
 2021_12_LV_DAL,SonOfSunTzu,78
@@ -63407,6 +63407,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,devnavani,32
 2021_12_BUF_NO,DNebenfhr,32
 2021_12_BUF_NO,DraftAndDevEcon,35
+2021_12_BUF_NO,DriedUpMondPond,2
 2021_12_BUF_NO,Dynasty1438,75
 2021_12_BUF_NO,dynastyforever1,50
 2021_12_BUF_NO,e6djdjsmam,32
@@ -63533,7 +63534,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,ShannonHouser12,37
 2021_12_BUF_NO,Shauncore,31
 2021_12_BUF_NO,Simonator891,50
-2021_12_BUF_NO,skoltrain87,2
 2021_12_BUF_NO,Slavin22,15
 2021_12_BUF_NO,SmelliDrelli,27
 2021_12_BUF_NO,SonOfSunTzu,26
@@ -63657,6 +63657,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,DNebenfhr,50
 2021_12_PIT_CIN,DougCoulters,29
 2021_12_PIT_CIN,DraftAndDevEcon,59
+2021_12_PIT_CIN,DriedUpMondPond,64
 2021_12_PIT_CIN,Dynasty1438,29
 2021_12_PIT_CIN,dynastyforever1,50
 2021_12_PIT_CIN,e6djdjsmam,60
@@ -63792,7 +63793,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,ShannonHouser12,61
 2021_12_PIT_CIN,Shauncore,59
 2021_12_PIT_CIN,Simonator891,50
-2021_12_PIT_CIN,skoltrain87,64
 2021_12_PIT_CIN,Slavin22,70
 2021_12_PIT_CIN,SmelliDrelli,60
 2021_12_PIT_CIN,SonOfSunTzu,52
@@ -63918,6 +63918,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,DNebenfhr,50
 2021_12_NYJ_HOU,DougCoulters,100
 2021_12_NYJ_HOU,DraftAndDevEcon,56
+2021_12_NYJ_HOU,DriedUpMondPond,56
 2021_12_NYJ_HOU,Dynasty1438,34
 2021_12_NYJ_HOU,dynastyforever1,50
 2021_12_NYJ_HOU,e6djdjsmam,54
@@ -64053,7 +64054,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,ShannonHouser12,60
 2021_12_NYJ_HOU,Shauncore,45
 2021_12_NYJ_HOU,Simonator891,50
-2021_12_NYJ_HOU,skoltrain87,56
 2021_12_NYJ_HOU,Slavin22,75
 2021_12_NYJ_HOU,SmelliDrelli,57
 2021_12_NYJ_HOU,SonOfSunTzu,68
@@ -64179,6 +64179,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,DNebenfhr,50
 2021_12_TB_IND,DougCoulters,24
 2021_12_TB_IND,DraftAndDevEcon,39
+2021_12_TB_IND,DriedUpMondPond,2
 2021_12_TB_IND,Dynasty1438,32
 2021_12_TB_IND,dynastyforever1,50
 2021_12_TB_IND,e6djdjsmam,55
@@ -64314,7 +64315,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,ShannonHouser12,35
 2021_12_TB_IND,Shauncore,45
 2021_12_TB_IND,Simonator891,50
-2021_12_TB_IND,skoltrain87,2
 2021_12_TB_IND,Slavin22,20
 2021_12_TB_IND,SmelliDrelli,41
 2021_12_TB_IND,SonOfSunTzu,24
@@ -64440,6 +64440,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,DNebenfhr,50
 2021_12_ATL_JAX,DougCoulters,75
 2021_12_ATL_JAX,DraftAndDevEcon,48
+2021_12_ATL_JAX,DriedUpMondPond,43
 2021_12_ATL_JAX,Dynasty1438,63
 2021_12_ATL_JAX,dynastyforever1,50
 2021_12_ATL_JAX,e6djdjsmam,49
@@ -64575,7 +64576,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,ShannonHouser12,66
 2021_12_ATL_JAX,Shauncore,55
 2021_12_ATL_JAX,Simonator891,50
-2021_12_ATL_JAX,skoltrain87,43
 2021_12_ATL_JAX,Slavin22,35
 2021_12_ATL_JAX,SmelliDrelli,58
 2021_12_ATL_JAX,SonOfSunTzu,52
@@ -64701,6 +64701,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,DNebenfhr,50
 2021_12_CAR_MIA,DougCoulters,39
 2021_12_CAR_MIA,DraftAndDevEcon,46
+2021_12_CAR_MIA,DriedUpMondPond,56
 2021_12_CAR_MIA,Dynasty1438,31
 2021_12_CAR_MIA,dynastyforever1,50
 2021_12_CAR_MIA,e6djdjsmam,46
@@ -64836,7 +64837,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,ShannonHouser12,34
 2021_12_CAR_MIA,Shauncore,55
 2021_12_CAR_MIA,Simonator891,50
-2021_12_CAR_MIA,skoltrain87,56
 2021_12_CAR_MIA,Slavin22,35
 2021_12_CAR_MIA,SmelliDrelli,34
 2021_12_CAR_MIA,SonOfSunTzu,30
@@ -64962,6 +64962,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,DNebenfhr,50
 2021_12_TEN_NE,DougCoulters,70
 2021_12_TEN_NE,DraftAndDevEcon,68
+2021_12_TEN_NE,DriedUpMondPond,73
 2021_12_TEN_NE,Dynasty1438,93
 2021_12_TEN_NE,dynastyforever1,50
 2021_12_TEN_NE,e6djdjsmam,60
@@ -65097,7 +65098,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,ShannonHouser12,68
 2021_12_TEN_NE,Shauncore,67
 2021_12_TEN_NE,Simonator891,50
-2021_12_TEN_NE,skoltrain87,73
 2021_12_TEN_NE,Slavin22,75
 2021_12_TEN_NE,SmelliDrelli,68
 2021_12_TEN_NE,SonOfSunTzu,83
@@ -65223,6 +65223,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,DNebenfhr,50
 2021_12_PHI_NYG,DougCoulters,44
 2021_12_PHI_NYG,DraftAndDevEcon,37
+2021_12_PHI_NYG,DriedUpMondPond,28
 2021_12_PHI_NYG,Dynasty1438,0
 2021_12_PHI_NYG,dynastyforever1,42
 2021_12_PHI_NYG,e6djdjsmam,40
@@ -65358,7 +65359,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,ShannonHouser12,31
 2021_12_PHI_NYG,Shauncore,35
 2021_12_PHI_NYG,Simonator891,50
-2021_12_PHI_NYG,skoltrain87,28
 2021_12_PHI_NYG,Slavin22,10
 2021_12_PHI_NYG,SmelliDrelli,39
 2021_12_PHI_NYG,SonOfSunTzu,27
@@ -65484,6 +65484,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,DNebenfhr,36
 2021_12_LAC_DEN,DougCoulters,0
 2021_12_LAC_DEN,DraftAndDevEcon,43
+2021_12_LAC_DEN,DriedUpMondPond,1
 2021_12_LAC_DEN,Dynasty1438,33
 2021_12_LAC_DEN,dynastyforever1,50
 2021_12_LAC_DEN,e6djdjsmam,36
@@ -65619,7 +65620,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,ShannonHouser12,36
 2021_12_LAC_DEN,Shauncore,40
 2021_12_LAC_DEN,Simonator891,0
-2021_12_LAC_DEN,skoltrain87,1
 2021_12_LAC_DEN,Slavin22,25
 2021_12_LAC_DEN,SmelliDrelli,34
 2021_12_LAC_DEN,SonOfSunTzu,44
@@ -65745,6 +65745,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,DNebenfhr,57
 2021_12_LA_GB,DougCoulters,39
 2021_12_LA_GB,DraftAndDevEcon,50
+2021_12_LA_GB,DriedUpMondPond,37
 2021_12_LA_GB,Dynasty1438,25
 2021_12_LA_GB,dynastyforever1,50
 2021_12_LA_GB,e6djdjsmam,54
@@ -65880,7 +65881,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,ShannonHouser12,37
 2021_12_LA_GB,Shauncore,53
 2021_12_LA_GB,Simonator891,50
-2021_12_LA_GB,skoltrain87,37
 2021_12_LA_GB,Slavin22,35
 2021_12_LA_GB,SmelliDrelli,60
 2021_12_LA_GB,SonOfSunTzu,51
@@ -66006,6 +66006,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,DNebenfhr,44
 2021_12_MIN_SF,DougCoulters,16
 2021_12_MIN_SF,DraftAndDevEcon,61
+2021_12_MIN_SF,DriedUpMondPond,43
 2021_12_MIN_SF,Dynasty1438,69
 2021_12_MIN_SF,dynastyforever1,50
 2021_12_MIN_SF,e6djdjsmam,45
@@ -66141,7 +66142,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,ShannonHouser12,37
 2021_12_MIN_SF,Shauncore,65
 2021_12_MIN_SF,Simonator891,50
-2021_12_MIN_SF,skoltrain87,43
 2021_12_MIN_SF,Slavin22,40
 2021_12_MIN_SF,SmelliDrelli,43
 2021_12_MIN_SF,SonOfSunTzu,46
@@ -66267,6 +66267,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,DNebenfhr,50
 2021_12_CLE_BAL,DougCoulters,100
 2021_12_CLE_BAL,DraftAndDevEcon,59
+2021_12_CLE_BAL,DriedUpMondPond,64
 2021_12_CLE_BAL,Dynasty1438,65
 2021_12_CLE_BAL,dynastyforever1,50
 2021_12_CLE_BAL,e6djdjsmam,48
@@ -66402,7 +66403,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,ShannonHouser12,64
 2021_12_CLE_BAL,Shauncore,57
 2021_12_CLE_BAL,Simonator891,50
-2021_12_CLE_BAL,skoltrain87,64
 2021_12_CLE_BAL,Slavin22,75
 2021_12_CLE_BAL,SmelliDrelli,62
 2021_12_CLE_BAL,SonOfSunTzu,74
@@ -66528,6 +66528,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,DNebenfhr,42
 2021_12_SEA_WAS,DougCoulters,0
 2021_12_SEA_WAS,DraftAndDevEcon,51
+2021_12_SEA_WAS,DriedUpMondPond,59
 2021_12_SEA_WAS,Dynasty1438,64
 2021_12_SEA_WAS,dynastyforever1,50
 2021_12_SEA_WAS,e6djdjsmam,55
@@ -66666,7 +66667,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,ShannonHouser12,43
 2021_12_SEA_WAS,Shauncore,47
 2021_12_SEA_WAS,Simonator891,50
-2021_12_SEA_WAS,skoltrain87,59
 2021_12_SEA_WAS,Slavin22,30
 2021_12_SEA_WAS,SmelliDrelli,44
 2021_12_SEA_WAS,SonOfSunTzu,49
@@ -66782,6 +66782,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,DNebenfhr,25
 2021_13_DAL_NO,DougCoulters,0
 2021_13_DAL_NO,DraftAndDevEcon,35
+2021_13_DAL_NO,DriedUpMondPond,2
 2021_13_DAL_NO,Dynasty1438,27
 2021_13_DAL_NO,dynastyforever1,50
 2021_13_DAL_NO,e6djdjsmam,30
@@ -66902,7 +66903,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,ShannonHouser12,28
 2021_13_DAL_NO,Shauncore,32
 2021_13_DAL_NO,Simonator891,50
-2021_13_DAL_NO,skoltrain87,2
 2021_13_DAL_NO,Slavin22,50
 2021_13_DAL_NO,SmelliDrelli,50
 2021_13_DAL_NO,SonOfSunTzu,20
@@ -67020,6 +67020,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,DougCoulters,0
 2021_13_TB_ATL,DraftAndDevEcon,17
 2021_13_TB_ATL,DRatings,26
+2021_13_TB_ATL,DriedUpMondPond,2
 2021_13_TB_ATL,Dynasty1438,50
 2021_13_TB_ATL,dynastyforever1,50
 2021_13_TB_ATL,e6djdjsmam,15
@@ -67148,7 +67149,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,ShannonHouser12,25
 2021_13_TB_ATL,Shauncore,18
 2021_13_TB_ATL,Simonator891,50
-2021_13_TB_ATL,skoltrain87,2
 2021_13_TB_ATL,Slavin22,5
 2021_13_TB_ATL,SmelliDrelli,8
 2021_13_TB_ATL,SonOfSunTzu,9
@@ -67269,6 +67269,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,DougCoulters,0
 2021_13_ARI_CHI,DraftAndDevEcon,29
 2021_13_ARI_CHI,DRatings,27
+2021_13_ARI_CHI,DriedUpMondPond,2
 2021_13_ARI_CHI,Dynasty1438,50
 2021_13_ARI_CHI,dynastyforever1,50
 2021_13_ARI_CHI,e6djdjsmam,24
@@ -67397,7 +67398,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,ShannonHouser12,21
 2021_13_ARI_CHI,Shauncore,22
 2021_13_ARI_CHI,Simonator891,50
-2021_13_ARI_CHI,skoltrain87,2
 2021_13_ARI_CHI,Slavin22,5
 2021_13_ARI_CHI,SmelliDrelli,15
 2021_13_ARI_CHI,SonOfSunTzu,49
@@ -67518,6 +67518,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,DougCoulters,38
 2021_13_LAC_CIN,DraftAndDevEcon,59
 2021_13_LAC_CIN,DRatings,56
+2021_13_LAC_CIN,DriedUpMondPond,35
 2021_13_LAC_CIN,Dynasty1438,50
 2021_13_LAC_CIN,dynastyforever1,50
 2021_13_LAC_CIN,e6djdjsmam,56
@@ -67646,7 +67647,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,ShannonHouser12,56
 2021_13_LAC_CIN,Shauncore,45
 2021_13_LAC_CIN,Simonator891,50
-2021_13_LAC_CIN,skoltrain87,35
 2021_13_LAC_CIN,Slavin22,35
 2021_13_LAC_CIN,SmelliDrelli,43
 2021_13_LAC_CIN,SonOfSunTzu,49
@@ -67767,6 +67767,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,DougCoulters,17
 2021_13_MIN_DET,DraftAndDevEcon,26
 2021_13_MIN_DET,DRatings,23
+2021_13_MIN_DET,DriedUpMondPond,2
 2021_13_MIN_DET,Dynasty1438,50
 2021_13_MIN_DET,dynastyforever1,50
 2021_13_MIN_DET,e6djdjsmam,31
@@ -67895,7 +67896,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,ShannonHouser12,29
 2021_13_MIN_DET,Shauncore,20
 2021_13_MIN_DET,Simonator891,50
-2021_13_MIN_DET,skoltrain87,2
 2021_13_MIN_DET,Slavin22,10
 2021_13_MIN_DET,SmelliDrelli,35
 2021_13_MIN_DET,SonOfSunTzu,10
@@ -68016,6 +68016,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,DougCoulters,11
 2021_13_IND_HOU,DraftAndDevEcon,21
 2021_13_IND_HOU,DRatings,26
+2021_13_IND_HOU,DriedUpMondPond,2
 2021_13_IND_HOU,Dynasty1438,50
 2021_13_IND_HOU,dynastyforever1,50
 2021_13_IND_HOU,e6djdjsmam,21
@@ -68144,7 +68145,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,ShannonHouser12,21
 2021_13_IND_HOU,Shauncore,78
 2021_13_IND_HOU,Simonator891,50
-2021_13_IND_HOU,skoltrain87,2
 2021_13_IND_HOU,Slavin22,10
 2021_13_IND_HOU,SmelliDrelli,13
 2021_13_IND_HOU,SonOfSunTzu,13
@@ -68265,6 +68265,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,DougCoulters,73
 2021_13_NYG_MIA,DraftAndDevEcon,63
 2021_13_NYG_MIA,DRatings,70
+2021_13_NYG_MIA,DriedUpMondPond,67
 2021_13_NYG_MIA,Dynasty1438,50
 2021_13_NYG_MIA,dynastyforever1,50
 2021_13_NYG_MIA,e6djdjsmam,40
@@ -68393,7 +68394,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,ShannonHouser12,45
 2021_13_NYG_MIA,Shauncore,72
 2021_13_NYG_MIA,Simonator891,50
-2021_13_NYG_MIA,skoltrain87,67
 2021_13_NYG_MIA,Slavin22,70
 2021_13_NYG_MIA,SmelliDrelli,57
 2021_13_NYG_MIA,SonOfSunTzu,71
@@ -68514,6 +68514,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,DougCoulters,20
 2021_13_PHI_NYJ,DraftAndDevEcon,31
 2021_13_PHI_NYJ,DRatings,33
+2021_13_PHI_NYJ,DriedUpMondPond,2
 2021_13_PHI_NYJ,Dynasty1438,50
 2021_13_PHI_NYJ,dynastyforever1,50
 2021_13_PHI_NYJ,e6djdjsmam,37
@@ -68642,7 +68643,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,ShannonHouser12,34
 2021_13_PHI_NYJ,Shauncore,40
 2021_13_PHI_NYJ,Simonator891,50
-2021_13_PHI_NYJ,skoltrain87,2
 2021_13_PHI_NYJ,Slavin22,15
 2021_13_PHI_NYJ,SmelliDrelli,43
 2021_13_PHI_NYJ,SonOfSunTzu,29
@@ -68763,6 +68763,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,DougCoulters,100
 2021_13_JAX_LA,DraftAndDevEcon,84
 2021_13_JAX_LA,DRatings,88
+2021_13_JAX_LA,DriedUpMondPond,98
 2021_13_JAX_LA,Dynasty1438,50
 2021_13_JAX_LA,dynastyforever1,50
 2021_13_JAX_LA,e6djdjsmam,72
@@ -68891,7 +68892,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,ShannonHouser12,63
 2021_13_JAX_LA,Shauncore,85
 2021_13_JAX_LA,Simonator891,50
-2021_13_JAX_LA,skoltrain87,98
 2021_13_JAX_LA,Slavin22,95
 2021_13_JAX_LA,SmelliDrelli,82
 2021_13_JAX_LA,SonOfSunTzu,84
@@ -69012,6 +69012,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,DougCoulters,74
 2021_13_WAS_LV,DraftAndDevEcon,55
 2021_13_WAS_LV,DRatings,59
+2021_13_WAS_LV,DriedUpMondPond,56
 2021_13_WAS_LV,Dynasty1438,50
 2021_13_WAS_LV,dynastyforever1,50
 2021_13_WAS_LV,e6djdjsmam,57
@@ -69140,7 +69141,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,ShannonHouser12,56
 2021_13_WAS_LV,Shauncore,50
 2021_13_WAS_LV,Simonator891,50
-2021_13_WAS_LV,skoltrain87,56
 2021_13_WAS_LV,Slavin22,65
 2021_13_WAS_LV,SmelliDrelli,50
 2021_13_WAS_LV,SonOfSunTzu,68
@@ -69261,6 +69261,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,DougCoulters,28
 2021_13_BAL_PIT,DraftAndDevEcon,37
 2021_13_BAL_PIT,DRatings,42
+2021_13_BAL_PIT,DriedUpMondPond,2
 2021_13_BAL_PIT,Dynasty1438,50
 2021_13_BAL_PIT,dynastyforever1,50
 2021_13_BAL_PIT,e6djdjsmam,40
@@ -69389,7 +69390,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,ShannonHouser12,44
 2021_13_BAL_PIT,Shauncore,40
 2021_13_BAL_PIT,Simonator891,50
-2021_13_BAL_PIT,skoltrain87,2
 2021_13_BAL_PIT,Slavin22,20
 2021_13_BAL_PIT,SmelliDrelli,39
 2021_13_BAL_PIT,SonOfSunTzu,8
@@ -69510,6 +69510,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,DougCoulters,37
 2021_13_SF_SEA,DraftAndDevEcon,39
 2021_13_SF_SEA,DRatings,49
+2021_13_SF_SEA,DriedUpMondPond,60
 2021_13_SF_SEA,Dynasty1438,50
 2021_13_SF_SEA,dynastyforever1,50
 2021_13_SF_SEA,e6djdjsmam,32
@@ -69638,7 +69639,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,ShannonHouser12,55
 2021_13_SF_SEA,Shauncore,45
 2021_13_SF_SEA,Simonator891,50
-2021_13_SF_SEA,skoltrain87,60
 2021_13_SF_SEA,Slavin22,70
 2021_13_SF_SEA,SmelliDrelli,62
 2021_13_SF_SEA,SonOfSunTzu,39
@@ -69759,6 +69759,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,DougCoulters,89
 2021_13_DEN_KC,DraftAndDevEcon,76
 2021_13_DEN_KC,DRatings,75
+2021_13_DEN_KC,DriedUpMondPond,77
 2021_13_DEN_KC,Dynasty1438,50
 2021_13_DEN_KC,dynastyforever1,50
 2021_13_DEN_KC,e6djdjsmam,71
@@ -69887,7 +69888,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,ShannonHouser12,76
 2021_13_DEN_KC,Shauncore,65
 2021_13_DEN_KC,Simonator891,50
-2021_13_DEN_KC,skoltrain87,77
 2021_13_DEN_KC,Slavin22,85
 2021_13_DEN_KC,SmelliDrelli,67
 2021_13_DEN_KC,SonOfSunTzu,84
@@ -70008,6 +70008,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,DougCoulters,37
 2021_13_NE_BUF,DraftAndDevEcon,57
 2021_13_NE_BUF,DRatings,63
+2021_13_NE_BUF,DriedUpMondPond,90
 2021_13_NE_BUF,Dynasty1438,36
 2021_13_NE_BUF,dynastyforever1,50
 2021_13_NE_BUF,e6djdjsmam,46
@@ -70138,7 +70139,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,ShannonHouser12,39
 2021_13_NE_BUF,Shauncore,48
 2021_13_NE_BUF,Simonator891,50
-2021_13_NE_BUF,skoltrain87,90
 2021_13_NE_BUF,Slavin22,65
 2021_13_NE_BUF,SmelliDrelli,44
 2021_13_NE_BUF,SonOfSunTzu,73
@@ -70250,6 +70250,7 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,DG_Goldssb,57
 2021_14_PIT_MIN,DNebenfhr,60
 2021_14_PIT_MIN,DraftAndDevEcon,60
+2021_14_PIT_MIN,DriedUpMondPond,62
 2021_14_PIT_MIN,Dynasty1438,50
 2021_14_PIT_MIN,e6djdjsmam,45
 2021_14_PIT_MIN,edgeobey,60
@@ -70356,7 +70357,6 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,SethDataScience,81
 2021_14_PIT_MIN,ShannonHouser12,50
 2021_14_PIT_MIN,Shauncore,60
-2021_14_PIT_MIN,skoltrain87,62
 2021_14_PIT_MIN,Slavin22,50
 2021_14_PIT_MIN,SmelliDrelli,58
 2021_14_PIT_MIN,SonOfSunTzu,72
@@ -70465,6 +70465,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,DougCoulters,50
 2021_14_ATL_CAR,DraftAndDevEcon,65
 2021_14_ATL_CAR,DRatings,64
+2021_14_ATL_CAR,DriedUpMondPond,33
 2021_14_ATL_CAR,Dynasty1438,69
 2021_14_ATL_CAR,e6djdjsmam,46
 2021_14_ATL_CAR,edgeobey,55
@@ -70582,7 +70583,6 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,ShannonHouser12,45
 2021_14_ATL_CAR,Shauncore,44
 2021_14_ATL_CAR,Simonator891,100
-2021_14_ATL_CAR,skoltrain87,33
 2021_14_ATL_CAR,Slavin22,61
 2021_14_ATL_CAR,SmelliDrelli,57
 2021_14_ATL_CAR,SonOfSunTzu,46
@@ -70692,6 +70692,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,DougCoulters,50
 2021_14_BAL_CLE,DraftAndDevEcon,54
 2021_14_BAL_CLE,DRatings,57
+2021_14_BAL_CLE,DriedUpMondPond,34
 2021_14_BAL_CLE,Dynasty1438,35
 2021_14_BAL_CLE,e6djdjsmam,62
 2021_14_BAL_CLE,edgeobey,37
@@ -70809,7 +70810,6 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,ShannonHouser12,35
 2021_14_BAL_CLE,Shauncore,43
 2021_14_BAL_CLE,Simonator891,100
-2021_14_BAL_CLE,skoltrain87,34
 2021_14_BAL_CLE,Slavin22,30
 2021_14_BAL_CLE,SmelliDrelli,45
 2021_14_BAL_CLE,SonOfSunTzu,39
@@ -70919,6 +70919,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,DougCoulters,50
 2021_14_SEA_HOU,DraftAndDevEcon,24
 2021_14_SEA_HOU,DRatings,32
+2021_14_SEA_HOU,DriedUpMondPond,2
 2021_14_SEA_HOU,Dynasty1438,22
 2021_14_SEA_HOU,e6djdjsmam,44
 2021_14_SEA_HOU,edgeobey,33
@@ -71036,7 +71037,6 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,ShannonHouser12,16
 2021_14_SEA_HOU,Shauncore,23
 2021_14_SEA_HOU,Simonator891,0
-2021_14_SEA_HOU,skoltrain87,2
 2021_14_SEA_HOU,Slavin22,10
 2021_14_SEA_HOU,SmelliDrelli,22
 2021_14_SEA_HOU,SonOfSunTzu,5
@@ -71146,6 +71146,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,DougCoulters,50
 2021_14_LV_KC,DraftAndDevEcon,77
 2021_14_LV_KC,DRatings,79
+2021_14_LV_KC,DriedUpMondPond,86
 2021_14_LV_KC,Dynasty1438,83
 2021_14_LV_KC,e6djdjsmam,78
 2021_14_LV_KC,edgeobey,75
@@ -71263,7 +71264,6 @@ game_id,screen_name,prediction
 2021_14_LV_KC,ShannonHouser12,83
 2021_14_LV_KC,Shauncore,62
 2021_14_LV_KC,Simonator891,100
-2021_14_LV_KC,skoltrain87,86
 2021_14_LV_KC,Slavin22,80
 2021_14_LV_KC,SmelliDrelli,73
 2021_14_LV_KC,SonOfSunTzu,48
@@ -71373,6 +71373,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,DougCoulters,50
 2021_14_NO_NYJ,DraftAndDevEcon,33
 2021_14_NO_NYJ,DRatings,32
+2021_14_NO_NYJ,DriedUpMondPond,2
 2021_14_NO_NYJ,Dynasty1438,0
 2021_14_NO_NYJ,e6djdjsmam,23
 2021_14_NO_NYJ,edgeobey,38
@@ -71490,7 +71491,6 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,ShannonHouser12,34
 2021_14_NO_NYJ,Shauncore,40
 2021_14_NO_NYJ,Simonator891,0
-2021_14_NO_NYJ,skoltrain87,2
 2021_14_NO_NYJ,Slavin22,15
 2021_14_NO_NYJ,SmelliDrelli,36
 2021_14_NO_NYJ,SonOfSunTzu,15
@@ -71600,6 +71600,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,DougCoulters,50
 2021_14_JAX_TEN,DraftAndDevEcon,77
 2021_14_JAX_TEN,DRatings,84
+2021_14_JAX_TEN,DriedUpMondPond,98
 2021_14_JAX_TEN,Dynasty1438,100
 2021_14_JAX_TEN,e6djdjsmam,88
 2021_14_JAX_TEN,edgeobey,79
@@ -71717,7 +71718,6 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,ShannonHouser12,66
 2021_14_JAX_TEN,Shauncore,79
 2021_14_JAX_TEN,Simonator891,100
-2021_14_JAX_TEN,skoltrain87,98
 2021_14_JAX_TEN,Slavin22,75
 2021_14_JAX_TEN,SmelliDrelli,69
 2021_14_JAX_TEN,SonOfSunTzu,83
@@ -71827,6 +71827,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,DougCoulters,50
 2021_14_DAL_WAS,DraftAndDevEcon,37
 2021_14_DAL_WAS,DRatings,41
+2021_14_DAL_WAS,DriedUpMondPond,14
 2021_14_DAL_WAS,Dynasty1438,36
 2021_14_DAL_WAS,e6djdjsmam,21
 2021_14_DAL_WAS,edgeobey,25
@@ -71944,7 +71945,6 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,ShannonHouser12,36
 2021_14_DAL_WAS,Shauncore,30
 2021_14_DAL_WAS,Simonator891,0
-2021_14_DAL_WAS,skoltrain87,14
 2021_14_DAL_WAS,Slavin22,20
 2021_14_DAL_WAS,SmelliDrelli,42
 2021_14_DAL_WAS,SonOfSunTzu,32
@@ -72055,6 +72055,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,DougCoulters,100
 2021_14_DET_DEN,DraftAndDevEcon,76
 2021_14_DET_DEN,DRatings,83
+2021_14_DET_DEN,DriedUpMondPond,98
 2021_14_DET_DEN,Dynasty1438,69
 2021_14_DET_DEN,e6djdjsmam,79
 2021_14_DET_DEN,edgeobey,63
@@ -72172,7 +72173,6 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,ShannonHouser12,37
 2021_14_DET_DEN,Shauncore,78
 2021_14_DET_DEN,Simonator891,100
-2021_14_DET_DEN,skoltrain87,98
 2021_14_DET_DEN,Slavin22,80
 2021_14_DET_DEN,SmelliDrelli,65
 2021_14_DET_DEN,SonOfSunTzu,87
@@ -72283,6 +72283,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,DougCoulters,100
 2021_14_NYG_LAC,DraftAndDevEcon,76
 2021_14_NYG_LAC,DRatings,80
+2021_14_NYG_LAC,DriedUpMondPond,98
 2021_14_NYG_LAC,Dynasty1438,100
 2021_14_NYG_LAC,e6djdjsmam,79
 2021_14_NYG_LAC,edgeobey,73
@@ -72400,7 +72401,6 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,ShannonHouser12,67
 2021_14_NYG_LAC,Shauncore,85
 2021_14_NYG_LAC,Simonator891,100
-2021_14_NYG_LAC,skoltrain87,98
 2021_14_NYG_LAC,Slavin22,90
 2021_14_NYG_LAC,SmelliDrelli,76
 2021_14_NYG_LAC,SonOfSunTzu,97
@@ -72511,6 +72511,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,DougCoulters,0
 2021_14_SF_CIN,DraftAndDevEcon,43
 2021_14_SF_CIN,DRatings,51
+2021_14_SF_CIN,DriedUpMondPond,75
 2021_14_SF_CIN,Dynasty1438,34
 2021_14_SF_CIN,e6djdjsmam,47
 2021_14_SF_CIN,edgeobey,55
@@ -72629,7 +72630,6 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,ShannonHouser12,37
 2021_14_SF_CIN,Shauncore,54
 2021_14_SF_CIN,Simonator891,50
-2021_14_SF_CIN,skoltrain87,75
 2021_14_SF_CIN,Slavin22,60
 2021_14_SF_CIN,SmelliDrelli,58
 2021_14_SF_CIN,SonOfSunTzu,57
@@ -72740,6 +72740,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,DougCoulters,0
 2021_14_BUF_TB,DraftAndDevEcon,61
 2021_14_BUF_TB,DRatings,61
+2021_14_BUF_TB,DriedUpMondPond,35
 2021_14_BUF_TB,Dynasty1438,75
 2021_14_BUF_TB,e6djdjsmam,56
 2021_14_BUF_TB,edgeobey,54
@@ -72858,7 +72859,6 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,ShannonHouser12,80
 2021_14_BUF_TB,Shauncore,55
 2021_14_BUF_TB,Simonator891,50
-2021_14_BUF_TB,skoltrain87,35
 2021_14_BUF_TB,Slavin22,65
 2021_14_BUF_TB,SmelliDrelli,66
 2021_14_BUF_TB,SonOfSunTzu,46
@@ -72970,6 +72970,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,DougCoulters,60
 2021_14_CHI_GB,DraftAndDevEcon,81
 2021_14_CHI_GB,DRatings,82
+2021_14_CHI_GB,DriedUpMondPond,41
 2021_14_CHI_GB,Dynasty1438,76
 2021_14_CHI_GB,e6djdjsmam,79
 2021_14_CHI_GB,edgeobey,88
@@ -73088,7 +73089,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,ShannonHouser12,92
 2021_14_CHI_GB,Shauncore,82
 2021_14_CHI_GB,Simonator891,50
-2021_14_CHI_GB,skoltrain87,41
 2021_14_CHI_GB,Slavin22,90
 2021_14_CHI_GB,SmelliDrelli,83
 2021_14_CHI_GB,SonOfSunTzu,92
@@ -73200,6 +73200,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,DougCoulters,0
 2021_14_LA_ARI,DraftAndDevEcon,56
 2021_14_LA_ARI,DRatings,57
+2021_14_LA_ARI,DriedUpMondPond,73
 2021_14_LA_ARI,Dynasty1438,34
 2021_14_LA_ARI,e6djdjsmam,45
 2021_14_LA_ARI,edgeobey,55
@@ -73319,7 +73320,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,ShannonHouser12,35
 2021_14_LA_ARI,Shauncore,55
 2021_14_LA_ARI,Simonator891,50
-2021_14_LA_ARI,skoltrain87,73
 2021_14_LA_ARI,Slavin22,70
 2021_14_LA_ARI,SmelliDrelli,41
 2021_14_LA_ARI,SonOfSunTzu,68
@@ -73421,6 +73421,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,DougCoulters,0
 2021_15_KC_LAC,DraftAndDevEcon,39
 2021_15_KC_LAC,DRatings,44
+2021_15_KC_LAC,DriedUpMondPond,69
 2021_15_KC_LAC,Dynasty1438,33
 2021_15_KC_LAC,e6djdjsmam,45
 2021_15_KC_LAC,edgeobey,45
@@ -73522,7 +73523,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,SethWalder,46
 2021_15_KC_LAC,ShannonHouser12,23
 2021_15_KC_LAC,Shauncore,55
-2021_15_KC_LAC,skoltrain87,69
 2021_15_KC_LAC,Slavin22,50
 2021_15_KC_LAC,SmelliDrelli,56
 2021_15_KC_LAC,SonOfSunTzu,50
@@ -73619,6 +73619,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,DougCoulters,85
 2021_15_NE_IND,DraftAndDevEcon,49
 2021_15_NE_IND,DRatings,49
+2021_15_NE_IND,DriedUpMondPond,14
 2021_15_NE_IND,Dynasty1438,50
 2021_15_NE_IND,e6djdjsmam,45
 2021_15_NE_IND,edgeobey,42
@@ -73729,7 +73730,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,SethWalder,49
 2021_15_NE_IND,ShannonHouser12,29
 2021_15_NE_IND,Shauncore,45
-2021_15_NE_IND,skoltrain87,14
 2021_15_NE_IND,Slavin22,30
 2021_15_NE_IND,SmelliDrelli,46
 2021_15_NE_IND,SonOfSunTzu,62
@@ -73832,6 +73832,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,DougCoulters,100
 2021_15_CAR_BUF,DraftAndDevEcon,82
 2021_15_CAR_BUF,DRatings,78
+2021_15_CAR_BUF,DriedUpMondPond,98
 2021_15_CAR_BUF,Dynasty1438,48
 2021_15_CAR_BUF,e6djdjsmam,91
 2021_15_CAR_BUF,edgeobey,85
@@ -73944,7 +73945,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,SethWalder,83
 2021_15_CAR_BUF,ShannonHouser12,69
 2021_15_CAR_BUF,Shauncore,81
-2021_15_CAR_BUF,skoltrain87,98
 2021_15_CAR_BUF,Slavin22,95
 2021_15_CAR_BUF,SmelliDrelli,90
 2021_15_CAR_BUF,SonOfSunTzu,89
@@ -74047,6 +74047,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,DougCoulters,0
 2021_15_ARI_DET,DraftAndDevEcon,16
 2021_15_ARI_DET,DRatings,50
+2021_15_ARI_DET,DriedUpMondPond,2
 2021_15_ARI_DET,Dynasty1438,8
 2021_15_ARI_DET,e6djdjsmam,0
 2021_15_ARI_DET,edgeobey,15
@@ -74159,7 +74160,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,SethWalder,20
 2021_15_ARI_DET,ShannonHouser12,28
 2021_15_ARI_DET,Shauncore,16
-2021_15_ARI_DET,skoltrain87,2
 2021_15_ARI_DET,Slavin22,5
 2021_15_ARI_DET,SmelliDrelli,8
 2021_15_ARI_DET,SonOfSunTzu,5
@@ -74262,6 +74262,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,DougCoulters,45
 2021_15_HOU_JAX,DraftAndDevEcon,61
 2021_15_HOU_JAX,DRatings,50
+2021_15_HOU_JAX,DriedUpMondPond,38
 2021_15_HOU_JAX,Dynasty1438,49
 2021_15_HOU_JAX,e6djdjsmam,46
 2021_15_HOU_JAX,edgeobey,45
@@ -74374,7 +74375,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,SethWalder,59
 2021_15_HOU_JAX,ShannonHouser12,50
 2021_15_HOU_JAX,Shauncore,60
-2021_15_HOU_JAX,skoltrain87,38
 2021_15_HOU_JAX,Slavin22,45
 2021_15_HOU_JAX,SmelliDrelli,67
 2021_15_HOU_JAX,SonOfSunTzu,95
@@ -74477,6 +74477,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,DougCoulters,100
 2021_15_NYJ_MIA,DraftAndDevEcon,75
 2021_15_NYJ_MIA,DRatings,50
+2021_15_NYJ_MIA,DriedUpMondPond,69
 2021_15_NYJ_MIA,Dynasty1438,50
 2021_15_NYJ_MIA,e6djdjsmam,65
 2021_15_NYJ_MIA,edgeobey,63
@@ -74589,7 +74590,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,SethWalder,69
 2021_15_NYJ_MIA,ShannonHouser12,50
 2021_15_NYJ_MIA,Shauncore,80
-2021_15_NYJ_MIA,skoltrain87,69
 2021_15_NYJ_MIA,Slavin22,80
 2021_15_NYJ_MIA,SmelliDrelli,70
 2021_15_NYJ_MIA,SonOfSunTzu,79
@@ -74692,6 +74692,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,DougCoulters,0
 2021_15_DAL_NYG,DraftAndDevEcon,21
 2021_15_DAL_NYG,DRatings,50
+2021_15_DAL_NYG,DriedUpMondPond,2
 2021_15_DAL_NYG,Dynasty1438,50
 2021_15_DAL_NYG,e6djdjsmam,30
 2021_15_DAL_NYG,edgeobey,13
@@ -74804,7 +74805,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,SethWalder,23
 2021_15_DAL_NYG,ShannonHouser12,22
 2021_15_DAL_NYG,Shauncore,19
-2021_15_DAL_NYG,skoltrain87,2
 2021_15_DAL_NYG,Slavin22,10
 2021_15_DAL_NYG,SmelliDrelli,10
 2021_15_DAL_NYG,SonOfSunTzu,5
@@ -74907,6 +74907,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,DougCoulters,0
 2021_15_TEN_PIT,DraftAndDevEcon,45
 2021_15_TEN_PIT,DRatings,50
+2021_15_TEN_PIT,DriedUpMondPond,30
 2021_15_TEN_PIT,Dynasty1438,50
 2021_15_TEN_PIT,e6djdjsmam,34
 2021_15_TEN_PIT,edgeobey,44
@@ -75019,7 +75020,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,SethWalder,56
 2021_15_TEN_PIT,ShannonHouser12,37
 2021_15_TEN_PIT,Shauncore,44
-2021_15_TEN_PIT,skoltrain87,30
 2021_15_TEN_PIT,Slavin22,35
 2021_15_TEN_PIT,SmelliDrelli,42
 2021_15_TEN_PIT,SonOfSunTzu,35
@@ -75122,6 +75122,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,DougCoulters,70
 2021_15_CIN_DEN,DraftAndDevEcon,54
 2021_15_CIN_DEN,DRatings,50
+2021_15_CIN_DEN,DriedUpMondPond,31
 2021_15_CIN_DEN,Dynasty1438,72
 2021_15_CIN_DEN,e6djdjsmam,42
 2021_15_CIN_DEN,edgeobey,48
@@ -75235,7 +75236,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,SethWalder,64
 2021_15_CIN_DEN,ShannonHouser12,36
 2021_15_CIN_DEN,Shauncore,55
-2021_15_CIN_DEN,skoltrain87,31
 2021_15_CIN_DEN,Slavin22,40
 2021_15_CIN_DEN,SmelliDrelli,41
 2021_15_CIN_DEN,SonOfSunTzu,63
@@ -75339,6 +75339,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,DougCoulters,65
 2021_15_ATL_SF,DraftAndDevEcon,78
 2021_15_ATL_SF,DRatings,50
+2021_15_ATL_SF,DriedUpMondPond,69
 2021_15_ATL_SF,Dynasty1438,94
 2021_15_ATL_SF,e6djdjsmam,76
 2021_15_ATL_SF,edgeobey,67
@@ -75452,7 +75453,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,SethWalder,77
 2021_15_ATL_SF,ShannonHouser12,75
 2021_15_ATL_SF,Shauncore,80
-2021_15_ATL_SF,skoltrain87,69
 2021_15_ATL_SF,Slavin22,80
 2021_15_ATL_SF,SmelliDrelli,81
 2021_15_ATL_SF,SonOfSunTzu,85
@@ -75556,6 +75556,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,DougCoulters,0
 2021_15_GB_BAL,DraftAndDevEcon,21
 2021_15_GB_BAL,DRatings,50
+2021_15_GB_BAL,DriedUpMondPond,62
 2021_15_GB_BAL,Dynasty1438,27
 2021_15_GB_BAL,e6djdjsmam,37
 2021_15_GB_BAL,edgeobey,40
@@ -75669,7 +75670,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,SethWalder,27
 2021_15_GB_BAL,ShannonHouser12,30
 2021_15_GB_BAL,Shauncore,23
-2021_15_GB_BAL,skoltrain87,62
 2021_15_GB_BAL,Slavin22,20
 2021_15_GB_BAL,SmelliDrelli,31
 2021_15_GB_BAL,SonOfSunTzu,46
@@ -75773,6 +75773,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,DougCoulters,71
 2021_15_NO_TB,DraftAndDevEcon,80
 2021_15_NO_TB,DRatings,50
+2021_15_NO_TB,DriedUpMondPond,98
 2021_15_NO_TB,Dynasty1438,84
 2021_15_NO_TB,e6djdjsmam,70
 2021_15_NO_TB,edgeobey,75
@@ -75887,7 +75888,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,SethWalder,77
 2021_15_NO_TB,ShannonHouser12,79
 2021_15_NO_TB,Shauncore,81
-2021_15_NO_TB,skoltrain87,98
 2021_15_NO_TB,Slavin22,80
 2021_15_NO_TB,SmelliDrelli,85
 2021_15_NO_TB,SonOfSunTzu,60
@@ -75993,6 +75993,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,DougCoulters,44
 2021_15_LV_CLE,DraftAndDevEcon,47
 2021_15_LV_CLE,DRatings,69
+2021_15_LV_CLE,DriedUpMondPond,69
 2021_15_LV_CLE,Dynasty1438,76
 2021_15_LV_CLE,e6djdjsmam,59
 2021_15_LV_CLE,edgeobey,63
@@ -76108,7 +76109,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,SethWalder,31
 2021_15_LV_CLE,ShannonHouser12,35
 2021_15_LV_CLE,Shauncore,44
-2021_15_LV_CLE,skoltrain87,69
 2021_15_LV_CLE,Slavin22,45
 2021_15_LV_CLE,SmelliDrelli,54
 2021_15_LV_CLE,SonOfSunTzu,63
@@ -76214,6 +76214,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,DougCoulters,40
 2021_15_MIN_CHI,DraftAndDevEcon,33
 2021_15_MIN_CHI,DRatings,50
+2021_15_MIN_CHI,DriedUpMondPond,50
 2021_15_MIN_CHI,Dynasty1438,20
 2021_15_MIN_CHI,e6djdjsmam,44
 2021_15_MIN_CHI,edgeobey,30
@@ -76329,7 +76330,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,SethWalder,25
 2021_15_MIN_CHI,ShannonHouser12,28
 2021_15_MIN_CHI,Shauncore,28
-2021_15_MIN_CHI,skoltrain87,50
 2021_15_MIN_CHI,Slavin22,20
 2021_15_MIN_CHI,SmelliDrelli,15
 2021_15_MIN_CHI,SonOfSunTzu,34
@@ -76436,6 +76436,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,DougCoulters,55
 2021_15_SEA_LA,DraftAndDevEcon,70
 2021_15_SEA_LA,DRatings,50
+2021_15_SEA_LA,DriedUpMondPond,40
 2021_15_SEA_LA,Dynasty1438,100
 2021_15_SEA_LA,e6djdjsmam,76
 2021_15_SEA_LA,edgeobey,75
@@ -76551,7 +76552,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,SethWalder,73
 2021_15_SEA_LA,ShannonHouser12,76
 2021_15_SEA_LA,Shauncore,73
-2021_15_SEA_LA,skoltrain87,40
 2021_15_SEA_LA,Slavin22,45
 2021_15_SEA_LA,SmelliDrelli,85
 2021_15_SEA_LA,SonOfSunTzu,62
@@ -76658,6 +76658,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,DougCoulters,100
 2021_15_WAS_PHI,DraftAndDevEcon,65
 2021_15_WAS_PHI,DRatings,50
+2021_15_WAS_PHI,DriedUpMondPond,64
 2021_15_WAS_PHI,Dynasty1438,75
 2021_15_WAS_PHI,e6djdjsmam,71
 2021_15_WAS_PHI,edgeobey,63
@@ -76773,7 +76774,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,SethWalder,75
 2021_15_WAS_PHI,ShannonHouser12,70
 2021_15_WAS_PHI,Shauncore,80
-2021_15_WAS_PHI,skoltrain87,64
 2021_15_WAS_PHI,Slavin22,75
 2021_15_WAS_PHI,SmelliDrelli,85
 2021_15_WAS_PHI,SonOfSunTzu,80
@@ -76868,6 +76868,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,DNebenfhr,40
 2021_16_SF_TEN,DougCoulters,63
 2021_16_SF_TEN,DraftAndDevEcon,39
+2021_16_SF_TEN,DriedUpMondPond,62
 2021_16_SF_TEN,Dynasty1438,50
 2021_16_SF_TEN,e6djdjsmam,57
 2021_16_SF_TEN,edgeobey,42
@@ -76962,7 +76963,6 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,SethWalder,50
 2021_16_SF_TEN,ShannonHouser12,42
 2021_16_SF_TEN,Shauncore,55
-2021_16_SF_TEN,skoltrain87,62
 2021_16_SF_TEN,SmelliDrelli,31
 2021_16_SF_TEN,SonOfSunTzu,65
 2021_16_SF_TEN,soolsberg,35
@@ -77051,6 +77051,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,DNebenfhr,75
 2021_16_CLE_GB,DougCoulters,63
 2021_16_CLE_GB,DraftAndDevEcon,75
+2021_16_CLE_GB,DriedUpMondPond,41
 2021_16_CLE_GB,Dynasty1438,50
 2021_16_CLE_GB,e6djdjsmam,59
 2021_16_CLE_GB,edgeobey,77
@@ -77146,7 +77147,6 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,SethWalder,50
 2021_16_CLE_GB,ShannonHouser12,82
 2021_16_CLE_GB,Shauncore,70
-2021_16_CLE_GB,skoltrain87,41
 2021_16_CLE_GB,SmelliDrelli,72
 2021_16_CLE_GB,SonOfSunTzu,93
 2021_16_CLE_GB,soolsberg,77
@@ -77237,6 +77237,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,DNebenfhr,55
 2021_16_IND_ARI,DougCoulters,59
 2021_16_IND_ARI,DraftAndDevEcon,53
+2021_16_IND_ARI,DriedUpMondPond,86
 2021_16_IND_ARI,Dynasty1438,73
 2021_16_IND_ARI,e6djdjsmam,45
 2021_16_IND_ARI,edgeobey,43
@@ -77334,7 +77335,6 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,SethWalder,50
 2021_16_IND_ARI,ShannonHouser12,38
 2021_16_IND_ARI,Shauncore,45
-2021_16_IND_ARI,skoltrain87,86
 2021_16_IND_ARI,SmelliDrelli,43
 2021_16_IND_ARI,SonOfSunTzu,74
 2021_16_IND_ARI,soolsberg,56
@@ -77427,6 +77427,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,DougCoulters,65
 2021_16_DET_ATL,DraftAndDevEcon,67
 2021_16_DET_ATL,DRatings,74
+2021_16_DET_ATL,DriedUpMondPond,86
 2021_16_DET_ATL,Dynasty1438,25
 2021_16_DET_ATL,e6djdjsmam,50
 2021_16_DET_ATL,edgeobey,59
@@ -77525,7 +77526,6 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,SethWalder,71
 2021_16_DET_ATL,ShannonHouser12,56
 2021_16_DET_ATL,Shauncore,68
-2021_16_DET_ATL,skoltrain87,86
 2021_16_DET_ATL,SmelliDrelli,45
 2021_16_DET_ATL,SonOfSunTzu,70
 2021_16_DET_ATL,soolsberg,60
@@ -77620,6 +77620,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,DougCoulters,40
 2021_16_TB_CAR,DraftAndDevEcon,21
 2021_16_TB_CAR,DRatings,29
+2021_16_TB_CAR,DriedUpMondPond,2
 2021_16_TB_CAR,Dynasty1438,0
 2021_16_TB_CAR,e6djdjsmam,50
 2021_16_TB_CAR,edgeobey,21
@@ -77718,7 +77719,6 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,SethWalder,15
 2021_16_TB_CAR,ShannonHouser12,12
 2021_16_TB_CAR,Shauncore,27
-2021_16_TB_CAR,skoltrain87,2
 2021_16_TB_CAR,SmelliDrelli,14
 2021_16_TB_CAR,SonOfSunTzu,6
 2021_16_TB_CAR,soolsberg,22
@@ -77813,6 +77813,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,DougCoulters,44
 2021_16_BAL_CIN,DraftAndDevEcon,66
 2021_16_BAL_CIN,DRatings,64
+2021_16_BAL_CIN,DriedUpMondPond,65
 2021_16_BAL_CIN,Dynasty1438,76
 2021_16_BAL_CIN,e6djdjsmam,50
 2021_16_BAL_CIN,edgeobey,53
@@ -77911,7 +77912,6 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,SethWalder,69
 2021_16_BAL_CIN,ShannonHouser12,64
 2021_16_BAL_CIN,Shauncore,70
-2021_16_BAL_CIN,skoltrain87,65
 2021_16_BAL_CIN,SmelliDrelli,61
 2021_16_BAL_CIN,SonOfSunTzu,62
 2021_16_BAL_CIN,soolsberg,71
@@ -78006,6 +78006,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,DougCoulters,0
 2021_16_LAC_HOU,DraftAndDevEcon,20
 2021_16_LAC_HOU,DRatings,23
+2021_16_LAC_HOU,DriedUpMondPond,0
 2021_16_LAC_HOU,Dynasty1438,0
 2021_16_LAC_HOU,e6djdjsmam,50
 2021_16_LAC_HOU,edgeobey,18
@@ -78104,7 +78105,6 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,SethWalder,19
 2021_16_LAC_HOU,ShannonHouser12,27
 2021_16_LAC_HOU,Shauncore,20
-2021_16_LAC_HOU,skoltrain87,0
 2021_16_LAC_HOU,SmelliDrelli,19
 2021_16_LAC_HOU,SonOfSunTzu,13
 2021_16_LAC_HOU,soolsberg,21
@@ -78199,6 +78199,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,DougCoulters,33
 2021_16_LA_MIN,DraftAndDevEcon,37
 2021_16_LA_MIN,DRatings,47
+2021_16_LA_MIN,DriedUpMondPond,62
 2021_16_LA_MIN,Dynasty1438,0
 2021_16_LA_MIN,e6djdjsmam,50
 2021_16_LA_MIN,edgeobey,39
@@ -78297,7 +78298,6 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,SethWalder,42
 2021_16_LA_MIN,ShannonHouser12,68
 2021_16_LA_MIN,Shauncore,44
-2021_16_LA_MIN,skoltrain87,62
 2021_16_LA_MIN,SmelliDrelli,32
 2021_16_LA_MIN,SonOfSunTzu,55
 2021_16_LA_MIN,soolsberg,45
@@ -78392,6 +78392,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,DougCoulters,32
 2021_16_BUF_NE,DraftAndDevEcon,52
 2021_16_BUF_NE,DRatings,52
+2021_16_BUF_NE,DriedUpMondPond,38
 2021_16_BUF_NE,Dynasty1438,72
 2021_16_BUF_NE,e6djdjsmam,50
 2021_16_BUF_NE,edgeobey,49
@@ -78490,7 +78491,6 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,SethWalder,51
 2021_16_BUF_NE,ShannonHouser12,61
 2021_16_BUF_NE,Shauncore,46
-2021_16_BUF_NE,skoltrain87,38
 2021_16_BUF_NE,SmelliDrelli,45
 2021_16_BUF_NE,SonOfSunTzu,63
 2021_16_BUF_NE,soolsberg,48
@@ -78585,6 +78585,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,DougCoulters,72
 2021_16_JAX_NYJ,DraftAndDevEcon,57
 2021_16_JAX_NYJ,DRatings,60
+2021_16_JAX_NYJ,DriedUpMondPond,41
 2021_16_JAX_NYJ,Dynasty1438,74
 2021_16_JAX_NYJ,e6djdjsmam,50
 2021_16_JAX_NYJ,edgeobey,58
@@ -78683,7 +78684,6 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,SethWalder,40
 2021_16_JAX_NYJ,ShannonHouser12,66
 2021_16_JAX_NYJ,Shauncore,46
-2021_16_JAX_NYJ,skoltrain87,41
 2021_16_JAX_NYJ,SmelliDrelli,61
 2021_16_JAX_NYJ,SonOfSunTzu,76
 2021_16_JAX_NYJ,soolsberg,59
@@ -78778,6 +78778,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,DougCoulters,100
 2021_16_NYG_PHI,DraftAndDevEcon,78
 2021_16_NYG_PHI,DRatings,80
+2021_16_NYG_PHI,DriedUpMondPond,86
 2021_16_NYG_PHI,Dynasty1438,100
 2021_16_NYG_PHI,e6djdjsmam,50
 2021_16_NYG_PHI,edgeobey,73
@@ -78876,7 +78877,6 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,SethWalder,75
 2021_16_NYG_PHI,ShannonHouser12,79
 2021_16_NYG_PHI,Shauncore,75
-2021_16_NYG_PHI,skoltrain87,86
 2021_16_NYG_PHI,SmelliDrelli,85
 2021_16_NYG_PHI,SonOfSunTzu,93
 2021_16_NYG_PHI,soolsberg,77
@@ -78971,6 +78971,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,DougCoulters,81
 2021_16_CHI_SEA,DraftAndDevEcon,70
 2021_16_CHI_SEA,DRatings,77
+2021_16_CHI_SEA,DriedUpMondPond,86
 2021_16_CHI_SEA,Dynasty1438,77
 2021_16_CHI_SEA,e6djdjsmam,50
 2021_16_CHI_SEA,edgeobey,72
@@ -79073,7 +79074,6 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,SethWalder,68
 2021_16_CHI_SEA,ShannonHouser12,67
 2021_16_CHI_SEA,Shauncore,71
-2021_16_CHI_SEA,skoltrain87,86
 2021_16_CHI_SEA,SmelliDrelli,46
 2021_16_CHI_SEA,SonOfSunTzu,93
 2021_16_CHI_SEA,soolsberg,74
@@ -79168,6 +79168,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,DougCoulters,100
 2021_16_PIT_KC,DraftAndDevEcon,77
 2021_16_PIT_KC,DRatings,79
+2021_16_PIT_KC,DriedUpMondPond,86
 2021_16_PIT_KC,Dynasty1438,34
 2021_16_PIT_KC,e6djdjsmam,50
 2021_16_PIT_KC,edgeobey,75
@@ -79270,7 +79271,6 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,SethWalder,77
 2021_16_PIT_KC,ShannonHouser12,74
 2021_16_PIT_KC,Shauncore,45
-2021_16_PIT_KC,skoltrain87,86
 2021_16_PIT_KC,SmelliDrelli,88
 2021_16_PIT_KC,SonOfSunTzu,88
 2021_16_PIT_KC,soolsberg,77
@@ -79365,6 +79365,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,DougCoulters,38
 2021_16_DEN_LV,DraftAndDevEcon,47
 2021_16_DEN_LV,DRatings,59
+2021_16_DEN_LV,DriedUpMondPond,38
 2021_16_DEN_LV,Dynasty1438,38
 2021_16_DEN_LV,e6djdjsmam,50
 2021_16_DEN_LV,edgeobey,56
@@ -79467,7 +79468,6 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,SethWalder,56
 2021_16_DEN_LV,ShannonHouser12,50
 2021_16_DEN_LV,Shauncore,45
-2021_16_DEN_LV,skoltrain87,38
 2021_16_DEN_LV,SmelliDrelli,59
 2021_16_DEN_LV,SonOfSunTzu,66
 2021_16_DEN_LV,soolsberg,52
@@ -79563,6 +79563,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,DougCoulters,100
 2021_16_WAS_DAL,DraftAndDevEcon,77
 2021_16_WAS_DAL,DRatings,77
+2021_16_WAS_DAL,DriedUpMondPond,86
 2021_16_WAS_DAL,Dynasty1438,100
 2021_16_WAS_DAL,e6djdjsmam,50
 2021_16_WAS_DAL,edgeobey,83
@@ -79666,7 +79667,6 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,SethWalder,76
 2021_16_WAS_DAL,ShannonHouser12,79
 2021_16_WAS_DAL,Shauncore,80
-2021_16_WAS_DAL,skoltrain87,86
 2021_16_WAS_DAL,SmelliDrelli,64
 2021_16_WAS_DAL,SonOfSunTzu,95
 2021_16_WAS_DAL,soolsberg,75
@@ -79762,6 +79762,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,DougCoulters,0
 2021_16_MIA_NO,DraftAndDevEcon,41
 2021_16_MIA_NO,DRatings,52
+2021_16_MIA_NO,DriedUpMondPond,36
 2021_16_MIA_NO,Dynasty1438,55
 2021_16_MIA_NO,e6djdjsmam,50
 2021_16_MIA_NO,edgeobey,41
@@ -79867,7 +79868,6 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,SethWalder,48
 2021_16_MIA_NO,ShannonHouser12,63
 2021_16_MIA_NO,Shauncore,45
-2021_16_MIA_NO,skoltrain87,36
 2021_16_MIA_NO,SmelliDrelli,56
 2021_16_MIA_NO,SonOfSunTzu,71
 2021_16_MIA_NO,soolsberg,47
@@ -79966,6 +79966,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,DougCoulters,16
 2021_17_LA_BAL,DraftAndDevEcon,34
 2021_17_LA_BAL,DRatings,50
+2021_17_LA_BAL,DriedUpMondPond,63
 2021_17_LA_BAL,Dynasty1438,50
 2021_17_LA_BAL,edgeobey,28
 2021_17_LA_BAL,EGoldish,14
@@ -80069,7 +80070,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,SethWalder,30
 2021_17_LA_BAL,ShannonHouser12,31
 2021_17_LA_BAL,Shauncore,44
-2021_17_LA_BAL,skoltrain87,63
 2021_17_LA_BAL,SmelliDrelli,34
 2021_17_LA_BAL,SonOfSunTzu,21
 2021_17_LA_BAL,soolsberg,31
@@ -80169,6 +80169,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,DougCoulters,100
 2021_17_ATL_BUF,DraftAndDevEcon,86
 2021_17_ATL_BUF,DRatings,50
+2021_17_ATL_BUF,DriedUpMondPond,98
 2021_17_ATL_BUF,Dynasty1438,50
 2021_17_ATL_BUF,edgeobey,84
 2021_17_ATL_BUF,EGoldish,90
@@ -80272,7 +80273,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,SethWalder,83
 2021_17_ATL_BUF,ShannonHouser12,85
 2021_17_ATL_BUF,Shauncore,77
-2021_17_ATL_BUF,skoltrain87,98
 2021_17_ATL_BUF,SmelliDrelli,88
 2021_17_ATL_BUF,SonOfSunTzu,79
 2021_17_ATL_BUF,soolsberg,85
@@ -80372,6 +80372,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,DougCoulters,75
 2021_17_NYG_CHI,DraftAndDevEcon,69
 2021_17_NYG_CHI,DRatings,50
+2021_17_NYG_CHI,DriedUpMondPond,38
 2021_17_NYG_CHI,Dynasty1438,50
 2021_17_NYG_CHI,edgeobey,58
 2021_17_NYG_CHI,EGoldish,70
@@ -80475,7 +80476,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,SethWalder,63
 2021_17_NYG_CHI,ShannonHouser12,44
 2021_17_NYG_CHI,Shauncore,60
-2021_17_NYG_CHI,skoltrain87,38
 2021_17_NYG_CHI,SmelliDrelli,73
 2021_17_NYG_CHI,SonOfSunTzu,53
 2021_17_NYG_CHI,soolsberg,68
@@ -80575,6 +80575,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,DougCoulters,0
 2021_17_KC_CIN,DraftAndDevEcon,34
 2021_17_KC_CIN,DRatings,50
+2021_17_KC_CIN,DriedUpMondPond,60
 2021_17_KC_CIN,Dynasty1438,50
 2021_17_KC_CIN,edgeobey,44
 2021_17_KC_CIN,EGoldish,14
@@ -80678,7 +80679,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,SethWalder,35
 2021_17_KC_CIN,ShannonHouser12,30
 2021_17_KC_CIN,Shauncore,42
-2021_17_KC_CIN,skoltrain87,60
 2021_17_KC_CIN,SmelliDrelli,56
 2021_17_KC_CIN,SonOfSunTzu,33
 2021_17_KC_CIN,soolsberg,34
@@ -80778,6 +80778,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,DougCoulters,100
 2021_17_LV_IND,DraftAndDevEcon,71
 2021_17_LV_IND,DRatings,50
+2021_17_LV_IND,DriedUpMondPond,98
 2021_17_LV_IND,Dynasty1438,50
 2021_17_LV_IND,edgeobey,63
 2021_17_LV_IND,EGoldish,80
@@ -80881,7 +80882,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,SethWalder,70
 2021_17_LV_IND,ShannonHouser12,72
 2021_17_LV_IND,Shauncore,65
-2021_17_LV_IND,skoltrain87,98
 2021_17_LV_IND,SmelliDrelli,65
 2021_17_LV_IND,SonOfSunTzu,74
 2021_17_LV_IND,soolsberg,75
@@ -80981,6 +80981,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,DougCoulters,100
 2021_17_JAX_NE,DraftAndDevEcon,89
 2021_17_JAX_NE,DRatings,50
+2021_17_JAX_NE,DriedUpMondPond,100
 2021_17_JAX_NE,Dynasty1438,50
 2021_17_JAX_NE,edgeobey,94
 2021_17_JAX_NE,EGoldish,90
@@ -81084,7 +81085,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,SethWalder,84
 2021_17_JAX_NE,ShannonHouser12,83
 2021_17_JAX_NE,Shauncore,80
-2021_17_JAX_NE,skoltrain87,100
 2021_17_JAX_NE,SmelliDrelli,88
 2021_17_JAX_NE,SonOfSunTzu,92
 2021_17_JAX_NE,soolsberg,86
@@ -81184,6 +81184,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,DougCoulters,100
 2021_17_TB_NYJ,DraftAndDevEcon,15
 2021_17_TB_NYJ,DRatings,50
+2021_17_TB_NYJ,DriedUpMondPond,0
 2021_17_TB_NYJ,Dynasty1438,50
 2021_17_TB_NYJ,edgeobey,11
 2021_17_TB_NYJ,EGoldish,10
@@ -81287,7 +81288,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,SethWalder,15
 2021_17_TB_NYJ,ShannonHouser12,16
 2021_17_TB_NYJ,Shauncore,23
-2021_17_TB_NYJ,skoltrain87,0
 2021_17_TB_NYJ,SmelliDrelli,13
 2021_17_TB_NYJ,SonOfSunTzu,12
 2021_17_TB_NYJ,soolsberg,15
@@ -81387,6 +81387,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,DougCoulters,25
 2021_17_MIA_TEN,DraftAndDevEcon,59
 2021_17_MIA_TEN,DRatings,50
+2021_17_MIA_TEN,DriedUpMondPond,59
 2021_17_MIA_TEN,Dynasty1438,50
 2021_17_MIA_TEN,edgeobey,63
 2021_17_MIA_TEN,EGoldish,48
@@ -81490,7 +81491,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,SethWalder,71
 2021_17_MIA_TEN,ShannonHouser12,60
 2021_17_MIA_TEN,Shauncore,65
-2021_17_MIA_TEN,skoltrain87,59
 2021_17_MIA_TEN,SmelliDrelli,59
 2021_17_MIA_TEN,SonOfSunTzu,52
 2021_17_MIA_TEN,soolsberg,49
@@ -81590,6 +81590,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,DougCoulters,18
 2021_17_PHI_WAS,DraftAndDevEcon,37
 2021_17_PHI_WAS,DRatings,50
+2021_17_PHI_WAS,DriedUpMondPond,58
 2021_17_PHI_WAS,Dynasty1438,50
 2021_17_PHI_WAS,edgeobey,43
 2021_17_PHI_WAS,EGoldish,36
@@ -81693,7 +81694,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,SethWalder,35
 2021_17_PHI_WAS,ShannonHouser12,34
 2021_17_PHI_WAS,Shauncore,35
-2021_17_PHI_WAS,skoltrain87,58
 2021_17_PHI_WAS,SmelliDrelli,34
 2021_17_PHI_WAS,SonOfSunTzu,34
 2021_17_PHI_WAS,soolsberg,35
@@ -81793,6 +81793,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,DougCoulters,82
 2021_17_DEN_LAC,DraftAndDevEcon,75
 2021_17_DEN_LAC,DRatings,50
+2021_17_DEN_LAC,DriedUpMondPond,98
 2021_17_DEN_LAC,Dynasty1438,50
 2021_17_DEN_LAC,edgeobey,73
 2021_17_DEN_LAC,EGoldish,70
@@ -81896,7 +81897,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,SethWalder,68
 2021_17_DEN_LAC,ShannonHouser12,64
 2021_17_DEN_LAC,Shauncore,69
-2021_17_DEN_LAC,skoltrain87,98
 2021_17_DEN_LAC,SmelliDrelli,63
 2021_17_DEN_LAC,SonOfSunTzu,65
 2021_17_DEN_LAC,soolsberg,79
@@ -81996,6 +81996,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,DougCoulters,100
 2021_17_HOU_SF,DraftAndDevEcon,86
 2021_17_HOU_SF,DRatings,50
+2021_17_HOU_SF,DriedUpMondPond,41
 2021_17_HOU_SF,Dynasty1438,50
 2021_17_HOU_SF,edgeobey,80
 2021_17_HOU_SF,EGoldish,80
@@ -82099,7 +82100,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,SethWalder,71
 2021_17_HOU_SF,ShannonHouser12,64
 2021_17_HOU_SF,Shauncore,77
-2021_17_HOU_SF,skoltrain87,41
 2021_17_HOU_SF,SmelliDrelli,81
 2021_17_HOU_SF,SonOfSunTzu,81
 2021_17_HOU_SF,soolsberg,82
@@ -82199,6 +82199,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,DougCoulters,100
 2021_17_ARI_DAL,DraftAndDevEcon,69
 2021_17_ARI_DAL,DRatings,50
+2021_17_ARI_DAL,DriedUpMondPond,59
 2021_17_ARI_DAL,Dynasty1438,50
 2021_17_ARI_DAL,edgeobey,60
 2021_17_ARI_DAL,EGoldish,70
@@ -82302,7 +82303,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,SethWalder,70
 2021_17_ARI_DAL,ShannonHouser12,68
 2021_17_ARI_DAL,Shauncore,69
-2021_17_ARI_DAL,skoltrain87,59
 2021_17_ARI_DAL,SmelliDrelli,45
 2021_17_ARI_DAL,SonOfSunTzu,52
 2021_17_ARI_DAL,soolsberg,68
@@ -82402,6 +82402,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,DougCoulters,75
 2021_17_CAR_NO,DraftAndDevEcon,65
 2021_17_CAR_NO,DRatings,50
+2021_17_CAR_NO,DriedUpMondPond,42
 2021_17_CAR_NO,Dynasty1438,50
 2021_17_CAR_NO,edgeobey,58
 2021_17_CAR_NO,EGoldish,70
@@ -82505,7 +82506,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,SethWalder,73
 2021_17_CAR_NO,ShannonHouser12,46
 2021_17_CAR_NO,Shauncore,65
-2021_17_CAR_NO,skoltrain87,42
 2021_17_CAR_NO,SmelliDrelli,68
 2021_17_CAR_NO,SonOfSunTzu,77
 2021_17_CAR_NO,soolsberg,71
@@ -82605,6 +82605,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,DougCoulters,69
 2021_17_DET_SEA,DraftAndDevEcon,76
 2021_17_DET_SEA,DRatings,50
+2021_17_DET_SEA,DriedUpMondPond,98
 2021_17_DET_SEA,Dynasty1438,50
 2021_17_DET_SEA,edgeobey,64
 2021_17_DET_SEA,EGoldish,70
@@ -82708,7 +82709,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,SethWalder,75
 2021_17_DET_SEA,ShannonHouser12,59
 2021_17_DET_SEA,Shauncore,72
-2021_17_DET_SEA,skoltrain87,98
 2021_17_DET_SEA,SmelliDrelli,45
 2021_17_DET_SEA,SonOfSunTzu,93
 2021_17_DET_SEA,soolsberg,73
@@ -82808,6 +82808,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,DougCoulters,0
 2021_17_MIN_GB,DraftAndDevEcon,84
 2021_17_MIN_GB,DRatings,50
+2021_17_MIN_GB,DriedUpMondPond,0
 2021_17_MIN_GB,Dynasty1438,50
 2021_17_MIN_GB,edgeobey,93
 2021_17_MIN_GB,EGoldish,90
@@ -82911,7 +82912,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,SethWalder,80
 2021_17_MIN_GB,ShannonHouser12,67
 2021_17_MIN_GB,Shauncore,75
-2021_17_MIN_GB,skoltrain87,0
 2021_17_MIN_GB,SmelliDrelli,72
 2021_17_MIN_GB,SonOfSunTzu,57
 2021_17_MIN_GB,soolsberg,81
@@ -83011,6 +83011,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,DougCoulters,85
 2021_17_CLE_PIT,DraftAndDevEcon,42
 2021_17_CLE_PIT,DRatings,50
+2021_17_CLE_PIT,DriedUpMondPond,23
 2021_17_CLE_PIT,Dynasty1438,50
 2021_17_CLE_PIT,edgeobey,38
 2021_17_CLE_PIT,EGoldish,14
@@ -83116,7 +83117,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,SethWalder,39
 2021_17_CLE_PIT,ShannonHouser12,34
 2021_17_CLE_PIT,Shauncore,55
-2021_17_CLE_PIT,skoltrain87,23
 2021_17_CLE_PIT,SmelliDrelli,43
 2021_17_CLE_PIT,Solitairexyz,50
 2021_17_CLE_PIT,SonOfSunTzu,32
@@ -83204,6 +83204,7 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,DNebenfhr,27
 2021_18_KC_DEN,DraftAndDevEcon,23
 2021_18_KC_DEN,DRatings,18
+2021_18_KC_DEN,DriedUpMondPond,50
 2021_18_KC_DEN,edgeobey,15
 2021_18_KC_DEN,El_Tel_Nutkins,50
 2021_18_KC_DEN,EthanCDouglas,28
@@ -83292,7 +83293,6 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,SethDataScience,28
 2021_18_KC_DEN,ShannonHouser12,22
 2021_18_KC_DEN,Shauncore,50
-2021_18_KC_DEN,skoltrain87,50
 2021_18_KC_DEN,SmelliDrelli,24
 2021_18_KC_DEN,Solitairexyz,50
 2021_18_KC_DEN,SonOfSunTzu,0
@@ -83371,6 +83371,7 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,DNebenfhr,42
 2021_18_DAL_PHI,DraftAndDevEcon,38
 2021_18_DAL_PHI,DRatings,44
+2021_18_DAL_PHI,DriedUpMondPond,0
 2021_18_DAL_PHI,edgeobey,27
 2021_18_DAL_PHI,El_Tel_Nutkins,50
 2021_18_DAL_PHI,EthanCDouglas,90
@@ -83460,7 +83461,6 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,SethDataScience,33
 2021_18_DAL_PHI,ShannonHouser12,50
 2021_18_DAL_PHI,Shauncore,35
-2021_18_DAL_PHI,skoltrain87,0
 2021_18_DAL_PHI,SmelliDrelli,34
 2021_18_DAL_PHI,Solitairexyz,50
 2021_18_DAL_PHI,SonOfSunTzu,0
@@ -83541,6 +83541,7 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,DNebenfhr,59
 2021_18_PIT_BAL,DraftAndDevEcon,60
 2021_18_PIT_BAL,DRatings,58
+2021_18_PIT_BAL,DriedUpMondPond,100
 2021_18_PIT_BAL,e6djdjsmam,50
 2021_18_PIT_BAL,edgeobey,64
 2021_18_PIT_BAL,EGoldish,70
@@ -83638,7 +83639,6 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,SethWalder,48
 2021_18_PIT_BAL,ShannonHouser12,67
 2021_18_PIT_BAL,Shauncore,55
-2021_18_PIT_BAL,skoltrain87,100
 2021_18_PIT_BAL,SmelliDrelli,65
 2021_18_PIT_BAL,Solitairexyz,50
 2021_18_PIT_BAL,SonOfSunTzu,100
@@ -83721,6 +83721,7 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,DNebenfhr,65
 2021_18_CIN_CLE,DraftAndDevEcon,61
 2021_18_CIN_CLE,DRatings,58
+2021_18_CIN_CLE,DriedUpMondPond,100
 2021_18_CIN_CLE,e6djdjsmam,50
 2021_18_CIN_CLE,edgeobey,41
 2021_18_CIN_CLE,EGoldish,80
@@ -83818,7 +83819,6 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,SethWalder,75
 2021_18_CIN_CLE,ShannonHouser12,75
 2021_18_CIN_CLE,Shauncore,60
-2021_18_CIN_CLE,skoltrain87,100
 2021_18_CIN_CLE,SmelliDrelli,72
 2021_18_CIN_CLE,Solitairexyz,50
 2021_18_CIN_CLE,SonOfSunTzu,0
@@ -83901,6 +83901,7 @@ game_id,screen_name,prediction
 2021_18_GB_DET,DNebenfhr,39
 2021_18_GB_DET,DraftAndDevEcon,37
 2021_18_GB_DET,DRatings,30
+2021_18_GB_DET,DriedUpMondPond,0
 2021_18_GB_DET,e6djdjsmam,50
 2021_18_GB_DET,edgeobey,45
 2021_18_GB_DET,EGoldish,30
@@ -83998,7 +83999,6 @@ game_id,screen_name,prediction
 2021_18_GB_DET,SethWalder,40
 2021_18_GB_DET,ShannonHouser12,40
 2021_18_GB_DET,Shauncore,25
-2021_18_GB_DET,skoltrain87,0
 2021_18_GB_DET,SmelliDrelli,45
 2021_18_GB_DET,Solitairexyz,50
 2021_18_GB_DET,SonOfSunTzu,0
@@ -84081,6 +84081,7 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,DNebenfhr,22
 2021_18_TEN_HOU,DraftAndDevEcon,21
 2021_18_TEN_HOU,DRatings,28
+2021_18_TEN_HOU,DriedUpMondPond,0
 2021_18_TEN_HOU,e6djdjsmam,50
 2021_18_TEN_HOU,edgeobey,24
 2021_18_TEN_HOU,EGoldish,20
@@ -84178,7 +84179,6 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,SethWalder,25
 2021_18_TEN_HOU,ShannonHouser12,31
 2021_18_TEN_HOU,Shauncore,25
-2021_18_TEN_HOU,skoltrain87,0
 2021_18_TEN_HOU,SmelliDrelli,16
 2021_18_TEN_HOU,Solitairexyz,50
 2021_18_TEN_HOU,SonOfSunTzu,0
@@ -84261,6 +84261,7 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,DNebenfhr,22
 2021_18_IND_JAX,DraftAndDevEcon,13
 2021_18_IND_JAX,DRatings,22
+2021_18_IND_JAX,DriedUpMondPond,0
 2021_18_IND_JAX,e6djdjsmam,50
 2021_18_IND_JAX,edgeobey,13
 2021_18_IND_JAX,EGoldish,10
@@ -84358,7 +84359,6 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,SethWalder,86
 2021_18_IND_JAX,ShannonHouser12,29
 2021_18_IND_JAX,Shauncore,25
-2021_18_IND_JAX,skoltrain87,0
 2021_18_IND_JAX,SmelliDrelli,12
 2021_18_IND_JAX,Solitairexyz,50
 2021_18_IND_JAX,SonOfSunTzu,0
@@ -84441,6 +84441,7 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,DNebenfhr,62
 2021_18_CHI_MIN,DraftAndDevEcon,63
 2021_18_CHI_MIN,DRatings,69
+2021_18_CHI_MIN,DriedUpMondPond,0
 2021_18_CHI_MIN,e6djdjsmam,50
 2021_18_CHI_MIN,edgeobey,55
 2021_18_CHI_MIN,EGoldish,60
@@ -84538,7 +84539,6 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,SethWalder,69
 2021_18_CHI_MIN,ShannonHouser12,69
 2021_18_CHI_MIN,Shauncore,60
-2021_18_CHI_MIN,skoltrain87,0
 2021_18_CHI_MIN,SmelliDrelli,74
 2021_18_CHI_MIN,Solitairexyz,50
 2021_18_CHI_MIN,SonOfSunTzu,0
@@ -84621,6 +84621,7 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,DNebenfhr,36
 2021_18_WAS_NYG,DraftAndDevEcon,31
 2021_18_WAS_NYG,DRatings,36
+2021_18_WAS_NYG,DriedUpMondPond,0
 2021_18_WAS_NYG,e6djdjsmam,50
 2021_18_WAS_NYG,edgeobey,29
 2021_18_WAS_NYG,EGoldish,30
@@ -84718,7 +84719,6 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,SethWalder,32
 2021_18_WAS_NYG,ShannonHouser12,25
 2021_18_WAS_NYG,Shauncore,33
-2021_18_WAS_NYG,skoltrain87,0
 2021_18_WAS_NYG,SmelliDrelli,24
 2021_18_WAS_NYG,Solitairexyz,50
 2021_18_WAS_NYG,SonOfSunTzu,0
@@ -84802,6 +84802,7 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,DNebenfhr,65
 2021_18_SEA_ARI,DraftAndDevEcon,66
 2021_18_SEA_ARI,DRatings,65
+2021_18_SEA_ARI,DriedUpMondPond,0
 2021_18_SEA_ARI,e6djdjsmam,50
 2021_18_SEA_ARI,edgeobey,70
 2021_18_SEA_ARI,EGoldish,70
@@ -84899,7 +84900,6 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,SethWalder,65
 2021_18_SEA_ARI,ShannonHouser12,67
 2021_18_SEA_ARI,Shauncore,45
-2021_18_SEA_ARI,skoltrain87,0
 2021_18_SEA_ARI,SmelliDrelli,70
 2021_18_SEA_ARI,Solitairexyz,50
 2021_18_SEA_ARI,SonOfSunTzu,0
@@ -84983,6 +84983,7 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,DNebenfhr,56
 2021_18_NO_ATL,DraftAndDevEcon,39
 2021_18_NO_ATL,DRatings,26
+2021_18_NO_ATL,DriedUpMondPond,100
 2021_18_NO_ATL,e6djdjsmam,50
 2021_18_NO_ATL,edgeobey,40
 2021_18_NO_ATL,EGoldish,52
@@ -85080,7 +85081,6 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,SethWalder,35
 2021_18_NO_ATL,ShannonHouser12,38
 2021_18_NO_ATL,Shauncore,35
-2021_18_NO_ATL,skoltrain87,100
 2021_18_NO_ATL,SmelliDrelli,35
 2021_18_NO_ATL,Solitairexyz,50
 2021_18_NO_ATL,SonOfSunTzu,100
@@ -85164,6 +85164,7 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,DNebenfhr,80
 2021_18_NYJ_BUF,DraftAndDevEcon,85
 2021_18_NYJ_BUF,DRatings,88
+2021_18_NYJ_BUF,DriedUpMondPond,100
 2021_18_NYJ_BUF,e6djdjsmam,50
 2021_18_NYJ_BUF,edgeobey,85
 2021_18_NYJ_BUF,EGoldish,90
@@ -85261,7 +85262,6 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,SethWalder,66
 2021_18_NYJ_BUF,ShannonHouser12,80
 2021_18_NYJ_BUF,Shauncore,75
-2021_18_NYJ_BUF,skoltrain87,100
 2021_18_NYJ_BUF,SmelliDrelli,90
 2021_18_NYJ_BUF,Solitairexyz,50
 2021_18_NYJ_BUF,SonOfSunTzu,100
@@ -85345,6 +85345,7 @@ game_id,screen_name,prediction
 2021_18_SF_LA,DNebenfhr,59
 2021_18_SF_LA,DraftAndDevEcon,62
 2021_18_SF_LA,DRatings,72
+2021_18_SF_LA,DriedUpMondPond,0
 2021_18_SF_LA,e6djdjsmam,50
 2021_18_SF_LA,edgeobey,66
 2021_18_SF_LA,EGoldish,60
@@ -85442,7 +85443,6 @@ game_id,screen_name,prediction
 2021_18_SF_LA,SethWalder,62
 2021_18_SF_LA,ShannonHouser12,75
 2021_18_SF_LA,Shauncore,45
-2021_18_SF_LA,skoltrain87,0
 2021_18_SF_LA,SmelliDrelli,71
 2021_18_SF_LA,Solitairexyz,50
 2021_18_SF_LA,SonOfSunTzu,100
@@ -85526,6 +85526,7 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,DNebenfhr,33
 2021_18_NE_MIA,DraftAndDevEcon,32
 2021_18_NE_MIA,DRatings,33
+2021_18_NE_MIA,DriedUpMondPond,0
 2021_18_NE_MIA,e6djdjsmam,50
 2021_18_NE_MIA,edgeobey,30
 2021_18_NE_MIA,EGoldish,30
@@ -85623,7 +85624,6 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,SethWalder,35
 2021_18_NE_MIA,ShannonHouser12,22
 2021_18_NE_MIA,Shauncore,29
-2021_18_NE_MIA,skoltrain87,0
 2021_18_NE_MIA,SmelliDrelli,27
 2021_18_NE_MIA,Solitairexyz,50
 2021_18_NE_MIA,SonOfSunTzu,0
@@ -85707,6 +85707,7 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,DNebenfhr,77
 2021_18_CAR_TB,DraftAndDevEcon,81
 2021_18_CAR_TB,DRatings,84
+2021_18_CAR_TB,DriedUpMondPond,100
 2021_18_CAR_TB,e6djdjsmam,50
 2021_18_CAR_TB,edgeobey,85
 2021_18_CAR_TB,EGoldish,80
@@ -85804,7 +85805,6 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,SethWalder,73
 2021_18_CAR_TB,ShannonHouser12,81
 2021_18_CAR_TB,Shauncore,77
-2021_18_CAR_TB,skoltrain87,100
 2021_18_CAR_TB,SmelliDrelli,78
 2021_18_CAR_TB,Solitairexyz,50
 2021_18_CAR_TB,SonOfSunTzu,100
@@ -85889,6 +85889,7 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,DNebenfhr,34
 2021_18_LAC_LV,DraftAndDevEcon,42
 2021_18_LAC_LV,DRatings,47
+2021_18_LAC_LV,DriedUpMondPond,0
 2021_18_LAC_LV,e6djdjsmam,50
 2021_18_LAC_LV,edgeobey,36
 2021_18_LAC_LV,EGoldish,40
@@ -85986,7 +85987,6 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,SethWalder,43
 2021_18_LAC_LV,ShannonHouser12,38
 2021_18_LAC_LV,Shauncore,34
-2021_18_LAC_LV,skoltrain87,0
 2021_18_LAC_LV,SmelliDrelli,37
 2021_18_LAC_LV,Solitairexyz,50
 2021_18_LAC_LV,SonOfSunTzu,0
@@ -87780,6 +87780,7 @@ game_id,screen_name,prediction
 2021_20_LA_TB,DNebenfhr,40
 2021_20_LA_TB,DraftAndDevEcon,61
 2021_20_LA_TB,DRatings,62
+2021_20_LA_TB,DriedUpMondPond,87
 2021_20_LA_TB,dudeitsme30,15
 2021_20_LA_TB,DugganOpen,77
 2021_20_LA_TB,edgeobey,59
@@ -87878,7 +87879,6 @@ game_id,screen_name,prediction
 2021_20_LA_TB,SethWalder,64
 2021_20_LA_TB,ShannonHouser12,65
 2021_20_LA_TB,Shauncore,57
-2021_20_LA_TB,skoltrain87,87
 2021_20_LA_TB,SmelliDrelli,46
 2021_20_LA_TB,SonOfSunTzu,29
 2021_20_LA_TB,soolsberg,48
@@ -87966,6 +87966,7 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,DNebenfhr,59
 2021_20_BUF_KC,DraftAndDevEcon,58
 2021_20_BUF_KC,DRatings,60
+2021_20_BUF_KC,DriedUpMondPond,37
 2021_20_BUF_KC,dudeitsme30,0
 2021_20_BUF_KC,DugganOpen,100
 2021_20_BUF_KC,edgeobey,60
@@ -88065,7 +88066,6 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,SethWalder,49
 2021_20_BUF_KC,ShannonHouser12,50
 2021_20_BUF_KC,Shauncore,45
-2021_20_BUF_KC,skoltrain87,37
 2021_20_BUF_KC,SmelliDrelli,53
 2021_20_BUF_KC,SonOfSunTzu,50
 2021_20_BUF_KC,soolsberg,57
