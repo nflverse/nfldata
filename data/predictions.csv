@@ -232,7 +232,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,grayson_hubble,51
 2021_01_DAL_TB,greerreNFL,71
 2021_01_DAL_TB,GridInsights,67
-2021_01_DAL_TB,grit_t_FB,58
 2021_01_DAL_TB,grntvedt,100
 2021_01_DAL_TB,gshelor,68
 2021_01_DAL_TB,hagearty20,85
@@ -582,6 +581,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,TLaimerPhys,82
 2021_01_DAL_TB,TobiasC_____,68
 2021_01_DAL_TB,Tom76502442,79
+2021_01_DAL_TB,TomChandlerNFL,58
 2021_01_DAL_TB,tomkeijzer,69
 2021_01_DAL_TB,tommcquillin1,66
 2021_01_DAL_TB,TommyJGregory,0
@@ -887,7 +887,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,grayson_hubble,55
 2021_01_PHI_ATL,greerreNFL,61
 2021_01_PHI_ATL,GridInsights,45
-2021_01_PHI_ATL,grit_t_FB,51
 2021_01_PHI_ATL,grntvedt,60
 2021_01_PHI_ATL,gshelor,37
 2021_01_PHI_ATL,hagearty20,65
@@ -1254,6 +1253,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,TLaimerPhys,69
 2021_01_PHI_ATL,TobiasC_____,64
 2021_01_PHI_ATL,Tom76502442,50
+2021_01_PHI_ATL,TomChandlerNFL,51
 2021_01_PHI_ATL,tomkeijzer,65
 2021_01_PHI_ATL,tommcquillin1,69
 2021_01_PHI_ATL,TommyJGregory,0
@@ -1560,7 +1560,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,grayson_hubble,62
 2021_01_PIT_BUF,greerreNFL,61
 2021_01_PIT_BUF,GridInsights,74
-2021_01_PIT_BUF,grit_t_FB,54
 2021_01_PIT_BUF,grntvedt,89
 2021_01_PIT_BUF,gshelor,88
 2021_01_PIT_BUF,hagearty20,55
@@ -1927,6 +1926,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,TLaimerPhys,81
 2021_01_PIT_BUF,TobiasC_____,65
 2021_01_PIT_BUF,Tom76502442,66
+2021_01_PIT_BUF,TomChandlerNFL,54
 2021_01_PIT_BUF,tomkeijzer,80
 2021_01_PIT_BUF,tommcquillin1,73
 2021_01_PIT_BUF,TommyJGregory,0
@@ -2233,7 +2233,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,grayson_hubble,53
 2021_01_NYJ_CAR,greerreNFL,63
 2021_01_NYJ_CAR,GridInsights,60
-2021_01_NYJ_CAR,grit_t_FB,53
 2021_01_NYJ_CAR,grntvedt,60
 2021_01_NYJ_CAR,gshelor,85
 2021_01_NYJ_CAR,hagearty20,72
@@ -2600,6 +2599,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,TLaimerPhys,54
 2021_01_NYJ_CAR,TobiasC_____,62
 2021_01_NYJ_CAR,Tom76502442,50
+2021_01_NYJ_CAR,TomChandlerNFL,53
 2021_01_NYJ_CAR,tomkeijzer,57
 2021_01_NYJ_CAR,tommcquillin1,55
 2021_01_NYJ_CAR,TommyJGregory,0
@@ -2906,7 +2906,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,grayson_hubble,50
 2021_01_MIN_CIN,greerreNFL,43
 2021_01_MIN_CIN,GridInsights,45
-2021_01_MIN_CIN,grit_t_FB,48
 2021_01_MIN_CIN,grntvedt,34
 2021_01_MIN_CIN,gshelor,52
 2021_01_MIN_CIN,hagearty20,28
@@ -3273,6 +3272,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,TLaimerPhys,40
 2021_01_MIN_CIN,TobiasC_____,35
 2021_01_MIN_CIN,Tom76502442,50
+2021_01_MIN_CIN,TomChandlerNFL,48
 2021_01_MIN_CIN,tomkeijzer,32
 2021_01_MIN_CIN,tommcquillin1,35
 2021_01_MIN_CIN,TommyJGregory,100
@@ -3579,7 +3579,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,grayson_hubble,50
 2021_01_SF_DET,greerreNFL,30
 2021_01_SF_DET,GridInsights,18
-2021_01_SF_DET,grit_t_FB,47
 2021_01_SF_DET,grntvedt,0
 2021_01_SF_DET,gshelor,42
 2021_01_SF_DET,hagearty20,19
@@ -3946,6 +3945,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,TLaimerPhys,21
 2021_01_SF_DET,TobiasC_____,20
 2021_01_SF_DET,Tom76502442,18
+2021_01_SF_DET,TomChandlerNFL,47
 2021_01_SF_DET,tomkeijzer,11
 2021_01_SF_DET,tommcquillin1,19
 2021_01_SF_DET,TommyJGregory,100
@@ -4252,7 +4252,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,grayson_hubble,50
 2021_01_JAX_HOU,greerreNFL,43
 2021_01_JAX_HOU,GridInsights,23
-2021_01_JAX_HOU,grit_t_FB,53
 2021_01_JAX_HOU,grntvedt,25
 2021_01_JAX_HOU,gshelor,43
 2021_01_JAX_HOU,hagearty20,23
@@ -4619,6 +4618,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,TLaimerPhys,35
 2021_01_JAX_HOU,TobiasC_____,45
 2021_01_JAX_HOU,Tom76502442,37
+2021_01_JAX_HOU,TomChandlerNFL,53
 2021_01_JAX_HOU,tomkeijzer,38
 2021_01_JAX_HOU,tommcquillin1,35
 2021_01_JAX_HOU,TommyJGregory,100
@@ -4925,7 +4925,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,grayson_hubble,50
 2021_01_SEA_IND,greerreNFL,46
 2021_01_SEA_IND,GridInsights,35
-2021_01_SEA_IND,grit_t_FB,49
 2021_01_SEA_IND,grntvedt,40
 2021_01_SEA_IND,gshelor,29
 2021_01_SEA_IND,hagearty20,42
@@ -5292,6 +5291,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,TLaimerPhys,36
 2021_01_SEA_IND,TobiasC_____,40
 2021_01_SEA_IND,Tom76502442,50
+2021_01_SEA_IND,TomChandlerNFL,49
 2021_01_SEA_IND,tomkeijzer,34
 2021_01_SEA_IND,tommcquillin1,40
 2021_01_SEA_IND,TommyJGregory,100
@@ -5598,7 +5598,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,grayson_hubble,50
 2021_01_ARI_TEN,greerreNFL,59
 2021_01_ARI_TEN,GridInsights,52
-2021_01_ARI_TEN,grit_t_FB,52
 2021_01_ARI_TEN,grntvedt,61
 2021_01_ARI_TEN,gshelor,66
 2021_01_ARI_TEN,hagearty20,63
@@ -5965,6 +5964,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,TLaimerPhys,56
 2021_01_ARI_TEN,TobiasC_____,63
 2021_01_ARI_TEN,Tom76502442,50
+2021_01_ARI_TEN,TomChandlerNFL,52
 2021_01_ARI_TEN,tomkeijzer,53
 2021_01_ARI_TEN,tommcquillin1,61
 2021_01_ARI_TEN,TommyJGregory,0
@@ -6271,7 +6271,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,grayson_hubble,50
 2021_01_LAC_WAS,greerreNFL,54
 2021_01_LAC_WAS,GridInsights,48
-2021_01_LAC_WAS,grit_t_FB,47
 2021_01_LAC_WAS,grntvedt,60
 2021_01_LAC_WAS,gshelor,45
 2021_01_LAC_WAS,hagearty20,57
@@ -6638,6 +6637,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,TLaimerPhys,50
 2021_01_LAC_WAS,TobiasC_____,54
 2021_01_LAC_WAS,Tom76502442,50
+2021_01_LAC_WAS,TomChandlerNFL,47
 2021_01_LAC_WAS,tomkeijzer,34
 2021_01_LAC_WAS,tommcquillin1,36
 2021_01_LAC_WAS,TommyJGregory,0
@@ -6944,7 +6944,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,grayson_hubble,50
 2021_01_CLE_KC,greerreNFL,65
 2021_01_CLE_KC,GridInsights,60
-2021_01_CLE_KC,grit_t_FB,54
 2021_01_CLE_KC,grntvedt,58
 2021_01_CLE_KC,gshelor,69
 2021_01_CLE_KC,hagearty20,44
@@ -7311,6 +7310,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,TLaimerPhys,77
 2021_01_CLE_KC,TobiasC_____,57
 2021_01_CLE_KC,Tom76502442,50
+2021_01_CLE_KC,TomChandlerNFL,54
 2021_01_CLE_KC,tomkeijzer,82
 2021_01_CLE_KC,tommcquillin1,76
 2021_01_CLE_KC,TommyJGregory,100
@@ -7617,7 +7617,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,grayson_hubble,50
 2021_01_MIA_NE,greerreNFL,52
 2021_01_MIA_NE,GridInsights,62
-2021_01_MIA_NE,grit_t_FB,48
 2021_01_MIA_NE,grntvedt,45
 2021_01_MIA_NE,gshelor,56
 2021_01_MIA_NE,hagearty20,75
@@ -7984,6 +7983,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,TLaimerPhys,54
 2021_01_MIA_NE,TobiasC_____,59
 2021_01_MIA_NE,Tom76502442,50
+2021_01_MIA_NE,TomChandlerNFL,48
 2021_01_MIA_NE,tomkeijzer,47
 2021_01_MIA_NE,tommcquillin1,39
 2021_01_MIA_NE,TommyJGregory,0
@@ -8290,7 +8290,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,grayson_hubble,50
 2021_01_GB_NO,greerreNFL,41
 2021_01_GB_NO,GridInsights,32
-2021_01_GB_NO,grit_t_FB,49
 2021_01_GB_NO,grntvedt,21
 2021_01_GB_NO,gshelor,43
 2021_01_GB_NO,hagearty20,42
@@ -8657,6 +8656,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,TLaimerPhys,35
 2021_01_GB_NO,TobiasC_____,34
 2021_01_GB_NO,Tom76502442,50
+2021_01_GB_NO,TomChandlerNFL,49
 2021_01_GB_NO,tomkeijzer,29
 2021_01_GB_NO,tommcquillin1,35
 2021_01_GB_NO,TommyJGregory,100
@@ -8963,7 +8963,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,grayson_hubble,50
 2021_01_DEN_NYG,greerreNFL,42
 2021_01_DEN_NYG,GridInsights,28
-2021_01_DEN_NYG,grit_t_FB,52
 2021_01_DEN_NYG,grntvedt,40
 2021_01_DEN_NYG,gshelor,45
 2021_01_DEN_NYG,hagearty20,23
@@ -9330,6 +9329,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,TLaimerPhys,49
 2021_01_DEN_NYG,TobiasC_____,39
 2021_01_DEN_NYG,Tom76502442,60
+2021_01_DEN_NYG,TomChandlerNFL,52
 2021_01_DEN_NYG,tomkeijzer,33
 2021_01_DEN_NYG,tommcquillin1,58
 2021_01_DEN_NYG,TommyJGregory,100
@@ -9637,7 +9637,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,grayson_hubble,50
 2021_01_CHI_LA,greerreNFL,70
 2021_01_CHI_LA,GridInsights,75
-2021_01_CHI_LA,grit_t_FB,53
 2021_01_CHI_LA,grntvedt,91
 2021_01_CHI_LA,gshelor,83
 2021_01_CHI_LA,hagearty20,70
@@ -10005,6 +10004,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,TLaimerPhys,79
 2021_01_CHI_LA,TobiasC_____,75
 2021_01_CHI_LA,Tom76502442,65
+2021_01_CHI_LA,TomChandlerNFL,53
 2021_01_CHI_LA,tomkeijzer,71
 2021_01_CHI_LA,tommcquillin1,55
 2021_01_CHI_LA,TommyJGregory,0
@@ -10323,7 +10323,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,grayson_hubble,50
 2021_01_BAL_LV,greerreNFL,38
 2021_01_BAL_LV,GridInsights,38
-2021_01_BAL_LV,grit_t_FB,46
 2021_01_BAL_LV,grntvedt,0
 2021_01_BAL_LV,gshelor,37
 2021_01_BAL_LV,hagearty20,39
@@ -10705,6 +10704,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,TLaimerPhys,0
 2021_01_BAL_LV,TobiasC_____,33
 2021_01_BAL_LV,Tom76502442,50
+2021_01_BAL_LV,TomChandlerNFL,46
 2021_01_BAL_LV,tomkeijzer,25
 2021_01_BAL_LV,tommcquillin1,30
 2021_01_BAL_LV,TommyJGregory,100
@@ -11300,7 +11300,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,greerre,50
 2021_02_NO_CAR,greerreNFL,37
 2021_02_NO_CAR,GridInsights,45
-2021_02_NO_CAR,grit_t_FB,38
 2021_02_NO_CAR,gshelor,29
 2021_02_NO_CAR,HDr0bot,25
 2021_02_NO_CAR,henrygise,35
@@ -11537,6 +11536,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,tjsullivan1,26
 2021_02_NO_CAR,tjwillz31,58
 2021_02_NO_CAR,TobiasC_____,36
+2021_02_NO_CAR,TomChandlerNFL,38
 2021_02_NO_CAR,tomgardner5,67
 2021_02_NO_CAR,tommcquillin1,38
 2021_02_NO_CAR,TommyJGregory,50
@@ -11733,7 +11733,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,greerre,50
 2021_02_CIN_CHI,greerreNFL,53
 2021_02_CIN_CHI,GridInsights,42
-2021_02_CIN_CHI,grit_t_FB,45
 2021_02_CIN_CHI,gshelor,41
 2021_02_CIN_CHI,HDr0bot,45
 2021_02_CIN_CHI,henrygise,35
@@ -11970,6 +11969,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,tjsullivan1,39
 2021_02_CIN_CHI,tjwillz31,42
 2021_02_CIN_CHI,TobiasC_____,45
+2021_02_CIN_CHI,TomChandlerNFL,45
 2021_02_CIN_CHI,tomgardner5,79
 2021_02_CIN_CHI,tommcquillin1,58
 2021_02_CIN_CHI,TommyJGregory,50
@@ -12166,7 +12166,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,greerre,50
 2021_02_HOU_CLE,greerreNFL,78
 2021_02_HOU_CLE,GridInsights,79
-2021_02_HOU_CLE,grit_t_FB,48
 2021_02_HOU_CLE,gshelor,98
 2021_02_HOU_CLE,HDr0bot,91
 2021_02_HOU_CLE,henrygise,100
@@ -12403,6 +12402,7 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,tjsullivan1,76
 2021_02_HOU_CLE,tjwillz31,74
 2021_02_HOU_CLE,TobiasC_____,77
+2021_02_HOU_CLE,TomChandlerNFL,48
 2021_02_HOU_CLE,tomgardner5,84
 2021_02_HOU_CLE,tommcquillin1,87
 2021_02_HOU_CLE,TommyJGregory,50
@@ -12599,7 +12599,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,greerre,50
 2021_02_LA_IND,greerreNFL,35
 2021_02_LA_IND,GridInsights,29
-2021_02_LA_IND,grit_t_FB,38
 2021_02_LA_IND,gshelor,30
 2021_02_LA_IND,HDr0bot,39
 2021_02_LA_IND,henrygise,38
@@ -12836,6 +12835,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,tjsullivan1,0
 2021_02_LA_IND,tjwillz31,47
 2021_02_LA_IND,TobiasC_____,31
+2021_02_LA_IND,TomChandlerNFL,38
 2021_02_LA_IND,tomgardner5,51
 2021_02_LA_IND,tommcquillin1,35
 2021_02_LA_IND,TommyJGregory,50
@@ -13032,7 +13032,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,greerre,50
 2021_02_DEN_JAX,greerreNFL,33
 2021_02_DEN_JAX,GridInsights,29
-2021_02_DEN_JAX,grit_t_FB,36
 2021_02_DEN_JAX,gshelor,45
 2021_02_DEN_JAX,HDr0bot,41
 2021_02_DEN_JAX,henrygise,40
@@ -13269,6 +13268,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,tjsullivan1,38
 2021_02_DEN_JAX,tjwillz31,24
 2021_02_DEN_JAX,TobiasC_____,25
+2021_02_DEN_JAX,TomChandlerNFL,36
 2021_02_DEN_JAX,tomgardner5,50
 2021_02_DEN_JAX,tommcquillin1,27
 2021_02_DEN_JAX,TommyJGregory,50
@@ -13465,7 +13465,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,greerre,50
 2021_02_BUF_MIA,greerreNFL,48
 2021_02_BUF_MIA,GridInsights,29
-2021_02_BUF_MIA,grit_t_FB,52
 2021_02_BUF_MIA,gshelor,25
 2021_02_BUF_MIA,HDr0bot,55
 2021_02_BUF_MIA,henrygise,50
@@ -13702,6 +13701,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,tjsullivan1,0
 2021_02_BUF_MIA,tjwillz31,47
 2021_02_BUF_MIA,TobiasC_____,38
+2021_02_BUF_MIA,TomChandlerNFL,52
 2021_02_BUF_MIA,tomgardner5,50
 2021_02_BUF_MIA,tommcquillin1,35
 2021_02_BUF_MIA,TommyJGregory,50
@@ -13898,7 +13898,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,greerre,50
 2021_02_NE_NYJ,greerreNFL,31
 2021_02_NE_NYJ,GridInsights,29
-2021_02_NE_NYJ,grit_t_FB,44
 2021_02_NE_NYJ,gshelor,35
 2021_02_NE_NYJ,HDr0bot,25
 2021_02_NE_NYJ,henrygise,45
@@ -14135,6 +14134,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,tjsullivan1,1
 2021_02_NE_NYJ,tjwillz31,22
 2021_02_NE_NYJ,TobiasC_____,32
+2021_02_NE_NYJ,TomChandlerNFL,44
 2021_02_NE_NYJ,tomgardner5,50
 2021_02_NE_NYJ,tommcquillin1,27
 2021_02_NE_NYJ,TommyJGregory,50
@@ -14331,7 +14331,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,greerre,50
 2021_02_SF_PHI,greerreNFL,37
 2021_02_SF_PHI,GridInsights,46
-2021_02_SF_PHI,grit_t_FB,53
 2021_02_SF_PHI,gshelor,46
 2021_02_SF_PHI,HDr0bot,44
 2021_02_SF_PHI,henrygise,40
@@ -14568,6 +14567,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,tjsullivan1,35
 2021_02_SF_PHI,tjwillz31,42
 2021_02_SF_PHI,TobiasC_____,36
+2021_02_SF_PHI,TomChandlerNFL,53
 2021_02_SF_PHI,tomgardner5,50
 2021_02_SF_PHI,tommcquillin1,50
 2021_02_SF_PHI,TommyJGregory,50
@@ -14764,7 +14764,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,greerre,50
 2021_02_LV_PIT,greerreNFL,60
 2021_02_LV_PIT,GridInsights,58
-2021_02_LV_PIT,grit_t_FB,61
 2021_02_LV_PIT,gshelor,42
 2021_02_LV_PIT,HDr0bot,60
 2021_02_LV_PIT,henrygise,28
@@ -15001,6 +15000,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,tjsullivan1,33
 2021_02_LV_PIT,tjwillz31,55
 2021_02_LV_PIT,TobiasC_____,55
+2021_02_LV_PIT,TomChandlerNFL,61
 2021_02_LV_PIT,tomgardner5,50
 2021_02_LV_PIT,tommcquillin1,67
 2021_02_LV_PIT,TommyJGregory,50
@@ -15198,7 +15198,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,greerre,50
 2021_02_MIN_ARI,greerreNFL,55
 2021_02_MIN_ARI,GridInsights,56
-2021_02_MIN_ARI,grit_t_FB,60
 2021_02_MIN_ARI,gshelor,82
 2021_02_MIN_ARI,HDr0bot,60
 2021_02_MIN_ARI,henrygise,54
@@ -15435,6 +15434,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,tjsullivan1,100
 2021_02_MIN_ARI,tjwillz31,51
 2021_02_MIN_ARI,TobiasC_____,57
+2021_02_MIN_ARI,TomChandlerNFL,60
 2021_02_MIN_ARI,tomgardner5,50
 2021_02_MIN_ARI,tommcquillin1,71
 2021_02_MIN_ARI,TommyJGregory,50
@@ -15632,7 +15632,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,greerre,50
 2021_02_ATL_TB,greerreNFL,79
 2021_02_ATL_TB,GridInsights,90
-2021_02_ATL_TB,grit_t_FB,64
 2021_02_ATL_TB,gshelor,99
 2021_02_ATL_TB,HDr0bot,75
 2021_02_ATL_TB,henrygise,50
@@ -15869,6 +15868,7 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,tjsullivan1,100
 2021_02_ATL_TB,tjwillz31,74
 2021_02_ATL_TB,TobiasC_____,81
+2021_02_ATL_TB,TomChandlerNFL,64
 2021_02_ATL_TB,tomgardner5,50
 2021_02_ATL_TB,tommcquillin1,74
 2021_02_ATL_TB,TommyJGregory,50
@@ -15912,8 +15912,8 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,zackry_mc,100
 2021_02_ATL_TB,zacwest91,100
 2021_02_ATL_TB,zweinberg18,80
-2021_02_DAL_LAC,,36
 2021_02_DAL_LAC,,57
+2021_02_DAL_LAC,,36
 2021_02_DAL_LAC,__DavidOfficial,45
 2021_02_DAL_LAC,_DH44_,49
 2021_02_DAL_LAC,_jclemons,45
@@ -16066,7 +16066,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,greerre,50
 2021_02_DAL_LAC,greerreNFL,49
 2021_02_DAL_LAC,GridInsights,60
-2021_02_DAL_LAC,grit_t_FB,64
 2021_02_DAL_LAC,gshelor,59
 2021_02_DAL_LAC,HDr0bot,38
 2021_02_DAL_LAC,henrygise,50
@@ -16303,6 +16302,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,tjsullivan1,61
 2021_02_DAL_LAC,tjwillz31,51
 2021_02_DAL_LAC,TobiasC_____,44
+2021_02_DAL_LAC,TomChandlerNFL,64
 2021_02_DAL_LAC,tomgardner5,50
 2021_02_DAL_LAC,tommcquillin1,38
 2021_02_DAL_LAC,TommyJGregory,50
@@ -16500,7 +16500,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,greerre,50
 2021_02_TEN_SEA,greerreNFL,67
 2021_02_TEN_SEA,GridInsights,65
-2021_02_TEN_SEA,grit_t_FB,64
 2021_02_TEN_SEA,gshelor,80
 2021_02_TEN_SEA,HDr0bot,75
 2021_02_TEN_SEA,henrygise,50
@@ -16737,6 +16736,7 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,tjsullivan1,65
 2021_02_TEN_SEA,tjwillz31,51
 2021_02_TEN_SEA,TobiasC_____,59
+2021_02_TEN_SEA,TomChandlerNFL,64
 2021_02_TEN_SEA,tomgardner5,50
 2021_02_TEN_SEA,tommcquillin1,57
 2021_02_TEN_SEA,TommyJGregory,50
@@ -16934,7 +16934,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,greerre,50
 2021_02_KC_BAL,greerreNFL,43
 2021_02_KC_BAL,GridInsights,35
-2021_02_KC_BAL,grit_t_FB,61
 2021_02_KC_BAL,gshelor,63
 2021_02_KC_BAL,HDr0bot,37
 2021_02_KC_BAL,henrygise,50
@@ -17171,6 +17170,7 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,tjsullivan1,35
 2021_02_KC_BAL,tjwillz31,39
 2021_02_KC_BAL,TobiasC_____,55
+2021_02_KC_BAL,TomChandlerNFL,61
 2021_02_KC_BAL,tomgardner5,50
 2021_02_KC_BAL,tommcquillin1,26
 2021_02_KC_BAL,TommyJGregory,50
@@ -17368,7 +17368,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,greerre,50
 2021_02_DET_GB,greerreNFL,78
 2021_02_DET_GB,GridInsights,80
-2021_02_DET_GB,grit_t_FB,48
 2021_02_DET_GB,gshelor,53
 2021_02_DET_GB,HDr0bot,62
 2021_02_DET_GB,henrygise,83
@@ -17605,6 +17604,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,tjsullivan1,51
 2021_02_DET_GB,tjwillz31,81
 2021_02_DET_GB,TobiasC_____,77
+2021_02_DET_GB,TomChandlerNFL,48
 2021_02_DET_GB,tomgardner5,50
 2021_02_DET_GB,tommcquillin1,77
 2021_02_DET_GB,TommyJGregory,50
@@ -17773,7 +17773,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,good_vaibs,0
 2021_03_CAR_HOU,greerreNFL,26
 2021_03_CAR_HOU,GridInsights,19
-2021_03_CAR_HOU,grit_t_FB,50
 2021_03_CAR_HOU,gshelor,33
 2021_03_CAR_HOU,henrygise,20
 2021_03_CAR_HOU,htennis98,35
@@ -17959,6 +17958,7 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,throwthedamball,15
 2021_03_CAR_HOU,tjwillz31,25
 2021_03_CAR_HOU,TobiasC_____,21
+2021_03_CAR_HOU,TomChandlerNFL,50
 2021_03_CAR_HOU,tommcquillin1,35
 2021_03_CAR_HOU,TommyPraeger,22
 2021_03_CAR_HOU,TomRagaert,17
@@ -18126,7 +18126,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,good_vaibs,73
 2021_03_WAS_BUF,greerreNFL,78
 2021_03_WAS_BUF,GridInsights,71
-2021_03_WAS_BUF,grit_t_FB,50
 2021_03_WAS_BUF,gshelor,84
 2021_03_WAS_BUF,hagearty20,49
 2021_03_WAS_BUF,HDr0bot,67
@@ -18334,6 +18333,7 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,throwthedamball,75
 2021_03_WAS_BUF,tjwillz31,74
 2021_03_WAS_BUF,TobiasC_____,66
+2021_03_WAS_BUF,TomChandlerNFL,50
 2021_03_WAS_BUF,tommcquillin1,80
 2021_03_WAS_BUF,TommyPraeger,73
 2021_03_WAS_BUF,TomRagaert,70
@@ -18367,8 +18367,8 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
+2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -18501,7 +18501,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,good_vaibs,74
 2021_03_CHI_CLE,greerreNFL,65
 2021_03_CHI_CLE,GridInsights,77
-2021_03_CHI_CLE,grit_t_FB,50
 2021_03_CHI_CLE,gshelor,70
 2021_03_CHI_CLE,hagearty20,77
 2021_03_CHI_CLE,HDr0bot,74
@@ -18709,6 +18708,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,throwthedamball,62
 2021_03_CHI_CLE,tjwillz31,74
 2021_03_CHI_CLE,TobiasC_____,74
+2021_03_CHI_CLE,TomChandlerNFL,50
 2021_03_CHI_CLE,tommcquillin1,75
 2021_03_CHI_CLE,TommyPraeger,75
 2021_03_CHI_CLE,TomRagaert,66
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
+2021_03_BAL_DET,,21
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -18876,7 +18876,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,good_vaibs,15
 2021_03_BAL_DET,greerreNFL,26
 2021_03_BAL_DET,GridInsights,19
-2021_03_BAL_DET,grit_t_FB,50
 2021_03_BAL_DET,gshelor,21
 2021_03_BAL_DET,hagearty20,38
 2021_03_BAL_DET,HDr0bot,29
@@ -19084,6 +19083,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,throwthedamball,25
 2021_03_BAL_DET,tjwillz31,14
 2021_03_BAL_DET,TobiasC_____,27
+2021_03_BAL_DET,TomChandlerNFL,50
 2021_03_BAL_DET,tommcquillin1,20
 2021_03_BAL_DET,TommyPraeger,17
 2021_03_BAL_DET,TomRagaert,8
@@ -19251,7 +19251,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,good_vaibs,35
 2021_03_ARI_JAX,greerreNFL,35
 2021_03_ARI_JAX,GridInsights,14
-2021_03_ARI_JAX,grit_t_FB,50
 2021_03_ARI_JAX,gshelor,13
 2021_03_ARI_JAX,hagearty20,23
 2021_03_ARI_JAX,HDr0bot,41
@@ -19459,6 +19458,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,throwthedamball,59
 2021_03_ARI_JAX,tjwillz31,19
 2021_03_ARI_JAX,TobiasC_____,30
+2021_03_ARI_JAX,TomChandlerNFL,50
 2021_03_ARI_JAX,tommcquillin1,17
 2021_03_ARI_JAX,TommyPraeger,24
 2021_03_ARI_JAX,TomRagaert,12
@@ -19626,7 +19626,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,good_vaibs,71
 2021_03_LAC_KC,greerreNFL,69
 2021_03_LAC_KC,GridInsights,70
-2021_03_LAC_KC,grit_t_FB,50
 2021_03_LAC_KC,gshelor,96
 2021_03_LAC_KC,hagearty20,48
 2021_03_LAC_KC,HDr0bot,72
@@ -19834,6 +19833,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,throwthedamball,46
 2021_03_LAC_KC,tjwillz31,74
 2021_03_LAC_KC,TobiasC_____,64
+2021_03_LAC_KC,TomChandlerNFL,50
 2021_03_LAC_KC,tommcquillin1,77
 2021_03_LAC_KC,TommyPraeger,66
 2021_03_LAC_KC,TomRagaert,64
@@ -20001,7 +20001,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,good_vaibs,61
 2021_03_NO_NE,greerreNFL,52
 2021_03_NO_NE,GridInsights,50
-2021_03_NO_NE,grit_t_FB,50
 2021_03_NO_NE,gshelor,53
 2021_03_NO_NE,hagearty20,41
 2021_03_NO_NE,HDr0bot,33
@@ -20209,6 +20208,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,throwthedamball,70
 2021_03_NO_NE,tjwillz31,56
 2021_03_NO_NE,TobiasC_____,47
+2021_03_NO_NE,TomChandlerNFL,50
 2021_03_NO_NE,tommcquillin1,45
 2021_03_NO_NE,TommyPraeger,51
 2021_03_NO_NE,TomRagaert,40
@@ -20376,7 +20376,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,good_vaibs,35
 2021_03_ATL_NYG,greerreNFL,59
 2021_03_ATL_NYG,GridInsights,52
-2021_03_ATL_NYG,grit_t_FB,50
 2021_03_ATL_NYG,gshelor,53
 2021_03_ATL_NYG,hagearty20,54
 2021_03_ATL_NYG,HDr0bot,45
@@ -20584,6 +20583,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,throwthedamball,50
 2021_03_ATL_NYG,tjwillz31,50
 2021_03_ATL_NYG,TobiasC_____,52
+2021_03_ATL_NYG,TomChandlerNFL,50
 2021_03_ATL_NYG,tommcquillin1,46
 2021_03_ATL_NYG,TommyPraeger,60
 2021_03_ATL_NYG,TomRagaert,65
@@ -20617,8 +20617,8 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,YayySports,66
 2021_03_ATL_NYG,zackry_mc,50
 2021_03_ATL_NYG,zweinberg18,55
-2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,,57
+2021_03_CIN_PIT,,50
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -20751,7 +20751,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,good_vaibs,55
 2021_03_CIN_PIT,greerreNFL,63
 2021_03_CIN_PIT,GridInsights,54
-2021_03_CIN_PIT,grit_t_FB,50
 2021_03_CIN_PIT,gshelor,71
 2021_03_CIN_PIT,hagearty20,43
 2021_03_CIN_PIT,HDr0bot,61
@@ -20959,6 +20958,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,throwthedamball,36
 2021_03_CIN_PIT,tjwillz31,55
 2021_03_CIN_PIT,TobiasC_____,62
+2021_03_CIN_PIT,TomChandlerNFL,50
 2021_03_CIN_PIT,tommcquillin1,62
 2021_03_CIN_PIT,TommyPraeger,61
 2021_03_CIN_PIT,TomRagaert,66
@@ -21126,7 +21126,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,good_vaibs,71
 2021_03_IND_TEN,greerreNFL,67
 2021_03_IND_TEN,GridInsights,65
-2021_03_IND_TEN,grit_t_FB,50
 2021_03_IND_TEN,gshelor,71
 2021_03_IND_TEN,hagearty20,50
 2021_03_IND_TEN,HDr0bot,58
@@ -21334,6 +21333,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,throwthedamball,60
 2021_03_IND_TEN,tjwillz31,57
 2021_03_IND_TEN,TobiasC_____,66
+2021_03_IND_TEN,TomChandlerNFL,50
 2021_03_IND_TEN,tommcquillin1,76
 2021_03_IND_TEN,TommyPraeger,62
 2021_03_IND_TEN,TomRagaert,75
@@ -21503,7 +21503,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,good_vaibs,63
 2021_03_NYJ_DEN,greerreNFL,79
 2021_03_NYJ_DEN,GridInsights,82
-2021_03_NYJ_DEN,grit_t_FB,50
 2021_03_NYJ_DEN,gshelor,67
 2021_03_NYJ_DEN,hagearty20,91
 2021_03_NYJ_DEN,HDr0bot,85
@@ -21711,6 +21710,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,throwthedamball,66
 2021_03_NYJ_DEN,tjwillz31,84
 2021_03_NYJ_DEN,TobiasC_____,75
+2021_03_NYJ_DEN,TomChandlerNFL,50
 2021_03_NYJ_DEN,tommcquillin1,84
 2021_03_NYJ_DEN,TommyPraeger,78
 2021_03_NYJ_DEN,TomRagaert,87
@@ -21745,8 +21745,8 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,YayySports,81
 2021_03_NYJ_DEN,zackry_mc,100
 2021_03_NYJ_DEN,zweinberg18,73
-2021_03_MIA_LV,,50
 2021_03_MIA_LV,,69
+2021_03_MIA_LV,,50
 2021_03_MIA_LV,__DavidOfficial,75
 2021_03_MIA_LV,_alendowsky,55
 2021_03_MIA_LV,_DH44_,49
@@ -21881,7 +21881,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,good_vaibs,79
 2021_03_MIA_LV,greerreNFL,66
 2021_03_MIA_LV,GridInsights,69
-2021_03_MIA_LV,grit_t_FB,50
 2021_03_MIA_LV,gshelor,64
 2021_03_MIA_LV,hagearty20,59
 2021_03_MIA_LV,HDr0bot,59
@@ -22090,6 +22089,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,throwthedamball,42
 2021_03_MIA_LV,tjwillz31,65
 2021_03_MIA_LV,TobiasC_____,71
+2021_03_MIA_LV,TomChandlerNFL,50
 2021_03_MIA_LV,tommcquillin1,68
 2021_03_MIA_LV,TommyPraeger,58
 2021_03_MIA_LV,TomRagaert,58
@@ -22260,7 +22260,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,good_vaibs,59
 2021_03_TB_LA,greerreNFL,49
 2021_03_TB_LA,GridInsights,50
-2021_03_TB_LA,grit_t_FB,50
 2021_03_TB_LA,gshelor,44
 2021_03_TB_LA,hagearty20,39
 2021_03_TB_LA,HDr0bot,39
@@ -22469,6 +22468,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,throwthedamball,50
 2021_03_TB_LA,tjwillz31,46
 2021_03_TB_LA,TobiasC_____,54
+2021_03_TB_LA,TomChandlerNFL,50
 2021_03_TB_LA,tommcquillin1,58
 2021_03_TB_LA,TommyPraeger,45
 2021_03_TB_LA,TomRagaert,63
@@ -22503,8 +22503,8 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
-2021_03_SEA_MIN,,50
 2021_03_SEA_MIN,,0
+2021_03_SEA_MIN,,50
 2021_03_SEA_MIN,__DavidOfficial,40
 2021_03_SEA_MIN,_alendowsky,47
 2021_03_SEA_MIN,_DH44_,52
@@ -22639,7 +22639,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,good_vaibs,67
 2021_03_SEA_MIN,greerreNFL,48
 2021_03_SEA_MIN,GridInsights,45
-2021_03_SEA_MIN,grit_t_FB,50
 2021_03_SEA_MIN,gshelor,20
 2021_03_SEA_MIN,hagearty20,43
 2021_03_SEA_MIN,HDr0bot,25
@@ -22848,6 +22847,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,throwthedamball,29
 2021_03_SEA_MIN,tjwillz31,40
 2021_03_SEA_MIN,TobiasC_____,51
+2021_03_SEA_MIN,TomChandlerNFL,50
 2021_03_SEA_MIN,tommcquillin1,56
 2021_03_SEA_MIN,TommyPraeger,44
 2021_03_SEA_MIN,TomRagaert,38
@@ -23018,7 +23018,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,good_vaibs,75
 2021_03_GB_SF,greerreNFL,51
 2021_03_GB_SF,GridInsights,57
-2021_03_GB_SF,grit_t_FB,50
 2021_03_GB_SF,gshelor,63
 2021_03_GB_SF,hagearty20,45
 2021_03_GB_SF,HDr0bot,39
@@ -23228,6 +23227,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,throwthedamball,25
 2021_03_GB_SF,tjwillz31,55
 2021_03_GB_SF,TobiasC_____,64
+2021_03_GB_SF,TomChandlerNFL,50
 2021_03_GB_SF,tommcquillin1,50
 2021_03_GB_SF,TommyPraeger,51
 2021_03_GB_SF,TomRagaert,40
@@ -23405,7 +23405,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,good_vaibs,63
 2021_03_PHI_DAL,greerreNFL,65
 2021_03_PHI_DAL,GridInsights,55
-2021_03_PHI_DAL,grit_t_FB,60
 2021_03_PHI_DAL,gshelor,67
 2021_03_PHI_DAL,hagearty20,61
 2021_03_PHI_DAL,HDr0bot,63
@@ -23624,6 +23623,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,throwthedamball,82
 2021_03_PHI_DAL,tjwillz31,58
 2021_03_PHI_DAL,TobiasC_____,66
+2021_03_PHI_DAL,TomChandlerNFL,60
 2021_03_PHI_DAL,tommcquillin1,71
 2021_03_PHI_DAL,TommyPraeger,59
 2021_03_PHI_DAL,TomRagaert,71
@@ -23786,7 +23786,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,good_vaibs,59
 2021_04_JAX_CIN,greerreNFL,74
 2021_04_JAX_CIN,GridInsights,70
-2021_04_JAX_CIN,grit_t_FB,70
 2021_04_JAX_CIN,gshelor,85
 2021_04_JAX_CIN,HDr0bot,69
 2021_04_JAX_CIN,henrygise,67
@@ -23982,6 +23981,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,throwthedamball,70
 2021_04_JAX_CIN,tjwillz31,78
 2021_04_JAX_CIN,TobiasC_____,64
+2021_04_JAX_CIN,TomChandlerNFL,70
 2021_04_JAX_CIN,tommcquillin1,68
 2021_04_JAX_CIN,TommyPraeger,77
 2021_04_JAX_CIN,TomRagaert,78
@@ -24157,7 +24157,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,good_vaibs,45
 2021_04_WAS_ATL,greerreNFL,51
 2021_04_WAS_ATL,GridInsights,40
-2021_04_WAS_ATL,grit_t_FB,42
 2021_04_WAS_ATL,gshelor,41
 2021_04_WAS_ATL,hagearty20,42
 2021_04_WAS_ATL,HDr0bot,57
@@ -24371,6 +24370,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,throwthedamball,65
 2021_04_WAS_ATL,tjwillz31,40
 2021_04_WAS_ATL,TobiasC_____,48
+2021_04_WAS_ATL,TomChandlerNFL,42
 2021_04_WAS_ATL,tommcquillin1,56
 2021_04_WAS_ATL,TommyPraeger,45
 2021_04_WAS_ATL,TomRagaert,43
@@ -24549,7 +24549,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,good_vaibs,100
 2021_04_HOU_BUF,greerreNFL,89
 2021_04_HOU_BUF,GridInsights,87
-2021_04_HOU_BUF,grit_t_FB,74
 2021_04_HOU_BUF,gshelor,98
 2021_04_HOU_BUF,hagearty20,100
 2021_04_HOU_BUF,HDr0bot,100
@@ -24763,6 +24762,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,throwthedamball,85
 2021_04_HOU_BUF,tjwillz31,84
 2021_04_HOU_BUF,TobiasC_____,75
+2021_04_HOU_BUF,TomChandlerNFL,74
 2021_04_HOU_BUF,tommcquillin1,92
 2021_04_HOU_BUF,TommyPraeger,86
 2021_04_HOU_BUF,TomRagaert,100
@@ -24941,7 +24941,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,good_vaibs,39
 2021_04_DET_CHI,greerreNFL,58
 2021_04_DET_CHI,GridInsights,45
-2021_04_DET_CHI,grit_t_FB,42
 2021_04_DET_CHI,gshelor,36
 2021_04_DET_CHI,hagearty20,41
 2021_04_DET_CHI,HDr0bot,45
@@ -25155,6 +25154,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,throwthedamball,46
 2021_04_DET_CHI,tjwillz31,47
 2021_04_DET_CHI,TobiasC_____,47
+2021_04_DET_CHI,TomChandlerNFL,42
 2021_04_DET_CHI,tommcquillin1,65
 2021_04_DET_CHI,TommyPraeger,44
 2021_04_DET_CHI,TomRagaert,46
@@ -25333,7 +25333,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,good_vaibs,45
 2021_04_CAR_DAL,greerreNFL,63
 2021_04_CAR_DAL,GridInsights,48
-2021_04_CAR_DAL,grit_t_FB,54
 2021_04_CAR_DAL,gshelor,47
 2021_04_CAR_DAL,hagearty20,72
 2021_04_CAR_DAL,HDr0bot,64
@@ -25547,6 +25546,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,throwthedamball,76
 2021_04_CAR_DAL,tjwillz31,61
 2021_04_CAR_DAL,TobiasC_____,63
+2021_04_CAR_DAL,TomChandlerNFL,54
 2021_04_CAR_DAL,tommcquillin1,71
 2021_04_CAR_DAL,TommyPraeger,64
 2021_04_CAR_DAL,TomRagaert,58
@@ -25725,7 +25725,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,good_vaibs,45
 2021_04_IND_MIA,greerreNFL,53
 2021_04_IND_MIA,GridInsights,46
-2021_04_IND_MIA,grit_t_FB,46
 2021_04_IND_MIA,gshelor,56
 2021_04_IND_MIA,hagearty20,52
 2021_04_IND_MIA,HDr0bot,58
@@ -25939,6 +25938,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,throwthedamball,37
 2021_04_IND_MIA,tjwillz31,40
 2021_04_IND_MIA,TobiasC_____,54
+2021_04_IND_MIA,TomChandlerNFL,46
 2021_04_IND_MIA,tommcquillin1,65
 2021_04_IND_MIA,TommyPraeger,49
 2021_04_IND_MIA,TomRagaert,55
@@ -26117,7 +26117,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,good_vaibs,59
 2021_04_CLE_MIN,greerreNFL,47
 2021_04_CLE_MIN,GridInsights,48
-2021_04_CLE_MIN,grit_t_FB,47
 2021_04_CLE_MIN,gshelor,33
 2021_04_CLE_MIN,hagearty20,38
 2021_04_CLE_MIN,HDr0bot,39
@@ -26331,6 +26330,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,throwthedamball,20
 2021_04_CLE_MIN,tjwillz31,45
 2021_04_CLE_MIN,TobiasC_____,45
+2021_04_CLE_MIN,TomChandlerNFL,47
 2021_04_CLE_MIN,tommcquillin1,35
 2021_04_CLE_MIN,TommyPraeger,46
 2021_04_CLE_MIN,TomRagaert,0
@@ -26509,7 +26509,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,good_vaibs,65
 2021_04_NYG_NO,greerreNFL,74
 2021_04_NYG_NO,GridInsights,64
-2021_04_NYG_NO,grit_t_FB,67
 2021_04_NYG_NO,gshelor,67
 2021_04_NYG_NO,hagearty20,67
 2021_04_NYG_NO,HDr0bot,75
@@ -26723,6 +26722,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,throwthedamball,64
 2021_04_NYG_NO,tjwillz31,79
 2021_04_NYG_NO,TobiasC_____,73
+2021_04_NYG_NO,TomChandlerNFL,67
 2021_04_NYG_NO,tommcquillin1,66
 2021_04_NYG_NO,TommyPraeger,72
 2021_04_NYG_NO,TomRagaert,76
@@ -26901,7 +26901,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,good_vaibs,30
 2021_04_TEN_NYJ,greerreNFL,27
 2021_04_TEN_NYJ,GridInsights,35
-2021_04_TEN_NYJ,grit_t_FB,30
 2021_04_TEN_NYJ,gshelor,16
 2021_04_TEN_NYJ,hagearty20,24
 2021_04_TEN_NYJ,HDr0bot,19
@@ -27115,6 +27114,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,throwthedamball,64
 2021_04_TEN_NYJ,tjwillz31,25
 2021_04_TEN_NYJ,TobiasC_____,30
+2021_04_TEN_NYJ,TomChandlerNFL,30
 2021_04_TEN_NYJ,tommcquillin1,25
 2021_04_TEN_NYJ,TommyPraeger,31
 2021_04_TEN_NYJ,TomRagaert,24
@@ -27293,7 +27293,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,good_vaibs,25
 2021_04_KC_PHI,greerreNFL,32
 2021_04_KC_PHI,GridInsights,32
-2021_04_KC_PHI,grit_t_FB,48
 2021_04_KC_PHI,gshelor,26
 2021_04_KC_PHI,hagearty20,9
 2021_04_KC_PHI,HDr0bot,29
@@ -27507,6 +27506,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,throwthedamball,14
 2021_04_KC_PHI,tjwillz31,17
 2021_04_KC_PHI,TobiasC_____,28
+2021_04_KC_PHI,TomChandlerNFL,48
 2021_04_KC_PHI,tommcquillin1,24
 2021_04_KC_PHI,TommyPraeger,23
 2021_04_KC_PHI,TomRagaert,0
@@ -27686,7 +27686,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,good_vaibs,65
 2021_04_ARI_LA,greerreNFL,68
 2021_04_ARI_LA,GridInsights,44
-2021_04_ARI_LA,grit_t_FB,54
 2021_04_ARI_LA,gshelor,60
 2021_04_ARI_LA,hagearty20,73
 2021_04_ARI_LA,HDr0bot,61
@@ -27902,6 +27901,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,throwthedamball,81
 2021_04_ARI_LA,tjwillz31,61
 2021_04_ARI_LA,TobiasC_____,64
+2021_04_ARI_LA,TomChandlerNFL,54
 2021_04_ARI_LA,tommcquillin1,75
 2021_04_ARI_LA,TommyPraeger,64
 2021_04_ARI_LA,TomRagaert,76
@@ -28082,7 +28082,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,good_vaibs,63
 2021_04_SEA_SF,greerreNFL,55
 2021_04_SEA_SF,GridInsights,48
-2021_04_SEA_SF,grit_t_FB,56
 2021_04_SEA_SF,gshelor,52
 2021_04_SEA_SF,hagearty20,21
 2021_04_SEA_SF,HDr0bot,35
@@ -28298,6 +28297,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,throwthedamball,32
 2021_04_SEA_SF,tjwillz31,46
 2021_04_SEA_SF,TobiasC_____,53
+2021_04_SEA_SF,TomChandlerNFL,56
 2021_04_SEA_SF,tommcquillin1,65
 2021_04_SEA_SF,TommyPraeger,51
 2021_04_SEA_SF,TomRagaert,58
@@ -28480,7 +28480,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,good_vaibs,42
 2021_04_BAL_DEN,greerreNFL,53
 2021_04_BAL_DEN,GridInsights,60
-2021_04_BAL_DEN,grit_t_FB,74
 2021_04_BAL_DEN,gshelor,25
 2021_04_BAL_DEN,hagearty20,58
 2021_04_BAL_DEN,HDr0bot,35
@@ -28696,6 +28695,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,throwthedamball,65
 2021_04_BAL_DEN,tjwillz31,57
 2021_04_BAL_DEN,TobiasC_____,43
+2021_04_BAL_DEN,TomChandlerNFL,74
 2021_04_BAL_DEN,tommcquillin1,36
 2021_04_BAL_DEN,TommyPraeger,45
 2021_04_BAL_DEN,TomRagaert,40
@@ -28878,7 +28878,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,good_vaibs,71
 2021_04_PIT_GB,greerreNFL,71
 2021_04_PIT_GB,GridInsights,67
-2021_04_PIT_GB,grit_t_FB,58
 2021_04_PIT_GB,gshelor,61
 2021_04_PIT_GB,hagearty20,69
 2021_04_PIT_GB,HDr0bot,70
@@ -29094,6 +29093,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,throwthedamball,85
 2021_04_PIT_GB,tjwillz31,77
 2021_04_PIT_GB,TobiasC_____,75
+2021_04_PIT_GB,TomChandlerNFL,58
 2021_04_PIT_GB,tommcquillin1,76
 2021_04_PIT_GB,TommyPraeger,71
 2021_04_PIT_GB,TomRagaert,76
@@ -29277,7 +29277,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,good_vaibs,21
 2021_04_TB_NE,greerreNFL,29
 2021_04_TB_NE,GridInsights,37
-2021_04_TB_NE,grit_t_FB,42
 2021_04_TB_NE,gshelor,30
 2021_04_TB_NE,hagearty20,17
 2021_04_TB_NE,HDr0bot,25
@@ -29494,6 +29493,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,throwthedamball,10
 2021_04_TB_NE,tjwillz31,17
 2021_04_TB_NE,TobiasC_____,37
+2021_04_TB_NE,TomChandlerNFL,42
 2021_04_TB_NE,tommcquillin1,24
 2021_04_TB_NE,TommyPraeger,33
 2021_04_TB_NE,TomRagaert,0
@@ -29682,7 +29682,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,good_vaibs,38
 2021_04_LV_LAC,greerreNFL,51
 2021_04_LV_LAC,GridInsights,61
-2021_04_LV_LAC,grit_t_FB,50
 2021_04_LV_LAC,gshelor,65
 2021_04_LV_LAC,hagearty20,61
 2021_04_LV_LAC,HDr0bot,61
@@ -29910,6 +29909,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,tinmants,50
 2021_04_LV_LAC,tjwillz31,56
 2021_04_LV_LAC,TobiasC_____,56
+2021_04_LV_LAC,TomChandlerNFL,50
 2021_04_LV_LAC,tommcquillin1,71
 2021_04_LV_LAC,TommyPraeger,58
 2021_04_LV_LAC,TomRagaert,66
@@ -30069,7 +30069,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,goldencane14,55
 2021_05_LA_SEA,greerreNFL,45
 2021_05_LA_SEA,GridInsights,50
-2021_05_LA_SEA,grit_t_FB,50
 2021_05_LA_SEA,gshelor,53
 2021_05_LA_SEA,henrygise,45
 2021_05_LA_SEA,htennis98,53
@@ -30272,6 +30271,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,tinmants,50
 2021_05_LA_SEA,tjwillz31,43
 2021_05_LA_SEA,TobiasC_____,41
+2021_05_LA_SEA,TomChandlerNFL,50
 2021_05_LA_SEA,tommcquillin1,35
 2021_05_LA_SEA,TommyPraeger,42
 2021_05_LA_SEA,TomRagaert,47
@@ -30432,7 +30432,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,good_vaibs,79
 2021_05_NYJ_ATL,greerreNFL,55
 2021_05_NYJ_ATL,GridInsights,47
-2021_05_NYJ_ATL,grit_t_FB,68
 2021_05_NYJ_ATL,gshelor,56
 2021_05_NYJ_ATL,henrygise,62
 2021_05_NYJ_ATL,htennis98,51
@@ -30641,6 +30640,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,tinmants,54
 2021_05_NYJ_ATL,tjwillz31,64
 2021_05_NYJ_ATL,TobiasC_____,53
+2021_05_NYJ_ATL,TomChandlerNFL,68
 2021_05_NYJ_ATL,tommcquillin1,65
 2021_05_NYJ_ATL,TommyPraeger,49
 2021_05_NYJ_ATL,TomRagaert,46
@@ -30806,7 +30806,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,good_vaibs,66
 2021_05_PHI_CAR,greerreNFL,59
 2021_05_PHI_CAR,GridInsights,63
-2021_05_PHI_CAR,grit_t_FB,70
 2021_05_PHI_CAR,gshelor,60
 2021_05_PHI_CAR,hagearty20,50
 2021_05_PHI_CAR,henrygise,66
@@ -31019,6 +31018,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,tinmants,55
 2021_05_PHI_CAR,tjwillz31,61
 2021_05_PHI_CAR,TobiasC_____,57
+2021_05_PHI_CAR,TomChandlerNFL,70
 2021_05_PHI_CAR,tommcquillin1,55
 2021_05_PHI_CAR,TommyPraeger,53
 2021_05_PHI_CAR,TomRagaert,60
@@ -31184,7 +31184,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,good_vaibs,33
 2021_05_GB_CIN,greerreNFL,35
 2021_05_GB_CIN,GridInsights,48
-2021_05_GB_CIN,grit_t_FB,60
 2021_05_GB_CIN,gshelor,33
 2021_05_GB_CIN,hagearty20,50
 2021_05_GB_CIN,henrygise,28
@@ -31397,6 +31396,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,tinmants,44
 2021_05_GB_CIN,tjwillz31,49
 2021_05_GB_CIN,TobiasC_____,34
+2021_05_GB_CIN,TomChandlerNFL,60
 2021_05_GB_CIN,tommcquillin1,36
 2021_05_GB_CIN,TommyPraeger,37
 2021_05_GB_CIN,TomRagaert,31
@@ -31562,7 +31562,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,good_vaibs,54
 2021_05_NE_HOU,greerreNFL,27
 2021_05_NE_HOU,GridInsights,21
-2021_05_NE_HOU,grit_t_FB,33
 2021_05_NE_HOU,gshelor,4
 2021_05_NE_HOU,hagearty20,50
 2021_05_NE_HOU,henrygise,10
@@ -31775,6 +31774,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,tinmants,50
 2021_05_NE_HOU,tjwillz31,13
 2021_05_NE_HOU,TobiasC_____,28
+2021_05_NE_HOU,TomChandlerNFL,33
 2021_05_NE_HOU,tommcquillin1,16
 2021_05_NE_HOU,TommyPraeger,20
 2021_05_NE_HOU,TomRagaert,25
@@ -31940,7 +31940,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,good_vaibs,33
 2021_05_TEN_JAX,greerreNFL,36
 2021_05_TEN_JAX,GridInsights,39
-2021_05_TEN_JAX,grit_t_FB,32
 2021_05_TEN_JAX,gshelor,27
 2021_05_TEN_JAX,hagearty20,50
 2021_05_TEN_JAX,henrygise,25
@@ -32153,6 +32152,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,tinmants,50
 2021_05_TEN_JAX,tjwillz31,38
 2021_05_TEN_JAX,TobiasC_____,40
+2021_05_TEN_JAX,TomChandlerNFL,32
 2021_05_TEN_JAX,tommcquillin1,29
 2021_05_TEN_JAX,TommyPraeger,38
 2021_05_TEN_JAX,TomRagaert,34
@@ -32317,7 +32317,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,good_vaibs,74
 2021_05_DET_MIN,greerreNFL,75
 2021_05_DET_MIN,GridInsights,74
-2021_05_DET_MIN,grit_t_FB,58
 2021_05_DET_MIN,gshelor,66
 2021_05_DET_MIN,hagearty20,50
 2021_05_DET_MIN,henrygise,59
@@ -32530,6 +32529,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,tinmants,50
 2021_05_DET_MIN,tjwillz31,79
 2021_05_DET_MIN,TobiasC_____,75
+2021_05_DET_MIN,TomChandlerNFL,58
 2021_05_DET_MIN,tommcquillin1,71
 2021_05_DET_MIN,TommyPraeger,72
 2021_05_DET_MIN,TomRagaert,76
@@ -32695,7 +32695,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,good_vaibs,38
 2021_05_DEN_PIT,greerreNFL,49
 2021_05_DEN_PIT,GridInsights,44
-2021_05_DEN_PIT,grit_t_FB,40
 2021_05_DEN_PIT,gshelor,63
 2021_05_DEN_PIT,hagearty20,50
 2021_05_DEN_PIT,henrygise,46
@@ -32908,6 +32907,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,tinmants,50
 2021_05_DEN_PIT,tjwillz31,49
 2021_05_DEN_PIT,TobiasC_____,43
+2021_05_DEN_PIT,TomChandlerNFL,40
 2021_05_DEN_PIT,tommcquillin1,45
 2021_05_DEN_PIT,TommyPraeger,51
 2021_05_DEN_PIT,TomRagaert,44
@@ -33072,7 +33072,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,good_vaibs,70
 2021_05_MIA_TB,greerreNFL,79
 2021_05_MIA_TB,GridInsights,79
-2021_05_MIA_TB,grit_t_FB,74
 2021_05_MIA_TB,gshelor,98
 2021_05_MIA_TB,hagearty20,50
 2021_05_MIA_TB,henrygise,58
@@ -33285,6 +33284,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,tinmants,50
 2021_05_MIA_TB,tjwillz31,80
 2021_05_MIA_TB,TobiasC_____,74
+2021_05_MIA_TB,TomChandlerNFL,74
 2021_05_MIA_TB,tommcquillin1,82
 2021_05_MIA_TB,TommyPraeger,77
 2021_05_MIA_TB,TomRagaert,100
@@ -33450,7 +33450,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,good_vaibs,33
 2021_05_NO_WAS,greerreNFL,43
 2021_05_NO_WAS,GridInsights,49
-2021_05_NO_WAS,grit_t_FB,54
 2021_05_NO_WAS,gshelor,41
 2021_05_NO_WAS,hagearty20,50
 2021_05_NO_WAS,henrygise,55
@@ -33663,6 +33662,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,tinmants,50
 2021_05_NO_WAS,tjwillz31,43
 2021_05_NO_WAS,TobiasC_____,41
+2021_05_NO_WAS,TomChandlerNFL,54
 2021_05_NO_WAS,tommcquillin1,37
 2021_05_NO_WAS,TommyPraeger,45
 2021_05_NO_WAS,TomRagaert,56
@@ -33830,7 +33830,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,good_vaibs,66
 2021_05_CLE_LAC,greerreNFL,52
 2021_05_CLE_LAC,GridInsights,49
-2021_05_CLE_LAC,grit_t_FB,45
 2021_05_CLE_LAC,gshelor,46
 2021_05_CLE_LAC,hagearty20,33
 2021_05_CLE_LAC,henrygise,62
@@ -34044,6 +34043,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,tinmants,50
 2021_05_CLE_LAC,tjwillz31,55
 2021_05_CLE_LAC,TobiasC_____,50
+2021_05_CLE_LAC,TomChandlerNFL,45
 2021_05_CLE_LAC,tommcquillin1,58
 2021_05_CLE_LAC,TommyPraeger,54
 2021_05_CLE_LAC,TomRagaert,58
@@ -34212,7 +34212,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,good_vaibs,69
 2021_05_CHI_LV,greerreNFL,66
 2021_05_CHI_LV,GridInsights,67
-2021_05_CHI_LV,grit_t_FB,61
 2021_05_CHI_LV,gshelor,65
 2021_05_CHI_LV,hagearty20,71
 2021_05_CHI_LV,henrygise,53
@@ -34426,6 +34425,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,tinmants,50
 2021_05_CHI_LV,tjwillz31,61
 2021_05_CHI_LV,TobiasC_____,62
+2021_05_CHI_LV,TomChandlerNFL,61
 2021_05_CHI_LV,tommcquillin1,68
 2021_05_CHI_LV,TommyPraeger,54
 2021_05_CHI_LV,TomRagaert,67
@@ -34594,7 +34594,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,good_vaibs,40
 2021_05_SF_ARI,greerreNFL,58
 2021_05_SF_ARI,GridInsights,68
-2021_05_SF_ARI,grit_t_FB,66
 2021_05_SF_ARI,gshelor,60
 2021_05_SF_ARI,hagearty20,72
 2021_05_SF_ARI,henrygise,42
@@ -34808,6 +34807,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,tinmants,50
 2021_05_SF_ARI,tjwillz31,55
 2021_05_SF_ARI,TobiasC_____,70
+2021_05_SF_ARI,TomChandlerNFL,66
 2021_05_SF_ARI,tommcquillin1,73
 2021_05_SF_ARI,TommyPraeger,58
 2021_05_SF_ARI,TomRagaert,58
@@ -34976,7 +34976,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,good_vaibs,62
 2021_05_NYG_DAL,greerreNFL,73
 2021_05_NYG_DAL,GridInsights,76
-2021_05_NYG_DAL,grit_t_FB,62
 2021_05_NYG_DAL,gshelor,69
 2021_05_NYG_DAL,hagearty20,92
 2021_05_NYG_DAL,henrygise,80
@@ -35190,6 +35189,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,tinmants,50
 2021_05_NYG_DAL,tjwillz31,74
 2021_05_NYG_DAL,TobiasC_____,70
+2021_05_NYG_DAL,TomChandlerNFL,62
 2021_05_NYG_DAL,tommcquillin1,78
 2021_05_NYG_DAL,TommyPraeger,60
 2021_05_NYG_DAL,TomRagaert,76
@@ -35359,7 +35359,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,good_vaibs,71
 2021_05_BUF_KC,greerreNFL,52
 2021_05_BUF_KC,GridInsights,64
-2021_05_BUF_KC,grit_t_FB,45
 2021_05_BUF_KC,gshelor,63
 2021_05_BUF_KC,hagearty20,33
 2021_05_BUF_KC,henrygise,48
@@ -35575,6 +35574,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,tjdedering,50
 2021_05_BUF_KC,tjwillz31,55
 2021_05_BUF_KC,TobiasC_____,58
+2021_05_BUF_KC,TomChandlerNFL,45
 2021_05_BUF_KC,tommcquillin1,70
 2021_05_BUF_KC,TommyPraeger,54
 2021_05_BUF_KC,TomRagaert,59
@@ -35747,7 +35747,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,good_vaibs,87
 2021_05_IND_BAL,greerreNFL,69
 2021_05_IND_BAL,GridInsights,76
-2021_05_IND_BAL,grit_t_FB,64
 2021_05_IND_BAL,gshelor,90
 2021_05_IND_BAL,hagearty20,72
 2021_05_IND_BAL,Havoc4Check,85
@@ -35966,6 +35965,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,tjdedering,80
 2021_05_IND_BAL,tjwillz31,78
 2021_05_IND_BAL,TobiasC_____,74
+2021_05_IND_BAL,TomChandlerNFL,64
 2021_05_IND_BAL,tommcquillin1,79
 2021_05_IND_BAL,TommyPraeger,66
 2021_05_IND_BAL,TomRagaert,75
@@ -36116,7 +36116,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,godin_jon,0
 2021_06_TB_PHI,goldencane14,10
 2021_06_TB_PHI,greerreNFL,23
-2021_06_TB_PHI,grit_t_FB,50
 2021_06_TB_PHI,gshelor,21
 2021_06_TB_PHI,HailState_CO,30
 2021_06_TB_PHI,Havoc4Check,50
@@ -36298,6 +36297,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,tjdedering,40
 2021_06_TB_PHI,tjwillz31,14
 2021_06_TB_PHI,TobiasC_____,37
+2021_06_TB_PHI,TomChandlerNFL,50
 2021_06_TB_PHI,tommcquillin1,25
 2021_06_TB_PHI,TommyPraeger,31
 2021_06_TB_PHI,TomRagaert,0
@@ -36449,7 +36449,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,goldencane14,45
 2021_06_MIA_JAX,greerreNFL,39
 2021_06_MIA_JAX,GridInsights,53
-2021_06_MIA_JAX,grit_t_FB,50
 2021_06_MIA_JAX,gshelor,24
 2021_06_MIA_JAX,gvega21,55
 2021_06_MIA_JAX,HailState_CO,40
@@ -36640,6 +36639,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,tjdedering,45
 2021_06_MIA_JAX,tjwillz31,47
 2021_06_MIA_JAX,TobiasC_____,38
+2021_06_MIA_JAX,TomChandlerNFL,50
 2021_06_MIA_JAX,tommcquillin1,50
 2021_06_MIA_JAX,TommyPraeger,47
 2021_06_MIA_JAX,TomRagaert,36
@@ -36793,7 +36793,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,goldencane14,45
 2021_06_LAC_BAL,greerreNFL,57
 2021_06_LAC_BAL,GridInsights,46
-2021_06_LAC_BAL,grit_t_FB,50
 2021_06_LAC_BAL,gshelor,64
 2021_06_LAC_BAL,gvega21,43
 2021_06_LAC_BAL,HailState_CO,54
@@ -36985,6 +36984,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,tjdedering,60
 2021_06_LAC_BAL,tjwillz31,75
 2021_06_LAC_BAL,TobiasC_____,47
+2021_06_LAC_BAL,TomChandlerNFL,50
 2021_06_LAC_BAL,tommcquillin1,41
 2021_06_LAC_BAL,TommyPraeger,51
 2021_06_LAC_BAL,TomRagaert,42
@@ -37139,7 +37139,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,goldencane14,40
 2021_06_MIN_CAR,greerreNFL,47
 2021_06_MIN_CAR,GridInsights,53
-2021_06_MIN_CAR,grit_t_FB,50
 2021_06_MIN_CAR,gshelor,57
 2021_06_MIN_CAR,gvega21,65
 2021_06_MIN_CAR,HailState_CO,55
@@ -37332,6 +37331,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,tjdedering,54
 2021_06_MIN_CAR,tjwillz31,18
 2021_06_MIN_CAR,TobiasC_____,49
+2021_06_MIN_CAR,TomChandlerNFL,50
 2021_06_MIN_CAR,tommcquillin1,40
 2021_06_MIN_CAR,TommyPraeger,40
 2021_06_MIN_CAR,TomRagaert,53
@@ -37486,7 +37486,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,goldencane14,0
 2021_06_GB_CHI,greerreNFL,30
 2021_06_GB_CHI,GridInsights,31
-2021_06_GB_CHI,grit_t_FB,50
 2021_06_GB_CHI,gshelor,37
 2021_06_GB_CHI,gvega21,20
 2021_06_GB_CHI,HailState_CO,40
@@ -37678,6 +37677,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,tjdedering,35
 2021_06_GB_CHI,tjwillz31,40
 2021_06_GB_CHI,TobiasC_____,32
+2021_06_GB_CHI,TomChandlerNFL,50
 2021_06_GB_CHI,tommcquillin1,39
 2021_06_GB_CHI,TommyPraeger,36
 2021_06_GB_CHI,TomRagaert,24
@@ -37832,7 +37832,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,goldencane14,0
 2021_06_CIN_DET,greerreNFL,40
 2021_06_CIN_DET,GridInsights,37
-2021_06_CIN_DET,grit_t_FB,50
 2021_06_CIN_DET,gshelor,35
 2021_06_CIN_DET,gvega21,41
 2021_06_CIN_DET,HailState_CO,45
@@ -38024,6 +38023,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,tjdedering,43
 2021_06_CIN_DET,tjwillz31,48
 2021_06_CIN_DET,TobiasC_____,43
+2021_06_CIN_DET,TomChandlerNFL,50
 2021_06_CIN_DET,tommcquillin1,30
 2021_06_CIN_DET,TommyPraeger,44
 2021_06_CIN_DET,TomRagaert,41
@@ -38178,7 +38178,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,goldencane14,45
 2021_06_HOU_IND,greerreNFL,76
 2021_06_HOU_IND,GridInsights,63
-2021_06_HOU_IND,grit_t_FB,50
 2021_06_HOU_IND,gshelor,74
 2021_06_HOU_IND,gvega21,61
 2021_06_HOU_IND,HailState_CO,80
@@ -38370,6 +38369,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,tjdedering,60
 2021_06_HOU_IND,tjwillz31,81
 2021_06_HOU_IND,TobiasC_____,67
+2021_06_HOU_IND,TomChandlerNFL,50
 2021_06_HOU_IND,tommcquillin1,71
 2021_06_HOU_IND,TommyPraeger,76
 2021_06_HOU_IND,TomRagaert,100
@@ -38524,7 +38524,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,goldencane14,15
 2021_06_LA_NYG,greerreNFL,21
 2021_06_LA_NYG,GridInsights,22
-2021_06_LA_NYG,grit_t_FB,50
 2021_06_LA_NYG,gshelor,11
 2021_06_LA_NYG,gvega21,21
 2021_06_LA_NYG,HailState_CO,20
@@ -38716,6 +38715,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,tjdedering,30
 2021_06_LA_NYG,tjwillz31,14
 2021_06_LA_NYG,TobiasC_____,25
+2021_06_LA_NYG,TomChandlerNFL,50
 2021_06_LA_NYG,tommcquillin1,17
 2021_06_LA_NYG,TommyPraeger,22
 2021_06_LA_NYG,TomRagaert,0
@@ -38870,7 +38870,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,goldencane14,15
 2021_06_KC_WAS,greerreNFL,34
 2021_06_KC_WAS,GridInsights,22
-2021_06_KC_WAS,grit_t_FB,50
 2021_06_KC_WAS,gshelor,2
 2021_06_KC_WAS,gvega21,17
 2021_06_KC_WAS,HailState_CO,30
@@ -39062,6 +39061,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,tjdedering,30
 2021_06_KC_WAS,tjwillz31,12
 2021_06_KC_WAS,TobiasC_____,25
+2021_06_KC_WAS,TomChandlerNFL,50
 2021_06_KC_WAS,tommcquillin1,21
 2021_06_KC_WAS,TommyPraeger,25
 2021_06_KC_WAS,TomRagaert,0
@@ -39216,7 +39216,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,goldencane14,25
 2021_06_ARI_CLE,greerreNFL,56
 2021_06_ARI_CLE,GridInsights,52
-2021_06_ARI_CLE,grit_t_FB,50
 2021_06_ARI_CLE,gshelor,39
 2021_06_ARI_CLE,gvega21,55
 2021_06_ARI_CLE,HailState_CO,45
@@ -39409,6 +39408,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,tjdedering,60
 2021_06_ARI_CLE,tjwillz31,41
 2021_06_ARI_CLE,TobiasC_____,49
+2021_06_ARI_CLE,TomChandlerNFL,50
 2021_06_ARI_CLE,tommcquillin1,44
 2021_06_ARI_CLE,TommyPraeger,55
 2021_06_ARI_CLE,TomRagaert,48
@@ -39564,7 +39564,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,goldencane14,70
 2021_06_LV_DEN,greerreNFL,61
 2021_06_LV_DEN,GridInsights,67
-2021_06_LV_DEN,grit_t_FB,50
 2021_06_LV_DEN,gshelor,56
 2021_06_LV_DEN,gvega21,58
 2021_06_LV_DEN,HailState_CO,55
@@ -39757,6 +39756,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,tjdedering,55
 2021_06_LV_DEN,tjwillz31,58
 2021_06_LV_DEN,TobiasC_____,50
+2021_06_LV_DEN,TomChandlerNFL,50
 2021_06_LV_DEN,tommcquillin1,57
 2021_06_LV_DEN,TommyPraeger,59
 2021_06_LV_DEN,TomRagaert,61
@@ -39912,7 +39912,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,goldencane14,20
 2021_06_DAL_NE,greerreNFL,37
 2021_06_DAL_NE,GridInsights,32
-2021_06_DAL_NE,grit_t_FB,50
 2021_06_DAL_NE,gshelor,25
 2021_06_DAL_NE,gvega21,21
 2021_06_DAL_NE,HailState_CO,40
@@ -40105,6 +40104,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,tjdedering,35
 2021_06_DAL_NE,tjwillz31,46
 2021_06_DAL_NE,TobiasC_____,32
+2021_06_DAL_NE,TomChandlerNFL,50
 2021_06_DAL_NE,tommcquillin1,26
 2021_06_DAL_NE,TommyPraeger,32
 2021_06_DAL_NE,TomRagaert,22
@@ -40260,7 +40260,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,goldencane14,45
 2021_06_SEA_PIT,greerreNFL,60
 2021_06_SEA_PIT,GridInsights,53
-2021_06_SEA_PIT,grit_t_FB,50
 2021_06_SEA_PIT,gshelor,25
 2021_06_SEA_PIT,gvega21,48
 2021_06_SEA_PIT,HailState_CO,60
@@ -40454,6 +40453,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,tjdedering,57
 2021_06_SEA_PIT,tjwillz31,55
 2021_06_SEA_PIT,TobiasC_____,60
+2021_06_SEA_PIT,TomChandlerNFL,50
 2021_06_SEA_PIT,tommcquillin1,75
 2021_06_SEA_PIT,TommyPraeger,56
 2021_06_SEA_PIT,TomRagaert,45
@@ -40610,7 +40610,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,goldencane14,10
 2021_06_BUF_TEN,greerreNFL,30
 2021_06_BUF_TEN,GridInsights,26
-2021_06_BUF_TEN,grit_t_FB,31
 2021_06_BUF_TEN,gshelor,18
 2021_06_BUF_TEN,gvega21,14
 2021_06_BUF_TEN,HailState_CO,25
@@ -40805,6 +40804,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,tjdedering,35
 2021_06_BUF_TEN,tjwillz31,16
 2021_06_BUF_TEN,TobiasC_____,39
+2021_06_BUF_TEN,TomChandlerNFL,31
 2021_06_BUF_TEN,tommcquillin1,25
 2021_06_BUF_TEN,TommyPraeger,34
 2021_06_BUF_TEN,TomRagaert,24
@@ -40938,7 +40938,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,goldencane14,45
 2021_07_DEN_CLE,greerreNFL,53
 2021_07_DEN_CLE,GridInsights,58
-2021_07_DEN_CLE,grit_t_FB,50
 2021_07_DEN_CLE,gshelor,71
 2021_07_DEN_CLE,gvega21,34
 2021_07_DEN_CLE,henrygise,65
@@ -41101,6 +41100,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,throwthedamball,68
 2021_07_DEN_CLE,tjwillz31,52
 2021_07_DEN_CLE,TobiasC_____,56
+2021_07_DEN_CLE,TomChandlerNFL,50
 2021_07_DEN_CLE,tommcquillin1,57
 2021_07_DEN_CLE,TommyPraeger,49
 2021_07_DEN_CLE,TomRagaert,77
@@ -41247,7 +41247,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,goldencane14,100
 2021_07_CIN_BAL,greerreNFL,71
 2021_07_CIN_BAL,GridInsights,56
-2021_07_CIN_BAL,grit_t_FB,50
 2021_07_CIN_BAL,gshelor,92
 2021_07_CIN_BAL,gvega21,69
 2021_07_CIN_BAL,henrygise,78
@@ -41426,6 +41425,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,throwthedamball,42
 2021_07_CIN_BAL,tjwillz31,77
 2021_07_CIN_BAL,TobiasC_____,67
+2021_07_CIN_BAL,TomChandlerNFL,50
 2021_07_CIN_BAL,tommcquillin1,76
 2021_07_CIN_BAL,TommyPraeger,69
 2021_07_CIN_BAL,TomRagaert,68
@@ -41577,7 +41577,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,goldencane14,100
 2021_07_WAS_GB,greerreNFL,78
 2021_07_WAS_GB,GridInsights,82
-2021_07_WAS_GB,grit_t_FB,50
 2021_07_WAS_GB,gshelor,93
 2021_07_WAS_GB,gvega21,84
 2021_07_WAS_GB,henrygise,70
@@ -41756,6 +41755,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,throwthedamball,66
 2021_07_WAS_GB,tjwillz31,80
 2021_07_WAS_GB,TobiasC_____,78
+2021_07_WAS_GB,TomChandlerNFL,50
 2021_07_WAS_GB,tommcquillin1,83
 2021_07_WAS_GB,TommyPraeger,73
 2021_07_WAS_GB,TomRagaert,100
@@ -41907,7 +41907,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,goldencane14,40
 2021_07_ATL_MIA,greerreNFL,48
 2021_07_ATL_MIA,GridInsights,47
-2021_07_ATL_MIA,grit_t_FB,50
 2021_07_ATL_MIA,gshelor,44
 2021_07_ATL_MIA,gvega21,37
 2021_07_ATL_MIA,henrygise,56
@@ -42086,6 +42085,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,throwthedamball,55
 2021_07_ATL_MIA,tjwillz31,49
 2021_07_ATL_MIA,TobiasC_____,40
+2021_07_ATL_MIA,TomChandlerNFL,50
 2021_07_ATL_MIA,tommcquillin1,59
 2021_07_ATL_MIA,TommyPraeger,51
 2021_07_ATL_MIA,TomRagaert,55
@@ -42237,7 +42237,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,goldencane14,80
 2021_07_NYJ_NE,greerreNFL,71
 2021_07_NYJ_NE,GridInsights,70
-2021_07_NYJ_NE,grit_t_FB,50
 2021_07_NYJ_NE,gshelor,98
 2021_07_NYJ_NE,gvega21,61
 2021_07_NYJ_NE,henrygise,62
@@ -42416,6 +42415,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,throwthedamball,62
 2021_07_NYJ_NE,tjwillz31,79
 2021_07_NYJ_NE,TobiasC_____,73
+2021_07_NYJ_NE,TomChandlerNFL,50
 2021_07_NYJ_NE,tommcquillin1,79
 2021_07_NYJ_NE,TommyPraeger,69
 2021_07_NYJ_NE,TomRagaert,80
@@ -42567,7 +42567,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,goldencane14,45
 2021_07_CAR_NYG,greerreNFL,43
 2021_07_CAR_NYG,GridInsights,28
-2021_07_CAR_NYG,grit_t_FB,50
 2021_07_CAR_NYG,gshelor,41
 2021_07_CAR_NYG,gvega21,55
 2021_07_CAR_NYG,henrygise,46
@@ -42746,6 +42745,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,throwthedamball,31
 2021_07_CAR_NYG,tjwillz31,44
 2021_07_CAR_NYG,TobiasC_____,38
+2021_07_CAR_NYG,TomChandlerNFL,50
 2021_07_CAR_NYG,tommcquillin1,34
 2021_07_CAR_NYG,TommyPraeger,40
 2021_07_CAR_NYG,TomRagaert,40
@@ -42897,7 +42897,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,goldencane14,40
 2021_07_KC_TEN,greerreNFL,41
 2021_07_KC_TEN,GridInsights,34
-2021_07_KC_TEN,grit_t_FB,50
 2021_07_KC_TEN,gshelor,42
 2021_07_KC_TEN,gvega21,19
 2021_07_KC_TEN,henrygise,34
@@ -43076,6 +43075,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,throwthedamball,15
 2021_07_KC_TEN,tjwillz31,46
 2021_07_KC_TEN,TobiasC_____,40
+2021_07_KC_TEN,TomChandlerNFL,50
 2021_07_KC_TEN,tommcquillin1,30
 2021_07_KC_TEN,TommyPraeger,37
 2021_07_KC_TEN,TomRagaert,35
@@ -43229,7 +43229,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,goldencane14,100
 2021_07_DET_LA,greerreNFL,88
 2021_07_DET_LA,GridInsights,89
-2021_07_DET_LA,grit_t_FB,50
 2021_07_DET_LA,gshelor,94
 2021_07_DET_LA,gvega21,85
 2021_07_DET_LA,henrygise,69
@@ -43409,6 +43408,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,throwthedamball,78
 2021_07_DET_LA,tjwillz31,83
 2021_07_DET_LA,TobiasC_____,83
+2021_07_DET_LA,TomChandlerNFL,50
 2021_07_DET_LA,tommcquillin1,87
 2021_07_DET_LA,TommyPraeger,88
 2021_07_DET_LA,TomRagaert,100
@@ -43562,7 +43562,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,goldencane14,75
 2021_07_PHI_LV,greerreNFL,59
 2021_07_PHI_LV,GridInsights,49
-2021_07_PHI_LV,grit_t_FB,50
 2021_07_PHI_LV,gshelor,72
 2021_07_PHI_LV,gvega21,44
 2021_07_PHI_LV,henrygise,56
@@ -43742,6 +43741,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,throwthedamball,35
 2021_07_PHI_LV,tjwillz31,54
 2021_07_PHI_LV,TobiasC_____,60
+2021_07_PHI_LV,TomChandlerNFL,50
 2021_07_PHI_LV,tommcquillin1,43
 2021_07_PHI_LV,TommyPraeger,52
 2021_07_PHI_LV,TomRagaert,45
@@ -43895,7 +43895,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,goldencane14,100
 2021_07_HOU_ARI,greerreNFL,88
 2021_07_HOU_ARI,GridInsights,88
-2021_07_HOU_ARI,grit_t_FB,50
 2021_07_HOU_ARI,gshelor,98
 2021_07_HOU_ARI,gvega21,90
 2021_07_HOU_ARI,henrygise,77
@@ -44075,6 +44074,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,throwthedamball,83
 2021_07_HOU_ARI,tjwillz31,83
 2021_07_HOU_ARI,TobiasC_____,83
+2021_07_HOU_ARI,TomChandlerNFL,50
 2021_07_HOU_ARI,tommcquillin1,86
 2021_07_HOU_ARI,TommyPraeger,86
 2021_07_HOU_ARI,TomRagaert,100
@@ -44228,7 +44228,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,goldencane14,100
 2021_07_CHI_TB,greerreNFL,85
 2021_07_CHI_TB,GridInsights,79
-2021_07_CHI_TB,grit_t_FB,50
 2021_07_CHI_TB,gshelor,94
 2021_07_CHI_TB,gvega21,82
 2021_07_CHI_TB,henrygise,70
@@ -44408,6 +44407,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,throwthedamball,68
 2021_07_CHI_TB,tjwillz31,79
 2021_07_CHI_TB,TobiasC_____,77
+2021_07_CHI_TB,TomChandlerNFL,50
 2021_07_CHI_TB,tommcquillin1,83
 2021_07_CHI_TB,TommyPraeger,77
 2021_07_CHI_TB,TomRagaert,100
@@ -44563,7 +44563,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,goldencane14,80
 2021_07_IND_SF,greerreNFL,63
 2021_07_IND_SF,GridInsights,68
-2021_07_IND_SF,grit_t_FB,50
 2021_07_IND_SF,gshelor,69
 2021_07_IND_SF,gvega21,61
 2021_07_IND_SF,henrygise,56
@@ -44744,6 +44743,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,throwthedamball,32
 2021_07_IND_SF,tjwillz31,56
 2021_07_IND_SF,TobiasC_____,54
+2021_07_IND_SF,TomChandlerNFL,50
 2021_07_IND_SF,tommcquillin1,69
 2021_07_IND_SF,TommyPraeger,49
 2021_07_IND_SF,TomRagaert,66
@@ -44900,7 +44900,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,goldencane14,20
 2021_07_NO_SEA,greerreNFL,37
 2021_07_NO_SEA,GridInsights,46
-2021_07_NO_SEA,grit_t_FB,50
 2021_07_NO_SEA,gshelor,34
 2021_07_NO_SEA,gvega21,42
 2021_07_NO_SEA,henrygise,42
@@ -45082,6 +45081,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,throwthedamball,61
 2021_07_NO_SEA,tjwillz31,44
 2021_07_NO_SEA,TobiasC_____,28
+2021_07_NO_SEA,TomChandlerNFL,50
 2021_07_NO_SEA,tommcquillin1,44
 2021_07_NO_SEA,TommyPraeger,42
 2021_07_NO_SEA,TomRagaert,24
@@ -45220,7 +45220,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,goldencane14,80
 2021_08_GB_ARI,greerreNFL,67
 2021_08_GB_ARI,GridInsights,65
-2021_08_GB_ARI,grit_t_FB,50
 2021_08_GB_ARI,gshelor,61
 2021_08_GB_ARI,henrygise,60
 2021_08_GB_ARI,htennis98,82
@@ -45370,6 +45369,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,throwthedamball,38
 2021_08_GB_ARI,tjwillz31,78
 2021_08_GB_ARI,TobiasC_____,64
+2021_08_GB_ARI,TomChandlerNFL,50
 2021_08_GB_ARI,tommcquillin1,75
 2021_08_GB_ARI,TommyPraeger,62
 2021_08_GB_ARI,TomRagaert,69
@@ -45510,7 +45510,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,goldencane14,65
 2021_08_CAR_ATL,greerreNFL,53
 2021_08_CAR_ATL,GridInsights,45
-2021_08_CAR_ATL,grit_t_FB,50
 2021_08_CAR_ATL,gshelor,45
 2021_08_CAR_ATL,henrygise,65
 2021_08_CAR_ATL,htennis98,42
@@ -45679,6 +45678,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,throwthedamball,65
 2021_08_CAR_ATL,tjwillz31,49
 2021_08_CAR_ATL,TobiasC_____,60
+2021_08_CAR_ATL,TomChandlerNFL,50
 2021_08_CAR_ATL,tommcquillin1,43
 2021_08_CAR_ATL,TommyPraeger,55
 2021_08_CAR_ATL,TomRagaert,58
@@ -45820,7 +45820,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,goldencane14,100
 2021_08_MIA_BUF,greerreNFL,86
 2021_08_MIA_BUF,GridInsights,85
-2021_08_MIA_BUF,grit_t_FB,50
 2021_08_MIA_BUF,gshelor,98
 2021_08_MIA_BUF,henrygise,80
 2021_08_MIA_BUF,htennis98,87
@@ -45989,6 +45988,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,throwthedamball,80
 2021_08_MIA_BUF,tjwillz31,82
 2021_08_MIA_BUF,TobiasC_____,77
+2021_08_MIA_BUF,TomChandlerNFL,50
 2021_08_MIA_BUF,tommcquillin1,92
 2021_08_MIA_BUF,TommyPraeger,85
 2021_08_MIA_BUF,TomRagaert,100
@@ -46130,7 +46130,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,goldencane14,0
 2021_08_SF_CHI,greerreNFL,37
 2021_08_SF_CHI,GridInsights,33
-2021_08_SF_CHI,grit_t_FB,50
 2021_08_SF_CHI,gshelor,36
 2021_08_SF_CHI,henrygise,42
 2021_08_SF_CHI,htennis98,34
@@ -46299,6 +46298,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,throwthedamball,30
 2021_08_SF_CHI,tjwillz31,47
 2021_08_SF_CHI,TobiasC_____,40
+2021_08_SF_CHI,TomChandlerNFL,50
 2021_08_SF_CHI,tommcquillin1,35
 2021_08_SF_CHI,TommyPraeger,44
 2021_08_SF_CHI,TomRagaert,40
@@ -46440,7 +46440,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,goldencane14,60
 2021_08_PIT_CLE,greerreNFL,56
 2021_08_PIT_CLE,GridInsights,66
-2021_08_PIT_CLE,grit_t_FB,50
 2021_08_PIT_CLE,gshelor,74
 2021_08_PIT_CLE,henrygise,58
 2021_08_PIT_CLE,htennis98,66
@@ -46609,6 +46608,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,throwthedamball,65
 2021_08_PIT_CLE,tjwillz31,53
 2021_08_PIT_CLE,TobiasC_____,56
+2021_08_PIT_CLE,TomChandlerNFL,50
 2021_08_PIT_CLE,tommcquillin1,72
 2021_08_PIT_CLE,TommyPraeger,55
 2021_08_PIT_CLE,TomRagaert,100
@@ -46749,7 +46749,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,goldencane14,45
 2021_08_PHI_DET,greerreNFL,37
 2021_08_PHI_DET,GridInsights,59
-2021_08_PHI_DET,grit_t_FB,50
 2021_08_PHI_DET,gshelor,41
 2021_08_PHI_DET,henrygise,55
 2021_08_PHI_DET,htennis98,43
@@ -46918,6 +46917,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,throwthedamball,45
 2021_08_PHI_DET,tjwillz31,36
 2021_08_PHI_DET,TobiasC_____,51
+2021_08_PHI_DET,TomChandlerNFL,50
 2021_08_PHI_DET,tommcquillin1,35
 2021_08_PHI_DET,TommyPraeger,44
 2021_08_PHI_DET,TomRagaert,35
@@ -47059,7 +47059,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,goldencane14,0
 2021_08_LA_HOU,greerreNFL,12
 2021_08_LA_HOU,GridInsights,12
-2021_08_LA_HOU,grit_t_FB,50
 2021_08_LA_HOU,gshelor,3
 2021_08_LA_HOU,henrygise,14
 2021_08_LA_HOU,htennis98,0
@@ -47228,6 +47227,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,throwthedamball,19
 2021_08_LA_HOU,tjwillz31,20
 2021_08_LA_HOU,TobiasC_____,14
+2021_08_LA_HOU,TomChandlerNFL,50
 2021_08_LA_HOU,tommcquillin1,17
 2021_08_LA_HOU,TommyPraeger,12
 2021_08_LA_HOU,TomRagaert,0
@@ -47369,7 +47369,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,goldencane14,0
 2021_08_TEN_IND,greerreNFL,47
 2021_08_TEN_IND,GridInsights,50
-2021_08_TEN_IND,grit_t_FB,50
 2021_08_TEN_IND,gshelor,39
 2021_08_TEN_IND,henrygise,55
 2021_08_TEN_IND,htennis98,38
@@ -47538,6 +47537,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,throwthedamball,62
 2021_08_TEN_IND,tjwillz31,46
 2021_08_TEN_IND,TobiasC_____,42
+2021_08_TEN_IND,TomChandlerNFL,50
 2021_08_TEN_IND,tommcquillin1,29
 2021_08_TEN_IND,TommyPraeger,47
 2021_08_TEN_IND,TomRagaert,41
@@ -47679,7 +47679,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,goldencane14,0
 2021_08_CIN_NYJ,greerreNFL,29
 2021_08_CIN_NYJ,GridInsights,12
-2021_08_CIN_NYJ,grit_t_FB,50
 2021_08_CIN_NYJ,gshelor,15
 2021_08_CIN_NYJ,henrygise,20
 2021_08_CIN_NYJ,htennis98,25
@@ -47848,6 +47847,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,throwthedamball,12
 2021_08_CIN_NYJ,tjwillz31,19
 2021_08_CIN_NYJ,TobiasC_____,23
+2021_08_CIN_NYJ,TomChandlerNFL,50
 2021_08_CIN_NYJ,tommcquillin1,13
 2021_08_CIN_NYJ,TommyPraeger,13
 2021_08_CIN_NYJ,TomRagaert,0
@@ -47989,7 +47989,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,goldencane14,70
 2021_08_NE_LAC,greerreNFL,63
 2021_08_NE_LAC,GridInsights,54
-2021_08_NE_LAC,grit_t_FB,50
 2021_08_NE_LAC,gshelor,69
 2021_08_NE_LAC,henrygise,68
 2021_08_NE_LAC,htennis98,55
@@ -48158,6 +48157,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,throwthedamball,41
 2021_08_NE_LAC,tjwillz31,63
 2021_08_NE_LAC,TobiasC_____,57
+2021_08_NE_LAC,TomChandlerNFL,50
 2021_08_NE_LAC,tommcquillin1,71
 2021_08_NE_LAC,TommyPraeger,58
 2021_08_NE_LAC,TomRagaert,76
@@ -48299,7 +48299,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,goldencane14,45
 2021_08_JAX_SEA,greerreNFL,63
 2021_08_JAX_SEA,GridInsights,61
-2021_08_JAX_SEA,grit_t_FB,50
 2021_08_JAX_SEA,gshelor,77
 2021_08_JAX_SEA,henrygise,63
 2021_08_JAX_SEA,htennis98,53
@@ -48468,6 +48467,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,throwthedamball,34
 2021_08_JAX_SEA,tjwillz31,54
 2021_08_JAX_SEA,TobiasC_____,56
+2021_08_JAX_SEA,TomChandlerNFL,50
 2021_08_JAX_SEA,tommcquillin1,69
 2021_08_JAX_SEA,TommyPraeger,54
 2021_08_JAX_SEA,TomRagaert,67
@@ -48609,7 +48609,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,goldencane14,45
 2021_08_WAS_DEN,greerreNFL,59
 2021_08_WAS_DEN,GridInsights,59
-2021_08_WAS_DEN,grit_t_FB,50
 2021_08_WAS_DEN,gshelor,68
 2021_08_WAS_DEN,henrygise,62
 2021_08_WAS_DEN,htennis98,67
@@ -48778,6 +48777,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,throwthedamball,70
 2021_08_WAS_DEN,tjwillz31,54
 2021_08_WAS_DEN,TobiasC_____,54
+2021_08_WAS_DEN,TomChandlerNFL,50
 2021_08_WAS_DEN,tommcquillin1,65
 2021_08_WAS_DEN,TommyPraeger,49
 2021_08_WAS_DEN,TomRagaert,42
@@ -48919,7 +48919,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,goldencane14,30
 2021_08_TB_NO,greerreNFL,32
 2021_08_TB_NO,GridInsights,32
-2021_08_TB_NO,grit_t_FB,50
 2021_08_TB_NO,gshelor,25
 2021_08_TB_NO,henrygise,30
 2021_08_TB_NO,htennis98,46
@@ -49088,6 +49087,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,throwthedamball,57
 2021_08_TB_NO,tjwillz31,23
 2021_08_TB_NO,TobiasC_____,40
+2021_08_TB_NO,TomChandlerNFL,50
 2021_08_TB_NO,tommcquillin1,28
 2021_08_TB_NO,TommyPraeger,36
 2021_08_TB_NO,TomRagaert,33
@@ -49230,7 +49230,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,goldencane14,35
 2021_08_DAL_MIN,greerreNFL,60
 2021_08_DAL_MIN,GridInsights,63
-2021_08_DAL_MIN,grit_t_FB,50
 2021_08_DAL_MIN,gshelor,53
 2021_08_DAL_MIN,henrygise,25
 2021_08_DAL_MIN,htennis98,73
@@ -49400,6 +49399,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,throwthedamball,50
 2021_08_DAL_MIN,tjwillz31,50
 2021_08_DAL_MIN,TobiasC_____,66
+2021_08_DAL_MIN,TomChandlerNFL,50
 2021_08_DAL_MIN,tommcquillin1,63
 2021_08_DAL_MIN,TommyPraeger,53
 2021_08_DAL_MIN,TomRagaert,34
@@ -49544,7 +49544,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,goldencane14,80
 2021_08_NYG_KC,greerreNFL,78
 2021_08_NYG_KC,GridInsights,78
-2021_08_NYG_KC,grit_t_FB,50
 2021_08_NYG_KC,gshelor,95
 2021_08_NYG_KC,henrygise,70
 2021_08_NYG_KC,htennis98,69
@@ -49717,6 +49716,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,throwthedamball,82
 2021_08_NYG_KC,tjwillz31,75
 2021_08_NYG_KC,TobiasC_____,70
+2021_08_NYG_KC,TomChandlerNFL,50
 2021_08_NYG_KC,tommcquillin1,81
 2021_08_NYG_KC,TommyPraeger,78
 2021_08_NYG_KC,TomRagaert,100
