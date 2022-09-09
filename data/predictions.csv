@@ -1,4 +1,5 @@
 game_id,screen_name,prediction
+2021_01_DAL_TB,,70
 2021_01_DAL_TB,,45
 2021_01_DAL_TB,__beraldo,65
 2021_01_DAL_TB,__DavidOfficial,65
@@ -352,7 +353,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,LeachJus,82
 2021_01_DAL_TB,LeeSharpeNFL,65
 2021_01_DAL_TB,Legendary24_7,100
-2021_01_DAL_TB,lifelongJJ18fan,70
 2021_01_DAL_TB,linsky,47
 2021_01_DAL_TB,llamashuffle,50
 2021_01_DAL_TB,LowStakesLaura,70
@@ -645,6 +645,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,zweinberg18,65
 2021_01_DAL_TB,zybxixi,64
 2021_01_PHI_ATL,,62
+2021_01_PHI_ATL,,67
 2021_01_PHI_ATL,__beraldo,68
 2021_01_PHI_ATL,__DavidOfficial,75
 2021_01_PHI_ATL,_alendowsky,59
@@ -1010,7 +1011,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,LeachJus,57
 2021_01_PHI_ATL,LeeSharpeNFL,60
 2021_01_PHI_ATL,Legendary24_7,0
-2021_01_PHI_ATL,lifelongJJ18fan,67
 2021_01_PHI_ATL,linsky,44
 2021_01_PHI_ATL,llamashuffle,50
 2021_01_PHI_ATL,LowStakesLaura,50
@@ -1317,6 +1317,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,ZenTaco,50
 2021_01_PHI_ATL,zweinberg18,55
 2021_01_PHI_ATL,zybxixi,50
+2021_01_PIT_BUF,,68
 2021_01_PIT_BUF,,56
 2021_01_PIT_BUF,__beraldo,50
 2021_01_PIT_BUF,__DavidOfficial,70
@@ -1683,7 +1684,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,LeachJus,69
 2021_01_PIT_BUF,LeeSharpeNFL,61
 2021_01_PIT_BUF,Legendary24_7,100
-2021_01_PIT_BUF,lifelongJJ18fan,68
 2021_01_PIT_BUF,linsky,82
 2021_01_PIT_BUF,llamashuffle,50
 2021_01_PIT_BUF,LowStakesLaura,84
@@ -1991,6 +1991,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,zweinberg18,66
 2021_01_PIT_BUF,zybxixi,50
 2021_01_NYJ_CAR,,80
+2021_01_NYJ_CAR,,55
 2021_01_NYJ_CAR,__beraldo,50
 2021_01_NYJ_CAR,__DavidOfficial,76
 2021_01_NYJ_CAR,_alendowsky,49
@@ -2356,7 +2357,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,LeachJus,51
 2021_01_NYJ_CAR,LeeSharpeNFL,45
 2021_01_NYJ_CAR,Legendary24_7,100
-2021_01_NYJ_CAR,lifelongJJ18fan,55
 2021_01_NYJ_CAR,linsky,83
 2021_01_NYJ_CAR,llamashuffle,50
 2021_01_NYJ_CAR,LowStakesLaura,39
@@ -2663,6 +2663,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,ZenTaco,50
 2021_01_NYJ_CAR,zweinberg18,71
 2021_01_NYJ_CAR,zybxixi,50
+2021_01_MIN_CIN,,45
 2021_01_MIN_CIN,,25
 2021_01_MIN_CIN,__beraldo,50
 2021_01_MIN_CIN,__DavidOfficial,33
@@ -3029,7 +3030,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,LeachJus,15
 2021_01_MIN_CIN,LeeSharpeNFL,42
 2021_01_MIN_CIN,Legendary24_7,0
-2021_01_MIN_CIN,lifelongJJ18fan,45
 2021_01_MIN_CIN,linsky,47
 2021_01_MIN_CIN,llamashuffle,50
 2021_01_MIN_CIN,LowStakesLaura,31
@@ -3336,6 +3336,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,ZenTaco,50
 2021_01_MIN_CIN,zweinberg18,29
 2021_01_MIN_CIN,zybxixi,50
+2021_01_SF_DET,,20
 2021_01_SF_DET,,10
 2021_01_SF_DET,__beraldo,50
 2021_01_SF_DET,__DavidOfficial,17
@@ -3702,7 +3703,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,LeachJus,17
 2021_01_SF_DET,LeeSharpeNFL,30
 2021_01_SF_DET,Legendary24_7,0
-2021_01_SF_DET,lifelongJJ18fan,20
 2021_01_SF_DET,linsky,24
 2021_01_SF_DET,llamashuffle,50
 2021_01_SF_DET,LowStakesLaura,18
@@ -4009,6 +4009,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,ZenTaco,50
 2021_01_SF_DET,zweinberg18,20
 2021_01_SF_DET,zybxixi,50
+2021_01_JAX_HOU,,35
 2021_01_JAX_HOU,,31
 2021_01_JAX_HOU,__beraldo,50
 2021_01_JAX_HOU,__DavidOfficial,45
@@ -4375,7 +4376,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,LeachJus,64
 2021_01_JAX_HOU,LeeSharpeNFL,42
 2021_01_JAX_HOU,Legendary24_7,0
-2021_01_JAX_HOU,lifelongJJ18fan,35
 2021_01_JAX_HOU,linsky,43
 2021_01_JAX_HOU,llamashuffle,50
 2021_01_JAX_HOU,LowStakesLaura,50
@@ -4682,6 +4682,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,ZenTaco,50
 2021_01_JAX_HOU,zweinberg18,40
 2021_01_JAX_HOU,zybxixi,50
+2021_01_SEA_IND,,35
 2021_01_SEA_IND,,25
 2021_01_SEA_IND,__beraldo,50
 2021_01_SEA_IND,__DavidOfficial,30
@@ -5048,7 +5049,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,LeachJus,9
 2021_01_SEA_IND,LeeSharpeNFL,36
 2021_01_SEA_IND,Legendary24_7,0
-2021_01_SEA_IND,lifelongJJ18fan,35
 2021_01_SEA_IND,linsky,41
 2021_01_SEA_IND,llamashuffle,50
 2021_01_SEA_IND,LowStakesLaura,30
@@ -5356,6 +5356,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,zweinberg18,35
 2021_01_SEA_IND,zybxixi,50
 2021_01_ARI_TEN,,64
+2021_01_ARI_TEN,,59
 2021_01_ARI_TEN,__beraldo,50
 2021_01_ARI_TEN,__DavidOfficial,65
 2021_01_ARI_TEN,_alendowsky,50
@@ -5721,7 +5722,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,LeachJus,59
 2021_01_ARI_TEN,LeeSharpeNFL,63
 2021_01_ARI_TEN,Legendary24_7,100
-2021_01_ARI_TEN,lifelongJJ18fan,59
 2021_01_ARI_TEN,linsky,65
 2021_01_ARI_TEN,llamashuffle,50
 2021_01_ARI_TEN,LowStakesLaura,56
@@ -6028,6 +6028,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,ZenTaco,50
 2021_01_ARI_TEN,zweinberg18,70
 2021_01_ARI_TEN,zybxixi,50
+2021_01_LAC_WAS,,56
 2021_01_LAC_WAS,,24
 2021_01_LAC_WAS,__beraldo,50
 2021_01_LAC_WAS,__DavidOfficial,44
@@ -6394,7 +6395,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,LeachJus,35
 2021_01_LAC_WAS,LeeSharpeNFL,43
 2021_01_LAC_WAS,Legendary24_7,100
-2021_01_LAC_WAS,lifelongJJ18fan,56
 2021_01_LAC_WAS,linsky,36
 2021_01_LAC_WAS,llamashuffle,50
 2021_01_LAC_WAS,LowStakesLaura,41
@@ -6702,6 +6702,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,zweinberg18,40
 2021_01_LAC_WAS,zybxixi,50
 2021_01_CLE_KC,,90
+2021_01_CLE_KC,,70
 2021_01_CLE_KC,__beraldo,50
 2021_01_CLE_KC,__DavidOfficial,80
 2021_01_CLE_KC,_alendowsky,61
@@ -7067,7 +7068,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,LeachJus,72
 2021_01_CLE_KC,LeeSharpeNFL,68
 2021_01_CLE_KC,Legendary24_7,100
-2021_01_CLE_KC,lifelongJJ18fan,70
 2021_01_CLE_KC,linsky,69
 2021_01_CLE_KC,llamashuffle,50
 2021_01_CLE_KC,LowStakesLaura,87
@@ -7374,6 +7374,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,ZenTaco,50
 2021_01_CLE_KC,zweinberg18,75
 2021_01_CLE_KC,zybxixi,50
+2021_01_MIA_NE,,55
 2021_01_MIA_NE,,30
 2021_01_MIA_NE,__beraldo,50
 2021_01_MIA_NE,__DavidOfficial,40
@@ -7740,7 +7741,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,LeachJus,61
 2021_01_MIA_NE,LeeSharpeNFL,46
 2021_01_MIA_NE,Legendary24_7,66
-2021_01_MIA_NE,lifelongJJ18fan,55
 2021_01_MIA_NE,linsky,45
 2021_01_MIA_NE,llamashuffle,50
 2021_01_MIA_NE,LowStakesLaura,43
@@ -8047,6 +8047,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,ZenTaco,50
 2021_01_MIA_NE,zweinberg18,55
 2021_01_MIA_NE,zybxixi,50
+2021_01_GB_NO,,30
 2021_01_GB_NO,,32
 2021_01_GB_NO,__beraldo,50
 2021_01_GB_NO,__DavidOfficial,25
@@ -8413,7 +8414,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,LeachJus,33
 2021_01_GB_NO,LeeSharpeNFL,35
 2021_01_GB_NO,Legendary24_7,0
-2021_01_GB_NO,lifelongJJ18fan,30
 2021_01_GB_NO,linsky,38
 2021_01_GB_NO,llamashuffle,50
 2021_01_GB_NO,LowStakesLaura,41
@@ -8720,6 +8720,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,ZenTaco,50
 2021_01_GB_NO,zweinberg18,39
 2021_01_GB_NO,zybxixi,50
+2021_01_DEN_NYG,,36
 2021_01_DEN_NYG,,30
 2021_01_DEN_NYG,__beraldo,50
 2021_01_DEN_NYG,__DavidOfficial,40
@@ -9086,7 +9087,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,LeachJus,59
 2021_01_DEN_NYG,LeeSharpeNFL,53
 2021_01_DEN_NYG,Legendary24_7,0
-2021_01_DEN_NYG,lifelongJJ18fan,36
 2021_01_DEN_NYG,linsky,41
 2021_01_DEN_NYG,llamashuffle,50
 2021_01_DEN_NYG,LowStakesLaura,50
@@ -9393,6 +9393,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,ZenTaco,50
 2021_01_DEN_NYG,zweinberg18,30
 2021_01_DEN_NYG,zybxixi,50
+2021_01_CHI_LA,,70
 2021_01_CHI_LA,,69
 2021_01_CHI_LA,__beraldo,50
 2021_01_CHI_LA,__DavidOfficial,75
@@ -9760,7 +9761,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,LeachJus,85
 2021_01_CHI_LA,LeeSharpeNFL,64
 2021_01_CHI_LA,Legendary24_7,100
-2021_01_CHI_LA,lifelongJJ18fan,70
 2021_01_CHI_LA,linsky,55
 2021_01_CHI_LA,llamashuffle,50
 2021_01_CHI_LA,LowStakesLaura,86
@@ -10068,6 +10068,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,ZenTaco,50
 2021_01_CHI_LA,zweinberg18,60
 2021_01_CHI_LA,zybxixi,50
+2021_01_BAL_LV,,34
 2021_01_BAL_LV,,20
 2021_01_BAL_LV,__beraldo,50
 2021_01_BAL_LV,__DavidOfficial,40
@@ -10450,7 +10451,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,LeachJus,34
 2021_01_BAL_LV,LeeSharpeNFL,41
 2021_01_BAL_LV,Legendary24_7,0
-2021_01_BAL_LV,lifelongJJ18fan,34
 2021_01_BAL_LV,linsky,37
 2021_01_BAL_LV,llamashuffle,50
 2021_01_BAL_LV,LoganLove88,50
@@ -10772,6 +10772,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,zweinberg18,20
 2021_01_BAL_LV,zybxixi,50
 2021_02_NYG_WAS,,66
+2021_02_NYG_WAS,,59
 2021_02_NYG_WAS,,55
 2021_02_NYG_WAS,__DavidOfficial,60
 2021_02_NYG_WAS,_DH44_,53
@@ -10971,7 +10972,6 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,LeachJus,57
 2021_02_NYG_WAS,LeeSharpeNFL,55
 2021_02_NYG_WAS,Lemmon_19,60
-2021_02_NYG_WAS,lifelongJJ18fan,59
 2021_02_NYG_WAS,linsky,61
 2021_02_NYG_WAS,LowStakesLaura,70
 2021_02_NYG_WAS,LuckyProphet5,35
@@ -11148,6 +11148,7 @@ game_id,screen_name,prediction
 2021_02_NYG_WAS,zacwest91,100
 2021_02_NYG_WAS,zweinberg18,55
 2021_02_NO_CAR,,25
+2021_02_NO_CAR,,40
 2021_02_NO_CAR,,36
 2021_02_NO_CAR,__DavidOfficial,35
 2021_02_NO_CAR,_DH44_,29
@@ -11376,7 +11377,6 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,LeeSharpeNFL,40
 2021_02_NO_CAR,Legendary24_7,0
 2021_02_NO_CAR,Lemmon_19,40
-2021_02_NO_CAR,lifelongJJ18fan,40
 2021_02_NO_CAR,linsky,36
 2021_02_NO_CAR,LowStakesLaura,31
 2021_02_NO_CAR,LuckyProphet5,50
@@ -11581,6 +11581,7 @@ game_id,screen_name,prediction
 2021_02_NO_CAR,zacwest91,65
 2021_02_NO_CAR,zweinberg18,40
 2021_02_CIN_CHI,,42
+2021_02_CIN_CHI,,44
 2021_02_CIN_CHI,,44
 2021_02_CIN_CHI,__DavidOfficial,51
 2021_02_CIN_CHI,_DH44_,65
@@ -11809,7 +11810,6 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,LeeSharpeNFL,54
 2021_02_CIN_CHI,Legendary24_7,0
 2021_02_CIN_CHI,Lemmon_19,53
-2021_02_CIN_CHI,lifelongJJ18fan,44
 2021_02_CIN_CHI,linsky,26
 2021_02_CIN_CHI,LowStakesLaura,45
 2021_02_CIN_CHI,LuckyProphet5,50
@@ -12014,6 +12014,7 @@ game_id,screen_name,prediction
 2021_02_CIN_CHI,zacwest91,0
 2021_02_CIN_CHI,zweinberg18,45
 2021_02_HOU_CLE,,69
+2021_02_HOU_CLE,,86
 2021_02_HOU_CLE,,90
 2021_02_HOU_CLE,__DavidOfficial,74
 2021_02_HOU_CLE,_DH44_,100
@@ -12242,7 +12243,6 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,LeeSharpeNFL,70
 2021_02_HOU_CLE,Legendary24_7,100
 2021_02_HOU_CLE,Lemmon_19,65
-2021_02_HOU_CLE,lifelongJJ18fan,86
 2021_02_HOU_CLE,linsky,89
 2021_02_HOU_CLE,LowStakesLaura,89
 2021_02_HOU_CLE,LuckyProphet5,50
@@ -12446,8 +12446,9 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,zackry_mc,100
 2021_02_HOU_CLE,zacwest91,76
 2021_02_HOU_CLE,zweinberg18,60
-2021_02_LA_IND,,41
+2021_02_LA_IND,,37
 2021_02_LA_IND,,30
+2021_02_LA_IND,,41
 2021_02_LA_IND,__DavidOfficial,30
 2021_02_LA_IND,_DH44_,29
 2021_02_LA_IND,_jclemons,45
@@ -12675,7 +12676,6 @@ game_id,screen_name,prediction
 2021_02_LA_IND,LeeSharpeNFL,41
 2021_02_LA_IND,Legendary24_7,0
 2021_02_LA_IND,Lemmon_19,35
-2021_02_LA_IND,lifelongJJ18fan,37
 2021_02_LA_IND,linsky,22
 2021_02_LA_IND,LowStakesLaura,33
 2021_02_LA_IND,LuckyProphet5,50
@@ -12881,6 +12881,7 @@ game_id,screen_name,prediction
 2021_02_LA_IND,zweinberg18,41
 2021_02_DEN_JAX,,25
 2021_02_DEN_JAX,,30
+2021_02_DEN_JAX,,32
 2021_02_DEN_JAX,__DavidOfficial,20
 2021_02_DEN_JAX,_DH44_,49
 2021_02_DEN_JAX,_jclemons,39
@@ -13108,7 +13109,6 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,LeeSharpeNFL,42
 2021_02_DEN_JAX,Legendary24_7,0
 2021_02_DEN_JAX,Lemmon_19,41
-2021_02_DEN_JAX,lifelongJJ18fan,32
 2021_02_DEN_JAX,linsky,38
 2021_02_DEN_JAX,LowStakesLaura,39
 2021_02_DEN_JAX,LuckyProphet5,50
@@ -13312,6 +13312,7 @@ game_id,screen_name,prediction
 2021_02_DEN_JAX,zackry_mc,0
 2021_02_DEN_JAX,zacwest91,9
 2021_02_DEN_JAX,zweinberg18,28
+2021_02_BUF_MIA,,40
 2021_02_BUF_MIA,,35
 2021_02_BUF_MIA,,65
 2021_02_BUF_MIA,__DavidOfficial,34
@@ -13541,7 +13542,6 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,LeeSharpeNFL,47
 2021_02_BUF_MIA,Legendary24_7,0
 2021_02_BUF_MIA,Lemmon_19,35
-2021_02_BUF_MIA,lifelongJJ18fan,40
 2021_02_BUF_MIA,linsky,22
 2021_02_BUF_MIA,LowStakesLaura,30
 2021_02_BUF_MIA,LuckyProphet5,50
@@ -13746,6 +13746,7 @@ game_id,screen_name,prediction
 2021_02_BUF_MIA,zacwest91,0
 2021_02_BUF_MIA,zweinberg18,38
 2021_02_NE_NYJ,,23
+2021_02_NE_NYJ,,40
 2021_02_NE_NYJ,,38
 2021_02_NE_NYJ,__DavidOfficial,25
 2021_02_NE_NYJ,_DH44_,46
@@ -13974,7 +13975,6 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,LeeSharpeNFL,40
 2021_02_NE_NYJ,Legendary24_7,0
 2021_02_NE_NYJ,Lemmon_19,25
-2021_02_NE_NYJ,lifelongJJ18fan,40
 2021_02_NE_NYJ,linsky,38
 2021_02_NE_NYJ,LowStakesLaura,22
 2021_02_NE_NYJ,LuckyProphet5,50
@@ -14178,6 +14178,7 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,zackry_mc,0
 2021_02_NE_NYJ,zacwest91,43
 2021_02_NE_NYJ,zweinberg18,45
+2021_02_SF_PHI,,37
 2021_02_SF_PHI,,61
 2021_02_SF_PHI,,47
 2021_02_SF_PHI,__DavidOfficial,40
@@ -14407,7 +14408,6 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,LeeSharpeNFL,44
 2021_02_SF_PHI,Legendary24_7,0
 2021_02_SF_PHI,Lemmon_19,51
-2021_02_SF_PHI,lifelongJJ18fan,37
 2021_02_SF_PHI,linsky,32
 2021_02_SF_PHI,LowStakesLaura,58
 2021_02_SF_PHI,LuckyProphet5,50
@@ -14612,6 +14612,7 @@ game_id,screen_name,prediction
 2021_02_SF_PHI,zacwest91,65
 2021_02_SF_PHI,zweinberg18,35
 2021_02_LV_PIT,,55
+2021_02_LV_PIT,,60
 2021_02_LV_PIT,,64
 2021_02_LV_PIT,__DavidOfficial,60
 2021_02_LV_PIT,_DH44_,48
@@ -14840,7 +14841,6 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,LeeSharpeNFL,57
 2021_02_LV_PIT,Legendary24_7,100
 2021_02_LV_PIT,Lemmon_19,54
-2021_02_LV_PIT,lifelongJJ18fan,60
 2021_02_LV_PIT,linsky,78
 2021_02_LV_PIT,LowStakesLaura,73
 2021_02_LV_PIT,LuckyProphet5,50
@@ -15044,6 +15044,7 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
+2021_02_MIN_ARI,,60
 2021_02_MIN_ARI,,62
 2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,__DavidOfficial,67
@@ -15274,7 +15275,6 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,LeeSharpeNFL,47
 2021_02_MIN_ARI,Legendary24_7,100
 2021_02_MIN_ARI,Lemmon_19,60
-2021_02_MIN_ARI,lifelongJJ18fan,60
 2021_02_MIN_ARI,linsky,92
 2021_02_MIN_ARI,LowStakesLaura,58
 2021_02_MIN_ARI,LuckyProphet5,50
@@ -15480,6 +15480,7 @@ game_id,screen_name,prediction
 2021_02_MIN_ARI,zweinberg18,66
 2021_02_ATL_TB,,72
 2021_02_ATL_TB,,89
+2021_02_ATL_TB,,85
 2021_02_ATL_TB,__DavidOfficial,100
 2021_02_ATL_TB,_DH44_,100
 2021_02_ATL_TB,_jclemons,79
@@ -15708,7 +15709,6 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,LeeSharpeNFL,75
 2021_02_ATL_TB,Legendary24_7,100
 2021_02_ATL_TB,Lemmon_19,66
-2021_02_ATL_TB,lifelongJJ18fan,85
 2021_02_ATL_TB,linsky,87
 2021_02_ATL_TB,LowStakesLaura,85
 2021_02_ATL_TB,LuckyProphet5,50
@@ -15912,8 +15912,9 @@ game_id,screen_name,prediction
 2021_02_ATL_TB,zackry_mc,100
 2021_02_ATL_TB,zacwest91,100
 2021_02_ATL_TB,zweinberg18,80
-2021_02_DAL_LAC,,36
 2021_02_DAL_LAC,,57
+2021_02_DAL_LAC,,36
+2021_02_DAL_LAC,,56
 2021_02_DAL_LAC,__DavidOfficial,45
 2021_02_DAL_LAC,_DH44_,49
 2021_02_DAL_LAC,_jclemons,45
@@ -16142,7 +16143,6 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,LeeSharpeNFL,48
 2021_02_DAL_LAC,Legendary24_7,0
 2021_02_DAL_LAC,Lemmon_19,55
-2021_02_DAL_LAC,lifelongJJ18fan,56
 2021_02_DAL_LAC,linsky,32
 2021_02_DAL_LAC,LowStakesLaura,45
 2021_02_DAL_LAC,LuckyProphet5,50
@@ -16347,6 +16347,7 @@ game_id,screen_name,prediction
 2021_02_DAL_LAC,zacwest91,38
 2021_02_DAL_LAC,zweinberg18,42
 2021_02_TEN_SEA,,63
+2021_02_TEN_SEA,,64
 2021_02_TEN_SEA,,85
 2021_02_TEN_SEA,__DavidOfficial,70
 2021_02_TEN_SEA,_DH44_,56
@@ -16576,7 +16577,6 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,LeeSharpeNFL,68
 2021_02_TEN_SEA,Legendary24_7,100
 2021_02_TEN_SEA,Lemmon_19,64
-2021_02_TEN_SEA,lifelongJJ18fan,64
 2021_02_TEN_SEA,linsky,72
 2021_02_TEN_SEA,LowStakesLaura,75
 2021_02_TEN_SEA,LuckyProphet5,50
@@ -16780,8 +16780,9 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,zackry_mc,81
 2021_02_TEN_SEA,zacwest91,76
 2021_02_TEN_SEA,zweinberg18,58
-2021_02_KC_BAL,,19
 2021_02_KC_BAL,,43
+2021_02_KC_BAL,,19
+2021_02_KC_BAL,,36
 2021_02_KC_BAL,__DavidOfficial,45
 2021_02_KC_BAL,_DH44_,51
 2021_02_KC_BAL,_jclemons,38
@@ -17010,7 +17011,6 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,LeeSharpeNFL,49
 2021_02_KC_BAL,Legendary24_7,0
 2021_02_KC_BAL,Lemmon_19,45
-2021_02_KC_BAL,lifelongJJ18fan,36
 2021_02_KC_BAL,linsky,31
 2021_02_KC_BAL,LowStakesLaura,19
 2021_02_KC_BAL,LuckyProphet5,50
@@ -17214,8 +17214,9 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,70
 2021_02_DET_GB,,38
+2021_02_DET_GB,,70
+2021_02_DET_GB,,91
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -17444,7 +17445,6 @@ game_id,screen_name,prediction
 2021_02_DET_GB,LeeSharpeNFL,72
 2021_02_DET_GB,Legendary24_7,100
 2021_02_DET_GB,Lemmon_19,70
-2021_02_DET_GB,lifelongJJ18fan,91
 2021_02_DET_GB,linsky,76
 2021_02_DET_GB,LowStakesLaura,85
 2021_02_DET_GB,LuckyProphet5,50
@@ -17649,6 +17649,7 @@ game_id,screen_name,prediction
 2021_02_DET_GB,zacwest91,75
 2021_02_DET_GB,zweinberg18,63
 2021_03_CAR_HOU,,50
+2021_03_CAR_HOU,,30
 2021_03_CAR_HOU,,20
 2021_03_CAR_HOU,__DavidOfficial,0
 2021_03_CAR_HOU,_DH44_,49
@@ -17838,7 +17839,6 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,LeachJus,32
 2021_03_CAR_HOU,LeeSharpeNFL,40
 2021_03_CAR_HOU,Lemmon_19,35
-2021_03_CAR_HOU,lifelongJJ18fan,30
 2021_03_CAR_HOU,linsky,18
 2021_03_CAR_HOU,LowStakesLaura,9
 2021_03_CAR_HOU,maloney_jarrod,0
@@ -17992,8 +17992,9 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,,45
+2021_03_WAS_BUF,,65
+2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
@@ -18199,7 +18200,6 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,LeachJus,60
 2021_03_WAS_BUF,LeeSharpeNFL,67
 2021_03_WAS_BUF,Lemmon_19,70
-2021_03_WAS_BUF,lifelongJJ18fan,65
 2021_03_WAS_BUF,linsky,68
 2021_03_WAS_BUF,LowStakesLaura,61
 2021_03_WAS_BUF,mA26159197,85
@@ -18367,8 +18367,9 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
+2021_03_CHI_CLE,,63
+2021_03_CHI_CLE,,79
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -18574,7 +18575,6 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,LeachJus,66
 2021_03_CHI_CLE,LeeSharpeNFL,65
 2021_03_CHI_CLE,Lemmon_19,65
-2021_03_CHI_CLE,lifelongJJ18fan,79
 2021_03_CHI_CLE,linsky,37
 2021_03_CHI_CLE,LowStakesLaura,69
 2021_03_CHI_CLE,mA26159197,63
@@ -18744,6 +18744,7 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,zweinberg18,63
 2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
+2021_03_BAL_DET,,32
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -18949,7 +18950,6 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,LeachJus,24
 2021_03_BAL_DET,LeeSharpeNFL,29
 2021_03_BAL_DET,Lemmon_19,29
-2021_03_BAL_DET,lifelongJJ18fan,32
 2021_03_BAL_DET,linsky,15
 2021_03_BAL_DET,LowStakesLaura,22
 2021_03_BAL_DET,mA26159197,14
@@ -19117,6 +19117,7 @@ game_id,screen_name,prediction
 2021_03_BAL_DET,YayySports,21
 2021_03_BAL_DET,zackry_mc,0
 2021_03_BAL_DET,zweinberg18,5
+2021_03_ARI_JAX,,29
 2021_03_ARI_JAX,,50
 2021_03_ARI_JAX,,22
 2021_03_ARI_JAX,__DavidOfficial,0
@@ -19324,7 +19325,6 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,LeachJus,26
 2021_03_ARI_JAX,LeeSharpeNFL,40
 2021_03_ARI_JAX,Lemmon_19,30
-2021_03_ARI_JAX,lifelongJJ18fan,29
 2021_03_ARI_JAX,linsky,28
 2021_03_ARI_JAX,LowStakesLaura,10
 2021_03_ARI_JAX,mA26159197,12
@@ -19493,6 +19493,7 @@ game_id,screen_name,prediction
 2021_03_ARI_JAX,zackry_mc,0
 2021_03_ARI_JAX,zweinberg18,28
 2021_03_LAC_KC,,42
+2021_03_LAC_KC,,72
 2021_03_LAC_KC,,50
 2021_03_LAC_KC,__DavidOfficial,52
 2021_03_LAC_KC,_alendowsky,52
@@ -19699,7 +19700,6 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,LeachJus,57
 2021_03_LAC_KC,LeeSharpeNFL,73
 2021_03_LAC_KC,Lemmon_19,65
-2021_03_LAC_KC,lifelongJJ18fan,72
 2021_03_LAC_KC,linsky,80
 2021_03_LAC_KC,LowStakesLaura,66
 2021_03_LAC_KC,mA26159197,60
@@ -19869,6 +19869,7 @@ game_id,screen_name,prediction
 2021_03_LAC_KC,zweinberg18,62
 2021_03_NO_NE,,62
 2021_03_NO_NE,,50
+2021_03_NO_NE,,55
 2021_03_NO_NE,__DavidOfficial,55
 2021_03_NO_NE,_alendowsky,49
 2021_03_NO_NE,_DH44_,49
@@ -20074,7 +20075,6 @@ game_id,screen_name,prediction
 2021_03_NO_NE,LeachJus,39
 2021_03_NO_NE,LeeSharpeNFL,56
 2021_03_NO_NE,Lemmon_19,55
-2021_03_NO_NE,lifelongJJ18fan,55
 2021_03_NO_NE,linsky,71
 2021_03_NO_NE,LowStakesLaura,41
 2021_03_NO_NE,mA26159197,46
@@ -20244,6 +20244,7 @@ game_id,screen_name,prediction
 2021_03_NO_NE,zweinberg18,45
 2021_03_ATL_NYG,,60
 2021_03_ATL_NYG,,50
+2021_03_ATL_NYG,,56
 2021_03_ATL_NYG,__DavidOfficial,50
 2021_03_ATL_NYG,_alendowsky,51
 2021_03_ATL_NYG,_DH44_,52
@@ -20449,7 +20450,6 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,LeachJus,57
 2021_03_ATL_NYG,LeeSharpeNFL,62
 2021_03_ATL_NYG,Lemmon_19,55
-2021_03_ATL_NYG,lifelongJJ18fan,56
 2021_03_ATL_NYG,linsky,69
 2021_03_ATL_NYG,LowStakesLaura,35
 2021_03_ATL_NYG,mA26159197,53
@@ -20619,6 +20619,7 @@ game_id,screen_name,prediction
 2021_03_ATL_NYG,zweinberg18,55
 2021_03_CIN_PIT,,57
 2021_03_CIN_PIT,,50
+2021_03_CIN_PIT,,55
 2021_03_CIN_PIT,__DavidOfficial,56
 2021_03_CIN_PIT,_alendowsky,51
 2021_03_CIN_PIT,_DH44_,51
@@ -20824,7 +20825,6 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,LeachJus,40
 2021_03_CIN_PIT,LeeSharpeNFL,55
 2021_03_CIN_PIT,Lemmon_19,60
-2021_03_CIN_PIT,lifelongJJ18fan,55
 2021_03_CIN_PIT,linsky,64
 2021_03_CIN_PIT,LowStakesLaura,57
 2021_03_CIN_PIT,mA26159197,68
@@ -20992,6 +20992,7 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,YayySports,68
 2021_03_CIN_PIT,zackry_mc,50
 2021_03_CIN_PIT,zweinberg18,64
+2021_03_IND_TEN,,65
 2021_03_IND_TEN,,50
 2021_03_IND_TEN,,44
 2021_03_IND_TEN,__DavidOfficial,75
@@ -21199,7 +21200,6 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,LeachJus,68
 2021_03_IND_TEN,LeeSharpeNFL,66
 2021_03_IND_TEN,Lemmon_19,55
-2021_03_IND_TEN,lifelongJJ18fan,65
 2021_03_IND_TEN,linsky,73
 2021_03_IND_TEN,LowStakesLaura,64
 2021_03_IND_TEN,mA26159197,54
@@ -21369,6 +21369,7 @@ game_id,screen_name,prediction
 2021_03_IND_TEN,zweinberg18,62
 2021_03_NYJ_DEN,,100
 2021_03_NYJ_DEN,,50
+2021_03_NYJ_DEN,,76
 2021_03_NYJ_DEN,__DavidOfficial,80
 2021_03_NYJ_DEN,_alendowsky,57
 2021_03_NYJ_DEN,_DH44_,56
@@ -21576,7 +21577,6 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,LeachJus,79
 2021_03_NYJ_DEN,LeeSharpeNFL,69
 2021_03_NYJ_DEN,Lemmon_19,75
-2021_03_NYJ_DEN,lifelongJJ18fan,76
 2021_03_NYJ_DEN,linsky,53
 2021_03_NYJ_DEN,LowStakesLaura,79
 2021_03_NYJ_DEN,mA26159197,95
@@ -21745,6 +21745,7 @@ game_id,screen_name,prediction
 2021_03_NYJ_DEN,YayySports,81
 2021_03_NYJ_DEN,zackry_mc,100
 2021_03_NYJ_DEN,zweinberg18,73
+2021_03_MIA_LV,,71
 2021_03_MIA_LV,,50
 2021_03_MIA_LV,,69
 2021_03_MIA_LV,__DavidOfficial,75
@@ -21955,7 +21956,6 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,LeeSharpeNFL,70
 2021_03_MIA_LV,Legendary24_7,50
 2021_03_MIA_LV,Lemmon_19,66
-2021_03_MIA_LV,lifelongJJ18fan,71
 2021_03_MIA_LV,linsky,72
 2021_03_MIA_LV,LowStakesLaura,44
 2021_03_MIA_LV,mA26159197,59
@@ -22124,6 +22124,7 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
+2021_03_TB_LA,,36
 2021_03_TB_LA,,50
 2021_03_TB_LA,,64
 2021_03_TB_LA,__DavidOfficial,40
@@ -22334,7 +22335,6 @@ game_id,screen_name,prediction
 2021_03_TB_LA,LeeSharpeNFL,40
 2021_03_TB_LA,Legendary24_7,50
 2021_03_TB_LA,Lemmon_19,45
-2021_03_TB_LA,lifelongJJ18fan,36
 2021_03_TB_LA,linsky,25
 2021_03_TB_LA,LowStakesLaura,43
 2021_03_TB_LA,mA26159197,54
@@ -22503,6 +22503,7 @@ game_id,screen_name,prediction
 2021_03_TB_LA,YayySports,50
 2021_03_TB_LA,zackry_mc,50
 2021_03_TB_LA,zweinberg18,48
+2021_03_SEA_MIN,,50
 2021_03_SEA_MIN,,0
 2021_03_SEA_MIN,,50
 2021_03_SEA_MIN,__DavidOfficial,40
@@ -22713,7 +22714,6 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,LeeSharpeNFL,49
 2021_03_SEA_MIN,Legendary24_7,50
 2021_03_SEA_MIN,Lemmon_19,40
-2021_03_SEA_MIN,lifelongJJ18fan,50
 2021_03_SEA_MIN,linsky,25
 2021_03_SEA_MIN,LowStakesLaura,63
 2021_03_SEA_MIN,mA26159197,41
@@ -22883,6 +22883,7 @@ game_id,screen_name,prediction
 2021_03_SEA_MIN,zackry_mc,50
 2021_03_SEA_MIN,zweinberg18,40
 2021_03_GB_SF,,50
+2021_03_GB_SF,,45
 2021_03_GB_SF,,69
 2021_03_GB_SF,__DavidOfficial,50
 2021_03_GB_SF,_alendowsky,48
@@ -23093,7 +23094,6 @@ game_id,screen_name,prediction
 2021_03_GB_SF,LeeSharpeNFL,51
 2021_03_GB_SF,Legendary24_7,100
 2021_03_GB_SF,Lemmon_19,55
-2021_03_GB_SF,lifelongJJ18fan,45
 2021_03_GB_SF,linsky,62
 2021_03_GB_SF,LowStakesLaura,41
 2021_03_GB_SF,mA26159197,51
@@ -23262,6 +23262,7 @@ game_id,screen_name,prediction
 2021_03_GB_SF,YayySports,64
 2021_03_GB_SF,zackry_mc,50
 2021_03_GB_SF,zweinberg18,55
+2021_03_PHI_DAL,,45
 2021_03_PHI_DAL,,35
 2021_03_PHI_DAL,,50
 2021_03_PHI_DAL,__DavidOfficial,67
@@ -23482,7 +23483,6 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,LeeSharpeNFL,64
 2021_03_PHI_DAL,Legendary24_7,0
 2021_03_PHI_DAL,Lemmon_19,60
-2021_03_PHI_DAL,lifelongJJ18fan,45
 2021_03_PHI_DAL,linsky,74
 2021_03_PHI_DAL,LowStakesLaura,65
 2021_03_PHI_DAL,mA26159197,75
@@ -23660,6 +23660,7 @@ game_id,screen_name,prediction
 2021_03_PHI_DAL,zackry_mc,50
 2021_03_PHI_DAL,zweinberg18,57
 2021_04_JAX_CIN,,69
+2021_04_JAX_CIN,,70
 2021_04_JAX_CIN,__DavidOfficial,75
 2021_04_JAX_CIN,_alendowsky,53
 2021_04_JAX_CIN,_DH44_,51
@@ -23853,7 +23854,6 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,LeachJus,84
 2021_04_JAX_CIN,LeeSharpeNFL,70
 2021_04_JAX_CIN,Lemmon_19,50
-2021_04_JAX_CIN,lifelongJJ18fan,70
 2021_04_JAX_CIN,linsky,81
 2021_04_JAX_CIN,LowStakesLaura,89
 2021_04_JAX_CIN,lupo1278,96
@@ -24015,6 +24015,7 @@ game_id,screen_name,prediction
 2021_04_JAX_CIN,YayySports,75
 2021_04_JAX_CIN,zweinberg18,70
 2021_04_WAS_ATL,,33
+2021_04_WAS_ATL,,46
 2021_04_WAS_ATL,__DavidOfficial,35
 2021_04_WAS_ATL,_alendowsky,51
 2021_04_WAS_ATL,_DH44_,49
@@ -24228,7 +24229,6 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,LeeSharpeNFL,53
 2021_04_WAS_ATL,Legendary24_7,17
 2021_04_WAS_ATL,Lemmon_19,45
-2021_04_WAS_ATL,lifelongJJ18fan,46
 2021_04_WAS_ATL,linsky,36
 2021_04_WAS_ATL,LowStakesLaura,62
 2021_04_WAS_ATL,lupo1278,14
@@ -24406,6 +24406,7 @@ game_id,screen_name,prediction
 2021_04_WAS_ATL,YayySports,49
 2021_04_WAS_ATL,zackry_mc,50
 2021_04_WAS_ATL,zweinberg18,45
+2021_04_HOU_BUF,,95
 2021_04_HOU_BUF,,89
 2021_04_HOU_BUF,__DavidOfficial,100
 2021_04_HOU_BUF,_alendowsky,58
@@ -24620,7 +24621,6 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,LeeSharpeNFL,76
 2021_04_HOU_BUF,Legendary24_7,100
 2021_04_HOU_BUF,Lemmon_19,91
-2021_04_HOU_BUF,lifelongJJ18fan,95
 2021_04_HOU_BUF,linsky,91
 2021_04_HOU_BUF,LowStakesLaura,94
 2021_04_HOU_BUF,lupo1278,96
@@ -24798,6 +24798,7 @@ game_id,screen_name,prediction
 2021_04_HOU_BUF,YayySports,96
 2021_04_HOU_BUF,zackry_mc,100
 2021_04_HOU_BUF,zweinberg18,97
+2021_04_DET_CHI,,55
 2021_04_DET_CHI,,69
 2021_04_DET_CHI,__DavidOfficial,40
 2021_04_DET_CHI,_alendowsky,51
@@ -25012,7 +25013,6 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,LeeSharpeNFL,43
 2021_04_DET_CHI,Legendary24_7,100
 2021_04_DET_CHI,Lemmon_19,45
-2021_04_DET_CHI,lifelongJJ18fan,55
 2021_04_DET_CHI,linsky,65
 2021_04_DET_CHI,LowStakesLaura,54
 2021_04_DET_CHI,lupo1278,31
@@ -25191,6 +25191,7 @@ game_id,screen_name,prediction
 2021_04_DET_CHI,zackry_mc,50
 2021_04_DET_CHI,zweinberg18,55
 2021_04_CAR_DAL,,37
+2021_04_CAR_DAL,,56
 2021_04_CAR_DAL,__DavidOfficial,100
 2021_04_CAR_DAL,_alendowsky,51
 2021_04_CAR_DAL,_DH44_,66
@@ -25404,7 +25405,6 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,LeeSharpeNFL,64
 2021_04_CAR_DAL,Legendary24_7,100
 2021_04_CAR_DAL,Lemmon_19,60
-2021_04_CAR_DAL,lifelongJJ18fan,56
 2021_04_CAR_DAL,linsky,74
 2021_04_CAR_DAL,LowStakesLaura,76
 2021_04_CAR_DAL,lupo1278,55
@@ -25582,6 +25582,7 @@ game_id,screen_name,prediction
 2021_04_CAR_DAL,YayySports,66
 2021_04_CAR_DAL,zackry_mc,50
 2021_04_CAR_DAL,zweinberg18,60
+2021_04_IND_MIA,,55
 2021_04_IND_MIA,,35
 2021_04_IND_MIA,__DavidOfficial,55
 2021_04_IND_MIA,_alendowsky,49
@@ -25796,7 +25797,6 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,LeeSharpeNFL,58
 2021_04_IND_MIA,Legendary24_7,0
 2021_04_IND_MIA,Lemmon_19,55
-2021_04_IND_MIA,lifelongJJ18fan,55
 2021_04_IND_MIA,linsky,42
 2021_04_IND_MIA,LowStakesLaura,50
 2021_04_IND_MIA,lupo1278,46
@@ -25974,6 +25974,7 @@ game_id,screen_name,prediction
 2021_04_IND_MIA,YayySports,53
 2021_04_IND_MIA,zackry_mc,50
 2021_04_IND_MIA,zweinberg18,40
+2021_04_CLE_MIN,,45
 2021_04_CLE_MIN,,63
 2021_04_CLE_MIN,__DavidOfficial,59
 2021_04_CLE_MIN,_alendowsky,51
@@ -26188,7 +26189,6 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,LeeSharpeNFL,53
 2021_04_CLE_MIN,Legendary24_7,29
 2021_04_CLE_MIN,Lemmon_19,45
-2021_04_CLE_MIN,lifelongJJ18fan,45
 2021_04_CLE_MIN,linsky,25
 2021_04_CLE_MIN,LowStakesLaura,59
 2021_04_CLE_MIN,lupo1278,51
@@ -26366,6 +26366,7 @@ game_id,screen_name,prediction
 2021_04_CLE_MIN,YayySports,50
 2021_04_CLE_MIN,zackry_mc,50
 2021_04_CLE_MIN,zweinberg18,40
+2021_04_NYG_NO,,70
 2021_04_NYG_NO,,61
 2021_04_NYG_NO,__DavidOfficial,100
 2021_04_NYG_NO,_alendowsky,60
@@ -26580,7 +26581,6 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,LeeSharpeNFL,62
 2021_04_NYG_NO,Legendary24_7,100
 2021_04_NYG_NO,Lemmon_19,60
-2021_04_NYG_NO,lifelongJJ18fan,70
 2021_04_NYG_NO,linsky,57
 2021_04_NYG_NO,LowStakesLaura,60
 2021_04_NYG_NO,lupo1278,73
@@ -26758,6 +26758,7 @@ game_id,screen_name,prediction
 2021_04_NYG_NO,YayySports,80
 2021_04_NYG_NO,zackry_mc,50
 2021_04_NYG_NO,zweinberg18,55
+2021_04_TEN_NYJ,,25
 2021_04_TEN_NYJ,,21
 2021_04_TEN_NYJ,__DavidOfficial,20
 2021_04_TEN_NYJ,_alendowsky,47
@@ -26972,7 +26973,6 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,LeeSharpeNFL,39
 2021_04_TEN_NYJ,Legendary24_7,0
 2021_04_TEN_NYJ,Lemmon_19,45
-2021_04_TEN_NYJ,lifelongJJ18fan,25
 2021_04_TEN_NYJ,linsky,11
 2021_04_TEN_NYJ,LowStakesLaura,19
 2021_04_TEN_NYJ,lupo1278,26
@@ -27151,6 +27151,7 @@ game_id,screen_name,prediction
 2021_04_TEN_NYJ,zackry_mc,0
 2021_04_TEN_NYJ,zweinberg18,25
 2021_04_KC_PHI,,29
+2021_04_KC_PHI,,20
 2021_04_KC_PHI,__DavidOfficial,0
 2021_04_KC_PHI,_alendowsky,49
 2021_04_KC_PHI,_DH44_,0
@@ -27364,7 +27365,6 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,LeeSharpeNFL,34
 2021_04_KC_PHI,Legendary24_7,0
 2021_04_KC_PHI,Lemmon_19,25
-2021_04_KC_PHI,lifelongJJ18fan,20
 2021_04_KC_PHI,linsky,14
 2021_04_KC_PHI,LowStakesLaura,15
 2021_04_KC_PHI,lupo1278,0
@@ -27543,6 +27543,7 @@ game_id,screen_name,prediction
 2021_04_KC_PHI,zackry_mc,50
 2021_04_KC_PHI,zweinberg18,16
 2021_04_ARI_LA,,65
+2021_04_ARI_LA,,70
 2021_04_ARI_LA,__DavidOfficial,70
 2021_04_ARI_LA,_alendowsky,52
 2021_04_ARI_LA,_DH44_,51
@@ -27757,7 +27758,6 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,LeeSharpeNFL,68
 2021_04_ARI_LA,Legendary24_7,100
 2021_04_ARI_LA,Lemmon_19,60
-2021_04_ARI_LA,lifelongJJ18fan,70
 2021_04_ARI_LA,linsky,46
 2021_04_ARI_LA,LowStakesLaura,78
 2021_04_ARI_LA,lupo1278,66
@@ -27938,6 +27938,7 @@ game_id,screen_name,prediction
 2021_04_ARI_LA,YayySports,66
 2021_04_ARI_LA,zackry_mc,50
 2021_04_ARI_LA,zweinberg18,58
+2021_04_SEA_SF,,55
 2021_04_SEA_SF,,35
 2021_04_SEA_SF,__DavidOfficial,65
 2021_04_SEA_SF,_alendowsky,51
@@ -28153,7 +28154,6 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,LeeSharpeNFL,49
 2021_04_SEA_SF,Legendary24_7,50
 2021_04_SEA_SF,Lemmon_19,45
-2021_04_SEA_SF,lifelongJJ18fan,55
 2021_04_SEA_SF,linsky,43
 2021_04_SEA_SF,LowStakesLaura,46
 2021_04_SEA_SF,lupo1278,55
@@ -28335,6 +28335,7 @@ game_id,screen_name,prediction
 2021_04_SEA_SF,zackry_mc,50
 2021_04_SEA_SF,zweinberg18,45
 2021_04_BAL_DEN,,31
+2021_04_BAL_DEN,,55
 2021_04_BAL_DEN,__DavidOfficial,40
 2021_04_BAL_DEN,_alendowsky,51
 2021_04_BAL_DEN,_DH44_,45
@@ -28551,7 +28552,6 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,LeeSharpeNFL,40
 2021_04_BAL_DEN,Legendary24_7,69
 2021_04_BAL_DEN,Lemmon_19,39
-2021_04_BAL_DEN,lifelongJJ18fan,55
 2021_04_BAL_DEN,linsky,29
 2021_04_BAL_DEN,LowStakesLaura,39
 2021_04_BAL_DEN,lupo1278,59
@@ -28733,6 +28733,7 @@ game_id,screen_name,prediction
 2021_04_BAL_DEN,zackry_mc,50
 2021_04_BAL_DEN,zweinberg18,45
 2021_04_PIT_GB,,62
+2021_04_PIT_GB,,85
 2021_04_PIT_GB,__DavidOfficial,100
 2021_04_PIT_GB,_alendowsky,52
 2021_04_PIT_GB,_DH44_,100
@@ -28949,7 +28950,6 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,LeeSharpeNFL,70
 2021_04_PIT_GB,Legendary24_7,100
 2021_04_PIT_GB,Lemmon_19,60
-2021_04_PIT_GB,lifelongJJ18fan,85
 2021_04_PIT_GB,linsky,41
 2021_04_PIT_GB,LowStakesLaura,57
 2021_04_PIT_GB,lupo1278,77
@@ -29131,6 +29131,7 @@ game_id,screen_name,prediction
 2021_04_PIT_GB,zackry_mc,50
 2021_04_PIT_GB,zweinberg18,62
 2021_04_TB_NE,,29
+2021_04_TB_NE,,25
 2021_04_TB_NE,__DavidOfficial,26
 2021_04_TB_NE,_alendowsky,0
 2021_04_TB_NE,_DH44_,51
@@ -29348,7 +29349,6 @@ game_id,screen_name,prediction
 2021_04_TB_NE,LeeSharpeNFL,36
 2021_04_TB_NE,Legendary24_7,0
 2021_04_TB_NE,Lemmon_19,44
-2021_04_TB_NE,lifelongJJ18fan,25
 2021_04_TB_NE,linsky,23
 2021_04_TB_NE,LowStakesLaura,23
 2021_04_TB_NE,lupo1278,0
@@ -29531,6 +29531,7 @@ game_id,screen_name,prediction
 2021_04_TB_NE,zackry_mc,0
 2021_04_TB_NE,zweinberg18,35
 2021_04_LV_LAC,,67
+2021_04_LV_LAC,,60
 2021_04_LV_LAC,__DavidOfficial,60
 2021_04_LV_LAC,_alendowsky,51
 2021_04_LV_LAC,_DH44_,60
@@ -29754,7 +29755,6 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,LeeSharpeNFL,51
 2021_04_LV_LAC,Legendary24_7,0
 2021_04_LV_LAC,Lemmon_19,60
-2021_04_LV_LAC,lifelongJJ18fan,60
 2021_04_LV_LAC,linsky,73
 2021_04_LV_LAC,LowStakesLaura,78
 2021_04_LV_LAC,lupo1278,48
@@ -29947,6 +29947,7 @@ game_id,screen_name,prediction
 2021_04_LV_LAC,YayySports,66
 2021_04_LV_LAC,zackry_mc,50
 2021_04_LV_LAC,zweinberg18,55
+2021_05_LA_SEA,,40
 2021_05_LA_SEA,,59
 2021_05_LA_SEA,__DavidOfficial,40
 2021_05_LA_SEA,_alendowsky,48
@@ -30130,7 +30131,6 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,LeeSharpeNFL,40
 2021_05_LA_SEA,Legendary24_7,0
 2021_05_LA_SEA,Lemmon_19,53
-2021_05_LA_SEA,lifelongJJ18fan,40
 2021_05_LA_SEA,linsky,63
 2021_05_LA_SEA,LowStakesLaura,50
 2021_05_LA_SEA,lupo1278,0
@@ -30305,6 +30305,7 @@ game_id,screen_name,prediction
 2021_05_LA_SEA,zackry_mc,50
 2021_05_LA_SEA,zweinberg18,46
 2021_05_NYJ_ATL,,56
+2021_05_NYJ_ATL,,55
 2021_05_NYJ_ATL,__DavidOfficial,65
 2021_05_NYJ_ATL,_alendowsky,50
 2021_05_NYJ_ATL,_DH44_,48
@@ -30496,7 +30497,6 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,LeeSharpeNFL,56
 2021_05_NYJ_ATL,Legendary24_7,0
 2021_05_NYJ_ATL,Lemmon_19,54
-2021_05_NYJ_ATL,lifelongJJ18fan,55
 2021_05_NYJ_ATL,linsky,67
 2021_05_NYJ_ATL,LowStakesLaura,24
 2021_05_NYJ_ATL,lupo1278,53
@@ -30675,6 +30675,7 @@ game_id,screen_name,prediction
 2021_05_NYJ_ATL,zackry_mc,50
 2021_05_NYJ_ATL,zacwest91,50
 2021_05_NYJ_ATL,zweinberg18,40
+2021_05_PHI_CAR,,60
 2021_05_PHI_CAR,,56
 2021_05_PHI_CAR,__DavidOfficial,70
 2021_05_PHI_CAR,_alendowsky,53
@@ -30871,7 +30872,6 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,LeeSharpeNFL,59
 2021_05_PHI_CAR,Legendary24_7,100
 2021_05_PHI_CAR,Lemmon_19,55
-2021_05_PHI_CAR,lifelongJJ18fan,60
 2021_05_PHI_CAR,linsky,34
 2021_05_PHI_CAR,LowStakesLaura,42
 2021_05_PHI_CAR,lupo1278,59
@@ -31053,6 +31053,7 @@ game_id,screen_name,prediction
 2021_05_PHI_CAR,zackry_mc,100
 2021_05_PHI_CAR,zacwest91,85
 2021_05_PHI_CAR,zweinberg18,64
+2021_05_GB_CIN,,45
 2021_05_GB_CIN,,25
 2021_05_GB_CIN,__DavidOfficial,44
 2021_05_GB_CIN,_alendowsky,48
@@ -31249,7 +31250,6 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,LeeSharpeNFL,44
 2021_05_GB_CIN,Legendary24_7,0
 2021_05_GB_CIN,Lemmon_19,35
-2021_05_GB_CIN,lifelongJJ18fan,45
 2021_05_GB_CIN,linsky,23
 2021_05_GB_CIN,LowStakesLaura,45
 2021_05_GB_CIN,lupo1278,25
@@ -31432,6 +31432,7 @@ game_id,screen_name,prediction
 2021_05_GB_CIN,zacwest91,100
 2021_05_GB_CIN,zweinberg18,39
 2021_05_NE_HOU,,37
+2021_05_NE_HOU,,10
 2021_05_NE_HOU,__DavidOfficial,0
 2021_05_NE_HOU,_alendowsky,47
 2021_05_NE_HOU,_DH44_,51
@@ -31627,7 +31628,6 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,LeeSharpeNFL,30
 2021_05_NE_HOU,Legendary24_7,0
 2021_05_NE_HOU,Lemmon_19,35
-2021_05_NE_HOU,lifelongJJ18fan,10
 2021_05_NE_HOU,linsky,25
 2021_05_NE_HOU,LowStakesLaura,8
 2021_05_NE_HOU,lupo1278,4
@@ -31810,6 +31810,7 @@ game_id,screen_name,prediction
 2021_05_NE_HOU,zacwest91,42
 2021_05_NE_HOU,zweinberg18,31
 2021_05_TEN_JAX,,36
+2021_05_TEN_JAX,,35
 2021_05_TEN_JAX,__DavidOfficial,25
 2021_05_TEN_JAX,_alendowsky,47
 2021_05_TEN_JAX,_DH44_,49
@@ -32005,7 +32006,6 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,LeeSharpeNFL,41
 2021_05_TEN_JAX,Legendary24_7,0
 2021_05_TEN_JAX,Lemmon_19,40
-2021_05_TEN_JAX,lifelongJJ18fan,35
 2021_05_TEN_JAX,linsky,25
 2021_05_TEN_JAX,LowStakesLaura,15
 2021_05_TEN_JAX,lupo1278,43
@@ -32187,6 +32187,7 @@ game_id,screen_name,prediction
 2021_05_TEN_JAX,zackry_mc,50
 2021_05_TEN_JAX,zacwest91,60
 2021_05_TEN_JAX,zweinberg18,38
+2021_05_DET_MIN,,70
 2021_05_DET_MIN,,65
 2021_05_DET_MIN,__DavidOfficial,76
 2021_05_DET_MIN,_alendowsky,53
@@ -32382,7 +32383,6 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,LeeSharpeNFL,70
 2021_05_DET_MIN,Legendary24_7,100
 2021_05_DET_MIN,Lemmon_19,66
-2021_05_DET_MIN,lifelongJJ18fan,70
 2021_05_DET_MIN,linsky,86
 2021_05_DET_MIN,LowStakesLaura,90
 2021_05_DET_MIN,lupo1278,62
@@ -32565,6 +32565,7 @@ game_id,screen_name,prediction
 2021_05_DET_MIN,zacwest91,75
 2021_05_DET_MIN,zweinberg18,59
 2021_05_DEN_PIT,,62
+2021_05_DEN_PIT,,45
 2021_05_DEN_PIT,__DavidOfficial,40
 2021_05_DEN_PIT,_alendowsky,49
 2021_05_DEN_PIT,_DH44_,52
@@ -32760,7 +32761,6 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,LeeSharpeNFL,51
 2021_05_DEN_PIT,Legendary24_7,0
 2021_05_DEN_PIT,Lemmon_19,60
-2021_05_DEN_PIT,lifelongJJ18fan,45
 2021_05_DEN_PIT,linsky,58
 2021_05_DEN_PIT,LowStakesLaura,58
 2021_05_DEN_PIT,lupo1278,61
@@ -32943,6 +32943,7 @@ game_id,screen_name,prediction
 2021_05_DEN_PIT,zacwest91,66
 2021_05_DEN_PIT,zweinberg18,46
 2021_05_MIA_TB,,77
+2021_05_MIA_TB,,90
 2021_05_MIA_TB,__DavidOfficial,90
 2021_05_MIA_TB,_alendowsky,57
 2021_05_MIA_TB,_DH44_,52
@@ -33137,7 +33138,6 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,LeeSharpeNFL,78
 2021_05_MIA_TB,Legendary24_7,100
 2021_05_MIA_TB,Lemmon_19,70
-2021_05_MIA_TB,lifelongJJ18fan,90
 2021_05_MIA_TB,linsky,85
 2021_05_MIA_TB,LowStakesLaura,75
 2021_05_MIA_TB,lupo1278,100
@@ -33319,6 +33319,7 @@ game_id,screen_name,prediction
 2021_05_MIA_TB,zackry_mc,100
 2021_05_MIA_TB,zacwest91,75
 2021_05_MIA_TB,zweinberg18,82
+2021_05_NO_WAS,,50
 2021_05_NO_WAS,,36
 2021_05_NO_WAS,__DavidOfficial,40
 2021_05_NO_WAS,_alendowsky,47
@@ -33515,7 +33516,6 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,LeeSharpeNFL,41
 2021_05_NO_WAS,Legendary24_7,0
 2021_05_NO_WAS,Lemmon_19,39
-2021_05_NO_WAS,lifelongJJ18fan,50
 2021_05_NO_WAS,linsky,38
 2021_05_NO_WAS,LowStakesLaura,15
 2021_05_NO_WAS,lupo1278,53
@@ -33698,6 +33698,7 @@ game_id,screen_name,prediction
 2021_05_NO_WAS,zacwest91,64
 2021_05_NO_WAS,zweinberg18,56
 2021_05_CLE_LAC,,53
+2021_05_CLE_LAC,,55
 2021_05_CLE_LAC,__DavidOfficial,75
 2021_05_CLE_LAC,_alendowsky,51
 2021_05_CLE_LAC,_DH44_,60
@@ -33895,7 +33896,6 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,LeeSharpeNFL,49
 2021_05_CLE_LAC,Legendary24_7,0
 2021_05_CLE_LAC,Lemmon_19,65
-2021_05_CLE_LAC,lifelongJJ18fan,55
 2021_05_CLE_LAC,linsky,59
 2021_05_CLE_LAC,LowStakesLaura,68
 2021_05_CLE_LAC,lupo1278,52
@@ -34079,6 +34079,7 @@ game_id,screen_name,prediction
 2021_05_CLE_LAC,zackry_mc,50
 2021_05_CLE_LAC,zacwest91,60
 2021_05_CLE_LAC,zweinberg18,55
+2021_05_CHI_LV,,65
 2021_05_CHI_LV,,41
 2021_05_CHI_LV,__DavidOfficial,60
 2021_05_CHI_LV,_alendowsky,51
@@ -34277,7 +34278,6 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,LeeSharpeNFL,62
 2021_05_CHI_LV,Legendary24_7,100
 2021_05_CHI_LV,Lemmon_19,60
-2021_05_CHI_LV,lifelongJJ18fan,65
 2021_05_CHI_LV,linsky,40
 2021_05_CHI_LV,LowStakesLaura,60
 2021_05_CHI_LV,lupo1278,55
@@ -34462,6 +34462,7 @@ game_id,screen_name,prediction
 2021_05_CHI_LV,zacwest91,70
 2021_05_CHI_LV,zweinberg18,62
 2021_05_SF_ARI,,37
+2021_05_SF_ARI,,65
 2021_05_SF_ARI,__DavidOfficial,65
 2021_05_SF_ARI,_alendowsky,53
 2021_05_SF_ARI,_DH44_,54
@@ -34659,7 +34660,6 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,LeeSharpeNFL,54
 2021_05_SF_ARI,Legendary24_7,100
 2021_05_SF_ARI,Lemmon_19,60
-2021_05_SF_ARI,lifelongJJ18fan,65
 2021_05_SF_ARI,linsky,58
 2021_05_SF_ARI,LowStakesLaura,56
 2021_05_SF_ARI,lupo1278,61
@@ -34843,6 +34843,7 @@ game_id,screen_name,prediction
 2021_05_SF_ARI,zackry_mc,50
 2021_05_SF_ARI,zacwest91,65
 2021_05_SF_ARI,zweinberg18,66
+2021_05_NYG_DAL,,75
 2021_05_NYG_DAL,,65
 2021_05_NYG_DAL,__DavidOfficial,100
 2021_05_NYG_DAL,_alendowsky,54
@@ -35041,7 +35042,6 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,LeeSharpeNFL,68
 2021_05_NYG_DAL,Legendary24_7,100
 2021_05_NYG_DAL,Lemmon_19,75
-2021_05_NYG_DAL,lifelongJJ18fan,75
 2021_05_NYG_DAL,linsky,82
 2021_05_NYG_DAL,LowStakesLaura,61
 2021_05_NYG_DAL,lupo1278,73
@@ -35226,6 +35226,7 @@ game_id,screen_name,prediction
 2021_05_NYG_DAL,zacwest91,90
 2021_05_NYG_DAL,zweinberg18,66
 2021_05_BUF_KC,,66
+2021_05_BUF_KC,,55
 2021_05_BUF_KC,__DavidOfficial,62
 2021_05_BUF_KC,_alendowsky,49
 2021_05_BUF_KC,_DH44_,57
@@ -35424,7 +35425,6 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,LeeSharpeNFL,55
 2021_05_BUF_KC,Legendary24_7,100
 2021_05_BUF_KC,Lemmon_19,55
-2021_05_BUF_KC,lifelongJJ18fan,55
 2021_05_BUF_KC,linsky,53
 2021_05_BUF_KC,LowStakesLaura,75
 2021_05_BUF_KC,lupo1278,53
@@ -35611,6 +35611,7 @@ game_id,screen_name,prediction
 2021_05_BUF_KC,zacwest91,40
 2021_05_BUF_KC,zweinberg18,58
 2021_05_IND_BAL,,67
+2021_05_IND_BAL,,80
 2021_05_IND_BAL,__DavidOfficial,77
 2021_05_IND_BAL,_alendowsky,54
 2021_05_IND_BAL,_DH44_,100
@@ -35813,7 +35814,6 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,LeeSharpeNFL,72
 2021_05_IND_BAL,Legendary24_7,98
 2021_05_IND_BAL,Lemmon_19,69
-2021_05_IND_BAL,lifelongJJ18fan,80
 2021_05_IND_BAL,linsky,77
 2021_05_IND_BAL,LowStakesLaura,82
 2021_05_IND_BAL,lupo1278,70
@@ -36002,6 +36002,7 @@ game_id,screen_name,prediction
 2021_05_IND_BAL,zackry_mc,50
 2021_05_IND_BAL,zacwest91,70
 2021_05_IND_BAL,zweinberg18,81
+2021_06_TB_PHI,,20
 2021_06_TB_PHI,,50
 2021_06_TB_PHI,__DavidOfficial,22
 2021_06_TB_PHI,_alendowsky,45
@@ -36173,7 +36174,6 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,LeeSharpeNFL,31
 2021_06_TB_PHI,Legendary24_7,0
 2021_06_TB_PHI,Lemmon_19,25
-2021_06_TB_PHI,lifelongJJ18fan,20
 2021_06_TB_PHI,linsky,24
 2021_06_TB_PHI,LowStakesLaura,34
 2021_06_TB_PHI,lupo1278,55
@@ -36330,6 +36330,7 @@ game_id,screen_name,prediction
 2021_06_TB_PHI,YayySports,25
 2021_06_TB_PHI,zweinberg18,25
 2021_06_MIA_JAX,,33
+2021_06_MIA_JAX,,50
 2021_06_MIA_JAX,__DavidOfficial,40
 2021_06_MIA_JAX,_alendowsky,51
 2021_06_MIA_JAX,_DH44_,50
@@ -36510,7 +36511,6 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,LeeSharpeNFL,41
 2021_06_MIA_JAX,Legendary24_7,0
 2021_06_MIA_JAX,Lemmon_19,45
-2021_06_MIA_JAX,lifelongJJ18fan,50
 2021_06_MIA_JAX,linsky,38
 2021_06_MIA_JAX,LowStakesLaura,24
 2021_06_MIA_JAX,lupo1278,53
@@ -36673,6 +36673,7 @@ game_id,screen_name,prediction
 2021_06_MIA_JAX,YayySports,36
 2021_06_MIA_JAX,zweinberg18,53
 2021_06_LAC_BAL,,38
+2021_06_LAC_BAL,,50
 2021_06_LAC_BAL,__DavidOfficial,40
 2021_06_LAC_BAL,_alendowsky,49
 2021_06_LAC_BAL,_DH44_,50
@@ -36854,7 +36855,6 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,LeeSharpeNFL,63
 2021_06_LAC_BAL,Legendary24_7,100
 2021_06_LAC_BAL,Lemmon_19,57
-2021_06_LAC_BAL,lifelongJJ18fan,50
 2021_06_LAC_BAL,linsky,36
 2021_06_LAC_BAL,LowStakesLaura,46
 2021_06_LAC_BAL,lupo1278,41
@@ -37019,6 +37019,7 @@ game_id,screen_name,prediction
 2021_06_LAC_BAL,YayySports,53
 2021_06_LAC_BAL,zweinberg18,52
 2021_06_MIN_CAR,,67
+2021_06_MIN_CAR,,45
 2021_06_MIN_CAR,__DavidOfficial,40
 2021_06_MIN_CAR,_alendowsky,49
 2021_06_MIN_CAR,_DH44_,50
@@ -37200,7 +37201,6 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,LeeSharpeNFL,44
 2021_06_MIN_CAR,Legendary24_7,100
 2021_06_MIN_CAR,Lemmon_19,53
-2021_06_MIN_CAR,lifelongJJ18fan,45
 2021_06_MIN_CAR,linsky,36
 2021_06_MIN_CAR,LowStakesLaura,35
 2021_06_MIN_CAR,lupo1278,47
@@ -37365,6 +37365,7 @@ game_id,screen_name,prediction
 2021_06_MIN_CAR,WunderBoyzBlog,50
 2021_06_MIN_CAR,YayySports,51
 2021_06_MIN_CAR,zweinberg18,41
+2021_06_GB_CHI,,25
 2021_06_GB_CHI,,38
 2021_06_GB_CHI,__DavidOfficial,30
 2021_06_GB_CHI,_alendowsky,46
@@ -37547,7 +37548,6 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,LeeSharpeNFL,35
 2021_06_GB_CHI,Legendary24_7,0
 2021_06_GB_CHI,Lemmon_19,35
-2021_06_GB_CHI,lifelongJJ18fan,25
 2021_06_GB_CHI,linsky,48
 2021_06_GB_CHI,LowStakesLaura,44
 2021_06_GB_CHI,lupo1278,25
@@ -37712,6 +37712,7 @@ game_id,screen_name,prediction
 2021_06_GB_CHI,YayySports,36
 2021_06_GB_CHI,zweinberg18,33
 2021_06_CIN_DET,,38
+2021_06_CIN_DET,,40
 2021_06_CIN_DET,__DavidOfficial,40
 2021_06_CIN_DET,_alendowsky,49
 2021_06_CIN_DET,_DH44_,50
@@ -37893,7 +37894,6 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,LeeSharpeNFL,48
 2021_06_CIN_DET,Legendary24_7,0
 2021_06_CIN_DET,Lemmon_19,45
-2021_06_CIN_DET,lifelongJJ18fan,40
 2021_06_CIN_DET,linsky,21
 2021_06_CIN_DET,LowStakesLaura,36
 2021_06_CIN_DET,lupo1278,45
@@ -38057,6 +38057,7 @@ game_id,screen_name,prediction
 2021_06_CIN_DET,WunderBoyzBlog,33
 2021_06_CIN_DET,YayySports,36
 2021_06_CIN_DET,zweinberg18,41
+2021_06_HOU_IND,,85
 2021_06_HOU_IND,,63
 2021_06_HOU_IND,__DavidOfficial,35
 2021_06_HOU_IND,_alendowsky,53
@@ -38239,7 +38240,6 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,LeeSharpeNFL,68
 2021_06_HOU_IND,Legendary24_7,100
 2021_06_HOU_IND,Lemmon_19,60
-2021_06_HOU_IND,lifelongJJ18fan,85
 2021_06_HOU_IND,linsky,68
 2021_06_HOU_IND,LowStakesLaura,77
 2021_06_HOU_IND,lupo1278,58
@@ -38403,6 +38403,7 @@ game_id,screen_name,prediction
 2021_06_HOU_IND,WunderBoyzBlog,81
 2021_06_HOU_IND,YayySports,81
 2021_06_HOU_IND,zweinberg18,82
+2021_06_LA_NYG,,15
 2021_06_LA_NYG,,36
 2021_06_LA_NYG,__DavidOfficial,20
 2021_06_LA_NYG,_alendowsky,43
@@ -38585,7 +38586,6 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,LeeSharpeNFL,41
 2021_06_LA_NYG,Legendary24_7,0
 2021_06_LA_NYG,Lemmon_19,25
-2021_06_LA_NYG,lifelongJJ18fan,15
 2021_06_LA_NYG,linsky,10
 2021_06_LA_NYG,LowStakesLaura,16
 2021_06_LA_NYG,lupo1278,0
@@ -38750,6 +38750,7 @@ game_id,screen_name,prediction
 2021_06_LA_NYG,YayySports,22
 2021_06_LA_NYG,zweinberg18,23
 2021_06_KC_WAS,,40
+2021_06_KC_WAS,,15
 2021_06_KC_WAS,__DavidOfficial,35
 2021_06_KC_WAS,_alendowsky,47
 2021_06_KC_WAS,_DH44_,50
@@ -38931,7 +38932,6 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,LeeSharpeNFL,38
 2021_06_KC_WAS,Legendary24_7,7
 2021_06_KC_WAS,Lemmon_19,25
-2021_06_KC_WAS,lifelongJJ18fan,15
 2021_06_KC_WAS,linsky,12
 2021_06_KC_WAS,LowStakesLaura,0
 2021_06_KC_WAS,lupo1278,0
@@ -39096,6 +39096,7 @@ game_id,screen_name,prediction
 2021_06_KC_WAS,YayySports,32
 2021_06_KC_WAS,zweinberg18,27
 2021_06_ARI_CLE,,33
+2021_06_ARI_CLE,,60
 2021_06_ARI_CLE,__DavidOfficial,60
 2021_06_ARI_CLE,_alendowsky,49
 2021_06_ARI_CLE,_DH44_,50
@@ -39277,7 +39278,6 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,LeeSharpeNFL,63
 2021_06_ARI_CLE,Legendary24_7,100
 2021_06_ARI_CLE,Lemmon_19,74
-2021_06_ARI_CLE,lifelongJJ18fan,60
 2021_06_ARI_CLE,linsky,41
 2021_06_ARI_CLE,LowStakesLaura,76
 2021_06_ARI_CLE,lupo1278,63
@@ -39443,6 +39443,7 @@ game_id,screen_name,prediction
 2021_06_ARI_CLE,YayySports,51
 2021_06_ARI_CLE,zweinberg18,44
 2021_06_LV_DEN,,63
+2021_06_LV_DEN,,65
 2021_06_LV_DEN,__DavidOfficial,65
 2021_06_LV_DEN,_alendowsky,51
 2021_06_LV_DEN,_DH44_,50
@@ -39625,7 +39626,6 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,LeeSharpeNFL,58
 2021_06_LV_DEN,Legendary24_7,100
 2021_06_LV_DEN,Lemmon_19,55
-2021_06_LV_DEN,lifelongJJ18fan,65
 2021_06_LV_DEN,linsky,45
 2021_06_LV_DEN,LowStakesLaura,68
 2021_06_LV_DEN,lupo1278,53
@@ -39790,6 +39790,7 @@ game_id,screen_name,prediction
 2021_06_LV_DEN,WunderBoyzBlog,57
 2021_06_LV_DEN,YayySports,67
 2021_06_LV_DEN,zweinberg18,60
+2021_06_DAL_NE,,40
 2021_06_DAL_NE,,32
 2021_06_DAL_NE,__DavidOfficial,15
 2021_06_DAL_NE,_alendowsky,47
@@ -39973,7 +39974,6 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,LeeSharpeNFL,43
 2021_06_DAL_NE,Legendary24_7,0
 2021_06_DAL_NE,Lemmon_19,40
-2021_06_DAL_NE,lifelongJJ18fan,40
 2021_06_DAL_NE,linsky,29
 2021_06_DAL_NE,LowStakesLaura,32
 2021_06_DAL_NE,lupo1278,0
@@ -40138,6 +40138,7 @@ game_id,screen_name,prediction
 2021_06_DAL_NE,WunderBoyzBlog,31
 2021_06_DAL_NE,YayySports,41
 2021_06_DAL_NE,zweinberg18,42
+2021_06_SEA_PIT,,72
 2021_06_SEA_PIT,,39
 2021_06_SEA_PIT,__DavidOfficial,60
 2021_06_SEA_PIT,_alendowsky,51
@@ -40322,7 +40323,6 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,LeeSharpeNFL,52
 2021_06_SEA_PIT,Legendary24_7,100
 2021_06_SEA_PIT,Lemmon_19,55
-2021_06_SEA_PIT,lifelongJJ18fan,72
 2021_06_SEA_PIT,linsky,63
 2021_06_SEA_PIT,LowStakesLaura,76
 2021_06_SEA_PIT,lupo1278,58
@@ -40488,6 +40488,7 @@ game_id,screen_name,prediction
 2021_06_SEA_PIT,WunderBoyzBlog,50
 2021_06_SEA_PIT,YayySports,50
 2021_06_SEA_PIT,zweinberg18,47
+2021_06_BUF_TEN,,20
 2021_06_BUF_TEN,,34
 2021_06_BUF_TEN,__DavidOfficial,20
 2021_06_BUF_TEN,_alendowsky,40
@@ -40673,7 +40674,6 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,LeeSharpeNFL,37
 2021_06_BUF_TEN,Legendary24_7,0
 2021_06_BUF_TEN,Lemmon_19,40
-2021_06_BUF_TEN,lifelongJJ18fan,20
 2021_06_BUF_TEN,linsky,26
 2021_06_BUF_TEN,LowStakesLaura,0
 2021_06_BUF_TEN,lupo1278,0
@@ -40839,6 +40839,7 @@ game_id,screen_name,prediction
 2021_06_BUF_TEN,WunderBoyzBlog,37
 2021_06_BUF_TEN,YayySports,25
 2021_06_BUF_TEN,zweinberg18,25
+2021_07_DEN_CLE,,65
 2021_07_DEN_CLE,__DavidOfficial,40
 2021_07_DEN_CLE,_alendowsky,51
 2021_07_DEN_CLE,_DH44_,46
@@ -40992,7 +40993,6 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,LeeSharpeNFL,59
 2021_07_DEN_CLE,Legendary24_7,0
 2021_07_DEN_CLE,Lemmon_19,50
-2021_07_DEN_CLE,lifelongJJ18fan,65
 2021_07_DEN_CLE,linsky,27
 2021_07_DEN_CLE,LowStakesLaura,50
 2021_07_DEN_CLE,lupo1278,48
@@ -41128,6 +41128,7 @@ game_id,screen_name,prediction
 2021_07_DEN_CLE,WunderBoyzBlog,61
 2021_07_DEN_CLE,YayySports,66
 2021_07_DEN_CLE,zweinberg18,47
+2021_07_CIN_BAL,,65
 2021_07_CIN_BAL,__DavidOfficial,65
 2021_07_CIN_BAL,_alendowsky,53
 2021_07_CIN_BAL,_DH44_,57
@@ -41306,7 +41307,6 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,LeeSharpeNFL,66
 2021_07_CIN_BAL,Legendary24_7,100
 2021_07_CIN_BAL,Lemmon_19,65
-2021_07_CIN_BAL,lifelongJJ18fan,65
 2021_07_CIN_BAL,linsky,75
 2021_07_CIN_BAL,LowStakesLaura,50
 2021_07_CIN_BAL,lupo1278,61
@@ -41458,6 +41458,7 @@ game_id,screen_name,prediction
 2021_07_CIN_BAL,YayySports,75
 2021_07_CIN_BAL,zackry_mc,50
 2021_07_CIN_BAL,zweinberg18,75
+2021_07_WAS_GB,,75
 2021_07_WAS_GB,__DavidOfficial,100
 2021_07_WAS_GB,_alendowsky,100
 2021_07_WAS_GB,_DH44_,52
@@ -41636,7 +41637,6 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,LeeSharpeNFL,74
 2021_07_WAS_GB,Legendary24_7,100
 2021_07_WAS_GB,Lemmon_19,76
-2021_07_WAS_GB,lifelongJJ18fan,75
 2021_07_WAS_GB,linsky,85
 2021_07_WAS_GB,LowStakesLaura,50
 2021_07_WAS_GB,lupo1278,100
@@ -41788,6 +41788,7 @@ game_id,screen_name,prediction
 2021_07_WAS_GB,YayySports,80
 2021_07_WAS_GB,zackry_mc,100
 2021_07_WAS_GB,zweinberg18,63
+2021_07_ATL_MIA,,40
 2021_07_ATL_MIA,__DavidOfficial,56
 2021_07_ATL_MIA,_alendowsky,47
 2021_07_ATL_MIA,_DH44_,55
@@ -41966,7 +41967,6 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,LeeSharpeNFL,55
 2021_07_ATL_MIA,Legendary24_7,0
 2021_07_ATL_MIA,Lemmon_19,55
-2021_07_ATL_MIA,lifelongJJ18fan,40
 2021_07_ATL_MIA,linsky,57
 2021_07_ATL_MIA,LowStakesLaura,50
 2021_07_ATL_MIA,lupo1278,48
@@ -42118,6 +42118,7 @@ game_id,screen_name,prediction
 2021_07_ATL_MIA,YayySports,50
 2021_07_ATL_MIA,zackry_mc,50
 2021_07_ATL_MIA,zweinberg18,52
+2021_07_NYJ_NE,,70
 2021_07_NYJ_NE,__DavidOfficial,81
 2021_07_NYJ_NE,_alendowsky,52
 2021_07_NYJ_NE,_DH44_,54
@@ -42296,7 +42297,6 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,LeeSharpeNFL,69
 2021_07_NYJ_NE,Legendary24_7,100
 2021_07_NYJ_NE,Lemmon_19,65
-2021_07_NYJ_NE,lifelongJJ18fan,70
 2021_07_NYJ_NE,linsky,68
 2021_07_NYJ_NE,LowStakesLaura,50
 2021_07_NYJ_NE,lupo1278,100
@@ -42448,6 +42448,7 @@ game_id,screen_name,prediction
 2021_07_NYJ_NE,YayySports,79
 2021_07_NYJ_NE,zackry_mc,100
 2021_07_NYJ_NE,zweinberg18,59
+2021_07_CAR_NYG,,44
 2021_07_CAR_NYG,__DavidOfficial,39
 2021_07_CAR_NYG,_alendowsky,45
 2021_07_CAR_NYG,_DH44_,53
@@ -42626,7 +42627,6 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,LeeSharpeNFL,57
 2021_07_CAR_NYG,Legendary24_7,0
 2021_07_CAR_NYG,Lemmon_19,50
-2021_07_CAR_NYG,lifelongJJ18fan,44
 2021_07_CAR_NYG,linsky,24
 2021_07_CAR_NYG,LowStakesLaura,50
 2021_07_CAR_NYG,lupo1278,49
@@ -42778,6 +42778,7 @@ game_id,screen_name,prediction
 2021_07_CAR_NYG,YayySports,41
 2021_07_CAR_NYG,zackry_mc,50
 2021_07_CAR_NYG,zweinberg18,46
+2021_07_KC_TEN,,20
 2021_07_KC_TEN,__DavidOfficial,34
 2021_07_KC_TEN,_alendowsky,52
 2021_07_KC_TEN,_DH44_,37
@@ -42956,7 +42957,6 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,LeeSharpeNFL,44
 2021_07_KC_TEN,Legendary24_7,0
 2021_07_KC_TEN,Lemmon_19,40
-2021_07_KC_TEN,lifelongJJ18fan,20
 2021_07_KC_TEN,linsky,25
 2021_07_KC_TEN,LowStakesLaura,50
 2021_07_KC_TEN,lupo1278,12
@@ -43108,6 +43108,7 @@ game_id,screen_name,prediction
 2021_07_KC_TEN,YayySports,46
 2021_07_KC_TEN,zackry_mc,50
 2021_07_KC_TEN,zweinberg18,43
+2021_07_DET_LA,,90
 2021_07_DET_LA,__DavidOfficial,85
 2021_07_DET_LA,_alendowsky,100
 2021_07_DET_LA,_DH44_,57
@@ -43288,7 +43289,6 @@ game_id,screen_name,prediction
 2021_07_DET_LA,LeeSharpeNFL,77
 2021_07_DET_LA,Legendary24_7,100
 2021_07_DET_LA,Lemmon_19,80
-2021_07_DET_LA,lifelongJJ18fan,90
 2021_07_DET_LA,linsky,90
 2021_07_DET_LA,LowStakesLaura,50
 2021_07_DET_LA,lupo1278,100
@@ -43441,6 +43441,7 @@ game_id,screen_name,prediction
 2021_07_DET_LA,YayySports,96
 2021_07_DET_LA,zackry_mc,100
 2021_07_DET_LA,zweinberg18,77
+2021_07_PHI_LV,,62
 2021_07_PHI_LV,__DavidOfficial,62
 2021_07_PHI_LV,_alendowsky,51
 2021_07_PHI_LV,_DH44_,48
@@ -43621,7 +43622,6 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,LeeSharpeNFL,61
 2021_07_PHI_LV,Legendary24_7,100
 2021_07_PHI_LV,Lemmon_19,54
-2021_07_PHI_LV,lifelongJJ18fan,62
 2021_07_PHI_LV,linsky,65
 2021_07_PHI_LV,LowStakesLaura,50
 2021_07_PHI_LV,lupo1278,54
@@ -43774,6 +43774,7 @@ game_id,screen_name,prediction
 2021_07_PHI_LV,YayySports,59
 2021_07_PHI_LV,zackry_mc,50
 2021_07_PHI_LV,zweinberg18,59
+2021_07_HOU_ARI,,95
 2021_07_HOU_ARI,__DavidOfficial,100
 2021_07_HOU_ARI,_alendowsky,100
 2021_07_HOU_ARI,_DH44_,100
@@ -43954,7 +43955,6 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,LeeSharpeNFL,78
 2021_07_HOU_ARI,Legendary24_7,100
 2021_07_HOU_ARI,Lemmon_19,80
-2021_07_HOU_ARI,lifelongJJ18fan,95
 2021_07_HOU_ARI,linsky,91
 2021_07_HOU_ARI,LowStakesLaura,50
 2021_07_HOU_ARI,lupo1278,100
@@ -44107,6 +44107,7 @@ game_id,screen_name,prediction
 2021_07_HOU_ARI,YayySports,100
 2021_07_HOU_ARI,zackry_mc,100
 2021_07_HOU_ARI,zweinberg18,90
+2021_07_CHI_TB,,85
 2021_07_CHI_TB,__DavidOfficial,100
 2021_07_CHI_TB,_alendowsky,100
 2021_07_CHI_TB,_DH44_,100
@@ -44287,7 +44288,6 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,LeeSharpeNFL,79
 2021_07_CHI_TB,Legendary24_7,100
 2021_07_CHI_TB,Lemmon_19,65
-2021_07_CHI_TB,lifelongJJ18fan,85
 2021_07_CHI_TB,linsky,92
 2021_07_CHI_TB,LowStakesLaura,50
 2021_07_CHI_TB,lupo1278,100
@@ -44440,6 +44440,7 @@ game_id,screen_name,prediction
 2021_07_CHI_TB,YayySports,88
 2021_07_CHI_TB,zackry_mc,100
 2021_07_CHI_TB,zweinberg18,85
+2021_07_IND_SF,,60
 2021_07_IND_SF,__DavidOfficial,60
 2021_07_IND_SF,_alendowsky,49
 2021_07_IND_SF,_DH44_,52
@@ -44622,7 +44623,6 @@ game_id,screen_name,prediction
 2021_07_IND_SF,LeeSharpeNFL,63
 2021_07_IND_SF,Legendary24_7,0
 2021_07_IND_SF,Lemmon_19,55
-2021_07_IND_SF,lifelongJJ18fan,60
 2021_07_IND_SF,linsky,74
 2021_07_IND_SF,LowStakesLaura,50
 2021_07_IND_SF,lupo1278,48
@@ -44777,6 +44777,7 @@ game_id,screen_name,prediction
 2021_07_IND_SF,YayySports,64
 2021_07_IND_SF,zackry_mc,50
 2021_07_IND_SF,zweinberg18,59
+2021_07_NO_SEA,,30
 2021_07_NO_SEA,__DavidOfficial,40
 2021_07_NO_SEA,_alendowsky,48
 2021_07_NO_SEA,_DH44_,38
@@ -44959,7 +44960,6 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,LeeSharpeNFL,45
 2021_07_NO_SEA,Legendary24_7,0
 2021_07_NO_SEA,Lemmon_19,45
-2021_07_NO_SEA,lifelongJJ18fan,30
 2021_07_NO_SEA,linsky,26
 2021_07_NO_SEA,LowStakesLaura,50
 2021_07_NO_SEA,lupo1278,24
@@ -45117,6 +45117,7 @@ game_id,screen_name,prediction
 2021_07_NO_SEA,zackry_mc,50
 2021_07_NO_SEA,zweinberg18,35
 2021_08_GB_ARI,,60
+2021_08_GB_ARI,,75
 2021_08_GB_ARI,__DavidOfficial,40
 2021_08_GB_ARI,_alendowsky,53
 2021_08_GB_ARI,_DH44_,39
@@ -45266,7 +45267,6 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,latentchange,50
 2021_08_GB_ARI,LeeSharpeNFL,62
 2021_08_GB_ARI,Lemmon_19,50
-2021_08_GB_ARI,lifelongJJ18fan,75
 2021_08_GB_ARI,linsky,65
 2021_08_GB_ARI,lupo1278,73
 2021_08_GB_ARI,mA26159197,74
@@ -45400,6 +45400,7 @@ game_id,screen_name,prediction
 2021_08_GB_ARI,zackry_mc,50
 2021_08_GB_ARI,zweinberg18,50
 2021_08_CAR_ATL,,52
+2021_08_CAR_ATL,,59
 2021_08_CAR_ATL,__DavidOfficial,69
 2021_08_CAR_ATL,_alendowsky,52
 2021_08_CAR_ATL,_DH44_,52
@@ -45564,7 +45565,6 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,LeeSharpeNFL,59
 2021_08_CAR_ATL,Legendary24_7,100
 2021_08_CAR_ATL,Lemmon_19,55
-2021_08_CAR_ATL,lifelongJJ18fan,59
 2021_08_CAR_ATL,LimaCharlie26,35
 2021_08_CAR_ATL,linsky,55
 2021_08_CAR_ATL,lupo1278,62
@@ -45709,6 +45709,7 @@ game_id,screen_name,prediction
 2021_08_CAR_ATL,YayySports,50
 2021_08_CAR_ATL,zackry_mc,50
 2021_08_CAR_ATL,zweinberg18,54
+2021_08_MIA_BUF,,85
 2021_08_MIA_BUF,,50
 2021_08_MIA_BUF,__DavidOfficial,100
 2021_08_MIA_BUF,_alendowsky,100
@@ -45874,7 +45875,6 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,LeeSharpeNFL,80
 2021_08_MIA_BUF,Legendary24_7,100
 2021_08_MIA_BUF,Lemmon_19,75
-2021_08_MIA_BUF,lifelongJJ18fan,85
 2021_08_MIA_BUF,LimaCharlie26,100
 2021_08_MIA_BUF,linsky,87
 2021_08_MIA_BUF,lupo1278,96
@@ -46019,6 +46019,7 @@ game_id,screen_name,prediction
 2021_08_MIA_BUF,YayySports,96
 2021_08_MIA_BUF,zackry_mc,50
 2021_08_MIA_BUF,zweinberg18,85
+2021_08_SF_CHI,,39
 2021_08_SF_CHI,,50
 2021_08_SF_CHI,__DavidOfficial,32
 2021_08_SF_CHI,_alendowsky,51
@@ -46184,7 +46185,6 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,LeeSharpeNFL,44
 2021_08_SF_CHI,Legendary24_7,100
 2021_08_SF_CHI,Lemmon_19,45
-2021_08_SF_CHI,lifelongJJ18fan,39
 2021_08_SF_CHI,LimaCharlie26,23
 2021_08_SF_CHI,linsky,60
 2021_08_SF_CHI,lupo1278,48
@@ -46330,6 +46330,7 @@ game_id,screen_name,prediction
 2021_08_SF_CHI,zackry_mc,50
 2021_08_SF_CHI,zweinberg18,40
 2021_08_PIT_CLE,,50
+2021_08_PIT_CLE,,61
 2021_08_PIT_CLE,__DavidOfficial,39
 2021_08_PIT_CLE,_alendowsky,48
 2021_08_PIT_CLE,_DH44_,60
@@ -46494,7 +46495,6 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,LeeSharpeNFL,63
 2021_08_PIT_CLE,Legendary24_7,100
 2021_08_PIT_CLE,Lemmon_19,55
-2021_08_PIT_CLE,lifelongJJ18fan,61
 2021_08_PIT_CLE,LimaCharlie26,69
 2021_08_PIT_CLE,linsky,66
 2021_08_PIT_CLE,lupo1278,49
@@ -46639,6 +46639,7 @@ game_id,screen_name,prediction
 2021_08_PIT_CLE,YayySports,59
 2021_08_PIT_CLE,zackry_mc,50
 2021_08_PIT_CLE,zweinberg18,64
+2021_08_PHI_DET,,42
 2021_08_PHI_DET,,50
 2021_08_PHI_DET,__DavidOfficial,60
 2021_08_PHI_DET,_alendowsky,51
@@ -46803,7 +46804,6 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,LeeSharpeNFL,53
 2021_08_PHI_DET,Legendary24_7,0
 2021_08_PHI_DET,Lemmon_19,53
-2021_08_PHI_DET,lifelongJJ18fan,42
 2021_08_PHI_DET,LimaCharlie26,62
 2021_08_PHI_DET,linsky,59
 2021_08_PHI_DET,lupo1278,56
@@ -46949,6 +46949,7 @@ game_id,screen_name,prediction
 2021_08_PHI_DET,zackry_mc,50
 2021_08_PHI_DET,zweinberg18,39
 2021_08_LA_HOU,,50
+2021_08_LA_HOU,,5
 2021_08_LA_HOU,__DavidOfficial,0
 2021_08_LA_HOU,_alendowsky,0
 2021_08_LA_HOU,_DH44_,0
@@ -47113,7 +47114,6 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,LeeSharpeNFL,26
 2021_08_LA_HOU,Legendary24_7,0
 2021_08_LA_HOU,Lemmon_19,25
-2021_08_LA_HOU,lifelongJJ18fan,5
 2021_08_LA_HOU,LimaCharlie26,0
 2021_08_LA_HOU,linsky,9
 2021_08_LA_HOU,lupo1278,0
@@ -47258,6 +47258,7 @@ game_id,screen_name,prediction
 2021_08_LA_HOU,YayySports,4
 2021_08_LA_HOU,zackry_mc,50
 2021_08_LA_HOU,zweinberg18,9
+2021_08_TEN_IND,,45
 2021_08_TEN_IND,,50
 2021_08_TEN_IND,__DavidOfficial,39
 2021_08_TEN_IND,_alendowsky,47
@@ -47423,7 +47424,6 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,LeeSharpeNFL,52
 2021_08_TEN_IND,Legendary24_7,100
 2021_08_TEN_IND,Lemmon_19,45
-2021_08_TEN_IND,lifelongJJ18fan,45
 2021_08_TEN_IND,LimaCharlie26,55
 2021_08_TEN_IND,linsky,28
 2021_08_TEN_IND,lupo1278,51
@@ -47569,6 +47569,7 @@ game_id,screen_name,prediction
 2021_08_TEN_IND,zackry_mc,50
 2021_08_TEN_IND,zweinberg18,45
 2021_08_CIN_NYJ,,50
+2021_08_CIN_NYJ,,16
 2021_08_CIN_NYJ,__DavidOfficial,0
 2021_08_CIN_NYJ,_alendowsky,0
 2021_08_CIN_NYJ,_DH44_,45
@@ -47733,7 +47734,6 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,LeeSharpeNFL,35
 2021_08_CIN_NYJ,Legendary24_7,0
 2021_08_CIN_NYJ,Lemmon_19,25
-2021_08_CIN_NYJ,lifelongJJ18fan,16
 2021_08_CIN_NYJ,LimaCharlie26,4
 2021_08_CIN_NYJ,linsky,20
 2021_08_CIN_NYJ,lupo1278,0
@@ -47879,6 +47879,7 @@ game_id,screen_name,prediction
 2021_08_CIN_NYJ,zackry_mc,50
 2021_08_CIN_NYJ,zweinberg18,20
 2021_08_NE_LAC,,50
+2021_08_NE_LAC,,68
 2021_08_NE_LAC,__DavidOfficial,64
 2021_08_NE_LAC,_alendowsky,49
 2021_08_NE_LAC,_DH44_,50
@@ -48043,7 +48044,6 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,LeeSharpeNFL,57
 2021_08_NE_LAC,Legendary24_7,100
 2021_08_NE_LAC,Lemmon_19,59
-2021_08_NE_LAC,lifelongJJ18fan,68
 2021_08_NE_LAC,LimaCharlie26,76
 2021_08_NE_LAC,linsky,77
 2021_08_NE_LAC,lupo1278,58
@@ -48189,6 +48189,7 @@ game_id,screen_name,prediction
 2021_08_NE_LAC,zackry_mc,50
 2021_08_NE_LAC,zweinberg18,70
 2021_08_JAX_SEA,,50
+2021_08_JAX_SEA,,48
 2021_08_JAX_SEA,__DavidOfficial,77
 2021_08_JAX_SEA,_alendowsky,52
 2021_08_JAX_SEA,_DH44_,52
@@ -48353,7 +48354,6 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,LeeSharpeNFL,71
 2021_08_JAX_SEA,Legendary24_7,100
 2021_08_JAX_SEA,Lemmon_19,69
-2021_08_JAX_SEA,lifelongJJ18fan,48
 2021_08_JAX_SEA,LimaCharlie26,73
 2021_08_JAX_SEA,linsky,56
 2021_08_JAX_SEA,lupo1278,51
@@ -48498,6 +48498,7 @@ game_id,screen_name,prediction
 2021_08_JAX_SEA,YayySports,79
 2021_08_JAX_SEA,zackry_mc,50
 2021_08_JAX_SEA,zweinberg18,62
+2021_08_WAS_DEN,,58
 2021_08_WAS_DEN,,50
 2021_08_WAS_DEN,__DavidOfficial,57
 2021_08_WAS_DEN,_alendowsky,51
@@ -48663,7 +48664,6 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,LeeSharpeNFL,62
 2021_08_WAS_DEN,Legendary24_7,100
 2021_08_WAS_DEN,Lemmon_19,60
-2021_08_WAS_DEN,lifelongJJ18fan,58
 2021_08_WAS_DEN,LimaCharlie26,76
 2021_08_WAS_DEN,linsky,43
 2021_08_WAS_DEN,lupo1278,45
@@ -48808,6 +48808,7 @@ game_id,screen_name,prediction
 2021_08_WAS_DEN,YayySports,69
 2021_08_WAS_DEN,zackry_mc,50
 2021_08_WAS_DEN,zweinberg18,54
+2021_08_TB_NO,,20
 2021_08_TB_NO,,50
 2021_08_TB_NO,__DavidOfficial,23
 2021_08_TB_NO,_alendowsky,47
@@ -48973,7 +48974,6 @@ game_id,screen_name,prediction
 2021_08_TB_NO,LeeSharpeNFL,39
 2021_08_TB_NO,Legendary24_7,0
 2021_08_TB_NO,Lemmon_19,45
-2021_08_TB_NO,lifelongJJ18fan,20
 2021_08_TB_NO,LimaCharlie26,22
 2021_08_TB_NO,linsky,33
 2021_08_TB_NO,lupo1278,26
@@ -49118,6 +49118,7 @@ game_id,screen_name,prediction
 2021_08_TB_NO,YayySports,36
 2021_08_TB_NO,zackry_mc,50
 2021_08_TB_NO,zweinberg18,36
+2021_08_DAL_MIN,,70
 2021_08_DAL_MIN,,47
 2021_08_DAL_MIN,__DavidOfficial,55
 2021_08_DAL_MIN,_alendowsky,52
@@ -49284,7 +49285,6 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,LeeSharpeNFL,60
 2021_08_DAL_MIN,Legendary24_7,0
 2021_08_DAL_MIN,Lemmon_19,55
-2021_08_DAL_MIN,lifelongJJ18fan,70
 2021_08_DAL_MIN,LimaCharlie26,41
 2021_08_DAL_MIN,linsky,24
 2021_08_DAL_MIN,lupo1278,23
@@ -49432,6 +49432,7 @@ game_id,screen_name,prediction
 2021_08_DAL_MIN,zackry_mc,50
 2021_08_DAL_MIN,zweinberg18,43
 2021_08_NYG_KC,,50
+2021_08_NYG_KC,,75
 2021_08_NYG_KC,__DavidOfficial,69
 2021_08_NYG_KC,_alendowsky,53
 2021_08_NYG_KC,_DH44_,51
@@ -49598,7 +49599,6 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,LeeSharpeNFL,69
 2021_08_NYG_KC,Legendary24_7,100
 2021_08_NYG_KC,Lemmon_19,75
-2021_08_NYG_KC,lifelongJJ18fan,75
 2021_08_NYG_KC,LimaCharlie26,82
 2021_08_NYG_KC,linsky,82
 2021_08_NYG_KC,lupo1278,75
@@ -49749,6 +49749,7 @@ game_id,screen_name,prediction
 2021_08_NYG_KC,zackry_mc,50
 2021_08_NYG_KC,zweinberg18,67
 2021_09_NYJ_IND,,66
+2021_09_NYJ_IND,,75
 2021_09_NYJ_IND,__DavidOfficial,65
 2021_09_NYJ_IND,_alendowsky,65
 2021_09_NYJ_IND,_DH44_,53
@@ -49912,7 +49913,6 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,LeeSharpeNFL,74
 2021_09_NYJ_IND,Legendary24_7,100
 2021_09_NYJ_IND,Lemmon_19,65
-2021_09_NYJ_IND,lifelongJJ18fan,75
 2021_09_NYJ_IND,LimaCharlie26,65
 2021_09_NYJ_IND,linsky,50
 2021_09_NYJ_IND,linvillematthew,70
@@ -50051,6 +50051,7 @@ game_id,screen_name,prediction
 2021_09_NYJ_IND,YayySports,87
 2021_09_NYJ_IND,zweinberg18,76
 2021_09_MIN_BAL,,58
+2021_09_MIN_BAL,,65
 2021_09_MIN_BAL,__DavidOfficial,75
 2021_09_MIN_BAL,_alendowsky,53
 2021_09_MIN_BAL,_DH44_,56
@@ -50223,7 +50224,6 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,LeeSharpeNFL,60
 2021_09_MIN_BAL,Legendary24_7,100
 2021_09_MIN_BAL,Lemmon_19,60
-2021_09_MIN_BAL,lifelongJJ18fan,65
 2021_09_MIN_BAL,LimaCharlie26,70
 2021_09_MIN_BAL,linsky,59
 2021_09_MIN_BAL,linvillematthew,55
@@ -50375,6 +50375,7 @@ game_id,screen_name,prediction
 2021_09_MIN_BAL,YSchlepper,85
 2021_09_MIN_BAL,zweinberg18,75
 2021_09_NE_CAR,,56
+2021_09_NE_CAR,,25
 2021_09_NE_CAR,__DavidOfficial,31
 2021_09_NE_CAR,_alendowsky,47
 2021_09_NE_CAR,_DH44_,49
@@ -50547,7 +50548,6 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,LeeSharpeNFL,42
 2021_09_NE_CAR,Legendary24_7,33
 2021_09_NE_CAR,Lemmon_19,35
-2021_09_NE_CAR,lifelongJJ18fan,25
 2021_09_NE_CAR,LimaCharlie26,45
 2021_09_NE_CAR,linsky,31
 2021_09_NE_CAR,linvillematthew,28
@@ -50698,6 +50698,7 @@ game_id,screen_name,prediction
 2021_09_NE_CAR,YayySports,47
 2021_09_NE_CAR,YSchlepper,40
 2021_09_NE_CAR,zweinberg18,36
+2021_09_CLE_CIN,,60
 2021_09_CLE_CIN,,43
 2021_09_CLE_CIN,__DavidOfficial,61
 2021_09_CLE_CIN,_alendowsky,49
@@ -50871,7 +50872,6 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,LeeSharpeNFL,47
 2021_09_CLE_CIN,Legendary24_7,100
 2021_09_CLE_CIN,Lemmon_19,62
-2021_09_CLE_CIN,lifelongJJ18fan,60
 2021_09_CLE_CIN,LimaCharlie26,60
 2021_09_CLE_CIN,linsky,68
 2021_09_CLE_CIN,linvillematthew,75
@@ -51022,6 +51022,7 @@ game_id,screen_name,prediction
 2021_09_CLE_CIN,YayySports,53
 2021_09_CLE_CIN,YSchlepper,55
 2021_09_CLE_CIN,zweinberg18,63
+2021_09_DEN_DAL,,74
 2021_09_DEN_DAL,,71
 2021_09_DEN_DAL,__DavidOfficial,80
 2021_09_DEN_DAL,_alendowsky,55
@@ -51195,7 +51196,6 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,LeeSharpeNFL,70
 2021_09_DEN_DAL,Legendary24_7,100
 2021_09_DEN_DAL,Lemmon_19,65
-2021_09_DEN_DAL,lifelongJJ18fan,74
 2021_09_DEN_DAL,LimaCharlie26,70
 2021_09_DEN_DAL,linsky,79
 2021_09_DEN_DAL,linvillematthew,85
@@ -51347,6 +51347,7 @@ game_id,screen_name,prediction
 2021_09_DEN_DAL,YSchlepper,75
 2021_09_DEN_DAL,zweinberg18,85
 2021_09_BUF_JAX,,21
+2021_09_BUF_JAX,,7
 2021_09_BUF_JAX,__DavidOfficial,20
 2021_09_BUF_JAX,_alendowsky,0
 2021_09_BUF_JAX,_DH44_,0
@@ -51519,7 +51520,6 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,LeeSharpeNFL,24
 2021_09_BUF_JAX,Legendary24_7,0
 2021_09_BUF_JAX,Lemmon_19,26
-2021_09_BUF_JAX,lifelongJJ18fan,7
 2021_09_BUF_JAX,LimaCharlie26,0
 2021_09_BUF_JAX,linsky,16
 2021_09_BUF_JAX,linvillematthew,0
@@ -51671,6 +51671,7 @@ game_id,screen_name,prediction
 2021_09_BUF_JAX,YSchlepper,0
 2021_09_BUF_JAX,zweinberg18,10
 2021_09_HOU_MIA,,39
+2021_09_HOU_MIA,,62
 2021_09_HOU_MIA,__DavidOfficial,30
 2021_09_HOU_MIA,_alendowsky,55
 2021_09_HOU_MIA,_DH44_,55
@@ -51843,7 +51844,6 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,LeeSharpeNFL,62
 2021_09_HOU_MIA,Legendary24_7,58
 2021_09_HOU_MIA,Lemmon_19,45
-2021_09_HOU_MIA,lifelongJJ18fan,62
 2021_09_HOU_MIA,LimaCharlie26,73
 2021_09_HOU_MIA,linsky,65
 2021_09_HOU_MIA,linvillematthew,55
@@ -51994,6 +51994,7 @@ game_id,screen_name,prediction
 2021_09_HOU_MIA,YayySports,72
 2021_09_HOU_MIA,YSchlepper,55
 2021_09_HOU_MIA,zweinberg18,63
+2021_09_ATL_NO,,67
 2021_09_ATL_NO,,65
 2021_09_ATL_NO,__DavidOfficial,40
 2021_09_ATL_NO,_alendowsky,55
@@ -52167,7 +52168,6 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,LeeSharpeNFL,68
 2021_09_ATL_NO,Legendary24_7,100
 2021_09_ATL_NO,Lemmon_19,45
-2021_09_ATL_NO,lifelongJJ18fan,67
 2021_09_ATL_NO,LimaCharlie26,77
 2021_09_ATL_NO,linsky,66
 2021_09_ATL_NO,linvillematthew,48
@@ -52318,6 +52318,7 @@ game_id,screen_name,prediction
 2021_09_ATL_NO,YayySports,81
 2021_09_ATL_NO,YSchlepper,60
 2021_09_ATL_NO,zweinberg18,75
+2021_09_LV_NYG,,41
 2021_09_LV_NYG,,38
 2021_09_LV_NYG,__DavidOfficial,36
 2021_09_LV_NYG,_alendowsky,47
@@ -52491,7 +52492,6 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,LeeSharpeNFL,47
 2021_09_LV_NYG,Legendary24_7,0
 2021_09_LV_NYG,Lemmon_19,40
-2021_09_LV_NYG,lifelongJJ18fan,41
 2021_09_LV_NYG,LimaCharlie26,31
 2021_09_LV_NYG,linsky,36
 2021_09_LV_NYG,linvillematthew,42
@@ -52642,6 +52642,7 @@ game_id,screen_name,prediction
 2021_09_LV_NYG,YayySports,47
 2021_09_LV_NYG,YSchlepper,40
 2021_09_LV_NYG,zweinberg18,30
+2021_09_LAC_PHI,,45
 2021_09_LAC_PHI,,42
 2021_09_LAC_PHI,__DavidOfficial,36
 2021_09_LAC_PHI,_alendowsky,45
@@ -52817,7 +52818,6 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,LeeSharpeNFL,49
 2021_09_LAC_PHI,Legendary24_7,26
 2021_09_LAC_PHI,Lemmon_19,40
-2021_09_LAC_PHI,lifelongJJ18fan,45
 2021_09_LAC_PHI,LimaCharlie26,38
 2021_09_LAC_PHI,linsky,32
 2021_09_LAC_PHI,linvillematthew,25
@@ -52970,6 +52970,7 @@ game_id,screen_name,prediction
 2021_09_LAC_PHI,YayySports,50
 2021_09_LAC_PHI,YSchlepper,30
 2021_09_LAC_PHI,zweinberg18,35
+2021_09_GB_KC,,72
 2021_09_GB_KC,,35
 2021_09_GB_KC,__DavidOfficial,74
 2021_09_GB_KC,_alendowsky,51
@@ -53145,7 +53146,6 @@ game_id,screen_name,prediction
 2021_09_GB_KC,LeeSharpeNFL,63
 2021_09_GB_KC,Legendary24_7,100
 2021_09_GB_KC,Lemmon_19,66
-2021_09_GB_KC,lifelongJJ18fan,72
 2021_09_GB_KC,LimaCharlie26,46
 2021_09_GB_KC,linsky,83
 2021_09_GB_KC,linvillematthew,61
@@ -53299,6 +53299,7 @@ game_id,screen_name,prediction
 2021_09_GB_KC,YSchlepper,40
 2021_09_GB_KC,zweinberg18,60
 2021_09_ARI_SF,,36
+2021_09_ARI_SF,,60
 2021_09_ARI_SF,__DavidOfficial,65
 2021_09_ARI_SF,_alendowsky,51
 2021_09_ARI_SF,_DH44_,45
@@ -53473,7 +53474,6 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,LeeSharpeNFL,56
 2021_09_ARI_SF,Legendary24_7,100
 2021_09_ARI_SF,Lemmon_19,40
-2021_09_ARI_SF,lifelongJJ18fan,60
 2021_09_ARI_SF,LimaCharlie26,27
 2021_09_ARI_SF,linsky,69
 2021_09_ARI_SF,linvillematthew,30
@@ -53626,6 +53626,7 @@ game_id,screen_name,prediction
 2021_09_ARI_SF,YayySports,34
 2021_09_ARI_SF,YSchlepper,35
 2021_09_ARI_SF,zweinberg18,32
+2021_09_TEN_LA,,72
 2021_09_TEN_LA,,59
 2021_09_TEN_LA,__DavidOfficial,77
 2021_09_TEN_LA,_alendowsky,55
@@ -53804,7 +53805,6 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,LeeSharpeNFL,66
 2021_09_TEN_LA,Legendary24_7,100
 2021_09_TEN_LA,Lemmon_19,57
-2021_09_TEN_LA,lifelongJJ18fan,72
 2021_09_TEN_LA,LimaCharlie26,75
 2021_09_TEN_LA,linsky,59
 2021_09_TEN_LA,linvillematthew,85
@@ -53959,6 +53959,7 @@ game_id,screen_name,prediction
 2021_09_TEN_LA,YSchlepper,65
 2021_09_TEN_LA,zweinberg18,78
 2021_09_CHI_PIT,,55
+2021_09_CHI_PIT,,67
 2021_09_CHI_PIT,__DavidOfficial,73
 2021_09_CHI_PIT,_alendowsky,54
 2021_09_CHI_PIT,_DH44_,66
@@ -54142,7 +54143,6 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,LeeSharpeNFL,65
 2021_09_CHI_PIT,Legendary24_7,100
 2021_09_CHI_PIT,Lemmon_19,55
-2021_09_CHI_PIT,lifelongJJ18fan,67
 2021_09_CHI_PIT,LimaCharlie26,77
 2021_09_CHI_PIT,linsky,39
 2021_09_CHI_PIT,linvillematthew,67
@@ -54297,6 +54297,7 @@ game_id,screen_name,prediction
 2021_09_CHI_PIT,YayySports,75
 2021_09_CHI_PIT,YSchlepper,60
 2021_09_CHI_PIT,zweinberg18,60
+2021_10_BAL_MIA,,17
 2021_10_BAL_MIA,__DavidOfficial,32
 2021_10_BAL_MIA,_alendowsky,45
 2021_10_BAL_MIA,_DH44_,48
@@ -54450,7 +54451,6 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,LarryLegendBTW,0
 2021_10_BAL_MIA,LeeSharpeNFL,35
 2021_10_BAL_MIA,Legendary24_7,0
-2021_10_BAL_MIA,lifelongJJ18fan,17
 2021_10_BAL_MIA,linsky,26
 2021_10_BAL_MIA,linvillematthew,22
 2021_10_BAL_MIA,m_devries,0
@@ -54579,6 +54579,7 @@ game_id,screen_name,prediction
 2021_10_BAL_MIA,YayySports,25
 2021_10_BAL_MIA,YSchlepper,19
 2021_10_BAL_MIA,zweinberg18,15
+2021_10_ATL_DAL,,72
 2021_10_ATL_DAL,__DavidOfficial,74
 2021_10_ATL_DAL,_alendowsky,55
 2021_10_ATL_DAL,_chrisbigler,60
@@ -54751,7 +54752,6 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,LarryLegendBTW,100
 2021_10_ATL_DAL,LeeSharpeNFL,74
 2021_10_ATL_DAL,Legendary24_7,100
-2021_10_ATL_DAL,lifelongJJ18fan,72
 2021_10_ATL_DAL,linsky,77
 2021_10_ATL_DAL,linvillematthew,50
 2021_10_ATL_DAL,lupo1278,72
@@ -54888,6 +54888,7 @@ game_id,screen_name,prediction
 2021_10_ATL_DAL,YayySports,81
 2021_10_ATL_DAL,YSchlepper,65
 2021_10_ATL_DAL,zweinberg18,70
+2021_10_JAX_IND,,80
 2021_10_JAX_IND,__DavidOfficial,75
 2021_10_JAX_IND,_alendowsky,60
 2021_10_JAX_IND,_chrisbigler,70
@@ -55060,7 +55061,6 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,LarryLegendBTW,100
 2021_10_JAX_IND,LeeSharpeNFL,71
 2021_10_JAX_IND,Legendary24_7,100
-2021_10_JAX_IND,lifelongJJ18fan,80
 2021_10_JAX_IND,linsky,72
 2021_10_JAX_IND,linvillematthew,50
 2021_10_JAX_IND,lupo1278,59
@@ -55197,6 +55197,7 @@ game_id,screen_name,prediction
 2021_10_JAX_IND,YayySports,81
 2021_10_JAX_IND,YSchlepper,60
 2021_10_JAX_IND,zweinberg18,75
+2021_10_CLE_NE,,50
 2021_10_CLE_NE,__DavidOfficial,39
 2021_10_CLE_NE,_alendowsky,55
 2021_10_CLE_NE,_chrisbigler,65
@@ -55369,7 +55370,6 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,LarryLegendBTW,30
 2021_10_CLE_NE,LeeSharpeNFL,50
 2021_10_CLE_NE,Legendary24_7,100
-2021_10_CLE_NE,lifelongJJ18fan,50
 2021_10_CLE_NE,linsky,23
 2021_10_CLE_NE,linvillematthew,50
 2021_10_CLE_NE,lupo1278,44
@@ -55506,6 +55506,7 @@ game_id,screen_name,prediction
 2021_10_CLE_NE,YayySports,51
 2021_10_CLE_NE,YSchlepper,39
 2021_10_CLE_NE,zweinberg18,40
+2021_10_BUF_NYJ,,13
 2021_10_BUF_NYJ,__DavidOfficial,20
 2021_10_BUF_NYJ,_alendowsky,30
 2021_10_BUF_NYJ,_chrisbigler,10
@@ -55678,7 +55679,6 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,LarryLegendBTW,0
 2021_10_BUF_NYJ,LeeSharpeNFL,23
 2021_10_BUF_NYJ,Legendary24_7,0
-2021_10_BUF_NYJ,lifelongJJ18fan,13
 2021_10_BUF_NYJ,linsky,18
 2021_10_BUF_NYJ,linvillematthew,50
 2021_10_BUF_NYJ,lupo1278,30
@@ -55815,6 +55815,7 @@ game_id,screen_name,prediction
 2021_10_BUF_NYJ,YayySports,8
 2021_10_BUF_NYJ,YSchlepper,15
 2021_10_BUF_NYJ,zweinberg18,25
+2021_10_DET_PIT,,65
 2021_10_DET_PIT,__DavidOfficial,40
 2021_10_DET_PIT,_alendowsky,55
 2021_10_DET_PIT,_chrisbigler,35
@@ -55987,7 +55988,6 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,LarryLegendBTW,65
 2021_10_DET_PIT,LeeSharpeNFL,65
 2021_10_DET_PIT,Legendary24_7,100
-2021_10_DET_PIT,lifelongJJ18fan,65
 2021_10_DET_PIT,linsky,57
 2021_10_DET_PIT,linvillematthew,50
 2021_10_DET_PIT,lupo1278,65
@@ -56124,6 +56124,7 @@ game_id,screen_name,prediction
 2021_10_DET_PIT,YayySports,84
 2021_10_DET_PIT,YSchlepper,65
 2021_10_DET_PIT,zweinberg18,72
+2021_10_NO_TEN,,60
 2021_10_NO_TEN,__DavidOfficial,65
 2021_10_NO_TEN,_alendowsky,55
 2021_10_NO_TEN,_chrisbigler,80
@@ -56296,7 +56297,6 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,LarryLegendBTW,100
 2021_10_NO_TEN,LeeSharpeNFL,63
 2021_10_NO_TEN,Legendary24_7,100
-2021_10_NO_TEN,lifelongJJ18fan,60
 2021_10_NO_TEN,linsky,66
 2021_10_NO_TEN,linvillematthew,50
 2021_10_NO_TEN,lupo1278,67
@@ -56433,6 +56433,7 @@ game_id,screen_name,prediction
 2021_10_NO_TEN,YayySports,54
 2021_10_NO_TEN,YSchlepper,65
 2021_10_NO_TEN,zweinberg18,63
+2021_10_TB_WAS,,16
 2021_10_TB_WAS,__DavidOfficial,24
 2021_10_TB_WAS,_alendowsky,35
 2021_10_TB_WAS,_chrisbigler,10
@@ -56605,7 +56606,6 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,LarryLegendBTW,25
 2021_10_TB_WAS,LeeSharpeNFL,25
 2021_10_TB_WAS,Legendary24_7,0
-2021_10_TB_WAS,lifelongJJ18fan,16
 2021_10_TB_WAS,linsky,17
 2021_10_TB_WAS,linvillematthew,50
 2021_10_TB_WAS,lupo1278,0
@@ -56742,6 +56742,7 @@ game_id,screen_name,prediction
 2021_10_TB_WAS,YayySports,14
 2021_10_TB_WAS,YSchlepper,30
 2021_10_TB_WAS,zweinberg18,20
+2021_10_CAR_ARI,,76
 2021_10_CAR_ARI,__DavidOfficial,74
 2021_10_CAR_ARI,_alendowsky,60
 2021_10_CAR_ARI,_chrisbigler,65
@@ -56914,7 +56915,6 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,LarryLegendBTW,80
 2021_10_CAR_ARI,LeeSharpeNFL,77
 2021_10_CAR_ARI,Legendary24_7,100
-2021_10_CAR_ARI,lifelongJJ18fan,76
 2021_10_CAR_ARI,linsky,69
 2021_10_CAR_ARI,linvillematthew,50
 2021_10_CAR_ARI,lupo1278,100
@@ -57051,6 +57051,7 @@ game_id,screen_name,prediction
 2021_10_CAR_ARI,YayySports,89
 2021_10_CAR_ARI,YSchlepper,80
 2021_10_CAR_ARI,zweinberg18,80
+2021_10_MIN_LAC,,61
 2021_10_MIN_LAC,__DavidOfficial,40
 2021_10_MIN_LAC,_alendowsky,45
 2021_10_MIN_LAC,_chrisbigler,70
@@ -57223,7 +57224,6 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,LarryLegendBTW,68
 2021_10_MIN_LAC,LeeSharpeNFL,52
 2021_10_MIN_LAC,Legendary24_7,100
-2021_10_MIN_LAC,lifelongJJ18fan,61
 2021_10_MIN_LAC,linsky,72
 2021_10_MIN_LAC,linvillematthew,50
 2021_10_MIN_LAC,lupo1278,53
@@ -57360,6 +57360,7 @@ game_id,screen_name,prediction
 2021_10_MIN_LAC,YayySports,53
 2021_10_MIN_LAC,YSchlepper,60
 2021_10_MIN_LAC,zweinberg18,62
+2021_10_PHI_DEN,,57
 2021_10_PHI_DEN,__DavidOfficial,61
 2021_10_PHI_DEN,_alendowsky,45
 2021_10_PHI_DEN,_chrisbigler,80
@@ -57532,7 +57533,6 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,LarryLegendBTW,75
 2021_10_PHI_DEN,LeeSharpeNFL,57
 2021_10_PHI_DEN,Legendary24_7,100
-2021_10_PHI_DEN,lifelongJJ18fan,57
 2021_10_PHI_DEN,linsky,35
 2021_10_PHI_DEN,linvillematthew,50
 2021_10_PHI_DEN,lupo1278,42
@@ -57669,6 +57669,7 @@ game_id,screen_name,prediction
 2021_10_PHI_DEN,YayySports,64
 2021_10_PHI_DEN,YSchlepper,55
 2021_10_PHI_DEN,zweinberg18,57
+2021_10_SEA_GB,,60
 2021_10_SEA_GB,__DavidOfficial,71
 2021_10_SEA_GB,_alendowsky,60
 2021_10_SEA_GB,_chrisbigler,40
@@ -57841,7 +57842,6 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,LarryLegendBTW,65
 2021_10_SEA_GB,LeeSharpeNFL,56
 2021_10_SEA_GB,Legendary24_7,100
-2021_10_SEA_GB,lifelongJJ18fan,60
 2021_10_SEA_GB,linsky,78
 2021_10_SEA_GB,linvillematthew,50
 2021_10_SEA_GB,lupo1278,65
@@ -57978,6 +57978,7 @@ game_id,screen_name,prediction
 2021_10_SEA_GB,YayySports,54
 2021_10_SEA_GB,YSchlepper,70
 2021_10_SEA_GB,zweinberg18,58
+2021_10_KC_LV,,46
 2021_10_KC_LV,__DavidOfficial,40
 2021_10_KC_LV,_alendowsky,55
 2021_10_KC_LV,_chrisbigler,65
@@ -58152,7 +58153,6 @@ game_id,screen_name,prediction
 2021_10_KC_LV,LeeSharpeNFL,48
 2021_10_KC_LV,Legendary24_7,0
 2021_10_KC_LV,Lemmon_19,50
-2021_10_KC_LV,lifelongJJ18fan,46
 2021_10_KC_LV,linsky,24
 2021_10_KC_LV,linvillematthew,50
 2021_10_KC_LV,lupo1278,49
@@ -58290,6 +58290,7 @@ game_id,screen_name,prediction
 2021_10_KC_LV,YSchlepper,35
 2021_10_KC_LV,zweinberg18,47
 2021_10_LA_SF,,56
+2021_10_LA_SF,,35
 2021_10_LA_SF,__DavidOfficial,35
 2021_10_LA_SF,_alendowsky,40
 2021_10_LA_SF,_chrisbigler,25
@@ -58466,7 +58467,6 @@ game_id,screen_name,prediction
 2021_10_LA_SF,Legendary24_7,0
 2021_10_LA_SF,Lemmon_19,31
 2021_10_LA_SF,LewisWhit421,50
-2021_10_LA_SF,lifelongJJ18fan,35
 2021_10_LA_SF,linsky,27
 2021_10_LA_SF,linvillematthew,50
 2021_10_LA_SF,lupo1278,0
@@ -58607,6 +58607,7 @@ game_id,screen_name,prediction
 2021_10_LA_SF,YSchlepper,20
 2021_10_LA_SF,zweinberg18,27
 2021_11_NE_ATL,,50
+2021_11_NE_ATL,,32
 2021_11_NE_ATL,__DavidOfficial,31
 2021_11_NE_ATL,_alendowsky,35
 2021_11_NE_ATL,_DH44_,45
@@ -58757,7 +58758,6 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,LeeSharpeNFL,32
 2021_11_NE_ATL,Lemmon_19,50
 2021_11_NE_ATL,LewisWhit421,50
-2021_11_NE_ATL,lifelongJJ18fan,32
 2021_11_NE_ATL,linsky,27
 2021_11_NE_ATL,mA26159197,0
 2021_11_NE_ATL,maloney_jarrod,50
@@ -58875,6 +58875,7 @@ game_id,screen_name,prediction
 2021_11_NE_ATL,YayySports,28
 2021_11_NE_ATL,YSchlepper,30
 2021_11_NE_ATL,zweinberg18,31
+2021_11_IND_BUF,,73
 2021_11_IND_BUF,,50
 2021_11_IND_BUF,__DavidOfficial,65
 2021_11_IND_BUF,_alendowsky,55
@@ -59032,7 +59033,6 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,LeeSharpeNFL,71
 2021_11_IND_BUF,Lemmon_19,55
 2021_11_IND_BUF,LewisWhit421,50
-2021_11_IND_BUF,lifelongJJ18fan,73
 2021_11_IND_BUF,linsky,77
 2021_11_IND_BUF,lupo1278,100
 2021_11_IND_BUF,mA26159197,82
@@ -59158,6 +59158,7 @@ game_id,screen_name,prediction
 2021_11_IND_BUF,YayySports,79
 2021_11_IND_BUF,YSchlepper,70
 2021_11_IND_BUF,zweinberg18,64
+2021_11_WAS_CAR,,63
 2021_11_WAS_CAR,,50
 2021_11_WAS_CAR,__DavidOfficial,72
 2021_11_WAS_CAR,_alendowsky,55
@@ -59315,7 +59316,6 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,LeeSharpeNFL,52
 2021_11_WAS_CAR,Lemmon_19,54
 2021_11_WAS_CAR,LewisWhit421,50
-2021_11_WAS_CAR,lifelongJJ18fan,63
 2021_11_WAS_CAR,linsky,69
 2021_11_WAS_CAR,lupo1278,100
 2021_11_WAS_CAR,mA26159197,59
@@ -59442,6 +59442,7 @@ game_id,screen_name,prediction
 2021_11_WAS_CAR,YayySports,66
 2021_11_WAS_CAR,YSchlepper,56
 2021_11_WAS_CAR,zweinberg18,71
+2021_11_BAL_CHI,,50
 2021_11_BAL_CHI,,50
 2021_11_BAL_CHI,__DavidOfficial,19
 2021_11_BAL_CHI,_alendowsky,45
@@ -59599,7 +59600,6 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,LeeSharpeNFL,47
 2021_11_BAL_CHI,Lemmon_19,45
 2021_11_BAL_CHI,LewisWhit421,50
-2021_11_BAL_CHI,lifelongJJ18fan,50
 2021_11_BAL_CHI,linsky,59
 2021_11_BAL_CHI,lupo1278,32
 2021_11_BAL_CHI,mA26159197,30
@@ -59727,6 +59727,7 @@ game_id,screen_name,prediction
 2021_11_BAL_CHI,YSchlepper,30
 2021_11_BAL_CHI,zweinberg18,28
 2021_11_DET_CLE,,50
+2021_11_DET_CLE,,100
 2021_11_DET_CLE,__DavidOfficial,60
 2021_11_DET_CLE,_alendowsky,60
 2021_11_DET_CLE,_chrisbigler,90
@@ -59883,7 +59884,6 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,LeeSharpeNFL,75
 2021_11_DET_CLE,Lemmon_19,65
 2021_11_DET_CLE,LewisWhit421,50
-2021_11_DET_CLE,lifelongJJ18fan,100
 2021_11_DET_CLE,linsky,74
 2021_11_DET_CLE,lupo1278,78
 2021_11_DET_CLE,mA26159197,90
@@ -60009,6 +60009,7 @@ game_id,screen_name,prediction
 2021_11_DET_CLE,YayySports,87
 2021_11_DET_CLE,YSchlepper,70
 2021_11_DET_CLE,zweinberg18,63
+2021_11_SF_JAX,,28
 2021_11_SF_JAX,,50
 2021_11_SF_JAX,__DavidOfficial,22
 2021_11_SF_JAX,_alendowsky,40
@@ -60166,7 +60167,6 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,LeeSharpeNFL,34
 2021_11_SF_JAX,Lemmon_19,39
 2021_11_SF_JAX,LewisWhit421,50
-2021_11_SF_JAX,lifelongJJ18fan,28
 2021_11_SF_JAX,linsky,32
 2021_11_SF_JAX,lupo1278,33
 2021_11_SF_JAX,mA26159197,20
@@ -60293,6 +60293,7 @@ game_id,screen_name,prediction
 2021_11_SF_JAX,YSchlepper,40
 2021_11_SF_JAX,zweinberg18,38
 2021_11_GB_MIN,,50
+2021_11_GB_MIN,,45
 2021_11_GB_MIN,__DavidOfficial,30
 2021_11_GB_MIN,_alendowsky,45
 2021_11_GB_MIN,_chrisbigler,56
@@ -60449,7 +60450,6 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,LeeSharpeNFL,56
 2021_11_GB_MIN,Lemmon_19,44
 2021_11_GB_MIN,LewisWhit421,50
-2021_11_GB_MIN,lifelongJJ18fan,45
 2021_11_GB_MIN,linsky,28
 2021_11_GB_MIN,lupo1278,48
 2021_11_GB_MIN,mA26159197,43
@@ -60576,6 +60576,7 @@ game_id,screen_name,prediction
 2021_11_GB_MIN,YSchlepper,40
 2021_11_GB_MIN,zweinberg18,34
 2021_11_MIA_NYJ,,50
+2021_11_MIA_NYJ,,30
 2021_11_MIA_NYJ,__DavidOfficial,26
 2021_11_MIA_NYJ,_alendowsky,45
 2021_11_MIA_NYJ,_chrisbigler,45
@@ -60732,7 +60733,6 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,LeeSharpeNFL,44
 2021_11_MIA_NYJ,Lemmon_19,45
 2021_11_MIA_NYJ,LewisWhit421,50
-2021_11_MIA_NYJ,lifelongJJ18fan,30
 2021_11_MIA_NYJ,linsky,59
 2021_11_MIA_NYJ,lupo1278,47
 2021_11_MIA_NYJ,mA26159197,38
@@ -60859,6 +60859,7 @@ game_id,screen_name,prediction
 2021_11_MIA_NYJ,YayySports,36
 2021_11_MIA_NYJ,YSchlepper,40
 2021_11_MIA_NYJ,zweinberg18,44
+2021_11_NO_PHI,,56
 2021_11_NO_PHI,,50
 2021_11_NO_PHI,__DavidOfficial,35
 2021_11_NO_PHI,_alendowsky,55
@@ -61016,7 +61017,6 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,LeeSharpeNFL,54
 2021_11_NO_PHI,Lemmon_19,55
 2021_11_NO_PHI,LewisWhit421,50
-2021_11_NO_PHI,lifelongJJ18fan,56
 2021_11_NO_PHI,linsky,70
 2021_11_NO_PHI,lupo1278,64
 2021_11_NO_PHI,mA26159197,39
@@ -61144,6 +61144,7 @@ game_id,screen_name,prediction
 2021_11_NO_PHI,YSchlepper,40
 2021_11_NO_PHI,zweinberg18,65
 2021_11_HOU_TEN,,50
+2021_11_HOU_TEN,,91
 2021_11_HOU_TEN,__DavidOfficial,78
 2021_11_HOU_TEN,_alendowsky,100
 2021_11_HOU_TEN,_chrisbigler,75
@@ -61300,7 +61301,6 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,LeeSharpeNFL,76
 2021_11_HOU_TEN,Lemmon_19,60
 2021_11_HOU_TEN,LewisWhit421,50
-2021_11_HOU_TEN,lifelongJJ18fan,91
 2021_11_HOU_TEN,linsky,85
 2021_11_HOU_TEN,lupo1278,100
 2021_11_HOU_TEN,mA26159197,100
@@ -61428,6 +61428,7 @@ game_id,screen_name,prediction
 2021_11_HOU_TEN,YSchlepper,85
 2021_11_HOU_TEN,zweinberg18,79
 2021_11_CIN_LV,,50
+2021_11_CIN_LV,,48
 2021_11_CIN_LV,__DavidOfficial,42
 2021_11_CIN_LV,_alendowsky,55
 2021_11_CIN_LV,_chrisbigler,40
@@ -61584,7 +61585,6 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,LeeSharpeNFL,58
 2021_11_CIN_LV,Lemmon_19,46
 2021_11_CIN_LV,LewisWhit421,50
-2021_11_CIN_LV,lifelongJJ18fan,48
 2021_11_CIN_LV,linsky,38
 2021_11_CIN_LV,lupo1278,44
 2021_11_CIN_LV,mA26159197,50
@@ -61711,6 +61711,7 @@ game_id,screen_name,prediction
 2021_11_CIN_LV,YayySports,50
 2021_11_CIN_LV,YSchlepper,40
 2021_11_CIN_LV,zweinberg18,40
+2021_11_DAL_KC,,60
 2021_11_DAL_KC,,50
 2021_11_DAL_KC,__DavidOfficial,35
 2021_11_DAL_KC,_alendowsky,45
@@ -61868,7 +61869,6 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,LeeSharpeNFL,50
 2021_11_DAL_KC,Lemmon_19,54
 2021_11_DAL_KC,LewisWhit421,50
-2021_11_DAL_KC,lifelongJJ18fan,60
 2021_11_DAL_KC,linsky,73
 2021_11_DAL_KC,lupo1278,45
 2021_11_DAL_KC,mA26159197,50
@@ -61996,6 +61996,7 @@ game_id,screen_name,prediction
 2021_11_DAL_KC,YSchlepper,39
 2021_11_DAL_KC,zweinberg18,45
 2021_11_ARI_SEA,,50
+2021_11_ARI_SEA,,60
 2021_11_ARI_SEA,__DavidOfficial,34
 2021_11_ARI_SEA,_alendowsky,45
 2021_11_ARI_SEA,_chrisbigler,60
@@ -62152,7 +62153,6 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,LeeSharpeNFL,59
 2021_11_ARI_SEA,Lemmon_19,57
 2021_11_ARI_SEA,LewisWhit421,50
-2021_11_ARI_SEA,lifelongJJ18fan,60
 2021_11_ARI_SEA,linsky,43
 2021_11_ARI_SEA,lupo1278,44
 2021_11_ARI_SEA,mA26159197,50
@@ -62279,6 +62279,7 @@ game_id,screen_name,prediction
 2021_11_ARI_SEA,YayySports,36
 2021_11_ARI_SEA,YSchlepper,45
 2021_11_ARI_SEA,zweinberg18,37
+2021_11_PIT_LAC,,75
 2021_11_PIT_LAC,,50
 2021_11_PIT_LAC,__DavidOfficial,68
 2021_11_PIT_LAC,_alendowsky,55
@@ -62438,7 +62439,6 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,LeeSharpeNFL,63
 2021_11_PIT_LAC,Lemmon_19,54
 2021_11_PIT_LAC,LewisWhit421,50
-2021_11_PIT_LAC,lifelongJJ18fan,75
 2021_11_PIT_LAC,linsky,70
 2021_11_PIT_LAC,lupo1278,61
 2021_11_PIT_LAC,mA26159197,50
@@ -62565,6 +62565,7 @@ game_id,screen_name,prediction
 2021_11_PIT_LAC,YayySports,64
 2021_11_PIT_LAC,YSchlepper,60
 2021_11_PIT_LAC,zweinberg18,63
+2021_11_NYG_TB,,85
 2021_11_NYG_TB,,50
 2021_11_NYG_TB,__DavidOfficial,76
 2021_11_NYG_TB,_alendowsky,55
@@ -62725,7 +62726,6 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,LeeSharpeNFL,77
 2021_11_NYG_TB,Lemmon_19,60
 2021_11_NYG_TB,LewisWhit421,50
-2021_11_NYG_TB,lifelongJJ18fan,85
 2021_11_NYG_TB,linsky,77
 2021_11_NYG_TB,lupo1278,100
 2021_11_NYG_TB,mA26159197,50
@@ -62852,6 +62852,7 @@ game_id,screen_name,prediction
 2021_11_NYG_TB,YayySports,84
 2021_11_NYG_TB,YSchlepper,80
 2021_11_NYG_TB,zweinberg18,85
+2021_12_CHI_DET,,47
 2021_12_CHI_DET,__DavidOfficial,60
 2021_12_CHI_DET,_alendowsky,45
 2021_12_CHI_DET,_chrisbigler,60
@@ -62987,7 +62988,6 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,LarryLegendBTW,50
 2021_12_CHI_DET,LeeSharpeNFL,48
 2021_12_CHI_DET,Lemmon_19,50
-2021_12_CHI_DET,lifelongJJ18fan,47
 2021_12_CHI_DET,linsky,60
 2021_12_CHI_DET,MarcRichards284,46
 2021_12_CHI_DET,Market,45
@@ -63093,6 +63093,7 @@ game_id,screen_name,prediction
 2021_12_CHI_DET,Yannismiu,50
 2021_12_CHI_DET,YayySports,46
 2021_12_CHI_DET,zweinberg18,39
+2021_12_LV_DAL,,65
 2021_12_LV_DAL,__DavidOfficial,86
 2021_12_LV_DAL,_alendowsky,55
 2021_12_LV_DAL,_chrisbigler,70
@@ -63231,7 +63232,6 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,LarryLegendBTW,50
 2021_12_LV_DAL,LeeSharpeNFL,70
 2021_12_LV_DAL,Lemmon_19,54
-2021_12_LV_DAL,lifelongJJ18fan,65
 2021_12_LV_DAL,linsky,74
 2021_12_LV_DAL,MarcRichards284,74
 2021_12_LV_DAL,Market,74
@@ -63337,6 +63337,7 @@ game_id,screen_name,prediction
 2021_12_LV_DAL,Yannismiu,30
 2021_12_LV_DAL,YayySports,79
 2021_12_LV_DAL,zweinberg18,59
+2021_12_BUF_NO,,34
 2021_12_BUF_NO,__DavidOfficial,60
 2021_12_BUF_NO,_alendowsky,45
 2021_12_BUF_NO,_chrisbigler,30
@@ -63475,7 +63476,6 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,LarryLegendBTW,50
 2021_12_BUF_NO,LeeSharpeNFL,43
 2021_12_BUF_NO,Lemmon_19,45
-2021_12_BUF_NO,lifelongJJ18fan,34
 2021_12_BUF_NO,linsky,19
 2021_12_BUF_NO,MarcRichards284,27
 2021_12_BUF_NO,Market,29
@@ -63581,6 +63581,7 @@ game_id,screen_name,prediction
 2021_12_BUF_NO,Yannismiu,53
 2021_12_BUF_NO,YayySports,46
 2021_12_BUF_NO,zweinberg18,38
+2021_12_PIT_CIN,,65
 2021_12_PIT_CIN,__DavidOfficial,65
 2021_12_PIT_CIN,_alendowsky,47
 2021_12_PIT_CIN,_chrisbigler,65
@@ -63726,7 +63727,6 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,Lee_Levin,52
 2021_12_PIT_CIN,LeeSharpeNFL,57
 2021_12_PIT_CIN,Lemmon_19,56
-2021_12_PIT_CIN,lifelongJJ18fan,65
 2021_12_PIT_CIN,linsky,57
 2021_12_PIT_CIN,mA26159197,50
 2021_12_PIT_CIN,maloney_jarrod,65
@@ -63842,6 +63842,7 @@ game_id,screen_name,prediction
 2021_12_PIT_CIN,Yannismiu,64
 2021_12_PIT_CIN,YayySports,64
 2021_12_PIT_CIN,zweinberg18,57
+2021_12_NYJ_HOU,,50
 2021_12_NYJ_HOU,__DavidOfficial,40
 2021_12_NYJ_HOU,_alendowsky,47
 2021_12_NYJ_HOU,_chrisbigler,40
@@ -63987,7 +63988,6 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,Lee_Levin,62
 2021_12_NYJ_HOU,LeeSharpeNFL,60
 2021_12_NYJ_HOU,Lemmon_19,50
-2021_12_NYJ_HOU,lifelongJJ18fan,50
 2021_12_NYJ_HOU,linsky,37
 2021_12_NYJ_HOU,mA26159197,58
 2021_12_NYJ_HOU,maloney_jarrod,50
@@ -64103,6 +64103,7 @@ game_id,screen_name,prediction
 2021_12_NYJ_HOU,Yannismiu,37
 2021_12_NYJ_HOU,YayySports,54
 2021_12_NYJ_HOU,zweinberg18,56
+2021_12_TB_IND,,36
 2021_12_TB_IND,__DavidOfficial,35
 2021_12_TB_IND,_alendowsky,53
 2021_12_TB_IND,_chrisbigler,25
@@ -64248,7 +64249,6 @@ game_id,screen_name,prediction
 2021_12_TB_IND,Lee_Levin,36
 2021_12_TB_IND,LeeSharpeNFL,39
 2021_12_TB_IND,Lemmon_19,45
-2021_12_TB_IND,lifelongJJ18fan,36
 2021_12_TB_IND,linsky,30
 2021_12_TB_IND,mA26159197,50
 2021_12_TB_IND,maloney_jarrod,54
@@ -64364,6 +64364,7 @@ game_id,screen_name,prediction
 2021_12_TB_IND,Yannismiu,25
 2021_12_TB_IND,YayySports,46
 2021_12_TB_IND,zweinberg18,40
+2021_12_ATL_JAX,,40
 2021_12_ATL_JAX,__DavidOfficial,60
 2021_12_ATL_JAX,_alendowsky,55
 2021_12_ATL_JAX,_chrisbigler,40
@@ -64509,7 +64510,6 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,Lee_Levin,42
 2021_12_ATL_JAX,LeeSharpeNFL,59
 2021_12_ATL_JAX,Lemmon_19,50
-2021_12_ATL_JAX,lifelongJJ18fan,40
 2021_12_ATL_JAX,linsky,59
 2021_12_ATL_JAX,mA26159197,50
 2021_12_ATL_JAX,maloney_jarrod,56
@@ -64625,6 +64625,7 @@ game_id,screen_name,prediction
 2021_12_ATL_JAX,Yannismiu,31
 2021_12_ATL_JAX,YayySports,50
 2021_12_ATL_JAX,zweinberg18,43
+2021_12_CAR_MIA,,55
 2021_12_CAR_MIA,__DavidOfficial,41
 2021_12_CAR_MIA,_alendowsky,47
 2021_12_CAR_MIA,_chrisbigler,60
@@ -64770,7 +64771,6 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,Lee_Levin,51
 2021_12_CAR_MIA,LeeSharpeNFL,55
 2021_12_CAR_MIA,Lemmon_19,50
-2021_12_CAR_MIA,lifelongJJ18fan,55
 2021_12_CAR_MIA,linsky,39
 2021_12_CAR_MIA,mA26159197,50
 2021_12_CAR_MIA,maloney_jarrod,50
@@ -64886,6 +64886,7 @@ game_id,screen_name,prediction
 2021_12_CAR_MIA,Yannismiu,37
 2021_12_CAR_MIA,YayySports,49
 2021_12_CAR_MIA,zweinberg18,54
+2021_12_TEN_NE,,80
 2021_12_TEN_NE,__DavidOfficial,65
 2021_12_TEN_NE,_alendowsky,65
 2021_12_TEN_NE,_chrisbigler,65
@@ -65031,7 +65032,6 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,Lee_Levin,78
 2021_12_TEN_NE,LeeSharpeNFL,67
 2021_12_TEN_NE,Lemmon_19,60
-2021_12_TEN_NE,lifelongJJ18fan,80
 2021_12_TEN_NE,linsky,60
 2021_12_TEN_NE,mA26159197,100
 2021_12_TEN_NE,maloney_jarrod,62
@@ -65147,6 +65147,7 @@ game_id,screen_name,prediction
 2021_12_TEN_NE,Yannismiu,98
 2021_12_TEN_NE,YayySports,68
 2021_12_TEN_NE,zweinberg18,66
+2021_12_PHI_NYG,,35
 2021_12_PHI_NYG,__DavidOfficial,42
 2021_12_PHI_NYG,_alendowsky,38
 2021_12_PHI_NYG,_chrisbigler,30
@@ -65292,7 +65293,6 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,Lee_Levin,40
 2021_12_PHI_NYG,LeeSharpeNFL,46
 2021_12_PHI_NYG,Lemmon_19,45
-2021_12_PHI_NYG,lifelongJJ18fan,35
 2021_12_PHI_NYG,linsky,33
 2021_12_PHI_NYG,mA26159197,38
 2021_12_PHI_NYG,maloney_jarrod,69
@@ -65408,6 +65408,7 @@ game_id,screen_name,prediction
 2021_12_PHI_NYG,Yannismiu,57
 2021_12_PHI_NYG,YayySports,41
 2021_12_PHI_NYG,zweinberg18,31
+2021_12_LAC_DEN,,43
 2021_12_LAC_DEN,__DavidOfficial,32
 2021_12_LAC_DEN,_alendowsky,45
 2021_12_LAC_DEN,_chrisbigler,40
@@ -65553,7 +65554,6 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,Lee_Levin,50
 2021_12_LAC_DEN,LeeSharpeNFL,47
 2021_12_LAC_DEN,Lemmon_19,45
-2021_12_LAC_DEN,lifelongJJ18fan,43
 2021_12_LAC_DEN,linsky,23
 2021_12_LAC_DEN,mA26159197,0
 2021_12_LAC_DEN,maloney_jarrod,43
@@ -65669,6 +65669,7 @@ game_id,screen_name,prediction
 2021_12_LAC_DEN,Yannismiu,15
 2021_12_LAC_DEN,YayySports,50
 2021_12_LAC_DEN,zweinberg18,37
+2021_12_LA_GB,,47
 2021_12_LA_GB,__DavidOfficial,38
 2021_12_LA_GB,_alendowsky,57
 2021_12_LA_GB,_chrisbigler,60
@@ -65814,7 +65815,6 @@ game_id,screen_name,prediction
 2021_12_LA_GB,Lee_Levin,46
 2021_12_LA_GB,LeeSharpeNFL,55
 2021_12_LA_GB,Lemmon_19,45
-2021_12_LA_GB,lifelongJJ18fan,47
 2021_12_LA_GB,linsky,38
 2021_12_LA_GB,mA26159197,50
 2021_12_LA_GB,maloney_jarrod,71
@@ -65930,6 +65930,7 @@ game_id,screen_name,prediction
 2021_12_LA_GB,Yannismiu,36
 2021_12_LA_GB,YayySports,51
 2021_12_LA_GB,zweinberg18,59
+2021_12_MIN_SF,,50
 2021_12_MIN_SF,__DavidOfficial,66
 2021_12_MIN_SF,_alendowsky,52
 2021_12_MIN_SF,_chrisbigler,70
@@ -66075,7 +66076,6 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,Lee_Levin,60
 2021_12_MIN_SF,LeeSharpeNFL,55
 2021_12_MIN_SF,Lemmon_19,46
-2021_12_MIN_SF,lifelongJJ18fan,50
 2021_12_MIN_SF,linsky,41
 2021_12_MIN_SF,mA26159197,50
 2021_12_MIN_SF,maloney_jarrod,68
@@ -66191,6 +66191,7 @@ game_id,screen_name,prediction
 2021_12_MIN_SF,Yannismiu,65
 2021_12_MIN_SF,YayySports,59
 2021_12_MIN_SF,zweinberg18,57
+2021_12_CLE_BAL,,62
 2021_12_CLE_BAL,__DavidOfficial,75
 2021_12_CLE_BAL,_alendowsky,49
 2021_12_CLE_BAL,_chrisbigler,60
@@ -66336,7 +66337,6 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,Lee_Levin,51
 2021_12_CLE_BAL,LeeSharpeNFL,59
 2021_12_CLE_BAL,Lemmon_19,55
-2021_12_CLE_BAL,lifelongJJ18fan,62
 2021_12_CLE_BAL,linsky,36
 2021_12_CLE_BAL,mA26159197,66
 2021_12_CLE_BAL,maloney_jarrod,63
@@ -66452,6 +66452,7 @@ game_id,screen_name,prediction
 2021_12_CLE_BAL,Yannismiu,35
 2021_12_CLE_BAL,YayySports,54
 2021_12_CLE_BAL,zweinberg18,58
+2021_12_SEA_WAS,,47
 2021_12_SEA_WAS,__DavidOfficial,41
 2021_12_SEA_WAS,_alendowsky,55
 2021_12_SEA_WAS,_chrisbigler,40
@@ -66600,7 +66601,6 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,LeeSharpeNFL,43
 2021_12_SEA_WAS,Legendary24_7,100
 2021_12_SEA_WAS,Lemmon_19,45
-2021_12_SEA_WAS,lifelongJJ18fan,47
 2021_12_SEA_WAS,linsky,36
 2021_12_SEA_WAS,mA26159197,50
 2021_12_SEA_WAS,maloney_jarrod,53
@@ -66717,6 +66717,7 @@ game_id,screen_name,prediction
 2021_12_SEA_WAS,YayySports,49
 2021_12_SEA_WAS,YSchlepper,35
 2021_12_SEA_WAS,zweinberg18,55
+2021_13_DAL_NO,,25
 2021_13_DAL_NO,__DavidOfficial,70
 2021_13_DAL_NO,_alendowsky,43
 2021_13_DAL_NO,_DH44_,0
@@ -66848,7 +66849,6 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,LeeSharpeNFL,41
 2021_13_DAL_NO,Legendary24_7,0
 2021_13_DAL_NO,Lemmon_19,50
-2021_13_DAL_NO,lifelongJJ18fan,25
 2021_13_DAL_NO,linsky,25
 2021_13_DAL_NO,maloney_jarrod,0
 2021_13_DAL_NO,MarcRichards284,41
@@ -66949,6 +66949,7 @@ game_id,screen_name,prediction
 2021_13_DAL_NO,WunderBoyzBlog,0
 2021_13_DAL_NO,YayySports,30
 2021_13_DAL_NO,YSchlepper,15
+2021_13_TB_ATL,,20
 2021_13_TB_ATL,__DavidOfficial,28
 2021_13_TB_ATL,_alendowsky,40
 2021_13_TB_ATL,_DH44_,0
@@ -67091,7 +67092,6 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,LeeSharpeNFL,20
 2021_13_TB_ATL,Legendary24_7,0
 2021_13_TB_ATL,Lemmon_19,41
-2021_13_TB_ATL,lifelongJJ18fan,20
 2021_13_TB_ATL,linsky,19
 2021_13_TB_ATL,maloney_jarrod,50
 2021_13_TB_ATL,MarcRichards284,0
@@ -67198,6 +67198,7 @@ game_id,screen_name,prediction
 2021_13_TB_ATL,YayySports,14
 2021_13_TB_ATL,YSchlepper,0
 2021_13_TB_ATL,zweinberg18,10
+2021_13_ARI_CHI,,21
 2021_13_ARI_CHI,__DavidOfficial,18
 2021_13_ARI_CHI,_alendowsky,45
 2021_13_ARI_CHI,_DH44_,0
@@ -67340,7 +67341,6 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,LeeSharpeNFL,44
 2021_13_ARI_CHI,Legendary24_7,0
 2021_13_ARI_CHI,Lemmon_19,45
-2021_13_ARI_CHI,lifelongJJ18fan,21
 2021_13_ARI_CHI,linsky,26
 2021_13_ARI_CHI,maloney_jarrod,50
 2021_13_ARI_CHI,MarcRichards284,32
@@ -67447,6 +67447,7 @@ game_id,screen_name,prediction
 2021_13_ARI_CHI,YayySports,19
 2021_13_ARI_CHI,YSchlepper,25
 2021_13_ARI_CHI,zweinberg18,24
+2021_13_LAC_CIN,,56
 2021_13_LAC_CIN,__DavidOfficial,65
 2021_13_LAC_CIN,_alendowsky,47
 2021_13_LAC_CIN,_DH44_,100
@@ -67589,7 +67590,6 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,LeeSharpeNFL,51
 2021_13_LAC_CIN,Legendary24_7,100
 2021_13_LAC_CIN,Lemmon_19,54
-2021_13_LAC_CIN,lifelongJJ18fan,56
 2021_13_LAC_CIN,linsky,37
 2021_13_LAC_CIN,maloney_jarrod,50
 2021_13_LAC_CIN,MarcRichards284,51
@@ -67696,6 +67696,7 @@ game_id,screen_name,prediction
 2021_13_LAC_CIN,YayySports,64
 2021_13_LAC_CIN,YSchlepper,45
 2021_13_LAC_CIN,zweinberg18,48
+2021_13_MIN_DET,,17
 2021_13_MIN_DET,__DavidOfficial,26
 2021_13_MIN_DET,_alendowsky,40
 2021_13_MIN_DET,_DH44_,100
@@ -67838,7 +67839,6 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,LeeSharpeNFL,29
 2021_13_MIN_DET,Legendary24_7,0
 2021_13_MIN_DET,Lemmon_19,40
-2021_13_MIN_DET,lifelongJJ18fan,17
 2021_13_MIN_DET,linsky,24
 2021_13_MIN_DET,maloney_jarrod,50
 2021_13_MIN_DET,MarcRichards284,0
@@ -67945,6 +67945,7 @@ game_id,screen_name,prediction
 2021_13_MIN_DET,YayySports,22
 2021_13_MIN_DET,YSchlepper,30
 2021_13_MIN_DET,zweinberg18,30
+2021_13_IND_HOU,,13
 2021_13_IND_HOU,__DavidOfficial,26
 2021_13_IND_HOU,_alendowsky,38
 2021_13_IND_HOU,_DH44_,0
@@ -68087,7 +68088,6 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,LeeSharpeNFL,33
 2021_13_IND_HOU,Legendary24_7,0
 2021_13_IND_HOU,Lemmon_19,40
-2021_13_IND_HOU,lifelongJJ18fan,13
 2021_13_IND_HOU,linsky,22
 2021_13_IND_HOU,maloney_jarrod,50
 2021_13_IND_HOU,MarcRichards284,0
@@ -68194,6 +68194,7 @@ game_id,screen_name,prediction
 2021_13_IND_HOU,YayySports,16
 2021_13_IND_HOU,YSchlepper,20
 2021_13_IND_HOU,zweinberg18,31
+2021_13_NYG_MIA,,63
 2021_13_NYG_MIA,__DavidOfficial,61
 2021_13_NYG_MIA,_alendowsky,55
 2021_13_NYG_MIA,_DH44_,100
@@ -68336,7 +68337,6 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,LeeSharpeNFL,55
 2021_13_NYG_MIA,Legendary24_7,100
 2021_13_NYG_MIA,Lemmon_19,55
-2021_13_NYG_MIA,lifelongJJ18fan,63
 2021_13_NYG_MIA,linsky,61
 2021_13_NYG_MIA,maloney_jarrod,50
 2021_13_NYG_MIA,MarcRichards284,68
@@ -68443,6 +68443,7 @@ game_id,screen_name,prediction
 2021_13_NYG_MIA,YayySports,54
 2021_13_NYG_MIA,YSchlepper,65
 2021_13_NYG_MIA,zweinberg18,69
+2021_13_PHI_NYJ,,32
 2021_13_PHI_NYJ,__DavidOfficial,43
 2021_13_PHI_NYJ,_alendowsky,45
 2021_13_PHI_NYJ,_DH44_,0
@@ -68585,7 +68586,6 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,LeeSharpeNFL,36
 2021_13_PHI_NYJ,Legendary24_7,0
 2021_13_PHI_NYJ,Lemmon_19,45
-2021_13_PHI_NYJ,lifelongJJ18fan,32
 2021_13_PHI_NYJ,linsky,36
 2021_13_PHI_NYJ,maloney_jarrod,50
 2021_13_PHI_NYJ,MarcRichards284,39
@@ -68692,6 +68692,7 @@ game_id,screen_name,prediction
 2021_13_PHI_NYJ,YayySports,22
 2021_13_PHI_NYJ,YSchlepper,40
 2021_13_PHI_NYJ,zweinberg18,43
+2021_13_JAX_LA,,87
 2021_13_JAX_LA,__DavidOfficial,100
 2021_13_JAX_LA,_alendowsky,49
 2021_13_JAX_LA,_DH44_,100
@@ -68834,7 +68835,6 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,LeeSharpeNFL,78
 2021_13_JAX_LA,Legendary24_7,100
 2021_13_JAX_LA,Lemmon_19,61
-2021_13_JAX_LA,lifelongJJ18fan,87
 2021_13_JAX_LA,linsky,83
 2021_13_JAX_LA,maloney_jarrod,50
 2021_13_JAX_LA,MarcRichards284,50
@@ -68941,6 +68941,7 @@ game_id,screen_name,prediction
 2021_13_JAX_LA,YayySports,89
 2021_13_JAX_LA,YSchlepper,70
 2021_13_JAX_LA,zweinberg18,83
+2021_13_WAS_LV,,55
 2021_13_WAS_LV,__DavidOfficial,71
 2021_13_WAS_LV,_alendowsky,45
 2021_13_WAS_LV,_DH44_,0
@@ -69083,7 +69084,6 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,LeeSharpeNFL,64
 2021_13_WAS_LV,Legendary24_7,100
 2021_13_WAS_LV,Lemmon_19,56
-2021_13_WAS_LV,lifelongJJ18fan,55
 2021_13_WAS_LV,linsky,36
 2021_13_WAS_LV,maloney_jarrod,50
 2021_13_WAS_LV,MarcRichards284,54
@@ -69190,6 +69190,7 @@ game_id,screen_name,prediction
 2021_13_WAS_LV,YayySports,54
 2021_13_WAS_LV,YSchlepper,35
 2021_13_WAS_LV,zweinberg18,56
+2021_13_BAL_PIT,,37
 2021_13_BAL_PIT,__DavidOfficial,33
 2021_13_BAL_PIT,_alendowsky,47
 2021_13_BAL_PIT,_DH44_,0
@@ -69332,7 +69333,6 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,LeeSharpeNFL,42
 2021_13_BAL_PIT,Legendary24_7,0
 2021_13_BAL_PIT,Lemmon_19,45
-2021_13_BAL_PIT,lifelongJJ18fan,37
 2021_13_BAL_PIT,linsky,29
 2021_13_BAL_PIT,maloney_jarrod,50
 2021_13_BAL_PIT,MarcRichards284,39
@@ -69439,6 +69439,7 @@ game_id,screen_name,prediction
 2021_13_BAL_PIT,YayySports,41
 2021_13_BAL_PIT,YSchlepper,30
 2021_13_BAL_PIT,zweinberg18,39
+2021_13_SF_SEA,,34
 2021_13_SF_SEA,__DavidOfficial,33
 2021_13_SF_SEA,_alendowsky,43
 2021_13_SF_SEA,_DH44_,0
@@ -69581,7 +69582,6 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,LeeSharpeNFL,50
 2021_13_SF_SEA,Legendary24_7,0
 2021_13_SF_SEA,Lemmon_19,41
-2021_13_SF_SEA,lifelongJJ18fan,34
 2021_13_SF_SEA,linsky,43
 2021_13_SF_SEA,maloney_jarrod,50
 2021_13_SF_SEA,MarcRichards284,46
@@ -69688,6 +69688,7 @@ game_id,screen_name,prediction
 2021_13_SF_SEA,YayySports,49
 2021_13_SF_SEA,YSchlepper,30
 2021_13_SF_SEA,zweinberg18,37
+2021_13_DEN_KC,,70
 2021_13_DEN_KC,__DavidOfficial,75
 2021_13_DEN_KC,_alendowsky,55
 2021_13_DEN_KC,_DH44_,100
@@ -69830,7 +69831,6 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,LeeSharpeNFL,70
 2021_13_DEN_KC,Legendary24_7,0
 2021_13_DEN_KC,Lemmon_19,58
-2021_13_DEN_KC,lifelongJJ18fan,70
 2021_13_DEN_KC,linsky,78
 2021_13_DEN_KC,maloney_jarrod,50
 2021_13_DEN_KC,MarcRichards284,73
@@ -69937,6 +69937,7 @@ game_id,screen_name,prediction
 2021_13_DEN_KC,YayySports,73
 2021_13_DEN_KC,YSchlepper,70
 2021_13_DEN_KC,zweinberg18,67
+2021_13_NE_BUF,,55
 2021_13_NE_BUF,__DavidOfficial,45
 2021_13_NE_BUF,_alendowsky,43
 2021_13_NE_BUF,_DH44_,100
@@ -70080,7 +70081,6 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,LeeSharpeNFL,54
 2021_13_NE_BUF,Legendary24_7,0
 2021_13_NE_BUF,Lemmon_19,45
-2021_13_NE_BUF,lifelongJJ18fan,55
 2021_13_NE_BUF,linsky,66
 2021_13_NE_BUF,maloney_jarrod,50
 2021_13_NE_BUF,MarcRichards284,63
@@ -70188,6 +70188,7 @@ game_id,screen_name,prediction
 2021_13_NE_BUF,YayySports,54
 2021_13_NE_BUF,YSchlepper,35
 2021_13_NE_BUF,zweinberg18,45
+2021_14_PIT_MIN,,59
 2021_14_PIT_MIN,__DavidOfficial,42
 2021_14_PIT_MIN,_alendowsky,52
 2021_14_PIT_MIN,_DH44_,50
@@ -70307,7 +70308,6 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,LeeSharpeNFL,74
 2021_14_PIT_MIN,Legendary24_7,100
 2021_14_PIT_MIN,Lemmon_19,50
-2021_14_PIT_MIN,lifelongJJ18fan,59
 2021_14_PIT_MIN,maloney_jarrod,43
 2021_14_PIT_MIN,Market,62
 2021_14_PIT_MIN,MarkoMarkonym,57
@@ -70400,6 +70400,7 @@ game_id,screen_name,prediction
 2021_14_PIT_MIN,Yannismiu,50
 2021_14_PIT_MIN,YayySports,66
 2021_14_PIT_MIN,zweinberg18,61
+2021_14_ATL_CAR,,53
 2021_14_ATL_CAR,__DavidOfficial,42
 2021_14_ATL_CAR,_alendowsky,48
 2021_14_ATL_CAR,_DH44_,50
@@ -70527,7 +70528,6 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,LeeSharpeNFL,59
 2021_14_ATL_CAR,Legendary24_7,100
 2021_14_ATL_CAR,Lemmon_19,50
-2021_14_ATL_CAR,lifelongJJ18fan,53
 2021_14_ATL_CAR,linsky,37
 2021_14_ATL_CAR,maloney_jarrod,50
 2021_14_ATL_CAR,Market,56
@@ -70627,6 +70627,7 @@ game_id,screen_name,prediction
 2021_14_ATL_CAR,Yannismiu,41
 2021_14_ATL_CAR,YayySports,68
 2021_14_ATL_CAR,zweinberg18,61
+2021_14_BAL_CLE,,57
 2021_14_BAL_CLE,__DavidOfficial,44
 2021_14_BAL_CLE,_alendowsky,51
 2021_14_BAL_CLE,_DH44_,50
@@ -70754,7 +70755,6 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,LeeSharpeNFL,60
 2021_14_BAL_CLE,Legendary24_7,100
 2021_14_BAL_CLE,Lemmon_19,50
-2021_14_BAL_CLE,lifelongJJ18fan,57
 2021_14_BAL_CLE,linsky,63
 2021_14_BAL_CLE,maloney_jarrod,50
 2021_14_BAL_CLE,Market,59
@@ -70854,6 +70854,7 @@ game_id,screen_name,prediction
 2021_14_BAL_CLE,Yannismiu,67
 2021_14_BAL_CLE,YayySports,51
 2021_14_BAL_CLE,zweinberg18,40
+2021_14_SEA_HOU,,23
 2021_14_SEA_HOU,__DavidOfficial,22
 2021_14_SEA_HOU,_alendowsky,42
 2021_14_SEA_HOU,_DH44_,50
@@ -70981,7 +70982,6 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,LeeSharpeNFL,35
 2021_14_SEA_HOU,Legendary24_7,0
 2021_14_SEA_HOU,Lemmon_19,50
-2021_14_SEA_HOU,lifelongJJ18fan,23
 2021_14_SEA_HOU,linsky,31
 2021_14_SEA_HOU,maloney_jarrod,50
 2021_14_SEA_HOU,Market,22
@@ -71081,6 +71081,7 @@ game_id,screen_name,prediction
 2021_14_SEA_HOU,Yannismiu,2
 2021_14_SEA_HOU,YayySports,19
 2021_14_SEA_HOU,zweinberg18,42
+2021_14_LV_KC,,75
 2021_14_LV_KC,__DavidOfficial,50
 2021_14_LV_KC,_alendowsky,55
 2021_14_LV_KC,_DH44_,50
@@ -71208,7 +71209,6 @@ game_id,screen_name,prediction
 2021_14_LV_KC,LeeSharpeNFL,66
 2021_14_LV_KC,Legendary24_7,100
 2021_14_LV_KC,Lemmon_19,50
-2021_14_LV_KC,lifelongJJ18fan,75
 2021_14_LV_KC,linsky,81
 2021_14_LV_KC,maloney_jarrod,50
 2021_14_LV_KC,Market,79
@@ -71308,6 +71308,7 @@ game_id,screen_name,prediction
 2021_14_LV_KC,Yannismiu,41
 2021_14_LV_KC,YayySports,79
 2021_14_LV_KC,zweinberg18,74
+2021_14_NO_NYJ,,34
 2021_14_NO_NYJ,__DavidOfficial,50
 2021_14_NO_NYJ,_alendowsky,51
 2021_14_NO_NYJ,_DH44_,50
@@ -71435,7 +71436,6 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,LeeSharpeNFL,43
 2021_14_NO_NYJ,Legendary24_7,0
 2021_14_NO_NYJ,Lemmon_19,50
-2021_14_NO_NYJ,lifelongJJ18fan,34
 2021_14_NO_NYJ,linsky,47
 2021_14_NO_NYJ,maloney_jarrod,50
 2021_14_NO_NYJ,Market,36
@@ -71535,6 +71535,7 @@ game_id,screen_name,prediction
 2021_14_NO_NYJ,Yannismiu,14
 2021_14_NO_NYJ,YayySports,25
 2021_14_NO_NYJ,zweinberg18,41
+2021_14_JAX_TEN,,77
 2021_14_JAX_TEN,__DavidOfficial,50
 2021_14_JAX_TEN,_alendowsky,58
 2021_14_JAX_TEN,_DH44_,50
@@ -71662,7 +71663,6 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,LeeSharpeNFL,73
 2021_14_JAX_TEN,Legendary24_7,100
 2021_14_JAX_TEN,Lemmon_19,50
-2021_14_JAX_TEN,lifelongJJ18fan,77
 2021_14_JAX_TEN,linsky,73
 2021_14_JAX_TEN,maloney_jarrod,50
 2021_14_JAX_TEN,Market,77
@@ -71762,6 +71762,7 @@ game_id,screen_name,prediction
 2021_14_JAX_TEN,Yannismiu,79
 2021_14_JAX_TEN,YayySports,86
 2021_14_JAX_TEN,zweinberg18,64
+2021_14_DAL_WAS,,18
 2021_14_DAL_WAS,__DavidOfficial,50
 2021_14_DAL_WAS,_alendowsky,51
 2021_14_DAL_WAS,_DH44_,50
@@ -71889,7 +71890,6 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,LeeSharpeNFL,33
 2021_14_DAL_WAS,Legendary24_7,0
 2021_14_DAL_WAS,Lemmon_19,50
-2021_14_DAL_WAS,lifelongJJ18fan,18
 2021_14_DAL_WAS,linsky,35
 2021_14_DAL_WAS,maloney_jarrod,50
 2021_14_DAL_WAS,Market,28
@@ -71989,6 +71989,7 @@ game_id,screen_name,prediction
 2021_14_DAL_WAS,Yannismiu,28
 2021_14_DAL_WAS,YayySports,33
 2021_14_DAL_WAS,zweinberg18,33
+2021_14_DET_DEN,,87
 2021_14_DET_DEN,__DavidOfficial,50
 2021_14_DET_DEN,_alendowsky,51
 2021_14_DET_DEN,_DH44_,50
@@ -72117,7 +72118,6 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,LeeSharpeNFL,71
 2021_14_DET_DEN,Legendary24_7,100
 2021_14_DET_DEN,Lemmon_19,50
-2021_14_DET_DEN,lifelongJJ18fan,87
 2021_14_DET_DEN,linsky,65
 2021_14_DET_DEN,maloney_jarrod,50
 2021_14_DET_DEN,Market,84
@@ -72217,6 +72217,7 @@ game_id,screen_name,prediction
 2021_14_DET_DEN,Yannismiu,67
 2021_14_DET_DEN,YayySports,81
 2021_14_DET_DEN,zweinberg18,62
+2021_14_NYG_LAC,,75
 2021_14_NYG_LAC,__DavidOfficial,50
 2021_14_NYG_LAC,_alendowsky,58
 2021_14_NYG_LAC,_DH44_,50
@@ -72345,7 +72346,6 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,LeeSharpeNFL,69
 2021_14_NYG_LAC,Legendary24_7,100
 2021_14_NYG_LAC,Lemmon_19,50
-2021_14_NYG_LAC,lifelongJJ18fan,75
 2021_14_NYG_LAC,linsky,82
 2021_14_NYG_LAC,maloney_jarrod,50
 2021_14_NYG_LAC,Market,77
@@ -72445,6 +72445,7 @@ game_id,screen_name,prediction
 2021_14_NYG_LAC,Yannismiu,45
 2021_14_NYG_LAC,YayySports,75
 2021_14_NYG_LAC,zweinberg18,83
+2021_14_SF_CIN,,55
 2021_14_SF_CIN,__DavidOfficial,50
 2021_14_SF_CIN,_alendowsky,48
 2021_14_SF_CIN,_DH44_,50
@@ -72573,7 +72574,6 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,LeeSharpeNFL,44
 2021_14_SF_CIN,Legendary24_7,0
 2021_14_SF_CIN,Lemmon_19,50
-2021_14_SF_CIN,lifelongJJ18fan,55
 2021_14_SF_CIN,linsky,74
 2021_14_SF_CIN,maloney_jarrod,50
 2021_14_SF_CIN,Market,45
@@ -72674,6 +72674,7 @@ game_id,screen_name,prediction
 2021_14_SF_CIN,Yannismiu,33
 2021_14_SF_CIN,YayySports,50
 2021_14_SF_CIN,zweinberg18,60
+2021_14_BUF_TB,,61
 2021_14_BUF_TB,__DavidOfficial,50
 2021_14_BUF_TB,_alendowsky,55
 2021_14_BUF_TB,_DH44_,50
@@ -72802,7 +72803,6 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,LeeSharpeNFL,61
 2021_14_BUF_TB,Legendary24_7,0
 2021_14_BUF_TB,Lemmon_19,50
-2021_14_BUF_TB,lifelongJJ18fan,61
 2021_14_BUF_TB,linsky,42
 2021_14_BUF_TB,maloney_jarrod,50
 2021_14_BUF_TB,Market,63
@@ -72903,6 +72903,7 @@ game_id,screen_name,prediction
 2021_14_BUF_TB,Yannismiu,73
 2021_14_BUF_TB,YayySports,46
 2021_14_BUF_TB,zweinberg18,67
+2021_14_CHI_GB,,87
 2021_14_CHI_GB,__DavidOfficial,50
 2021_14_CHI_GB,_alendowsky,65
 2021_14_CHI_GB,_DH44_,50
@@ -73032,7 +73033,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,LeeSharpeNFL,77
 2021_14_CHI_GB,Legendary24_7,100
 2021_14_CHI_GB,Lemmon_19,50
-2021_14_CHI_GB,lifelongJJ18fan,87
 2021_14_CHI_GB,linsky,74
 2021_14_CHI_GB,maloney_jarrod,50
 2021_14_CHI_GB,Market,84
@@ -73133,6 +73133,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,Yannismiu,83
 2021_14_CHI_GB,YayySports,86
 2021_14_CHI_GB,zweinberg18,76
+2021_14_LA_ARI,,73
 2021_14_LA_ARI,__DavidOfficial,50
 2021_14_LA_ARI,_alendowsky,55
 2021_14_LA_ARI,_DH44_,50
@@ -73262,7 +73263,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,LeeSharpeNFL,54
 2021_14_LA_ARI,Legendary24_7,100
 2021_14_LA_ARI,Lemmon_19,50
-2021_14_LA_ARI,lifelongJJ18fan,73
 2021_14_LA_ARI,linsky,58
 2021_14_LA_ARI,lousabad44,0
 2021_14_LA_ARI,maloney_jarrod,50
@@ -73364,6 +73364,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,Yannismiu,39
 2021_14_LA_ARI,YayySports,64
 2021_14_LA_ARI,zweinberg18,66
+2021_15_KC_LAC,,42
 2021_15_KC_LAC,_alendowsky,45
 2021_15_KC_LAC,_DH44_,0
 2021_15_KC_LAC,_jclemons,42
@@ -73472,7 +73473,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,LarryLegendBTW,50
 2021_15_KC_LAC,LeeSharpeNFL,59
 2021_15_KC_LAC,Legendary24_7,0
-2021_15_KC_LAC,lifelongJJ18fan,42
 2021_15_KC_LAC,linsky,34
 2021_15_KC_LAC,lousabad44,0
 2021_15_KC_LAC,Market,38
@@ -73561,6 +73561,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,Yannismiu,31
 2021_15_KC_LAC,YayySports,46
 2021_15_KC_LAC,zweinberg18,55
+2021_15_NE_IND,,45
 2021_15_NE_IND,_alendowsky,48
 2021_15_NE_IND,_DH44_,46
 2021_15_NE_IND,_jclemons,43
@@ -73678,7 +73679,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,LarryLegendBTW,50
 2021_15_NE_IND,LeeSharpeNFL,44
 2021_15_NE_IND,Legendary24_7,0
-2021_15_NE_IND,lifelongJJ18fan,45
 2021_15_NE_IND,linsky,37
 2021_15_NE_IND,lousabad44,63
 2021_15_NE_IND,Market,51
@@ -73772,6 +73772,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,Yannismiu,2
 2021_15_NE_IND,YayySports,49
 2021_15_NE_IND,zweinberg18,37
+2021_15_CAR_BUF,,83
 2021_15_CAR_BUF,_alendowsky,100
 2021_15_CAR_BUF,_DH44_,60
 2021_15_CAR_BUF,_jclemons,80
@@ -73892,7 +73893,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,LarryLegendBTW,50
 2021_15_CAR_BUF,LeeSharpeNFL,78
 2021_15_CAR_BUF,Legendary24_7,100
-2021_15_CAR_BUF,lifelongJJ18fan,83
 2021_15_CAR_BUF,linsky,85
 2021_15_CAR_BUF,lousabad44,100
 2021_15_CAR_BUF,Market,85
@@ -73987,6 +73987,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,Yannismiu,98
 2021_15_CAR_BUF,YayySports,87
 2021_15_CAR_BUF,zweinberg18,74
+2021_15_ARI_DET,,14
 2021_15_ARI_DET,_alendowsky,0
 2021_15_ARI_DET,_DH44_,0
 2021_15_ARI_DET,_jclemons,22
@@ -74107,7 +74108,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,LarryLegendBTW,50
 2021_15_ARI_DET,LeeSharpeNFL,30
 2021_15_ARI_DET,Legendary24_7,0
-2021_15_ARI_DET,lifelongJJ18fan,14
 2021_15_ARI_DET,linsky,18
 2021_15_ARI_DET,lousabad44,0
 2021_15_ARI_DET,Market,16
@@ -74202,6 +74202,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,Yannismiu,2
 2021_15_ARI_DET,YayySports,11
 2021_15_ARI_DET,zweinberg18,9
+2021_15_HOU_JAX,,55
 2021_15_HOU_JAX,_alendowsky,55
 2021_15_HOU_JAX,_DH44_,52
 2021_15_HOU_JAX,_jclemons,49
@@ -74322,7 +74323,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,LarryLegendBTW,50
 2021_15_HOU_JAX,LeeSharpeNFL,63
 2021_15_HOU_JAX,Legendary24_7,100
-2021_15_HOU_JAX,lifelongJJ18fan,55
 2021_15_HOU_JAX,linsky,65
 2021_15_HOU_JAX,lousabad44,0
 2021_15_HOU_JAX,Market,70
@@ -74417,6 +74417,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,Yannismiu,41
 2021_15_HOU_JAX,YayySports,64
 2021_15_HOU_JAX,zweinberg18,54
+2021_15_NYJ_MIA,,75
 2021_15_NYJ_MIA,_alendowsky,100
 2021_15_NYJ_MIA,_DH44_,52
 2021_15_NYJ_MIA,_jclemons,66
@@ -74537,7 +74538,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,LarryLegendBTW,50
 2021_15_NYJ_MIA,LeeSharpeNFL,58
 2021_15_NYJ_MIA,Legendary24_7,100
-2021_15_NYJ_MIA,lifelongJJ18fan,75
 2021_15_NYJ_MIA,linsky,67
 2021_15_NYJ_MIA,lousabad44,100
 2021_15_NYJ_MIA,Market,79
@@ -74632,6 +74632,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,Yannismiu,82
 2021_15_NYJ_MIA,YayySports,82
 2021_15_NYJ_MIA,zweinberg18,90
+2021_15_DAL_NYG,,20
 2021_15_DAL_NYG,_alendowsky,0
 2021_15_DAL_NYG,_DH44_,0
 2021_15_DAL_NYG,_jclemons,34
@@ -74752,7 +74753,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,LarryLegendBTW,50
 2021_15_DAL_NYG,LeeSharpeNFL,38
 2021_15_DAL_NYG,Legendary24_7,0
-2021_15_DAL_NYG,lifelongJJ18fan,20
 2021_15_DAL_NYG,linsky,16
 2021_15_DAL_NYG,lousabad44,0
 2021_15_DAL_NYG,Market,18
@@ -74847,6 +74847,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,Yannismiu,54
 2021_15_DAL_NYG,YayySports,25
 2021_15_DAL_NYG,zweinberg18,31
+2021_15_TEN_PIT,,42
 2021_15_TEN_PIT,_alendowsky,48
 2021_15_TEN_PIT,_DH44_,51
 2021_15_TEN_PIT,_jclemons,48
@@ -74967,7 +74968,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,LarryLegendBTW,50
 2021_15_TEN_PIT,LeeSharpeNFL,49
 2021_15_TEN_PIT,Legendary24_7,3
-2021_15_TEN_PIT,lifelongJJ18fan,42
 2021_15_TEN_PIT,linsky,31
 2021_15_TEN_PIT,lousabad44,0
 2021_15_TEN_PIT,Market,53
@@ -75062,6 +75062,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,Yannismiu,29
 2021_15_TEN_PIT,YayySports,46
 2021_15_TEN_PIT,zweinberg18,43
+2021_15_CIN_DEN,,48
 2021_15_CIN_DEN,_alendowsky,55
 2021_15_CIN_DEN,_DH44_,51
 2021_15_CIN_DEN,_jclemons,48
@@ -75183,7 +75184,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,LarryLegendBTW,50
 2021_15_CIN_DEN,LeeSharpeNFL,59
 2021_15_CIN_DEN,Legendary24_7,0
-2021_15_CIN_DEN,lifelongJJ18fan,48
 2021_15_CIN_DEN,linsky,35
 2021_15_CIN_DEN,lousabad44,0
 2021_15_CIN_DEN,Market,59
@@ -75279,6 +75279,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,Yannismiu,43
 2021_15_CIN_DEN,YayySports,54
 2021_15_CIN_DEN,zweinberg18,43
+2021_15_ATL_SF,,72
 2021_15_ATL_SF,_alendowsky,55
 2021_15_ATL_SF,_DH44_,54
 2021_15_ATL_SF,_jclemons,67
@@ -75400,7 +75401,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,LarryLegendBTW,50
 2021_15_ATL_SF,LeeSharpeNFL,71
 2021_15_ATL_SF,Legendary24_7,100
-2021_15_ATL_SF,lifelongJJ18fan,72
 2021_15_ATL_SF,linsky,76
 2021_15_ATL_SF,lousabad44,100
 2021_15_ATL_SF,Market,77
@@ -75496,6 +75496,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,Yannismiu,79
 2021_15_ATL_SF,YayySports,80
 2021_15_ATL_SF,zweinberg18,82
+2021_15_GB_BAL,,26
 2021_15_GB_BAL,_alendowsky,40
 2021_15_GB_BAL,_DH44_,52
 2021_15_GB_BAL,_jclemons,26
@@ -75617,7 +75618,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,LarryLegendBTW,50
 2021_15_GB_BAL,LeeSharpeNFL,36
 2021_15_GB_BAL,Legendary24_7,0
-2021_15_GB_BAL,lifelongJJ18fan,26
 2021_15_GB_BAL,linsky,29
 2021_15_GB_BAL,lousabad44,0
 2021_15_GB_BAL,Market,24
@@ -75713,6 +75713,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,Yannismiu,39
 2021_15_GB_BAL,YayySports,41
 2021_15_GB_BAL,zweinberg18,55
+2021_15_NO_TB,,82
 2021_15_NO_TB,_alendowsky,55
 2021_15_NO_TB,_DH44_,64
 2021_15_NO_TB,_jclemons,70
@@ -75834,7 +75835,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,LarryLegendBTW,50
 2021_15_NO_TB,LeeSharpeNFL,78
 2021_15_NO_TB,Legendary24_7,0
-2021_15_NO_TB,lifelongJJ18fan,82
 2021_15_NO_TB,linsky,81
 2021_15_NO_TB,lousabad44,100
 2021_15_NO_TB,Market,81
@@ -75931,6 +75931,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,Yannismiu,81
 2021_15_NO_TB,YayySports,80
 2021_15_NO_TB,zweinberg18,83
+2021_15_LV_CLE,,37
 2021_15_LV_CLE,_alendowsky,55
 2021_15_LV_CLE,_DH44_,42
 2021_15_LV_CLE,_jclemons,48
@@ -76054,7 +76055,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,LarryLegendBTW,50
 2021_15_LV_CLE,LeeSharpeNFL,45
 2021_15_LV_CLE,Legendary24_7,100
-2021_15_LV_CLE,lifelongJJ18fan,37
 2021_15_LV_CLE,linsky,77
 2021_15_LV_CLE,lousabad44,100
 2021_15_LV_CLE,MarcRichards284,35
@@ -76152,6 +76152,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,Yannismiu,32
 2021_15_LV_CLE,YayySports,68
 2021_15_LV_CLE,zweinberg18,55
+2021_15_MIN_CHI,,33
 2021_15_MIN_CHI,_alendowsky,45
 2021_15_MIN_CHI,_DH44_,49
 2021_15_MIN_CHI,_jclemons,34
@@ -76275,7 +76276,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,LarryLegendBTW,50
 2021_15_MIN_CHI,LeeSharpeNFL,29
 2021_15_MIN_CHI,Legendary24_7,0
-2021_15_MIN_CHI,lifelongJJ18fan,33
 2021_15_MIN_CHI,linsky,37
 2021_15_MIN_CHI,lousabad44,0
 2021_15_MIN_CHI,MarcRichards284,0
@@ -76373,6 +76373,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,Yannismiu,28
 2021_15_MIN_CHI,YayySports,34
 2021_15_MIN_CHI,zweinberg18,37
+2021_15_SEA_LA,,69
 2021_15_SEA_LA,_alendowsky,55
 2021_15_SEA_LA,_DH44_,55
 2021_15_SEA_LA,_jclemons,69
@@ -76497,7 +76498,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,LarryLegendBTW,50
 2021_15_SEA_LA,LeeSharpeNFL,61
 2021_15_SEA_LA,Legendary24_7,100
-2021_15_SEA_LA,lifelongJJ18fan,69
 2021_15_SEA_LA,linsky,78
 2021_15_SEA_LA,lousabad44,100
 2021_15_SEA_LA,MarcRichards284,100
@@ -76595,6 +76595,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,Yannismiu,73
 2021_15_SEA_LA,YayySports,70
 2021_15_SEA_LA,zweinberg18,72
+2021_15_WAS_PHI,,67
 2021_15_WAS_PHI,_alendowsky,55
 2021_15_WAS_PHI,_DH44_,59
 2021_15_WAS_PHI,_jclemons,65
@@ -76719,7 +76720,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,LarryLegendBTW,50
 2021_15_WAS_PHI,LeeSharpeNFL,65
 2021_15_WAS_PHI,Legendary24_7,100
-2021_15_WAS_PHI,lifelongJJ18fan,67
 2021_15_WAS_PHI,linsky,68
 2021_15_WAS_PHI,lousabad44,74
 2021_15_WAS_PHI,MarcRichards284,61
@@ -76817,6 +76817,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,Yannismiu,32
 2021_15_WAS_PHI,YayySports,68
 2021_15_WAS_PHI,zweinberg18,63
+2021_16_SF_TEN,,45
 2021_16_SF_TEN,_alendowsky,40
 2021_16_SF_TEN,_DH44_,50
 2021_16_SF_TEN,_jclemons,28
@@ -76913,7 +76914,6 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,KryzivenTake2,29
 2021_16_SF_TEN,LeeSharpeNFL,46
 2021_16_SF_TEN,Lemmon_19,50
-2021_16_SF_TEN,lifelongJJ18fan,45
 2021_16_SF_TEN,linsky,37
 2021_16_SF_TEN,lousabad44,100
 2021_16_SF_TEN,Market,38
@@ -76996,6 +76996,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,Yannismiu,24
 2021_16_SF_TEN,YayySports,49
 2021_16_SF_TEN,zweinberg18,44
+2021_16_CLE_GB,,70
 2021_16_CLE_GB,_alendowsky,55
 2021_16_CLE_GB,_DH44_,52
 2021_16_CLE_GB,_jclemons,81
@@ -77097,7 +77098,6 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,KryzivenTake2,73
 2021_16_CLE_GB,LeeSharpeNFL,67
 2021_16_CLE_GB,Lemmon_19,50
-2021_16_CLE_GB,lifelongJJ18fan,70
 2021_16_CLE_GB,linsky,65
 2021_16_CLE_GB,lousabad44,100
 2021_16_CLE_GB,Market,78
@@ -77182,6 +77182,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,Yannismiu,80
 2021_16_CLE_GB,YayySports,72
 2021_16_CLE_GB,zweinberg18,69
+2021_16_IND_ARI,,60
 2021_16_IND_ARI,_alendowsky,45
 2021_16_IND_ARI,_DH44_,47
 2021_16_IND_ARI,_jclemons,40
@@ -77285,7 +77286,6 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,LeeSharpeNFL,48
 2021_16_IND_ARI,Legendary24_7,100
 2021_16_IND_ARI,Lemmon_19,50
-2021_16_IND_ARI,lifelongJJ18fan,60
 2021_16_IND_ARI,linsky,60
 2021_16_IND_ARI,lousabad44,100
 2021_16_IND_ARI,Market,60
@@ -77370,6 +77370,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,Yannismiu,43
 2021_16_IND_ARI,YayySports,53
 2021_16_IND_ARI,zweinberg18,42
+2021_16_DET_ATL,,78
 2021_16_DET_ATL,_alendowsky,48
 2021_16_DET_ATL,_DH44_,49
 2021_16_DET_ATL,_jclemons,65
@@ -77475,7 +77476,6 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,LeeSharpeNFL,62
 2021_16_DET_ATL,Legendary24_7,0
 2021_16_DET_ATL,Lemmon_19,50
-2021_16_DET_ATL,lifelongJJ18fan,78
 2021_16_DET_ATL,linsky,61
 2021_16_DET_ATL,lousabad44,100
 2021_16_DET_ATL,Market,76
@@ -77563,6 +77563,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,Yannismiu,36
 2021_16_DET_ATL,YayySports,64
 2021_16_DET_ATL,zweinberg18,56
+2021_16_TB_CAR,,25
 2021_16_TB_CAR,_alendowsky,45
 2021_16_TB_CAR,_DH44_,45
 2021_16_TB_CAR,_jclemons,24
@@ -77668,7 +77669,6 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,LeeSharpeNFL,22
 2021_16_TB_CAR,Legendary24_7,100
 2021_16_TB_CAR,Lemmon_19,50
-2021_16_TB_CAR,lifelongJJ18fan,25
 2021_16_TB_CAR,linsky,35
 2021_16_TB_CAR,lousabad44,0
 2021_16_TB_CAR,Market,19
@@ -77756,6 +77756,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,Yannismiu,2
 2021_16_TB_CAR,YayySports,20
 2021_16_TB_CAR,zweinberg18,15
+2021_16_BAL_CIN,,70
 2021_16_BAL_CIN,_alendowsky,58
 2021_16_BAL_CIN,_DH44_,52
 2021_16_BAL_CIN,_jclemons,71
@@ -77861,7 +77862,6 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,LeeSharpeNFL,59
 2021_16_BAL_CIN,Legendary24_7,0
 2021_16_BAL_CIN,Lemmon_19,50
-2021_16_BAL_CIN,lifelongJJ18fan,70
 2021_16_BAL_CIN,linsky,64
 2021_16_BAL_CIN,lousabad44,100
 2021_16_BAL_CIN,Market,76
@@ -77949,6 +77949,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,Yannismiu,65
 2021_16_BAL_CIN,YayySports,53
 2021_16_BAL_CIN,zweinberg18,48
+2021_16_LAC_HOU,,16
 2021_16_LAC_HOU,_alendowsky,0
 2021_16_LAC_HOU,_DH44_,22
 2021_16_LAC_HOU,_jclemons,14
@@ -78054,7 +78055,6 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,LeeSharpeNFL,22
 2021_16_LAC_HOU,Legendary24_7,100
 2021_16_LAC_HOU,Lemmon_19,50
-2021_16_LAC_HOU,lifelongJJ18fan,16
 2021_16_LAC_HOU,linsky,24
 2021_16_LAC_HOU,lousabad44,0
 2021_16_LAC_HOU,Market,16
@@ -78142,6 +78142,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,Yannismiu,2
 2021_16_LAC_HOU,YayySports,14
 2021_16_LAC_HOU,zweinberg18,23
+2021_16_LA_MIN,,43
 2021_16_LA_MIN,_alendowsky,45
 2021_16_LA_MIN,_DH44_,48
 2021_16_LA_MIN,_jclemons,43
@@ -78247,7 +78248,6 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,LeeSharpeNFL,51
 2021_16_LA_MIN,Legendary24_7,93
 2021_16_LA_MIN,Lemmon_19,50
-2021_16_LA_MIN,lifelongJJ18fan,43
 2021_16_LA_MIN,linsky,28
 2021_16_LA_MIN,lousabad44,0
 2021_16_LA_MIN,Market,38
@@ -78335,6 +78335,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,Yannismiu,38
 2021_16_LA_MIN,YayySports,45
 2021_16_LA_MIN,zweinberg18,38
+2021_16_BUF_NE,,52
 2021_16_BUF_NE,_alendowsky,55
 2021_16_BUF_NE,_DH44_,52
 2021_16_BUF_NE,_jclemons,55
@@ -78440,7 +78441,6 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,LeeSharpeNFL,51
 2021_16_BUF_NE,Legendary24_7,100
 2021_16_BUF_NE,Lemmon_19,50
-2021_16_BUF_NE,lifelongJJ18fan,52
 2021_16_BUF_NE,linsky,30
 2021_16_BUF_NE,lousabad44,0
 2021_16_BUF_NE,Market,52
@@ -78528,6 +78528,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,Yannismiu,98
 2021_16_BUF_NE,YayySports,53
 2021_16_BUF_NE,zweinberg18,58
+2021_16_JAX_NYJ,,55
 2021_16_JAX_NYJ,_alendowsky,55
 2021_16_JAX_NYJ,_DH44_,43
 2021_16_JAX_NYJ,_jclemons,49
@@ -78633,7 +78634,6 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,LeeSharpeNFL,61
 2021_16_JAX_NYJ,Legendary24_7,4
 2021_16_JAX_NYJ,Lemmon_19,50
-2021_16_JAX_NYJ,lifelongJJ18fan,55
 2021_16_JAX_NYJ,linsky,62
 2021_16_JAX_NYJ,lousabad44,0
 2021_16_JAX_NYJ,Market,54
@@ -78721,6 +78721,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,Yannismiu,65
 2021_16_JAX_NYJ,YayySports,53
 2021_16_JAX_NYJ,zweinberg18,60
+2021_16_NYG_PHI,,84
 2021_16_NYG_PHI,_alendowsky,55
 2021_16_NYG_PHI,_DH44_,54
 2021_16_NYG_PHI,_jclemons,70
@@ -78826,7 +78827,6 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,LeeSharpeNFL,74
 2021_16_NYG_PHI,Legendary24_7,0
 2021_16_NYG_PHI,Lemmon_19,50
-2021_16_NYG_PHI,lifelongJJ18fan,84
 2021_16_NYG_PHI,linsky,76
 2021_16_NYG_PHI,lousabad44,100
 2021_16_NYG_PHI,Market,81
@@ -78914,6 +78914,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,Yannismiu,47
 2021_16_NYG_PHI,YayySports,78
 2021_16_NYG_PHI,zweinberg18,82
+2021_16_CHI_SEA,,68
 2021_16_CHI_SEA,_alendowsky,55
 2021_16_CHI_SEA,_DH44_,52
 2021_16_CHI_SEA,_jclemons,61
@@ -79022,7 +79023,6 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,LeeSharpeNFL,73
 2021_16_CHI_SEA,Legendary24_7,0
 2021_16_CHI_SEA,Lemmon_19,50
-2021_16_CHI_SEA,lifelongJJ18fan,68
 2021_16_CHI_SEA,linsky,79
 2021_16_CHI_SEA,lousabad44,100
 2021_16_CHI_SEA,Market,74
@@ -79111,6 +79111,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,Yannismiu,66
 2021_16_CHI_SEA,YayySports,75
 2021_16_CHI_SEA,zweinberg18,61
+2021_16_PIT_KC,,81
 2021_16_PIT_KC,_alendowsky,98
 2021_16_PIT_KC,_DH44_,79
 2021_16_PIT_KC,_jclemons,74
@@ -79219,7 +79220,6 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,LeeSharpeNFL,71
 2021_16_PIT_KC,Legendary24_7,0
 2021_16_PIT_KC,Lemmon_19,50
-2021_16_PIT_KC,lifelongJJ18fan,81
 2021_16_PIT_KC,linsky,79
 2021_16_PIT_KC,lousabad44,100
 2021_16_PIT_KC,Market,77
@@ -79308,6 +79308,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,Yannismiu,85
 2021_16_PIT_KC,YayySports,81
 2021_16_PIT_KC,zweinberg18,80
+2021_16_DEN_LV,,49
 2021_16_DEN_LV,_alendowsky,0
 2021_16_DEN_LV,_DH44_,46
 2021_16_DEN_LV,_jclemons,52
@@ -79416,7 +79417,6 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,LeeSharpeNFL,57
 2021_16_DEN_LV,Legendary24_7,0
 2021_16_DEN_LV,Lemmon_19,50
-2021_16_DEN_LV,lifelongJJ18fan,49
 2021_16_DEN_LV,linsky,37
 2021_16_DEN_LV,lousabad44,100
 2021_16_DEN_LV,Market,49
@@ -79505,6 +79505,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,Yannismiu,45
 2021_16_DEN_LV,YayySports,49
 2021_16_DEN_LV,zweinberg18,57
+2021_16_WAS_DAL,,77
 2021_16_WAS_DAL,_alendowsky,53
 2021_16_WAS_DAL,_DH44_,100
 2021_16_WAS_DAL,_jclemons,69
@@ -79614,7 +79615,6 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,LeeSharpeNFL,68
 2021_16_WAS_DAL,Legendary24_7,0
 2021_16_WAS_DAL,Lemmon_19,50
-2021_16_WAS_DAL,lifelongJJ18fan,77
 2021_16_WAS_DAL,linsky,72
 2021_16_WAS_DAL,lousabad44,100
 2021_16_WAS_DAL,Market,79
@@ -79704,6 +79704,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,Yannismiu,81
 2021_16_WAS_DAL,YayySports,81
 2021_16_WAS_DAL,zweinberg18,77
+2021_16_MIA_NO,,41
 2021_16_MIA_NO,_alendowsky,0
 2021_16_MIA_NO,_DH44_,46
 2021_16_MIA_NO,_jclemons,47
@@ -79815,7 +79816,6 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,LeeSharpeNFL,39
 2021_16_MIA_NO,Legendary24_7,5
 2021_16_MIA_NO,Lemmon_19,50
-2021_16_MIA_NO,lifelongJJ18fan,41
 2021_16_MIA_NO,linsky,73
 2021_16_MIA_NO,lousabad44,100
 2021_16_MIA_NO,Market,40
@@ -79905,6 +79905,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,Yannismiu,62
 2021_16_MIA_NO,YayySports,67
 2021_16_MIA_NO,zweinberg18,48
+2021_17_LA_BAL,,29
 2021_17_LA_BAL,_alendowsky,25
 2021_17_LA_BAL,_DH44_,49
 2021_17_LA_BAL,_jclemons,30
@@ -80018,7 +80019,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,KryzivenTake2,32
 2021_17_LA_BAL,LeeSharpeNFL,44
 2021_17_LA_BAL,Legendary24_7,95
-2021_17_LA_BAL,lifelongJJ18fan,29
 2021_17_LA_BAL,linsky,23
 2021_17_LA_BAL,Luizzenrique12,56
 2021_17_LA_BAL,Market,27
@@ -80108,6 +80108,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,Yannismiu,9
 2021_17_LA_BAL,YayySports,36
 2021_17_LA_BAL,zweinberg18,56
+2021_17_ATL_BUF,,85
 2021_17_ATL_BUF,_alendowsky,75
 2021_17_ATL_BUF,_DH44_,100
 2021_17_ATL_BUF,_jclemons,75
@@ -80221,7 +80222,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,KryzivenTake2,86
 2021_17_ATL_BUF,LeeSharpeNFL,73
 2021_17_ATL_BUF,Legendary24_7,0
-2021_17_ATL_BUF,lifelongJJ18fan,85
 2021_17_ATL_BUF,linsky,78
 2021_17_ATL_BUF,Luizzenrique12,40
 2021_17_ATL_BUF,Market,87
@@ -80311,6 +80311,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,Yannismiu,98
 2021_17_ATL_BUF,YayySports,95
 2021_17_ATL_BUF,zweinberg18,72
+2021_17_NYG_CHI,,75
 2021_17_NYG_CHI,_alendowsky,51
 2021_17_NYG_CHI,_DH44_,51
 2021_17_NYG_CHI,_jclemons,76
@@ -80424,7 +80425,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,KryzivenTake2,63
 2021_17_NYG_CHI,LeeSharpeNFL,64
 2021_17_NYG_CHI,Legendary24_7,100
-2021_17_NYG_CHI,lifelongJJ18fan,75
 2021_17_NYG_CHI,linsky,74
 2021_17_NYG_CHI,Luizzenrique12,46
 2021_17_NYG_CHI,Market,72
@@ -80514,6 +80514,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,Yannismiu,37
 2021_17_NYG_CHI,YayySports,54
 2021_17_NYG_CHI,zweinberg18,63
+2021_17_KC_CIN,,40
 2021_17_KC_CIN,_alendowsky,40
 2021_17_KC_CIN,_DH44_,41
 2021_17_KC_CIN,_jclemons,45
@@ -80627,7 +80628,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,KryzivenTake2,37
 2021_17_KC_CIN,LeeSharpeNFL,50
 2021_17_KC_CIN,Legendary24_7,99
-2021_17_KC_CIN,lifelongJJ18fan,40
 2021_17_KC_CIN,linsky,31
 2021_17_KC_CIN,Luizzenrique12,56
 2021_17_KC_CIN,Market,38
@@ -80717,6 +80717,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,Yannismiu,54
 2021_17_KC_CIN,YayySports,36
 2021_17_KC_CIN,zweinberg18,36
+2021_17_LV_IND,,69
 2021_17_LV_IND,_alendowsky,52
 2021_17_LV_IND,_DH44_,52
 2021_17_LV_IND,_jclemons,65
@@ -80830,7 +80831,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,KryzivenTake2,71
 2021_17_LV_IND,LeeSharpeNFL,59
 2021_17_LV_IND,Legendary24_7,0
-2021_17_LV_IND,lifelongJJ18fan,69
 2021_17_LV_IND,linsky,75
 2021_17_LV_IND,Luizzenrique12,42
 2021_17_LV_IND,Market,77
@@ -80920,6 +80920,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,Yannismiu,84
 2021_17_LV_IND,YayySports,80
 2021_17_LV_IND,zweinberg18,66
+2021_17_JAX_NE,,100
 2021_17_JAX_NE,_alendowsky,60
 2021_17_JAX_NE,_DH44_,100
 2021_17_JAX_NE,_jclemons,95
@@ -81033,7 +81034,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,KryzivenTake2,84
 2021_17_JAX_NE,LeeSharpeNFL,70
 2021_17_JAX_NE,Legendary24_7,0
-2021_17_JAX_NE,lifelongJJ18fan,100
 2021_17_JAX_NE,linsky,83
 2021_17_JAX_NE,Luizzenrique12,33
 2021_17_JAX_NE,Market,88
@@ -81123,6 +81123,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,Yannismiu,98
 2021_17_JAX_NE,YayySports,100
 2021_17_JAX_NE,zweinberg18,92
+2021_17_TB_NYJ,,18
 2021_17_TB_NYJ,_alendowsky,40
 2021_17_TB_NYJ,_DH44_,45
 2021_17_TB_NYJ,_jclemons,5
@@ -81236,7 +81237,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,KryzivenTake2,13
 2021_17_TB_NYJ,LeeSharpeNFL,29
 2021_17_TB_NYJ,Legendary24_7,100
-2021_17_TB_NYJ,lifelongJJ18fan,18
 2021_17_TB_NYJ,linsky,21
 2021_17_TB_NYJ,Luizzenrique12,62
 2021_17_TB_NYJ,Market,13
@@ -81326,6 +81326,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,Yannismiu,2
 2021_17_TB_NYJ,YayySports,8
 2021_17_TB_NYJ,zweinberg18,21
+2021_17_MIA_TEN,,58
 2021_17_MIA_TEN,_alendowsky,45
 2021_17_MIA_TEN,_DH44_,51
 2021_17_MIA_TEN,_jclemons,48
@@ -81439,7 +81440,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,KryzivenTake2,65
 2021_17_MIA_TEN,LeeSharpeNFL,65
 2021_17_MIA_TEN,Legendary24_7,100
-2021_17_MIA_TEN,lifelongJJ18fan,58
 2021_17_MIA_TEN,linsky,63
 2021_17_MIA_TEN,Luizzenrique12,55
 2021_17_MIA_TEN,Market,61
@@ -81529,6 +81529,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,Yannismiu,64
 2021_17_MIA_TEN,YayySports,64
 2021_17_MIA_TEN,zweinberg18,59
+2021_17_PHI_WAS,,30
 2021_17_PHI_WAS,_alendowsky,40
 2021_17_PHI_WAS,_DH44_,51
 2021_17_PHI_WAS,_jclemons,32
@@ -81642,7 +81643,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,KryzivenTake2,40
 2021_17_PHI_WAS,LeeSharpeNFL,45
 2021_17_PHI_WAS,Legendary24_7,95
-2021_17_PHI_WAS,lifelongJJ18fan,30
 2021_17_PHI_WAS,linsky,26
 2021_17_PHI_WAS,Luizzenrique12,43
 2021_17_PHI_WAS,Market,32
@@ -81732,6 +81732,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,Yannismiu,63
 2021_17_PHI_WAS,YayySports,33
 2021_17_PHI_WAS,zweinberg18,33
+2021_17_DEN_LAC,,76
 2021_17_DEN_LAC,_alendowsky,60
 2021_17_DEN_LAC,_DH44_,58
 2021_17_DEN_LAC,_jclemons,65
@@ -81845,7 +81846,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,KryzivenTake2,65
 2021_17_DEN_LAC,LeeSharpeNFL,69
 2021_17_DEN_LAC,Legendary24_7,0
-2021_17_DEN_LAC,lifelongJJ18fan,76
 2021_17_DEN_LAC,linsky,67
 2021_17_DEN_LAC,Luizzenrique12,61
 2021_17_DEN_LAC,Market,75
@@ -81935,6 +81935,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,Yannismiu,72
 2021_17_DEN_LAC,YayySports,59
 2021_17_DEN_LAC,zweinberg18,69
+2021_17_HOU_SF,,85
 2021_17_HOU_SF,_alendowsky,55
 2021_17_HOU_SF,_DH44_,56
 2021_17_HOU_SF,_jclemons,76
@@ -82048,7 +82049,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,KryzivenTake2,75
 2021_17_HOU_SF,LeeSharpeNFL,78
 2021_17_HOU_SF,Legendary24_7,0
-2021_17_HOU_SF,lifelongJJ18fan,85
 2021_17_HOU_SF,linsky,75
 2021_17_HOU_SF,Luizzenrique12,61
 2021_17_HOU_SF,Market,83
@@ -82138,6 +82138,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,Yannismiu,98
 2021_17_HOU_SF,YayySports,89
 2021_17_HOU_SF,zweinberg18,63
+2021_17_ARI_DAL,,66
 2021_17_ARI_DAL,_alendowsky,55
 2021_17_ARI_DAL,_DH44_,56
 2021_17_ARI_DAL,_jclemons,70
@@ -82251,7 +82252,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,KryzivenTake2,74
 2021_17_ARI_DAL,LeeSharpeNFL,68
 2021_17_ARI_DAL,Legendary24_7,0
-2021_17_ARI_DAL,lifelongJJ18fan,66
 2021_17_ARI_DAL,linsky,61
 2021_17_ARI_DAL,Luizzenrique12,57
 2021_17_ARI_DAL,Market,70
@@ -82341,6 +82341,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,Yannismiu,64
 2021_17_ARI_DAL,YayySports,66
 2021_17_ARI_DAL,zweinberg18,50
+2021_17_CAR_NO,,67
 2021_17_CAR_NO,_alendowsky,55
 2021_17_CAR_NO,_DH44_,51
 2021_17_CAR_NO,_jclemons,65
@@ -82454,7 +82455,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,KryzivenTake2,64
 2021_17_CAR_NO,LeeSharpeNFL,65
 2021_17_CAR_NO,Legendary24_7,0
-2021_17_CAR_NO,lifelongJJ18fan,67
 2021_17_CAR_NO,linsky,65
 2021_17_CAR_NO,Luizzenrique12,62
 2021_17_CAR_NO,Market,71
@@ -82544,6 +82544,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,Yannismiu,67
 2021_17_CAR_NO,YayySports,72
 2021_17_CAR_NO,zweinberg18,63
+2021_17_DET_SEA,,75
 2021_17_DET_SEA,_alendowsky,55
 2021_17_DET_SEA,_DH44_,52
 2021_17_DET_SEA,_jclemons,48
@@ -82657,7 +82658,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,KryzivenTake2,65
 2021_17_DET_SEA,LeeSharpeNFL,74
 2021_17_DET_SEA,Legendary24_7,4
-2021_17_DET_SEA,lifelongJJ18fan,75
 2021_17_DET_SEA,linsky,54
 2021_17_DET_SEA,Luizzenrique12,57
 2021_17_DET_SEA,Market,77
@@ -82747,6 +82747,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,Yannismiu,42
 2021_17_DET_SEA,YayySports,81
 2021_17_DET_SEA,zweinberg18,56
+2021_17_MIN_GB,,86
 2021_17_MIN_GB,_alendowsky,55
 2021_17_MIN_GB,_DH44_,53
 2021_17_MIN_GB,_jclemons,75
@@ -82860,7 +82861,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,KryzivenTake2,87
 2021_17_MIN_GB,LeeSharpeNFL,74
 2021_17_MIN_GB,Legendary24_7,7
-2021_17_MIN_GB,lifelongJJ18fan,86
 2021_17_MIN_GB,linsky,68
 2021_17_MIN_GB,Luizzenrique12,64
 2021_17_MIN_GB,Market,85
@@ -82950,6 +82950,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,Yannismiu,77
 2021_17_MIN_GB,YayySports,74
 2021_17_MIN_GB,zweinberg18,63
+2021_17_CLE_PIT,,38
 2021_17_CLE_PIT,_alendowsky,45
 2021_17_CLE_PIT,_DH44_,48
 2021_17_CLE_PIT,_jclemons,45
@@ -83064,7 +83065,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,KryzivenTake2,34
 2021_17_CLE_PIT,LeeSharpeNFL,44
 2021_17_CLE_PIT,Legendary24_7,0
-2021_17_CLE_PIT,lifelongJJ18fan,38
 2021_17_CLE_PIT,linsky,34
 2021_17_CLE_PIT,Luizzenrique12,48
 2021_17_CLE_PIT,Market,47
@@ -83156,6 +83156,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,Yannismiu,29
 2021_17_CLE_PIT,YayySports,47
 2021_17_CLE_PIT,zweinberg18,45
+2021_18_KC_DEN,,22
 2021_18_KC_DEN,_alendowsky,44
 2021_18_KC_DEN,_DH44_,0
 2021_18_KC_DEN,_jclemons,5
@@ -83251,7 +83252,6 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,kohoanton,19
 2021_18_KC_DEN,KryzivenTake2,30
 2021_18_KC_DEN,LeeSharpeNFL,18
-2021_18_KC_DEN,lifelongJJ18fan,22
 2021_18_KC_DEN,linsky,12
 2021_18_KC_DEN,lousabad44,0
 2021_18_KC_DEN,Market,18
@@ -83322,6 +83322,7 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,WS_JakeT,22
 2021_18_KC_DEN,Yannismiu,30
 2021_18_KC_DEN,YayySports,29
+2021_18_DAL_PHI,,44
 2021_18_DAL_PHI,_alendowsky,46
 2021_18_DAL_PHI,_DH44_,52
 2021_18_DAL_PHI,_jclemons,25
@@ -83418,7 +83419,6 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,kohoanton,35
 2021_18_DAL_PHI,KryzivenTake2,21
 2021_18_DAL_PHI,LeeSharpeNFL,31
-2021_18_DAL_PHI,lifelongJJ18fan,44
 2021_18_DAL_PHI,linsky,61
 2021_18_DAL_PHI,lousabad44,0
 2021_18_DAL_PHI,Market,28
@@ -83490,6 +83490,7 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,WS_JakeT,35
 2021_18_DAL_PHI,Yannismiu,25
 2021_18_DAL_PHI,YayySports,31
+2021_18_PIT_BAL,,60
 2021_18_PIT_BAL,_alendowsky,47
 2021_18_PIT_BAL,_DH44_,52
 2021_18_PIT_BAL,_jclemons,30
@@ -83590,7 +83591,6 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,kohoanton,64
 2021_18_PIT_BAL,KryzivenTake2,46
 2021_18_PIT_BAL,LeeSharpeNFL,59
-2021_18_PIT_BAL,lifelongJJ18fan,60
 2021_18_PIT_BAL,linsky,69
 2021_18_PIT_BAL,lousabad44,100
 2021_18_PIT_BAL,Market,59
@@ -83670,6 +83670,7 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,Yannismiu,76
 2021_18_PIT_BAL,YayySports,64
 2021_18_PIT_BAL,zweinberg18,57
+2021_18_CIN_CLE,,69
 2021_18_CIN_CLE,_alendowsky,51
 2021_18_CIN_CLE,_DH44_,0
 2021_18_CIN_CLE,_jclemons,25
@@ -83770,7 +83771,6 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,kohoanton,68
 2021_18_CIN_CLE,KryzivenTake2,29
 2021_18_CIN_CLE,LeeSharpeNFL,70
-2021_18_CIN_CLE,lifelongJJ18fan,69
 2021_18_CIN_CLE,linsky,24
 2021_18_CIN_CLE,lousabad44,0
 2021_18_CIN_CLE,Market,70
@@ -83850,6 +83850,7 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,Yannismiu,24
 2021_18_CIN_CLE,YayySports,71
 2021_18_CIN_CLE,zweinberg18,55
+2021_18_GB_DET,,33
 2021_18_GB_DET,_alendowsky,44
 2021_18_GB_DET,_DH44_,52
 2021_18_GB_DET,_jclemons,40
@@ -83950,7 +83951,6 @@ game_id,screen_name,prediction
 2021_18_GB_DET,kohoanton,38
 2021_18_GB_DET,KryzivenTake2,43
 2021_18_GB_DET,LeeSharpeNFL,36
-2021_18_GB_DET,lifelongJJ18fan,33
 2021_18_GB_DET,linsky,25
 2021_18_GB_DET,lousabad44,0
 2021_18_GB_DET,Market,36
@@ -84030,6 +84030,7 @@ game_id,screen_name,prediction
 2021_18_GB_DET,Yannismiu,11
 2021_18_GB_DET,YayySports,41
 2021_18_GB_DET,zweinberg18,34
+2021_18_TEN_HOU,,19
 2021_18_TEN_HOU,_alendowsky,20
 2021_18_TEN_HOU,_DH44_,51
 2021_18_TEN_HOU,_jclemons,25
@@ -84130,7 +84131,6 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,kohoanton,21
 2021_18_TEN_HOU,KryzivenTake2,24
 2021_18_TEN_HOU,LeeSharpeNFL,19
-2021_18_TEN_HOU,lifelongJJ18fan,19
 2021_18_TEN_HOU,linsky,39
 2021_18_TEN_HOU,lousabad44,0
 2021_18_TEN_HOU,Market,19
@@ -84210,6 +84210,7 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,Yannismiu,16
 2021_18_TEN_HOU,YayySports,19
 2021_18_TEN_HOU,zweinberg18,14
+2021_18_IND_JAX,,15
 2021_18_IND_JAX,_alendowsky,20
 2021_18_IND_JAX,_DH44_,40
 2021_18_IND_JAX,_jclemons,5
@@ -84310,7 +84311,6 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,kohoanton,12
 2021_18_IND_JAX,KryzivenTake2,15
 2021_18_IND_JAX,LeeSharpeNFL,18
-2021_18_IND_JAX,lifelongJJ18fan,15
 2021_18_IND_JAX,linsky,38
 2021_18_IND_JAX,lousabad44,0
 2021_18_IND_JAX,Market,13
@@ -84390,6 +84390,7 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,Yannismiu,2
 2021_18_IND_JAX,YayySports,11
 2021_18_IND_JAX,zweinberg18,30
+2021_18_CHI_MIN,,60
 2021_18_CHI_MIN,_alendowsky,53
 2021_18_CHI_MIN,_DH44_,49
 2021_18_CHI_MIN,_jclemons,45
@@ -84490,7 +84491,6 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,kohoanton,66
 2021_18_CHI_MIN,KryzivenTake2,55
 2021_18_CHI_MIN,LeeSharpeNFL,63
-2021_18_CHI_MIN,lifelongJJ18fan,60
 2021_18_CHI_MIN,linsky,65
 2021_18_CHI_MIN,lousabad44,100
 2021_18_CHI_MIN,Market,63
@@ -84570,6 +84570,7 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,Yannismiu,69
 2021_18_CHI_MIN,YayySports,68
 2021_18_CHI_MIN,zweinberg18,67
+2021_18_WAS_NYG,,25
 2021_18_WAS_NYG,_alendowsky,45
 2021_18_WAS_NYG,_DH44_,45
 2021_18_WAS_NYG,_jclemons,40
@@ -84670,7 +84671,6 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,kohoanton,27
 2021_18_WAS_NYG,KryzivenTake2,23
 2021_18_WAS_NYG,LeeSharpeNFL,32
-2021_18_WAS_NYG,lifelongJJ18fan,25
 2021_18_WAS_NYG,linsky,31
 2021_18_WAS_NYG,lousabad44,0
 2021_18_WAS_NYG,Market,32
@@ -84750,6 +84750,7 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,Yannismiu,22
 2021_18_WAS_NYG,YayySports,28
 2021_18_WAS_NYG,zweinberg18,26
+2021_18_SEA_ARI,,67
 2021_18_SEA_ARI,_alendowsky,55
 2021_18_SEA_ARI,_DH44_,60
 2021_18_SEA_ARI,_jclemons,60
@@ -84851,7 +84852,6 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,kohoanton,71
 2021_18_SEA_ARI,KryzivenTake2,67
 2021_18_SEA_ARI,LeeSharpeNFL,67
-2021_18_SEA_ARI,lifelongJJ18fan,67
 2021_18_SEA_ARI,linsky,75
 2021_18_SEA_ARI,lousabad44,100
 2021_18_SEA_ARI,Market,67
@@ -84931,6 +84931,7 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,Yannismiu,88
 2021_18_SEA_ARI,YayySports,68
 2021_18_SEA_ARI,zweinberg18,57
+2021_18_NO_ATL,,36
 2021_18_NO_ATL,_alendowsky,40
 2021_18_NO_ATL,_DH44_,43
 2021_18_NO_ATL,_jclemons,30
@@ -85032,7 +85033,6 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,kohoanton,37
 2021_18_NO_ATL,KryzivenTake2,30
 2021_18_NO_ATL,LeeSharpeNFL,35
-2021_18_NO_ATL,lifelongJJ18fan,36
 2021_18_NO_ATL,linsky,25
 2021_18_NO_ATL,lousabad44,0
 2021_18_NO_ATL,Market,34
@@ -85112,6 +85112,7 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,Yannismiu,81
 2021_18_NO_ATL,YayySports,33
 2021_18_NO_ATL,zweinberg18,44
+2021_18_NYJ_BUF,,86
 2021_18_NYJ_BUF,_alendowsky,55
 2021_18_NYJ_BUF,_DH44_,100
 2021_18_NYJ_BUF,_jclemons,95
@@ -85213,7 +85214,6 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,kohoanton,87
 2021_18_NYJ_BUF,KryzivenTake2,81
 2021_18_NYJ_BUF,LeeSharpeNFL,82
-2021_18_NYJ_BUF,lifelongJJ18fan,86
 2021_18_NYJ_BUF,linsky,84
 2021_18_NYJ_BUF,lousabad44,100
 2021_18_NYJ_BUF,Market,89
@@ -85293,6 +85293,7 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,Yannismiu,80
 2021_18_NYJ_BUF,YayySports,100
 2021_18_NYJ_BUF,zweinberg18,80
+2021_18_SF_LA,,61
 2021_18_SF_LA,_alendowsky,47
 2021_18_SF_LA,_DH44_,53
 2021_18_SF_LA,_jclemons,39
@@ -85394,7 +85395,6 @@ game_id,screen_name,prediction
 2021_18_SF_LA,kohoanton,65
 2021_18_SF_LA,KryzivenTake2,57
 2021_18_SF_LA,LeeSharpeNFL,64
-2021_18_SF_LA,lifelongJJ18fan,61
 2021_18_SF_LA,linsky,73
 2021_18_SF_LA,lousabad44,100
 2021_18_SF_LA,Market,61
@@ -85474,6 +85474,7 @@ game_id,screen_name,prediction
 2021_18_SF_LA,Yannismiu,74
 2021_18_SF_LA,YayySports,67
 2021_18_SF_LA,zweinberg18,70
+2021_18_NE_MIA,,25
 2021_18_NE_MIA,_alendowsky,30
 2021_18_NE_MIA,_DH44_,52
 2021_18_NE_MIA,_jclemons,12
@@ -85575,7 +85576,6 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,kohoanton,31
 2021_18_NE_MIA,KryzivenTake2,33
 2021_18_NE_MIA,LeeSharpeNFL,31
-2021_18_NE_MIA,lifelongJJ18fan,25
 2021_18_NE_MIA,linsky,17
 2021_18_NE_MIA,lousabad44,0
 2021_18_NE_MIA,Market,32
@@ -85655,6 +85655,7 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,Yannismiu,2
 2021_18_NE_MIA,YayySports,28
 2021_18_NE_MIA,zweinberg18,27
+2021_18_CAR_TB,,80
 2021_18_CAR_TB,_alendowsky,52
 2021_18_CAR_TB,_DH44_,100
 2021_18_CAR_TB,_jclemons,95
@@ -85756,7 +85757,6 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,kohoanton,76
 2021_18_CAR_TB,KryzivenTake2,81
 2021_18_CAR_TB,LeeSharpeNFL,79
-2021_18_CAR_TB,lifelongJJ18fan,80
 2021_18_CAR_TB,linsky,82
 2021_18_CAR_TB,lousabad44,100
 2021_18_CAR_TB,Market,80
@@ -85836,6 +85836,7 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,Yannismiu,83
 2021_18_CAR_TB,YayySports,90
 2021_18_CAR_TB,zweinberg18,71
+2021_18_LAC_LV,,41
 2021_18_LAC_LV,_alendowsky,35
 2021_18_LAC_LV,_DH44_,46
 2021_18_LAC_LV,_jclemons,23
@@ -85938,7 +85939,6 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,kohoanton,40
 2021_18_LAC_LV,KryzivenTake2,39
 2021_18_LAC_LV,LeeSharpeNFL,35
-2021_18_LAC_LV,lifelongJJ18fan,41
 2021_18_LAC_LV,linsky,25
 2021_18_LAC_LV,lousabad44,0
 2021_18_LAC_LV,Market,38
@@ -86019,6 +86019,7 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,Yannismiu,23
 2021_18_LAC_LV,YayySports,48
 2021_18_LAC_LV,zweinberg18,40
+2021_19_LV_CIN,,70
 2021_19_LV_CIN,__DavidOfficial,50
 2021_19_LV_CIN,_alendowsky,100
 2021_19_LV_CIN,_DH44_,51
@@ -86133,7 +86134,6 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,leeorbentovim,67
 2021_19_LV_CIN,LeeSharpeNFL,61
 2021_19_LV_CIN,LifeIsGr8M8,78
-2021_19_LV_CIN,lifelongJJ18fan,70
 2021_19_LV_CIN,linsky,71
 2021_19_LV_CIN,LJCpnw,50
 2021_19_LV_CIN,lousabad44,100
@@ -86240,6 +86240,7 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,Yannismiu,86
 2021_19_LV_CIN,YayySports,69
 2021_19_LV_CIN,yourtakeisdumb,47
+2021_19_NE_BUF,,69
 2021_19_NE_BUF,__DavidOfficial,50
 2021_19_NE_BUF,_alendowsky,100
 2021_19_NE_BUF,_DH44_,51
@@ -86355,7 +86356,6 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,leeorbentovim,73
 2021_19_NE_BUF,LeeSharpeNFL,57
 2021_19_NE_BUF,LifeIsGr8M8,61
-2021_19_NE_BUF,lifelongJJ18fan,69
 2021_19_NE_BUF,linsky,62
 2021_19_NE_BUF,LJCpnw,57
 2021_19_NE_BUF,lousabad44,0
@@ -86462,6 +86462,7 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,Yannismiu,2
 2021_19_NE_BUF,YayySports,66
 2021_19_NE_BUF,yourtakeisdumb,46
+2021_19_PHI_TB,,68
 2021_19_PHI_TB,__DavidOfficial,50
 2021_19_PHI_TB,_alendowsky,100
 2021_19_PHI_TB,_DH44_,69
@@ -86579,7 +86580,6 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,leeorbentovim,92
 2021_19_PHI_TB,LeeSharpeNFL,67
 2021_19_PHI_TB,LifeIsGr8M8,81
-2021_19_PHI_TB,lifelongJJ18fan,68
 2021_19_PHI_TB,linsky,79
 2021_19_PHI_TB,LJCpnw,85
 2021_19_PHI_TB,lousabad44,100
@@ -86688,6 +86688,7 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,Yannismiu,87
 2021_19_PHI_TB,YayySports,72
 2021_19_PHI_TB,yourtakeisdumb,75
+2021_19_SF_DAL,,65
 2021_19_SF_DAL,__DavidOfficial,50
 2021_19_SF_DAL,_alendowsky,100
 2021_19_SF_DAL,_DH44_,55
@@ -86805,7 +86806,6 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,leeorbentovim,58
 2021_19_SF_DAL,LeeSharpeNFL,54
 2021_19_SF_DAL,LifeIsGr8M8,74
-2021_19_SF_DAL,lifelongJJ18fan,65
 2021_19_SF_DAL,linsky,70
 2021_19_SF_DAL,LJCpnw,50
 2021_19_SF_DAL,lousabad44,100
@@ -86914,6 +86914,7 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,Yannismiu,46
 2021_19_SF_DAL,YayySports,68
 2021_19_SF_DAL,yourtakeisdumb,56
+2021_19_PIT_KC,,100
 2021_19_PIT_KC,__DavidOfficial,50
 2021_19_PIT_KC,_alendowsky,100
 2021_19_PIT_KC,_DH44_,100
@@ -87033,7 +87034,6 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,leeorbentovim,100
 2021_19_PIT_KC,LeeSharpeNFL,78
 2021_19_PIT_KC,LifeIsGr8M8,98
-2021_19_PIT_KC,lifelongJJ18fan,100
 2021_19_PIT_KC,linsky,84
 2021_19_PIT_KC,LJCpnw,50
 2021_19_PIT_KC,lousabad44,100
@@ -87142,6 +87142,7 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,Yannismiu,88
 2021_19_PIT_KC,YayySports,84
 2021_19_PIT_KC,yourtakeisdumb,97
+2021_19_ARI_LA,,73
 2021_19_ARI_LA,__DavidOfficial,50
 2021_19_ARI_LA,_alendowsky,100
 2021_19_ARI_LA,_DH44_,51
@@ -87263,7 +87264,6 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,leeorbentovim,42
 2021_19_ARI_LA,LeeSharpeNFL,60
 2021_19_ARI_LA,LifeIsGr8M8,34
-2021_19_ARI_LA,lifelongJJ18fan,73
 2021_19_ARI_LA,linsky,74
 2021_19_ARI_LA,LJCpnw,50
 2021_19_ARI_LA,lousabad44,100
@@ -87372,6 +87372,7 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,Yannismiu,43
 2021_19_ARI_LA,YayySports,50
 2021_19_ARI_LA,yourtakeisdumb,63
+2021_20_CIN_TEN,,57
 2021_20_CIN_TEN,_alendowsky,0
 2021_20_CIN_TEN,_DH44_,50
 2021_20_CIN_TEN,_johnO2,100
@@ -87466,7 +87467,6 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,LeeSharpeNFL,75
 2021_20_CIN_TEN,Legendary24_7,100
 2021_20_CIN_TEN,Lemmon_19,43
-2021_20_CIN_TEN,lifelongJJ18fan,57
 2021_20_CIN_TEN,lolnaca,50
 2021_20_CIN_TEN,Market,64
 2021_20_CIN_TEN,mattglen_,45
@@ -87547,6 +87547,7 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,WorryingGnome14,60
 2021_20_CIN_TEN,WS_JakeT,64
 2021_20_CIN_TEN,YayySports,54
+2021_20_SF_GB,,68
 2021_20_SF_GB,_alendowsky,100
 2021_20_SF_GB,_DH44_,50
 2021_20_SF_GB,_jclemons,58
@@ -87643,7 +87644,6 @@ game_id,screen_name,prediction
 2021_20_SF_GB,LeeSharpeNFL,62
 2021_20_SF_GB,Legendary24_7,100
 2021_20_SF_GB,Lemmon_19,75
-2021_20_SF_GB,lifelongJJ18fan,68
 2021_20_SF_GB,lolnaca,50
 2021_20_SF_GB,Market,70
 2021_20_SF_GB,mattglen_,65
@@ -87726,6 +87726,7 @@ game_id,screen_name,prediction
 2021_20_SF_GB,WorryingGnome14,54
 2021_20_SF_GB,WS_JakeT,75
 2021_20_SF_GB,YayySports,66
+2021_20_LA_TB,,60
 2021_20_LA_TB,_alendowsky,100
 2021_20_LA_TB,_DH44_,50
 2021_20_LA_TB,_jclemons,42
@@ -87828,7 +87829,6 @@ game_id,screen_name,prediction
 2021_20_LA_TB,LeeSharpeNFL,52
 2021_20_LA_TB,Legendary24_7,0
 2021_20_LA_TB,Lemmon_19,65
-2021_20_LA_TB,lifelongJJ18fan,60
 2021_20_LA_TB,lolnaca,50
 2021_20_LA_TB,Market,58
 2021_20_LA_TB,mattglen_,55
@@ -87912,6 +87912,7 @@ game_id,screen_name,prediction
 2021_20_LA_TB,WorryingGnome14,47
 2021_20_LA_TB,WS_JakeT,45
 2021_20_LA_TB,YayySports,64
+2021_20_BUF_KC,,53
 2021_20_BUF_KC,_alendowsky,0
 2021_20_BUF_KC,_DH44_,50
 2021_20_BUF_KC,_jclemons,42
@@ -88015,7 +88016,6 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,LeeSharpeNFL,50
 2021_20_BUF_KC,Legendary24_7,100
 2021_20_BUF_KC,Lemmon_19,39
-2021_20_BUF_KC,lifelongJJ18fan,53
 2021_20_BUF_KC,lolnaca,50
 2021_20_BUF_KC,Market,56
 2021_20_BUF_KC,mattglen_,55
@@ -88100,6 +88100,7 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,WS_JakeT,49
 2021_20_BUF_KC,WunderBoyzBlog,50
 2021_20_BUF_KC,YayySports,50
+2021_21_CIN_KC,,77
 2021_21_CIN_KC,_alendowsky,100
 2021_21_CIN_KC,_jclemons,64
 2021_21_CIN_KC,_johnO2,100
@@ -88184,7 +88185,6 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,kohoanton,100
 2021_21_CIN_KC,KryzivenTake2,100
 2021_21_CIN_KC,LeeSharpeNFL,68
-2021_21_CIN_KC,lifelongJJ18fan,77
 2021_21_CIN_KC,linsky,90
 2021_21_CIN_KC,Market,73
 2021_21_CIN_KC,mattglen_,48
@@ -88250,6 +88250,7 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,WS_JakeT,80
 2021_21_CIN_KC,Yannismiu,1
 2021_21_CIN_KC,YayySports,75
+2021_21_SF_LA,,63
 2021_21_SF_LA,_alendowsky,100
 2021_21_SF_LA,_jclemons,44
 2021_21_SF_LA,_johnO2,100
@@ -88335,7 +88336,6 @@ game_id,screen_name,prediction
 2021_21_SF_LA,kohoanton,0
 2021_21_SF_LA,KryzivenTake2,100
 2021_21_SF_LA,LeeSharpeNFL,59
-2021_21_SF_LA,lifelongJJ18fan,63
 2021_21_SF_LA,linsky,55
 2021_21_SF_LA,Market,62
 2021_21_SF_LA,mattglen_,52
@@ -88405,6 +88405,7 @@ game_id,screen_name,prediction
 2021_21_SF_LA,WunderBoyzBlog,50
 2021_21_SF_LA,Yannismiu,99
 2021_21_SF_LA,YayySports,64
+2021_22_LA_CIN,,41
 2021_22_LA_CIN,__DavidOfficial,50
 2021_22_LA_CIN,_alendowsky,0
 2021_22_LA_CIN,_jclemons,46
@@ -88484,7 +88485,6 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,KnifeToe,54
 2021_22_LA_CIN,KryzivenTake2,100
 2021_22_LA_CIN,LeeSharpeNFL,44
-2021_22_LA_CIN,lifelongJJ18fan,41
 2021_22_LA_CIN,linsky,24
 2021_22_LA_CIN,Market,37
 2021_22_LA_CIN,marta_ryan,50
@@ -88554,6 +88554,7 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,WS_JakeT,43
 2021_22_LA_CIN,Yannismiu,100
 2021_22_LA_CIN,YayySports,31
+2022_01_BUF_LA,,42
 2022_01_BUF_LA,_alendowsky,45
 2022_01_BUF_LA,_daddy_butter,50
 2022_01_BUF_LA,_DH44_,55
@@ -88824,7 +88825,6 @@ game_id,screen_name,prediction
 2022_01_BUF_LA,liamtully23,50
 2022_01_BUF_LA,Life4Viking,50
 2022_01_BUF_LA,LifeIsGr8M8,35
-2022_01_BUF_LA,lifelongJJ18fan,42
 2022_01_BUF_LA,LocateAPS5,53
 2022_01_BUF_LA,Loki1048Murillo,34
 2022_01_BUF_LA,lolnaca,50
