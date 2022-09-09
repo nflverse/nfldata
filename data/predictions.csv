@@ -12446,8 +12446,8 @@ game_id,screen_name,prediction
 2021_02_HOU_CLE,zackry_mc,100
 2021_02_HOU_CLE,zacwest91,76
 2021_02_HOU_CLE,zweinberg18,60
-2021_02_LA_IND,,41
 2021_02_LA_IND,,30
+2021_02_LA_IND,,41
 2021_02_LA_IND,__DavidOfficial,30
 2021_02_LA_IND,_DH44_,29
 2021_02_LA_IND,_jclemons,45
@@ -14178,8 +14178,8 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,zackry_mc,0
 2021_02_NE_NYJ,zacwest91,43
 2021_02_NE_NYJ,zweinberg18,45
-2021_02_SF_PHI,,61
 2021_02_SF_PHI,,47
+2021_02_SF_PHI,,61
 2021_02_SF_PHI,__DavidOfficial,40
 2021_02_SF_PHI,_DH44_,22
 2021_02_SF_PHI,_jclemons,44
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,62
 2021_02_MIN_ARI,,61
+2021_02_MIN_ARI,,62
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -16780,8 +16780,8 @@ game_id,screen_name,prediction
 2021_02_TEN_SEA,zackry_mc,81
 2021_02_TEN_SEA,zacwest91,76
 2021_02_TEN_SEA,zweinberg18,58
-2021_02_KC_BAL,,19
 2021_02_KC_BAL,,43
+2021_02_KC_BAL,,19
 2021_02_KC_BAL,__DavidOfficial,45
 2021_02_KC_BAL,_DH44_,51
 2021_02_KC_BAL,_jclemons,38
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,70
 2021_02_DET_GB,,38
+2021_02_DET_GB,,70
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -17992,8 +17992,8 @@ game_id,screen_name,prediction
 2021_03_CAR_HOU,YayySports,29
 2021_03_CAR_HOU,zackry_mc,50
 2021_03_CAR_HOU,zweinberg18,10
-2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,,45
+2021_03_WAS_BUF,,50
 2021_03_WAS_BUF,__DavidOfficial,75
 2021_03_WAS_BUF,_alendowsky,60
 2021_03_WAS_BUF,_DH44_,61
@@ -18367,8 +18367,8 @@ game_id,screen_name,prediction
 2021_03_WAS_BUF,YayySports,78
 2021_03_WAS_BUF,zackry_mc,100
 2021_03_WAS_BUF,zweinberg18,68
-2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,,50
+2021_03_CHI_CLE,,63
 2021_03_CHI_CLE,__DavidOfficial,60
 2021_03_CHI_CLE,_alendowsky,53
 2021_03_CHI_CLE,_DH44_,57
@@ -22124,8 +22124,8 @@ game_id,screen_name,prediction
 2021_03_MIA_LV,YayySports,67
 2021_03_MIA_LV,zackry_mc,100
 2021_03_MIA_LV,zweinberg18,65
-2021_03_TB_LA,,50
 2021_03_TB_LA,,64
+2021_03_TB_LA,,50
 2021_03_TB_LA,__DavidOfficial,40
 2021_03_TB_LA,_alendowsky,52
 2021_03_TB_LA,_DH44_,50
@@ -72935,7 +72935,6 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,ben_dietch,74
 2021_14_CHI_GB,benbbaldwin,84
 2021_14_CHI_GB,benj_robinson,81
-2021_14_CHI_GB,blackmcvay,50
 2021_14_CHI_GB,BlakeTAtkinson,78
 2021_14_CHI_GB,BobTheSarcastic,50
 2021_14_CHI_GB,brendan_nfl,88
@@ -72995,6 +72994,7 @@ game_id,screen_name,prediction
 2021_14_CHI_GB,greerreNFL,84
 2021_14_CHI_GB,GridInsights,50
 2021_14_CHI_GB,gshelor,98
+2021_14_CHI_GB,halfblackmcvay,50
 2021_14_CHI_GB,henrygise,80
 2021_14_CHI_GB,htennis98,50
 2021_14_CHI_GB,IAM_B_Rad,77
@@ -73165,7 +73165,6 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,ben_dietch,68
 2021_14_LA_ARI,benbbaldwin,59
 2021_14_LA_ARI,benj_robinson,56
-2021_14_LA_ARI,blackmcvay,48
 2021_14_LA_ARI,BlakeTAtkinson,60
 2021_14_LA_ARI,BobTheSarcastic,50
 2021_14_LA_ARI,brendan_nfl,58
@@ -73225,6 +73224,7 @@ game_id,screen_name,prediction
 2021_14_LA_ARI,greerreNFL,51
 2021_14_LA_ARI,GridInsights,50
 2021_14_LA_ARI,gshelor,92
+2021_14_LA_ARI,halfblackmcvay,48
 2021_14_LA_ARI,henrygise,68
 2021_14_LA_ARI,htennis98,50
 2021_14_LA_ARI,IAM_B_Rad,56
@@ -73390,7 +73390,6 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,BearlyAnalytics,23
 2021_15_KC_LAC,benbbaldwin,33
 2021_15_KC_LAC,benj_robinson,42
-2021_15_KC_LAC,blackmcvay,63
 2021_15_KC_LAC,BlakeTAtkinson,54
 2021_15_KC_LAC,brendan_nfl,42
 2021_15_KC_LAC,BRotoFFCasanova,35
@@ -73443,6 +73442,7 @@ game_id,screen_name,prediction
 2021_15_KC_LAC,greerreNFL,38
 2021_15_KC_LAC,GridInsights,50
 2021_15_KC_LAC,gshelor,11
+2021_15_KC_LAC,halfblackmcvay,63
 2021_15_KC_LAC,htennis98,50
 2021_15_KC_LAC,ishep123,42
 2021_15_KC_LAC,j_druzzi,42
@@ -73587,7 +73587,6 @@ game_id,screen_name,prediction
 2021_15_NE_IND,BearlyAnalytics,50
 2021_15_NE_IND,benbbaldwin,55
 2021_15_NE_IND,benj_robinson,53
-2021_15_NE_IND,blackmcvay,55
 2021_15_NE_IND,BlakeTAtkinson,57
 2021_15_NE_IND,brendan_nfl,46
 2021_15_NE_IND,BRotoFFCasanova,45
@@ -73644,6 +73643,7 @@ game_id,screen_name,prediction
 2021_15_NE_IND,GridInsights,50
 2021_15_NE_IND,gshelor,10
 2021_15_NE_IND,hagearty20,0
+2021_15_NE_IND,halfblackmcvay,55
 2021_15_NE_IND,henrygise,56
 2021_15_NE_IND,htennis98,50
 2021_15_NE_IND,ishep123,55
@@ -73800,7 +73800,6 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,BearlyAnalytics,50
 2021_15_CAR_BUF,benbbaldwin,84
 2021_15_CAR_BUF,benj_robinson,77
-2021_15_CAR_BUF,blackmcvay,78
 2021_15_CAR_BUF,BlakeTAtkinson,82
 2021_15_CAR_BUF,brendan_nfl,78
 2021_15_CAR_BUF,BRotoFFCasanova,77
@@ -73857,6 +73856,7 @@ game_id,screen_name,prediction
 2021_15_CAR_BUF,GridInsights,50
 2021_15_CAR_BUF,gshelor,96
 2021_15_CAR_BUF,hagearty20,100
+2021_15_CAR_BUF,halfblackmcvay,78
 2021_15_CAR_BUF,henrygise,78
 2021_15_CAR_BUF,htennis98,50
 2021_15_CAR_BUF,hzinop91,38
@@ -74015,7 +74015,6 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,BearlyAnalytics,50
 2021_15_ARI_DET,benbbaldwin,15
 2021_15_ARI_DET,benj_robinson,11
-2021_15_ARI_DET,blackmcvay,22
 2021_15_ARI_DET,BlakeTAtkinson,18
 2021_15_ARI_DET,brendan_nfl,16
 2021_15_ARI_DET,BRotoFFCasanova,13
@@ -74072,6 +74071,7 @@ game_id,screen_name,prediction
 2021_15_ARI_DET,GridInsights,50
 2021_15_ARI_DET,gshelor,3
 2021_15_ARI_DET,hagearty20,10
+2021_15_ARI_DET,halfblackmcvay,22
 2021_15_ARI_DET,henrygise,20
 2021_15_ARI_DET,htennis98,50
 2021_15_ARI_DET,hzinop91,65
@@ -74230,7 +74230,6 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,BearlyAnalytics,50
 2021_15_HOU_JAX,benbbaldwin,69
 2021_15_HOU_JAX,benj_robinson,56
-2021_15_HOU_JAX,blackmcvay,68
 2021_15_HOU_JAX,BlakeTAtkinson,42
 2021_15_HOU_JAX,brendan_nfl,55
 2021_15_HOU_JAX,BRotoFFCasanova,59
@@ -74287,6 +74286,7 @@ game_id,screen_name,prediction
 2021_15_HOU_JAX,GridInsights,50
 2021_15_HOU_JAX,gshelor,45
 2021_15_HOU_JAX,hagearty20,46
+2021_15_HOU_JAX,halfblackmcvay,68
 2021_15_HOU_JAX,henrygise,65
 2021_15_HOU_JAX,htennis98,50
 2021_15_HOU_JAX,hzinop91,45
@@ -74445,7 +74445,6 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,BearlyAnalytics,50
 2021_15_NYJ_MIA,benbbaldwin,79
 2021_15_NYJ_MIA,benj_robinson,75
-2021_15_NYJ_MIA,blackmcvay,80
 2021_15_NYJ_MIA,BlakeTAtkinson,74
 2021_15_NYJ_MIA,brendan_nfl,70
 2021_15_NYJ_MIA,BRotoFFCasanova,67
@@ -74502,6 +74501,7 @@ game_id,screen_name,prediction
 2021_15_NYJ_MIA,GridInsights,50
 2021_15_NYJ_MIA,gshelor,75
 2021_15_NYJ_MIA,hagearty20,58
+2021_15_NYJ_MIA,halfblackmcvay,80
 2021_15_NYJ_MIA,henrygise,66
 2021_15_NYJ_MIA,htennis98,50
 2021_15_NYJ_MIA,hzinop91,34
@@ -74660,7 +74660,6 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,BearlyAnalytics,50
 2021_15_DAL_NYG,benbbaldwin,19
 2021_15_DAL_NYG,benj_robinson,16
-2021_15_DAL_NYG,blackmcvay,31
 2021_15_DAL_NYG,BlakeTAtkinson,24
 2021_15_DAL_NYG,brendan_nfl,23
 2021_15_DAL_NYG,BRotoFFCasanova,16
@@ -74717,6 +74716,7 @@ game_id,screen_name,prediction
 2021_15_DAL_NYG,GridInsights,50
 2021_15_DAL_NYG,gshelor,12
 2021_15_DAL_NYG,hagearty20,0
+2021_15_DAL_NYG,halfblackmcvay,31
 2021_15_DAL_NYG,henrygise,20
 2021_15_DAL_NYG,htennis98,50
 2021_15_DAL_NYG,hzinop91,61
@@ -74875,7 +74875,6 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,BearlyAnalytics,50
 2021_15_TEN_PIT,benbbaldwin,51
 2021_15_TEN_PIT,benj_robinson,49
-2021_15_TEN_PIT,blackmcvay,42
 2021_15_TEN_PIT,BlakeTAtkinson,33
 2021_15_TEN_PIT,brendan_nfl,41
 2021_15_TEN_PIT,BRotoFFCasanova,50
@@ -74932,6 +74931,7 @@ game_id,screen_name,prediction
 2021_15_TEN_PIT,GridInsights,50
 2021_15_TEN_PIT,gshelor,24
 2021_15_TEN_PIT,hagearty20,25
+2021_15_TEN_PIT,halfblackmcvay,42
 2021_15_TEN_PIT,henrygise,40
 2021_15_TEN_PIT,htennis98,50
 2021_15_TEN_PIT,hzinop91,49
@@ -75090,7 +75090,6 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,BearlyAnalytics,50
 2021_15_CIN_DEN,benbbaldwin,52
 2021_15_CIN_DEN,benj_robinson,47
-2021_15_CIN_DEN,blackmcvay,53
 2021_15_CIN_DEN,BlakeTAtkinson,41
 2021_15_CIN_DEN,brendan_nfl,48
 2021_15_CIN_DEN,BRotoFFCasanova,57
@@ -75147,6 +75146,7 @@ game_id,screen_name,prediction
 2021_15_CIN_DEN,GridInsights,50
 2021_15_CIN_DEN,gshelor,39
 2021_15_CIN_DEN,hagearty20,71
+2021_15_CIN_DEN,halfblackmcvay,53
 2021_15_CIN_DEN,henrygise,35
 2021_15_CIN_DEN,htennis98,50
 2021_15_CIN_DEN,hzinop91,50
@@ -75307,7 +75307,6 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,BearlyAnalytics,50
 2021_15_ATL_SF,benbbaldwin,77
 2021_15_ATL_SF,benj_robinson,74
-2021_15_ATL_SF,blackmcvay,72
 2021_15_ATL_SF,BlakeTAtkinson,74
 2021_15_ATL_SF,brendan_nfl,71
 2021_15_ATL_SF,BRotoFFCasanova,57
@@ -75364,6 +75363,7 @@ game_id,screen_name,prediction
 2021_15_ATL_SF,GridInsights,50
 2021_15_ATL_SF,gshelor,80
 2021_15_ATL_SF,hagearty20,75
+2021_15_ATL_SF,halfblackmcvay,72
 2021_15_ATL_SF,henrygise,50
 2021_15_ATL_SF,htennis98,50
 2021_15_ATL_SF,hzinop91,50
@@ -75524,7 +75524,6 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,BearlyAnalytics,50
 2021_15_GB_BAL,benbbaldwin,12
 2021_15_GB_BAL,benj_robinson,36
-2021_15_GB_BAL,blackmcvay,23
 2021_15_GB_BAL,BlakeTAtkinson,21
 2021_15_GB_BAL,brendan_nfl,38
 2021_15_GB_BAL,BRotoFFCasanova,40
@@ -75581,6 +75580,7 @@ game_id,screen_name,prediction
 2021_15_GB_BAL,GridInsights,50
 2021_15_GB_BAL,gshelor,52
 2021_15_GB_BAL,hagearty20,24
+2021_15_GB_BAL,halfblackmcvay,23
 2021_15_GB_BAL,henrygise,45
 2021_15_GB_BAL,htennis98,50
 2021_15_GB_BAL,hzinop91,50
@@ -75741,7 +75741,6 @@ game_id,screen_name,prediction
 2021_15_NO_TB,BearlyAnalytics,50
 2021_15_NO_TB,benbbaldwin,81
 2021_15_NO_TB,benj_robinson,78
-2021_15_NO_TB,blackmcvay,80
 2021_15_NO_TB,BlakeTAtkinson,80
 2021_15_NO_TB,brendan_nfl,77
 2021_15_NO_TB,BRotoFFCasanova,78
@@ -75798,6 +75797,7 @@ game_id,screen_name,prediction
 2021_15_NO_TB,GridInsights,50
 2021_15_NO_TB,gshelor,98
 2021_15_NO_TB,hagearty20,100
+2021_15_NO_TB,halfblackmcvay,80
 2021_15_NO_TB,henrygise,80
 2021_15_NO_TB,htennis98,50
 2021_15_NO_TB,hzinop91,50
@@ -75959,7 +75959,6 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,BearlyAnalytics,50
 2021_15_LV_CLE,benbbaldwin,42
 2021_15_LV_CLE,benj_robinson,39
-2021_15_LV_CLE,blackmcvay,37
 2021_15_LV_CLE,BlakeTAtkinson,58
 2021_15_LV_CLE,brendan_nfl,40
 2021_15_LV_CLE,BRotoFFCasanova,59
@@ -76018,6 +76017,7 @@ game_id,screen_name,prediction
 2021_15_LV_CLE,GridInsights,50
 2021_15_LV_CLE,gshelor,88
 2021_15_LV_CLE,hagearty20,59
+2021_15_LV_CLE,halfblackmcvay,37
 2021_15_LV_CLE,henrygise,35
 2021_15_LV_CLE,htennis98,50
 2021_15_LV_CLE,hzinop91,50
@@ -76180,7 +76180,6 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,BearlyAnalytics,50
 2021_15_MIN_CHI,benbbaldwin,28
 2021_15_MIN_CHI,benj_robinson,32
-2021_15_MIN_CHI,blackmcvay,41
 2021_15_MIN_CHI,BlakeTAtkinson,32
 2021_15_MIN_CHI,brendan_nfl,42
 2021_15_MIN_CHI,BRotoFFCasanova,27
@@ -76239,6 +76238,7 @@ game_id,screen_name,prediction
 2021_15_MIN_CHI,GridInsights,50
 2021_15_MIN_CHI,gshelor,4
 2021_15_MIN_CHI,hagearty20,26
+2021_15_MIN_CHI,halfblackmcvay,41
 2021_15_MIN_CHI,henrygise,44
 2021_15_MIN_CHI,htennis98,50
 2021_15_MIN_CHI,hzinop91,50
@@ -76402,7 +76402,6 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,BearlyAnalytics,50
 2021_15_SEA_LA,benbbaldwin,76
 2021_15_SEA_LA,benj_robinson,68
-2021_15_SEA_LA,blackmcvay,82
 2021_15_SEA_LA,BlakeTAtkinson,76
 2021_15_SEA_LA,brendan_nfl,68
 2021_15_SEA_LA,BRotoFFCasanova,70
@@ -76461,6 +76460,7 @@ game_id,screen_name,prediction
 2021_15_SEA_LA,GridInsights,50
 2021_15_SEA_LA,gshelor,64
 2021_15_SEA_LA,hagearty20,100
+2021_15_SEA_LA,halfblackmcvay,82
 2021_15_SEA_LA,henrygise,57
 2021_15_SEA_LA,htennis98,50
 2021_15_SEA_LA,hzinop91,50
@@ -76624,7 +76624,6 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,BearlyAnalytics,50
 2021_15_WAS_PHI,benbbaldwin,80
 2021_15_WAS_PHI,benj_robinson,69
-2021_15_WAS_PHI,blackmcvay,71
 2021_15_WAS_PHI,BlakeTAtkinson,68
 2021_15_WAS_PHI,brendan_nfl,65
 2021_15_WAS_PHI,BRotoFFCasanova,65
@@ -76683,6 +76682,7 @@ game_id,screen_name,prediction
 2021_15_WAS_PHI,GridInsights,50
 2021_15_WAS_PHI,gshelor,41
 2021_15_WAS_PHI,hagearty20,50
+2021_15_WAS_PHI,halfblackmcvay,71
 2021_15_WAS_PHI,henrygise,80
 2021_15_WAS_PHI,htennis98,50
 2021_15_WAS_PHI,hzinop91,50
@@ -76841,7 +76841,6 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,ben_dietch,40
 2021_16_SF_TEN,benbbaldwin,38
 2021_16_SF_TEN,benj_robinson,42
-2021_16_SF_TEN,blackmcvay,50
 2021_16_SF_TEN,BlakeTAtkinson,44
 2021_16_SF_TEN,brendan_nfl,41
 2021_16_SF_TEN,BRotoFFCasanova,32
@@ -76886,6 +76885,7 @@ game_id,screen_name,prediction
 2021_16_SF_TEN,godin_jon,40
 2021_16_SF_TEN,goldencane14,25
 2021_16_SF_TEN,greerreNFL,38
+2021_16_SF_TEN,halfblackmcvay,50
 2021_16_SF_TEN,htennis98,50
 2021_16_SF_TEN,ishep123,54
 2021_16_SF_TEN,Ivanxcky,42
@@ -77023,7 +77023,6 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,ben_dietch,79
 2021_16_CLE_GB,benbbaldwin,75
 2021_16_CLE_GB,benj_robinson,72
-2021_16_CLE_GB,blackmcvay,67
 2021_16_CLE_GB,BlakeTAtkinson,72
 2021_16_CLE_GB,brendan_nfl,71
 2021_16_CLE_GB,BRotoFFCasanova,66
@@ -77069,6 +77068,7 @@ game_id,screen_name,prediction
 2021_16_CLE_GB,godin_jon,85
 2021_16_CLE_GB,goldencane14,76
 2021_16_CLE_GB,greerreNFL,76
+2021_16_CLE_GB,halfblackmcvay,67
 2021_16_CLE_GB,htennis98,50
 2021_16_CLE_GB,ishep123,78
 2021_16_CLE_GB,Ivanxcky,80
@@ -77209,7 +77209,6 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,ben_dietch,59
 2021_16_IND_ARI,benbbaldwin,57
 2021_16_IND_ARI,benj_robinson,48
-2021_16_IND_ARI,blackmcvay,52
 2021_16_IND_ARI,BlakeTAtkinson,59
 2021_16_IND_ARI,brendan_nfl,46
 2021_16_IND_ARI,BRotoFFCasanova,67
@@ -77255,6 +77254,7 @@ game_id,screen_name,prediction
 2021_16_IND_ARI,godin_jon,46
 2021_16_IND_ARI,goldencane14,79
 2021_16_IND_ARI,greerreNFL,51
+2021_16_IND_ARI,halfblackmcvay,52
 2021_16_IND_ARI,htennis98,50
 2021_16_IND_ARI,ishep123,58
 2021_16_IND_ARI,Ivanxcky,48
@@ -77397,7 +77397,6 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,ben_dietch,36
 2021_16_DET_ATL,benbbaldwin,76
 2021_16_DET_ATL,benj_robinson,60
-2021_16_DET_ATL,blackmcvay,68
 2021_16_DET_ATL,BlakeTAtkinson,43
 2021_16_DET_ATL,brendan_nfl,80
 2021_16_DET_ATL,BRotoFFCasanova,79
@@ -77445,6 +77444,7 @@ game_id,screen_name,prediction
 2021_16_DET_ATL,godin_jon,70
 2021_16_DET_ATL,goldencane14,68
 2021_16_DET_ATL,greerreNFL,72
+2021_16_DET_ATL,halfblackmcvay,68
 2021_16_DET_ATL,htennis98,50
 2021_16_DET_ATL,ishep123,85
 2021_16_DET_ATL,Ivanxcky,48
@@ -77590,7 +77590,6 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,ben_dietch,30
 2021_16_TB_CAR,benbbaldwin,19
 2021_16_TB_CAR,benj_robinson,26
-2021_16_TB_CAR,blackmcvay,42
 2021_16_TB_CAR,BlakeTAtkinson,26
 2021_16_TB_CAR,brendan_nfl,23
 2021_16_TB_CAR,BRotoFFCasanova,16
@@ -77638,6 +77637,7 @@ game_id,screen_name,prediction
 2021_16_TB_CAR,godin_jon,15
 2021_16_TB_CAR,goldencane14,21
 2021_16_TB_CAR,greerreNFL,18
+2021_16_TB_CAR,halfblackmcvay,42
 2021_16_TB_CAR,htennis98,50
 2021_16_TB_CAR,ishep123,16
 2021_16_TB_CAR,Ivanxcky,25
@@ -77783,7 +77783,6 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,ben_dietch,43
 2021_16_BAL_CIN,benbbaldwin,73
 2021_16_BAL_CIN,benj_robinson,64
-2021_16_BAL_CIN,blackmcvay,72
 2021_16_BAL_CIN,BlakeTAtkinson,75
 2021_16_BAL_CIN,brendan_nfl,80
 2021_16_BAL_CIN,BRotoFFCasanova,45
@@ -77831,6 +77830,7 @@ game_id,screen_name,prediction
 2021_16_BAL_CIN,godin_jon,60
 2021_16_BAL_CIN,goldencane14,66
 2021_16_BAL_CIN,greerreNFL,70
+2021_16_BAL_CIN,halfblackmcvay,72
 2021_16_BAL_CIN,htennis98,50
 2021_16_BAL_CIN,ishep123,60
 2021_16_BAL_CIN,Ivanxcky,52
@@ -77976,7 +77976,6 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,ben_dietch,27
 2021_16_LAC_HOU,benbbaldwin,16
 2021_16_LAC_HOU,benj_robinson,26
-2021_16_LAC_HOU,blackmcvay,22
 2021_16_LAC_HOU,BlakeTAtkinson,24
 2021_16_LAC_HOU,brendan_nfl,9
 2021_16_LAC_HOU,BRotoFFCasanova,17
@@ -78024,6 +78023,7 @@ game_id,screen_name,prediction
 2021_16_LAC_HOU,godin_jon,5
 2021_16_LAC_HOU,goldencane14,20
 2021_16_LAC_HOU,greerreNFL,15
+2021_16_LAC_HOU,halfblackmcvay,22
 2021_16_LAC_HOU,htennis98,50
 2021_16_LAC_HOU,ishep123,13
 2021_16_LAC_HOU,Ivanxcky,30
@@ -78169,7 +78169,6 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,ben_dietch,34
 2021_16_LA_MIN,benbbaldwin,40
 2021_16_LA_MIN,benj_robinson,43
-2021_16_LA_MIN,blackmcvay,41
 2021_16_LA_MIN,BlakeTAtkinson,37
 2021_16_LA_MIN,brendan_nfl,36
 2021_16_LA_MIN,BRotoFFCasanova,32
@@ -78217,6 +78216,7 @@ game_id,screen_name,prediction
 2021_16_LA_MIN,godin_jon,25
 2021_16_LA_MIN,goldencane14,37
 2021_16_LA_MIN,greerreNFL,35
+2021_16_LA_MIN,halfblackmcvay,41
 2021_16_LA_MIN,htennis98,50
 2021_16_LA_MIN,ishep123,43
 2021_16_LA_MIN,Ivanxcky,46
@@ -78362,7 +78362,6 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,ben_dietch,68
 2021_16_BUF_NE,benbbaldwin,48
 2021_16_BUF_NE,benj_robinson,52
-2021_16_BUF_NE,blackmcvay,69
 2021_16_BUF_NE,BlakeTAtkinson,38
 2021_16_BUF_NE,brendan_nfl,42
 2021_16_BUF_NE,BRotoFFCasanova,46
@@ -78410,6 +78409,7 @@ game_id,screen_name,prediction
 2021_16_BUF_NE,godin_jon,49
 2021_16_BUF_NE,goldencane14,55
 2021_16_BUF_NE,greerreNFL,49
+2021_16_BUF_NE,halfblackmcvay,69
 2021_16_BUF_NE,htennis98,50
 2021_16_BUF_NE,ishep123,45
 2021_16_BUF_NE,Ivanxcky,45
@@ -78555,7 +78555,6 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,ben_dietch,45
 2021_16_JAX_NYJ,benbbaldwin,54
 2021_16_JAX_NYJ,benj_robinson,53
-2021_16_JAX_NYJ,blackmcvay,58
 2021_16_JAX_NYJ,BlakeTAtkinson,61
 2021_16_JAX_NYJ,brendan_nfl,50
 2021_16_JAX_NYJ,BRotoFFCasanova,49
@@ -78603,6 +78602,7 @@ game_id,screen_name,prediction
 2021_16_JAX_NYJ,godin_jon,55
 2021_16_JAX_NYJ,goldencane14,50
 2021_16_JAX_NYJ,greerreNFL,52
+2021_16_JAX_NYJ,halfblackmcvay,58
 2021_16_JAX_NYJ,htennis98,50
 2021_16_JAX_NYJ,ishep123,57
 2021_16_JAX_NYJ,Ivanxcky,52
@@ -78748,7 +78748,6 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,ben_dietch,61
 2021_16_NYG_PHI,benbbaldwin,81
 2021_16_NYG_PHI,benj_robinson,75
-2021_16_NYG_PHI,blackmcvay,80
 2021_16_NYG_PHI,BlakeTAtkinson,73
 2021_16_NYG_PHI,brendan_nfl,72
 2021_16_NYG_PHI,BRotoFFCasanova,70
@@ -78796,6 +78795,7 @@ game_id,screen_name,prediction
 2021_16_NYG_PHI,godin_jon,85
 2021_16_NYG_PHI,goldencane14,79
 2021_16_NYG_PHI,greerreNFL,80
+2021_16_NYG_PHI,halfblackmcvay,80
 2021_16_NYG_PHI,htennis98,50
 2021_16_NYG_PHI,ishep123,83
 2021_16_NYG_PHI,Ivanxcky,60
@@ -78941,7 +78941,6 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,ben_dietch,59
 2021_16_CHI_SEA,benbbaldwin,74
 2021_16_CHI_SEA,benj_robinson,68
-2021_16_CHI_SEA,blackmcvay,65
 2021_16_CHI_SEA,BlakeTAtkinson,61
 2021_16_CHI_SEA,brendan_nfl,64
 2021_16_CHI_SEA,BRotoFFCasanova,70
@@ -78991,6 +78990,7 @@ game_id,screen_name,prediction
 2021_16_CHI_SEA,goldencane14,50
 2021_16_CHI_SEA,greerreNFL,71
 2021_16_CHI_SEA,gshelor,50
+2021_16_CHI_SEA,halfblackmcvay,65
 2021_16_CHI_SEA,htennis98,50
 2021_16_CHI_SEA,ishep123,80
 2021_16_CHI_SEA,Ivanxcky,55
@@ -79138,7 +79138,6 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,ben_dietch,68
 2021_16_PIT_KC,benbbaldwin,80
 2021_16_PIT_KC,benj_robinson,76
-2021_16_PIT_KC,blackmcvay,69
 2021_16_PIT_KC,BlakeTAtkinson,75
 2021_16_PIT_KC,brendan_nfl,72
 2021_16_PIT_KC,BRotoFFCasanova,81
@@ -79188,6 +79187,7 @@ game_id,screen_name,prediction
 2021_16_PIT_KC,goldencane14,79
 2021_16_PIT_KC,greerreNFL,80
 2021_16_PIT_KC,gshelor,98
+2021_16_PIT_KC,halfblackmcvay,69
 2021_16_PIT_KC,htennis98,50
 2021_16_PIT_KC,ishep123,76
 2021_16_PIT_KC,Ivanxcky,62
@@ -79335,7 +79335,6 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,ben_dietch,35
 2021_16_DEN_LV,benbbaldwin,47
 2021_16_DEN_LV,benj_robinson,50
-2021_16_DEN_LV,blackmcvay,53
 2021_16_DEN_LV,BlakeTAtkinson,53
 2021_16_DEN_LV,brendan_nfl,45
 2021_16_DEN_LV,BRotoFFCasanova,42
@@ -79385,6 +79384,7 @@ game_id,screen_name,prediction
 2021_16_DEN_LV,goldencane14,50
 2021_16_DEN_LV,greerreNFL,49
 2021_16_DEN_LV,gshelor,66
+2021_16_DEN_LV,halfblackmcvay,53
 2021_16_DEN_LV,htennis98,50
 2021_16_DEN_LV,ishep123,54
 2021_16_DEN_LV,Ivanxcky,46
@@ -79533,7 +79533,6 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,benbbaldwin,86
 2021_16_WAS_DAL,benj_robinson,75
 2021_16_WAS_DAL,Bkobaseball,51
-2021_16_WAS_DAL,blackmcvay,65
 2021_16_WAS_DAL,BlakeTAtkinson,76
 2021_16_WAS_DAL,brendan_nfl,74
 2021_16_WAS_DAL,BRotoFFCasanova,81
@@ -79583,6 +79582,7 @@ game_id,screen_name,prediction
 2021_16_WAS_DAL,goldencane14,80
 2021_16_WAS_DAL,greerreNFL,76
 2021_16_WAS_DAL,gshelor,99
+2021_16_WAS_DAL,halfblackmcvay,65
 2021_16_WAS_DAL,htennis98,50
 2021_16_WAS_DAL,ishep123,82
 2021_16_WAS_DAL,Ivanxcky,65
@@ -79732,7 +79732,6 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,benbbaldwin,40
 2021_16_MIA_NO,benj_robinson,45
 2021_16_MIA_NO,Bkobaseball,50
-2021_16_MIA_NO,blackmcvay,33
 2021_16_MIA_NO,BlakeTAtkinson,44
 2021_16_MIA_NO,brendan_nfl,38
 2021_16_MIA_NO,BRotoFFCasanova,63
@@ -79782,6 +79781,7 @@ game_id,screen_name,prediction
 2021_16_MIA_NO,goldencane14,0
 2021_16_MIA_NO,greerreNFL,35
 2021_16_MIA_NO,gshelor,68
+2021_16_MIA_NO,halfblackmcvay,33
 2021_16_MIA_NO,htennis98,50
 2021_16_MIA_NO,IAM_B_Rad,50
 2021_16_MIA_NO,ishep123,41
@@ -79930,7 +79930,6 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,benbbaldwin,27
 2021_17_LA_BAL,benj_robinson,31
 2021_17_LA_BAL,Bkobaseball,50
-2021_17_LA_BAL,blackmcvay,25
 2021_17_LA_BAL,BlakeTAtkinson,41
 2021_17_LA_BAL,blizzzyblaze,30
 2021_17_LA_BAL,brendan_nfl,33
@@ -79987,6 +79986,7 @@ game_id,screen_name,prediction
 2021_17_LA_BAL,goldencane14,0
 2021_17_LA_BAL,greerreNFL,27
 2021_17_LA_BAL,gshelor,58
+2021_17_LA_BAL,halfblackmcvay,25
 2021_17_LA_BAL,Havoc4Check,35
 2021_17_LA_BAL,htennis98,50
 2021_17_LA_BAL,IAM_B_Rad,19
@@ -80133,7 +80133,6 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,benbbaldwin,87
 2021_17_ATL_BUF,benj_robinson,83
 2021_17_ATL_BUF,Bkobaseball,50
-2021_17_ATL_BUF,blackmcvay,69
 2021_17_ATL_BUF,BlakeTAtkinson,85
 2021_17_ATL_BUF,blizzzyblaze,81
 2021_17_ATL_BUF,brendan_nfl,82
@@ -80190,6 +80189,7 @@ game_id,screen_name,prediction
 2021_17_ATL_BUF,goldencane14,100
 2021_17_ATL_BUF,greerreNFL,87
 2021_17_ATL_BUF,gshelor,96
+2021_17_ATL_BUF,halfblackmcvay,69
 2021_17_ATL_BUF,Havoc4Check,88
 2021_17_ATL_BUF,htennis98,50
 2021_17_ATL_BUF,IAM_B_Rad,100
@@ -80336,7 +80336,6 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,benbbaldwin,71
 2021_17_NYG_CHI,benj_robinson,64
 2021_17_NYG_CHI,Bkobaseball,50
-2021_17_NYG_CHI,blackmcvay,68
 2021_17_NYG_CHI,BlakeTAtkinson,60
 2021_17_NYG_CHI,blizzzyblaze,27
 2021_17_NYG_CHI,brendan_nfl,61
@@ -80393,6 +80392,7 @@ game_id,screen_name,prediction
 2021_17_NYG_CHI,goldencane14,70
 2021_17_NYG_CHI,greerreNFL,64
 2021_17_NYG_CHI,gshelor,60
+2021_17_NYG_CHI,halfblackmcvay,68
 2021_17_NYG_CHI,Havoc4Check,67
 2021_17_NYG_CHI,htennis98,50
 2021_17_NYG_CHI,IAM_B_Rad,100
@@ -80539,7 +80539,6 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,benbbaldwin,33
 2021_17_KC_CIN,benj_robinson,38
 2021_17_KC_CIN,Bkobaseball,50
-2021_17_KC_CIN,blackmcvay,45
 2021_17_KC_CIN,BlakeTAtkinson,37
 2021_17_KC_CIN,blizzzyblaze,86
 2021_17_KC_CIN,brendan_nfl,25
@@ -80596,6 +80595,7 @@ game_id,screen_name,prediction
 2021_17_KC_CIN,goldencane14,34
 2021_17_KC_CIN,greerreNFL,38
 2021_17_KC_CIN,gshelor,24
+2021_17_KC_CIN,halfblackmcvay,45
 2021_17_KC_CIN,Havoc4Check,62
 2021_17_KC_CIN,htennis98,50
 2021_17_KC_CIN,IAM_B_Rad,34
@@ -80742,7 +80742,6 @@ game_id,screen_name,prediction
 2021_17_LV_IND,benbbaldwin,75
 2021_17_LV_IND,benj_robinson,70
 2021_17_LV_IND,Bkobaseball,50
-2021_17_LV_IND,blackmcvay,63
 2021_17_LV_IND,BlakeTAtkinson,72
 2021_17_LV_IND,blizzzyblaze,77
 2021_17_LV_IND,brendan_nfl,67
@@ -80799,6 +80798,7 @@ game_id,screen_name,prediction
 2021_17_LV_IND,goldencane14,76
 2021_17_LV_IND,greerreNFL,75
 2021_17_LV_IND,gshelor,71
+2021_17_LV_IND,halfblackmcvay,63
 2021_17_LV_IND,Havoc4Check,77
 2021_17_LV_IND,htennis98,50
 2021_17_LV_IND,IAM_B_Rad,81
@@ -80945,7 +80945,6 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,benbbaldwin,88
 2021_17_JAX_NE,benj_robinson,85
 2021_17_JAX_NE,Bkobaseball,50
-2021_17_JAX_NE,blackmcvay,86
 2021_17_JAX_NE,BlakeTAtkinson,84
 2021_17_JAX_NE,blizzzyblaze,99
 2021_17_JAX_NE,brendan_nfl,77
@@ -81002,6 +81001,7 @@ game_id,screen_name,prediction
 2021_17_JAX_NE,goldencane14,100
 2021_17_JAX_NE,greerreNFL,89
 2021_17_JAX_NE,gshelor,98
+2021_17_JAX_NE,halfblackmcvay,86
 2021_17_JAX_NE,Havoc4Check,100
 2021_17_JAX_NE,htennis98,50
 2021_17_JAX_NE,IAM_B_Rad,89
@@ -81148,7 +81148,6 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,benbbaldwin,13
 2021_17_TB_NYJ,benj_robinson,19
 2021_17_TB_NYJ,Bkobaseball,50
-2021_17_TB_NYJ,blackmcvay,28
 2021_17_TB_NYJ,BlakeTAtkinson,22
 2021_17_TB_NYJ,blizzzyblaze,13
 2021_17_TB_NYJ,brendan_nfl,14
@@ -81205,6 +81204,7 @@ game_id,screen_name,prediction
 2021_17_TB_NYJ,goldencane14,0
 2021_17_TB_NYJ,greerreNFL,13
 2021_17_TB_NYJ,gshelor,2
+2021_17_TB_NYJ,halfblackmcvay,28
 2021_17_TB_NYJ,Havoc4Check,0
 2021_17_TB_NYJ,htennis98,50
 2021_17_TB_NYJ,IAM_B_Rad,0
@@ -81351,7 +81351,6 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,benbbaldwin,56
 2021_17_MIA_TEN,benj_robinson,46
 2021_17_MIA_TEN,Bkobaseball,50
-2021_17_MIA_TEN,blackmcvay,59
 2021_17_MIA_TEN,BlakeTAtkinson,55
 2021_17_MIA_TEN,blizzzyblaze,44
 2021_17_MIA_TEN,brendan_nfl,42
@@ -81408,6 +81407,7 @@ game_id,screen_name,prediction
 2021_17_MIA_TEN,goldencane14,40
 2021_17_MIA_TEN,greerreNFL,55
 2021_17_MIA_TEN,gshelor,87
+2021_17_MIA_TEN,halfblackmcvay,59
 2021_17_MIA_TEN,Havoc4Check,61
 2021_17_MIA_TEN,htennis98,50
 2021_17_MIA_TEN,IAM_B_Rad,70
@@ -81554,7 +81554,6 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,benbbaldwin,34
 2021_17_PHI_WAS,benj_robinson,39
 2021_17_PHI_WAS,Bkobaseball,50
-2021_17_PHI_WAS,blackmcvay,57
 2021_17_PHI_WAS,BlakeTAtkinson,37
 2021_17_PHI_WAS,blizzzyblaze,66
 2021_17_PHI_WAS,brendan_nfl,38
@@ -81611,6 +81610,7 @@ game_id,screen_name,prediction
 2021_17_PHI_WAS,goldencane14,40
 2021_17_PHI_WAS,greerreNFL,30
 2021_17_PHI_WAS,gshelor,30
+2021_17_PHI_WAS,halfblackmcvay,57
 2021_17_PHI_WAS,Havoc4Check,65
 2021_17_PHI_WAS,htennis98,50
 2021_17_PHI_WAS,IAM_B_Rad,21
@@ -81757,7 +81757,6 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,benbbaldwin,75
 2021_17_DEN_LAC,benj_robinson,54
 2021_17_DEN_LAC,Bkobaseball,50
-2021_17_DEN_LAC,blackmcvay,69
 2021_17_DEN_LAC,BlakeTAtkinson,68
 2021_17_DEN_LAC,blizzzyblaze,50
 2021_17_DEN_LAC,brendan_nfl,65
@@ -81814,6 +81813,7 @@ game_id,screen_name,prediction
 2021_17_DEN_LAC,goldencane14,70
 2021_17_DEN_LAC,greerreNFL,75
 2021_17_DEN_LAC,gshelor,79
+2021_17_DEN_LAC,halfblackmcvay,69
 2021_17_DEN_LAC,Havoc4Check,80
 2021_17_DEN_LAC,htennis98,50
 2021_17_DEN_LAC,IAM_B_Rad,79
@@ -81960,7 +81960,6 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,benbbaldwin,81
 2021_17_HOU_SF,benj_robinson,75
 2021_17_HOU_SF,Bkobaseball,50
-2021_17_HOU_SF,blackmcvay,90
 2021_17_HOU_SF,BlakeTAtkinson,77
 2021_17_HOU_SF,blizzzyblaze,63
 2021_17_HOU_SF,brendan_nfl,72
@@ -82017,6 +82016,7 @@ game_id,screen_name,prediction
 2021_17_HOU_SF,goldencane14,100
 2021_17_HOU_SF,greerreNFL,82
 2021_17_HOU_SF,gshelor,96
+2021_17_HOU_SF,halfblackmcvay,90
 2021_17_HOU_SF,Havoc4Check,90
 2021_17_HOU_SF,htennis98,50
 2021_17_HOU_SF,IAM_B_Rad,79
@@ -82163,7 +82163,6 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,benbbaldwin,68
 2021_17_ARI_DAL,benj_robinson,64
 2021_17_ARI_DAL,Bkobaseball,50
-2021_17_ARI_DAL,blackmcvay,67
 2021_17_ARI_DAL,BlakeTAtkinson,74
 2021_17_ARI_DAL,blizzzyblaze,78
 2021_17_ARI_DAL,brendan_nfl,53
@@ -82220,6 +82219,7 @@ game_id,screen_name,prediction
 2021_17_ARI_DAL,goldencane14,60
 2021_17_ARI_DAL,greerreNFL,65
 2021_17_ARI_DAL,gshelor,72
+2021_17_ARI_DAL,halfblackmcvay,67
 2021_17_ARI_DAL,Havoc4Check,71
 2021_17_ARI_DAL,htennis98,50
 2021_17_ARI_DAL,IAM_B_Rad,80
@@ -82366,7 +82366,6 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,benbbaldwin,71
 2021_17_CAR_NO,benj_robinson,67
 2021_17_CAR_NO,Bkobaseball,50
-2021_17_CAR_NO,blackmcvay,65
 2021_17_CAR_NO,BlakeTAtkinson,58
 2021_17_CAR_NO,blizzzyblaze,81
 2021_17_CAR_NO,brendan_nfl,60
@@ -82423,6 +82422,7 @@ game_id,screen_name,prediction
 2021_17_CAR_NO,goldencane14,71
 2021_17_CAR_NO,greerreNFL,68
 2021_17_CAR_NO,gshelor,69
+2021_17_CAR_NO,halfblackmcvay,65
 2021_17_CAR_NO,Havoc4Check,75
 2021_17_CAR_NO,htennis98,50
 2021_17_CAR_NO,IAM_B_Rad,62
@@ -82569,7 +82569,6 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,benbbaldwin,76
 2021_17_DET_SEA,benj_robinson,68
 2021_17_DET_SEA,Bkobaseball,50
-2021_17_DET_SEA,blackmcvay,75
 2021_17_DET_SEA,BlakeTAtkinson,59
 2021_17_DET_SEA,blizzzyblaze,26
 2021_17_DET_SEA,brendan_nfl,63
@@ -82626,6 +82625,7 @@ game_id,screen_name,prediction
 2021_17_DET_SEA,goldencane14,76
 2021_17_DET_SEA,greerreNFL,74
 2021_17_DET_SEA,gshelor,85
+2021_17_DET_SEA,halfblackmcvay,75
 2021_17_DET_SEA,Havoc4Check,82
 2021_17_DET_SEA,htennis98,50
 2021_17_DET_SEA,IAM_B_Rad,27
@@ -82772,7 +82772,6 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,benbbaldwin,85
 2021_17_MIN_GB,benj_robinson,81
 2021_17_MIN_GB,Bkobaseball,50
-2021_17_MIN_GB,blackmcvay,78
 2021_17_MIN_GB,BlakeTAtkinson,83
 2021_17_MIN_GB,blizzzyblaze,50
 2021_17_MIN_GB,brendan_nfl,70
@@ -82829,6 +82828,7 @@ game_id,screen_name,prediction
 2021_17_MIN_GB,goldencane14,100
 2021_17_MIN_GB,greerreNFL,84
 2021_17_MIN_GB,gshelor,93
+2021_17_MIN_GB,halfblackmcvay,78
 2021_17_MIN_GB,Havoc4Check,80
 2021_17_MIN_GB,htennis98,50
 2021_17_MIN_GB,IAM_B_Rad,88
@@ -82975,7 +82975,6 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,benbbaldwin,47
 2021_17_CLE_PIT,benj_robinson,42
 2021_17_CLE_PIT,Bkobaseball,50
-2021_17_CLE_PIT,blackmcvay,50
 2021_17_CLE_PIT,BlakeTAtkinson,39
 2021_17_CLE_PIT,blizzzyblaze,36
 2021_17_CLE_PIT,brendan_nfl,45
@@ -83033,6 +83032,7 @@ game_id,screen_name,prediction
 2021_17_CLE_PIT,goldencane14,40
 2021_17_CLE_PIT,greerreNFL,46
 2021_17_CLE_PIT,gshelor,34
+2021_17_CLE_PIT,halfblackmcvay,50
 2021_17_CLE_PIT,Havoc4Check,62
 2021_17_CLE_PIT,htennis98,50
 2021_17_CLE_PIT,IAM_B_Rad,16
@@ -83178,7 +83178,6 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,BeardyMcPlaid,50
 2021_18_KC_DEN,benbbaldwin,10
 2021_18_KC_DEN,benj_robinson,23
-2021_18_KC_DEN,blackmcvay,50
 2021_18_KC_DEN,BlakeTAtkinson,19
 2021_18_KC_DEN,BRotoFFCasanova,21
 2021_18_KC_DEN,BryceWilliams_3,17
@@ -83223,6 +83222,7 @@ game_id,screen_name,prediction
 2021_18_KC_DEN,goldencane14,22
 2021_18_KC_DEN,greerreNFL,21
 2021_18_KC_DEN,gshelor,3
+2021_18_KC_DEN,halfblackmcvay,50
 2021_18_KC_DEN,Havoc4Check,50
 2021_18_KC_DEN,htennis98,50
 2021_18_KC_DEN,ishep123,15
@@ -83345,7 +83345,6 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,BeardyMcPlaid,48
 2021_18_DAL_PHI,benbbaldwin,28
 2021_18_DAL_PHI,benj_robinson,31
-2021_18_DAL_PHI,blackmcvay,50
 2021_18_DAL_PHI,BlakeTAtkinson,57
 2021_18_DAL_PHI,BRotoFFCasanova,31
 2021_18_DAL_PHI,BryceWilliams_3,35
@@ -83390,6 +83389,7 @@ game_id,screen_name,prediction
 2021_18_DAL_PHI,goldencane14,36
 2021_18_DAL_PHI,greerreNFL,35
 2021_18_DAL_PHI,gshelor,4
+2021_18_DAL_PHI,halfblackmcvay,50
 2021_18_DAL_PHI,Havoc4Check,50
 2021_18_DAL_PHI,htennis98,50
 2021_18_DAL_PHI,ishep123,33
@@ -83513,7 +83513,6 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,BeardyMcPlaid,48
 2021_18_PIT_BAL,benbbaldwin,59
 2021_18_PIT_BAL,benj_robinson,56
-2021_18_PIT_BAL,blackmcvay,50
 2021_18_PIT_BAL,BlakeTAtkinson,84
 2021_18_PIT_BAL,BRotoFFCasanova,71
 2021_18_PIT_BAL,BryceWilliams_3,56
@@ -83562,6 +83561,7 @@ game_id,screen_name,prediction
 2021_18_PIT_BAL,goldencane14,64
 2021_18_PIT_BAL,greerreNFL,59
 2021_18_PIT_BAL,gshelor,72
+2021_18_PIT_BAL,halfblackmcvay,50
 2021_18_PIT_BAL,Havoc4Check,50
 2021_18_PIT_BAL,htennis98,50
 2021_18_PIT_BAL,ishep123,45
@@ -83693,7 +83693,6 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,BeardyMcPlaid,48
 2021_18_CIN_CLE,benbbaldwin,70
 2021_18_CIN_CLE,benj_robinson,41
-2021_18_CIN_CLE,blackmcvay,50
 2021_18_CIN_CLE,BlakeTAtkinson,46
 2021_18_CIN_CLE,BRotoFFCasanova,64
 2021_18_CIN_CLE,BryceWilliams_3,19
@@ -83742,6 +83741,7 @@ game_id,screen_name,prediction
 2021_18_CIN_CLE,goldencane14,67
 2021_18_CIN_CLE,greerreNFL,65
 2021_18_CIN_CLE,gshelor,26
+2021_18_CIN_CLE,halfblackmcvay,50
 2021_18_CIN_CLE,Havoc4Check,50
 2021_18_CIN_CLE,htennis98,50
 2021_18_CIN_CLE,ishep123,72
@@ -83873,7 +83873,6 @@ game_id,screen_name,prediction
 2021_18_GB_DET,BeardyMcPlaid,52
 2021_18_GB_DET,benbbaldwin,36
 2021_18_GB_DET,benj_robinson,45
-2021_18_GB_DET,blackmcvay,50
 2021_18_GB_DET,BlakeTAtkinson,40
 2021_18_GB_DET,BRotoFFCasanova,21
 2021_18_GB_DET,BryceWilliams_3,2
@@ -83922,6 +83921,7 @@ game_id,screen_name,prediction
 2021_18_GB_DET,goldencane14,38
 2021_18_GB_DET,greerreNFL,38
 2021_18_GB_DET,gshelor,2
+2021_18_GB_DET,halfblackmcvay,50
 2021_18_GB_DET,Havoc4Check,50
 2021_18_GB_DET,htennis98,50
 2021_18_GB_DET,ishep123,48
@@ -84053,7 +84053,6 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,BeardyMcPlaid,40
 2021_18_TEN_HOU,benbbaldwin,19
 2021_18_TEN_HOU,benj_robinson,23
-2021_18_TEN_HOU,blackmcvay,50
 2021_18_TEN_HOU,BlakeTAtkinson,25
 2021_18_TEN_HOU,BRotoFFCasanova,28
 2021_18_TEN_HOU,BryceWilliams_3,5
@@ -84102,6 +84101,7 @@ game_id,screen_name,prediction
 2021_18_TEN_HOU,goldencane14,20
 2021_18_TEN_HOU,greerreNFL,20
 2021_18_TEN_HOU,gshelor,7
+2021_18_TEN_HOU,halfblackmcvay,50
 2021_18_TEN_HOU,Havoc4Check,50
 2021_18_TEN_HOU,htennis98,50
 2021_18_TEN_HOU,ishep123,9
@@ -84233,7 +84233,6 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,BeardyMcPlaid,52
 2021_18_IND_JAX,benbbaldwin,13
 2021_18_IND_JAX,benj_robinson,15
-2021_18_IND_JAX,blackmcvay,50
 2021_18_IND_JAX,BlakeTAtkinson,20
 2021_18_IND_JAX,BRotoFFCasanova,18
 2021_18_IND_JAX,BryceWilliams_3,18
@@ -84282,6 +84281,7 @@ game_id,screen_name,prediction
 2021_18_IND_JAX,goldencane14,13
 2021_18_IND_JAX,greerreNFL,13
 2021_18_IND_JAX,gshelor,8
+2021_18_IND_JAX,halfblackmcvay,50
 2021_18_IND_JAX,Havoc4Check,50
 2021_18_IND_JAX,htennis98,50
 2021_18_IND_JAX,ishep123,15
@@ -84413,7 +84413,6 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,BeardyMcPlaid,48
 2021_18_CHI_MIN,benbbaldwin,63
 2021_18_CHI_MIN,benj_robinson,53
-2021_18_CHI_MIN,blackmcvay,50
 2021_18_CHI_MIN,BlakeTAtkinson,46
 2021_18_CHI_MIN,BRotoFFCasanova,71
 2021_18_CHI_MIN,BryceWilliams_3,45
@@ -84462,6 +84461,7 @@ game_id,screen_name,prediction
 2021_18_CHI_MIN,goldencane14,68
 2021_18_CHI_MIN,greerreNFL,69
 2021_18_CHI_MIN,gshelor,69
+2021_18_CHI_MIN,halfblackmcvay,50
 2021_18_CHI_MIN,Havoc4Check,50
 2021_18_CHI_MIN,htennis98,50
 2021_18_CHI_MIN,ishep123,68
@@ -84593,7 +84593,6 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,BeardyMcPlaid,40
 2021_18_WAS_NYG,benbbaldwin,32
 2021_18_WAS_NYG,benj_robinson,32
-2021_18_WAS_NYG,blackmcvay,50
 2021_18_WAS_NYG,BlakeTAtkinson,28
 2021_18_WAS_NYG,BRotoFFCasanova,39
 2021_18_WAS_NYG,BryceWilliams_3,36
@@ -84642,6 +84641,7 @@ game_id,screen_name,prediction
 2021_18_WAS_NYG,goldencane14,27
 2021_18_WAS_NYG,greerreNFL,34
 2021_18_WAS_NYG,gshelor,20
+2021_18_WAS_NYG,halfblackmcvay,50
 2021_18_WAS_NYG,Havoc4Check,50
 2021_18_WAS_NYG,htennis98,50
 2021_18_WAS_NYG,ishep123,27
@@ -84773,7 +84773,6 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,BeardyMcPlaid,60
 2021_18_SEA_ARI,benbbaldwin,67
 2021_18_SEA_ARI,benj_robinson,65
-2021_18_SEA_ARI,blackmcvay,50
 2021_18_SEA_ARI,BlakeTAtkinson,60
 2021_18_SEA_ARI,BRotoFFCasanova,74
 2021_18_SEA_ARI,BrunoHMioto,50
@@ -84823,6 +84822,7 @@ game_id,screen_name,prediction
 2021_18_SEA_ARI,goldencane14,67
 2021_18_SEA_ARI,greerreNFL,63
 2021_18_SEA_ARI,gshelor,82
+2021_18_SEA_ARI,halfblackmcvay,50
 2021_18_SEA_ARI,Havoc4Check,50
 2021_18_SEA_ARI,htennis98,50
 2021_18_SEA_ARI,ishep123,55
@@ -84954,7 +84954,6 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,BeardyMcPlaid,40
 2021_18_NO_ATL,benbbaldwin,34
 2021_18_NO_ATL,benj_robinson,35
-2021_18_NO_ATL,blackmcvay,50
 2021_18_NO_ATL,BlakeTAtkinson,58
 2021_18_NO_ATL,BRotoFFCasanova,57
 2021_18_NO_ATL,BrunoHMioto,50
@@ -85004,6 +85003,7 @@ game_id,screen_name,prediction
 2021_18_NO_ATL,goldencane14,37
 2021_18_NO_ATL,greerreNFL,37
 2021_18_NO_ATL,gshelor,31
+2021_18_NO_ATL,halfblackmcvay,50
 2021_18_NO_ATL,Havoc4Check,50
 2021_18_NO_ATL,htennis98,50
 2021_18_NO_ATL,ishep123,32
@@ -85135,7 +85135,6 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,BeardyMcPlaid,60
 2021_18_NYJ_BUF,benbbaldwin,89
 2021_18_NYJ_BUF,benj_robinson,87
-2021_18_NYJ_BUF,blackmcvay,50
 2021_18_NYJ_BUF,BlakeTAtkinson,82
 2021_18_NYJ_BUF,BRotoFFCasanova,86
 2021_18_NYJ_BUF,BrunoHMioto,50
@@ -85185,6 +85184,7 @@ game_id,screen_name,prediction
 2021_18_NYJ_BUF,goldencane14,89
 2021_18_NYJ_BUF,greerreNFL,86
 2021_18_NYJ_BUF,gshelor,98
+2021_18_NYJ_BUF,halfblackmcvay,50
 2021_18_NYJ_BUF,Havoc4Check,50
 2021_18_NYJ_BUF,htennis98,50
 2021_18_NYJ_BUF,ishep123,92
@@ -85316,7 +85316,6 @@ game_id,screen_name,prediction
 2021_18_SF_LA,BeardyMcPlaid,60
 2021_18_SF_LA,benbbaldwin,61
 2021_18_SF_LA,benj_robinson,60
-2021_18_SF_LA,blackmcvay,50
 2021_18_SF_LA,BlakeTAtkinson,68
 2021_18_SF_LA,BRotoFFCasanova,63
 2021_18_SF_LA,BrunoHMioto,50
@@ -85366,6 +85365,7 @@ game_id,screen_name,prediction
 2021_18_SF_LA,goldencane14,65
 2021_18_SF_LA,greerreNFL,62
 2021_18_SF_LA,gshelor,69
+2021_18_SF_LA,halfblackmcvay,50
 2021_18_SF_LA,Havoc4Check,50
 2021_18_SF_LA,htennis98,50
 2021_18_SF_LA,ishep123,64
@@ -85497,7 +85497,6 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,BeardyMcPlaid,40
 2021_18_NE_MIA,benbbaldwin,32
 2021_18_NE_MIA,benj_robinson,31
-2021_18_NE_MIA,blackmcvay,50
 2021_18_NE_MIA,BlakeTAtkinson,28
 2021_18_NE_MIA,BRotoFFCasanova,27
 2021_18_NE_MIA,BrunoHMioto,50
@@ -85547,6 +85546,7 @@ game_id,screen_name,prediction
 2021_18_NE_MIA,goldencane14,29
 2021_18_NE_MIA,greerreNFL,30
 2021_18_NE_MIA,gshelor,9
+2021_18_NE_MIA,halfblackmcvay,50
 2021_18_NE_MIA,Havoc4Check,50
 2021_18_NE_MIA,htennis98,50
 2021_18_NE_MIA,ishep123,43
@@ -85678,7 +85678,6 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,BeardyMcPlaid,60
 2021_18_CAR_TB,benbbaldwin,80
 2021_18_CAR_TB,benj_robinson,72
-2021_18_CAR_TB,blackmcvay,50
 2021_18_CAR_TB,BlakeTAtkinson,76
 2021_18_CAR_TB,BRotoFFCasanova,84
 2021_18_CAR_TB,BrunoHMioto,50
@@ -85728,6 +85727,7 @@ game_id,screen_name,prediction
 2021_18_CAR_TB,goldencane14,76
 2021_18_CAR_TB,greerreNFL,75
 2021_18_CAR_TB,gshelor,95
+2021_18_CAR_TB,halfblackmcvay,50
 2021_18_CAR_TB,Havoc4Check,50
 2021_18_CAR_TB,htennis98,50
 2021_18_CAR_TB,ishep123,81
@@ -85860,7 +85860,6 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,BeardyMcPlaid,50
 2021_18_LAC_LV,benbbaldwin,38
 2021_18_LAC_LV,benj_robinson,46
-2021_18_LAC_LV,blackmcvay,35
 2021_18_LAC_LV,BlakeTAtkinson,37
 2021_18_LAC_LV,BRotoFFCasanova,32
 2021_18_LAC_LV,BrunoHMioto,0
@@ -85910,6 +85909,7 @@ game_id,screen_name,prediction
 2021_18_LAC_LV,goldencane14,41
 2021_18_LAC_LV,greerreNFL,33
 2021_18_LAC_LV,gshelor,58
+2021_18_LAC_LV,halfblackmcvay,35
 2021_18_LAC_LV,Havoc4Check,50
 2021_18_LAC_LV,htennis98,50
 2021_18_LAC_LV,ishep123,32
@@ -86043,7 +86043,6 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,BeardyMcPlaid,70
 2021_19_LV_CIN,benbbaldwin,69
 2021_19_LV_CIN,benj_robinson,69
-2021_19_LV_CIN,blackmcvay,67
 2021_19_LV_CIN,BlakeTAtkinson,56
 2021_19_LV_CIN,BowEnthusiast,69
 2021_19_LV_CIN,brendan_nfl,75
@@ -86099,6 +86098,7 @@ game_id,screen_name,prediction
 2021_19_LV_CIN,greerreNFL,67
 2021_19_LV_CIN,Greg_1534,0
 2021_19_LV_CIN,gshelor,87
+2021_19_LV_CIN,halfblackmcvay,67
 2021_19_LV_CIN,harrisonmw27,69
 2021_19_LV_CIN,Hellingschris,60
 2021_19_LV_CIN,htennis98,50
@@ -86264,7 +86264,6 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,BeardyMcPlaid,45
 2021_19_NE_BUF,benbbaldwin,66
 2021_19_NE_BUF,benj_robinson,63
-2021_19_NE_BUF,blackmcvay,54
 2021_19_NE_BUF,BlakeTAtkinson,67
 2021_19_NE_BUF,BowEnthusiast,59
 2021_19_NE_BUF,brendan_nfl,67
@@ -86321,6 +86320,7 @@ game_id,screen_name,prediction
 2021_19_NE_BUF,greerreNFL,62
 2021_19_NE_BUF,Greg_1534,100
 2021_19_NE_BUF,gshelor,47
+2021_19_NE_BUF,halfblackmcvay,54
 2021_19_NE_BUF,harrisonmw27,66
 2021_19_NE_BUF,Hellingschris,58
 2021_19_NE_BUF,htennis98,50
@@ -86487,7 +86487,6 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,BeardyMcPlaid,17
 2021_19_PHI_TB,benbbaldwin,76
 2021_19_PHI_TB,benj_robinson,83
-2021_19_PHI_TB,blackmcvay,72
 2021_19_PHI_TB,BlakeTAtkinson,76
 2021_19_PHI_TB,BowEnthusiast,100
 2021_19_PHI_TB,brendan_nfl,90
@@ -86545,6 +86544,7 @@ game_id,screen_name,prediction
 2021_19_PHI_TB,greerreNFL,75
 2021_19_PHI_TB,Greg_1534,100
 2021_19_PHI_TB,gshelor,99
+2021_19_PHI_TB,halfblackmcvay,72
 2021_19_PHI_TB,harrisonmw27,100
 2021_19_PHI_TB,Hellingschris,47
 2021_19_PHI_TB,htennis98,50
@@ -86713,7 +86713,6 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,BeardyMcPlaid,70
 2021_19_SF_DAL,benbbaldwin,60
 2021_19_SF_DAL,benj_robinson,44
-2021_19_SF_DAL,blackmcvay,54
 2021_19_SF_DAL,BlakeTAtkinson,57
 2021_19_SF_DAL,BowEnthusiast,48
 2021_19_SF_DAL,brendan_nfl,35
@@ -86771,6 +86770,7 @@ game_id,screen_name,prediction
 2021_19_SF_DAL,greerreNFL,64
 2021_19_SF_DAL,Greg_1534,100
 2021_19_SF_DAL,gshelor,81
+2021_19_SF_DAL,halfblackmcvay,54
 2021_19_SF_DAL,harrisonmw27,76
 2021_19_SF_DAL,Hellingschris,46
 2021_19_SF_DAL,htennis98,50
@@ -86940,7 +86940,6 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,BeardyMcPlaid,83
 2021_19_PIT_KC,benbbaldwin,90
 2021_19_PIT_KC,benj_robinson,94
-2021_19_PIT_KC,blackmcvay,86
 2021_19_PIT_KC,BlakeTAtkinson,75
 2021_19_PIT_KC,BowEnthusiast,100
 2021_19_PIT_KC,brendan_nfl,100
@@ -86999,6 +86998,7 @@ game_id,screen_name,prediction
 2021_19_PIT_KC,greerreNFL,90
 2021_19_PIT_KC,Greg_1534,100
 2021_19_PIT_KC,gshelor,99
+2021_19_PIT_KC,halfblackmcvay,86
 2021_19_PIT_KC,harrisonmw27,100
 2021_19_PIT_KC,Hellingschris,100
 2021_19_PIT_KC,htennis98,50
@@ -87168,7 +87168,6 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,BeardyMcPlaid,35
 2021_19_ARI_LA,benbbaldwin,75
 2021_19_ARI_LA,benj_robinson,68
-2021_19_ARI_LA,blackmcvay,66
 2021_19_ARI_LA,BlakeTAtkinson,60
 2021_19_ARI_LA,BowEnthusiast,75
 2021_19_ARI_LA,brendan_nfl,70
@@ -87227,6 +87226,7 @@ game_id,screen_name,prediction
 2021_19_ARI_LA,greerreNFL,60
 2021_19_ARI_LA,Greg_1534,74
 2021_19_ARI_LA,gshelor,49
+2021_19_ARI_LA,halfblackmcvay,66
 2021_19_ARI_LA,harrisonmw27,38
 2021_19_ARI_LA,Hellingschris,66
 2021_19_ARI_LA,htennis98,50
@@ -87393,7 +87393,6 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,BeardyMcPlaid,0
 2021_20_CIN_TEN,benbbaldwin,62
 2021_20_CIN_TEN,benj_robinson,44
-2021_20_CIN_TEN,blackmcvay,67
 2021_20_CIN_TEN,bradleysmart15,45
 2021_20_CIN_TEN,brendan_nfl,46
 2021_20_CIN_TEN,BRotoFFCasanova,47
@@ -87438,6 +87437,7 @@ game_id,screen_name,prediction
 2021_20_CIN_TEN,grayson_bb,90
 2021_20_CIN_TEN,greerreNFL,57
 2021_20_CIN_TEN,gshelor,44
+2021_20_CIN_TEN,halfblackmcvay,67
 2021_20_CIN_TEN,Hellingschris,75
 2021_20_CIN_TEN,ishep123,69
 2021_20_CIN_TEN,jacklich10,58
@@ -87570,7 +87570,6 @@ game_id,screen_name,prediction
 2021_20_SF_GB,BeardyMcPlaid,100
 2021_20_SF_GB,benbbaldwin,85
 2021_20_SF_GB,benj_robinson,66
-2021_20_SF_GB,blackmcvay,64
 2021_20_SF_GB,bradleysmart15,60
 2021_20_SF_GB,brendan_nfl,67
 2021_20_SF_GB,BRotoFFCasanova,56
@@ -87615,6 +87614,7 @@ game_id,screen_name,prediction
 2021_20_SF_GB,grayson_bb,100
 2021_20_SF_GB,greerreNFL,67
 2021_20_SF_GB,gshelor,88
+2021_20_SF_GB,halfblackmcvay,64
 2021_20_SF_GB,Hellingschris,40
 2021_20_SF_GB,ishep123,72
 2021_20_SF_GB,jacklich10,73
@@ -87750,7 +87750,6 @@ game_id,screen_name,prediction
 2021_20_LA_TB,BeardyMcPlaid,0
 2021_20_LA_TB,benbbaldwin,34
 2021_20_LA_TB,benj_robinson,57
-2021_20_LA_TB,blackmcvay,66
 2021_20_LA_TB,BlakeTAtkinson,43
 2021_20_LA_TB,bradleysmart15,70
 2021_20_LA_TB,brendan_nfl,60
@@ -87799,6 +87798,7 @@ game_id,screen_name,prediction
 2021_20_LA_TB,grayson_bb,100
 2021_20_LA_TB,greerreNFL,58
 2021_20_LA_TB,gshelor,75
+2021_20_LA_TB,halfblackmcvay,66
 2021_20_LA_TB,Hellingschris,75
 2021_20_LA_TB,ishep123,67
 2021_20_LA_TB,jacklich10,61
@@ -87936,7 +87936,6 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,BeardyMcPlaid,0
 2021_20_BUF_KC,benbbaldwin,52
 2021_20_BUF_KC,benj_robinson,52
-2021_20_BUF_KC,blackmcvay,54
 2021_20_BUF_KC,BlakeTAtkinson,45
 2021_20_BUF_KC,bradleysmart15,63
 2021_20_BUF_KC,brendan_nfl,54
@@ -87985,6 +87984,7 @@ game_id,screen_name,prediction
 2021_20_BUF_KC,grayson_bb,100
 2021_20_BUF_KC,greerreNFL,54
 2021_20_BUF_KC,gshelor,40
+2021_20_BUF_KC,halfblackmcvay,54
 2021_20_BUF_KC,Hellingschris,20
 2021_20_BUF_KC,ishep123,61
 2021_20_BUF_KC,jacklich10,55
@@ -88121,7 +88121,6 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,BeardyMcPlaid,0
 2021_21_CIN_KC,benbbaldwin,75
 2021_21_CIN_KC,benj_robinson,67
-2021_21_CIN_KC,blackmcvay,70
 2021_21_CIN_KC,BlakeTAtkinson,82
 2021_21_CIN_KC,bradleysmart15,60
 2021_21_CIN_KC,brendan_nfl,75
@@ -88163,6 +88162,7 @@ game_id,screen_name,prediction
 2021_21_CIN_KC,goldencane14,100
 2021_21_CIN_KC,greerreNFL,76
 2021_21_CIN_KC,gshelor,99
+2021_21_CIN_KC,halfblackmcvay,70
 2021_21_CIN_KC,Hellingschris,100
 2021_21_CIN_KC,ishep123,85
 2021_21_CIN_KC,jacklich10,100
@@ -88271,7 +88271,6 @@ game_id,screen_name,prediction
 2021_21_SF_LA,BeardyMcPlaid,100
 2021_21_SF_LA,benbbaldwin,100
 2021_21_SF_LA,benj_robinson,58
-2021_21_SF_LA,blackmcvay,55
 2021_21_SF_LA,BlakeTAtkinson,38
 2021_21_SF_LA,bradleysmart15,45
 2021_21_SF_LA,brendan_nfl,45
@@ -88313,6 +88312,7 @@ game_id,screen_name,prediction
 2021_21_SF_LA,goldencane14,0
 2021_21_SF_LA,greerreNFL,58
 2021_21_SF_LA,gshelor,99
+2021_21_SF_LA,halfblackmcvay,55
 2021_21_SF_LA,Hellingschris,29
 2021_21_SF_LA,ishep123,72
 2021_21_SF_LA,jacklich10,67
