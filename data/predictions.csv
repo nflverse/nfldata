@@ -50,6 +50,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,asapjedi713,75
 2021_01_DAL_TB,AtticGambling,84
 2021_01_DAL_TB,AudacityOfHoops,80
+2021_01_DAL_TB,AustinSmithL,50
 2021_01_DAL_TB,Avalanche_2025,80
 2021_01_DAL_TB,avg_sean,85
 2021_01_DAL_TB,AwfulTrader,80
@@ -354,7 +355,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,Legendary24_7,100
 2021_01_DAL_TB,lifelongJJ18fan,70
 2021_01_DAL_TB,linsky,47
-2021_01_DAL_TB,llamashuffle,50
 2021_01_DAL_TB,LowStakesLaura,70
 2021_01_DAL_TB,Lucasca08990911,45
 2021_01_DAL_TB,LuckyProphet5,50
@@ -698,6 +698,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,AtticGambling,63
 2021_01_PHI_ATL,AudacityOfHoops,58
 2021_01_PHI_ATL,Austinlaine1,67
+2021_01_PHI_ATL,AustinSmithL,50
 2021_01_PHI_ATL,Avalanche_2025,55
 2021_01_PHI_ATL,avg_sean,55
 2021_01_PHI_ATL,AwfulTrader,55
@@ -1012,7 +1013,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,Legendary24_7,0
 2021_01_PHI_ATL,lifelongJJ18fan,67
 2021_01_PHI_ATL,linsky,44
-2021_01_PHI_ATL,llamashuffle,50
 2021_01_PHI_ATL,LowStakesLaura,50
 2021_01_PHI_ATL,Lucasca08990911,55
 2021_01_PHI_ATL,LuckyProphet5,70
@@ -1371,6 +1371,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,AtticGambling,68
 2021_01_PIT_BUF,AudacityOfHoops,68
 2021_01_PIT_BUF,Austinlaine1,82
+2021_01_PIT_BUF,AustinSmithL,50
 2021_01_PIT_BUF,Avalanche_2025,80
 2021_01_PIT_BUF,avg_sean,67
 2021_01_PIT_BUF,AwfulTrader,100
@@ -1685,7 +1686,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,Legendary24_7,100
 2021_01_PIT_BUF,lifelongJJ18fan,68
 2021_01_PIT_BUF,linsky,82
-2021_01_PIT_BUF,llamashuffle,50
 2021_01_PIT_BUF,LowStakesLaura,84
 2021_01_PIT_BUF,Lucasca08990911,70
 2021_01_PIT_BUF,LuckyProphet5,85
@@ -2044,6 +2044,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,AtticGambling,63
 2021_01_NYJ_CAR,AudacityOfHoops,65
 2021_01_NYJ_CAR,Austinlaine1,62
+2021_01_NYJ_CAR,AustinSmithL,50
 2021_01_NYJ_CAR,Avalanche_2025,63
 2021_01_NYJ_CAR,avg_sean,54
 2021_01_NYJ_CAR,AwfulTrader,53
@@ -2358,7 +2359,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,Legendary24_7,100
 2021_01_NYJ_CAR,lifelongJJ18fan,55
 2021_01_NYJ_CAR,linsky,83
-2021_01_NYJ_CAR,llamashuffle,50
 2021_01_NYJ_CAR,LowStakesLaura,39
 2021_01_NYJ_CAR,Lucasca08990911,70
 2021_01_NYJ_CAR,LuckyProphet5,33
@@ -2717,6 +2717,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,AtticGambling,46
 2021_01_MIN_CIN,AudacityOfHoops,41
 2021_01_MIN_CIN,Austinlaine1,41
+2021_01_MIN_CIN,AustinSmithL,50
 2021_01_MIN_CIN,Avalanche_2025,23
 2021_01_MIN_CIN,avg_sean,46
 2021_01_MIN_CIN,AwfulTrader,35
@@ -3031,7 +3032,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,Legendary24_7,0
 2021_01_MIN_CIN,lifelongJJ18fan,45
 2021_01_MIN_CIN,linsky,47
-2021_01_MIN_CIN,llamashuffle,50
 2021_01_MIN_CIN,LowStakesLaura,31
 2021_01_MIN_CIN,Lucasca08990911,48
 2021_01_MIN_CIN,LuckyProphet5,36
@@ -3390,6 +3390,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,AtticGambling,34
 2021_01_SF_DET,AudacityOfHoops,26
 2021_01_SF_DET,Austinlaine1,24
+2021_01_SF_DET,AustinSmithL,50
 2021_01_SF_DET,Avalanche_2025,11
 2021_01_SF_DET,avg_sean,16
 2021_01_SF_DET,AwfulTrader,0
@@ -3704,7 +3705,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,Legendary24_7,0
 2021_01_SF_DET,lifelongJJ18fan,20
 2021_01_SF_DET,linsky,24
-2021_01_SF_DET,llamashuffle,50
 2021_01_SF_DET,LowStakesLaura,18
 2021_01_SF_DET,Lucasca08990911,20
 2021_01_SF_DET,LuckyProphet5,20
@@ -4063,6 +4063,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,AtticGambling,45
 2021_01_JAX_HOU,AudacityOfHoops,35
 2021_01_JAX_HOU,Austinlaine1,37
+2021_01_JAX_HOU,AustinSmithL,50
 2021_01_JAX_HOU,Avalanche_2025,44
 2021_01_JAX_HOU,avg_sean,40
 2021_01_JAX_HOU,AwfulTrader,45
@@ -4377,7 +4378,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,Legendary24_7,0
 2021_01_JAX_HOU,lifelongJJ18fan,35
 2021_01_JAX_HOU,linsky,43
-2021_01_JAX_HOU,llamashuffle,50
 2021_01_JAX_HOU,LowStakesLaura,50
 2021_01_JAX_HOU,Lucasca08990911,48
 2021_01_JAX_HOU,LuckyProphet5,35
@@ -4736,6 +4736,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,AtticGambling,43
 2021_01_SEA_IND,AudacityOfHoops,38
 2021_01_SEA_IND,Austinlaine1,31
+2021_01_SEA_IND,AustinSmithL,50
 2021_01_SEA_IND,Avalanche_2025,27
 2021_01_SEA_IND,avg_sean,30
 2021_01_SEA_IND,AwfulTrader,45
@@ -5050,7 +5051,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,Legendary24_7,0
 2021_01_SEA_IND,lifelongJJ18fan,35
 2021_01_SEA_IND,linsky,41
-2021_01_SEA_IND,llamashuffle,50
 2021_01_SEA_IND,LowStakesLaura,30
 2021_01_SEA_IND,Lucasca08990911,45
 2021_01_SEA_IND,LuckyProphet5,20
@@ -5409,6 +5409,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,AtticGambling,54
 2021_01_ARI_TEN,AudacityOfHoops,59
 2021_01_ARI_TEN,Austinlaine1,59
+2021_01_ARI_TEN,AustinSmithL,50
 2021_01_ARI_TEN,Avalanche_2025,57
 2021_01_ARI_TEN,avg_sean,65
 2021_01_ARI_TEN,AwfulTrader,55
@@ -5723,7 +5724,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,Legendary24_7,100
 2021_01_ARI_TEN,lifelongJJ18fan,59
 2021_01_ARI_TEN,linsky,65
-2021_01_ARI_TEN,llamashuffle,50
 2021_01_ARI_TEN,LowStakesLaura,56
 2021_01_ARI_TEN,Lucasca08990911,60
 2021_01_ARI_TEN,LuckyProphet5,60
@@ -6082,6 +6082,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,AtticGambling,62
 2021_01_LAC_WAS,AudacityOfHoops,50
 2021_01_LAC_WAS,Austinlaine1,53
+2021_01_LAC_WAS,AustinSmithL,50
 2021_01_LAC_WAS,Avalanche_2025,35
 2021_01_LAC_WAS,avg_sean,25
 2021_01_LAC_WAS,AwfulTrader,60
@@ -6396,7 +6397,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,Legendary24_7,100
 2021_01_LAC_WAS,lifelongJJ18fan,56
 2021_01_LAC_WAS,linsky,36
-2021_01_LAC_WAS,llamashuffle,50
 2021_01_LAC_WAS,LowStakesLaura,41
 2021_01_LAC_WAS,Lucasca08990911,45
 2021_01_LAC_WAS,LuckyProphet5,43
@@ -6755,6 +6755,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,AtticGambling,67
 2021_01_CLE_KC,AudacityOfHoops,72
 2021_01_CLE_KC,Austinlaine1,69
+2021_01_CLE_KC,AustinSmithL,50
 2021_01_CLE_KC,Avalanche_2025,77
 2021_01_CLE_KC,avg_sean,81
 2021_01_CLE_KC,AwfulTrader,63
@@ -7069,7 +7070,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,Legendary24_7,100
 2021_01_CLE_KC,lifelongJJ18fan,70
 2021_01_CLE_KC,linsky,69
-2021_01_CLE_KC,llamashuffle,50
 2021_01_CLE_KC,LowStakesLaura,87
 2021_01_CLE_KC,Lucasca08990911,80
 2021_01_CLE_KC,LuckyProphet5,79
@@ -7428,6 +7428,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,AtticGambling,59
 2021_01_MIA_NE,AudacityOfHoops,63
 2021_01_MIA_NE,Austinlaine1,53
+2021_01_MIA_NE,AustinSmithL,50
 2021_01_MIA_NE,Avalanche_2025,55
 2021_01_MIA_NE,avg_sean,40
 2021_01_MIA_NE,AwfulTrader,56
@@ -7742,7 +7743,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,Legendary24_7,66
 2021_01_MIA_NE,lifelongJJ18fan,55
 2021_01_MIA_NE,linsky,45
-2021_01_MIA_NE,llamashuffle,50
 2021_01_MIA_NE,LowStakesLaura,43
 2021_01_MIA_NE,Lucasca08990911,45
 2021_01_MIA_NE,LuckyProphet5,62
@@ -8101,6 +8101,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,AtticGambling,36
 2021_01_GB_NO,AudacityOfHoops,36
 2021_01_GB_NO,Austinlaine1,31
+2021_01_GB_NO,AustinSmithL,50
 2021_01_GB_NO,Avalanche_2025,31
 2021_01_GB_NO,avg_sean,35
 2021_01_GB_NO,AwfulTrader,41
@@ -8415,7 +8416,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,Legendary24_7,0
 2021_01_GB_NO,lifelongJJ18fan,30
 2021_01_GB_NO,linsky,38
-2021_01_GB_NO,llamashuffle,50
 2021_01_GB_NO,LowStakesLaura,41
 2021_01_GB_NO,Lucasca08990911,28
 2021_01_GB_NO,LuckyProphet5,36
@@ -8774,6 +8774,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,AtticGambling,49
 2021_01_DEN_NYG,AudacityOfHoops,41
 2021_01_DEN_NYG,Austinlaine1,41
+2021_01_DEN_NYG,AustinSmithL,50
 2021_01_DEN_NYG,Avalanche_2025,46
 2021_01_DEN_NYG,avg_sean,43
 2021_01_DEN_NYG,AwfulTrader,25
@@ -9088,7 +9089,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,Legendary24_7,0
 2021_01_DEN_NYG,lifelongJJ18fan,36
 2021_01_DEN_NYG,linsky,41
-2021_01_DEN_NYG,llamashuffle,50
 2021_01_DEN_NYG,LowStakesLaura,50
 2021_01_DEN_NYG,Lucasca08990911,42
 2021_01_DEN_NYG,LuckyProphet5,25
@@ -9447,6 +9447,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,AtticGambling,65
 2021_01_CHI_LA,AudacityOfHoops,74
 2021_01_CHI_LA,Austinlaine1,70
+2021_01_CHI_LA,AustinSmithL,50
 2021_01_CHI_LA,Avalanche_2025,84
 2021_01_CHI_LA,avg_sean,75
 2021_01_CHI_LA,AwfulTrader,75
@@ -9762,7 +9763,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,Legendary24_7,100
 2021_01_CHI_LA,lifelongJJ18fan,70
 2021_01_CHI_LA,linsky,55
-2021_01_CHI_LA,llamashuffle,50
 2021_01_CHI_LA,LowStakesLaura,86
 2021_01_CHI_LA,Lucasca08990911,80
 2021_01_CHI_LA,LuckyProphet5,80
@@ -10124,6 +10124,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,AtticGambling,36
 2021_01_BAL_LV,AudacityOfHoops,40
 2021_01_BAL_LV,Austinlaine1,30
+2021_01_BAL_LV,AustinSmithL,50
 2021_01_BAL_LV,Avalanche_2025,43
 2021_01_BAL_LV,avg_sean,51
 2021_01_BAL_LV,AwfulTrader,42
@@ -10452,7 +10453,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,Legendary24_7,0
 2021_01_BAL_LV,lifelongJJ18fan,34
 2021_01_BAL_LV,linsky,37
-2021_01_BAL_LV,llamashuffle,50
 2021_01_BAL_LV,LoganLove88,50
 2021_01_BAL_LV,LowStakesLaura,50
 2021_01_BAL_LV,Lucasca08990911,20
@@ -14178,8 +14178,8 @@ game_id,screen_name,prediction
 2021_02_NE_NYJ,zackry_mc,0
 2021_02_NE_NYJ,zacwest91,43
 2021_02_NE_NYJ,zweinberg18,45
-2021_02_SF_PHI,,47
 2021_02_SF_PHI,,61
+2021_02_SF_PHI,,47
 2021_02_SF_PHI,__DavidOfficial,40
 2021_02_SF_PHI,_DH44_,22
 2021_02_SF_PHI,_jclemons,44
@@ -15044,8 +15044,8 @@ game_id,screen_name,prediction
 2021_02_LV_PIT,zackry_mc,65
 2021_02_LV_PIT,zacwest91,75
 2021_02_LV_PIT,zweinberg18,46
-2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,,62
+2021_02_MIN_ARI,,61
 2021_02_MIN_ARI,__DavidOfficial,67
 2021_02_MIN_ARI,_DH44_,49
 2021_02_MIN_ARI,_jclemons,66
@@ -17214,8 +17214,8 @@ game_id,screen_name,prediction
 2021_02_KC_BAL,zackry_mc,20
 2021_02_KC_BAL,zacwest91,31
 2021_02_KC_BAL,zweinberg18,40
-2021_02_DET_GB,,38
 2021_02_DET_GB,,70
+2021_02_DET_GB,,38
 2021_02_DET_GB,__DavidOfficial,100
 2021_02_DET_GB,_DH44_,52
 2021_02_DET_GB,_jclemons,57
@@ -18742,8 +18742,8 @@ game_id,screen_name,prediction
 2021_03_CHI_CLE,YayySports,79
 2021_03_CHI_CLE,zackry_mc,100
 2021_03_CHI_CLE,zweinberg18,63
-2021_03_BAL_DET,,21
 2021_03_BAL_DET,,50
+2021_03_BAL_DET,,21
 2021_03_BAL_DET,__DavidOfficial,0
 2021_03_BAL_DET,_alendowsky,47
 2021_03_BAL_DET,_DH44_,0
@@ -20992,8 +20992,8 @@ game_id,screen_name,prediction
 2021_03_CIN_PIT,YayySports,68
 2021_03_CIN_PIT,zackry_mc,50
 2021_03_CIN_PIT,zweinberg18,64
-2021_03_IND_TEN,,50
 2021_03_IND_TEN,,44
+2021_03_IND_TEN,,50
 2021_03_IND_TEN,__DavidOfficial,75
 2021_03_IND_TEN,_alendowsky,54
 2021_03_IND_TEN,_DH44_,48
