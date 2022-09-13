@@ -6183,7 +6183,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_03_ATL_SEA,2022,REG,3,2022-09-25,Sunday,16:25,ATL,,SEA,,Home,,,,2022092511,,,202209250sea,,401437745,7,7,140,-165,3,-110,-110,42.5,-110,-110,0,outdoors,fieldturf,,,,,,,Arthur Smith,Pete Carroll,,SEA00,Lumen Field
 2022_03_GB_TB,2022,REG,3,2022-09-25,Sunday,16:25,GB,,TB,,Home,,,,2022092512,,,202209250tam,,401437607,7,7,140,-165,3,-110,-110,48,-110,-110,0,outdoors,grass,,,,,,,Matt LaFleur,Todd Bowles,,TAM00,Raymond James Stadium
 2022_03_SF_DEN,2022,REG,3,2022-09-25,Sunday,20:20,SF,,DEN,,Home,,,,2022092513,,,202209250den,,401437746,7,7,135,-155,3,-120,100,46,-110,-110,0,outdoors,grass,,,,,,,Kyle Shanahan,Nathaniel Hackett,,DEN00,Empower Field at Mile High
-2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,401437747,8,8,,,,,,,,,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
+2022_03_DAL_NYG,2022,REG,3,2022-09-26,Monday,20:15,DAL,,NYG,,Home,,,,2022092600,,,202209260nyg,,401437747,8,8,150,-175,4,-110,-110,40.5,-110,-110,1,outdoors,fieldturf ,,,,,,,Mike McCarthy,Brian Daboll,,NYC01,MetLife Stadium
 2022_04_MIA_CIN,2022,REG,4,2022-09-29,Thursday,20:15,MIA,,CIN,,Home,,,,2022092900,,,202209290cin,,401437748,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Zac Taylor,,CIN00,Paycor Stadium
 2022_04_MIN_NO,2022,REG,4,2022-10-02,Sunday,09:30,MIN,,NO,,Neutral,,,,2022100200,,,202210020nor,,401435639,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Dennis Allen,,LON02,Tottenham Stadium
 2022_04_CLE_ATL,2022,REG,4,2022-10-02,Sunday,13:00,CLE,,ATL,,Home,,,,2022100201,,,202210020atl,,401437749,10,7,,,,,,,,,0,,fieldturf,,,,,,,Kevin Stefanski,Arthur Smith,,ATL97,Mercedes-Benz Stadium
