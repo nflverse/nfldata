@@ -88554,6 +88554,7 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,WS_JakeT,43
 2021_22_LA_CIN,Yannismiu,100
 2021_22_LA_CIN,YayySports,31
+2022_01_BUF_LA,,56
 2022_01_BUF_LA,_alendowsky,45
 2022_01_BUF_LA,_daddy_butter,50
 2022_01_BUF_LA,_DH44_,55
@@ -88700,7 +88701,6 @@ game_id,screen_name,prediction
 2022_01_BUF_LA,EthanCDouglas,55
 2022_01_BUF_LA,eugenekim101,53
 2022_01_BUF_LA,Evan_isaacs,55
-2022_01_BUF_LA,ezpalk,56
 2022_01_BUF_LA,f151k0,50
 2022_01_BUF_LA,FearAndHaters,50
 2022_01_BUF_LA,FedericoHuegli,41
@@ -89090,6 +89090,7 @@ game_id,screen_name,prediction
 2022_01_BUF_LA,zonevsrpo,49
 2022_01_BUF_LA,Zrosen98,50
 2022_01_BUF_LA,zweinberg18,46
+2022_01_NO_ATL,,20
 2022_01_NO_ATL,_alendowsky,45
 2022_01_NO_ATL,_daddy_butter,50
 2022_01_NO_ATL,_DH44_,35
@@ -89260,7 +89261,6 @@ game_id,screen_name,prediction
 2022_01_NO_ATL,eva_hytter,25
 2022_01_NO_ATL,Evan_isaacs,37
 2022_01_NO_ATL,ewan_yeaxlee,30
-2022_01_NO_ATL,ezpalk,20
 2022_01_NO_ATL,f151k0,50
 2022_01_NO_ATL,FearAndHaters,50
 2022_01_NO_ATL,FedericoHuegli,31
@@ -89689,6 +89689,7 @@ game_id,screen_name,prediction
 2022_01_NO_ATL,zonevsrpo,30
 2022_01_NO_ATL,Zrosen98,25
 2022_01_NO_ATL,zweinberg18,35
+2022_01_CLE_CAR,,50
 2022_01_CLE_CAR,_alendowsky,53
 2022_01_CLE_CAR,_daddy_butter,50
 2022_01_CLE_CAR,_DH44_,51
@@ -89860,7 +89861,6 @@ game_id,screen_name,prediction
 2022_01_CLE_CAR,eva_hytter,12
 2022_01_CLE_CAR,Evan_isaacs,47
 2022_01_CLE_CAR,ewan_yeaxlee,45
-2022_01_CLE_CAR,ezpalk,50
 2022_01_CLE_CAR,f151k0,50
 2022_01_CLE_CAR,FearAndHaters,50
 2022_01_CLE_CAR,FedericoHuegli,56
@@ -90289,6 +90289,7 @@ game_id,screen_name,prediction
 2022_01_CLE_CAR,zonevsrpo,51
 2022_01_CLE_CAR,Zrosen98,41
 2022_01_CLE_CAR,zweinberg18,53
+2022_01_SF_CHI,,50
 2022_01_SF_CHI,_alendowsky,40
 2022_01_SF_CHI,_daddy_butter,50
 2022_01_SF_CHI,_DH44_,52
@@ -90459,7 +90460,6 @@ game_id,screen_name,prediction
 2022_01_SF_CHI,eva_hytter,18
 2022_01_SF_CHI,Evan_isaacs,37
 2022_01_SF_CHI,ewan_yeaxlee,33
-2022_01_SF_CHI,ezpalk,50
 2022_01_SF_CHI,f151k0,50
 2022_01_SF_CHI,FearAndHaters,50
 2022_01_SF_CHI,FedericoHuegli,32
@@ -90888,6 +90888,7 @@ game_id,screen_name,prediction
 2022_01_SF_CHI,zonevsrpo,5
 2022_01_SF_CHI,Zrosen98,23
 2022_01_SF_CHI,zweinberg18,38
+2022_01_PIT_CIN,,64
 2022_01_PIT_CIN,_alendowsky,60
 2022_01_PIT_CIN,_daddy_butter,50
 2022_01_PIT_CIN,_DH44_,58
@@ -91059,7 +91060,6 @@ game_id,screen_name,prediction
 2022_01_PIT_CIN,eva_hytter,13
 2022_01_PIT_CIN,Evan_isaacs,60
 2022_01_PIT_CIN,ewan_yeaxlee,82
-2022_01_PIT_CIN,ezpalk,64
 2022_01_PIT_CIN,f151k0,50
 2022_01_PIT_CIN,FearAndHaters,50
 2022_01_PIT_CIN,FedericoHuegli,74
@@ -91488,6 +91488,7 @@ game_id,screen_name,prediction
 2022_01_PIT_CIN,zonevsrpo,70
 2022_01_PIT_CIN,Zrosen98,81
 2022_01_PIT_CIN,zweinberg18,60
+2022_01_PHI_DET,,20
 2022_01_PHI_DET,_alendowsky,40
 2022_01_PHI_DET,_daddy_butter,50
 2022_01_PHI_DET,_DH44_,63
@@ -91659,7 +91660,6 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,eva_hytter,42
 2022_01_PHI_DET,Evan_isaacs,39
 2022_01_PHI_DET,ewan_yeaxlee,34
-2022_01_PHI_DET,ezpalk,20
 2022_01_PHI_DET,f151k0,50
 2022_01_PHI_DET,FearAndHaters,50
 2022_01_PHI_DET,FedericoHuegli,27
@@ -92088,6 +92088,7 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,zonevsrpo,49
 2022_01_PHI_DET,Zrosen98,30
 2022_01_PHI_DET,zweinberg18,55
+2022_01_IND_HOU,,39
 2022_01_IND_HOU,_alendowsky,40
 2022_01_IND_HOU,_daddy_butter,50
 2022_01_IND_HOU,_DH44_,48
@@ -92259,7 +92260,6 @@ game_id,screen_name,prediction
 2022_01_IND_HOU,eva_hytter,34
 2022_01_IND_HOU,Evan_isaacs,33
 2022_01_IND_HOU,ewan_yeaxlee,18
-2022_01_IND_HOU,ezpalk,39
 2022_01_IND_HOU,f151k0,50
 2022_01_IND_HOU,FearAndHaters,50
 2022_01_IND_HOU,FedericoHuegli,24
@@ -92688,6 +92688,7 @@ game_id,screen_name,prediction
 2022_01_IND_HOU,zonevsrpo,40
 2022_01_IND_HOU,Zrosen98,28
 2022_01_IND_HOU,zweinberg18,35
+2022_01_NE_MIA,,35
 2022_01_NE_MIA,_alendowsky,53
 2022_01_NE_MIA,_daddy_butter,50
 2022_01_NE_MIA,_DH44_,46
@@ -92858,7 +92859,6 @@ game_id,screen_name,prediction
 2022_01_NE_MIA,eva_hytter,44
 2022_01_NE_MIA,Evan_isaacs,55
 2022_01_NE_MIA,ewan_yeaxlee,49
-2022_01_NE_MIA,ezpalk,35
 2022_01_NE_MIA,f151k0,50
 2022_01_NE_MIA,FearAndHaters,50
 2022_01_NE_MIA,FedericoHuegli,60
@@ -93287,6 +93287,7 @@ game_id,screen_name,prediction
 2022_01_NE_MIA,zonevsrpo,51
 2022_01_NE_MIA,Zrosen98,47
 2022_01_NE_MIA,zweinberg18,45
+2022_01_BAL_NYJ,,33
 2022_01_BAL_NYJ,_alendowsky,40
 2022_01_BAL_NYJ,_daddy_butter,50
 2022_01_BAL_NYJ,_DH44_,0
@@ -93457,7 +93458,6 @@ game_id,screen_name,prediction
 2022_01_BAL_NYJ,eva_hytter,14
 2022_01_BAL_NYJ,Evan_isaacs,25
 2022_01_BAL_NYJ,ewan_yeaxlee,19
-2022_01_BAL_NYJ,ezpalk,33
 2022_01_BAL_NYJ,f151k0,50
 2022_01_BAL_NYJ,FearAndHaters,50
 2022_01_BAL_NYJ,FedericoHuegli,24
@@ -93886,6 +93886,7 @@ game_id,screen_name,prediction
 2022_01_BAL_NYJ,zonevsrpo,25
 2022_01_BAL_NYJ,Zrosen98,34
 2022_01_BAL_NYJ,zweinberg18,26
+2022_01_JAX_WAS,,50
 2022_01_JAX_WAS,_alendowsky,53
 2022_01_JAX_WAS,_daddy_butter,50
 2022_01_JAX_WAS,_DH44_,39
@@ -94057,7 +94058,6 @@ game_id,screen_name,prediction
 2022_01_JAX_WAS,eva_hytter,58
 2022_01_JAX_WAS,Evan_isaacs,52
 2022_01_JAX_WAS,ewan_yeaxlee,48
-2022_01_JAX_WAS,ezpalk,50
 2022_01_JAX_WAS,f151k0,50
 2022_01_JAX_WAS,FearAndHaters,50
 2022_01_JAX_WAS,FedericoHuegli,56
@@ -94486,6 +94486,7 @@ game_id,screen_name,prediction
 2022_01_JAX_WAS,zonevsrpo,49
 2022_01_JAX_WAS,Zrosen98,50
 2022_01_JAX_WAS,zweinberg18,45
+2022_01_KC_ARI,,47
 2022_01_KC_ARI,_alendowsky,40
 2022_01_KC_ARI,_daddy_butter,50
 2022_01_KC_ARI,_DH44_,0
@@ -94657,7 +94658,6 @@ game_id,screen_name,prediction
 2022_01_KC_ARI,eva_hytter,30
 2022_01_KC_ARI,Evan_isaacs,43
 2022_01_KC_ARI,ewan_yeaxlee,40
-2022_01_KC_ARI,ezpalk,47
 2022_01_KC_ARI,f151k0,50
 2022_01_KC_ARI,FearAndHaters,50
 2022_01_KC_ARI,FedericoHuegli,39
@@ -95086,6 +95086,7 @@ game_id,screen_name,prediction
 2022_01_KC_ARI,zonevsrpo,40
 2022_01_KC_ARI,Zrosen98,44
 2022_01_KC_ARI,zweinberg18,35
+2022_01_LV_LAC,,50
 2022_01_LV_LAC,_alendowsky,53
 2022_01_LV_LAC,_daddy_butter,50
 2022_01_LV_LAC,_DH44_,52
@@ -95257,7 +95258,6 @@ game_id,screen_name,prediction
 2022_01_LV_LAC,eva_hytter,48
 2022_01_LV_LAC,Evan_isaacs,54
 2022_01_LV_LAC,ewan_yeaxlee,54
-2022_01_LV_LAC,ezpalk,50
 2022_01_LV_LAC,f151k0,50
 2022_01_LV_LAC,FearAndHaters,50
 2022_01_LV_LAC,FedericoHuegli,64
@@ -95686,6 +95686,7 @@ game_id,screen_name,prediction
 2022_01_LV_LAC,zonevsrpo,55
 2022_01_LV_LAC,Zrosen98,72
 2022_01_LV_LAC,zweinberg18,65
+2022_01_GB_MIN,,33
 2022_01_GB_MIN,_alendowsky,45
 2022_01_GB_MIN,_daddy_butter,50
 2022_01_GB_MIN,_DH44_,44
@@ -95857,7 +95858,6 @@ game_id,screen_name,prediction
 2022_01_GB_MIN,eva_hytter,27
 2022_01_GB_MIN,Evan_isaacs,48
 2022_01_GB_MIN,ewan_yeaxlee,41
-2022_01_GB_MIN,ezpalk,33
 2022_01_GB_MIN,f151k0,50
 2022_01_GB_MIN,FearAndHaters,50
 2022_01_GB_MIN,FedericoHuegli,46
@@ -96286,6 +96286,7 @@ game_id,screen_name,prediction
 2022_01_GB_MIN,zonevsrpo,40
 2022_01_GB_MIN,Zrosen98,42
 2022_01_GB_MIN,zweinberg18,43
+2022_01_NYG_TEN,,69
 2022_01_NYG_TEN,_alendowsky,60
 2022_01_NYG_TEN,_daddy_butter,50
 2022_01_NYG_TEN,_DH44_,52
@@ -96457,7 +96458,6 @@ game_id,screen_name,prediction
 2022_01_NYG_TEN,eva_hytter,63
 2022_01_NYG_TEN,Evan_isaacs,61
 2022_01_NYG_TEN,ewan_yeaxlee,71
-2022_01_NYG_TEN,ezpalk,69
 2022_01_NYG_TEN,f151k0,50
 2022_01_NYG_TEN,FearAndHaters,50
 2022_01_NYG_TEN,FedericoHuegli,69
@@ -96886,6 +96886,7 @@ game_id,screen_name,prediction
 2022_01_NYG_TEN,zonevsrpo,60
 2022_01_NYG_TEN,Zrosen98,66
 2022_01_NYG_TEN,zweinberg18,63
+2022_01_TB_DAL,,51
 2022_01_TB_DAL,_alendowsky,45
 2022_01_TB_DAL,_daddy_butter,50
 2022_01_TB_DAL,_DH44_,36
@@ -97060,7 +97061,6 @@ game_id,screen_name,prediction
 2022_01_TB_DAL,eva_hytter,39
 2022_01_TB_DAL,Evan_isaacs,53
 2022_01_TB_DAL,ewan_yeaxlee,41
-2022_01_TB_DAL,ezpalk,51
 2022_01_TB_DAL,f151k0,50
 2022_01_TB_DAL,FearAndHaters,50
 2022_01_TB_DAL,FedericoHuegli,47
@@ -97490,6 +97490,7 @@ game_id,screen_name,prediction
 2022_01_TB_DAL,zonevsrpo,45
 2022_01_TB_DAL,Zrosen98,42
 2022_01_TB_DAL,zweinberg18,38
+2022_01_DEN_SEA,,38
 2022_01_DEN_SEA,_alendowsky,40
 2022_01_DEN_SEA,_daddy_butter,50
 2022_01_DEN_SEA,_DH44_,0
@@ -97666,7 +97667,6 @@ game_id,screen_name,prediction
 2022_01_DEN_SEA,eva_hytter,34
 2022_01_DEN_SEA,Evan_isaacs,33
 2022_01_DEN_SEA,ewan_yeaxlee,19
-2022_01_DEN_SEA,ezpalk,38
 2022_01_DEN_SEA,f151k0,50
 2022_01_DEN_SEA,FearAndHaters,50
 2022_01_DEN_SEA,FedericoHuegli,20
