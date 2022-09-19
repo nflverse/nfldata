@@ -155,7 +155,6 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,daveglaza,73
 2021_01_DAL_TB,daveshap,50
 2021_01_DAL_TB,david_finmoploy,50
-2021_01_DAL_TB,DavidTrost,50
 2021_01_DAL_TB,DavidZoned,87
 2021_01_DAL_TB,daviswinslow,50
 2021_01_DAL_TB,DawgPoundDish,90
@@ -353,6 +352,7 @@ game_id,screen_name,prediction
 2021_01_DAL_TB,LeachJus,82
 2021_01_DAL_TB,LeeSharpeNFL,65
 2021_01_DAL_TB,Legendary24_7,100
+2021_01_DAL_TB,LeGuantanamoBay,50
 2021_01_DAL_TB,lifelongJJ18fan,70
 2021_01_DAL_TB,linsky,47
 2021_01_DAL_TB,LowStakesLaura,70
@@ -806,7 +806,6 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,daveglaza,50
 2021_01_PHI_ATL,daveshap,50
 2021_01_PHI_ATL,david_finmoploy,64
-2021_01_PHI_ATL,DavidTrost,50
 2021_01_PHI_ATL,DavidZoned,46
 2021_01_PHI_ATL,davisj2007,63
 2021_01_PHI_ATL,daviswinslow,50
@@ -1011,6 +1010,7 @@ game_id,screen_name,prediction
 2021_01_PHI_ATL,LeachJus,57
 2021_01_PHI_ATL,LeeSharpeNFL,60
 2021_01_PHI_ATL,Legendary24_7,0
+2021_01_PHI_ATL,LeGuantanamoBay,50
 2021_01_PHI_ATL,lifelongJJ18fan,67
 2021_01_PHI_ATL,linsky,44
 2021_01_PHI_ATL,LowStakesLaura,50
@@ -1479,7 +1479,6 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,daveglaza,50
 2021_01_PIT_BUF,daveshap,50
 2021_01_PIT_BUF,david_finmoploy,65
-2021_01_PIT_BUF,DavidTrost,50
 2021_01_PIT_BUF,DavidZoned,71
 2021_01_PIT_BUF,davisj2007,68
 2021_01_PIT_BUF,daviswinslow,50
@@ -1684,6 +1683,7 @@ game_id,screen_name,prediction
 2021_01_PIT_BUF,LeachJus,69
 2021_01_PIT_BUF,LeeSharpeNFL,61
 2021_01_PIT_BUF,Legendary24_7,100
+2021_01_PIT_BUF,LeGuantanamoBay,50
 2021_01_PIT_BUF,lifelongJJ18fan,68
 2021_01_PIT_BUF,linsky,82
 2021_01_PIT_BUF,LowStakesLaura,84
@@ -2152,7 +2152,6 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,daveglaza,50
 2021_01_NYJ_CAR,daveshap,50
 2021_01_NYJ_CAR,david_finmoploy,65
-2021_01_NYJ_CAR,DavidTrost,50
 2021_01_NYJ_CAR,DavidZoned,49
 2021_01_NYJ_CAR,davisj2007,65
 2021_01_NYJ_CAR,daviswinslow,50
@@ -2357,6 +2356,7 @@ game_id,screen_name,prediction
 2021_01_NYJ_CAR,LeachJus,51
 2021_01_NYJ_CAR,LeeSharpeNFL,45
 2021_01_NYJ_CAR,Legendary24_7,100
+2021_01_NYJ_CAR,LeGuantanamoBay,50
 2021_01_NYJ_CAR,lifelongJJ18fan,55
 2021_01_NYJ_CAR,linsky,83
 2021_01_NYJ_CAR,LowStakesLaura,39
@@ -2825,7 +2825,6 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,daveglaza,50
 2021_01_MIN_CIN,daveshap,50
 2021_01_MIN_CIN,david_finmoploy,51
-2021_01_MIN_CIN,DavidTrost,50
 2021_01_MIN_CIN,DavidZoned,31
 2021_01_MIN_CIN,davisj2007,52
 2021_01_MIN_CIN,daviswinslow,50
@@ -3030,6 +3029,7 @@ game_id,screen_name,prediction
 2021_01_MIN_CIN,LeachJus,15
 2021_01_MIN_CIN,LeeSharpeNFL,42
 2021_01_MIN_CIN,Legendary24_7,0
+2021_01_MIN_CIN,LeGuantanamoBay,50
 2021_01_MIN_CIN,lifelongJJ18fan,45
 2021_01_MIN_CIN,linsky,47
 2021_01_MIN_CIN,LowStakesLaura,31
@@ -3498,7 +3498,6 @@ game_id,screen_name,prediction
 2021_01_SF_DET,daveglaza,50
 2021_01_SF_DET,daveshap,50
 2021_01_SF_DET,david_finmoploy,35
-2021_01_SF_DET,DavidTrost,50
 2021_01_SF_DET,DavidZoned,14
 2021_01_SF_DET,davisj2007,49
 2021_01_SF_DET,daviswinslow,50
@@ -3703,6 +3702,7 @@ game_id,screen_name,prediction
 2021_01_SF_DET,LeachJus,17
 2021_01_SF_DET,LeeSharpeNFL,30
 2021_01_SF_DET,Legendary24_7,0
+2021_01_SF_DET,LeGuantanamoBay,50
 2021_01_SF_DET,lifelongJJ18fan,20
 2021_01_SF_DET,linsky,24
 2021_01_SF_DET,LowStakesLaura,18
@@ -4171,7 +4171,6 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,daveglaza,50
 2021_01_JAX_HOU,daveshap,50
 2021_01_JAX_HOU,david_finmoploy,49
-2021_01_JAX_HOU,DavidTrost,50
 2021_01_JAX_HOU,DavidZoned,24
 2021_01_JAX_HOU,davisj2007,67
 2021_01_JAX_HOU,daviswinslow,50
@@ -4376,6 +4375,7 @@ game_id,screen_name,prediction
 2021_01_JAX_HOU,LeachJus,64
 2021_01_JAX_HOU,LeeSharpeNFL,42
 2021_01_JAX_HOU,Legendary24_7,0
+2021_01_JAX_HOU,LeGuantanamoBay,50
 2021_01_JAX_HOU,lifelongJJ18fan,35
 2021_01_JAX_HOU,linsky,43
 2021_01_JAX_HOU,LowStakesLaura,50
@@ -4844,7 +4844,6 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,daveglaza,50
 2021_01_SEA_IND,daveshap,50
 2021_01_SEA_IND,david_finmoploy,48
-2021_01_SEA_IND,DavidTrost,50
 2021_01_SEA_IND,DavidZoned,37
 2021_01_SEA_IND,davisj2007,57
 2021_01_SEA_IND,daviswinslow,50
@@ -5049,6 +5048,7 @@ game_id,screen_name,prediction
 2021_01_SEA_IND,LeachJus,9
 2021_01_SEA_IND,LeeSharpeNFL,36
 2021_01_SEA_IND,Legendary24_7,0
+2021_01_SEA_IND,LeGuantanamoBay,50
 2021_01_SEA_IND,lifelongJJ18fan,35
 2021_01_SEA_IND,linsky,41
 2021_01_SEA_IND,LowStakesLaura,30
@@ -5517,7 +5517,6 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,daveglaza,50
 2021_01_ARI_TEN,daveshap,50
 2021_01_ARI_TEN,david_finmoploy,57
-2021_01_ARI_TEN,DavidTrost,50
 2021_01_ARI_TEN,DavidZoned,54
 2021_01_ARI_TEN,davisj2007,65
 2021_01_ARI_TEN,daviswinslow,50
@@ -5722,6 +5721,7 @@ game_id,screen_name,prediction
 2021_01_ARI_TEN,LeachJus,59
 2021_01_ARI_TEN,LeeSharpeNFL,63
 2021_01_ARI_TEN,Legendary24_7,100
+2021_01_ARI_TEN,LeGuantanamoBay,50
 2021_01_ARI_TEN,lifelongJJ18fan,59
 2021_01_ARI_TEN,linsky,65
 2021_01_ARI_TEN,LowStakesLaura,56
@@ -6190,7 +6190,6 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,daveglaza,50
 2021_01_LAC_WAS,daveshap,50
 2021_01_LAC_WAS,david_finmoploy,56
-2021_01_LAC_WAS,DavidTrost,50
 2021_01_LAC_WAS,DavidZoned,49
 2021_01_LAC_WAS,davisj2007,61
 2021_01_LAC_WAS,daviswinslow,50
@@ -6395,6 +6394,7 @@ game_id,screen_name,prediction
 2021_01_LAC_WAS,LeachJus,35
 2021_01_LAC_WAS,LeeSharpeNFL,43
 2021_01_LAC_WAS,Legendary24_7,100
+2021_01_LAC_WAS,LeGuantanamoBay,50
 2021_01_LAC_WAS,lifelongJJ18fan,56
 2021_01_LAC_WAS,linsky,36
 2021_01_LAC_WAS,LowStakesLaura,41
@@ -6863,7 +6863,6 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,daveglaza,50
 2021_01_CLE_KC,daveshap,50
 2021_01_CLE_KC,david_finmoploy,66
-2021_01_CLE_KC,DavidTrost,50
 2021_01_CLE_KC,DavidZoned,50
 2021_01_CLE_KC,davisj2007,50
 2021_01_CLE_KC,daviswinslow,50
@@ -7068,6 +7067,7 @@ game_id,screen_name,prediction
 2021_01_CLE_KC,LeachJus,72
 2021_01_CLE_KC,LeeSharpeNFL,68
 2021_01_CLE_KC,Legendary24_7,100
+2021_01_CLE_KC,LeGuantanamoBay,50
 2021_01_CLE_KC,lifelongJJ18fan,70
 2021_01_CLE_KC,linsky,69
 2021_01_CLE_KC,LowStakesLaura,87
@@ -7536,7 +7536,6 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,daveglaza,50
 2021_01_MIA_NE,daveshap,50
 2021_01_MIA_NE,david_finmoploy,61
-2021_01_MIA_NE,DavidTrost,50
 2021_01_MIA_NE,DavidZoned,50
 2021_01_MIA_NE,davisj2007,54
 2021_01_MIA_NE,daviswinslow,50
@@ -7741,6 +7740,7 @@ game_id,screen_name,prediction
 2021_01_MIA_NE,LeachJus,61
 2021_01_MIA_NE,LeeSharpeNFL,46
 2021_01_MIA_NE,Legendary24_7,66
+2021_01_MIA_NE,LeGuantanamoBay,50
 2021_01_MIA_NE,lifelongJJ18fan,55
 2021_01_MIA_NE,linsky,45
 2021_01_MIA_NE,LowStakesLaura,43
@@ -8209,7 +8209,6 @@ game_id,screen_name,prediction
 2021_01_GB_NO,daveglaza,50
 2021_01_GB_NO,daveshap,50
 2021_01_GB_NO,david_finmoploy,45
-2021_01_GB_NO,DavidTrost,50
 2021_01_GB_NO,DavidZoned,50
 2021_01_GB_NO,davisj2007,58
 2021_01_GB_NO,daviswinslow,50
@@ -8414,6 +8413,7 @@ game_id,screen_name,prediction
 2021_01_GB_NO,LeachJus,33
 2021_01_GB_NO,LeeSharpeNFL,35
 2021_01_GB_NO,Legendary24_7,0
+2021_01_GB_NO,LeGuantanamoBay,50
 2021_01_GB_NO,lifelongJJ18fan,30
 2021_01_GB_NO,linsky,38
 2021_01_GB_NO,LowStakesLaura,41
@@ -8882,7 +8882,6 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,daveglaza,50
 2021_01_DEN_NYG,daveshap,50
 2021_01_DEN_NYG,david_finmoploy,58
-2021_01_DEN_NYG,DavidTrost,50
 2021_01_DEN_NYG,DavidZoned,50
 2021_01_DEN_NYG,davisj2007,56
 2021_01_DEN_NYG,daviswinslow,50
@@ -9087,6 +9086,7 @@ game_id,screen_name,prediction
 2021_01_DEN_NYG,LeachJus,59
 2021_01_DEN_NYG,LeeSharpeNFL,53
 2021_01_DEN_NYG,Legendary24_7,0
+2021_01_DEN_NYG,LeGuantanamoBay,50
 2021_01_DEN_NYG,lifelongJJ18fan,36
 2021_01_DEN_NYG,linsky,41
 2021_01_DEN_NYG,LowStakesLaura,50
@@ -9555,7 +9555,6 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,daveglaza,50
 2021_01_CHI_LA,daveshap,50
 2021_01_CHI_LA,david_finmoploy,75
-2021_01_CHI_LA,DavidTrost,50
 2021_01_CHI_LA,DavidZoned,50
 2021_01_CHI_LA,davisj2007,65
 2021_01_CHI_LA,daviswinslow,50
@@ -9761,6 +9760,7 @@ game_id,screen_name,prediction
 2021_01_CHI_LA,LeachJus,85
 2021_01_CHI_LA,LeeSharpeNFL,64
 2021_01_CHI_LA,Legendary24_7,100
+2021_01_CHI_LA,LeGuantanamoBay,50
 2021_01_CHI_LA,lifelongJJ18fan,70
 2021_01_CHI_LA,linsky,55
 2021_01_CHI_LA,LowStakesLaura,86
@@ -10238,7 +10238,6 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,daveglaza,50
 2021_01_BAL_LV,daveshap,50
 2021_01_BAL_LV,david_finmoploy,33
-2021_01_BAL_LV,DavidTrost,50
 2021_01_BAL_LV,DavidZoned,50
 2021_01_BAL_LV,davisj2007,46
 2021_01_BAL_LV,daviswinslow,50
@@ -10451,6 +10450,7 @@ game_id,screen_name,prediction
 2021_01_BAL_LV,LeachJus,34
 2021_01_BAL_LV,LeeSharpeNFL,41
 2021_01_BAL_LV,Legendary24_7,0
+2021_01_BAL_LV,LeGuantanamoBay,50
 2021_01_BAL_LV,lifelongJJ18fan,34
 2021_01_BAL_LV,linsky,37
 2021_01_BAL_LV,LoganLove88,50
