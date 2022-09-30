@@ -88556,7 +88556,6 @@ game_id,screen_name,prediction
 2021_22_LA_CIN,YayySports,31
 2022_01_BUF_LA,,55
 2022_01_BUF_LA,,56
-2022_01_BUF_LA,,48
 2022_01_BUF_LA,_alendowsky,45
 2022_01_BUF_LA,_daddy_butter,50
 2022_01_BUF_LA,_DH44_,55
@@ -88920,6 +88919,7 @@ game_id,screen_name,prediction
 2022_01_BUF_LA,packeRanalytics,32
 2022_01_BUF_LA,pastorpatricktx,45
 2022_01_BUF_LA,Patricksabato,45
+2022_01_BUF_LA,PattonAnalytics,48
 2022_01_BUF_LA,paulkritter,31
 2022_01_BUF_LA,PayneHeatCheck,20
 2022_01_BUF_LA,Petey_Walnuts24,43
@@ -89092,7 +89092,6 @@ game_id,screen_name,prediction
 2022_01_BUF_LA,zweinberg18,46
 2022_01_NO_ATL,,40
 2022_01_NO_ATL,,20
-2022_01_NO_ATL,,40
 2022_01_NO_ATL,_alendowsky,45
 2022_01_NO_ATL,_daddy_butter,50
 2022_01_NO_ATL,_DH44_,35
@@ -89504,6 +89503,7 @@ game_id,screen_name,prediction
 2022_01_NO_ATL,pastorpatricktx,30
 2022_01_NO_ATL,patpAItriot,46
 2022_01_NO_ATL,Patricksabato,35
+2022_01_NO_ATL,PattonAnalytics,40
 2022_01_NO_ATL,paulkritter,50
 2022_01_NO_ATL,PayneHeatCheck,25
 2022_01_NO_ATL,Petey_Walnuts24,37
@@ -89690,7 +89690,6 @@ game_id,screen_name,prediction
 2022_01_NO_ATL,Zrosen98,25
 2022_01_NO_ATL,zweinberg18,35
 2022_01_CLE_CAR,,50
-2022_01_CLE_CAR,,52
 2022_01_CLE_CAR,,50
 2022_01_CLE_CAR,_alendowsky,53
 2022_01_CLE_CAR,_daddy_butter,50
@@ -90104,6 +90103,7 @@ game_id,screen_name,prediction
 2022_01_CLE_CAR,pastorpatricktx,60
 2022_01_CLE_CAR,patpAItriot,50
 2022_01_CLE_CAR,Patricksabato,51
+2022_01_CLE_CAR,PattonAnalytics,52
 2022_01_CLE_CAR,paulkritter,50
 2022_01_CLE_CAR,PayneHeatCheck,38
 2022_01_CLE_CAR,Petey_Walnuts24,41
@@ -90290,7 +90290,6 @@ game_id,screen_name,prediction
 2022_01_CLE_CAR,Zrosen98,41
 2022_01_CLE_CAR,zweinberg18,53
 2022_01_SF_CHI,,40
-2022_01_SF_CHI,,35
 2022_01_SF_CHI,,50
 2022_01_SF_CHI,_alendowsky,40
 2022_01_SF_CHI,_daddy_butter,50
@@ -90703,6 +90702,7 @@ game_id,screen_name,prediction
 2022_01_SF_CHI,pastorpatricktx,40
 2022_01_SF_CHI,patpAItriot,46
 2022_01_SF_CHI,Patricksabato,40
+2022_01_SF_CHI,PattonAnalytics,35
 2022_01_SF_CHI,paulkritter,50
 2022_01_SF_CHI,PayneHeatCheck,1
 2022_01_SF_CHI,Petey_Walnuts24,0
@@ -90890,7 +90890,6 @@ game_id,screen_name,prediction
 2022_01_SF_CHI,zweinberg18,38
 2022_01_PIT_CIN,,64
 2022_01_PIT_CIN,,60
-2022_01_PIT_CIN,,55
 2022_01_PIT_CIN,_alendowsky,60
 2022_01_PIT_CIN,_daddy_butter,50
 2022_01_PIT_CIN,_DH44_,58
@@ -91303,6 +91302,7 @@ game_id,screen_name,prediction
 2022_01_PIT_CIN,pastorpatricktx,60
 2022_01_PIT_CIN,patpAItriot,73
 2022_01_PIT_CIN,Patricksabato,60
+2022_01_PIT_CIN,PattonAnalytics,55
 2022_01_PIT_CIN,paulkritter,50
 2022_01_PIT_CIN,PayneHeatCheck,82
 2022_01_PIT_CIN,Petey_Walnuts24,72
@@ -91488,9 +91488,8 @@ game_id,screen_name,prediction
 2022_01_PIT_CIN,zonevsrpo,70
 2022_01_PIT_CIN,Zrosen98,81
 2022_01_PIT_CIN,zweinberg18,60
-2022_01_PHI_DET,,40
-2022_01_PHI_DET,,42
 2022_01_PHI_DET,,20
+2022_01_PHI_DET,,42
 2022_01_PHI_DET,_alendowsky,40
 2022_01_PHI_DET,_daddy_butter,50
 2022_01_PHI_DET,_DH44_,63
@@ -91903,6 +91902,7 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,pastorpatricktx,55
 2022_01_PHI_DET,patpAItriot,43
 2022_01_PHI_DET,Patricksabato,35
+2022_01_PHI_DET,PattonAnalytics,40
 2022_01_PHI_DET,paulkritter,50
 2022_01_PHI_DET,PayneHeatCheck,50
 2022_01_PHI_DET,Petey_Walnuts24,31
@@ -92088,9 +92088,8 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,zonevsrpo,49
 2022_01_PHI_DET,Zrosen98,30
 2022_01_PHI_DET,zweinberg18,55
-2022_01_IND_HOU,,39
-2022_01_IND_HOU,,40
 2022_01_IND_HOU,,30
+2022_01_IND_HOU,,39
 2022_01_IND_HOU,_alendowsky,40
 2022_01_IND_HOU,_daddy_butter,50
 2022_01_IND_HOU,_DH44_,48
@@ -92503,6 +92502,7 @@ game_id,screen_name,prediction
 2022_01_IND_HOU,pastorpatricktx,45
 2022_01_IND_HOU,patpAItriot,40
 2022_01_IND_HOU,Patricksabato,40
+2022_01_IND_HOU,PattonAnalytics,40
 2022_01_IND_HOU,paulkritter,50
 2022_01_IND_HOU,PayneHeatCheck,1
 2022_01_IND_HOU,Petey_Walnuts24,16
@@ -92690,7 +92690,6 @@ game_id,screen_name,prediction
 2022_01_IND_HOU,zweinberg18,35
 2022_01_NE_MIA,,55
 2022_01_NE_MIA,,35
-2022_01_NE_MIA,,55
 2022_01_NE_MIA,_alendowsky,53
 2022_01_NE_MIA,_daddy_butter,50
 2022_01_NE_MIA,_DH44_,46
@@ -93102,6 +93101,7 @@ game_id,screen_name,prediction
 2022_01_NE_MIA,pastorpatricktx,51
 2022_01_NE_MIA,patpAItriot,41
 2022_01_NE_MIA,Patricksabato,75
+2022_01_NE_MIA,PattonAnalytics,55
 2022_01_NE_MIA,paulkritter,50
 2022_01_NE_MIA,PayneHeatCheck,42
 2022_01_NE_MIA,Petey_Walnuts24,50
@@ -93289,7 +93289,6 @@ game_id,screen_name,prediction
 2022_01_NE_MIA,zweinberg18,45
 2022_01_BAL_NYJ,,33
 2022_01_BAL_NYJ,,35
-2022_01_BAL_NYJ,,10
 2022_01_BAL_NYJ,_alendowsky,40
 2022_01_BAL_NYJ,_daddy_butter,50
 2022_01_BAL_NYJ,_DH44_,0
@@ -93701,6 +93700,7 @@ game_id,screen_name,prediction
 2022_01_BAL_NYJ,pastorpatricktx,35
 2022_01_BAL_NYJ,patpAItriot,50
 2022_01_BAL_NYJ,Patricksabato,5
+2022_01_BAL_NYJ,PattonAnalytics,10
 2022_01_BAL_NYJ,paulkritter,50
 2022_01_BAL_NYJ,PayneHeatCheck,1
 2022_01_BAL_NYJ,Petey_Walnuts24,9
@@ -93886,9 +93886,8 @@ game_id,screen_name,prediction
 2022_01_BAL_NYJ,zonevsrpo,25
 2022_01_BAL_NYJ,Zrosen98,34
 2022_01_BAL_NYJ,zweinberg18,26
+2022_01_JAX_WAS,,55
 2022_01_JAX_WAS,,50
-2022_01_JAX_WAS,,55
-2022_01_JAX_WAS,,55
 2022_01_JAX_WAS,_alendowsky,53
 2022_01_JAX_WAS,_daddy_butter,50
 2022_01_JAX_WAS,_DH44_,39
@@ -94301,6 +94300,7 @@ game_id,screen_name,prediction
 2022_01_JAX_WAS,pastorpatricktx,47
 2022_01_JAX_WAS,patpAItriot,50
 2022_01_JAX_WAS,Patricksabato,49
+2022_01_JAX_WAS,PattonAnalytics,55
 2022_01_JAX_WAS,paulkritter,50
 2022_01_JAX_WAS,PayneHeatCheck,66
 2022_01_JAX_WAS,Petey_Walnuts24,55
@@ -94488,7 +94488,6 @@ game_id,screen_name,prediction
 2022_01_JAX_WAS,zweinberg18,45
 2022_01_KC_ARI,,35
 2022_01_KC_ARI,,47
-2022_01_KC_ARI,,30
 2022_01_KC_ARI,_alendowsky,40
 2022_01_KC_ARI,_daddy_butter,50
 2022_01_KC_ARI,_DH44_,0
@@ -94901,6 +94900,7 @@ game_id,screen_name,prediction
 2022_01_KC_ARI,pastorpatricktx,40
 2022_01_KC_ARI,patpAItriot,29
 2022_01_KC_ARI,Patricksabato,45
+2022_01_KC_ARI,PattonAnalytics,30
 2022_01_KC_ARI,paulkritter,50
 2022_01_KC_ARI,PayneHeatCheck,28
 2022_01_KC_ARI,Petey_Walnuts24,50
@@ -95088,7 +95088,6 @@ game_id,screen_name,prediction
 2022_01_KC_ARI,zweinberg18,35
 2022_01_LV_LAC,,60
 2022_01_LV_LAC,,50
-2022_01_LV_LAC,,55
 2022_01_LV_LAC,_alendowsky,53
 2022_01_LV_LAC,_daddy_butter,50
 2022_01_LV_LAC,_DH44_,52
@@ -95501,6 +95500,7 @@ game_id,screen_name,prediction
 2022_01_LV_LAC,pastorpatricktx,65
 2022_01_LV_LAC,patpAItriot,55
 2022_01_LV_LAC,Patricksabato,58
+2022_01_LV_LAC,PattonAnalytics,55
 2022_01_LV_LAC,paulkritter,50
 2022_01_LV_LAC,PayneHeatCheck,77
 2022_01_LV_LAC,Petey_Walnuts24,64
@@ -95686,7 +95686,6 @@ game_id,screen_name,prediction
 2022_01_LV_LAC,zonevsrpo,55
 2022_01_LV_LAC,Zrosen98,72
 2022_01_LV_LAC,zweinberg18,65
-2022_01_GB_MIN,,48
 2022_01_GB_MIN,,40
 2022_01_GB_MIN,,33
 2022_01_GB_MIN,_alendowsky,45
@@ -96101,6 +96100,7 @@ game_id,screen_name,prediction
 2022_01_GB_MIN,pastorpatricktx,53
 2022_01_GB_MIN,patpAItriot,47
 2022_01_GB_MIN,Patricksabato,41
+2022_01_GB_MIN,PattonAnalytics,48
 2022_01_GB_MIN,paulkritter,50
 2022_01_GB_MIN,PayneHeatCheck,63
 2022_01_GB_MIN,Petey_Walnuts24,50
@@ -96286,9 +96286,8 @@ game_id,screen_name,prediction
 2022_01_GB_MIN,zonevsrpo,40
 2022_01_GB_MIN,Zrosen98,42
 2022_01_GB_MIN,zweinberg18,43
-2022_01_NYG_TEN,,55
-2022_01_NYG_TEN,,61
 2022_01_NYG_TEN,,69
+2022_01_NYG_TEN,,61
 2022_01_NYG_TEN,_alendowsky,60
 2022_01_NYG_TEN,_daddy_butter,50
 2022_01_NYG_TEN,_DH44_,52
@@ -96701,6 +96700,7 @@ game_id,screen_name,prediction
 2022_01_NYG_TEN,pastorpatricktx,60
 2022_01_NYG_TEN,patpAItriot,80
 2022_01_NYG_TEN,Patricksabato,70
+2022_01_NYG_TEN,PattonAnalytics,55
 2022_01_NYG_TEN,paulkritter,50
 2022_01_NYG_TEN,PayneHeatCheck,99
 2022_01_NYG_TEN,Petey_Walnuts24,67
@@ -96888,7 +96888,6 @@ game_id,screen_name,prediction
 2022_01_NYG_TEN,zweinberg18,63
 2022_01_TB_DAL,,55
 2022_01_TB_DAL,,51
-2022_01_TB_DAL,,45
 2022_01_TB_DAL,_alendowsky,45
 2022_01_TB_DAL,_daddy_butter,50
 2022_01_TB_DAL,_DH44_,36
@@ -97305,6 +97304,7 @@ game_id,screen_name,prediction
 2022_01_TB_DAL,pastorpatricktx,53
 2022_01_TB_DAL,patpAItriot,53
 2022_01_TB_DAL,Patricksabato,40
+2022_01_TB_DAL,PattonAnalytics,45
 2022_01_TB_DAL,paulkritter,50
 2022_01_TB_DAL,PayneHeatCheck,36
 2022_01_TB_DAL,Petey_Walnuts24,46
@@ -97490,7 +97490,6 @@ game_id,screen_name,prediction
 2022_01_TB_DAL,zonevsrpo,45
 2022_01_TB_DAL,Zrosen98,42
 2022_01_TB_DAL,zweinberg18,38
-2022_01_DEN_SEA,,52
 2022_01_DEN_SEA,,42
 2022_01_DEN_SEA,,38
 2022_01_DEN_SEA,_alendowsky,40
@@ -97916,6 +97915,7 @@ game_id,screen_name,prediction
 2022_01_DEN_SEA,pastorpatricktx,40
 2022_01_DEN_SEA,patpAItriot,41
 2022_01_DEN_SEA,Patricksabato,25
+2022_01_DEN_SEA,PattonAnalytics,52
 2022_01_DEN_SEA,paulkritter,50
 2022_01_DEN_SEA,PayneHeatCheck,18
 2022_01_DEN_SEA,Petey_Walnuts24,0
@@ -98102,7 +98102,6 @@ game_id,screen_name,prediction
 2022_01_DEN_SEA,zonevsrpo,50
 2022_01_DEN_SEA,Zrosen98,28
 2022_01_DEN_SEA,zweinberg18,35
-2022_02_LAC_KC,,57
 2022_02_LAC_KC,,60
 2022_02_LAC_KC,_alendowsky,50
 2022_02_LAC_KC,_DH44_,55
@@ -98398,6 +98397,7 @@ game_id,screen_name,prediction
 2022_02_LAC_KC,ParanjaiP,53
 2022_02_LAC_KC,patpAItriot,50
 2022_02_LAC_KC,Patricksabato,55
+2022_02_LAC_KC,PattonAnalytics,57
 2022_02_LAC_KC,PayneHeatCheck,44
 2022_02_LAC_KC,PeytonWCooper,50
 2022_02_LAC_KC,PFF_Brad,70
@@ -98512,7 +98512,6 @@ game_id,screen_name,prediction
 2022_02_LAC_KC,yourtakeisdumb,56
 2022_02_LAC_KC,YSchlepper,65
 2022_02_LAC_KC,zweinberg18,59
-2022_02_MIA_BAL,,60
 2022_02_MIA_BAL,,60
 2022_02_MIA_BAL,_alendowsky,50
 2022_02_MIA_BAL,_DH44_,67
@@ -98832,6 +98831,7 @@ game_id,screen_name,prediction
 2022_02_MIA_BAL,ParanjaiP,46
 2022_02_MIA_BAL,patpAItriot,58
 2022_02_MIA_BAL,Patricksabato,57
+2022_02_MIA_BAL,PattonAnalytics,60
 2022_02_MIA_BAL,PayneHeatCheck,50
 2022_02_MIA_BAL,PeytonWCooper,55
 2022_02_MIA_BAL,PFF_Brad,45
@@ -98954,7 +98954,6 @@ game_id,screen_name,prediction
 2022_02_MIA_BAL,yourtakeisdumb,56
 2022_02_MIA_BAL,YSchlepper,40
 2022_02_MIA_BAL,zweinberg18,57
-2022_02_NYJ_CLE,,56
 2022_02_NYJ_CLE,,60
 2022_02_NYJ_CLE,_alendowsky,50
 2022_02_NYJ_CLE,_DH44_,52
@@ -99274,6 +99273,7 @@ game_id,screen_name,prediction
 2022_02_NYJ_CLE,ParanjaiP,60
 2022_02_NYJ_CLE,patpAItriot,70
 2022_02_NYJ_CLE,Patricksabato,56
+2022_02_NYJ_CLE,PattonAnalytics,56
 2022_02_NYJ_CLE,PayneHeatCheck,50
 2022_02_NYJ_CLE,PeytonWCooper,59
 2022_02_NYJ_CLE,PFF_Brad,75
@@ -99396,7 +99396,6 @@ game_id,screen_name,prediction
 2022_02_NYJ_CLE,yourtakeisdumb,53
 2022_02_NYJ_CLE,YSchlepper,65
 2022_02_NYJ_CLE,zweinberg18,46
-2022_02_WAS_DET,,48
 2022_02_WAS_DET,,53
 2022_02_WAS_DET,_alendowsky,50
 2022_02_WAS_DET,_DH44_,53
@@ -99716,6 +99715,7 @@ game_id,screen_name,prediction
 2022_02_WAS_DET,ParanjaiP,56
 2022_02_WAS_DET,patpAItriot,54
 2022_02_WAS_DET,Patricksabato,45
+2022_02_WAS_DET,PattonAnalytics,48
 2022_02_WAS_DET,PayneHeatCheck,50
 2022_02_WAS_DET,PeytonWCooper,42
 2022_02_WAS_DET,PFF_Brad,45
@@ -99838,7 +99838,6 @@ game_id,screen_name,prediction
 2022_02_WAS_DET,yourtakeisdumb,54
 2022_02_WAS_DET,YSchlepper,35
 2022_02_WAS_DET,zweinberg18,58
-2022_02_IND_JAX,,52
 2022_02_IND_JAX,,45
 2022_02_IND_JAX,_alendowsky,50
 2022_02_IND_JAX,_DH44_,48
@@ -100158,6 +100157,7 @@ game_id,screen_name,prediction
 2022_02_IND_JAX,ParanjaiP,43
 2022_02_IND_JAX,patpAItriot,36
 2022_02_IND_JAX,Patricksabato,35
+2022_02_IND_JAX,PattonAnalytics,52
 2022_02_IND_JAX,PayneHeatCheck,50
 2022_02_IND_JAX,PeytonWCooper,42
 2022_02_IND_JAX,PFF_Brad,40
@@ -100281,7 +100281,6 @@ game_id,screen_name,prediction
 2022_02_IND_JAX,YSchlepper,35
 2022_02_IND_JAX,zweinberg18,56
 2022_02_TB_NO,,45
-2022_02_TB_NO,,52
 2022_02_TB_NO,_alendowsky,50
 2022_02_TB_NO,_DH44_,53
 2022_02_TB_NO,_jeffreyhtan,43
@@ -100600,6 +100599,7 @@ game_id,screen_name,prediction
 2022_02_TB_NO,ParanjaiP,53
 2022_02_TB_NO,patpAItriot,45
 2022_02_TB_NO,Patricksabato,40
+2022_02_TB_NO,PattonAnalytics,52
 2022_02_TB_NO,PayneHeatCheck,50
 2022_02_TB_NO,PeytonWCooper,48
 2022_02_TB_NO,PFF_Brad,45
@@ -100722,7 +100722,6 @@ game_id,screen_name,prediction
 2022_02_TB_NO,yourtakeisdumb,54
 2022_02_TB_NO,YSchlepper,25
 2022_02_TB_NO,zweinberg18,47
-2022_02_CAR_NYG,,52
 2022_02_CAR_NYG,,55
 2022_02_CAR_NYG,_alendowsky,50
 2022_02_CAR_NYG,_DH44_,46
@@ -101042,6 +101041,7 @@ game_id,screen_name,prediction
 2022_02_CAR_NYG,ParanjaiP,52
 2022_02_CAR_NYG,patpAItriot,59
 2022_02_CAR_NYG,Patricksabato,55
+2022_02_CAR_NYG,PattonAnalytics,52
 2022_02_CAR_NYG,PayneHeatCheck,50
 2022_02_CAR_NYG,PeytonWCooper,48
 2022_02_CAR_NYG,PFF_Brad,55
@@ -101164,7 +101164,6 @@ game_id,screen_name,prediction
 2022_02_CAR_NYG,yourtakeisdumb,52
 2022_02_CAR_NYG,YSchlepper,29
 2022_02_CAR_NYG,zweinberg18,56
-2022_02_NE_PIT,,46
 2022_02_NE_PIT,,55
 2022_02_NE_PIT,_alendowsky,50
 2022_02_NE_PIT,_DH44_,43
@@ -101484,6 +101483,7 @@ game_id,screen_name,prediction
 2022_02_NE_PIT,ParanjaiP,60
 2022_02_NE_PIT,patpAItriot,47
 2022_02_NE_PIT,Patricksabato,59
+2022_02_NE_PIT,PattonAnalytics,46
 2022_02_NE_PIT,PayneHeatCheck,50
 2022_02_NE_PIT,PeytonWCooper,52
 2022_02_NE_PIT,PFF_Brad,45
@@ -101606,7 +101606,6 @@ game_id,screen_name,prediction
 2022_02_NE_PIT,yourtakeisdumb,53
 2022_02_NE_PIT,YSchlepper,40
 2022_02_NE_PIT,zweinberg18,46
-2022_02_ATL_LA,,62
 2022_02_ATL_LA,,70
 2022_02_ATL_LA,_alendowsky,50
 2022_02_ATL_LA,_DH44_,60
@@ -101926,6 +101925,7 @@ game_id,screen_name,prediction
 2022_02_ATL_LA,ParanjaiP,80
 2022_02_ATL_LA,patpAItriot,76
 2022_02_ATL_LA,Patricksabato,85
+2022_02_ATL_LA,PattonAnalytics,62
 2022_02_ATL_LA,PayneHeatCheck,50
 2022_02_ATL_LA,PeytonWCooper,55
 2022_02_ATL_LA,PFF_Brad,100
@@ -102050,7 +102050,6 @@ game_id,screen_name,prediction
 2022_02_ATL_LA,YSchlepper,100
 2022_02_ATL_LA,zweinberg18,56
 2022_02_SEA_SF,,60
-2022_02_SEA_SF,,62
 2022_02_SEA_SF,_alendowsky,50
 2022_02_SEA_SF,_DH44_,55
 2022_02_SEA_SF,_jeffreyhtan,69
@@ -102369,6 +102368,7 @@ game_id,screen_name,prediction
 2022_02_SEA_SF,ParanjaiP,45
 2022_02_SEA_SF,patpAItriot,57
 2022_02_SEA_SF,Patricksabato,65
+2022_02_SEA_SF,PattonAnalytics,62
 2022_02_SEA_SF,PayneHeatCheck,50
 2022_02_SEA_SF,PeytonWCooper,53
 2022_02_SEA_SF,PFF_Brad,85
@@ -102493,7 +102493,6 @@ game_id,screen_name,prediction
 2022_02_SEA_SF,YSchlepper,70
 2022_02_SEA_SF,zweinberg18,58
 2022_02_CIN_DAL,,35
-2022_02_CIN_DAL,,38
 2022_02_CIN_DAL,_alendowsky,50
 2022_02_CIN_DAL,_DH44_,51
 2022_02_CIN_DAL,_jeffreyhtan,33
@@ -102812,6 +102811,7 @@ game_id,screen_name,prediction
 2022_02_CIN_DAL,ParanjaiP,33
 2022_02_CIN_DAL,patpAItriot,58
 2022_02_CIN_DAL,Patricksabato,5
+2022_02_CIN_DAL,PattonAnalytics,38
 2022_02_CIN_DAL,PayneHeatCheck,50
 2022_02_CIN_DAL,PeytonWCooper,44
 2022_02_CIN_DAL,PFF_Brad,20
@@ -102936,7 +102936,6 @@ game_id,screen_name,prediction
 2022_02_CIN_DAL,YSchlepper,30
 2022_02_CIN_DAL,zweinberg18,37
 2022_02_HOU_DEN,,65
-2022_02_HOU_DEN,,62
 2022_02_HOU_DEN,_alendowsky,50
 2022_02_HOU_DEN,_DH44_,65
 2022_02_HOU_DEN,_jeffreyhtan,80
@@ -103255,6 +103254,7 @@ game_id,screen_name,prediction
 2022_02_HOU_DEN,ParanjaiP,62
 2022_02_HOU_DEN,patpAItriot,64
 2022_02_HOU_DEN,Patricksabato,85
+2022_02_HOU_DEN,PattonAnalytics,62
 2022_02_HOU_DEN,PayneHeatCheck,50
 2022_02_HOU_DEN,PeytonWCooper,66
 2022_02_HOU_DEN,PFF_Brad,100
@@ -103379,7 +103379,6 @@ game_id,screen_name,prediction
 2022_02_HOU_DEN,YSchlepper,70
 2022_02_HOU_DEN,zweinberg18,70
 2022_02_ARI_LV,,55
-2022_02_ARI_LV,,52
 2022_02_ARI_LV,_alendowsky,50
 2022_02_ARI_LV,_DH44_,58
 2022_02_ARI_LV,_jeffreyhtan,65
@@ -103698,6 +103697,7 @@ game_id,screen_name,prediction
 2022_02_ARI_LV,ParanjaiP,58
 2022_02_ARI_LV,patpAItriot,56
 2022_02_ARI_LV,Patricksabato,48
+2022_02_ARI_LV,PattonAnalytics,52
 2022_02_ARI_LV,PayneHeatCheck,50
 2022_02_ARI_LV,PeytonWCooper,40
 2022_02_ARI_LV,PFF_Brad,49
@@ -103822,7 +103822,6 @@ game_id,screen_name,prediction
 2022_02_ARI_LV,YSchlepper,65
 2022_02_ARI_LV,zweinberg18,44
 2022_02_CHI_GB,,75
-2022_02_CHI_GB,,70
 2022_02_CHI_GB,_alendowsky,50
 2022_02_CHI_GB,_DH44_,82
 2022_02_CHI_GB,_jeffreyhtan,71
@@ -104141,6 +104140,7 @@ game_id,screen_name,prediction
 2022_02_CHI_GB,ParanjaiP,95
 2022_02_CHI_GB,patpAItriot,70
 2022_02_CHI_GB,Patricksabato,73
+2022_02_CHI_GB,PattonAnalytics,70
 2022_02_CHI_GB,PayneHeatCheck,50
 2022_02_CHI_GB,PeytonWCooper,61
 2022_02_CHI_GB,PFF_Brad,85
@@ -104265,7 +104265,6 @@ game_id,screen_name,prediction
 2022_02_CHI_GB,yourtakeisdumb,75
 2022_02_CHI_GB,YSchlepper,90
 2022_02_CHI_GB,zweinberg18,58
-2022_02_TEN_BUF,,65
 2022_02_TEN_BUF,,65
 2022_02_TEN_BUF,_alendowsky,50
 2022_02_TEN_BUF,_DH44_,56
@@ -104589,6 +104588,7 @@ game_id,screen_name,prediction
 2022_02_TEN_BUF,ParanjaiP,76
 2022_02_TEN_BUF,patpAItriot,70
 2022_02_TEN_BUF,Patricksabato,100
+2022_02_TEN_BUF,PattonAnalytics,65
 2022_02_TEN_BUF,PayneHeatCheck,50
 2022_02_TEN_BUF,PeytonWCooper,61
 2022_02_TEN_BUF,PFF_Brad,85
@@ -104714,7 +104714,6 @@ game_id,screen_name,prediction
 2022_02_TEN_BUF,yourtakeisdumb,61
 2022_02_TEN_BUF,YSchlepper,100
 2022_02_TEN_BUF,zweinberg18,81
-2022_02_MIN_PHI,,55
 2022_02_MIN_PHI,,55
 2022_02_MIN_PHI,_alendowsky,50
 2022_02_MIN_PHI,_DH44_,49
@@ -105038,6 +105037,7 @@ game_id,screen_name,prediction
 2022_02_MIN_PHI,ParanjaiP,53
 2022_02_MIN_PHI,patpAItriot,51
 2022_02_MIN_PHI,Patricksabato,45
+2022_02_MIN_PHI,PattonAnalytics,55
 2022_02_MIN_PHI,PayneHeatCheck,50
 2022_02_MIN_PHI,PeytonWCooper,38
 2022_02_MIN_PHI,PFF_Brad,49
@@ -105163,7 +105163,6 @@ game_id,screen_name,prediction
 2022_02_MIN_PHI,yourtakeisdumb,45
 2022_02_MIN_PHI,YSchlepper,20
 2022_02_MIN_PHI,zweinberg18,59
-2022_03_PIT_CLE,,54
 2022_03_PIT_CLE,,60
 2022_03_PIT_CLE,_DH44_,47
 2022_03_PIT_CLE,_jeffreyhtan,50
@@ -105439,6 +105438,7 @@ game_id,screen_name,prediction
 2022_03_PIT_CLE,parkerhurley,58
 2022_03_PIT_CLE,patpAItriot,50
 2022_03_PIT_CLE,Patricksabato,55
+2022_03_PIT_CLE,PattonAnalytics,54
 2022_03_PIT_CLE,PFF_Brad,60
 2022_03_PIT_CLE,pfi_keegan,66
 2022_03_PIT_CLE,polialert2020,0
@@ -105545,7 +105545,6 @@ game_id,screen_name,prediction
 2022_03_PIT_CLE,ziyanm_,73
 2022_03_PIT_CLE,zweinberg18,55
 2022_03_NO_CAR,,55
-2022_03_NO_CAR,,40
 2022_03_NO_CAR,_DH44_,49
 2022_03_NO_CAR,_jeffreyhtan,46
 2022_03_NO_CAR,_scottyyyp,50
@@ -105839,6 +105838,7 @@ game_id,screen_name,prediction
 2022_03_NO_CAR,parkerhurley,39
 2022_03_NO_CAR,patpAItriot,50
 2022_03_NO_CAR,Patricksabato,30
+2022_03_NO_CAR,PattonAnalytics,40
 2022_03_NO_CAR,PFF_Brad,45
 2022_03_NO_CAR,pfi_keegan,50
 2022_03_NO_CAR,polialert2020,0
@@ -105950,7 +105950,6 @@ game_id,screen_name,prediction
 2022_03_NO_CAR,YSchlepper,40
 2022_03_NO_CAR,ziyanm_,38
 2022_03_NO_CAR,zweinberg18,35
-2022_03_HOU_CHI,,54
 2022_03_HOU_CHI,,56
 2022_03_HOU_CHI,_DH44_,56
 2022_03_HOU_CHI,_jeffreyhtan,46
@@ -106245,6 +106244,7 @@ game_id,screen_name,prediction
 2022_03_HOU_CHI,parkerhurley,46
 2022_03_HOU_CHI,patpAItriot,50
 2022_03_HOU_CHI,Patricksabato,54
+2022_03_HOU_CHI,PattonAnalytics,54
 2022_03_HOU_CHI,PFF_Brad,55
 2022_03_HOU_CHI,pfi_keegan,58
 2022_03_HOU_CHI,polialert2020,100
@@ -106356,7 +106356,6 @@ game_id,screen_name,prediction
 2022_03_HOU_CHI,YSchlepper,55
 2022_03_HOU_CHI,ziyanm_,40
 2022_03_HOU_CHI,zweinberg18,45
-2022_03_KC_IND,,37
 2022_03_KC_IND,,40
 2022_03_KC_IND,_DH44_,38
 2022_03_KC_IND,_jeffreyhtan,33
@@ -106651,6 +106650,7 @@ game_id,screen_name,prediction
 2022_03_KC_IND,parkerhurley,32
 2022_03_KC_IND,patpAItriot,50
 2022_03_KC_IND,Patricksabato,0
+2022_03_KC_IND,PattonAnalytics,37
 2022_03_KC_IND,PFF_Brad,40
 2022_03_KC_IND,pfi_keegan,28
 2022_03_KC_IND,polialert2020,0
@@ -106763,7 +106763,6 @@ game_id,screen_name,prediction
 2022_03_KC_IND,ziyanm_,45
 2022_03_KC_IND,zweinberg18,28
 2022_03_BUF_MIA,,45
-2022_03_BUF_MIA,,52
 2022_03_BUF_MIA,_DH44_,0
 2022_03_BUF_MIA,_jeffreyhtan,49
 2022_03_BUF_MIA,_scottyyyp,50
@@ -107057,6 +107056,7 @@ game_id,screen_name,prediction
 2022_03_BUF_MIA,parkerhurley,62
 2022_03_BUF_MIA,patpAItriot,50
 2022_03_BUF_MIA,Patricksabato,31
+2022_03_BUF_MIA,PattonAnalytics,52
 2022_03_BUF_MIA,PFF_Brad,40
 2022_03_BUF_MIA,pfi_keegan,31
 2022_03_BUF_MIA,polialert2020,0
@@ -107168,7 +107168,6 @@ game_id,screen_name,prediction
 2022_03_BUF_MIA,YSchlepper,25
 2022_03_BUF_MIA,ziyanm_,63
 2022_03_BUF_MIA,zweinberg18,40
-2022_03_DET_MIN,,53
 2022_03_DET_MIN,,58
 2022_03_DET_MIN,_DH44_,48
 2022_03_DET_MIN,_jeffreyhtan,70
@@ -107463,6 +107462,7 @@ game_id,screen_name,prediction
 2022_03_DET_MIN,parkerhurley,69
 2022_03_DET_MIN,patpAItriot,50
 2022_03_DET_MIN,Patricksabato,53
+2022_03_DET_MIN,PattonAnalytics,53
 2022_03_DET_MIN,PFF_Brad,60
 2022_03_DET_MIN,pfi_keegan,73
 2022_03_DET_MIN,polialert2020,100
@@ -107574,7 +107574,6 @@ game_id,screen_name,prediction
 2022_03_DET_MIN,YSchlepper,60
 2022_03_DET_MIN,ziyanm_,69
 2022_03_DET_MIN,zweinberg18,56
-2022_03_BAL_NE,,45
 2022_03_BAL_NE,,45
 2022_03_BAL_NE,_DH44_,43
 2022_03_BAL_NE,_jeffreyhtan,30
@@ -107869,6 +107868,7 @@ game_id,screen_name,prediction
 2022_03_BAL_NE,parkerhurley,41
 2022_03_BAL_NE,patpAItriot,50
 2022_03_BAL_NE,Patricksabato,0
+2022_03_BAL_NE,PattonAnalytics,45
 2022_03_BAL_NE,PFF_Brad,45
 2022_03_BAL_NE,pfi_keegan,44
 2022_03_BAL_NE,polialert2020,100
@@ -107980,7 +107980,6 @@ game_id,screen_name,prediction
 2022_03_BAL_NE,YSchlepper,30
 2022_03_BAL_NE,ziyanm_,36
 2022_03_BAL_NE,zweinberg18,41
-2022_03_CIN_NYJ,,44
 2022_03_CIN_NYJ,,40
 2022_03_CIN_NYJ,_DH44_,45
 2022_03_CIN_NYJ,_jeffreyhtan,46
@@ -108275,6 +108274,7 @@ game_id,screen_name,prediction
 2022_03_CIN_NYJ,parkerhurley,24
 2022_03_CIN_NYJ,patpAItriot,50
 2022_03_CIN_NYJ,Patricksabato,30
+2022_03_CIN_NYJ,PattonAnalytics,44
 2022_03_CIN_NYJ,PFF_Brad,20
 2022_03_CIN_NYJ,pfi_keegan,35
 2022_03_CIN_NYJ,polialert2020,100
@@ -108386,7 +108386,6 @@ game_id,screen_name,prediction
 2022_03_CIN_NYJ,YSchlepper,40
 2022_03_CIN_NYJ,ziyanm_,31
 2022_03_CIN_NYJ,zweinberg18,44
-2022_03_LV_TEN,,47
 2022_03_LV_TEN,,55
 2022_03_LV_TEN,_DH44_,45
 2022_03_LV_TEN,_jeffreyhtan,47
@@ -108681,6 +108680,7 @@ game_id,screen_name,prediction
 2022_03_LV_TEN,parkerhurley,34
 2022_03_LV_TEN,patpAItriot,50
 2022_03_LV_TEN,Patricksabato,44
+2022_03_LV_TEN,PattonAnalytics,47
 2022_03_LV_TEN,PFF_Brad,51
 2022_03_LV_TEN,pfi_keegan,48
 2022_03_LV_TEN,polialert2020,0
@@ -108793,7 +108793,6 @@ game_id,screen_name,prediction
 2022_03_LV_TEN,ziyanm_,39
 2022_03_LV_TEN,zweinberg18,45
 2022_03_PHI_WAS,,45
-2022_03_PHI_WAS,,38
 2022_03_PHI_WAS,_DH44_,39
 2022_03_PHI_WAS,_jeffreyhtan,38
 2022_03_PHI_WAS,_scottyyyp,50
@@ -109087,6 +109086,7 @@ game_id,screen_name,prediction
 2022_03_PHI_WAS,parkerhurley,35
 2022_03_PHI_WAS,patpAItriot,50
 2022_03_PHI_WAS,Patricksabato,15
+2022_03_PHI_WAS,PattonAnalytics,38
 2022_03_PHI_WAS,PFF_Brad,35
 2022_03_PHI_WAS,pfi_keegan,36
 2022_03_PHI_WAS,polialert2020,0
@@ -109199,7 +109199,6 @@ game_id,screen_name,prediction
 2022_03_PHI_WAS,ziyanm_,27
 2022_03_PHI_WAS,zweinberg18,36
 2022_03_JAX_LAC,,60
-2022_03_JAX_LAC,,48
 2022_03_JAX_LAC,_DH44_,48
 2022_03_JAX_LAC,_jeffreyhtan,62
 2022_03_JAX_LAC,_pranavrajaram,50
@@ -109495,6 +109494,7 @@ game_id,screen_name,prediction
 2022_03_JAX_LAC,parkerhurley,59
 2022_03_JAX_LAC,patpAItriot,50
 2022_03_JAX_LAC,Patricksabato,78
+2022_03_JAX_LAC,PattonAnalytics,48
 2022_03_JAX_LAC,PFF_Brad,80
 2022_03_JAX_LAC,pfi_keegan,80
 2022_03_JAX_LAC,polialert2020,100
@@ -109606,7 +109606,6 @@ game_id,screen_name,prediction
 2022_03_JAX_LAC,YSchlepper,70
 2022_03_JAX_LAC,ziyanm_,78
 2022_03_JAX_LAC,zweinberg18,59
-2022_03_LA_ARI,,43
 2022_03_LA_ARI,,39
 2022_03_LA_ARI,_DH44_,44
 2022_03_LA_ARI,_jeffreyhtan,37
@@ -109903,6 +109902,7 @@ game_id,screen_name,prediction
 2022_03_LA_ARI,parkerhurley,41
 2022_03_LA_ARI,patpAItriot,50
 2022_03_LA_ARI,Patricksabato,35
+2022_03_LA_ARI,PattonAnalytics,43
 2022_03_LA_ARI,PFF_Brad,35
 2022_03_LA_ARI,pfi_keegan,45
 2022_03_LA_ARI,polialert2020,0
@@ -110015,7 +110015,6 @@ game_id,screen_name,prediction
 2022_03_LA_ARI,ziyanm_,39
 2022_03_LA_ARI,zweinberg18,42
 2022_03_ATL_SEA,,55
-2022_03_ATL_SEA,,54
 2022_03_ATL_SEA,_DH44_,52
 2022_03_ATL_SEA,_jeffreyhtan,45
 2022_03_ATL_SEA,_pranavrajaram,50
@@ -110311,6 +110310,7 @@ game_id,screen_name,prediction
 2022_03_ATL_SEA,parkerhurley,45
 2022_03_ATL_SEA,patpAItriot,50
 2022_03_ATL_SEA,Patricksabato,48
+2022_03_ATL_SEA,PattonAnalytics,54
 2022_03_ATL_SEA,PFF_Brad,51
 2022_03_ATL_SEA,pfi_keegan,59
 2022_03_ATL_SEA,polialert2020,0
@@ -110422,7 +110422,6 @@ game_id,screen_name,prediction
 2022_03_ATL_SEA,YSchlepper,45
 2022_03_ATL_SEA,ziyanm_,54
 2022_03_ATL_SEA,zweinberg18,44
-2022_03_GB_TB,,48
 2022_03_GB_TB,,55
 2022_03_GB_TB,_DH44_,57
 2022_03_GB_TB,_jeffreyhtan,52
@@ -110719,6 +110718,7 @@ game_id,screen_name,prediction
 2022_03_GB_TB,parkerhurley,39
 2022_03_GB_TB,patpAItriot,50
 2022_03_GB_TB,Patricksabato,45
+2022_03_GB_TB,PattonAnalytics,48
 2022_03_GB_TB,PFF_Brad,49
 2022_03_GB_TB,pfi_keegan,64
 2022_03_GB_TB,polialert2020,100
@@ -110831,7 +110831,6 @@ game_id,screen_name,prediction
 2022_03_GB_TB,ziyanm_,45
 2022_03_GB_TB,zweinberg18,44
 2022_03_SF_DEN,,55
-2022_03_SF_DEN,,46
 2022_03_SF_DEN,_aidandecker,60
 2022_03_SF_DEN,_DH44_,48
 2022_03_SF_DEN,_jeffreyhtan,52
@@ -111130,6 +111129,7 @@ game_id,screen_name,prediction
 2022_03_SF_DEN,parkerhurley,38
 2022_03_SF_DEN,patpAItriot,50
 2022_03_SF_DEN,Patricksabato,55
+2022_03_SF_DEN,PattonAnalytics,46
 2022_03_SF_DEN,PFF_Brad,51
 2022_03_SF_DEN,pfi_keegan,59
 2022_03_SF_DEN,polialert2020,0
@@ -111242,7 +111242,6 @@ game_id,screen_name,prediction
 2022_03_SF_DEN,ziyanm_,56
 2022_03_SF_DEN,zweinberg18,45
 2022_03_DAL_NYG,,55
-2022_03_DAL_NYG,,53
 2022_03_DAL_NYG,_aidandecker,76
 2022_03_DAL_NYG,_DH44_,39
 2022_03_DAL_NYG,_jeffreyhtan,47
@@ -111544,6 +111543,7 @@ game_id,screen_name,prediction
 2022_03_DAL_NYG,parkerhurley,54
 2022_03_DAL_NYG,patpAItriot,50
 2022_03_DAL_NYG,Patricksabato,45
+2022_03_DAL_NYG,PattonAnalytics,53
 2022_03_DAL_NYG,PFF_Brad,51
 2022_03_DAL_NYG,pfi_keegan,51
 2022_03_DAL_NYG,polialert2020,0
@@ -111655,7 +111655,6 @@ game_id,screen_name,prediction
 2022_03_DAL_NYG,YSchlepper,40
 2022_03_DAL_NYG,ziyanm_,63
 2022_03_DAL_NYG,zweinberg18,41
-2022_04_MIA_CIN,,60
 2022_04_MIA_CIN,_aidandecker,25
 2022_04_MIA_CIN,_DH44_,68
 2022_04_MIA_CIN,_jeffreyhtan,46
@@ -111893,6 +111892,7 @@ game_id,screen_name,prediction
 2022_04_MIA_CIN,packeRanalytics,59
 2022_04_MIA_CIN,ParanjaiP,55
 2022_04_MIA_CIN,Patricksabato,61
+2022_04_MIA_CIN,PattonAnalytics,60
 2022_04_MIA_CIN,pfi_keegan,60
 2022_04_MIA_CIN,polialert2020,0
 2022_04_MIA_CIN,pprranks,45
