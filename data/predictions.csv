@@ -90289,8 +90289,8 @@ game_id,screen_name,prediction
 2022_01_CLE_CAR,zonevsrpo,51
 2022_01_CLE_CAR,Zrosen98,41
 2022_01_CLE_CAR,zweinberg18,53
-2022_01_SF_CHI,,40
 2022_01_SF_CHI,,50
+2022_01_SF_CHI,,40
 2022_01_SF_CHI,_alendowsky,40
 2022_01_SF_CHI,_daddy_butter,50
 2022_01_SF_CHI,_DH44_,52
@@ -92088,8 +92088,8 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,zonevsrpo,49
 2022_01_PHI_DET,Zrosen98,30
 2022_01_PHI_DET,zweinberg18,55
-2022_01_IND_HOU,,39
 2022_01_IND_HOU,,30
+2022_01_IND_HOU,,39
 2022_01_IND_HOU,_alendowsky,40
 2022_01_IND_HOU,_daddy_butter,50
 2022_01_IND_HOU,_DH44_,48
@@ -92688,8 +92688,8 @@ game_id,screen_name,prediction
 2022_01_IND_HOU,zonevsrpo,40
 2022_01_IND_HOU,Zrosen98,28
 2022_01_IND_HOU,zweinberg18,35
-2022_01_NE_MIA,,55
 2022_01_NE_MIA,,35
+2022_01_NE_MIA,,55
 2022_01_NE_MIA,_alendowsky,53
 2022_01_NE_MIA,_daddy_butter,50
 2022_01_NE_MIA,_DH44_,46
@@ -95686,8 +95686,8 @@ game_id,screen_name,prediction
 2022_01_LV_LAC,zonevsrpo,55
 2022_01_LV_LAC,Zrosen98,72
 2022_01_LV_LAC,zweinberg18,65
-2022_01_GB_MIN,,40
 2022_01_GB_MIN,,33
+2022_01_GB_MIN,,40
 2022_01_GB_MIN,_alendowsky,45
 2022_01_GB_MIN,_daddy_butter,50
 2022_01_GB_MIN,_DH44_,44
@@ -96286,8 +96286,8 @@ game_id,screen_name,prediction
 2022_01_GB_MIN,zonevsrpo,40
 2022_01_GB_MIN,Zrosen98,42
 2022_01_GB_MIN,zweinberg18,43
-2022_01_NYG_TEN,,69
 2022_01_NYG_TEN,,61
+2022_01_NYG_TEN,,69
 2022_01_NYG_TEN,_alendowsky,60
 2022_01_NYG_TEN,_daddy_butter,50
 2022_01_NYG_TEN,_DH44_,52
@@ -96886,8 +96886,8 @@ game_id,screen_name,prediction
 2022_01_NYG_TEN,zonevsrpo,60
 2022_01_NYG_TEN,Zrosen98,66
 2022_01_NYG_TEN,zweinberg18,63
-2022_01_TB_DAL,,55
 2022_01_TB_DAL,,51
+2022_01_TB_DAL,,55
 2022_01_TB_DAL,_alendowsky,45
 2022_01_TB_DAL,_daddy_butter,50
 2022_01_TB_DAL,_DH44_,36
@@ -126608,6 +126608,7 @@ game_id,screen_name,prediction
 2022_07_NO_ARI,Montagical_,58
 2022_07_NO_ARI,morefootballplz,53
 2022_07_NO_ARI,Mostly92811477,62
+2022_07_NO_ARI,mrcaseb,52
 2022_07_NO_ARI,mrfusion123,65
 2022_07_NO_ARI,Natedogg316,40
 2022_07_NO_ARI,NathanAnsley,47
@@ -126877,6 +126878,7 @@ game_id,screen_name,prediction
 2022_07_CLE_BAL,Montagical_,72
 2022_07_CLE_BAL,morefootballplz,62
 2022_07_CLE_BAL,Mostly92811477,76
+2022_07_CLE_BAL,mrcaseb,68
 2022_07_CLE_BAL,mrfusion123,74
 2022_07_CLE_BAL,Natedogg316,64
 2022_07_CLE_BAL,NathanAnsley,50
@@ -127156,6 +127158,7 @@ game_id,screen_name,prediction
 2022_07_TB_CAR,Montagical_,21
 2022_07_TB_CAR,morefootballplz,25
 2022_07_TB_CAR,Mostly92811477,10
+2022_07_TB_CAR,mrcaseb,19
 2022_07_TB_CAR,mrfusion123,0
 2022_07_TB_CAR,Natedogg316,26
 2022_07_TB_CAR,NathanAnsley,50
@@ -127434,6 +127437,7 @@ game_id,screen_name,prediction
 2022_07_ATL_CIN,Montagical_,65
 2022_07_ATL_CIN,morefootballplz,65
 2022_07_ATL_CIN,Mostly92811477,72
+2022_07_ATL_CIN,mrcaseb,67
 2022_07_ATL_CIN,mrfusion123,65
 2022_07_ATL_CIN,Natedogg316,39
 2022_07_ATL_CIN,NathanAnsley,50
@@ -127713,6 +127717,7 @@ game_id,screen_name,prediction
 2022_07_DET_DAL,Montagical_,72
 2022_07_DET_DAL,morefootballplz,63
 2022_07_DET_DAL,Mostly92811477,76
+2022_07_DET_DAL,mrcaseb,67
 2022_07_DET_DAL,mrfusion123,23
 2022_07_DET_DAL,Natedogg316,81
 2022_07_DET_DAL,NathanAnsley,50
@@ -127991,7 +127996,7 @@ game_id,screen_name,prediction
 2022_07_NYG_JAX,Montagical_,38
 2022_07_NYG_JAX,morefootballplz,55
 2022_07_NYG_JAX,Mostly92811477,70
-2022_07_NYG_JAX,mrcaseb,50
+2022_07_NYG_JAX,mrcaseb,56
 2022_07_NYG_JAX,mrfusion123,61
 2022_07_NYG_JAX,Natedogg316,34
 2022_07_NYG_JAX,NathanAnsley,50
@@ -128271,6 +128276,7 @@ game_id,screen_name,prediction
 2022_07_IND_TEN,Montagical_,58
 2022_07_IND_TEN,morefootballplz,55
 2022_07_IND_TEN,Mostly92811477,60
+2022_07_IND_TEN,mrcaseb,53
 2022_07_IND_TEN,mrfusion123,67
 2022_07_IND_TEN,Natedogg316,38
 2022_07_IND_TEN,NathanAnsley,50
@@ -128550,7 +128556,7 @@ game_id,screen_name,prediction
 2022_07_GB_WAS,Montagical_,32
 2022_07_GB_WAS,morefootballplz,40
 2022_07_GB_WAS,Mostly92811477,35
-2022_07_GB_WAS,mrcaseb,50
+2022_07_GB_WAS,mrcaseb,40
 2022_07_GB_WAS,mrfusion123,28
 2022_07_GB_WAS,Natedogg316,35
 2022_07_GB_WAS,NathanAnsley,50
@@ -128831,7 +128837,7 @@ game_id,screen_name,prediction
 2022_07_HOU_LV,Montagical_,72
 2022_07_HOU_LV,morefootballplz,63
 2022_07_HOU_LV,Mostly92811477,76
-2022_07_HOU_LV,mrcaseb,50
+2022_07_HOU_LV,mrcaseb,70
 2022_07_HOU_LV,mrfusion123,71
 2022_07_HOU_LV,Nash_5289,50
 2022_07_HOU_LV,Natedogg316,67
