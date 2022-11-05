@@ -92088,8 +92088,8 @@ game_id,screen_name,prediction
 2022_01_PHI_DET,zonevsrpo,49
 2022_01_PHI_DET,Zrosen98,30
 2022_01_PHI_DET,zweinberg18,55
-2022_01_IND_HOU,,30
 2022_01_IND_HOU,,39
+2022_01_IND_HOU,,30
 2022_01_IND_HOU,_alendowsky,40
 2022_01_IND_HOU,_daddy_butter,50
 2022_01_IND_HOU,_DH44_,48
@@ -93287,8 +93287,8 @@ game_id,screen_name,prediction
 2022_01_NE_MIA,zonevsrpo,51
 2022_01_NE_MIA,Zrosen98,47
 2022_01_NE_MIA,zweinberg18,45
-2022_01_BAL_NYJ,,35
 2022_01_BAL_NYJ,,33
+2022_01_BAL_NYJ,,35
 2022_01_BAL_NYJ,_alendowsky,40
 2022_01_BAL_NYJ,_daddy_butter,50
 2022_01_BAL_NYJ,_DH44_,0
@@ -93886,8 +93886,8 @@ game_id,screen_name,prediction
 2022_01_BAL_NYJ,zonevsrpo,25
 2022_01_BAL_NYJ,Zrosen98,34
 2022_01_BAL_NYJ,zweinberg18,26
-2022_01_JAX_WAS,,55
 2022_01_JAX_WAS,,50
+2022_01_JAX_WAS,,55
 2022_01_JAX_WAS,_alendowsky,53
 2022_01_JAX_WAS,_daddy_butter,50
 2022_01_JAX_WAS,_DH44_,39
@@ -130422,7 +130422,6 @@ game_id,screen_name,prediction
 2022_08_BAL_TB,deepvaluebettor,50
 2022_08_BAL_TB,DemsInDisarray,30
 2022_08_BAL_TB,DeryckG_,46
-2022_08_BAL_TB,DeryckG_,46
 2022_08_BAL_TB,DNebenfhr,43
 2022_08_BAL_TB,DraftAndDevEcon,50
 2022_08_BAL_TB,DraganVender,50
@@ -130667,7 +130666,6 @@ game_id,screen_name,prediction
 2022_08_DEN_JAX,de_realized,45
 2022_08_DEN_JAX,deepvaluebettor,53
 2022_08_DEN_JAX,DemsInDisarray,65
-2022_08_DEN_JAX,DeryckG_,54
 2022_08_DEN_JAX,DeryckG_,54
 2022_08_DEN_JAX,DNebenfhr,50
 2022_08_DEN_JAX,DraftAndDevEcon,50
@@ -130922,7 +130920,6 @@ game_id,screen_name,prediction
 2022_08_CAR_ATL,de_realized,55
 2022_08_CAR_ATL,deepvaluebettor,55
 2022_08_CAR_ATL,DemsInDisarray,75
-2022_08_CAR_ATL,DeryckG_,59
 2022_08_CAR_ATL,DeryckG_,59
 2022_08_CAR_ATL,DNebenfhr,62
 2022_08_CAR_ATL,DraftAndDevEcon,66
@@ -131180,7 +131177,6 @@ game_id,screen_name,prediction
 2022_08_CHI_DAL,deepvaluebettor,63
 2022_08_CHI_DAL,DemsInDisarray,85
 2022_08_CHI_DAL,DeryckG_,76
-2022_08_CHI_DAL,DeryckG_,76
 2022_08_CHI_DAL,DNebenfhr,78
 2022_08_CHI_DAL,DraftAndDevEcon,79
 2022_08_CHI_DAL,DraganVender,77
@@ -131436,7 +131432,6 @@ game_id,screen_name,prediction
 2022_08_MIA_DET,de_realized,45
 2022_08_MIA_DET,deepvaluebettor,45
 2022_08_MIA_DET,DemsInDisarray,35
-2022_08_MIA_DET,DeryckG_,39
 2022_08_MIA_DET,DeryckG_,39
 2022_08_MIA_DET,DNebenfhr,32
 2022_08_MIA_DET,DraftAndDevEcon,40
@@ -131694,7 +131689,6 @@ game_id,screen_name,prediction
 2022_08_ARI_MIN,deepvaluebettor,45
 2022_08_ARI_MIN,DemsInDisarray,70
 2022_08_ARI_MIN,DeryckG_,63
-2022_08_ARI_MIN,DeryckG_,63
 2022_08_ARI_MIN,DNebenfhr,61
 2022_08_ARI_MIN,DraftAndDevEcon,65
 2022_08_ARI_MIN,DraganVender,62
@@ -131950,7 +131944,6 @@ game_id,screen_name,prediction
 2022_08_LV_NO,de_realized,50
 2022_08_LV_NO,deepvaluebettor,55
 2022_08_LV_NO,DemsInDisarray,55
-2022_08_LV_NO,DeryckG_,44
 2022_08_LV_NO,DeryckG_,44
 2022_08_LV_NO,DNebenfhr,44
 2022_08_LV_NO,DraftAndDevEcon,50
@@ -132208,7 +132201,6 @@ game_id,screen_name,prediction
 2022_08_NE_NYJ,deepvaluebettor,20
 2022_08_NE_NYJ,DemsInDisarray,40
 2022_08_NE_NYJ,DeryckG_,47
-2022_08_NE_NYJ,DeryckG_,47
 2022_08_NE_NYJ,DNebenfhr,56
 2022_08_NE_NYJ,DraftAndDevEcon,46
 2022_08_NE_NYJ,DraganVender,52
@@ -132464,7 +132456,6 @@ game_id,screen_name,prediction
 2022_08_PIT_PHI,de_realized,100
 2022_08_PIT_PHI,deepvaluebettor,77
 2022_08_PIT_PHI,DemsInDisarray,85
-2022_08_PIT_PHI,DeryckG_,79
 2022_08_PIT_PHI,DeryckG_,79
 2022_08_PIT_PHI,DNebenfhr,78
 2022_08_PIT_PHI,DraftAndDevEcon,83
@@ -132722,7 +132713,6 @@ game_id,screen_name,prediction
 2022_08_TEN_HOU,deepvaluebettor,42
 2022_08_TEN_HOU,DemsInDisarray,55
 2022_08_TEN_HOU,DeryckG_,54
-2022_08_TEN_HOU,DeryckG_,54
 2022_08_TEN_HOU,DNebenfhr,45
 2022_08_TEN_HOU,DraftAndDevEcon,44
 2022_08_TEN_HOU,DraganVender,44
@@ -132978,7 +132968,6 @@ game_id,screen_name,prediction
 2022_08_WAS_IND,de_realized,48
 2022_08_WAS_IND,deepvaluebettor,41
 2022_08_WAS_IND,DemsInDisarray,53
-2022_08_WAS_IND,DeryckG_,48
 2022_08_WAS_IND,DeryckG_,48
 2022_08_WAS_IND,DNebenfhr,45
 2022_08_WAS_IND,DraftAndDevEcon,59
@@ -133236,7 +133225,6 @@ game_id,screen_name,prediction
 2022_08_SF_LA,deepvaluebettor,41
 2022_08_SF_LA,DemsInDisarray,40
 2022_08_SF_LA,DeryckG_,44
-2022_08_SF_LA,DeryckG_,44
 2022_08_SF_LA,DNebenfhr,46
 2022_08_SF_LA,DraftAndDevEcon,49
 2022_08_SF_LA,DraganVender,48
@@ -133492,7 +133480,6 @@ game_id,screen_name,prediction
 2022_08_NYG_SEA,de_realized,0
 2022_08_NYG_SEA,deepvaluebettor,65
 2022_08_NYG_SEA,DemsInDisarray,45
-2022_08_NYG_SEA,DeryckG_,55
 2022_08_NYG_SEA,DeryckG_,55
 2022_08_NYG_SEA,DNebenfhr,61
 2022_08_NYG_SEA,DraftAndDevEcon,61
@@ -133750,7 +133737,6 @@ game_id,screen_name,prediction
 2022_08_GB_BUF,deepvaluebettor,80
 2022_08_GB_BUF,DemsInDisarray,100
 2022_08_GB_BUF,DeryckG_,76
-2022_08_GB_BUF,DeryckG_,76
 2022_08_GB_BUF,DNebenfhr,78
 2022_08_GB_BUF,DraftAndDevEcon,84
 2022_08_GB_BUF,DraganVender,86
@@ -134006,7 +133992,6 @@ game_id,screen_name,prediction
 2022_08_CIN_CLE,de_realized,16
 2022_08_CIN_CLE,deepvaluebettor,45
 2022_08_CIN_CLE,DemsInDisarray,35
-2022_08_CIN_CLE,DeryckG_,42
 2022_08_CIN_CLE,DeryckG_,42
 2022_08_CIN_CLE,DNebenfhr,40
 2022_08_CIN_CLE,DraftAndDevEcon,40
