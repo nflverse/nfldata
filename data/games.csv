@@ -6373,9 +6373,9 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2022_16_PHI_DAL,2022,REG,16,2022-12-24,Saturday,16:25,PHI,,DAL,,Home,,,,2022122409,,,202212240dal,,401437927,6,6,100,-120,1.5,-110,-110,50.5,-110,-110,1,closed,fieldturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
 2022_16_LV_PIT,2022,REG,16,2022-12-24,Saturday,20:15,LV,,PIT,,Home,,,,2022122410,,,202212240pit,,401437928,6,6,-105,-115,1,-110,-110,40,-110,-110,0,outdoors,grass,,,,,,,Josh McDaniels,Mike Tomlin,,PIT00,Acrisure Stadium
 2022_16_GB_MIA,2022,REG,16,2022-12-25,Sunday,13:00,GB,,MIA,,Home,,,,2022122500,,,202212250mia,,401437929,6,8,160,-190,3.5,-110,-110,46.5,-110,-110,0,outdoors,grass,,,,,,,Matt LaFleur,Mike McDaniel,,MIA00,Hard Rock Stadium
-2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,401436983,7,6,,,,,,,,,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
-2022_16_TB_ARI,2022,REG,16,2022-12-25,Sunday,20:20,TB,,ARI,,Home,,,,2022122502,,,202212250crd,,401437930,7,7,,,,,,,,,0,closed,grass,,,,,,,Todd Bowles,Kliff Kingsbury,,PHO00,State Farm Stadium
-2022_16_LAC_IND,2022,REG,16,2022-12-26,Monday,20:15,LAC,,IND,,Home,,,,2022122600,,,202212260clt,,401437931,8,9,,,,,,,,,0,,fieldturf,,,,,,,Brandon Staley,Jeff Saturday,,IND00,Lucas Oil Stadium
+2022_16_DEN_LA,2022,REG,16,2022-12-25,Sunday,16:30,DEN,,LA,,Home,,,,2022122501,,,202212250ram,,401436983,7,6,-110,-110,-0,-110,-110,35.5,-110,-110,0,dome,matrixturf,,,,,,,Nathaniel Hackett,Sean McVay,,LAX01,SoFi Stadium
+2022_16_TB_ARI,2022,REG,16,2022-12-25,Sunday,20:20,TB,,ARI,,Home,,,,2022122502,,,202212250crd,,401437930,7,7,-165,140,-3,-110,-110,42,-110,-110,0,closed,grass,,,,,,,Todd Bowles,Kliff Kingsbury,,PHO00,State Farm Stadium
+2022_16_LAC_IND,2022,REG,16,2022-12-26,Monday,20:15,LAC,,IND,,Home,,,,2022122600,,,202212260clt,,401437931,8,9,-140,120,-2.5,-110,-110,48,-110,-110,0,,fieldturf,,,,,,,Brandon Staley,Jeff Saturday,,IND00,Lucas Oil Stadium
 2022_17_DAL_TEN,2022,REG,17,2022-12-29,Thursday,20:15,DAL,,TEN,,Home,,,,2022122900,,,202212290oti,,401437932,5,5,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Mike Vrabel,,NAS00,Nissan Stadium
 2022_17_ARI_ATL,2022,REG,17,2023-01-01,Sunday,13:00,ARI,,ATL,,Home,,,,2023010100,,,202301010atl,,401437933,7,8,,,,,,,,,0,,fieldturf,,,,,,,Kliff Kingsbury,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2022_17_PIT_BAL,2022,REG,17,2023-01-01,Sunday,13:00,PIT,,BAL,,Home,,,,2023010101,,,202301010rav,,401437934,8,8,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
