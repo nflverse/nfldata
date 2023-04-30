@@ -11893,3 +11893,105 @@ season,team,round,pick,pfr_id,pfr_name,player_id,side,category,position
 2022,LAC,7,260,,Zander Horvath,,O,RB,RB
 2022,LA,7,261,,AJ Arcuri,,O,OL,T
 2022,SF,7,262,PurdBr00,Brock Purdy,,O,QB,QB
+2023,CAR,1,1,YounBr01,Bryce Young,,O,QB,QB
+2023,HOU,1,2,StroCJ00,C.J. Stroud,,O,QB,QB
+2023,HOU,1,3,AndeWi01,Will Anderson Jr.,,D,LB,LB
+2023,IND,1,4,RichAn03,Anthony Richardson,,O,QB,QB
+2023,SEA,1,5,WithDe00,Devon Witherspoon,,D,DB,DB
+2023,ARI,1,6,JohnPa03,Paris Johnson Jr.,,O,OL,OL
+2023,LV,1,7,WilsTy01,Tyree Wilson,,D,LB,LB
+2023,ATL,1,8,RobiBi01,Bijan Robinson,,O,RB,RB
+2023,PHI,1,9,CartJa05,Jalen Carter,,D,DL,DL
+2023,CHI,1,10,WrigDa00,Darnell Wright,,O,OL,OL
+2023,TEN,1,11,SkorPe00,Peter Skoronski,,O,OL,OL
+2023,DET,1,12,GibbJa01,Jahmyr Gibbs,,O,RB,RB
+2023,GB,1,13,VanxLu00,Lukas Van Ness,,D,DL,DL
+2023,PIT,1,14,JoneBr09,Broderick Jones,,O,OL,OL
+2023,NYJ,1,15,McDoWi00,Will McDonald IV,,D,DL,DE
+2023,WAS,1,16,ForbEm00,Emmanuel Forbes,,D,DB,CB
+2023,NE,1,17,GonzCh00,Christian Gonzalez,,D,DB,DB
+2023,DET,1,18,CampJa04,Jack Campbell,,D,LB,LB
+2023,TB,1,19,KancCa00,Calijah Kancey,,D,DL,DL
+2023,SEA,1,20,SmitJa06,Jaxon Smith-Njigba,,O,WR,WR
+2023,LAC,1,21,JohnQu02,Quentin Johnston,,O,WR,WR
+2023,BAL,1,22,FlowZa00,Zay Flowers,,O,WR,WR
+2023,MIN,1,23,AddiJo00,Jordan Addison,,O,WR,WR
+2023,NYG,1,24,BankDe00,Deonte Banks,,D,DB,DB
+2023,BUF,1,25,KincDa00,Dalton Kincaid,,O,TE,TE
+2023,DAL,1,26,SmitMa06,Mazi Smith,,D,DL,DL
+2023,JAX,1,27,HarrAn00,Anton Harrison,,O,OL,OL
+2023,CIN,1,28,MurpMy00,Myles Murphy,,D,DL,DE
+2023,NO,1,29,BresBr00,Bryan Bresee,,D,DL,DT
+2023,PHI,1,30,SmitNo02,Nolan Smith,,D,LB,LB
+2023,KC,1,31,AnudFe00,Felix Anudike-Uzomah,,D,DL,DE
+2023,PIT,2,32,PortJo02,Joey Porter Jr.,,D,DB,CB
+2023,TEN,2,33,LeviWi00,Will Levis,,O,QB,QB
+2023,DET,2,34,LaPoSa01,Sam LaPorta,,O,TE,TE
+2023,LV,2,35,MayeMi00,Michael Mayer,,O,TE,TE
+2023,LA,2,36,AvilSt00,Steve Avila,,O,OL,C
+2023,SEA,2,37,HallDe04,Derick Hall,,D,DL,DE
+2023,ATL,2,38,BergMa00,Matthew Bergeron,,O,OL,OL
+2023,CAR,2,39,MingJo00,Jonathan Mingo,,O,WR,WR
+2023,NO,2,40,FoskIs00,Isaiah Foskey,,D,DL,DL
+2023,ARI,2,41,OjulBJ00,BJ Ojulari,,D,DL,DE
+2023,GB,2,42,MusgLu00,Luke Musgrave,,O,TE,TE
+2023,NYJ,2,43,TippJo00,Joe Tippmann,,O,OL,OL
+2023,IND,2,44,BrenJu00,Julius Brents,,D,DB,DB
+2023,DET,2,45,BranBr00,Brian Branch,,D,DB,DB
+2023,NE,2,46,WhitKe03,Keion White,,D,DL,DL
+2023,WAS,2,47,MartJa04,Jartavius Martin,,D,DB,DB
+2023,TB,2,48,MaucCo00,Cody Mauch,,O,OL,T
+2023,PIT,2,49,BentKe00,Keeanu Benton,,D,DL,NT
+2023,GB,2,50,ReedJa03,Jayden Reed,,O,WR,WR
+2023,MIA,2,51,SmitCa02,Cam Smith,,D,DB,DB
+2023,SEA,2,52,CharZa00,Zach Charbonnet,,O,RB,RB
+2023,CHI,2,53,DextGe00,Gervon Dexter Sr.,,D,DL,DL
+2023,LAC,2,54,TuipTu00,Tuli Tuipulotu,,D,DL,DL
+2023,KC,2,55,RiceRa01,Rashee Rice,,O,WR,WR
+2023,CHI,2,56,StevTy01,Tyrique Stevenson,,D,DB,CB
+2023,NYG,2,57,MichJo00,John Michael Schmitz,,O,OL,OL
+2023,DAL,2,58,SchoLu00,Luke Schoonmaker,,O,TE,TE
+2023,BUF,2,59,TorrOC00,O'Cyrus Torrence,,O,OL,OL
+2023,CIN,2,60,TurnDJ01,DJ Turner II,,D,DB,DB
+2023,JAX,2,61,StraBr00,Brenton Strange,,O,TE,TE
+2023,HOU,2,62,ScruJu00,Juice Scruggs,,O,OL,OL
+2023,DEN,2,63,MimsMa00,Marvin Mims Jr.,,O,WR,WR
+2023,CHI,3,64,PickZa00,Zacch Pickens,,D,DL,DL
+2023,PHI,3,65,SteeTy00,Tyler Steen,,O,OL,OL
+2023,PHI,3,66,BrowSy00,Sydney Brown,,D,DB,DB
+2023,DEN,3,67,SandDr00,Drew Sanders,,D,LB,LB
+2023,DET,3,68,HookHe00,Hendon Hooker,,O,QB,QB
+2023,HOU,3,69,DellNa00,Nathaniel Dell,,O,WR,WR
+2023,LV,3,70,YounBy00,Byron Young,,D,DL,DL
+2023,NO,3,71,MillKe01,Kendre Miller,,O,RB,RB
+2023,ARI,3,72,WillGa00,Garrett Williams,,D,DB,DB
+2023,NYG,3,73,HyatJa00,Jalin Hyatt,,O,WR,WR
+2023,CLE,3,74,TillCe01,Cedric Tillman,,O,WR,WR
+2023,ATL,3,75,HarrZa00,Zach Harrison,,D,DL,DE
+2023,NE,3,76,,Marte Mapu,,D,DB,DB
+2023,LA,3,77,YounBy01,Byron Young,,D,LB,LB
+2023,GB,3,78,KrafTu00,Tucker Kraft,,O,TE,TE
+2023,IND,3,79,DownJo00,Josh Downs,,O,WR,WR
+2023,CAR,3,80,JohnDJ00,DJ Johnson,,D,LB,LB
+2023,TEN,3,81,SpeaTy00,Tyjae Spears,,O,RB,RB
+2023,TB,3,82,DiabYa00,YaYa Diaby,,D,DL,DL
+2023,DEN,3,83,MossRi00,Riley Moss,,D,DB,DB
+2023,MIA,3,84,AchaDe00,Devon Achane,,O,RB,RB
+2023,LAC,3,85,HenlDa00,Daiyan Henley,,D,LB,LB
+2023,BAL,3,86,SimpTr00,Trenton Simpson,,D,LB,LB
+2023,SF,3,87,BrowJi01,Ji'Ayir Brown,,,,
+2023,JAX,3,88,BigsTa00,Tank Bigsby,,O,RB,RB
+2023,LA,3,89,TurnKo00,Kobie Turner,,D,DL,DT
+2023,DAL,3,90,OverDe00,DeMarvion Overshown,,D,LB,LB
+2023,BUF,3,91,WillDo04,Dorian Williams,,D,LB,LB
+2023,KC,3,92,MorrWa01,Wanya Morris,,O,OL,OL
+2023,PIT,3,93,WashDa03,Darnell Washington,,O,TE,TE
+2023,ARI,3,94,WilsMi02,Michael Wilson,,O,WR,WR
+2023,CIN,3,95,BattJo00,Jordan Battle,,D,DB,DB
+2023,DET,3,96,MartBr00,Brodric Martin,,D,DL,DT
+2023,WAS,3,97,StroRi01,Ricky Stromberg,,O,OL,OL
+2023,CLE,3,98,IkaxSi00,Siaki Ika,,D,DL,DL
+2023,SF,3,99,MoodJa00,Jake Moody,,S,K,K
+2023,LV,3,100,TuckTr00,Tre Tucker,,O,WR,WR
+2023,SF,3,101,LatuCa01,Cameron Latu,,O,TE,TE
+2023,MIN,3,102,BlacMe00,Mekhi Blackmon,,D,DB,CB
