@@ -6613,7 +6613,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_13_SF_PHI,2023,REG,13,2023-12-03,Sunday,16:25,SF,,PHI,,Home,,,,2023120309,,,202312030phi,,,10,7,115,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Nick Sirianni,,PHI00,Lincoln Financial Field
 2023_13_KC_GB,2023,REG,13,2023-12-03,Sunday,20:20,KC,,GB,,Home,,,,2023120310,,,202312030gnb,,,7,10,-225,190,-5.5,-110,-110,,,,0,outdoors,grass,,,,,,,Andy Reid,Matt LaFleur,,GNB00,Lambeau Field
 2023_13_CIN_JAX,2023,REG,13,2023-12-04,Monday,20:15,CIN,,JAX,,Home,,,,2023120400,,,202312040jax,,,8,8,-115,-105,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Zac Taylor,Doug Pederson,,JAX00,TIAA Bank Stadium
-2023_14_NE_PIT,2023,REG,14,2023-12-07,Thursday,20:15,NE,,PIT,,Home,,,,2023120700,,,202312070pit,,,4,4,100,-120,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Bill Belichick,Mike Tomlin,,PIT00,Acrisure Stadium
+2023_14_NE_PIT,2023,REG,14,2023-12-07,Thursday,20:15,NE,,PIT,,Home,,,,2023120700,,,202312070pit,,,4,4,105,-125,2,-110,-110,,,,0,outdoors,grass,,,,,,,Bill Belichick,Mike Tomlin,,PIT00,Acrisure Stadium
 2023_14_TB_ATL,2023,REG,14,2023-12-10,Sunday,13:00,TB,,ATL,,Home,,,,2023121000,,,202312100atl,,,7,7,125,-145,2.5,100,-120,,,,1,"",fieldturf,,,,,,,Todd Bowles,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2023_14_LA_BAL,2023,REG,14,2023-12-10,Sunday,13:00,LA,,BAL,,Home,,,,2023121001,,,202312100rav,,,7,14,205,-245,6,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McVay,John Harbaugh,,BAL00,M&T Bank Stadium
 2023_14_DET_CHI,2023,REG,14,2023-12-10,Sunday,13:00,DET,,CHI,,Home,,,,2023121002,,,202312100chi,,,7,13,-125,105,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt Eberflus,,CHI98,Soldier Field
