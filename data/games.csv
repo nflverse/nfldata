@@ -6525,7 +6525,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_07_GB_DEN,2023,REG,7,2023-10-22,Sunday,16:25,GB,,DEN,,Home,,,,2023102208,,,202310220den,,,13,10,145,-170,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Sean Payton,,DEN00,Empower Field at Mile High
 2023_07_LAC_KC,2023,REG,7,2023-10-22,Sunday,16:25,LAC,,KC,,Home,,,,2023102209,,,202310220kan,,,6,10,185,-215,5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brandon Staley,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2023_07_MIA_PHI,2023,REG,7,2023-10-22,Sunday,20:20,MIA,,PHI,,Home,,,,2023102210,,,202310220phi,,,7,7,160,-190,4,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Nick Sirianni,,PHI00,Lincoln Financial Field
-2023_07_SF_MIN,2023,REG,7,2023-10-23,Monday,20:15,SF,,MIN,,Home,,,,2023102300,,,202310230min,,,8,8,-120,100,-1.5,-110,-110,,,,0,dome,sportturf,,,,,,,Kyle Shanahan,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2023_07_SF_MIN,2023,REG,7,2023-10-23,Monday,20:15,SF,,MIN,,Home,,,,2023102300,,,202310230min,,,8,8,-130,110,-2.5,-110,-110,,,,0,dome,sportturf,,,,,,,Kyle Shanahan,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2023_08_TB_BUF,2023,REG,8,2023-10-26,Thursday,20:15,TB,,BUF,,Home,,,,2023102600,,,202310260buf,,,4,4,370,-460,10,-110,-110,,,,0,outdoors,a_turf,,,,,,,Todd Bowles,Sean McDermott,,BUF00,New Era Field
 2023_08_HOU_CAR,2023,REG,8,2023-10-29,Sunday,13:00,HOU,,CAR,,Home,,,,2023102900,,,202310290car,,,14,14,130,-150,3,-110,-110,,,,0,outdoors,grass,,,,,,,DeMeco Ryans,Frank Reich,,CAR00,Bank of America Stadium
 2023_08_LA_DAL,2023,REG,8,2023-10-29,Sunday,13:00,LA,,DAL,,Home,,,,2023102901,,,202310290dal,,,7,13,255,-305,7,-110,-110,,,,0,"",matrixturf,,,,,,,Sean McVay,Mike McCarthy,,DAL00,AT&T Stadium
