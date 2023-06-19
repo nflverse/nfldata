@@ -6585,7 +6585,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_11_MIN_DEN,2023,REG,11,2023-11-19,Sunday,20:20,MIN,,DEN,,Home,,,,2023111911,,,202311190den,,,7,6,105,-125,2,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Sean Payton,,DEN00,Empower Field at Mile High
 2023_11_PHI_KC,2023,REG,11,2023-11-20,Monday,20:15,PHI,,KC,,Home,,,,2023112000,,,202311200kan,,,15,15,135,-155,3,-110,-110,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2023_12_GB_DET,2023,REG,12,2023-11-23,Thursday,12:30,GB,,DET,,Home,,,,2023112300,,,202311230det,,,4,4,160,-190,4,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
-2023_12_WAS_DAL,2023,REG,12,2023-11-23,Thursday,16:30,WAS,,DAL,,Home,,,,2023112301,,,202311230dal,,,4,4,195,-230,5.5,-110,-110,,,,1,"",matrixturf,,,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
+2023_12_WAS_DAL,2023,REG,12,2023-11-23,Thursday,16:30,WAS,,DAL,,Home,,,,2023112301,,,202311230dal,,,4,4,200,-240,6,-110,-110,,,,1,"",matrixturf,,,,,,,Ron Rivera,Mike McCarthy,,DAL00,AT&T Stadium
 2023_12_SF_SEA,2023,REG,12,2023-11-23,Thursday,20:20,SF,,SEA,,Home,,,,2023112302,,,202311230sea,,,4,4,-120,100,-1.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Pete Carroll,,SEA00,Lumen Field
 2023_12_MIA_NYJ,2023,REG,12,2023-11-24,Friday,15:00,MIA,,NYJ,,Home,,,,2023112400,,,202311240nyj,,,5,5,115,-135,2.5,-105,-115,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Robert Saleh,,NYC01,MetLife Stadium
 2023_12_NO_ATL,2023,REG,12,2023-11-26,Sunday,13:00,NO,,ATL,,Home,,,,2023112600,,,202311260atl,,,14,14,-105,-115,-1,100,-120,,,,1,"",fieldturf,,,,,,,Dennis Allen,Arthur Smith,,ATL97,Mercedes-Benz Stadium
