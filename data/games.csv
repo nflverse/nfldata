@@ -6482,7 +6482,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_04_LV_LAC,2023,REG,4,2023-10-01,Sunday,16:05,LV,,LAC,,Home,,,,2023100110,,,202310010sdg,,,7,7,175,-205,4.5,-110,-110,,,,1,dome,matrixturf,,,,,,,Josh McDaniels,Brandon Staley,,LAX01,SoFi Stadium
 2023_04_NE_DAL,2023,REG,4,2023-10-01,Sunday,16:25,NE,,DAL,,Home,,,,2023100111,,,202310010dal,,,7,7,175,-205,4.5,-105,-115,,,,0,"",matrixturf,,,,,,,Bill Belichick,Mike McCarthy,,DAL00,AT&T Stadium
 2023_04_ARI_SF,2023,REG,4,2023-10-01,Sunday,16:25,ARI,,SF,,Home,,,,2023100112,,,202310010sfo,,,7,10,330,-410,9.5,-110,-110,,,,1,outdoors,grass,,,,,,,Jonathan Gannon,Kyle Shanahan,,SFO01,Levi's Stadium
-2023_04_KC_NYJ,2023,REG,4,2023-10-01,Sunday,20:20,KC,,NYJ,,Home,,,,2023100113,,,202310010nyj,,,7,7,-115,-105,-1,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Andy Reid,Robert Saleh,,NYC01,MetLife Stadium
+2023_04_KC_NYJ,2023,REG,4,2023-10-01,Sunday,20:20,KC,,NYJ,,Home,,,,2023100113,,,202310010nyj,,,7,7,-125,105,-2,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Andy Reid,Robert Saleh,,NYC01,MetLife Stadium
 2023_04_SEA_NYG,2023,REG,4,2023-10-02,Monday,20:15,SEA,,NYG,,Home,,,,2023100200,,,202310020nyg,,,8,11,-105,-115,1,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Pete Carroll,Brian Daboll,,NYC01,MetLife Stadium
 2023_05_CHI_WAS,2023,REG,5,2023-10-05,Thursday,20:15,CHI,,WAS,,Home,,,,2023100500,,,202310050was,,,4,4,100,-120,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Ron Rivera,,WAS00,FedExField
 2023_05_JAX_BUF,2023,REG,5,2023-10-08,Sunday,09:30,JAX,,BUF,,Neutral,,,,2023100800,,,202310080buf,,,7,7,145,-170,3.5,-120,100,,,,0,outdoors,a_turf,,,,,,,Doug Pederson,Sean McDermott,,BUF00,New Era Field
