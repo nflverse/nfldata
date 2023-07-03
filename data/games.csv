@@ -6663,7 +6663,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_17_NYJ_CLE,2023,REG,17,2023-12-28,Thursday,20:15,NYJ,,CLE,,Home,,,,2023122800,,,202312280cle,,,4,4,-115,-105,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Robert Saleh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2023_17_DET_DAL,2023,REG,17,2023-12-30,Saturday,20:15,DET,,DAL,,Home,,,,2023123000,,,202312300dal,,,6,6,150,-175,3.5,-110,-110,,,,0,"",matrixturf,,,,,,,Dan Campbell,Mike McCarthy,,DAL00,AT&T Stadium
 2023_17_MIA_BAL,2023,REG,17,2023-12-31,Sunday,13:00,MIA,,BAL,,Home,,,,2023123100,,,202312310rav,,,7,6,-110,-110,1,-115,-105,,,,0,outdoors,grass,,,,,,,Mike McDaniel,John Harbaugh,,BAL00,M&T Bank Stadium
-2023_17_NE_BUF,2023,REG,17,2023-12-31,Sunday,13:00,NE,,BUF,,Home,,,,2023123101,,,202312310buf,,,7,8,190,-225,5.5,-110,-110,,,,1,outdoors,a_turf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
+2023_17_NE_BUF,2023,REG,17,2023-12-31,Sunday,13:00,NE,,BUF,,Home,,,,2023123101,,,202312310buf,,,7,8,230,-275,6.5,-105,-115,,,,1,outdoors,a_turf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
 2023_17_ATL_CHI,2023,REG,17,2023-12-31,Sunday,13:00,ATL,,CHI,,Home,,,,2023123102,,,202312310chi,,,7,7,105,-125,2,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,Matt Eberflus,,CHI98,Soldier Field
 2023_17_TEN_HOU,2023,REG,17,2023-12-31,Sunday,13:00,TEN,,HOU,,Home,,,,2023123103,,,202312310htx,,,7,7,-115,-105,-1,-110,-110,,,,1,"",astroturf,,,,,,,Mike Vrabel,DeMeco Ryans,,HOU00,NRG Stadium
 2023_17_LV_IND,2023,REG,17,2023-12-31,Sunday,13:00,LV,,IND,,Home,,,,2023123104,,,202312310clt,,,6,7,-125,105,-2,-110,-110,,,,0,"",fieldturf,,,,,,,Josh McDaniels,Shane Steichen,,IND00,Lucas Oil Stadium
