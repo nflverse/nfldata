@@ -6427,7 +6427,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_01_JAX_IND,2023,REG,1,2023-09-10,Sunday,13:00,JAX,,IND,,Home,,,,2023091003,,,202309100clt,,,7,7,-165,140,-3.5,-105,-115,43.5,-110,-110,1,"",fieldturf,,,,,,,Doug Pederson,Shane Steichen,,IND00,Lucas Oil Stadium
 2023_01_TB_MIN,2023,REG,1,2023-09-10,Sunday,13:00,TB,,MIN,,Home,,,,2023091004,,,202309100min,,,7,7,230,-275,6.5,-105,-115,45.5,-110,-110,0,dome,sportturf,,,,,,,Todd Bowles,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2023_01_TEN_NO,2023,REG,1,2023-09-10,Sunday,13:00,TEN,,NO,,Home,,,,2023091005,,,202309100nor,,,7,7,145,-170,3,-105,-115,41.5,-110,-110,0,dome,sportturf,,,,,,,Mike Vrabel,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2023_01_SF_PIT,2023,REG,1,2023-09-10,Sunday,13:00,SF,,PIT,,Home,,,,2023091006,,,202309100pit,,,7,7,-150,130,-3,-105,-115,40.5,-110,-110,0,outdoors,grass,,,,,,,Kyle Shanahan,Mike Tomlin,,PIT00,Acrisure Stadium
+2023_01_SF_PIT,2023,REG,1,2023-09-10,Sunday,13:00,SF,,PIT,,Home,,,,2023091006,,,202309100pit,,,7,7,-150,130,-3,100,-120,40.5,-110,-110,0,outdoors,grass,,,,,,,Kyle Shanahan,Mike Tomlin,,PIT00,Acrisure Stadium
 2023_01_ARI_WAS,2023,REG,1,2023-09-10,Sunday,13:00,ARI,,WAS,,Home,,,,2023091007,,,202309100was,,,7,7,195,-230,6,-115,-105,40.5,-110,-110,0,outdoors,grass,,,,,,,Jonathan Gannon,Ron Rivera,,WAS00,FedExField
 2023_01_GB_CHI,2023,REG,1,2023-09-10,Sunday,16:25,GB,,CHI,,Home,,,,2023091008,,,202309100chi,,,7,7,125,-145,3,-120,100,44,-110,-110,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Eberflus,,CHI98,Soldier Field
 2023_01_LV_DEN,2023,REG,1,2023-09-10,Sunday,16:25,LV,,DEN,,Home,,,,2023091009,,,202309100den,,,7,7,155,-180,4,-110,-110,44.5,-110,-110,1,outdoors,grass,,,,,,,Josh McDaniels,Sean Payton,,DEN00,Empower Field at Mile High
