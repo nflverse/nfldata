@@ -6449,7 +6449,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_02_SF_LA,2023,REG,2,2023-09-17,Sunday,16:05,SF,,LA,,Home,,,,2023091709,,,202309170ram,,,7,7,,170,-4.5,,,,,,1,dome,matrixturf,,,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
 2023_02_NYJ_DAL,2023,REG,2,2023-09-17,Sunday,16:25,NYJ,,DAL,,Home,,,,2023091710,,,202309170dal,,,6,7,130,,2.5,100,,,,,0,"",matrixturf,,,,,,,Robert Saleh,Mike McCarthy,,DAL00,AT&T Stadium
 2023_02_WAS_DEN,2023,REG,2,2023-09-17,Sunday,16:25,WAS,,DEN,,Home,,,,2023091711,,,202309170den,,,7,7,160,,3.5,,,,,,0,outdoors,grass,,,,,,,Ron Rivera,Sean Payton,,DEN00,Empower Field at Mile High
-2023_02_MIA_NE,2023,REG,2,2023-09-17,Sunday,20:20,MIA,,NE,,Home,,,,2023091712,,,202309170nwe,,,7,7,,110,-2.5,,,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Bill Belichick,,BOS00,Gillette Stadium
+2023_02_MIA_NE,2023,REG,2,2023-09-17,Sunday,20:20,MIA,,NE,,Home,,,,2023091712,,,202309170nwe,,,7,7,,,-2.5,,,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Bill Belichick,,BOS00,Gillette Stadium
 2023_02_NO_CAR,2023,REG,2,2023-09-18,Monday,19:15,NO,,CAR,,Home,,,,2023091800,,,202309180car,,,8,8,,,-1,,,,,,1,outdoors,grass,,,,,,,Dennis Allen,Frank Reich,,CAR00,Bank of America Stadium
 2023_02_CLE_PIT,2023,REG,2,2023-09-18,Monday,20:15,CLE,,PIT,,Home,,,,2023091801,,,202309180pit,,,8,8,,,1,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Acrisure Stadium
 2023_03_NYG_SF,2023,REG,3,2023-09-21,Thursday,20:15,NYG,,SF,,Home,,,,2023092100,,,202309210sfo,,,4,4,195,,6,,,,,,0,outdoors,grass,,,,,,,Brian Daboll,Kyle Shanahan,,SFO01,Levi's Stadium
