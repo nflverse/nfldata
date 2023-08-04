@@ -6532,7 +6532,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_08_MIN_GB,2023,REG,8,2023-10-29,Sunday,13:00,MIN,,GB,,Home,,,,2023102902,,,202310290gnb,,,6,7,,,-1,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt LaFleur,,GNB00,Lambeau Field
 2023_08_NO_IND,2023,REG,8,2023-10-29,Sunday,13:00,NO,,IND,,Home,,,,2023102903,,,202310290clt,,,10,7,,102,-1.5,,,,,,0,"",fieldturf,,,,,,,Dennis Allen,Shane Steichen,,IND00,Lucas Oil Stadium
 2023_08_NE_MIA,2023,REG,8,2023-10-29,Sunday,13:00,NE,,MIA,,Home,,,,2023102904,,,202310290mia,,,7,7,154,,4,,,,,,1,outdoors,grass,,,,,,,Bill Belichick,Mike McDaniel,,MIA00,Hard Rock Stadium
-2023_08_NYJ_NYG,2023,REG,8,2023-10-29,Sunday,13:00,NYJ,,NYG,,Home,,,,2023102905,,,202310290nyg,,,14,7,,102,-1.5,,,,,,0,outdoors,fieldturf,,,,,,,Robert Saleh,Brian Daboll,,NYC01,MetLife Stadium
+2023_08_NYJ_NYG,2023,REG,8,2023-10-29,Sunday,13:00,NYJ,,NYG,,Home,,,,2023102905,,,202310290nyg,,,14,7,,,-1.5,,,,,,0,outdoors,fieldturf,,,,,,,Robert Saleh,Brian Daboll,,NYC01,MetLife Stadium
 2023_08_JAX_PIT,2023,REG,8,2023-10-29,Sunday,13:00,JAX,,PIT,,Home,,,,2023102906,,,202310290pit,,,10,7,,,1,,,,,,0,outdoors,grass,,,,,,,Doug Pederson,Mike Tomlin,,PIT00,Acrisure Stadium
 2023_08_ATL_TEN,2023,REG,8,2023-10-29,Sunday,13:00,ATL,,TEN,,Home,,,,2023102907,,,202310290oti,,,7,14,,,1,,,,,,0,outdoors,grass,,,,,,,Arthur Smith,Mike Vrabel,,NAS00,Nissan Stadium
 2023_08_PHI_WAS,2023,REG,8,2023-10-29,Sunday,13:00,PHI,,WAS,,Home,,,,2023102908,,,202310290was,,,7,7,,160,-4,,,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Ron Rivera,,WAS00,FedExField
