@@ -6506,7 +6506,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_06_SF_CLE,2023,REG,6,2023-10-15,Sunday,13:00,SF,,CLE,,Home,,,,2023101504,,,202310150cle,,,7,14,-115,-105,-1,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2023_06_NO_HOU,2023,REG,6,2023-10-15,Sunday,13:00,NO,,HOU,,Home,,,,2023101505,,,202310150htx,,,7,7,-148,124,-3,-110,-110,,,,0,"",astroturf,,,,,,,Dennis Allen,DeMeco Ryans,,HOU00,NRG Stadium
 2023_06_IND_JAX,2023,REG,6,2023-10-15,Sunday,13:00,IND,,JAX,,Home,,,,2023101506,,,202310150jax,,,7,7,210,-258,6.5,-110,-110,,,,1,outdoors,grass,,,,,,,Shane Steichen,Doug Pederson,,JAX00,TIAA Bank Stadium
-2023_06_CAR_MIA,2023,REG,6,2023-10-15,Sunday,13:00,CAR,,MIA,,Home,,,,2023101507,,,202310150mia,,,7,7,235,-290,7,-110,-110,,,,0,outdoors,grass,,,,,,,Frank Reich,Mike McDaniel,,MIA00,Hard Rock Stadium
+2023_06_CAR_MIA,2023,REG,6,2023-10-15,Sunday,13:00,CAR,,MIA,,Home,,,,2023101507,,,202310150mia,,,7,7,235,-290,7,,-110,,,,0,outdoors,grass,,,,,,,Frank Reich,Mike McDaniel,,MIA00,Hard Rock Stadium
 2023_06_DET_TB,2023,REG,6,2023-10-15,Sunday,13:00,DET,,TB,,Home,,,,2023101508,,,202310150tam,,,7,14,-175,145,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Dan Campbell,Todd Bowles,,TAM00,Raymond James Stadium
 2023_06_NE_LV,2023,REG,6,2023-10-15,Sunday,16:05,NE,,LV,,Home,,,,2023101509,,,202310150rai,,,7,6,-105,-115,1,-110,-110,,,,0,dome,grass,,,,,,,Bill Belichick,Josh McDaniels,,VEG00,Allegiant Stadium
 2023_06_ARI_LA,2023,REG,6,2023-10-15,Sunday,16:25,ARI,,LA,,Home,,,,2023101510,,,202310150ram,,,7,7,154,-185,4,-110,-110,,,,1,dome,matrixturf,,,,,,,Jonathan Gannon,Sean McVay,,LAX01,SoFi Stadium
@@ -6538,7 +6538,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_08_PHI_WAS,2023,REG,8,2023-10-29,Sunday,13:00,PHI,,WAS,,Home,,,,2023102908,,,202310290was,,,7,7,-185,154,-4,-110,-110,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Ron Rivera,,WAS00,FedExField
 2023_08_CLE_SEA,2023,REG,8,2023-10-29,Sunday,16:05,CLE,,SEA,,Home,,,,2023102909,,,202310290sea,,,7,7,105,-125,2,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Kevin Stefanski,Pete Carroll,,SEA00,Lumen Field
 2023_08_BAL_ARI,2023,REG,8,2023-10-29,Sunday,16:25,BAL,,ARI,,Home,,,,2023102910,,,202310290crd,,,7,7,-258,210,-6.5,-110,-110,43.5,-110,-110,0,"",grass,,,,,,,John Harbaugh,Jonathan Gannon,,PHO00,State Farm Stadium
-2023_08_KC_DEN,2023,REG,8,2023-10-29,Sunday,16:25,KC,,DEN,,Home,,,,2023102911,,,202310290den,,,7,7,-175,145,-3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Andy Reid,Sean Payton,,DEN00,Empower Field at Mile High
+2023_08_KC_DEN,2023,REG,8,2023-10-29,Sunday,16:25,KC,,DEN,,Home,,,,2023102911,,,202310290den,,,7,7,,,-3.5,-110,-110,,,,1,outdoors,grass,,,,,,,Andy Reid,Sean Payton,,DEN00,Empower Field at Mile High
 2023_08_CIN_SF,2023,REG,8,2023-10-29,Sunday,16:25,CIN,,SF,,Home,,,,2023102912,,,202310290sfo,,,14,6,-105,-115,1,-110,-110,,,,0,outdoors,grass,,,,,,,Zac Taylor,Kyle Shanahan,,SFO01,Levi's Stadium
 2023_08_CHI_LAC,2023,REG,8,2023-10-29,Sunday,20:20,CHI,,LAC,,Home,,,,2023102913,,,202310290sdg,,,7,7,190,-230,5.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Matt Eberflus,Brandon Staley,,LAX01,SoFi Stadium
 2023_08_LV_DET,2023,REG,8,2023-10-30,Monday,20:15,LV,,DET,,Home,,,,2023103000,,,202310300det,,,8,8,164,-198,4.5,-110,-110,,,,0,dome,fieldturf,,,,,,,Josh McDaniels,Dan Campbell,,DET00,Ford Field
