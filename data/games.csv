@@ -6521,7 +6521,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_07_WAS_NYG,2023,REG,7,2023-10-22,Sunday,13:00,WAS,,NYG,,Home,,,,2023102204,,,202310220nyg,,,7,7,110,-130,2.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Ron Rivera,Brian Daboll,,NYC01,MetLife Stadium
 2023_07_ATL_TB,2023,REG,7,2023-10-22,Sunday,13:00,ATL,,TB,,Home,,,,2023102205,,,202310220tam,,,7,7,-115,-105,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Arthur Smith,Todd Bowles,,TAM00,Raymond James Stadium
 2023_07_PIT_LA,2023,REG,7,2023-10-22,Sunday,16:05,PIT,,LA,,Home,,,,2023102206,,,202310220ram,,,14,7,-125,105,-2,-110,-110,,,,0,dome,matrixturf,,,,,,,Mike Tomlin,Sean McVay,,LAX01,SoFi Stadium
-2023_07_ARI_SEA,2023,REG,7,2023-10-22,Sunday,16:05,ARI,,SEA,,Home,,,,2023102207,,,202310220sea,,,7,7,270,-340,7.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Jonathan Gannon,Pete Carroll,,SEA00,Lumen Field
+2023_07_ARI_SEA,2023,REG,7,2023-10-22,Sunday,16:05,ARI,,SEA,,Home,,,,2023102207,,,202310220sea,,,7,7,,,7.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Jonathan Gannon,Pete Carroll,,SEA00,Lumen Field
 2023_07_GB_DEN,2023,REG,7,2023-10-22,Sunday,16:25,GB,,DEN,,Home,,,,2023102208,,,202310220den,,,13,10,145,-175,3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt LaFleur,Sean Payton,,DEN00,Empower Field at Mile High
 2023_07_LAC_KC,2023,REG,7,2023-10-22,Sunday,16:25,LAC,,KC,,Home,,,,2023102209,,,202310220kan,,,6,10,180,-218,5.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brandon Staley,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2023_07_MIA_PHI,2023,REG,7,2023-10-22,Sunday,20:20,MIA,,PHI,,Home,,,,2023102210,,,202310220phi,,,7,7,160,-192,4,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Nick Sirianni,,PHI00,Lincoln Financial Field
