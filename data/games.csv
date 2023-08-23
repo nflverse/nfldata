@@ -6573,7 +6573,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_11_CIN_BAL,2023,REG,11,2023-11-16,Thursday,20:15,CIN,,BAL,,Home,,,,2023111600,,,202311160rav,,,4,4,-115,-105,-1,-110,-110,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
 2023_11_DAL_CAR,2023,REG,11,2023-11-19,Sunday,13:00,DAL,,CAR,,Home,,,,2023111900,,,202311190car,,,7,10,-180,150,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Frank Reich,,CAR00,Bank of America Stadium
 2023_11_PIT_CLE,2023,REG,11,2023-11-19,Sunday,13:00,PIT,,CLE,,Home,,,,2023111901,,,202311190cle,,,7,7,100,-120,1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2023_11_CHI_DET,2023,REG,11,2023-11-19,Sunday,13:00,CHI,,DET,,Home,,,,2023111902,,,202311190det,,,10,7,170,-205,5,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
+2023_11_CHI_DET,2023,REG,11,2023-11-19,Sunday,13:00,CHI,,DET,,Home,,,,2023111902,,,202311190det,,,10,7,,,5,-110,-110,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
 2023_11_LAC_GB,2023,REG,11,2023-11-19,Sunday,13:00,LAC,,GB,,Home,,,,2023111903,,,202311190gnb,,,7,7,-130,110,-2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Brandon Staley,Matt LaFleur,,GNB00,Lambeau Field
 2023_11_ARI_HOU,2023,REG,11,2023-11-19,Sunday,13:00,ARI,,HOU,,Home,,,,2023111904,,,202311190htx,,,7,7,120,-142,2.5,-110,-110,,,,0,"",astroturf,,,,,,,Jonathan Gannon,DeMeco Ryans,,HOU00,NRG Stadium
 2023_11_TEN_JAX,2023,REG,11,2023-11-19,Sunday,13:00,TEN,,JAX,,Home,,,,2023111905,,,202311190jax,,,7,7,170,-205,5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Vrabel,Doug Pederson,,JAX00,TIAA Bank Stadium
