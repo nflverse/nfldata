@@ -6463,7 +6463,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_03_NE_NYJ,2023,REG,3,2023-09-24,Sunday,13:00,NE,,NYJ,,Home,,,,2023092407,,,202309240nyj,,,7,7,170,-205,4.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Bill Belichick,Robert Saleh,,NYC01,MetLife Stadium
 2023_03_BUF_WAS,2023,REG,3,2023-09-24,Sunday,13:00,BUF,,WAS,,Home,,,,2023092408,,,202309240was,,,7,7,-192,160,-4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Sean McDermott,Ron Rivera,,WAS00,FedExField
 2023_03_CAR_SEA,2023,REG,3,2023-09-24,Sunday,16:05,CAR,,SEA,,Home,,,,2023092409,,,202309240sea,,,6,7,160,-192,4,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Frank Reich,Pete Carroll,,SEA00,Lumen Field
-2023_03_DAL_ARI,2023,REG,3,2023-09-24,Sunday,16:25,DAL,,ARI,,Home,,,,2023092410,,,202309240crd,,,7,7,,,-7,-110,-110,,,,0,"",grass,,,,,,,Mike McCarthy,Jonathan Gannon,,PHO00,State Farm Stadium
+2023_03_DAL_ARI,2023,REG,3,2023-09-24,Sunday,16:25,DAL,,ARI,,Home,,,,2023092410,,,202309240crd,,,7,7,-290,235,-7,-110,-110,,,,0,"",grass,,,,,,,Mike McCarthy,Jonathan Gannon,,PHO00,State Farm Stadium
 2023_03_CHI_KC,2023,REG,3,2023-09-24,Sunday,16:25,CHI,,KC,,Home,,,,2023092411,,,202309240kan,,,7,7,320,-410,9.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2023_03_PIT_LV,2023,REG,3,2023-09-24,Sunday,20:20,PIT,,LV,,Home,,,,2023092412,,,202309240rai,,,6,7,-125,105,-1.5,-110,-110,,,,0,dome,grass,,,,,,,Mike Tomlin,Josh McDaniels,,VEG00,Allegiant Stadium
 2023_03_PHI_TB,2023,REG,3,2023-09-25,Monday,19:15,PHI,,TB,,Home,,,,2023092500,,,202309250tam,,,11,8,-325,260,-7,-120,100,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Todd Bowles,,TAM00,Raymond James Stadium
