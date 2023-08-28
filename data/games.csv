@@ -6543,7 +6543,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_08_CHI_LAC,2023,REG,8,2023-10-29,Sunday,20:20,CHI,,LAC,,Home,,,,2023102913,,,202310290sdg,,,7,7,190,-230,5.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Matt Eberflus,Brandon Staley,,LAX01,SoFi Stadium
 2023_08_LV_DET,2023,REG,8,2023-10-30,Monday,20:15,LV,,DET,,Home,,,,2023103000,,,202310300det,,,8,8,164,-198,4.5,-110,-110,,,,0,dome,fieldturf,,,,,,,Josh McDaniels,Dan Campbell,,DET00,Ford Field
 2023_09_TEN_PIT,2023,REG,9,2023-11-02,Thursday,20:15,TEN,,PIT,,Home,,,,2023110200,,,202311020pit,,,4,4,150,-180,4,-110,-110,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Mike Tomlin,,PIT00,Acrisure Stadium
-2023_09_MIA_KC,2023,REG,9,2023-11-05,Sunday,09:30,MIA,,KC,,Neutral,,,,2023110500,,,202311050kan,,,7,7,180,-205,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2023_09_MIA_KC,2023,REG,9,2023-11-05,Sunday,09:30,MIA,,KC,,Neutral,,,,2023110500,,,202311050kan,,,7,7,170,-205,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2023_09_MIN_ATL,2023,REG,9,2023-11-05,Sunday,13:00,MIN,,ATL,,Home,,,,2023110501,,,202311050atl,,,7,7,-115,-105,-1,-110,-110,,,,0,"",fieldturf,,,,,,,Kevin O'Connell,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2023_09_SEA_BAL,2023,REG,9,2023-11-05,Sunday,13:00,SEA,,BAL,,Home,,,,2023110502,,,202311050rav,,,7,7,136,-162,3,-105,-115,,,,0,outdoors,grass,,,,,,,Pete Carroll,John Harbaugh,,BAL00,M&T Bank Stadium
 2023_09_ARI_CLE,2023,REG,9,2023-11-05,Sunday,13:00,ARI,,CLE,,Home,,,,2023110503,,,202311050cle,,,7,7,260,-325,7,100,-120,,,,0,outdoors,grass,,,,,,,Jonathan Gannon,Kevin Stefanski,,CLE00,FirstEnergy Stadium
