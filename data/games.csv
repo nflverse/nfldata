@@ -6471,7 +6471,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_04_DET_GB,2023,REG,4,2023-09-28,Thursday,20:15,DET,,GB,,Home,,,,2023092800,,,202309280gnb,,,4,4,-122,102,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
 2023_04_ATL_JAX,2023,REG,4,2023-10-01,Sunday,09:30,ATL,,JAX,,Neutral,,,,2023100100,,,202310010jax,,,7,7,154,-185,4,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,Doug Pederson,,JAX00,TIAA Bank Stadium
 2023_04_MIA_BUF,2023,REG,4,2023-10-01,Sunday,13:00,MIA,,BUF,,Home,,,,2023100101,,,202310010buf,,,7,7,145,-175,3.5,-110,-110,,,,1,outdoors,a_turf,,,,,,,Mike McDaniel,Sean McDermott,,BUF00,New Era Field
-2023_04_MIN_CAR,2023,REG,4,2023-10-01,Sunday,13:00,MIN,,CAR,,Home,,,,2023100102,,,202310010car,,,7,7,,,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Frank Reich,,CAR00,Bank of America Stadium
+2023_04_MIN_CAR,2023,REG,4,2023-10-01,Sunday,13:00,MIN,,CAR,,Home,,,,2023100102,,,202310010car,,,7,7,-120,100,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Frank Reich,,CAR00,Bank of America Stadium
 2023_04_DEN_CHI,2023,REG,4,2023-10-01,Sunday,13:00,DEN,,CHI,,Home,,,,2023100103,,,202310010chi,,,7,7,-120,100,-1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Sean Payton,Matt Eberflus,,CHI98,Soldier Field
 2023_04_BAL_CLE,2023,REG,4,2023-10-01,Sunday,13:00,BAL,,CLE,,Home,,,,2023100104,,,202310010cle,,,7,7,-105,-115,1,-110,-110,,,,1,outdoors,grass,,,,,,,John Harbaugh,Kevin Stefanski,,CLE00,FirstEnergy Stadium
 2023_04_PIT_HOU,2023,REG,4,2023-10-01,Sunday,13:00,PIT,,HOU,,Home,,,,2023100105,,,202310010htx,,,7,7,-175,145,-3.5,-110,-110,,,,0,"",astroturf,,,,,,,Mike Tomlin,DeMeco Ryans,,HOU00,NRG Stadium
