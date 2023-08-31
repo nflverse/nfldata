@@ -6607,7 +6607,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_13_ARI_PIT,2023,REG,13,2023-12-03,Sunday,13:00,ARI,,PIT,,Home,,,,2023120303,,,202312030pit,,,7,7,210,-258,6.5,-110,-110,,,,0,outdoors,grass,,,,,,,Jonathan Gannon,Mike Tomlin,,PIT00,Acrisure Stadium
 2023_13_CAR_TB,2023,REG,13,2023-12-03,Sunday,13:00,CAR,,TB,,Home,,,,2023120304,,,202312030tam,,,7,7,-105,-115,1,-110,-110,,,,1,outdoors,grass,,,,,,,Frank Reich,Todd Bowles,,TAM00,Raymond James Stadium
 2023_13_IND_TEN,2023,REG,13,2023-12-03,Sunday,13:00,IND,,TEN,,Home,,,,2023120305,,,202312030oti,,,7,7,120,-142,2.5,100,-120,,,,1,outdoors,grass,,,,,,,Shane Steichen,Mike Vrabel,,NAS00,Nissan Stadium
-2023_13_MIA_WAS,2023,REG,13,2023-12-03,Sunday,13:00,MIA,,WAS,,Home,,,,2023120306,,,202312030was,,,9,10,-175,145,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Ron Rivera,,WAS00,FedExField
+2023_13_MIA_WAS,2023,REG,13,2023-12-03,Sunday,13:00,MIA,,WAS,,Home,,,,2023120306,,,202312030was,,,9,10,,,-3.5,-110,-110,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Ron Rivera,,WAS00,FedExField
 2023_13_DEN_HOU,2023,REG,13,2023-12-03,Sunday,16:05,DEN,,HOU,,Home,,,,2023120307,,,202312030htx,,,7,7,-180,150,-4,-110,-110,,,,0,"",astroturf,,,,,,,Sean Payton,DeMeco Ryans,,HOU00,NRG Stadium
 2023_13_CLE_LA,2023,REG,13,2023-12-03,Sunday,16:25,CLE,,LA,,Home,,,,2023120308,,,202312030ram,,,7,7,-142,120,-2.5,-110,-110,,,,0,dome,matrixturf,,,,,,,Kevin Stefanski,Sean McVay,,LAX01,SoFi Stadium
 2023_13_SF_PHI,2023,REG,13,2023-12-03,Sunday,16:25,SF,,PHI,,Home,,,,2023120309,,,202312030phi,,,10,7,114,-135,2.5,-110,-110,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Nick Sirianni,,PHI00,Lincoln Financial Field
