@@ -6681,7 +6681,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_18_TB_CAR,2023,REG,18,2024-01-07,Sunday,13:00,TB,,CAR,,Home,,,,2022121702,,,202212170car,,,,6,6,110,-130,2.5,-110,-110,,,,1,outdoors,grass,,,,,,,Todd Bowles,Frank Reich,,CAR00,Bank of America Stadium
 2023_18_CLE_CIN,2023,REG,18,2024-01-07,Sunday,13:00,CLE,,CIN,,Home,,,,2022121703,,,202212170cin,,,,6,6,145,-175,3.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paycor Stadium
 2023_18_MIN_DET,2023,REG,18,2024-01-07,Sunday,13:00,MIN,,DET,,Home,,,,2022121704,,,202212170det,,,,6,6,114,-135,2.5,-105,-115,,,,1,dome,fieldturf,,,,,,,Kevin O'Connell,Dan Campbell,,DET00,Ford Field
-2023_18_CHI_GB,2023,REG,18,2024-01-07,Sunday,13:00,CHI,,GB,,Home,,,,2022121705,,,202212170gnb,,,,13,13,105,-125,2,-110,-110,,,,1,outdoors,grass,,,,,,,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
+2023_18_CHI_GB,2023,REG,18,2024-01-07,Sunday,13:00,CHI,,GB,,Home,,,,2022121705,,,202212170gnb,,,,13,13,105,-125,2,-110,,,,,1,outdoors,grass,,,,,,,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
 2023_18_HOU_IND,2023,REG,18,2024-01-07,Sunday,13:00,HOU,,IND,,Home,,,,2022121706,,,202212170clt,,,,6,13,102,-122,1.5,-110,-110,,,,1,"",fieldturf,,,,,,,DeMeco Ryans,Shane Steichen,,IND00,Lucas Oil Stadium
 2023_18_KC_LAC,2023,REG,18,2024-01-07,Sunday,13:00,KC,,LAC,,Home,,,,2022121707,,,202212170sdg,,,,6,6,-125,105,-2,-110,-110,,,,1,dome,matrixturf,,,,,,,Andy Reid,Brandon Staley,,LAX01,SoFi Stadium
 2023_18_DEN_LV,2023,REG,18,2024-01-07,Sunday,13:00,DEN,,LV,,Home,,,,2022121708,,,202212170rai,,,,6,9,-115,-105,-1,-110,-110,,,,1,dome,grass,,,,,,,Sean Payton,Josh McDaniels,,VEG00,Allegiant Stadium
