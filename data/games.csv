@@ -6513,7 +6513,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_06_PHI_NYJ,2023,REG,6,2023-10-15,Sunday,16:25,PHI,,NYJ,,Home,,,,2023101511,,,202310150nyj,,,,7,7,-115,-105,-1,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Nick Sirianni,Robert Saleh,,NYC01,MetLife Stadium
 2023_06_NYG_BUF,2023,REG,6,2023-10-15,Sunday,20:20,NYG,,BUF,,Home,,,,2023101512,,,202310150buf,,,,7,7,240,-298,7,-110,-110,,,,0,outdoors,a_turf,,,,,,,Brian Daboll,Sean McDermott,,BUF00,New Era Field
 2023_06_DAL_LAC,2023,REG,6,2023-10-16,Monday,20:15,DAL,,LAC,,Home,,,,2023101600,,,202310160sdg,,,,8,15,-105,-115,1,-110,-110,,,,0,dome,matrixturf,,,,,,,Mike McCarthy,Brandon Staley,,LAX01,SoFi Stadium
-2023_07_JAX_NO,2023,REG,7,2023-10-19,Thursday,20:15,JAX,,NO,,Home,,,,2023101900,,,202310190nor,,,,4,4,-105,-115,1,-110,-110,,,,0,dome,sportturf,,,,,,,Doug Pederson,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2023_07_JAX_NO,2023,REG,7,2023-10-19,Thursday,20:15,JAX,,NO,,Home,,,,2023101900,,,202310190nor,,,,4,4,-105,-115,1,-110,,,,,0,dome,sportturf,,,,,,,Doug Pederson,Dennis Allen,,NOR00,Mercedes-Benz Superdome
 2023_07_DET_BAL,2023,REG,7,2023-10-22,Sunday,13:00,DET,,BAL,,Home,,,,2023102200,,,202310220rav,,,,7,7,130,-155,3,-110,-110,,,,0,outdoors,grass,,,,,,,Dan Campbell,John Harbaugh,,BAL00,M&T Bank Stadium
 2023_07_LV_CHI,2023,REG,7,2023-10-22,Sunday,13:00,LV,,CHI,,Home,,,,2023102201,,,202310220chi,,,,7,7,-105,-115,1,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Matt Eberflus,,CHI98,Soldier Field
 2023_07_CLE_IND,2023,REG,7,2023-10-22,Sunday,13:00,CLE,,IND,,Home,,,,2023102202,,,202310220clt,,,,7,7,-148,124,-3,-110,-110,,,,0,"",fieldturf,,,,,,,Kevin Stefanski,Shane Steichen,,IND00,Lucas Oil Stadium
