@@ -6486,7 +6486,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_04_SEA_NYG,2023,REG,4,2023-10-02,Monday,20:15,SEA,,NYG,,Home,,,,2023100200,,,202310020nyg,,,,8,11,-102,-118,1,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Pete Carroll,Brian Daboll,,NYC01,MetLife Stadium
 2023_05_CHI_WAS,2023,REG,5,2023-10-05,Thursday,20:15,CHI,,WAS,,Home,,,,2023100500,,,202310050was,,,,4,4,102,-122,1.5,-110,-110,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Ron Rivera,,WAS00,FedExField
 2023_05_JAX_BUF,2023,REG,5,2023-10-08,Sunday,09:30,JAX,,BUF,,Neutral,,,,2023100800,,,202310080buf,,,,7,7,142,-170,3.5,-120,100,,,,0,outdoors,a_turf,,,,,,,Doug Pederson,Sean McDermott,,BUF00,New Era Field
-2023_05_HOU_ATL,2023,REG,5,2023-10-08,Sunday,13:00,HOU,,ATL,,Home,,,,2023100801,,,202310080atl,,,,7,7,145,-175,3.5,-110,-110,,,,0,"",fieldturf,,,,,,,DeMeco Ryans,Arthur Smith,,ATL97,Mercedes-Benz Stadium
+2023_05_HOU_ATL,2023,REG,5,2023-10-08,Sunday,13:00,HOU,,ATL,,Home,,,,2023100801,,,202310080atl,,,,7,7,,,3.5,-110,-110,,,,0,"",fieldturf,,,,,,,DeMeco Ryans,Arthur Smith,,ATL97,Mercedes-Benz Stadium
 2023_05_CAR_DET,2023,REG,5,2023-10-08,Sunday,13:00,CAR,,DET,,Home,,,,2023100802,,,202310080det,,,,7,10,170,-205,5,-110,-110,,,,0,dome,fieldturf,,,,,,,Frank Reich,Dan Campbell,,DET00,Ford Field
 2023_05_TEN_IND,2023,REG,5,2023-10-08,Sunday,13:00,TEN,,IND,,Home,,,,2023100803,,,202310080clt,,,,7,7,-105,-115,1,-110,-110,,,,1,"",fieldturf,,,,,,,Mike Vrabel,Shane Steichen,,IND00,Lucas Oil Stadium
 2023_05_NYG_MIA,2023,REG,5,2023-10-08,Sunday,13:00,NYG,,MIA,,Home,,,,2023100804,,,202310080mia,,,,6,7,164,-198,4.5,-110,-110,,,,0,outdoors,grass,,,,,,,Brian Daboll,Mike McDaniel,,MIA00,Hard Rock Stadium
