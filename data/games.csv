@@ -6638,7 +6638,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_15_NYJ_MIA,2023,REG,15,2023-12-17,Sunday,13:00,NYJ,,MIA,,Home,,,,2023121701,,,202312170mia,,401547594,,7,6,100,-120,1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Robert Saleh,Mike McDaniel,,MIA00,Hard Rock Stadium
 2023_15_NYG_NO,2023,REG,15,2023-12-17,Sunday,13:00,NYG,,NO,,Home,,,,2023121702,,,202312170nor,,401547599,,6,7,110,-130,2.5,-110,-110,,,,0,dome,sportturf,,,,,,,Brian Daboll,Dennis Allen,,NOR00,Mercedes-Benz Superdome
 2023_15_HOU_TEN,2023,REG,15,2023-12-17,Sunday,13:00,HOU,,TEN,,Home,,,,2023121703,,,202312170oti,,401547595,,7,6,124,-148,3,-110,-110,,,,1,outdoors,grass,,,,,,,DeMeco Ryans,Mike Vrabel,,NAS00,Nissan Stadium
-2023_15_SF_ARI,2023,REG,15,2023-12-17,Sunday,16:05,SF,,ARI,,Home,,,,2023121704,,,202312170crd,,401547596,,7,14,,,-7,-110,-110,,,,1,"",grass,,,,,,,Kyle Shanahan,Jonathan Gannon,,PHO00,State Farm Stadium
+2023_15_SF_ARI,2023,REG,15,2023-12-17,Sunday,16:05,SF,,ARI,,Home,,,,2023121704,,,202312170crd,,401547596,,7,14,-290,235,-7,-110,-110,,,,1,"",grass,,,,,,,Kyle Shanahan,Jonathan Gannon,,PHO00,State Farm Stadium
 2023_15_WAS_LA,2023,REG,15,2023-12-17,Sunday,16:05,WAS,,LA,,Home,,,,2023121705,,,202312170ram,,401547597,,14,7,-105,-115,1,-110,-110,,,,0,dome,matrixturf,,,,,,,Ron Rivera,Sean McVay,,LAX01,SoFi Stadium
 2023_15_DAL_BUF,2023,REG,15,2023-12-17,Sunday,16:25,DAL,,BUF,,Home,,,,2023121706,,,202312170buf,,401547600,,7,7,160,-192,4,-110,-110,,,,0,outdoors,a_turf,,,,,,,Mike McCarthy,Sean McDermott,,BUF00,New Era Field
 2023_15_PHI_SEA,2023,REG,15,2023-12-17,Sunday,16:25,PHI,,SEA,,Home,,,,2023121707,,,202312170sea,,401547601,,7,7,-125,105,-2,-110,-110,,,,0,outdoors,fieldturf,,,,,,,Nick Sirianni,Pete Carroll,,SEA00,Lumen Field
