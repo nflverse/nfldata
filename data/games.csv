@@ -6578,7 +6578,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_11_ARI_HOU,2023,REG,11,2023-11-19,Sunday,13:00,ARI,,HOU,,Home,,,,2023111904,,,202311190htx,,401547540,,7,7,120,-142,2.5,-110,-110,,,,0,"",astroturf,,,,,,,Jonathan Gannon,DeMeco Ryans,,HOU00,NRG Stadium
 2023_11_TEN_JAX,2023,REG,11,2023-11-19,Sunday,13:00,TEN,,JAX,,Home,,,,2023111905,,,202311190jax,,401547541,,7,7,170,-205,5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Vrabel,Doug Pederson,,JAX00,TIAA Bank Stadium
 2023_11_LV_MIA,2023,REG,11,2023-11-19,Sunday,13:00,LV,,MIA,,Home,,,,2023111906,,,202311190mia,,401547542,,7,14,185,-225,5.5,-110,-110,,,,0,outdoors,grass,,,,,,,Josh McDaniels,Mike McDaniel,,MIA00,Hard Rock Stadium
-2023_11_NYG_WAS,2023,REG,11,2023-11-19,Sunday,13:00,NYG,,WAS,,Home,,,,2023111907,,,202311190was,,401547548,,7,7,-122,102,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brian Daboll,Ron Rivera,,WAS00,FedExField
+2023_11_NYG_WAS,2023,REG,11,2023-11-19,Sunday,13:00,NYG,,WAS,,Home,,,,2023111907,,,202311190was,,401547548,,7,7,,,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brian Daboll,Ron Rivera,,WAS00,FedExField
 2023_11_TB_SF,2023,REG,11,2023-11-19,Sunday,16:05,TB,,SF,,Home,,,,2023111908,,,202311190sfo,,401547549,,7,7,270,-340,7.5,-110,-110,,,,0,outdoors,grass,,,,,,,Todd Bowles,Kyle Shanahan,,SFO01,Levi's Stadium
 2023_11_NYJ_BUF,2023,REG,11,2023-11-19,Sunday,16:25,NYJ,,BUF,,Home,,,,2023111909,,,202311190buf,,401547543,,7,6,154,-185,4,-110,-110,,,,1,outdoors,a_turf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
 2023_11_SEA_LA,2023,REG,11,2023-11-19,Sunday,16:25,SEA,,LA,,Home,,,,2023111910,,,202311190ram,,401547544,,7,14,-125,105,-2,-110,-110,,,,1,dome,matrixturf,,,,,,,Pete Carroll,Sean McVay,,LAX01,SoFi Stadium
