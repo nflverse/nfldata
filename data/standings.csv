@@ -673,7 +673,7 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2022,NFC,NFC West,SF,13,4,0,0.764706,1,450,277,173,0.414027,0.416955,2,LostCC
 2023,AFC,AFC East,BUF,0,0,0,0.5,2,0,0,0,0.0,0.558824,,
 2023,AFC,AFC East,MIA,1,0,0,1.0,1,36,34,2,0.0,0.441176,,
-2023,AFC,AFC East,NE,0,0,0,0.5,4,0,0,0,0.0,0.5,,
+2023,AFC,AFC East,NE,0,0,0,0.5,4,20,25,-5,0.0,0.5,,
 2023,AFC,AFC East,NYJ,0,0,0,0.5,3,0,0,0,0.0,0.558824,,
 2023,AFC,AFC North,BAL,1,0,0,1.0,2,25,9,16,0.0,0.411765,,
 2023,AFC,AFC North,CIN,0,1,0,0.0,4,3,24,-21,0.0,0.441176,,
@@ -689,7 +689,7 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2023,AFC,AFC West,LV,1,0,0,1.0,1,17,16,1,0.0,0.294118,,
 2023,NFC,NFC East,DAL,0,0,0,0.5,3,0,0,0,0.0,0.558824,,
 2023,NFC,NFC East,NYG,0,0,0,0.5,2,0,0,0,0.0,0.676471,,
-2023,NFC,NFC East,PHI,0,0,0,0.5,4,0,0,0,0.0,0.558824,,
+2023,NFC,NFC East,PHI,0,0,0,0.5,4,25,20,5,0.0,0.558824,,
 2023,NFC,NFC East,WAS,1,0,0,1.0,1,20,16,4,0.0,0.5,,
 2023,NFC,NFC North,CHI,0,1,0,0.0,4,20,38,-18,0.0,0.588235,,
 2023,NFC,NFC North,DET,1,0,0,1.0,2,21,20,1,0.0,0.441176,,
