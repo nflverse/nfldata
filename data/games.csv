@@ -6666,7 +6666,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2023_17_NE_BUF,2023,REG,17,2023-12-31,Sunday,13:00,NE,,BUF,,Home,,,,2023123101,,,202312310buf,,401547626,,7,8,220,-270,6.5,-105,-115,,,,1,outdoors,a_turf,,,,,,,Bill Belichick,Sean McDermott,,BUF00,New Era Field
 2023_17_ATL_CHI,2023,REG,17,2023-12-31,Sunday,13:00,ATL,,CHI,,Home,,,,2023123102,,,202312310chi,,401547627,,7,7,110,-130,2,-110,-110,,,,0,outdoors,grass,,,,,,,Arthur Smith,Matt Eberflus,,CHI98,Soldier Field
 2023_17_TEN_HOU,2023,REG,17,2023-12-31,Sunday,13:00,TEN,,HOU,,Home,,,,2023123103,,,202312310htx,,401547631,,7,7,-115,-105,-1,-110,-110,,,,1,"",astroturf,,,,,,,Mike Vrabel,DeMeco Ryans,,HOU00,NRG Stadium
-2023_17_LV_IND,2023,REG,17,2023-12-31,Sunday,13:00,LV,,IND,,Home,,,,2023123104,,,202312310clt,,401547628,,6,7,,,-2,-110,-110,,,,0,"",fieldturf,,,,,,,Josh McDaniels,Shane Steichen,,IND00,Lucas Oil Stadium
+2023_17_LV_IND,2023,REG,17,2023-12-31,Sunday,13:00,LV,,IND,,Home,,,,2023123104,,,202312310clt,,401547628,,6,7,-125,105,-2,-110,-110,,,,0,"",fieldturf,,,,,,,Josh McDaniels,Shane Steichen,,IND00,Lucas Oil Stadium
 2023_17_CAR_JAX,2023,REG,17,2023-12-31,Sunday,13:00,CAR,,JAX,,Home,,,,2023123105,,,202312310jax,,401547629,,7,7,170,-205,5,-110,-110,,,,0,outdoors,grass,,,,,,,Frank Reich,Doug Pederson,,JAX00,TIAA Bank Stadium
 2023_17_LA_NYG,2023,REG,17,2023-12-31,Sunday,13:00,LA,,NYG,,Home,,,,2023123106,,,202312310nyg,,401547632,,10,6,140,-166,3,100,-120,,,,0,outdoors,fieldturf,,,,,,,Sean McVay,Brian Daboll,,NYC01,MetLife Stadium
 2023_17_ARI_PHI,2023,REG,17,2023-12-31,Sunday,13:00,ARI,,PHI,,Home,,,,2023123107,,,202312310phi,,401547633,,7,6,400,-535,11,-110,-110,,,,0,outdoors,grass,,,,,,,Jonathan Gannon,Nick Sirianni,,PHI00,Lincoln Financial Field
