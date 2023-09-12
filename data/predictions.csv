@@ -1877,9 +1877,9 @@ game_id,screen_name,prediction
 2023_01_HOU_BAL,Zack Mulholland,96
 2023_01_HOU_BAL,Александр Кеменов,78
 2023_01_HOU_BAL,Андрей Маланцев,80
+2023_01_CIN_CLE, ,42
 2023_01_CIN_CLE, ,50
 2023_01_CIN_CLE, ,53
-2023_01_CIN_CLE, ,42
 2023_01_CIN_CLE,3_red_ducks ,51
 2023_01_CIN_CLE,Aaron Goodwin,37
 2023_01_CIN_CLE,Aaron Lindsey,54
@@ -3034,8 +3034,8 @@ game_id,screen_name,prediction
 2023_01_JAX_IND,robert camin,0
 2023_01_JAX_IND,robert clark,50
 2023_01_JAX_IND,Robert Greer,34
-2023_01_JAX_IND,Robert Martin,20
 2023_01_JAX_IND,robert martin,50
+2023_01_JAX_IND,Robert Martin,20
 2023_01_JAX_IND,Robert Reynolds,37
 2023_01_JAX_IND,Robert Sasso,50
 2023_01_JAX_IND,Roe Henson,38
@@ -5388,8 +5388,8 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,Jason DeLoach,50
 2023_01_ARI_WAS,Jason Hanrahan,83
 2023_01_ARI_WAS,Jason Huffman,100
-2023_01_ARI_WAS,Jason Lee,94
 2023_01_ARI_WAS,Jason Lee,66
+2023_01_ARI_WAS,Jason Lee,94
 2023_01_ARI_WAS,Jason Wassel,47
 2023_01_ARI_WAS,jason word,50
 2023_01_ARI_WAS,Jay Morrison,100
@@ -5759,8 +5759,8 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,Zack Mulholland,72
 2023_01_ARI_WAS,Александр Кеменов,81
 2023_01_ARI_WAS,Андрей Маланцев,75
-2023_01_GB_CHI, ,50
 2023_01_GB_CHI, ,44
+2023_01_GB_CHI, ,50
 2023_01_GB_CHI, ,50
 2023_01_GB_CHI,3_red_ducks ,56
 2023_01_GB_CHI,Aaron Goodwin,73
@@ -6271,8 +6271,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,robert camin,18
 2023_01_GB_CHI,robert clark,50
 2023_01_GB_CHI,Robert Greer,44
-2023_01_GB_CHI,robert martin,50
 2023_01_GB_CHI,Robert Martin,40
+2023_01_GB_CHI,robert martin,50
 2023_01_GB_CHI,Robert Reynolds,50
 2023_01_GB_CHI,Robert Sasso,44
 2023_01_GB_CHI,Roe Henson,75
@@ -9306,8 +9306,8 @@ game_id,screen_name,prediction
 2023_01_DAL_NYG,Joel Hane,37
 2023_01_DAL_NYG,Joey Kunkle,32
 2023_01_DAL_NYG,John Akey,41
-2023_01_DAL_NYG,John Bray,49
 2023_01_DAL_NYG,John Bray,55
+2023_01_DAL_NYG,John Bray,49
 2023_01_DAL_NYG,John Christman,3
 2023_01_DAL_NYG,John Edwards,38
 2023_01_DAL_NYG,John Kostal,35
