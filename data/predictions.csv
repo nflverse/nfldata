@@ -5759,8 +5759,8 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,Zack Mulholland,72
 2023_01_ARI_WAS,Александр Кеменов,81
 2023_01_ARI_WAS,Андрей Маланцев,75
-2023_01_GB_CHI, ,50
 2023_01_GB_CHI, ,44
+2023_01_GB_CHI, ,50
 2023_01_GB_CHI, ,50
 2023_01_GB_CHI,3_red_ducks ,56
 2023_01_GB_CHI,Aaron Goodwin,73
@@ -5909,8 +5909,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Dan Hindery,54
 2023_01_GB_CHI,Dan Morse,46
 2023_01_GB_CHI,Dan Skutt,50
-2023_01_GB_CHI,Daniel ,32
 2023_01_GB_CHI,Daniel ,48
+2023_01_GB_CHI,Daniel ,32
 2023_01_GB_CHI,Daniel Barkley,53
 2023_01_GB_CHI,Daniel Dubicki,49
 2023_01_GB_CHI,Daniel Houston,42
@@ -9807,8 +9807,8 @@ game_id,screen_name,prediction
 2023_01_BUF_NYJ,Dan Hindery,45
 2023_01_BUF_NYJ,Dan Morse,29
 2023_01_BUF_NYJ,Dan Skutt,61
-2023_01_BUF_NYJ,Daniel ,0
 2023_01_BUF_NYJ,Daniel ,43
+2023_01_BUF_NYJ,Daniel ,0
 2023_01_BUF_NYJ,Daniel Barkley,58
 2023_01_BUF_NYJ,Daniel Dubicki,40
 2023_01_BUF_NYJ,Daniel Houston,60
@@ -10485,7 +10485,6 @@ game_id,screen_name,prediction
 2023_02_MIN_PHI,Jake Danilson,56
 2023_02_MIN_PHI,Jake Ford,73
 2023_02_MIN_PHI,Jake Oringel,50
-2023_02_MIN_PHI,Jake Pedrelli,65
 2023_02_MIN_PHI,Jake Pedrelli,65
 2023_02_MIN_PHI,Jake Watson,73
 2023_02_MIN_PHI,Jakub Machata,74
