@@ -69,8 +69,8 @@ start_team <- games |>
 circle <- find_circle(start_team[1])
 
 # output
-output <- tibble(winner = circle) %>% 
-  mutate(loser = lead(winner)) %>% 
-  inner_join(games, by = c("winner", "loser")) %>% 
+output <- tibble(winner = circle) |>
+  mutate(loser = lead(winner)) |>
+  inner_join(games, by = c("winner", "loser")) |>
   mutate(str = glue("{winner} > {loser} ({winner_score}-{loser_score} W{week})"))
 print(output$str)
