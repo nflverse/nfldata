@@ -1,6 +1,6 @@
 game_id,screen_name,prediction
-2023_01_DET_KC, ,34
 2023_01_DET_KC, ,60
+2023_01_DET_KC, ,34
 2023_01_DET_KC, ,73
 2023_01_DET_KC,3_red_ducks ,70
 2023_01_DET_KC,Aaron Goodwin,85
@@ -140,8 +140,8 @@ game_id,screen_name,prediction
 2023_01_DET_KC,Dan Hindery,69
 2023_01_DET_KC,Dan Morse,89
 2023_01_DET_KC,Dan Skutt,60
-2023_01_DET_KC,Daniel ,77
 2023_01_DET_KC,Daniel ,73
+2023_01_DET_KC,Daniel ,77
 2023_01_DET_KC,Daniel Barkley,80
 2023_01_DET_KC,Daniel Dubicki,62
 2023_01_DET_KC,Daniel Houston,73
@@ -252,8 +252,8 @@ game_id,screen_name,prediction
 2023_01_DET_KC,Jason DeLoach,50
 2023_01_DET_KC,Jason Hanrahan,77
 2023_01_DET_KC,Jason Huffman,56
-2023_01_DET_KC,Jason Lee,64
 2023_01_DET_KC,Jason Lee,83
+2023_01_DET_KC,Jason Lee,64
 2023_01_DET_KC,Jason Wassel,42
 2023_01_DET_KC,jason word,100
 2023_01_DET_KC,Jay Morrison,88
@@ -1094,8 +1094,8 @@ game_id,screen_name,prediction
 2023_01_CAR_ATL,robert camin,79
 2023_01_CAR_ATL,robert clark,50
 2023_01_CAR_ATL,Robert Greer,63
-2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,robert martin,50
+2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,Robert Reynolds,50
 2023_01_CAR_ATL,Robert Sasso,50
 2023_01_CAR_ATL,Roe Henson,75
@@ -5918,8 +5918,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Dan Hindery,54
 2023_01_GB_CHI,Dan Morse,46
 2023_01_GB_CHI,Dan Skutt,50
-2023_01_GB_CHI,Daniel ,32
 2023_01_GB_CHI,Daniel ,48
+2023_01_GB_CHI,Daniel ,32
 2023_01_GB_CHI,Daniel Barkley,53
 2023_01_GB_CHI,Daniel Dubicki,49
 2023_01_GB_CHI,Daniel Houston,42
@@ -9019,8 +9019,8 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,Александр Кеменов,62
 2023_01_LA_SEA,Андрей Маланцев,70
 2023_01_DAL_NYG, ,50
-2023_01_DAL_NYG, ,56
 2023_01_DAL_NYG, ,35
+2023_01_DAL_NYG, ,56
 2023_01_DAL_NYG,3_red_ducks ,46
 2023_01_DAL_NYG,Aaron Goodwin,42
 2023_01_DAL_NYG,Aaron Lindsey,35
@@ -9320,8 +9320,8 @@ game_id,screen_name,prediction
 2023_01_DAL_NYG,Joel Hane,37
 2023_01_DAL_NYG,Joey Kunkle,32
 2023_01_DAL_NYG,John Akey,41
-2023_01_DAL_NYG,John Bray,55
 2023_01_DAL_NYG,John Bray,49
+2023_01_DAL_NYG,John Bray,55
 2023_01_DAL_NYG,John Christman,3
 2023_01_DAL_NYG,John Edwards,38
 2023_01_DAL_NYG,John Kostal,35
@@ -10427,8 +10427,8 @@ game_id,screen_name,prediction
 2023_02_MIN_PHI,Damian Hernández,83
 2023_02_MIN_PHI,Dan Haverkamp,50
 2023_02_MIN_PHI,Dan Ramallo,97
-2023_02_MIN_PHI,Daniel ,90
 2023_02_MIN_PHI,Daniel ,77
+2023_02_MIN_PHI,Daniel ,90
 2023_02_MIN_PHI,Daniel Barkley,75
 2023_02_MIN_PHI,Daniel Dubicki,71
 2023_02_MIN_PHI,Daniel Houston,60
@@ -10742,8 +10742,8 @@ game_id,screen_name,prediction
 2023_02_MIN_PHI,William kourkos,60
 2023_02_MIN_PHI,Yannik Schlepper,75
 2023_02_MIN_PHI,Zac Rogers,72
-2023_02_MIN_PHI,Zach ,71
 2023_02_MIN_PHI,Zach ,62
+2023_02_MIN_PHI,Zach ,71
 2023_02_MIN_PHI,Zach Nguyen,70
 2023_02_MIN_PHI,Zach P,61
 2023_02_MIN_PHI,Zachary Miley,76
@@ -10858,8 +10858,8 @@ game_id,screen_name,prediction
 2023_02_GB_ATL,Dan Haverkamp,50
 2023_02_GB_ATL,Dan Ramallo,16
 2023_02_GB_ATL,Dan Skutt,54
-2023_02_GB_ATL,Daniel ,55
 2023_02_GB_ATL,Daniel ,22
+2023_02_GB_ATL,Daniel ,55
 2023_02_GB_ATL,Daniel Barkley,57
 2023_02_GB_ATL,Daniel Dubicki,47
 2023_02_GB_ATL,Daniel Houston,49
@@ -11201,8 +11201,8 @@ game_id,screen_name,prediction
 2023_02_GB_ATL,William kourkos,25
 2023_02_GB_ATL,Yannik Schlepper,42
 2023_02_GB_ATL,Zac Rogers,40
-2023_02_GB_ATL,Zach ,54
 2023_02_GB_ATL,Zach ,38
+2023_02_GB_ATL,Zach ,54
 2023_02_GB_ATL,Zach Nguyen,56
 2023_02_GB_ATL,Zach P,55
 2023_02_GB_ATL,Zachary Miley,42
@@ -12134,8 +12134,8 @@ game_id,screen_name,prediction
 2023_02_BAL_CIN,Александр Кеменов,58
 2023_02_BAL_CIN,Андрей Маланцев,30
 2023_02_BAL_CIN,謙吾 金杉,66
-2023_02_SEA_DET, ,48
 2023_02_SEA_DET, ,58
+2023_02_SEA_DET, ,48
 2023_02_SEA_DET, ,100
 2023_02_SEA_DET,Aaron Goodwin,60
 2023_02_SEA_DET,Aaron Lindsey,69
@@ -12332,8 +12332,8 @@ game_id,screen_name,prediction
 2023_02_SEA_DET,Jason Fitzgerald,64
 2023_02_SEA_DET,Jason Hanrahan,61
 2023_02_SEA_DET,Jason Huffman,70
-2023_02_SEA_DET,Jason Lee,66
 2023_02_SEA_DET,Jason Lee,71
+2023_02_SEA_DET,Jason Lee,66
 2023_02_SEA_DET,Jason Wassel,70
 2023_02_SEA_DET,Jay Morrison,55
 2023_02_SEA_DET,Jay Tek,71
@@ -16951,8 +16951,8 @@ game_id,screen_name,prediction
 2023_02_NO_CAR,Jason Fitzgerald,40
 2023_02_NO_CAR,Jason Hanrahan,38
 2023_02_NO_CAR,Jason Huffman,50
-2023_02_NO_CAR,Jason Lee,33
 2023_02_NO_CAR,Jason Lee,36
+2023_02_NO_CAR,Jason Lee,33
 2023_02_NO_CAR,Jason Wassel,33
 2023_02_NO_CAR,Jay Morrison,48
 2023_02_NO_CAR,Jay Tek,38
@@ -18877,8 +18877,8 @@ game_id,screen_name,prediction
 2023_03_TEN_CLE,Zack Vandiver,56
 2023_03_TEN_CLE,Александр Кеменов,56
 2023_03_TEN_CLE,Андрей Маланцев,40
-2023_03_ATL_DET, ,40
 2023_03_ATL_DET, ,66
+2023_03_ATL_DET, ,40
 2023_03_ATL_DET, ,50
 2023_03_ATL_DET,Aaron Cross,50
 2023_03_ATL_DET,Aaron Goodwin,72
@@ -18972,8 +18972,8 @@ game_id,screen_name,prediction
 2023_03_ATL_DET,Connor Oelschlager,50
 2023_03_ATL_DET,Craig Schallert,60
 2023_03_ATL_DET,Damian Hernández,83
-2023_03_ATL_DET,Daniel ,56
 2023_03_ATL_DET,Daniel ,60
+2023_03_ATL_DET,Daniel ,56
 2023_03_ATL_DET,Daniel Barkley,65
 2023_03_ATL_DET,Daniel Dubicki,50
 2023_03_ATL_DET,Daniel Houston,65
@@ -21462,8 +21462,8 @@ game_id,screen_name,prediction
 2023_03_BUF_WAS,Connor Oelschlager,50
 2023_03_BUF_WAS,Craig Schallert,35
 2023_03_BUF_WAS,Damian Hernández,17
-2023_03_BUF_WAS,Daniel ,26
 2023_03_BUF_WAS,Daniel ,20
+2023_03_BUF_WAS,Daniel ,26
 2023_03_BUF_WAS,Daniel Barkley,41
 2023_03_BUF_WAS,Daniel Dubicki,50
 2023_03_BUF_WAS,Daniel Houston,31
@@ -21782,9 +21782,9 @@ game_id,screen_name,prediction
 2023_03_BUF_WAS,Zack Vandiver,39
 2023_03_BUF_WAS,Александр Кеменов,36
 2023_03_BUF_WAS,Андрей Маланцев,55
-2023_03_CAR_SEA, ,80
-2023_03_CAR_SEA, ,77
 2023_03_CAR_SEA, ,50
+2023_03_CAR_SEA, ,77
+2023_03_CAR_SEA, ,80
 2023_03_CAR_SEA,Aaron Cross,50
 2023_03_CAR_SEA,Aaron Goodwin,67
 2023_03_CAR_SEA,Aaron Lindsey,72
@@ -22790,8 +22790,8 @@ game_id,screen_name,prediction
 2023_03_CHI_KC,Jason Coleman,50
 2023_03_CHI_KC,Jason Hanrahan,84
 2023_03_CHI_KC,Jason Huffman,98
-2023_03_CHI_KC,Jason Lee,84
 2023_03_CHI_KC,Jason Lee,83
+2023_03_CHI_KC,Jason Lee,84
 2023_03_CHI_KC,Jay Morrison,100
 2023_03_CHI_KC,Jay Tek,50
 2023_03_CHI_KC,Jaycen Sussman,53
@@ -25182,8 +25182,8 @@ game_id,screen_name,prediction
 2023_04_MIA_BUF,Jason Fitzgerald,50
 2023_04_MIA_BUF,Jason Hanrahan,53
 2023_04_MIA_BUF,Jason Huffman,44
-2023_04_MIA_BUF,Jason Lee,55
 2023_04_MIA_BUF,Jason Lee,61
+2023_04_MIA_BUF,Jason Lee,55
 2023_04_MIA_BUF,Jay Morrison,0
 2023_04_MIA_BUF,Jaycen Sussman,48
 2023_04_MIA_BUF,Jean Dias,39
@@ -26254,8 +26254,8 @@ game_id,screen_name,prediction
 2023_04_BAL_CLE,Craig Schallert,44
 2023_04_BAL_CLE,Cristian F,50
 2023_04_BAL_CLE,Damian Hernández,17
-2023_04_BAL_CLE,Daniel ,48
 2023_04_BAL_CLE,Daniel ,39
+2023_04_BAL_CLE,Daniel ,48
 2023_04_BAL_CLE,Daniel Barkley,50
 2023_04_BAL_CLE,Daniel Houston,41
 2023_04_BAL_CLE,Daniel Kelly,50
@@ -31948,8 +31948,8 @@ game_id,screen_name,prediction
 2023_05_CAR_DET,Zack Cerpa-Weinberg,65
 2023_05_CAR_DET,Александр Кеменов,75
 2023_05_CAR_DET,Андрей Маланцев,82
-2023_05_TEN_IND, ,52
 2023_05_TEN_IND, ,50
+2023_05_TEN_IND, ,52
 2023_05_TEN_IND,Aaron Goodwin,55
 2023_05_TEN_IND,Aaron Lindsey,48
 2023_05_TEN_IND,Aaron Nessel,59
@@ -32502,8 +32502,8 @@ game_id,screen_name,prediction
 2023_05_NYG_MIA,Jason Coleman,50
 2023_05_NYG_MIA,Jason Hanrahan,90
 2023_05_NYG_MIA,Jason Huffman,100
-2023_05_NYG_MIA,Jason Lee,79
 2023_05_NYG_MIA,Jason Lee,82
+2023_05_NYG_MIA,Jason Lee,79
 2023_05_NYG_MIA,Jay Morrison,100
 2023_05_NYG_MIA,Jaycen Sussman,80
 2023_05_NYG_MIA,JC Basketball,50
@@ -32732,8 +32732,8 @@ game_id,screen_name,prediction
 2023_05_NYG_MIA,Zack Cerpa-Weinberg,85
 2023_05_NYG_MIA,Александр Кеменов,85
 2023_05_NYG_MIA,Андрей Маланцев,73
-2023_05_NO_NE, ,52
 2023_05_NO_NE, ,50
+2023_05_NO_NE, ,52
 2023_05_NO_NE,Aaron Goodwin,58
 2023_05_NO_NE,Aaron Lindsey,52
 2023_05_NO_NE,Aaron Nessel,61
@@ -33679,8 +33679,8 @@ game_id,screen_name,prediction
 2023_05_CIN_ARI,Jason Coleman,50
 2023_05_CIN_ARI,Jason Hanrahan,43
 2023_05_CIN_ARI,Jason Huffman,55
-2023_05_CIN_ARI,Jason Lee,44
 2023_05_CIN_ARI,Jason Lee,28
+2023_05_CIN_ARI,Jason Lee,44
 2023_05_CIN_ARI,Jay Morrison,0
 2023_05_CIN_ARI,Jaycen Sussman,52
 2023_05_CIN_ARI,JC Basketball,40
@@ -33996,8 +33996,8 @@ game_id,screen_name,prediction
 2023_05_PHI_LA,Connor Oelschlager,35
 2023_05_PHI_LA,Craig Schallert,43
 2023_05_PHI_LA,Damian Hernández,17
-2023_05_PHI_LA,Daniel ,40
 2023_05_PHI_LA,Daniel ,35
+2023_05_PHI_LA,Daniel ,40
 2023_05_PHI_LA,Daniel Dubicki,50
 2023_05_PHI_LA,Daniel Houston,44
 2023_05_PHI_LA,Daniel Kelly,37
@@ -34782,8 +34782,8 @@ game_id,screen_name,prediction
 2023_05_KC_MIN,Connor Oelschlager,10
 2023_05_KC_MIN,Craig Schallert,32
 2023_05_KC_MIN,Damian Hernández,17
-2023_05_KC_MIN,Daniel ,35
 2023_05_KC_MIN,Daniel ,16
+2023_05_KC_MIN,Daniel ,35
 2023_05_KC_MIN,Daniel Dubicki,50
 2023_05_KC_MIN,Daniel Houston,35
 2023_05_KC_MIN,Daniel Kelly,59
@@ -34858,8 +34858,8 @@ game_id,screen_name,prediction
 2023_05_KC_MIN,Jason Coleman,50
 2023_05_KC_MIN,Jason Hanrahan,35
 2023_05_KC_MIN,Jason Huffman,50
-2023_05_KC_MIN,Jason Lee,43
 2023_05_KC_MIN,Jason Lee,36
+2023_05_KC_MIN,Jason Lee,43
 2023_05_KC_MIN,Jay Morrison,0
 2023_05_KC_MIN,Jaycen Sussman,39
 2023_05_KC_MIN,JC Basketball,35
@@ -35569,8 +35569,8 @@ game_id,screen_name,prediction
 2023_05_GB_LV,Connor Oelschlager,35
 2023_05_GB_LV,Craig Schallert,43
 2023_05_GB_LV,Damian Hernández,17
-2023_05_GB_LV,Daniel ,49
 2023_05_GB_LV,Daniel ,30
+2023_05_GB_LV,Daniel ,49
 2023_05_GB_LV,Daniel Dubicki,50
 2023_05_GB_LV,Daniel Houston,58
 2023_05_GB_LV,Daniel Kelly,41
@@ -36613,8 +36613,8 @@ game_id,screen_name,prediction
 2023_06_WAS_ATL,Connor McCormack,58
 2023_06_WAS_ATL,Craig Schallert,58
 2023_06_WAS_ATL,Damian Hernández,50
-2023_06_WAS_ATL,Daniel ,48
 2023_06_WAS_ATL,Daniel ,52
+2023_06_WAS_ATL,Daniel ,48
 2023_06_WAS_ATL,Daniel Dubicki,50
 2023_06_WAS_ATL,Daniel Houston,45
 2023_06_WAS_ATL,Daniel Kelly,40
@@ -36677,8 +36677,8 @@ game_id,screen_name,prediction
 2023_06_WAS_ATL,Jason Fitzgerald,55
 2023_06_WAS_ATL,Jason Hanrahan,54
 2023_06_WAS_ATL,Jason Huffman,50
-2023_06_WAS_ATL,Jason Lee,56
 2023_06_WAS_ATL,Jason Lee,57
+2023_06_WAS_ATL,Jason Lee,56
 2023_06_WAS_ATL,Jay Morrison,46
 2023_06_WAS_ATL,Jay Ragan III,50
 2023_06_WAS_ATL,Jaycen Sussman,52
@@ -36954,8 +36954,8 @@ game_id,screen_name,prediction
 2023_06_MIN_CHI,Connor McCormack,44
 2023_06_MIN_CHI,Craig Schallert,43
 2023_06_MIN_CHI,Damian Hernández,50
-2023_06_MIN_CHI,Daniel ,48
 2023_06_MIN_CHI,Daniel ,57
+2023_06_MIN_CHI,Daniel ,48
 2023_06_MIN_CHI,Daniel Dubicki,50
 2023_06_MIN_CHI,Daniel Houston,52
 2023_06_MIN_CHI,Daniel Kelly,41
@@ -37018,8 +37018,8 @@ game_id,screen_name,prediction
 2023_06_MIN_CHI,Jason Fitzgerald,59
 2023_06_MIN_CHI,Jason Hanrahan,46
 2023_06_MIN_CHI,Jason Huffman,50
-2023_06_MIN_CHI,Jason Lee,42
 2023_06_MIN_CHI,Jason Lee,41
+2023_06_MIN_CHI,Jason Lee,42
 2023_06_MIN_CHI,Jay Morrison,0
 2023_06_MIN_CHI,Jay Ragan III,50
 2023_06_MIN_CHI,Jaycen Sussman,56
@@ -37295,8 +37295,8 @@ game_id,screen_name,prediction
 2023_06_SEA_CIN,Connor McCormack,41
 2023_06_SEA_CIN,Craig Schallert,57
 2023_06_SEA_CIN,Damian Hernández,50
-2023_06_SEA_CIN,Daniel ,45
 2023_06_SEA_CIN,Daniel ,55
+2023_06_SEA_CIN,Daniel ,45
 2023_06_SEA_CIN,Daniel Dubicki,50
 2023_06_SEA_CIN,Daniel Houston,65
 2023_06_SEA_CIN,Daniel Kelly,63
@@ -37359,8 +37359,8 @@ game_id,screen_name,prediction
 2023_06_SEA_CIN,Jason Fitzgerald,46
 2023_06_SEA_CIN,Jason Hanrahan,62
 2023_06_SEA_CIN,Jason Huffman,70
-2023_06_SEA_CIN,Jason Lee,55
 2023_06_SEA_CIN,Jason Lee,62
+2023_06_SEA_CIN,Jason Lee,55
 2023_06_SEA_CIN,Jay Morrison,55
 2023_06_SEA_CIN,Jay Ragan III,50
 2023_06_SEA_CIN,Jaycen Sussman,46
@@ -37471,8 +37471,8 @@ game_id,screen_name,prediction
 2023_06_SEA_CIN,Nicholas Brown,55
 2023_06_SEA_CIN,nick jay,60
 2023_06_SEA_CIN,Nick Wittkop,61
-2023_06_SEA_CIN,Noah Blankespoor,40
 2023_06_SEA_CIN,Noah Blankespoor,50
+2023_06_SEA_CIN,Noah Blankespoor,40
 2023_06_SEA_CIN,Noah Cacovski,45
 2023_06_SEA_CIN,Ole Berg,59
 2023_06_SEA_CIN,Otie Sullivan,42
@@ -39517,8 +39517,8 @@ game_id,screen_name,prediction
 2023_06_ARI_LA,Nicholas Brown,74
 2023_06_ARI_LA,nick jay,78
 2023_06_ARI_LA,Nick Wittkop,69
-2023_06_ARI_LA,Noah Blankespoor,75
 2023_06_ARI_LA,Noah Blankespoor,50
+2023_06_ARI_LA,Noah Blankespoor,75
 2023_06_ARI_LA,Noah Cacovski,60
 2023_06_ARI_LA,Ole Berg,59
 2023_06_ARI_LA,Otie Sullivan,65
@@ -40540,8 +40540,8 @@ game_id,screen_name,prediction
 2023_06_NYG_BUF,Nicholas Brown,88
 2023_06_NYG_BUF,nick jay,89
 2023_06_NYG_BUF,Nick Wittkop,90
-2023_06_NYG_BUF,Noah Blankespoor,50
 2023_06_NYG_BUF,Noah Blankespoor,75
+2023_06_NYG_BUF,Noah Blankespoor,50
 2023_06_NYG_BUF,Noah Cacovski,91
 2023_06_NYG_BUF,Noah Epstein,50
 2023_06_NYG_BUF,Ole Berg,81
@@ -41678,8 +41678,8 @@ game_id,screen_name,prediction
 2023_07_LV_CHI,Connor McCormack,40
 2023_07_LV_CHI,Craig Schallert,33
 2023_07_LV_CHI,Damian Hernández,50
-2023_07_LV_CHI,Daniel ,33
 2023_07_LV_CHI,Daniel ,46
+2023_07_LV_CHI,Daniel ,33
 2023_07_LV_CHI,Daniel Houston,46
 2023_07_LV_CHI,Daniel Kelly,56
 2023_07_LV_CHI,Daniel L,47
@@ -42662,8 +42662,8 @@ game_id,screen_name,prediction
 2023_07_WAS_NYG,Connor McCormack,41
 2023_07_WAS_NYG,Craig Schallert,39
 2023_07_WAS_NYG,Damian Hernández,50
-2023_07_WAS_NYG,Daniel ,42
 2023_07_WAS_NYG,Daniel ,21
+2023_07_WAS_NYG,Daniel ,42
 2023_07_WAS_NYG,Daniel Houston,52
 2023_07_WAS_NYG,Daniel Kelly,57
 2023_07_WAS_NYG,Daniel L,41
@@ -43379,8 +43379,8 @@ game_id,screen_name,prediction
 2023_07_PIT_LA,Jason Coleman,50
 2023_07_PIT_LA,Jason Hanrahan,62
 2023_07_PIT_LA,Jason Huffman,55
-2023_07_PIT_LA,Jason Lee,57
 2023_07_PIT_LA,Jason Lee,67
+2023_07_PIT_LA,Jason Lee,57
 2023_07_PIT_LA,Jay Morrison,0
 2023_07_PIT_LA,Jaycen Sussman,55
 2023_07_PIT_LA,Jean Dias,63
@@ -47550,8 +47550,8 @@ game_id,screen_name,prediction
 2023_08_JAX_PIT,Braydi W ,36
 2023_08_JAX_PIT,Brendan Eltzroth,46
 2023_08_JAX_PIT,Brett ,45
-2023_08_JAX_PIT,Brett Yarris,50
 2023_08_JAX_PIT,Brett Yarris,37
+2023_08_JAX_PIT,Brett Yarris,50
 2023_08_JAX_PIT,Brian Braun-Duin,37
 2023_08_JAX_PIT,Brian Hershaft,36
 2023_08_JAX_PIT,Bruno Mioto,50
@@ -48554,8 +48554,8 @@ game_id,screen_name,prediction
 2023_08_CLE_SEA,Connor McCormack,69
 2023_08_CLE_SEA,Craig Schallert,59
 2023_08_CLE_SEA,Damian Hernández,50
-2023_08_CLE_SEA,Daniel ,62
 2023_08_CLE_SEA,Daniel ,65
+2023_08_CLE_SEA,Daniel ,62
 2023_08_CLE_SEA,Daniel Houston,67
 2023_08_CLE_SEA,Daniel Kelly,39
 2023_08_CLE_SEA,Daniel L,64
@@ -49541,8 +49541,8 @@ game_id,screen_name,prediction
 2023_08_CIN_SF,Daniel Kelly,62
 2023_08_CIN_SF,Daniel L,66
 2023_08_CIN_SF,Daniel Nebenführ,60
-2023_08_CIN_SF,Daniel Putman,70
 2023_08_CIN_SF,Daniel Putman,50
+2023_08_CIN_SF,Daniel Putman,70
 2023_08_CIN_SF,Daniel Waldman,50
 2023_08_CIN_SF,Darren Knowles,71
 2023_08_CIN_SF,David Howman,45
@@ -49596,8 +49596,8 @@ game_id,screen_name,prediction
 2023_08_CIN_SF,Jason Fitzgerald,69
 2023_08_CIN_SF,Jason Hanrahan,57
 2023_08_CIN_SF,Jason Huffman,60
-2023_08_CIN_SF,Jason Lee,65
 2023_08_CIN_SF,Jason Lee,62
+2023_08_CIN_SF,Jason Lee,65
 2023_08_CIN_SF,Jay Morrison,0
 2023_08_CIN_SF,Jean Dias,62
 2023_08_CIN_SF,Jeff Dauphinais,56
@@ -50512,8 +50512,8 @@ game_id,screen_name,prediction
 2023_09_TEN_PIT,Daniel Kelly,38
 2023_09_TEN_PIT,Daniel L,60
 2023_09_TEN_PIT,Daniel Nebenführ,50
-2023_09_TEN_PIT,Daniel Putman,61
 2023_09_TEN_PIT,Daniel Putman,50
+2023_09_TEN_PIT,Daniel Putman,61
 2023_09_TEN_PIT,Daniel Waldman,50
 2023_09_TEN_PIT,Darren Knowles,62
 2023_09_TEN_PIT,David Howman,58
@@ -51769,8 +51769,8 @@ game_id,screen_name,prediction
 2023_09_ARI_CLE,Jason Fitzgerald,89
 2023_09_ARI_CLE,Jason Hanrahan,89
 2023_09_ARI_CLE,Jason Huffman,57
-2023_09_ARI_CLE,Jason Lee,88
 2023_09_ARI_CLE,Jason Lee,82
+2023_09_ARI_CLE,Jason Lee,88
 2023_09_ARI_CLE,Jay Morrison,100
 2023_09_ARI_CLE,Jaycen Sussman,52
 2023_09_ARI_CLE,Jean Dias,67
@@ -53568,8 +53568,8 @@ game_id,screen_name,prediction
 2023_09_NYG_LV,Daniel Kelly,43
 2023_09_NYG_LV,Daniel L,51
 2023_09_NYG_LV,Daniel Nebenführ,58
-2023_09_NYG_LV,Daniel Putman,50
 2023_09_NYG_LV,Daniel Putman,55
+2023_09_NYG_LV,Daniel Putman,50
 2023_09_NYG_LV,Daniel Waldman,54
 2023_09_NYG_LV,Darren Knowles,59
 2023_09_NYG_LV,David Howman,47
@@ -55334,8 +55334,8 @@ game_id,screen_name,prediction
 2023_10_CLE_BAL,Braydi W ,75
 2023_10_CLE_BAL,Brendan Eltzroth,69
 2023_10_CLE_BAL,Brett ,55
-2023_10_CLE_BAL,Brett Yarris,50
 2023_10_CLE_BAL,Brett Yarris,85
+2023_10_CLE_BAL,Brett Yarris,50
 2023_10_CLE_BAL,Brian Braun-Duin,73
 2023_10_CLE_BAL,Brian Hershaft,70
 2023_10_CLE_BAL,Bryan Knowles,100
@@ -56601,8 +56601,8 @@ game_id,screen_name,prediction
 2023_10_GB_PIT,Jason Hanrahan,59
 2023_10_GB_PIT,Jason Huffman,50
 2023_10_GB_PIT,Jason Lee,53
-2023_10_GB_PIT,Jason Lee,62
 2023_10_GB_PIT,Jason Lee,46
+2023_10_GB_PIT,Jason Lee,62
 2023_10_GB_PIT,Jay Morrison,100
 2023_10_GB_PIT,Jaycen Sussman,60
 2023_10_GB_PIT,Jean Dias,59
@@ -58032,8 +58032,8 @@ game_id,screen_name,prediction
 2023_10_WAS_SEA,Connor McCormack,85
 2023_10_WAS_SEA,Craig Schallert,67
 2023_10_WAS_SEA,Damian Hernández,50
-2023_10_WAS_SEA,Daniel ,77
 2023_10_WAS_SEA,Daniel ,70
+2023_10_WAS_SEA,Daniel ,77
 2023_10_WAS_SEA,Daniel Houston,68
 2023_10_WAS_SEA,Daniel Kelly,43
 2023_10_WAS_SEA,Daniel L,69
@@ -58967,8 +58967,8 @@ game_id,screen_name,prediction
 2023_11_CIN_BAL,Jason Hanrahan,50
 2023_11_CIN_BAL,Jason Huffman,50
 2023_11_CIN_BAL,Jason Huffman,50
-2023_11_CIN_BAL,Jason Lee,80
 2023_11_CIN_BAL,Jason Lee,65
+2023_11_CIN_BAL,Jason Lee,80
 2023_11_CIN_BAL,Jason Lee,50
 2023_11_CIN_BAL,Jay Morrison,0
 2023_11_CIN_BAL,Jaycen Sussman,35
@@ -60089,8 +60089,8 @@ game_id,screen_name,prediction
 2023_11_LAC_GB,Jason Hanrahan,44
 2023_11_LAC_GB,Jason Huffman,32
 2023_11_LAC_GB,Jason Huffman,32
-2023_11_LAC_GB,Jason Lee,30
 2023_11_LAC_GB,Jason Lee,41
+2023_11_LAC_GB,Jason Lee,30
 2023_11_LAC_GB,Jason Lee,50
 2023_11_LAC_GB,Jay Morrison,100
 2023_11_LAC_GB,Jaycen Sussman,54
@@ -64616,8 +64616,8 @@ game_id,screen_name,prediction
 2023_12_TB_IND,Christian Word,58
 2023_12_TB_IND,Connor McCormack,54
 2023_12_TB_IND,Craig Schallert,68
-2023_12_TB_IND,Daniel ,55
 2023_12_TB_IND,Daniel ,41
+2023_12_TB_IND,Daniel ,55
 2023_12_TB_IND,Daniel Houston,57
 2023_12_TB_IND,Daniel L,58
 2023_12_TB_IND,Daniel Nebenführ,40
@@ -65444,8 +65444,8 @@ game_id,screen_name,prediction
 2023_12_LA_ARI,Jason Fitzgerald,45
 2023_12_LA_ARI,Jason Hanrahan,50
 2023_12_LA_ARI,Jason Huffman,50
-2023_12_LA_ARI,Jason Lee,55
 2023_12_LA_ARI,Jason Lee,34
+2023_12_LA_ARI,Jason Lee,55
 2023_12_LA_ARI,Jay Morrison,100
 2023_12_LA_ARI,Jean Dias,50
 2023_12_LA_ARI,Jeff Dauphinais,41
@@ -65533,8 +65533,8 @@ game_id,screen_name,prediction
 2023_12_LA_ARI,Ni Ro,37
 2023_12_LA_ARI,Nicholas Brown,49
 2023_12_LA_ARI,nick jay,34
-2023_12_LA_ARI,Noah Blankespoor,36
 2023_12_LA_ARI,Noah Blankespoor,50
+2023_12_LA_ARI,Noah Blankespoor,36
 2023_12_LA_ARI,Paolo Mondini,45
 2023_12_LA_ARI,Papa Gorgio,39
 2023_12_LA_ARI,Patrick Mulcahy,48
@@ -66745,8 +66745,8 @@ game_id,screen_name,prediction
 2023_12_CHI_MIN,Jake Danilson,43
 2023_12_CHI_MIN,Jannis ,65
 2023_12_CHI_MIN,Jason Coleman,50
-2023_12_CHI_MIN,Jason Fitzgerald,50
 2023_12_CHI_MIN,Jason Fitzgerald,64
+2023_12_CHI_MIN,Jason Fitzgerald,50
 2023_12_CHI_MIN,Jason Hanrahan,56
 2023_12_CHI_MIN,Jason Huffman,50
 2023_12_CHI_MIN,Jason Lee,62
@@ -73376,8 +73376,8 @@ game_id,screen_name,prediction
 2023_14_TEN_MIA,Rotem Dvir,99
 2023_14_TEN_MIA,Ruben Flores,88
 2023_14_TEN_MIA,Rupert Barker,50
-2023_14_TEN_MIA,Russell Miller,50
 2023_14_TEN_MIA,Russell Miller,95
+2023_14_TEN_MIA,Russell Miller,50
 2023_14_TEN_MIA,Ryan Kinsey,75
 2023_14_TEN_MIA,ryan salsbury,90
 2023_14_TEN_MIA,Ryan Soukup,66
@@ -76762,8 +76762,8 @@ game_id,screen_name,prediction
 2023_15_DAL_BUF,Jason Fitzgerald,54
 2023_15_DAL_BUF,Jason Fitzgerald,50
 2023_15_DAL_BUF,Jason Huffman,50
-2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jason Lee,58
+2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jeff Dauphinais,43
 2023_15_DAL_BUF,Jeffrey Tan,50
 2023_15_DAL_BUF,Jeremy Brooks,45
@@ -77684,8 +77684,8 @@ game_id,screen_name,prediction
 2023_16_CIN_PIT,Jason Coleman,50
 2023_16_CIN_PIT,Jason Fitzgerald,39
 2023_16_CIN_PIT,Jason Huffman,50
-2023_16_CIN_PIT,Jason Lee,42
 2023_16_CIN_PIT,Jason Lee,54
+2023_16_CIN_PIT,Jason Lee,42
 2023_16_CIN_PIT,Jeff Dauphinais,38
 2023_16_CIN_PIT,Jeffrey Tan,50
 2023_16_CIN_PIT,Jeremy Brooks,41
@@ -79267,8 +79267,8 @@ game_id,screen_name,prediction
 2023_16_SEA_TEN,Jason Coleman,50
 2023_16_SEA_TEN,Jason Fitzgerald,39
 2023_16_SEA_TEN,Jason Huffman,50
-2023_16_SEA_TEN,Jason Lee,40
 2023_16_SEA_TEN,Jason Lee,64
+2023_16_SEA_TEN,Jason Lee,40
 2023_16_SEA_TEN,Jeff Dauphinais,38
 2023_16_SEA_TEN,Jeffrey Tan,50
 2023_16_SEA_TEN,Jeremy Brooks,38
