@@ -703,3 +703,35 @@ season,team,nfl,nfl_team_id,espn,pfr,pff,pfflabel,fo,full,location,short_locatio
 2023,TB,TB,4900,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers,1544,,Tampa Bay Buccaneers,TB Buccaneers
 2023,TEN,TEN,2100,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans,1528,,Tennessee Titans,TEN Titans
 2023,WAS,WAS,5110,WSH,WAS,32,WAS,WAS,Washington Commanders,Washington,Washington,Commanders,washington-commanders,1537,,Washington Commanders,WAS Commanders
+2024,ARI,ARI,3800,ARI,CRD,1,ARZ,ARI,Arizona Cardinals,Arizona,Arizona,Cardinals,arizona-cardinals,1549,,Arizona Cardinals,ARI Cardinals
+2024,ATL,ATL,0200,ATL,ATL,2,ATL,ATL,Atlanta Falcons,Atlanta,Atlanta,Falcons,atlanta-falcons,1546,,Atlanta Falcons,ATL Falcons
+2024,BAL,BAL,0325,BAL,RAV,3,BLT,BAL,Baltimore Ravens,Baltimore,Baltimore,Ravens,baltimore-ravens,1521,,Baltimore Ravens,BAL Ravens
+2024,BUF,BUF,0610,BUF,BUF,4,BUF,BUF,Buffalo Bills,Buffalo,Buffalo,Bills,buffalo-bills,1526,,Buffalo Bills,BUF Bills
+2024,CAR,CAR,0750,CAR,CAR,5,CAR,CAR,Carolina Panthers,Carolina,Carolina,Panthers,carolina-panthers,1545,,Carolina Panthers,CAR Panthers
+2024,CHI,CHI,0810,CHI,CHI,6,CHI,CHI,Chicago Bears,Chicago,Chicago,Bears,chicago-bears,1540,,Chicago Bears,CHI Bears
+2024,CIN,CIN,0920,CIN,CIN,7,CIN,CIN,Cincinnati Bengals,Cincinnati,Cincinnati,Bengals,cincinnati-bengals,1522,,Cincinnati Bengals,CIN Bengals
+2024,CLE,CLE,1050,CLE,CLE,8,CLV,CLE,Cleveland Browns,Cleveland,Cleveland,Browns,cleveland-browns,1520,,Cleveland Browns,CLE Browns
+2024,DAL,DAL,1200,DAL,DAL,9,DAL,DAL,Dallas Cowboys,Dallas,Dallas,Cowboys,dallas-cowboys,1538,,Dallas Cowboys,DAL Cowboys
+2024,DEN,DEN,1400,DEN,DEN,10,DEN,DEN,Denver Broncos,Denver,Denver,Broncos,denver-broncos,1534,,Denver Broncos,DEN Broncos
+2024,DET,DET,1540,DET,DET,11,DET,DET,Detroit Lions,Detroit,Detroit,Lions,detroit-lions,1539,,Detroit Lions,DET Lions
+2024,GB,GB,1800,GB,GNB,12,GB,GB,Green Bay Packers,Green Bay,Green Bay,Packers,green-bay-packers,1542,,Green Bay Packers,GB Packers
+2024,HOU,HOU,2120,HOU,HTX,13,HST,HOU,Houston Texans,Houston,Houston,Texans,houston-texans,1530,,Houston Texans,HOU Texans
+2024,IND,IND,2200,IND,CLT,14,IND,IND,Indianapolis Colts,Indianapolis,Indianapolis,Colts,indianapolis-colts,1527,,Indianapolis Colts,IND Colts
+2024,JAX,JAC,2250,JAX,JAX,15,JAX,JAX,Jacksonville Jaguars,Jacksonville,Jacksonville,Jaguars,jacksonville-jaguars,1529,,Jacksonville Jaguars,JAX Jaguars
+2024,KC,KC,2310,KC,KAN,16,KC,KC,Kansas City Chiefs,Kansas City,Kansas City,Chiefs,kansas-city-chiefs,1531,,Kansas City Chiefs,KC Chiefs
+2024,LAC,LAC,4400,LAC,SDG,27,LAC,LAC,Los Angeles Chargers,Los Angeles Chargers,LA Chargers,Chargers,los-angeles-chargers,75380,,Los Angeles Chargers,LA Chargers
+2024,LA,LA,2510,LAR,RAM,26,LA,LAR,Los Angeles Rams,Los Angeles Rams,LA Rams,Rams,los-angeles-rams,1550,,Los Angeles Rams,LA Rams
+2024,LV,LV,2520,LV,RAI,23,LV,LV,Las Vegas Raiders,Las Vegas,Las Vegas,Raiders,las-vegas-raiders,1533,,Las Vegas Raiders,LV Raiders
+2024,MIA,MIA,2700,MIA,MIA,17,MIA,MIA,Miami Dolphins,Miami,Miami,Dolphins,miami-dolphins,1524,,Miami Dolphins,MIA Dolphins
+2024,MIN,MIN,3000,MIN,MIN,18,MIN,MIN,Minnesota Vikings,Minnesota,Minnesota,Vikings,minnesota-vikings,1541,,Minnesota Vikings,MIN Vikings
+2024,NE,NE,3200,NE,NWE,19,NE,NE,New England Patriots,New England,New England,Patriots,new-england-patriots,1525,,New England Patriots,NE Patriots
+2024,NO,NO,3300,NO,NOR,20,NO,NO,New Orleans Saints,New Orleans,New Orleans,Saints,new-orleans-saints,1543,,New Orleans Saints,NO Saints
+2024,NYG,NYG,3410,NYG,NYG,21,NYG,NYG,New York Giants,New York Giants,NY Giants,Giants,new-york-giants,1535,,N.Y. Giants,NY Giants
+2024,NYJ,NYJ,3430,NYJ,NYJ,22,NYJ,NYJ,New York Jets,New York Jets,NY Jets,Jets,new-york-jets,1523,,N.Y. Jets,NY Jets
+2024,PHI,PHI,3700,PHI,PHI,24,PHI,PHI,Philadelphia Eagles,Philadelphia,Philadelphia,Eagles,philadelphia-eagles,1536,,Philadelphia Eagles,PHI Eagles
+2024,PIT,PIT,3900,PIT,PIT,25,PIT,PIT,Pittsburgh Steelers,Pittsburgh,Pittsburgh,Steelers,pittsburgh-steelers,1519,,Pittsburgh Steelers,PIT Steelers
+2024,SEA,SEA,4600,SEA,SEA,29,SEA,SEA,Seattle Seahawks,Seattle,Seattle,Seahawks,seattle-seahawks,1548,,Seattle Seahawks,SEA Seahawks
+2024,SF,SF,4500,SF,SFO,28,SF,SF,San Francisco 49ers,San Francisco,San Francisco,49ers,san-francisco-49ers,1547,,San Francisco 49ers,SF 49ers
+2024,TB,TB,4900,TB,TAM,30,TB,TB,Tampa Bay Buccaneers,Tampa Bay,Tampa Bay,Buccaneers,tampa-bay-buccaneers,1544,,Tampa Bay Buccaneers,TB Buccaneers
+2024,TEN,TEN,2100,TEN,OTI,31,TEN,TEN,Tennessee Titans,Tennessee,Tennessee,Titans,tennessee-titans,1528,,Tennessee Titans,TEN Titans
+2024,WAS,WAS,5110,WSH,WAS,32,WAS,WAS,Washington Commanders,Washington,Washington,Commanders,washington-commanders,1537,,Washington Commanders,WAS Commanders
