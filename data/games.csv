@@ -6749,7 +6749,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2024_03_MIA_SEA,2024,REG,3,2024-09-22,Sunday,16:05,MIA,,SEA,,Home,,,,2024092208,,,202409220sea,,,,10,7,-130,110,-2,-110,-110,49,-110,-110,0,outdoors,fieldturf,,,,,,,Mike McDaniel,Mike Macdonald,,SEA00,Lumen Field
 2024_03_DET_ARI,2024,REG,3,2024-09-22,Sunday,16:25,DET,,ARI,,Home,,,,2024092209,,,202409220crd,,,,7,7,-192,160,-4,-110,-110,50,-112,-108,0,closed,grass,,,,,,,Dan Campbell,Jonathan Gannon,,PHO00,State Farm Stadium
 2024_03_BAL_DAL,2024,REG,3,2024-09-22,Sunday,16:25,BAL,,DAL,,Home,,,,2024092210,,,202409220dal,,,,7,7,-108,-112,1,-115,-105,48,-110,-110,0,closed,matrixturf,,,,,,,John Harbaugh,Mike McCarthy,,DAL00,AT&T Stadium
-2024_03_SF_LA,2024,REG,3,2024-09-22,Sunday,16:25,SF,,LA,,Home,,,,2024092211,,,202409220ram,,,,7,7,-155,130,-2.5,-120,100,49,-112,-108,1,dome,matrixturf,,,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
+2024_03_SF_LA,2024,REG,3,2024-09-22,Sunday,16:25,SF,,LA,,Home,,,,2024092211,,,202409220ram,,,,7,7,,,-2.5,-120,100,49,-112,-108,1,dome,matrixturf,,,,,,,Kyle Shanahan,Sean McVay,,LAX01,SoFi Stadium
 2024_03_KC_ATL,2024,REG,3,2024-09-22,Sunday,20:20,KC,,ATL,,Home,,,,2024092212,,,202409220atl,,,,7,6,-155,130,-3,-110,-110,49,-110,-110,0,closed,fieldturf,,,,,,,Andy Reid,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2024_03_JAX_BUF,2024,REG,3,2024-09-23,Monday,19:30,JAX,,BUF,,Home,,,,2024092300,,,202409230buf,,,,8,11,170,-205,4.5,-110,-110,49,-110,-110,0,outdoors,a_turf,,,,,,,Doug Pederson,Sean McDermott,,BUF00,New Era Field
 2024_03_WAS_CIN,2024,REG,3,2024-09-23,Monday,20:15,WAS,,CIN,,Home,,,,2024092301,,,202409230cin,,,,8,8,260,-325,7,-105,-115,48,-110,-110,0,outdoors,fieldturf,,,,,,,Dan Quinn,Zac Taylor,,CIN00,Paycor Stadium
