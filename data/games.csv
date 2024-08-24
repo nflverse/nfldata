@@ -6839,141 +6839,141 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2024_09_WAS_NYG,2024,REG,9,2024-11-03,Sunday,13:00,WAS,,NYG,,Home,,,,2024110307,59639,,202411030nyg,,401671711,6580,7,6,,,,,,,,,1,outdoors,fieldturf,,,,,,,Dan Quinn,Brian Daboll,,NYC01,MetLife Stadium
 2024_09_NE_TEN,2024,REG,9,2024-11-03,Sunday,13:00,NE,,TEN,,Home,,,,2024110308,59640,,202411030oti,,401671822,6581,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Jerod Mayo,Brian Callahan,,NAS00,Nissan Stadium
 2024_09_CHI_ARI,2024,REG,9,2024-11-03,Sunday,16:05,CHI,,ARI,,Home,,,,2024110309,59641,,202411030crd,,401671661,6582,7,7,,,,,,,,,0,closed,grass,,,,,,,Matt Eberflus,Jonathan Gannon,,PHO00,State Farm Stadium
-2024_09_DET_GB,2024,REG,9,2024-11-03,Sunday,16:25,DET,,GB,,Home,,,,2024110310,,,202411030gnb,,401671767,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
-2024_09_LA_SEA,2024,REG,9,2024-11-03,Sunday,16:25,LA,,SEA,,Home,,,,2024110311,,,202411030sea,,401671776,,10,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McVay,Mike Macdonald,,SEA00,Lumen Field
-2024_09_JAX_PHI,2024,REG,9,2024-11-03,Sunday,20:20,JAX,,PHI,,Home,,,,2024110312,,,202411030phi,,401671797,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Doug Pederson,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_09_TB_KC,2024,REG,9,2024-11-04,Monday,20:15,TB,,KC,,Home,,,,2024110400,,,202411040kan,,401671688,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2024_10_CIN_BAL,2024,REG,10,2024-11-07,Thursday,20:15,CIN,,BAL,,Home,,,,2024110700,,,202411070rav,,401671810,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
-2024_10_NYG_CAR,2024,REG,10,2024-11-10,Sunday,09:30,NYG,,CAR,,Neutral,,,,2024111000,,,202411100car,,401671803,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Daboll,Dave Canales,,CAR00,Bank of America Stadium
-2024_10_NE_CHI,2024,REG,10,2024-11-10,Sunday,13:00,NE,,CHI,,Home,,,,2024111001,,,202411100chi,,401671873,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Jerod Mayo,Matt Eberflus,,CHI98,Soldier Field
-2024_10_BUF_IND,2024,REG,10,2024-11-10,Sunday,13:00,BUF,,IND,,Home,,,,2024111002,,,202411100clt,,401671863,,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Sean McDermott,Shane Steichen,,IND00,Lucas Oil Stadium
-2024_10_MIN_JAX,2024,REG,10,2024-11-10,Sunday,13:00,MIN,,JAX,,Home,,,,2024111003,,,202411100jax,,401671708,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Doug Pederson,,JAX00,TIAA Bank Stadium
-2024_10_DEN_KC,2024,REG,10,2024-11-10,Sunday,13:00,DEN,,KC,,Home,,,,2024111004,,,202411100kan,,401671637,,7,6,,,,,,,,,1,outdoors,grass,,,,,,,Sean Payton,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2024_10_ATL_NO,2024,REG,10,2024-11-10,Sunday,13:00,ATL,,NO,,Home,,,,2024111005,,,202411100nor,,401671733,,7,7,,,,,,,,,1,dome,sportturf,,,,,,,Raheem Morris,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2024_10_SF_TB,2024,REG,10,2024-11-10,Sunday,13:00,SF,,TB,,Home,,,,2024111006,,,202411100tam,,401671742,,14,6,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Todd Bowles,,TAM00,Raymond James Stadium
-2024_10_PIT_WAS,2024,REG,10,2024-11-10,Sunday,13:00,PIT,,WAS,,Home,,,,2024111007,,,202411100was,,401671641,,13,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Dan Quinn,,WAS00,FedExField
-2024_10_TEN_LAC,2024,REG,10,2024-11-10,Sunday,16:05,TEN,,LAC,,Home,,,,2024111008,,,202411100sdg,,401671751,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Brian Callahan,Jim Harbaugh,,LAX01,SoFi Stadium
-2024_10_NYJ_ARI,2024,REG,10,2024-11-10,Sunday,16:25,NYJ,,ARI,,Home,,,,2024111009,,,202411100crd,,401671678,,10,7,,,,,,,,,0,closed,grass,,,,,,,Robert Saleh,Jonathan Gannon,,PHO00,State Farm Stadium
-2024_10_PHI_DAL,2024,REG,10,2024-11-10,Sunday,16:25,PHI,,DAL,,Home,,,,2024111010,,,202411100dal,,401671676,,7,7,,,,,,,,,1,closed,matrixturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
-2024_10_DET_HOU,2024,REG,10,2024-11-10,Sunday,20:20,DET,,HOU,,Home,,,,2024111011,,,202411100htx,,401671787,,7,10,,,,,,,,,0,closed,astroturf,,,,,,,Dan Campbell,DeMeco Ryans,,HOU00,NRG Stadium
-2024_10_MIA_LA,2024,REG,10,2024-11-11,Monday,20:15,MIA,,LA,,Home,,,,2024111100,,,202411110ram,,401671693,,8,8,,,,,,,,,0,dome,matrixturf,,,,,,,Mike McDaniel,Sean McVay,,LAX01,SoFi Stadium
-2024_11_WAS_PHI,2024,REG,11,2024-11-14,Thursday,20:15,WAS,,PHI,,Home,,,,2024111400,,,202411140phi,,401671813,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Dan Quinn,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_11_GB_CHI,2024,REG,11,2024-11-17,Sunday,13:00,GB,,CHI,,Home,,,,2024111700,,,202411170chi,,401671869,,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Eberflus,,CHI98,Soldier Field
-2024_11_JAX_DET,2024,REG,11,2024-11-17,Sunday,13:00,JAX,,DET,,Home,,,,2024111701,,,202411170det,,401671642,,7,7,,,,,,,,,0,dome,fieldturf,,,,,,,Doug Pederson,Dan Campbell,,DET00,Ford Field
-2024_11_LV_MIA,2024,REG,11,2024-11-17,Sunday,13:00,LV,,MIA,,Home,,,,2024111702,,,202411170mia,,401671851,,14,6,,,,,,,,,0,outdoors,grass,,,,,,,Antonio Pierce,Mike McDaniel,,MIA00,Hard Rock Stadium
-2024_11_LA_NE,2024,REG,11,2024-11-17,Sunday,13:00,LA,,NE,,Home,,,,2024111703,,,202411170nwe,,401671701,,6,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean McVay,Jerod Mayo,,BOS00,Gillette Stadium
-2024_11_CLE_NO,2024,REG,11,2024-11-17,Sunday,13:00,CLE,,NO,,Home,,,,2024111704,,,202411170nor,,401671746,,14,7,,,,,,,,,0,dome,sportturf,,,,,,,Kevin Stefanski,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2024_11_BAL_PIT,2024,REG,11,2024-11-17,Sunday,13:00,BAL,,PIT,,Home,,,,2024111705,,,202411170pit,,401671630,,10,7,,,,,,,,,1,outdoors,grass,,,,,,,John Harbaugh,Mike Tomlin,,PIT00,Acrisure Stadium
-2024_11_MIN_TEN,2024,REG,11,2024-11-17,Sunday,13:00,MIN,,TEN,,Home,,,,2024111706,,,202411170oti,,401671824,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Brian Callahan,,NAS00,Nissan Stadium
-2024_11_ATL_DEN,2024,REG,11,2024-11-17,Sunday,16:05,ATL,,DEN,,Home,,,,2024111707,,,202411170den,,401671748,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Raheem Morris,Sean Payton,,DEN00,Empower Field at Mile High
-2024_11_SEA_SF,2024,REG,11,2024-11-17,Sunday,16:05,SEA,,SF,,Home,,,,2024111708,,,202411170sfo,,401671757,,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Macdonald,Kyle Shanahan,,SFO01,Levi's Stadium
-2024_11_KC_BUF,2024,REG,11,2024-11-17,Sunday,16:25,KC,,BUF,,Home,,,,2024111709,,,202411170buf,,401671665,,7,7,,,,,,,,,0,outdoors,a_turf,,,,,,,Andy Reid,Sean McDermott,,BUF00,New Era Field
-2024_11_CIN_LAC,2024,REG,11,2024-11-17,Sunday,16:25,CIN,,LAC,,Home,,,,2024111710,,,202411170sdg,,401671675,,10,7,,,,,,,,,0,dome,matrixturf,,,,,,,Zac Taylor,Jim Harbaugh,,LAX01,SoFi Stadium
-2024_11_IND_NYJ,2024,REG,11,2024-11-17,Sunday,20:20,IND,,NYJ,,Home,,,,2024111711,,,202411170nyj,,401671782,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Robert Saleh,,NYC01,MetLife Stadium
-2024_11_HOU_DAL,2024,REG,11,2024-11-18,Monday,20:15,HOU,,DAL,,Home,,,,2024111800,,,202411180dal,,401671694,,8,8,,,,,,,,,0,closed,matrixturf,,,,,,,DeMeco Ryans,Mike McCarthy,,DAL00,AT&T Stadium
-2024_12_PIT_CLE,2024,REG,12,2024-11-21,Thursday,20:15,PIT,,CLE,,Home,,,,2024112100,,,202411210cle,,401671875,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2024_12_KC_CAR,2024,REG,12,2024-11-24,Sunday,13:00,KC,,CAR,,Home,,,,2024112400,,,202411240car,,401671651,,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Dave Canales,,CAR00,Bank of America Stadium
-2024_12_MIN_CHI,2024,REG,12,2024-11-24,Sunday,13:00,MIN,,CHI,,Home,,,,2024112401,,,202411240chi,,401671870,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt Eberflus,,CHI98,Soldier Field
-2024_12_TEN_HOU,2024,REG,12,2024-11-24,Sunday,13:00,TEN,,HOU,,Home,,,,2024112402,,,202411240htx,,401671858,,7,6,,,,,,,,,1,closed,astroturf,,,,,,,Brian Callahan,DeMeco Ryans,,HOU00,NRG Stadium
-2024_12_DET_IND,2024,REG,12,2024-11-24,Sunday,13:00,DET,,IND,,Home,,,,2024112403,,,202411240clt,,401671866,,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Dan Campbell,Shane Steichen,,IND00,Lucas Oil Stadium
-2024_12_NE_MIA,2024,REG,12,2024-11-24,Sunday,13:00,NE,,MIA,,Home,,,,2024112404,,,202411240mia,,401671847,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Jerod Mayo,Mike McDaniel,,MIA00,Hard Rock Stadium
-2024_12_TB_NYG,2024,REG,12,2024-11-24,Sunday,13:00,TB,,NYG,,Home,,,,2024112405,,,202411240nyg,,401671638,,14,14,,,,,,,,,0,outdoors,fieldturf,,,,,,,Todd Bowles,Brian Daboll,,NYC01,MetLife Stadium
-2024_12_DAL_WAS,2024,REG,12,2024-11-24,Sunday,13:00,DAL,,WAS,,Home,,,,2024112406,,,202411240was,,401671715,,6,10,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Dan Quinn,,WAS00,FedExField
-2024_12_DEN_LV,2024,REG,12,2024-11-24,Sunday,16:05,DEN,,LV,,Home,,,,2024112407,,,202411240rai,,401671656,,7,7,,,,,,,,,1,dome,grass,,,,,,,Sean Payton,Antonio Pierce,,VEG00,Allegiant Stadium
-2024_12_SF_GB,2024,REG,12,2024-11-24,Sunday,16:25,SF,,GB,,Home,,,,2024112408,,,202411240gnb,,401671768,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Matt LaFleur,,GNB00,Lambeau Field
-2024_12_ARI_SEA,2024,REG,12,2024-11-24,Sunday,16:25,ARI,,SEA,,Home,,,,2024112409,,,202411240sea,,401671775,,14,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Jonathan Gannon,Mike Macdonald,,SEA00,Lumen Field
-2024_12_PHI_LA,2024,REG,12,2024-11-24,Sunday,20:20,PHI,,LA,,Home,,,,2024112410,,,202411240ram,,401671794,,10,7,,,,,,,,,0,dome,matrixturf,,,,,,,Nick Sirianni,Sean McVay,,LAX01,SoFi Stadium
-2024_12_BAL_LAC,2024,REG,12,2024-11-25,Monday,20:15,BAL,,LAC,,Home,,,,2024112500,,,202411250sdg,,401671689,,8,8,,,,,,,,,0,dome,matrixturf,,,,,,,John Harbaugh,Jim Harbaugh,,LAX01,SoFi Stadium
-2024_13_CHI_DET,2024,REG,13,2024-11-28,Thursday,12:30,CHI,,DET,,Home,,,,2024112800,,,202411280det,,401671492,,4,4,,,,,,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
-2024_13_NYG_DAL,2024,REG,13,2024-11-28,Thursday,16:30,NYG,,DAL,,Home,,,,2024112801,,,202411280dal,,401671779,,4,4,,,,,,,,,1,closed,matrixturf,,,,,,,Brian Daboll,Mike McCarthy,,DAL00,AT&T Stadium
-2024_13_MIA_GB,2024,REG,13,2024-11-28,Thursday,20:20,MIA,,GB,,Home,,,,2024112802,,,202411280gnb,,401671798,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Matt LaFleur,,GNB00,Lambeau Field
-2024_13_LV_KC,2024,REG,13,2024-11-29,Friday,15:00,LV,,KC,,Home,,,,2024112900,,,202411290kan,,401671806,,5,5,,,,,,,,,1,outdoors,grass,,,,,,,Antonio Pierce,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2024_13_LAC_ATL,2024,REG,13,2024-12-01,Sunday,13:00,LAC,,ATL,,Home,,,,2024120100,,,202412010atl,,401671649,,6,14,,,,,,,,,0,closed,fieldturf,,,,,,,Jim Harbaugh,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2024_13_PIT_CIN,2024,REG,13,2024-12-01,Sunday,13:00,PIT,,CIN,,Home,,,,2024120101,,,202412010cin,,401671627,,10,14,,,,,,,,,1,outdoors,fieldturf,,,,,,,Mike Tomlin,Zac Taylor,,CIN00,Paycor Stadium
-2024_13_HOU_JAX,2024,REG,13,2024-12-01,Sunday,13:00,HOU,,JAX,,Home,,,,2024120102,,,202412010jax,,401671705,,7,14,,,,,,,,,1,outdoors,grass,,,,,,,DeMeco Ryans,Doug Pederson,,JAX00,TIAA Bank Stadium
-2024_13_ARI_MIN,2024,REG,13,2024-12-01,Sunday,13:00,ARI,,MIN,,Home,,,,2024120103,,,202412010min,,401671726,,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Jonathan Gannon,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2024_13_IND_NE,2024,REG,13,2024-12-01,Sunday,13:00,IND,,NE,,Home,,,,2024120104,,,202412010nwe,,401671620,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Jerod Mayo,,BOS00,Gillette Stadium
-2024_13_SEA_NYJ,2024,REG,13,2024-12-01,Sunday,13:00,SEA,,NYJ,,Home,,,,2024120105,,,202412010nyj,,401671703,,7,14,,,,,,,,,0,outdoors,fieldturf,,,,,,,Mike Macdonald,Robert Saleh,,NYC01,MetLife Stadium
-2024_13_TEN_WAS,2024,REG,13,2024-12-01,Sunday,13:00,TEN,,WAS,,Home,,,,2024120106,,,202412010was,,401671743,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Callahan,Dan Quinn,,WAS00,FedExField
-2024_13_TB_CAR,2024,REG,13,2024-12-01,Sunday,16:05,TB,,CAR,,Home,,,,2024120107,,,202412010car,,401671752,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Todd Bowles,Dave Canales,,CAR00,Bank of America Stadium
-2024_13_LA_NO,2024,REG,13,2024-12-01,Sunday,16:05,LA,,NO,,Home,,,,2024120108,,,202412010nor,,401671753,,7,14,,,,,,,,,0,dome,sportturf,,,,,,,Sean McVay,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2024_13_PHI_BAL,2024,REG,13,2024-12-01,Sunday,16:25,PHI,,BAL,,Home,,,,2024120109,,,202412010rav,,401671666,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Nick Sirianni,John Harbaugh,,BAL00,M&T Bank Stadium
-2024_13_SF_BUF,2024,REG,13,2024-12-01,Sunday,20:20,SF,,BUF,,Home,,,,2024120110,,,202412010buf,,401671781,,7,14,,,,,,,,,0,outdoors,a_turf,,,,,,,Kyle Shanahan,Sean McDermott,,BUF00,New Era Field
-2024_13_CLE_DEN,2024,REG,13,2024-12-02,Monday,20:15,CLE,,DEN,,Home,,,,2024120200,,,202412020den,,401671686,,11,8,,,,,,,,,0,outdoors,grass,,,,,,,Kevin Stefanski,Sean Payton,,DEN00,Empower Field at Mile High
-2024_14_GB_DET,2024,REG,14,2024-12-05,Thursday,20:15,GB,,DET,,Home,,,,2024120500,,,202412050det,,401671814,,7,7,,,,,,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
-2024_14_NYJ_MIA,2024,REG,14,2024-12-08,Sunday,13:00,NYJ,,MIA,,Home,,,,2024120800,,,202412080mia,,401671848,,7,10,,,,,,,,,1,outdoors,grass,,,,,,,Robert Saleh,Mike McDaniel,,MIA00,Hard Rock Stadium
-2024_14_ATL_MIN,2024,REG,14,2024-12-08,Sunday,13:00,ATL,,MIN,,Home,,,,2024120801,,,202412080min,,401671648,,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Raheem Morris,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2024_14_NO_NYG,2024,REG,14,2024-12-08,Sunday,13:00,NO,,NYG,,Home,,,,2024120802,,,202412080nyg,,401671601,,7,10,,,,,,,,,0,outdoors,fieldturf,,,,,,,Dennis Allen,Brian Daboll,,NYC01,MetLife Stadium
-2024_14_CAR_PHI,2024,REG,14,2024-12-08,Sunday,13:00,CAR,,PHI,,Home,,,,2024120803,,,202412080phi,,401671713,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Dave Canales,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_14_CLE_PIT,2024,REG,14,2024-12-08,Sunday,13:00,CLE,,PIT,,Home,,,,2024120804,,,202412080pit,,401671631,,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Acrisure Stadium
-2024_14_LV_TB,2024,REG,14,2024-12-08,Sunday,13:00,LV,,TB,,Home,,,,2024120805,,,202412080tam,,401671654,,9,7,,,,,,,,,0,outdoors,grass,,,,,,,Antonio Pierce,Todd Bowles,,TAM00,Raymond James Stadium
-2024_14_JAX_TEN,2024,REG,14,2024-12-08,Sunday,13:00,JAX,,TEN,,Home,,,,2024120806,,,202412080oti,,401671821,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Doug Pederson,Brian Callahan,,NAS00,Nissan Stadium
-2024_14_SEA_ARI,2024,REG,14,2024-12-08,Sunday,16:05,SEA,,ARI,,Home,,,,2024120807,,,202412080crd,,401671660,,7,7,,,,,,,,,1,closed,grass,,,,,,,Mike Macdonald,Jonathan Gannon,,PHO00,State Farm Stadium
-2024_14_BUF_LA,2024,REG,14,2024-12-08,Sunday,16:25,BUF,,LA,,Home,,,,2024120808,,,202412080ram,,401671773,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Sean McDermott,Sean McVay,,LAX01,SoFi Stadium
-2024_14_CHI_SF,2024,REG,14,2024-12-08,Sunday,16:25,CHI,,SF,,Home,,,,2024120809,,,202412080sfo,,401671774,,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Kyle Shanahan,,SFO01,Levi's Stadium
-2024_14_LAC_KC,2024,REG,14,2024-12-08,Sunday,20:20,LAC,,KC,,Home,,,,2024120810,,,202412080kan,,401671788,,7,9,,,,,,,,,1,outdoors,grass,,,,,,,Jim Harbaugh,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2024_14_CIN_DAL,2024,REG,14,2024-12-09,Monday,20:15,CIN,,DAL,,Home,,,,2024120900,,,202412090dal,,401671690,,8,11,,,,,,,,,0,closed,matrixturf,,,,,,,Zac Taylor,Mike McCarthy,,DAL00,AT&T Stadium
-2024_15_LA_SF,2024,REG,15,2024-12-12,Thursday,20:15,LA,,SF,,Home,,,,2024121200,,,202412120sfo,,401671818,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
-2024_15_DAL_CAR,2024,REG,15,2024-12-15,Sunday,13:00,DAL,,CAR,,Home,,,,2024121500,,,202412150car,,401671731,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Dave Canales,,CAR00,Bank of America Stadium
-2024_15_KC_CLE,2024,REG,15,2024-12-15,Sunday,13:00,KC,,CLE,,Home,,,,2024121501,,,202412150cle,,401671854,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2024_15_MIA_HOU,2024,REG,15,2024-12-15,Sunday,13:00,MIA,,HOU,,Home,,,,2024121502,,,202412150htx,,401671860,,7,14,,,,,,,,,0,closed,astroturf,,,,,,,Mike McDaniel,DeMeco Ryans,,HOU00,NRG Stadium
-2024_15_NYJ_JAX,2024,REG,15,2024-12-15,Sunday,13:00,NYJ,,JAX,,Home,,,,2024121503,,,202412150jax,,401671706,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Doug Pederson,,JAX00,TIAA Bank Stadium
-2024_15_WAS_NO,2024,REG,15,2024-12-15,Sunday,13:00,WAS,,NO,,Home,,,,2024121504,,,202412150nor,,401671737,,14,7,,,,,,,,,0,dome,sportturf,,,,,,,Dan Quinn,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2024_15_BAL_NYG,2024,REG,15,2024-12-15,Sunday,13:00,BAL,,NYG,,Home,,,,2024121505,,,202412150nyg,,401671639,,14,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,John Harbaugh,Brian Daboll,,NYC01,MetLife Stadium
-2024_15_CIN_TEN,2024,REG,15,2024-12-15,Sunday,13:00,CIN,,TEN,,Home,,,,2024121506,,,202412150oti,,401671825,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Brian Callahan,,NAS00,Nissan Stadium
-2024_15_NE_ARI,2024,REG,15,2024-12-15,Sunday,16:25,NE,,ARI,,Home,,,,2024121507,,,202412150crd,,401671677,,14,7,,,,,,,,,0,closed,grass,,,,,,,Jerod Mayo,Jonathan Gannon,,PHO00,State Farm Stadium
-2024_15_IND_DEN,2024,REG,15,2024-12-15,Sunday,16:25,IND,,DEN,,Home,,,,2024121508,,,202412150den,,401671669,,14,13,,,,,,,,,0,outdoors,grass,,,,,,,Shane Steichen,Sean Payton,,DEN00,Empower Field at Mile High
-2024_15_BUF_DET,2024,REG,15,2024-12-15,Sunday,16:25,BUF,,DET,,Home,,,,2024121509,,,202412150det,,401671681,,7,10,,,,,,,,,0,dome,fieldturf,,,,,,,Sean McDermott,Dan Campbell,,DET00,Ford Field
-2024_15_TB_LAC,2024,REG,15,2024-12-15,Sunday,16:25,TB,,LAC,,Home,,,,2024121510,,,202412150sdg,,401671762,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Todd Bowles,Jim Harbaugh,,LAX01,SoFi Stadium
-2024_15_PIT_PHI,2024,REG,15,2024-12-15,Sunday,16:25,PIT,,PHI,,Home,,,,2024121511,,,202412150phi,,401671766,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_15_GB_SEA,2024,REG,15,2024-12-15,Sunday,20:20,GB,,SEA,,Home,,,,2024121512,,,202412150sea,,401671796,,10,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Matt LaFleur,Mike Macdonald,,SEA00,Lumen Field
-2024_15_CHI_MIN,2024,REG,15,2024-12-16,Monday,20:00,CHI,,MIN,,Home,,,,2024121600,,,202412160min,,401671489,,8,8,,,,,,,,,1,dome,sportturf,,,,,,,Matt Eberflus,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2024_15_ATL_LV,2024,REG,15,2024-12-16,Monday,20:30,ATL,,LV,,Home,,,,2024121601,,,202412160rai,,401671697,,8,8,,,,,,,,,0,dome,grass,,,,,,,Raheem Morris,Antonio Pierce,,VEG00,Allegiant Stadium
-2024_16_CLE_CIN,2024,REG,16,2024-12-19,Thursday,20:15,CLE,,CIN,,Home,,,,2024121900,,,202412190cin,,401671811,,4,4,,,,,,,,,1,outdoors,fieldturf,,,,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paycor Stadium
-2024_16_HOU_KC,2024,REG,16,2024-12-21,Saturday,13:00,HOU,,KC,,Home,,,,2024122100,,,202412210kan,,401671780,,6,6,,,,,,,,,0,outdoors,grass,,,,,,,DeMeco Ryans,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2024_16_PIT_BAL,2024,REG,16,2024-12-21,Saturday,16:30,PIT,,BAL,,Home,,,,2024122101,,,202412210rav,,401671778,,6,6,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
-2024_16_NYG_ATL,2024,REG,16,2024-12-22,Sunday,13:00,NYG,,ATL,,Home,,,,2024122200,,,202412220atl,,401671729,,7,6,,,,,,,,,0,closed,fieldturf,,,,,,,Brian Daboll,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2024_16_NE_BUF,2024,REG,16,2024-12-22,Sunday,13:00,NE,,BUF,,Home,,,,2024122201,,,202412220buf,,401671494,,7,7,,,,,,,,,1,outdoors,a_turf,,,,,,,Jerod Mayo,Sean McDermott,,BUF00,New Era Field
-2024_16_ARI_CAR,2024,REG,16,2024-12-22,Sunday,13:00,ARI,,CAR,,Home,,,,2024122202,,,202412220car,,401671732,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Jonathan Gannon,Dave Canales,,CAR00,Bank of America Stadium
-2024_16_DET_CHI,2024,REG,16,2024-12-22,Sunday,13:00,DET,,CHI,,Home,,,,2024122203,,,202412220chi,,401671868,,7,6,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt Eberflus,,CHI98,Soldier Field
-2024_16_TEN_IND,2024,REG,16,2024-12-22,Sunday,13:00,TEN,,IND,,Home,,,,2024122204,,,202412220clt,,401671862,,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Brian Callahan,Shane Steichen,,IND00,Lucas Oil Stadium
-2024_16_LA_NYJ,2024,REG,16,2024-12-22,Sunday,13:00,LA,,NYJ,,Home,,,,2024122205,,,202412220nyj,,401671621,,10,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean McVay,Robert Saleh,,NYC01,MetLife Stadium
-2024_16_PHI_WAS,2024,REG,16,2024-12-22,Sunday,13:00,PHI,,WAS,,Home,,,,2024122206,,,202412220was,,401671717,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Dan Quinn,,WAS00,FedExField
-2024_16_DEN_LAC,2024,REG,16,2024-12-22,Sunday,16:05,DEN,,LAC,,Home,,,,2024122207,,,202412220sdg,,401671749,,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Sean Payton,Jim Harbaugh,,LAX01,SoFi Stadium
-2024_16_MIN_SEA,2024,REG,16,2024-12-22,Sunday,16:05,MIN,,SEA,,Home,,,,2024122208,,,202412220sea,,401671759,,6,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Kevin O'Connell,Mike Macdonald,,SEA00,Lumen Field
-2024_16_JAX_LV,2024,REG,16,2024-12-22,Sunday,16:25,JAX,,LV,,Home,,,,2024122209,,,202412220rai,,401671673,,7,6,,,,,,,,,0,dome,grass,,,,,,,Doug Pederson,Antonio Pierce,,VEG00,Allegiant Stadium
-2024_16_SF_MIA,2024,REG,16,2024-12-22,Sunday,16:25,SF,,MIA,,Home,,,,2024122210,,,202412220mia,,401671874,,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Mike McDaniel,,MIA00,Hard Rock Stadium
-2024_16_TB_DAL,2024,REG,16,2024-12-22,Sunday,20:20,TB,,DAL,,Home,,,,2024122211,,,202412220dal,,401671790,,7,7,,,,,,,,,0,closed,matrixturf,,,,,,,Todd Bowles,Mike McCarthy,,DAL00,AT&T Stadium
-2024_16_NO_GB,2024,REG,16,2024-12-23,Monday,20:15,NO,,GB,,Home,,,,2024122300,,,202412230gnb,,401671692,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Matt LaFleur,,GNB00,Lambeau Field
-2024_17_KC_PIT,2024,REG,17,2024-12-25,Wednesday,13:00,KC,,PIT,,Home,,,,2024122500,,,202412250pit,,401671799,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Mike Tomlin,,PIT00,Acrisure Stadium
-2024_17_BAL_HOU,2024,REG,17,2024-12-25,Wednesday,16:30,BAL,,HOU,,Home,,,,2024122501,,,202412250htx,,401671800,,4,4,,,,,,,,,0,closed,astroturf,,,,,,,John Harbaugh,DeMeco Ryans,,HOU00,NRG Stadium
-2024_17_SEA_CHI,2024,REG,17,2024-12-26,Thursday,20:15,SEA,,CHI,,Home,,,,2024122600,,,202412260chi,,401671876,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike Macdonald,Matt Eberflus,,CHI98,Soldier Field
-2024_17_NYJ_BUF,2024,REG,17,2024-12-29,Sunday,13:00,NYJ,,BUF,,Home,,,,2024122900,,,202412290buf,,401671495,,7,7,,,,,,,,,1,outdoors,a_turf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
-2024_17_DEN_CIN,2024,REG,17,2024-12-29,Sunday,13:00,DEN,,CIN,,Home,,,,2024122900,,,202412290cin,,401671835,,7,10,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean Payton,Zac Taylor,,CIN00,Paycor Stadium
-2024_17_TEN_JAX,2024,REG,17,2024-12-29,Sunday,13:00,TEN,,JAX,,Home,,,,2024122901,,,202412290jax,,401671634,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brian Callahan,Doug Pederson,,JAX00,TIAA Bank Stadium
-2024_17_ARI_LA,2024,REG,17,2024-12-29,Sunday,13:00,ARI,,LA,,Home,,,,2024122901,,,202412290ram,,401671829,,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Jonathan Gannon,Sean McVay,,LAX01,SoFi Stadium
-2024_17_GB_MIN,2024,REG,17,2024-12-29,Sunday,13:00,GB,,MIN,,Home,,,,2024122902,,,202412290min,,401671725,,6,7,,,,,,,,,1,dome,sportturf,,,,,,,Matt LaFleur,Kevin O'Connell,,MIN01,U.S. Bank Stadium
-2024_17_LAC_NE,2024,REG,17,2024-12-29,Sunday,13:00,LAC,,NE,,Home,,,,2024122902,,,202412290nwe,,401671832,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Jim Harbaugh,Jerod Mayo,,BOS00,Gillette Stadium
-2024_17_LV_NO,2024,REG,17,2024-12-29,Sunday,13:00,LV,,NO,,Home,,,,2024122903,,,202412290nor,,401671738,,7,6,,,,,,,,,0,dome,sportturf,,,,,,,Antonio Pierce,Dennis Allen,,NOR00,Mercedes-Benz Superdome
-2024_17_IND_NYG,2024,REG,17,2024-12-29,Sunday,13:00,IND,,NYG,,Home,,,,2024122903,,,202412290nyg,,401671846,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Brian Daboll,,NYC01,MetLife Stadium
-2024_17_CAR_TB,2024,REG,17,2024-12-29,Sunday,13:00,CAR,,TB,,Home,,,,2024122904,,,202412290tam,,401671653,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dave Canales,Todd Bowles,,TAM00,Raymond James Stadium
-2024_17_ATL_WAS,2024,REG,17,2024-12-29,Sunday,13:00,ATL,,WAS,,Home,,,,2024122904,,,202412290was,,401671842,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Raheem Morris,Dan Quinn,,WAS00,FedExField
-2024_17_DAL_PHI,2024,REG,17,2024-12-29,Sunday,16:25,DAL,,PHI,,Home,,,,2024122905,,,202412290phi,,401671765,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_17_MIA_CLE,2024,REG,17,2024-12-29,Sunday,20:20,MIA,,CLE,,Home,,,,2024122906,,,202412290cle,,401671877,,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Kevin Stefanski,,CLE00,FirstEnergy Stadium
-2024_17_DET_SF,2024,REG,17,2024-12-30,Monday,20:15,DET,,SF,,Home,,,,2024123000,,,202412300sfo,,401671698,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dan Campbell,Kyle Shanahan,,SFO01,Levi's Stadium
-2024_18_SF_ARI,2024,REG,18,2025-01-05,Sunday,13:00,SF,,ARI,,Home,,,,2025010500,,,202501050crd,,401671845,,6,7,,,,,,,,,1,closed,grass,,,,,,,Kyle Shanahan,Jonathan Gannon,,PHO00,State Farm Stadium
-2024_18_CAR_ATL,2024,REG,18,2025-01-05,Sunday,13:00,CAR,,ATL,,Home,,,,2025010501,,,202501050atl,,401671827,,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Dave Canales,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2024_18_CLE_BAL,2024,REG,18,2025-01-05,Sunday,13:00,CLE,,BAL,,Home,,,,2025010502,,,202501050rav,,401671834,,7,11,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
-2024_18_WAS_DAL,2024,REG,18,2025-01-05,Sunday,13:00,WAS,,DAL,,Home,,,,2025010503,,,202501050dal,,401671840,,7,7,,,,,,,,,1,closed,matrixturf,,,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
-2024_18_KC_DEN,2024,REG,18,2025-01-05,Sunday,13:00,KC,,DEN,,Home,,,,2025010504,,,202501050den,,401671838,,11,7,,,,,,,,,1,outdoors,grass,,,,,,,Andy Reid,Sean Payton,,DEN00,Empower Field at Mile High
-2024_18_MIN_DET,2024,REG,18,2025-01-05,Sunday,13:00,MIN,,DET,,Home,,,,2025010505,,,202501050det,,401671843,,7,6,,,,,,,,,1,dome,fieldturf,,,,,,,Kevin O'Connell,Dan Campbell,,DET00,Ford Field
-2024_18_CHI_GB,2024,REG,18,2025-01-05,Sunday,13:00,CHI,,GB,,Home,,,,2025010506,,,202501050gnb,,401671844,,10,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
-2024_18_JAX_IND,2024,REG,18,2025-01-05,Sunday,13:00,JAX,,IND,,Home,,,,2025010507,,,202501050clt,,401671837,,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Doug Pederson,Shane Steichen,,IND00,Lucas Oil Stadium
-2024_18_SEA_LA,2024,REG,18,2025-01-05,Sunday,13:00,SEA,,LA,,Home,,,,2025010508,,,202501050ram,,401671830,,10,7,,,,,,,,,1,dome,matrixturf,,,,,,,Mike Macdonald,Sean McVay,,LAX01,SoFi Stadium
-2024_18_LAC_LV,2024,REG,18,2025-01-05,Sunday,13:00,LAC,,LV,,Home,,,,2025010509,,,202501050rai,,401671839,,7,7,,,,,,,,,1,dome,grass,,,,,,,Jim Harbaugh,Antonio Pierce,,VEG00,Allegiant Stadium
-2024_18_BUF_NE,2024,REG,18,2025-01-05,Sunday,13:00,BUF,,NE,,Home,,,,2025010510,,,202501050nwe,,401671831,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McDermott,Jerod Mayo,,BOS00,Gillette Stadium
-2024_18_MIA_NYJ,2024,REG,18,2025-01-05,Sunday,13:00,MIA,,NYJ,,Home,,,,2025010511,,,202501050nyj,,401671833,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Robert Saleh,,NYC01,MetLife Stadium
-2024_18_NYG_PHI,2024,REG,18,2025-01-05,Sunday,13:00,NYG,,PHI,,Home,,,,2025010512,,,202501050phi,,401671841,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brian Daboll,Nick Sirianni,,PHI00,Lincoln Financial Field
-2024_18_CIN_PIT,2024,REG,18,2025-01-05,Sunday,13:00,CIN,,PIT,,Home,,,,2025010513,,,202501050pit,,401671836,,7,11,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Mike Tomlin,,PIT00,Acrisure Stadium
-2024_18_NO_TB,2024,REG,18,2025-01-05,Sunday,13:00,NO,,TB,,Home,,,,2025010514,,,202501050tam,,401671828,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dennis Allen,Todd Bowles,,TAM00,Raymond James Stadium
-2024_18_HOU_TEN,2024,REG,18,2025-01-05,Sunday,13:00,HOU,,TEN,,Home,,,,2025010515,,,202501050oti,,401671826,,11,7,,,,,,,,,1,outdoors,grass,,,,,,,DeMeco Ryans,Brian Callahan,,NAS00,Nissan Stadium
+2024_09_DET_GB,2024,REG,9,2024-11-03,Sunday,16:25,DET,,GB,,Home,,,,2024110310,59642,,202411030gnb,,401671767,6583,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
+2024_09_LA_SEA,2024,REG,9,2024-11-03,Sunday,16:25,LA,,SEA,,Home,,,,2024110311,59643,,202411030sea,,401671776,6584,10,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McVay,Mike Macdonald,,SEA00,Lumen Field
+2024_09_JAX_PHI,2024,REG,9,2024-11-03,Sunday,20:20,JAX,,PHI,,Home,,,,2024110312,59644,,202411030phi,,401671797,6585,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Doug Pederson,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_09_TB_KC,2024,REG,9,2024-11-04,Monday,20:15,TB,,KC,,Home,,,,2024110400,59645,,202411040kan,,401671688,6586,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2024_10_CIN_BAL,2024,REG,10,2024-11-07,Thursday,20:15,CIN,,BAL,,Home,,,,2024110700,59646,,202411070rav,,401671810,6587,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,John Harbaugh,,BAL00,M&T Bank Stadium
+2024_10_NYG_CAR,2024,REG,10,2024-11-10,Sunday,09:30,NYG,,CAR,,Neutral,,,,2024111000,59647,,202411100car,,401671803,6588,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Daboll,Dave Canales,,CAR00,Bank of America Stadium
+2024_10_NE_CHI,2024,REG,10,2024-11-10,Sunday,13:00,NE,,CHI,,Home,,,,2024111001,59648,,202411100chi,,401671873,6589,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Jerod Mayo,Matt Eberflus,,CHI98,Soldier Field
+2024_10_BUF_IND,2024,REG,10,2024-11-10,Sunday,13:00,BUF,,IND,,Home,,,,2024111002,59649,,202411100clt,,401671863,6590,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Sean McDermott,Shane Steichen,,IND00,Lucas Oil Stadium
+2024_10_MIN_JAX,2024,REG,10,2024-11-10,Sunday,13:00,MIN,,JAX,,Home,,,,2024111003,59650,,202411100jax,,401671708,6591,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Doug Pederson,,JAX00,TIAA Bank Stadium
+2024_10_DEN_KC,2024,REG,10,2024-11-10,Sunday,13:00,DEN,,KC,,Home,,,,2024111004,59651,,202411100kan,,401671637,6592,7,6,,,,,,,,,1,outdoors,grass,,,,,,,Sean Payton,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2024_10_ATL_NO,2024,REG,10,2024-11-10,Sunday,13:00,ATL,,NO,,Home,,,,2024111005,59652,,202411100nor,,401671733,6593,7,7,,,,,,,,,1,dome,sportturf,,,,,,,Raheem Morris,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2024_10_SF_TB,2024,REG,10,2024-11-10,Sunday,13:00,SF,,TB,,Home,,,,2024111006,59653,,202411100tam,,401671742,6594,14,6,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Todd Bowles,,TAM00,Raymond James Stadium
+2024_10_PIT_WAS,2024,REG,10,2024-11-10,Sunday,13:00,PIT,,WAS,,Home,,,,2024111007,59654,,202411100was,,401671641,6595,13,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Dan Quinn,,WAS00,FedExField
+2024_10_TEN_LAC,2024,REG,10,2024-11-10,Sunday,16:05,TEN,,LAC,,Home,,,,2024111008,59655,,202411100sdg,,401671751,6596,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Brian Callahan,Jim Harbaugh,,LAX01,SoFi Stadium
+2024_10_NYJ_ARI,2024,REG,10,2024-11-10,Sunday,16:25,NYJ,,ARI,,Home,,,,2024111009,59656,,202411100crd,,401671678,6597,10,7,,,,,,,,,0,closed,grass,,,,,,,Robert Saleh,Jonathan Gannon,,PHO00,State Farm Stadium
+2024_10_PHI_DAL,2024,REG,10,2024-11-10,Sunday,16:25,PHI,,DAL,,Home,,,,2024111010,59657,,202411100dal,,401671676,6598,7,7,,,,,,,,,1,closed,matrixturf,,,,,,,Nick Sirianni,Mike McCarthy,,DAL00,AT&T Stadium
+2024_10_DET_HOU,2024,REG,10,2024-11-10,Sunday,20:20,DET,,HOU,,Home,,,,2024111011,59658,,202411100htx,,401671787,6599,7,10,,,,,,,,,0,closed,astroturf,,,,,,,Dan Campbell,DeMeco Ryans,,HOU00,NRG Stadium
+2024_10_MIA_LA,2024,REG,10,2024-11-11,Monday,20:15,MIA,,LA,,Home,,,,2024111100,59659,,202411110ram,,401671693,6600,8,8,,,,,,,,,0,dome,matrixturf,,,,,,,Mike McDaniel,Sean McVay,,LAX01,SoFi Stadium
+2024_11_WAS_PHI,2024,REG,11,2024-11-14,Thursday,20:15,WAS,,PHI,,Home,,,,2024111400,59660,,202411140phi,,401671813,6601,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Dan Quinn,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_11_GB_CHI,2024,REG,11,2024-11-17,Sunday,13:00,GB,,CHI,,Home,,,,2024111700,59661,,202411170chi,,401671869,6602,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt LaFleur,Matt Eberflus,,CHI98,Soldier Field
+2024_11_JAX_DET,2024,REG,11,2024-11-17,Sunday,13:00,JAX,,DET,,Home,,,,2024111701,59662,,202411170det,,401671642,6603,7,7,,,,,,,,,0,dome,fieldturf,,,,,,,Doug Pederson,Dan Campbell,,DET00,Ford Field
+2024_11_LV_MIA,2024,REG,11,2024-11-17,Sunday,13:00,LV,,MIA,,Home,,,,2024111702,59663,,202411170mia,,401671851,6604,14,6,,,,,,,,,0,outdoors,grass,,,,,,,Antonio Pierce,Mike McDaniel,,MIA00,Hard Rock Stadium
+2024_11_LA_NE,2024,REG,11,2024-11-17,Sunday,13:00,LA,,NE,,Home,,,,2024111703,59664,,202411170nwe,,401671701,6605,6,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean McVay,Jerod Mayo,,BOS00,Gillette Stadium
+2024_11_CLE_NO,2024,REG,11,2024-11-17,Sunday,13:00,CLE,,NO,,Home,,,,2024111704,59665,,202411170nor,,401671746,6606,14,7,,,,,,,,,0,dome,sportturf,,,,,,,Kevin Stefanski,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2024_11_BAL_PIT,2024,REG,11,2024-11-17,Sunday,13:00,BAL,,PIT,,Home,,,,2024111705,59666,,202411170pit,,401671630,6607,10,7,,,,,,,,,1,outdoors,grass,,,,,,,John Harbaugh,Mike Tomlin,,PIT00,Acrisure Stadium
+2024_11_MIN_TEN,2024,REG,11,2024-11-17,Sunday,13:00,MIN,,TEN,,Home,,,,2024111706,59667,,202411170oti,,401671824,6608,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kevin O'Connell,Brian Callahan,,NAS00,Nissan Stadium
+2024_11_ATL_DEN,2024,REG,11,2024-11-17,Sunday,16:05,ATL,,DEN,,Home,,,,2024111707,59668,,202411170den,,401671748,6609,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Raheem Morris,Sean Payton,,DEN00,Empower Field at Mile High
+2024_11_SEA_SF,2024,REG,11,2024-11-17,Sunday,16:05,SEA,,SF,,Home,,,,2024111708,59669,,202411170sfo,,401671757,6610,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Macdonald,Kyle Shanahan,,SFO01,Levi's Stadium
+2024_11_KC_BUF,2024,REG,11,2024-11-17,Sunday,16:25,KC,,BUF,,Home,,,,2024111709,59670,,202411170buf,,401671665,6611,7,7,,,,,,,,,0,outdoors,a_turf,,,,,,,Andy Reid,Sean McDermott,,BUF00,New Era Field
+2024_11_CIN_LAC,2024,REG,11,2024-11-17,Sunday,16:25,CIN,,LAC,,Home,,,,2024111710,59671,,202411170sdg,,401671675,6612,10,7,,,,,,,,,0,dome,matrixturf,,,,,,,Zac Taylor,Jim Harbaugh,,LAX01,SoFi Stadium
+2024_11_IND_NYJ,2024,REG,11,2024-11-17,Sunday,20:20,IND,,NYJ,,Home,,,,2024111711,59672,,202411170nyj,,401671782,6613,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Robert Saleh,,NYC01,MetLife Stadium
+2024_11_HOU_DAL,2024,REG,11,2024-11-18,Monday,20:15,HOU,,DAL,,Home,,,,2024111800,59673,,202411180dal,,401671694,6614,8,8,,,,,,,,,0,closed,matrixturf,,,,,,,DeMeco Ryans,Mike McCarthy,,DAL00,AT&T Stadium
+2024_12_PIT_CLE,2024,REG,12,2024-11-21,Thursday,20:15,PIT,,CLE,,Home,,,,2024112100,59674,,202411210cle,,401671875,6615,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2024_12_KC_CAR,2024,REG,12,2024-11-24,Sunday,13:00,KC,,CAR,,Home,,,,2024112400,59675,,202411240car,,401671651,6616,7,14,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Dave Canales,,CAR00,Bank of America Stadium
+2024_12_MIN_CHI,2024,REG,12,2024-11-24,Sunday,13:00,MIN,,CHI,,Home,,,,2024112401,59676,,202411240chi,,401671870,6617,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt Eberflus,,CHI98,Soldier Field
+2024_12_TEN_HOU,2024,REG,12,2024-11-24,Sunday,13:00,TEN,,HOU,,Home,,,,2024112402,59677,,202411240htx,,401671858,6618,7,6,,,,,,,,,1,closed,astroturf,,,,,,,Brian Callahan,DeMeco Ryans,,HOU00,NRG Stadium
+2024_12_DET_IND,2024,REG,12,2024-11-24,Sunday,13:00,DET,,IND,,Home,,,,2024112403,59678,,202411240clt,,401671866,6619,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Dan Campbell,Shane Steichen,,IND00,Lucas Oil Stadium
+2024_12_NE_MIA,2024,REG,12,2024-11-24,Sunday,13:00,NE,,MIA,,Home,,,,2024112404,59679,,202411240mia,,401671847,6620,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Jerod Mayo,Mike McDaniel,,MIA00,Hard Rock Stadium
+2024_12_TB_NYG,2024,REG,12,2024-11-24,Sunday,13:00,TB,,NYG,,Home,,,,2024112405,59680,,202411240nyg,,401671638,6621,14,14,,,,,,,,,0,outdoors,fieldturf,,,,,,,Todd Bowles,Brian Daboll,,NYC01,MetLife Stadium
+2024_12_DAL_WAS,2024,REG,12,2024-11-24,Sunday,13:00,DAL,,WAS,,Home,,,,2024112406,59681,,202411240was,,401671715,6622,6,10,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Dan Quinn,,WAS00,FedExField
+2024_12_DEN_LV,2024,REG,12,2024-11-24,Sunday,16:05,DEN,,LV,,Home,,,,2024112407,59682,,202411240rai,,401671656,6623,7,7,,,,,,,,,1,dome,grass,,,,,,,Sean Payton,Antonio Pierce,,VEG00,Allegiant Stadium
+2024_12_SF_GB,2024,REG,12,2024-11-24,Sunday,16:25,SF,,GB,,Home,,,,2024112408,59683,,202411240gnb,,401671768,6624,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Matt LaFleur,,GNB00,Lambeau Field
+2024_12_ARI_SEA,2024,REG,12,2024-11-24,Sunday,16:25,ARI,,SEA,,Home,,,,2024112409,59684,,202411240sea,,401671775,6625,14,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Jonathan Gannon,Mike Macdonald,,SEA00,Lumen Field
+2024_12_PHI_LA,2024,REG,12,2024-11-24,Sunday,20:20,PHI,,LA,,Home,,,,2024112410,59685,,202411240ram,,401671794,6626,10,7,,,,,,,,,0,dome,matrixturf,,,,,,,Nick Sirianni,Sean McVay,,LAX01,SoFi Stadium
+2024_12_BAL_LAC,2024,REG,12,2024-11-25,Monday,20:15,BAL,,LAC,,Home,,,,2024112500,59686,,202411250sdg,,401671689,6627,8,8,,,,,,,,,0,dome,matrixturf,,,,,,,John Harbaugh,Jim Harbaugh,,LAX01,SoFi Stadium
+2024_13_CHI_DET,2024,REG,13,2024-11-28,Thursday,12:30,CHI,,DET,,Home,,,,2024112800,59687,,202411280det,,401671492,6628,4,4,,,,,,,,,1,dome,fieldturf,,,,,,,Matt Eberflus,Dan Campbell,,DET00,Ford Field
+2024_13_NYG_DAL,2024,REG,13,2024-11-28,Thursday,16:30,NYG,,DAL,,Home,,,,2024112801,59688,,202411280dal,,401671779,6629,4,4,,,,,,,,,1,closed,matrixturf,,,,,,,Brian Daboll,Mike McCarthy,,DAL00,AT&T Stadium
+2024_13_MIA_GB,2024,REG,13,2024-11-28,Thursday,20:20,MIA,,GB,,Home,,,,2024112802,59689,,202411280gnb,,401671798,6630,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Matt LaFleur,,GNB00,Lambeau Field
+2024_13_LV_KC,2024,REG,13,2024-11-29,Friday,15:00,LV,,KC,,Home,,,,2024112900,59690,,202411290kan,,401671806,6631,5,5,,,,,,,,,1,outdoors,grass,,,,,,,Antonio Pierce,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2024_13_LAC_ATL,2024,REG,13,2024-12-01,Sunday,13:00,LAC,,ATL,,Home,,,,2024120100,59691,,202412010atl,,401671649,6632,6,14,,,,,,,,,0,closed,fieldturf,,,,,,,Jim Harbaugh,Raheem Morris,,ATL97,Mercedes-Benz Stadium
+2024_13_PIT_CIN,2024,REG,13,2024-12-01,Sunday,13:00,PIT,,CIN,,Home,,,,2024120101,59692,,202412010cin,,401671627,6633,10,14,,,,,,,,,1,outdoors,fieldturf,,,,,,,Mike Tomlin,Zac Taylor,,CIN00,Paycor Stadium
+2024_13_HOU_JAX,2024,REG,13,2024-12-01,Sunday,13:00,HOU,,JAX,,Home,,,,2024120102,59693,,202412010jax,,401671705,6634,7,14,,,,,,,,,1,outdoors,grass,,,,,,,DeMeco Ryans,Doug Pederson,,JAX00,TIAA Bank Stadium
+2024_13_ARI_MIN,2024,REG,13,2024-12-01,Sunday,13:00,ARI,,MIN,,Home,,,,2024120103,59694,,202412010min,,401671726,6635,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Jonathan Gannon,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2024_13_IND_NE,2024,REG,13,2024-12-01,Sunday,13:00,IND,,NE,,Home,,,,2024120104,59695,,202412010nwe,,401671620,6636,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Jerod Mayo,,BOS00,Gillette Stadium
+2024_13_SEA_NYJ,2024,REG,13,2024-12-01,Sunday,13:00,SEA,,NYJ,,Home,,,,2024120105,59696,,202412010nyj,,401671703,6637,7,14,,,,,,,,,0,outdoors,fieldturf,,,,,,,Mike Macdonald,Robert Saleh,,NYC01,MetLife Stadium
+2024_13_TEN_WAS,2024,REG,13,2024-12-01,Sunday,13:00,TEN,,WAS,,Home,,,,2024120106,59697,,202412010was,,401671743,6638,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Callahan,Dan Quinn,,WAS00,FedExField
+2024_13_TB_CAR,2024,REG,13,2024-12-01,Sunday,16:05,TB,,CAR,,Home,,,,2024120107,59698,,202412010car,,401671752,6639,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Todd Bowles,Dave Canales,,CAR00,Bank of America Stadium
+2024_13_LA_NO,2024,REG,13,2024-12-01,Sunday,16:05,LA,,NO,,Home,,,,2024120108,59699,,202412010nor,,401671753,6640,7,14,,,,,,,,,0,dome,sportturf,,,,,,,Sean McVay,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2024_13_PHI_BAL,2024,REG,13,2024-12-01,Sunday,16:25,PHI,,BAL,,Home,,,,2024120109,59700,,202412010rav,,401671666,6641,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Nick Sirianni,John Harbaugh,,BAL00,M&T Bank Stadium
+2024_13_SF_BUF,2024,REG,13,2024-12-01,Sunday,20:20,SF,,BUF,,Home,,,,2024120110,59701,,202412010buf,,401671781,6642,7,14,,,,,,,,,0,outdoors,a_turf,,,,,,,Kyle Shanahan,Sean McDermott,,BUF00,New Era Field
+2024_13_CLE_DEN,2024,REG,13,2024-12-02,Monday,20:15,CLE,,DEN,,Home,,,,2024120200,59702,,202412020den,,401671686,6643,11,8,,,,,,,,,0,outdoors,grass,,,,,,,Kevin Stefanski,Sean Payton,,DEN00,Empower Field at Mile High
+2024_14_GB_DET,2024,REG,14,2024-12-05,Thursday,20:15,GB,,DET,,Home,,,,2024120500,59703,,202412050det,,401671814,6644,7,7,,,,,,,,,1,dome,fieldturf,,,,,,,Matt LaFleur,Dan Campbell,,DET00,Ford Field
+2024_14_NYJ_MIA,2024,REG,14,2024-12-08,Sunday,13:00,NYJ,,MIA,,Home,,,,2024120800,59704,,202412080mia,,401671848,6645,7,10,,,,,,,,,1,outdoors,grass,,,,,,,Robert Saleh,Mike McDaniel,,MIA00,Hard Rock Stadium
+2024_14_ATL_MIN,2024,REG,14,2024-12-08,Sunday,13:00,ATL,,MIN,,Home,,,,2024120801,59705,,202412080min,,401671648,6646,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Raheem Morris,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2024_14_NO_NYG,2024,REG,14,2024-12-08,Sunday,13:00,NO,,NYG,,Home,,,,2024120802,59706,,202412080nyg,,401671601,6647,7,10,,,,,,,,,0,outdoors,fieldturf,,,,,,,Dennis Allen,Brian Daboll,,NYC01,MetLife Stadium
+2024_14_CAR_PHI,2024,REG,14,2024-12-08,Sunday,13:00,CAR,,PHI,,Home,,,,2024120803,59707,,202412080phi,,401671713,6648,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Dave Canales,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_14_CLE_PIT,2024,REG,14,2024-12-08,Sunday,13:00,CLE,,PIT,,Home,,,,2024120804,59708,,202412080pit,,401671631,6649,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,Mike Tomlin,,PIT00,Acrisure Stadium
+2024_14_LV_TB,2024,REG,14,2024-12-08,Sunday,13:00,LV,,TB,,Home,,,,2024120805,59709,,202412080tam,,401671654,6650,9,7,,,,,,,,,0,outdoors,grass,,,,,,,Antonio Pierce,Todd Bowles,,TAM00,Raymond James Stadium
+2024_14_JAX_TEN,2024,REG,14,2024-12-08,Sunday,13:00,JAX,,TEN,,Home,,,,2024120806,59710,,202412080oti,,401671821,6651,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Doug Pederson,Brian Callahan,,NAS00,Nissan Stadium
+2024_14_SEA_ARI,2024,REG,14,2024-12-08,Sunday,16:05,SEA,,ARI,,Home,,,,2024120807,59711,,202412080crd,,401671660,6652,7,7,,,,,,,,,1,closed,grass,,,,,,,Mike Macdonald,Jonathan Gannon,,PHO00,State Farm Stadium
+2024_14_BUF_LA,2024,REG,14,2024-12-08,Sunday,16:25,BUF,,LA,,Home,,,,2024120808,59712,,202412080ram,,401671773,6653,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Sean McDermott,Sean McVay,,LAX01,SoFi Stadium
+2024_14_CHI_SF,2024,REG,14,2024-12-08,Sunday,16:25,CHI,,SF,,Home,,,,2024120809,59713,,202412080sfo,,401671774,6654,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Matt Eberflus,Kyle Shanahan,,SFO01,Levi's Stadium
+2024_14_LAC_KC,2024,REG,14,2024-12-08,Sunday,20:20,LAC,,KC,,Home,,,,2024120810,59714,,202412080kan,,401671788,6655,7,9,,,,,,,,,1,outdoors,grass,,,,,,,Jim Harbaugh,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2024_14_CIN_DAL,2024,REG,14,2024-12-09,Monday,20:15,CIN,,DAL,,Home,,,,2024120900,59715,,202412090dal,,401671690,6656,8,11,,,,,,,,,0,closed,matrixturf,,,,,,,Zac Taylor,Mike McCarthy,,DAL00,AT&T Stadium
+2024_15_LA_SF,2024,REG,15,2024-12-12,Thursday,20:15,LA,,SF,,Home,,,,2024121200,59716,,202412120sfo,,401671818,6657,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Sean McVay,Kyle Shanahan,,SFO01,Levi's Stadium
+2024_15_DAL_CAR,2024,REG,15,2024-12-15,Sunday,13:00,DAL,,CAR,,Home,,,,2024121500,59717,,202412150car,,401671731,6658,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike McCarthy,Dave Canales,,CAR00,Bank of America Stadium
+2024_15_KC_CLE,2024,REG,15,2024-12-15,Sunday,13:00,KC,,CLE,,Home,,,,2024121501,59718,,202412150cle,,401671854,6659,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2024_15_MIA_HOU,2024,REG,15,2024-12-15,Sunday,13:00,MIA,,HOU,,Home,,,,2024121502,59719,,202412150htx,,401671860,6660,7,14,,,,,,,,,0,closed,astroturf,,,,,,,Mike McDaniel,DeMeco Ryans,,HOU00,NRG Stadium
+2024_15_NYJ_JAX,2024,REG,15,2024-12-15,Sunday,13:00,NYJ,,JAX,,Home,,,,2024121503,59720,,202412150jax,,401671706,6661,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Doug Pederson,,JAX00,TIAA Bank Stadium
+2024_15_WAS_NO,2024,REG,15,2024-12-15,Sunday,13:00,WAS,,NO,,Home,,,,2024121504,59721,,202412150nor,,401671737,6662,14,7,,,,,,,,,0,dome,sportturf,,,,,,,Dan Quinn,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2024_15_BAL_NYG,2024,REG,15,2024-12-15,Sunday,13:00,BAL,,NYG,,Home,,,,2024121505,59722,,202412150nyg,,401671639,6663,14,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,John Harbaugh,Brian Daboll,,NYC01,MetLife Stadium
+2024_15_CIN_TEN,2024,REG,15,2024-12-15,Sunday,13:00,CIN,,TEN,,Home,,,,2024121506,59723,,202412150oti,,401671825,6664,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Brian Callahan,,NAS00,Nissan Stadium
+2024_15_NE_ARI,2024,REG,15,2024-12-15,Sunday,16:25,NE,,ARI,,Home,,,,2024121507,59724,,202412150crd,,401671677,6665,14,7,,,,,,,,,0,closed,grass,,,,,,,Jerod Mayo,Jonathan Gannon,,PHO00,State Farm Stadium
+2024_15_IND_DEN,2024,REG,15,2024-12-15,Sunday,16:25,IND,,DEN,,Home,,,,2024121508,59725,,202412150den,,401671669,6666,14,13,,,,,,,,,0,outdoors,grass,,,,,,,Shane Steichen,Sean Payton,,DEN00,Empower Field at Mile High
+2024_15_BUF_DET,2024,REG,15,2024-12-15,Sunday,16:25,BUF,,DET,,Home,,,,2024121509,59726,,202412150det,,401671681,6667,7,10,,,,,,,,,0,dome,fieldturf,,,,,,,Sean McDermott,Dan Campbell,,DET00,Ford Field
+2024_15_TB_LAC,2024,REG,15,2024-12-15,Sunday,16:25,TB,,LAC,,Home,,,,2024121510,59727,,202412150sdg,,401671762,6668,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,Todd Bowles,Jim Harbaugh,,LAX01,SoFi Stadium
+2024_15_PIT_PHI,2024,REG,15,2024-12-15,Sunday,16:25,PIT,,PHI,,Home,,,,2024121511,59728,,202412150phi,,401671766,6669,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Tomlin,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_15_GB_SEA,2024,REG,15,2024-12-15,Sunday,20:20,GB,,SEA,,Home,,,,2024121512,59729,,202412150sea,,401671796,6670,10,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Matt LaFleur,Mike Macdonald,,SEA00,Lumen Field
+2024_15_CHI_MIN,2024,REG,15,2024-12-16,Monday,20:00,CHI,,MIN,,Home,,,,2024121600,59730,,202412160min,,401671489,6671,8,8,,,,,,,,,1,dome,sportturf,,,,,,,Matt Eberflus,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2024_15_ATL_LV,2024,REG,15,2024-12-16,Monday,20:30,ATL,,LV,,Home,,,,2024121601,59731,,202412160rai,,401671697,6672,8,8,,,,,,,,,0,dome,grass,,,,,,,Raheem Morris,Antonio Pierce,,VEG00,Allegiant Stadium
+2024_16_CLE_CIN,2024,REG,16,2024-12-19,Thursday,20:15,CLE,,CIN,,Home,,,,2024121900,59732,,202412190cin,,401671811,6673,4,4,,,,,,,,,1,outdoors,fieldturf,,,,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paycor Stadium
+2024_16_HOU_KC,2024,REG,16,2024-12-21,Saturday,13:00,HOU,,KC,,Home,,,,2024122100,59733,,202412210kan,,401671780,6674,6,6,,,,,,,,,0,outdoors,grass,,,,,,,DeMeco Ryans,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2024_16_PIT_BAL,2024,REG,16,2024-12-21,Saturday,16:30,PIT,,BAL,,Home,,,,2024122101,59734,,202412210rav,,401671778,6675,6,6,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
+2024_16_NYG_ATL,2024,REG,16,2024-12-22,Sunday,13:00,NYG,,ATL,,Home,,,,2024122202,59735,,202412220atl,,401671729,6676,7,6,,,,,,,,,0,closed,fieldturf,,,,,,,Brian Daboll,Raheem Morris,,ATL97,Mercedes-Benz Stadium
+2024_16_NE_BUF,2024,REG,16,2024-12-22,Sunday,13:00,NE,,BUF,,Home,,,,2024122203,59736,,202412220buf,,401671494,6677,7,7,,,,,,,,,1,outdoors,a_turf,,,,,,,Jerod Mayo,Sean McDermott,,BUF00,New Era Field
+2024_16_ARI_CAR,2024,REG,16,2024-12-22,Sunday,13:00,ARI,,CAR,,Home,,,,2024122204,59737,,202412220car,,401671732,6678,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Jonathan Gannon,Dave Canales,,CAR00,Bank of America Stadium
+2024_16_DET_CHI,2024,REG,16,2024-12-22,Sunday,13:00,DET,,CHI,,Home,,,,2024122205,59738,,202412220chi,,401671868,6679,7,6,,,,,,,,,1,outdoors,grass,,,,,,,Dan Campbell,Matt Eberflus,,CHI98,Soldier Field
+2024_16_TEN_IND,2024,REG,16,2024-12-22,Sunday,13:00,TEN,,IND,,Home,,,,2024122206,59739,,202412220clt,,401671862,6680,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Brian Callahan,Shane Steichen,,IND00,Lucas Oil Stadium
+2024_16_LA_NYJ,2024,REG,16,2024-12-22,Sunday,13:00,LA,,NYJ,,Home,,,,2024122207,59740,,202412220nyj,,401671621,6681,10,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean McVay,Robert Saleh,,NYC01,MetLife Stadium
+2024_16_PHI_WAS,2024,REG,16,2024-12-22,Sunday,13:00,PHI,,WAS,,Home,,,,2024122208,59741,,202412220was,,401671717,6682,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Nick Sirianni,Dan Quinn,,WAS00,FedExField
+2024_16_DEN_LAC,2024,REG,16,2024-12-22,Sunday,16:05,DEN,,LAC,,Home,,,,2024122209,59742,,202412220sdg,,401671749,6683,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Sean Payton,Jim Harbaugh,,LAX01,SoFi Stadium
+2024_16_MIN_SEA,2024,REG,16,2024-12-22,Sunday,16:05,MIN,,SEA,,Home,,,,2024122210,59743,,202412220sea,,401671759,6684,6,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Kevin O'Connell,Mike Macdonald,,SEA00,Lumen Field
+2024_16_JAX_LV,2024,REG,16,2024-12-22,Sunday,16:25,JAX,,LV,,Home,,,,2024122211,59744,,202412220rai,,401671673,6685,7,6,,,,,,,,,0,dome,grass,,,,,,,Doug Pederson,Antonio Pierce,,VEG00,Allegiant Stadium
+2024_16_SF_MIA,2024,REG,16,2024-12-22,Sunday,16:25,SF,,MIA,,Home,,,,2024122212,59745,,202412220mia,,401671874,6686,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Kyle Shanahan,Mike McDaniel,,MIA00,Hard Rock Stadium
+2024_16_TB_DAL,2024,REG,16,2024-12-22,Sunday,20:20,TB,,DAL,,Home,,,,2024122213,59746,,202412220dal,,401671790,6687,7,7,,,,,,,,,0,closed,matrixturf,,,,,,,Todd Bowles,Mike McCarthy,,DAL00,AT&T Stadium
+2024_16_NO_GB,2024,REG,16,2024-12-23,Monday,20:15,NO,,GB,,Home,,,,2024122300,59747,,202412230gnb,,401671692,6688,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dennis Allen,Matt LaFleur,,GNB00,Lambeau Field
+2024_17_KC_PIT,2024,REG,17,2024-12-25,Wednesday,13:00,KC,,PIT,,Home,,,,2024122500,59748,,202412250pit,,401671799,6689,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Andy Reid,Mike Tomlin,,PIT00,Acrisure Stadium
+2024_17_BAL_HOU,2024,REG,17,2024-12-25,Wednesday,16:30,BAL,,HOU,,Home,,,,2024122501,59749,,202412250htx,,401671800,6690,4,4,,,,,,,,,0,closed,astroturf,,,,,,,John Harbaugh,DeMeco Ryans,,HOU00,NRG Stadium
+2024_17_SEA_CHI,2024,REG,17,2024-12-26,Thursday,20:15,SEA,,CHI,,Home,,,,2024122600,59750,,202412260chi,,401671876,6691,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike Macdonald,Matt Eberflus,,CHI98,Soldier Field
+2024_17_NYJ_BUF,2024,REG,17,2024-12-29,Sunday,13:00,NYJ,,BUF,,Home,,,,2024122905,59756,,202412290buf,,401671495,6697,7,7,,,,,,,,,1,outdoors,a_turf,,,,,,,Robert Saleh,Sean McDermott,,BUF00,New Era Field
+2024_17_DEN_CIN,2024,REG,17,2024-12-29,Sunday,13:00,DEN,,CIN,,Home,,,,2024122900,59751,,202412290cin,,401671835,6692,7,10,,,,,,,,,0,outdoors,fieldturf,,,,,,,Sean Payton,Zac Taylor,,CIN00,Paycor Stadium
+2024_17_TEN_JAX,2024,REG,17,2024-12-29,Sunday,13:00,TEN,,JAX,,Home,,,,2024122906,59757,,202412290jax,,401671634,6698,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brian Callahan,Doug Pederson,,JAX00,TIAA Bank Stadium
+2024_17_ARI_LA,2024,REG,17,2024-12-29,Sunday,13:00,ARI,,LA,,Home,,,,2024122901,59752,,202412290ram,,401671829,6693,7,7,,,,,,,,,1,dome,matrixturf,,,,,,,Jonathan Gannon,Sean McVay,,LAX01,SoFi Stadium
+2024_17_GB_MIN,2024,REG,17,2024-12-29,Sunday,13:00,GB,,MIN,,Home,,,,2024122907,59758,,202412290min,,401671725,6699,6,7,,,,,,,,,1,dome,sportturf,,,,,,,Matt LaFleur,Kevin O'Connell,,MIN01,U.S. Bank Stadium
+2024_17_LAC_NE,2024,REG,17,2024-12-29,Sunday,13:00,LAC,,NE,,Home,,,,2024122902,59753,,202412290nwe,,401671832,6694,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Jim Harbaugh,Jerod Mayo,,BOS00,Gillette Stadium
+2024_17_LV_NO,2024,REG,17,2024-12-29,Sunday,13:00,LV,,NO,,Home,,,,2024122908,59759,,202412290nor,,401671738,6700,7,6,,,,,,,,,0,dome,sportturf,,,,,,,Antonio Pierce,Dennis Allen,,NOR00,Mercedes-Benz Superdome
+2024_17_IND_NYG,2024,REG,17,2024-12-29,Sunday,13:00,IND,,NYG,,Home,,,,2024122903,59754,,202412290nyg,,401671846,6695,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Shane Steichen,Brian Daboll,,NYC01,MetLife Stadium
+2024_17_CAR_TB,2024,REG,17,2024-12-29,Sunday,13:00,CAR,,TB,,Home,,,,2024122909,59760,,202412290tam,,401671653,6701,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dave Canales,Todd Bowles,,TAM00,Raymond James Stadium
+2024_17_ATL_WAS,2024,REG,17,2024-12-29,Sunday,13:00,ATL,,WAS,,Home,,,,2024122904,59755,,202412290was,,401671842,6696,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Raheem Morris,Dan Quinn,,WAS00,FedExField
+2024_17_DAL_PHI,2024,REG,17,2024-12-29,Sunday,16:25,DAL,,PHI,,Home,,,,2024122910,59761,,202412290phi,,401671765,6702,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_17_MIA_CLE,2024,REG,17,2024-12-29,Sunday,20:20,MIA,,CLE,,Home,,,,2024122911,59762,,202412290cle,,401671877,6703,7,10,,,,,,,,,0,outdoors,grass,,,,,,,Mike McDaniel,Kevin Stefanski,,CLE00,FirstEnergy Stadium
+2024_17_DET_SF,2024,REG,17,2024-12-30,Monday,20:15,DET,,SF,,Home,,,,2024123000,59763,,202412300sfo,,401671698,6704,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dan Campbell,Kyle Shanahan,,SFO01,Levi's Stadium
+2024_18_SF_ARI,2024,REG,18,2025-01-05,Sunday,13:00,SF,,ARI,,Home,,,,2025010500,59764,,202501050crd,,401671845,6705,6,7,,,,,,,,,1,closed,grass,,,,,,,Kyle Shanahan,Jonathan Gannon,,PHO00,State Farm Stadium
+2024_18_CAR_ATL,2024,REG,18,2025-01-05,Sunday,13:00,CAR,,ATL,,Home,,,,2025010501,59765,,202501050atl,,401671827,6706,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Dave Canales,Raheem Morris,,ATL97,Mercedes-Benz Stadium
+2024_18_CLE_BAL,2024,REG,18,2025-01-05,Sunday,13:00,CLE,,BAL,,Home,,,,2025010502,59766,,202501050rav,,401671834,6707,7,11,,,,,,,,,1,outdoors,grass,,,,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
+2024_18_WAS_DAL,2024,REG,18,2025-01-05,Sunday,13:00,WAS,,DAL,,Home,,,,2025010503,59767,,202501050dal,,401671840,6708,7,7,,,,,,,,,1,closed,matrixturf,,,,,,,Dan Quinn,Mike McCarthy,,DAL00,AT&T Stadium
+2024_18_KC_DEN,2024,REG,18,2025-01-05,Sunday,13:00,KC,,DEN,,Home,,,,2025010504,59768,,202501050den,,401671838,6709,11,7,,,,,,,,,1,outdoors,grass,,,,,,,Andy Reid,Sean Payton,,DEN00,Empower Field at Mile High
+2024_18_MIN_DET,2024,REG,18,2025-01-05,Sunday,13:00,MIN,,DET,,Home,,,,2025010505,59769,,202501050det,,401671843,6710,7,6,,,,,,,,,1,dome,fieldturf,,,,,,,Kevin O'Connell,Dan Campbell,,DET00,Ford Field
+2024_18_CHI_GB,2024,REG,18,2025-01-05,Sunday,13:00,CHI,,GB,,Home,,,,2025010506,59770,,202501050gnb,,401671844,6711,10,7,,,,,,,,,1,outdoors,grass,,,,,,,Matt Eberflus,Matt LaFleur,,GNB00,Lambeau Field
+2024_18_JAX_IND,2024,REG,18,2025-01-05,Sunday,13:00,JAX,,IND,,Home,,,,2025010507,59771,,202501050clt,,401671837,6712,7,7,,,,,,,,,1,closed,fieldturf,,,,,,,Doug Pederson,Shane Steichen,,IND00,Lucas Oil Stadium
+2024_18_SEA_LA,2024,REG,18,2025-01-05,Sunday,13:00,SEA,,LA,,Home,,,,2025010508,59772,,202501050ram,,401671830,6713,10,7,,,,,,,,,1,dome,matrixturf,,,,,,,Mike Macdonald,Sean McVay,,LAX01,SoFi Stadium
+2024_18_LAC_LV,2024,REG,18,2025-01-05,Sunday,13:00,LAC,,LV,,Home,,,,2025010509,59773,,202501050rai,,401671839,6714,7,7,,,,,,,,,1,dome,grass,,,,,,,Jim Harbaugh,Antonio Pierce,,VEG00,Allegiant Stadium
+2024_18_BUF_NE,2024,REG,18,2025-01-05,Sunday,13:00,BUF,,NE,,Home,,,,2025010510,59774,,202501050nwe,,401671831,6715,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McDermott,Jerod Mayo,,BOS00,Gillette Stadium
+2024_18_MIA_NYJ,2024,REG,18,2025-01-05,Sunday,13:00,MIA,,NYJ,,Home,,,,2025010511,59775,,202501050nyj,,401671833,6716,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Robert Saleh,,NYC01,MetLife Stadium
+2024_18_NYG_PHI,2024,REG,18,2025-01-05,Sunday,13:00,NYG,,PHI,,Home,,,,2025010512,59776,,202501050phi,,401671841,6717,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Brian Daboll,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_18_CIN_PIT,2024,REG,18,2025-01-05,Sunday,13:00,CIN,,PIT,,Home,,,,2025010513,59777,,202501050pit,,401671836,6718,7,11,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Mike Tomlin,,PIT00,Acrisure Stadium
+2024_18_NO_TB,2024,REG,18,2025-01-05,Sunday,13:00,NO,,TB,,Home,,,,2025010514,59778,,202501050tam,,401671828,6719,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Dennis Allen,Todd Bowles,,TAM00,Raymond James Stadium
+2024_18_HOU_TEN,2024,REG,18,2025-01-05,Sunday,13:00,HOU,,TEN,,Home,,,,2025010515,59779,,202501050oti,,401671826,6720,11,7,,,,,,,,,1,outdoors,grass,,,,,,,DeMeco Ryans,Brian Callahan,,NAS00,Nissan Stadium
