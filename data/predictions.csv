@@ -1,6 +1,6 @@
 game_id,screen_name,prediction
-2023_01_DET_KC, ,34
 2023_01_DET_KC, ,60
+2023_01_DET_KC, ,34
 2023_01_DET_KC,3_red_ducks ,70
 2023_01_DET_KC,Aaron Goodwin,85
 2023_01_DET_KC,Aaron Lindsey,72
@@ -195,7 +195,7 @@ game_id,screen_name,prediction
 2023_01_DET_KC,Gannon Traynor,58
 2023_01_DET_KC,Garrett Ariana,66
 2023_01_DET_KC,Gaurav Fernandes,55
-2023_01_DET_KC,George Kostal [Alumni],66
+2023_01_DET_KC,George Kostal,66
 2023_01_DET_KC,Gergely Therock,40
 2023_01_DET_KC,God Thanatos,70
 2023_01_DET_KC,Gord Niguma,55
@@ -252,8 +252,8 @@ game_id,screen_name,prediction
 2023_01_DET_KC,Jason DeLoach,50
 2023_01_DET_KC,Jason Hanrahan,77
 2023_01_DET_KC,Jason Huffman,56
-2023_01_DET_KC,Jason Lee,83
 2023_01_DET_KC,Jason Lee,64
+2023_01_DET_KC,Jason Lee,83
 2023_01_DET_KC,Jason Wassel,42
 2023_01_DET_KC,jason word,100
 2023_01_DET_KC,Jay Morrison,88
@@ -459,8 +459,8 @@ game_id,screen_name,prediction
 2023_01_DET_KC,robert camin,100
 2023_01_DET_KC,robert clark,50
 2023_01_DET_KC,Robert Greer,70
-2023_01_DET_KC,Robert Martin,55
 2023_01_DET_KC,robert martin,50
+2023_01_DET_KC,Robert Martin,55
 2023_01_DET_KC,Robert Reynolds,80
 2023_01_DET_KC,Robert Sasso,50
 2023_01_DET_KC,Roe Henson,84
@@ -797,7 +797,7 @@ game_id,screen_name,prediction
 2023_01_CAR_ATL,Gannon Traynor,67
 2023_01_CAR_ATL,Garrett Ariana,50
 2023_01_CAR_ATL,Gaurav Fernandes,75
-2023_01_CAR_ATL,George Kostal [Alumni],53
+2023_01_CAR_ATL,George Kostal,53
 2023_01_CAR_ATL,Georgio Benedetti,39
 2023_01_CAR_ATL,Gergely Therock,59
 2023_01_CAR_ATL,God Thanatos,65
@@ -1094,8 +1094,8 @@ game_id,screen_name,prediction
 2023_01_CAR_ATL,robert camin,79
 2023_01_CAR_ATL,robert clark,50
 2023_01_CAR_ATL,Robert Greer,63
-2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,robert martin,50
+2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,Robert Reynolds,50
 2023_01_CAR_ATL,Robert Sasso,50
 2023_01_CAR_ATL,Roe Henson,75
@@ -1445,7 +1445,7 @@ game_id,screen_name,prediction
 2023_01_HOU_BAL,Gannon Traynor,78
 2023_01_HOU_BAL,Garrett Ariana,50
 2023_01_HOU_BAL,Gaurav Fernandes,85
-2023_01_HOU_BAL,George Kostal [Alumni],79
+2023_01_HOU_BAL,George Kostal,79
 2023_01_HOU_BAL,Georgio Benedetti,50
 2023_01_HOU_BAL,Gergely Therock,87
 2023_01_HOU_BAL,God Thanatos,100
@@ -2093,7 +2093,7 @@ game_id,screen_name,prediction
 2023_01_CIN_CLE,Gannon Traynor,31
 2023_01_CIN_CLE,Garrett Ariana,50
 2023_01_CIN_CLE,Gaurav Fernandes,44
-2023_01_CIN_CLE,George Kostal [Alumni],39
+2023_01_CIN_CLE,George Kostal,39
 2023_01_CIN_CLE,Georgio Benedetti,50
 2023_01_CIN_CLE,Gergely Therock,28
 2023_01_CIN_CLE,God Thanatos,45
@@ -2181,8 +2181,8 @@ game_id,screen_name,prediction
 2023_01_CIN_CLE,Joel Hane,42
 2023_01_CIN_CLE,Joey Kunkle,45
 2023_01_CIN_CLE,John Akey,48
-2023_01_CIN_CLE,John Bray,50
 2023_01_CIN_CLE,John Bray,47
+2023_01_CIN_CLE,John Bray,50
 2023_01_CIN_CLE,John Christman,0
 2023_01_CIN_CLE,John Edwards,44
 2023_01_CIN_CLE,John Kostal,39
@@ -2390,8 +2390,8 @@ game_id,screen_name,prediction
 2023_01_CIN_CLE,robert camin,24
 2023_01_CIN_CLE,robert clark,50
 2023_01_CIN_CLE,Robert Greer,47
-2023_01_CIN_CLE,Robert Martin,55
 2023_01_CIN_CLE,robert martin,50
+2023_01_CIN_CLE,Robert Martin,55
 2023_01_CIN_CLE,Robert Reynolds,27
 2023_01_CIN_CLE,Robert Sasso,50
 2023_01_CIN_CLE,Roe Henson,16
@@ -2513,8 +2513,8 @@ game_id,screen_name,prediction
 2023_01_CIN_CLE,yahtzee ,50
 2023_01_CIN_CLE,Yannik Schlepper,24
 2023_01_CIN_CLE,Zac Rogers,40
-2023_01_CIN_CLE,Zach ,46
 2023_01_CIN_CLE,Zach ,43
+2023_01_CIN_CLE,Zach ,46
 2023_01_CIN_CLE,Zach Miller,0
 2023_01_CIN_CLE,Zach Nguyen,39
 2023_01_CIN_CLE,Zach P,55
@@ -2528,8 +2528,8 @@ game_id,screen_name,prediction
 2023_01_CIN_CLE,Zack Mulholland,40
 2023_01_CIN_CLE,Александр Кеменов,45
 2023_01_CIN_CLE,Андрей Маланцев,45
-2023_01_JAX_IND, ,50
 2023_01_JAX_IND, ,31
+2023_01_JAX_IND, ,50
 2023_01_JAX_IND,3_red_ducks ,20
 2023_01_JAX_IND,Aaron Goodwin,9
 2023_01_JAX_IND,Aaron Lindsey,34
@@ -2741,7 +2741,7 @@ game_id,screen_name,prediction
 2023_01_JAX_IND,Gannon Traynor,38
 2023_01_JAX_IND,Garrett Ariana,50
 2023_01_JAX_IND,Gaurav Fernandes,28
-2023_01_JAX_IND,George Kostal [Alumni],34
+2023_01_JAX_IND,George Kostal,34
 2023_01_JAX_IND,Georgio Benedetti,50
 2023_01_JAX_IND,Gergely Therock,46
 2023_01_JAX_IND,God Thanatos,100
@@ -3038,8 +3038,8 @@ game_id,screen_name,prediction
 2023_01_JAX_IND,robert camin,0
 2023_01_JAX_IND,robert clark,50
 2023_01_JAX_IND,Robert Greer,34
-2023_01_JAX_IND,Robert Martin,20
 2023_01_JAX_IND,robert martin,50
+2023_01_JAX_IND,Robert Martin,20
 2023_01_JAX_IND,Robert Reynolds,37
 2023_01_JAX_IND,Robert Sasso,50
 2023_01_JAX_IND,Roe Henson,38
@@ -3389,7 +3389,7 @@ game_id,screen_name,prediction
 2023_01_TB_MIN,Gannon Traynor,72
 2023_01_TB_MIN,Garrett Ariana,50
 2023_01_TB_MIN,Gaurav Fernandes,85
-2023_01_TB_MIN,George Kostal [Alumni],64
+2023_01_TB_MIN,George Kostal,64
 2023_01_TB_MIN,Georgio Benedetti,50
 2023_01_TB_MIN,Gergely Therock,79
 2023_01_TB_MIN,God Thanatos,100
@@ -3477,8 +3477,8 @@ game_id,screen_name,prediction
 2023_01_TB_MIN,Joel Hane,69
 2023_01_TB_MIN,Joey Kunkle,62
 2023_01_TB_MIN,John Akey,63
-2023_01_TB_MIN,John Bray,50
 2023_01_TB_MIN,John Bray,48
+2023_01_TB_MIN,John Bray,50
 2023_01_TB_MIN,John Christman,100
 2023_01_TB_MIN,John Edwards,70
 2023_01_TB_MIN,John Kostal,70
@@ -3809,8 +3809,8 @@ game_id,screen_name,prediction
 2023_01_TB_MIN,yahtzee ,50
 2023_01_TB_MIN,Yannik Schlepper,68
 2023_01_TB_MIN,Zac Rogers,60
-2023_01_TB_MIN,Zach ,69
 2023_01_TB_MIN,Zach ,68
+2023_01_TB_MIN,Zach ,69
 2023_01_TB_MIN,Zach Miller,70
 2023_01_TB_MIN,Zach Nguyen,65
 2023_01_TB_MIN,Zach P,70
@@ -4037,7 +4037,7 @@ game_id,screen_name,prediction
 2023_01_TEN_NO,Gannon Traynor,55
 2023_01_TEN_NO,Garrett Ariana,50
 2023_01_TEN_NO,Gaurav Fernandes,31
-2023_01_TEN_NO,George Kostal [Alumni],48
+2023_01_TEN_NO,George Kostal,48
 2023_01_TEN_NO,Georgio Benedetti,50
 2023_01_TEN_NO,Gergely Therock,63
 2023_01_TEN_NO,God Thanatos,80
@@ -4685,7 +4685,7 @@ game_id,screen_name,prediction
 2023_01_SF_PIT,Gannon Traynor,30
 2023_01_SF_PIT,Garrett Ariana,50
 2023_01_SF_PIT,Gaurav Fernandes,38
-2023_01_SF_PIT,George Kostal [Alumni],41
+2023_01_SF_PIT,George Kostal,41
 2023_01_SF_PIT,Georgio Benedetti,50
 2023_01_SF_PIT,Gergely Therock,0
 2023_01_SF_PIT,God Thanatos,45
@@ -5269,8 +5269,8 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,Dan Hindery,83
 2023_01_ARI_WAS,Dan Morse,95
 2023_01_ARI_WAS,Dan Skutt,89
-2023_01_ARI_WAS,Daniel ,100
 2023_01_ARI_WAS,Daniel ,80
+2023_01_ARI_WAS,Daniel ,100
 2023_01_ARI_WAS,Daniel Barkley,83
 2023_01_ARI_WAS,Daniel Dubicki,70
 2023_01_ARI_WAS,Daniel Houston,72
@@ -5333,7 +5333,7 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,Gannon Traynor,76
 2023_01_ARI_WAS,Garrett Ariana,50
 2023_01_ARI_WAS,Gaurav Fernandes,85
-2023_01_ARI_WAS,George Kostal [Alumni],64
+2023_01_ARI_WAS,George Kostal,64
 2023_01_ARI_WAS,Georgio Benedetti,50
 2023_01_ARI_WAS,Gergely Therock,69
 2023_01_ARI_WAS,God Thanatos,100
@@ -5753,8 +5753,8 @@ game_id,screen_name,prediction
 2023_01_ARI_WAS,yahtzee ,50
 2023_01_ARI_WAS,Yannik Schlepper,83
 2023_01_ARI_WAS,Zac Rogers,60
-2023_01_ARI_WAS,Zach ,90
 2023_01_ARI_WAS,Zach ,73
+2023_01_ARI_WAS,Zach ,90
 2023_01_ARI_WAS,Zach Miller,75
 2023_01_ARI_WAS,Zach Nguyen,74
 2023_01_ARI_WAS,Zach P,61
@@ -5981,7 +5981,7 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Gannon Traynor,58
 2023_01_GB_CHI,Garrett Ariana,50
 2023_01_GB_CHI,Gaurav Fernandes,38
-2023_01_GB_CHI,George Kostal [Alumni],49
+2023_01_GB_CHI,George Kostal,49
 2023_01_GB_CHI,Georgio Benedetti,50
 2023_01_GB_CHI,Gergely Therock,50
 2023_01_GB_CHI,God Thanatos,55
@@ -6044,8 +6044,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Jason DeLoach,50
 2023_01_GB_CHI,Jason Hanrahan,50
 2023_01_GB_CHI,Jason Huffman,30
-2023_01_GB_CHI,Jason Lee,50
 2023_01_GB_CHI,Jason Lee,62
+2023_01_GB_CHI,Jason Lee,50
 2023_01_GB_CHI,Jason Wassel,45
 2023_01_GB_CHI,jason word,50
 2023_01_GB_CHI,Jay Morrison,48
@@ -6069,8 +6069,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Joel Hane,58
 2023_01_GB_CHI,Joey Kunkle,44
 2023_01_GB_CHI,John Akey,54
-2023_01_GB_CHI,John Bray,52
 2023_01_GB_CHI,John Bray,50
+2023_01_GB_CHI,John Bray,52
 2023_01_GB_CHI,John Christman,50
 2023_01_GB_CHI,John Edwards,57
 2023_01_GB_CHI,John Kostal,39
@@ -6280,8 +6280,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,robert camin,18
 2023_01_GB_CHI,robert clark,50
 2023_01_GB_CHI,Robert Greer,44
-2023_01_GB_CHI,robert martin,50
 2023_01_GB_CHI,Robert Martin,40
+2023_01_GB_CHI,robert martin,50
 2023_01_GB_CHI,Robert Reynolds,50
 2023_01_GB_CHI,Robert Sasso,44
 2023_01_GB_CHI,Roe Henson,75
@@ -6403,8 +6403,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,yahtzee ,50
 2023_01_GB_CHI,Yannik Schlepper,40
 2023_01_GB_CHI,Zac Rogers,40
-2023_01_GB_CHI,Zach ,49
 2023_01_GB_CHI,Zach ,58
+2023_01_GB_CHI,Zach ,49
 2023_01_GB_CHI,Zach Miller,51
 2023_01_GB_CHI,Zach Nguyen,51
 2023_01_GB_CHI,Zach P,40
@@ -6418,8 +6418,8 @@ game_id,screen_name,prediction
 2023_01_GB_CHI,Zack Mulholland,52
 2023_01_GB_CHI,Александр Кеменов,53
 2023_01_GB_CHI,Андрей Маланцев,75
-2023_01_LV_DEN, ,50
 2023_01_LV_DEN, ,53
+2023_01_LV_DEN, ,50
 2023_01_LV_DEN,3_red_ducks ,63
 2023_01_LV_DEN,Aaron Goodwin,47
 2023_01_LV_DEN,Aaron Lindsey,58
@@ -6567,8 +6567,8 @@ game_id,screen_name,prediction
 2023_01_LV_DEN,Dan Hindery,47
 2023_01_LV_DEN,Dan Morse,54
 2023_01_LV_DEN,Dan Skutt,61
-2023_01_LV_DEN,Daniel ,62
 2023_01_LV_DEN,Daniel ,65
+2023_01_LV_DEN,Daniel ,62
 2023_01_LV_DEN,Daniel Barkley,62
 2023_01_LV_DEN,Daniel Dubicki,60
 2023_01_LV_DEN,Daniel Houston,58
@@ -6631,7 +6631,7 @@ game_id,screen_name,prediction
 2023_01_LV_DEN,Gannon Traynor,57
 2023_01_LV_DEN,Garrett Ariana,50
 2023_01_LV_DEN,Gaurav Fernandes,60
-2023_01_LV_DEN,George Kostal [Alumni],57
+2023_01_LV_DEN,George Kostal,57
 2023_01_LV_DEN,Georgio Benedetti,50
 2023_01_LV_DEN,Gergely Therock,56
 2023_01_LV_DEN,God Thanatos,40
@@ -7068,8 +7068,8 @@ game_id,screen_name,prediction
 2023_01_LV_DEN,Zack Mulholland,44
 2023_01_LV_DEN,Александр Кеменов,57
 2023_01_LV_DEN,Андрей Маланцев,44
-2023_01_MIA_LAC, ,50
 2023_01_MIA_LAC, ,66
+2023_01_MIA_LAC, ,50
 2023_01_MIA_LAC,3_red_ducks ,45
 2023_01_MIA_LAC,Aaron Goodwin,53
 2023_01_MIA_LAC,Aaron Lindsey,65
@@ -7281,7 +7281,7 @@ game_id,screen_name,prediction
 2023_01_MIA_LAC,Gannon Traynor,46
 2023_01_MIA_LAC,Garrett Ariana,50
 2023_01_MIA_LAC,Gaurav Fernandes,70
-2023_01_MIA_LAC,George Kostal [Alumni],56
+2023_01_MIA_LAC,George Kostal,56
 2023_01_MIA_LAC,Georgio Benedetti,50
 2023_01_MIA_LAC,Gergely Therock,36
 2023_01_MIA_LAC,God Thanatos,45
@@ -7867,8 +7867,8 @@ game_id,screen_name,prediction
 2023_01_PHI_NE,Dan Hindery,34
 2023_01_PHI_NE,Dan Morse,3
 2023_01_PHI_NE,Dan Skutt,43
-2023_01_PHI_NE,Daniel ,35
 2023_01_PHI_NE,Daniel ,30
+2023_01_PHI_NE,Daniel ,35
 2023_01_PHI_NE,Daniel Barkley,39
 2023_01_PHI_NE,Daniel Dubicki,33
 2023_01_PHI_NE,Daniel Houston,44
@@ -7931,7 +7931,7 @@ game_id,screen_name,prediction
 2023_01_PHI_NE,Gannon Traynor,15
 2023_01_PHI_NE,Garrett Ariana,50
 2023_01_PHI_NE,Gaurav Fernandes,20
-2023_01_PHI_NE,George Kostal [Alumni],35
+2023_01_PHI_NE,George Kostal,35
 2023_01_PHI_NE,Georgio Benedetti,50
 2023_01_PHI_NE,Gergely Therock,16
 2023_01_PHI_NE,God Thanatos,25
@@ -8230,8 +8230,8 @@ game_id,screen_name,prediction
 2023_01_PHI_NE,robert camin,0
 2023_01_PHI_NE,robert clark,50
 2023_01_PHI_NE,Robert Greer,42
-2023_01_PHI_NE,robert martin,50
 2023_01_PHI_NE,Robert Martin,25
+2023_01_PHI_NE,robert martin,50
 2023_01_PHI_NE,Robert Reynolds,48
 2023_01_PHI_NE,Robert Sasso,42
 2023_01_PHI_NE,Roe Henson,27
@@ -8581,7 +8581,7 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,Gannon Traynor,78
 2023_01_LA_SEA,Garrett Ariana,50
 2023_01_LA_SEA,Gaurav Fernandes,80
-2023_01_LA_SEA,George Kostal [Alumni],56
+2023_01_LA_SEA,George Kostal,56
 2023_01_LA_SEA,Georgio Benedetti,50
 2023_01_LA_SEA,Gergely Therock,64
 2023_01_LA_SEA,God Thanatos,75
@@ -8669,8 +8669,8 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,Joel Hane,72
 2023_01_LA_SEA,Joey Kunkle,84
 2023_01_LA_SEA,John Akey,65
-2023_01_LA_SEA,John Bray,50
 2023_01_LA_SEA,John Bray,65
+2023_01_LA_SEA,John Bray,50
 2023_01_LA_SEA,John Christman,74
 2023_01_LA_SEA,John Edwards,68
 2023_01_LA_SEA,John Kostal,67
@@ -8880,8 +8880,8 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,robert camin,100
 2023_01_LA_SEA,robert clark,50
 2023_01_LA_SEA,Robert Greer,60
-2023_01_LA_SEA,Robert Martin,60
 2023_01_LA_SEA,robert martin,50
+2023_01_LA_SEA,Robert Martin,60
 2023_01_LA_SEA,Robert Reynolds,56
 2023_01_LA_SEA,Robert Sasso,60
 2023_01_LA_SEA,Roe Henson,57
@@ -9003,8 +9003,8 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,yahtzee ,50
 2023_01_LA_SEA,Yannik Schlepper,61
 2023_01_LA_SEA,Zac Rogers,60
-2023_01_LA_SEA,Zach ,68
 2023_01_LA_SEA,Zach ,80
+2023_01_LA_SEA,Zach ,68
 2023_01_LA_SEA,Zach Miller,55
 2023_01_LA_SEA,Zach Nguyen,66
 2023_01_LA_SEA,Zach P,40
@@ -9018,8 +9018,8 @@ game_id,screen_name,prediction
 2023_01_LA_SEA,Zack Mulholland,57
 2023_01_LA_SEA,Александр Кеменов,62
 2023_01_LA_SEA,Андрей Маланцев,70
-2023_01_DAL_NYG, ,56
 2023_01_DAL_NYG, ,50
+2023_01_DAL_NYG, ,56
 2023_01_DAL_NYG,3_red_ducks ,46
 2023_01_DAL_NYG,Aaron Goodwin,42
 2023_01_DAL_NYG,Aaron Lindsey,35
@@ -9232,7 +9232,7 @@ game_id,screen_name,prediction
 2023_01_DAL_NYG,Gannon Traynor,34
 2023_01_DAL_NYG,Garrett Ariana,50
 2023_01_DAL_NYG,Gaurav Fernandes,57
-2023_01_DAL_NYG,George Kostal [Alumni],39
+2023_01_DAL_NYG,George Kostal,39
 2023_01_DAL_NYG,Georgio Benedetti,50
 2023_01_DAL_NYG,Gergely Therock,29
 2023_01_DAL_NYG,God Thanatos,40
@@ -9320,8 +9320,8 @@ game_id,screen_name,prediction
 2023_01_DAL_NYG,Joel Hane,37
 2023_01_DAL_NYG,Joey Kunkle,32
 2023_01_DAL_NYG,John Akey,41
-2023_01_DAL_NYG,John Bray,55
 2023_01_DAL_NYG,John Bray,49
+2023_01_DAL_NYG,John Bray,55
 2023_01_DAL_NYG,John Christman,3
 2023_01_DAL_NYG,John Edwards,38
 2023_01_DAL_NYG,John Kostal,35
@@ -9886,7 +9886,7 @@ game_id,screen_name,prediction
 2023_01_BUF_NYJ,Gannon Traynor,44
 2023_01_BUF_NYJ,Garrett Ariana,50
 2023_01_BUF_NYJ,Gaurav Fernandes,61
-2023_01_BUF_NYJ,George Kostal [Alumni],43
+2023_01_BUF_NYJ,George Kostal,43
 2023_01_BUF_NYJ,Georgio Benedetti,50
 2023_01_BUF_NYJ,Gergely Therock,45
 2023_01_BUF_NYJ,God Thanatos,47
@@ -10187,8 +10187,8 @@ game_id,screen_name,prediction
 2023_01_BUF_NYJ,robert camin,23
 2023_01_BUF_NYJ,robert clark,50
 2023_01_BUF_NYJ,Robert Greer,46
-2023_01_BUF_NYJ,Robert Martin,40
 2023_01_BUF_NYJ,robert martin,50
+2023_01_BUF_NYJ,Robert Martin,40
 2023_01_BUF_NYJ,Robert Reynolds,43
 2023_01_BUF_NYJ,Robert Sasso,46
 2023_01_BUF_NYJ,Roe Henson,75
@@ -10311,8 +10311,8 @@ game_id,screen_name,prediction
 2023_01_BUF_NYJ,yahtzee ,50
 2023_01_BUF_NYJ,Yannik Schlepper,34
 2023_01_BUF_NYJ,Zac Rogers,40
-2023_01_BUF_NYJ,Zach ,40
 2023_01_BUF_NYJ,Zach ,45
+2023_01_BUF_NYJ,Zach ,40
 2023_01_BUF_NYJ,Zach Miller,40
 2023_01_BUF_NYJ,Zach Nguyen,39
 2023_01_BUF_NYJ,Zach P,47
@@ -10476,7 +10476,7 @@ game_id,screen_name,prediction
 2023_02_MIN_PHI,G Freimund,73
 2023_02_MIN_PHI,Gannon Traynor,50
 2023_02_MIN_PHI,Gaurav Fernandes,50
-2023_02_MIN_PHI,George Kostal [Alumni],63
+2023_02_MIN_PHI,George Kostal,63
 2023_02_MIN_PHI,God Thanatos,100
 2023_02_MIN_PHI,Grant ,50
 2023_02_MIN_PHI,Greg ,64
@@ -10742,8 +10742,8 @@ game_id,screen_name,prediction
 2023_02_MIN_PHI,William kourkos,60
 2023_02_MIN_PHI,Yannik Schlepper,75
 2023_02_MIN_PHI,Zac Rogers,72
-2023_02_MIN_PHI,Zach ,71
 2023_02_MIN_PHI,Zach ,62
+2023_02_MIN_PHI,Zach ,71
 2023_02_MIN_PHI,Zach Nguyen,70
 2023_02_MIN_PHI,Zach P,61
 2023_02_MIN_PHI,Zachary Miley,76
@@ -10909,7 +10909,7 @@ game_id,screen_name,prediction
 2023_02_GB_ATL,G Freimund,45
 2023_02_GB_ATL,Gannon Traynor,50
 2023_02_GB_ATL,Gaurav Fernandes,38
-2023_02_GB_ATL,George Kostal [Alumni],49
+2023_02_GB_ATL,George Kostal,49
 2023_02_GB_ATL,God Thanatos,45
 2023_02_GB_ATL,Grant ,50
 2023_02_GB_ATL,Greg ,37
@@ -11212,8 +11212,8 @@ game_id,screen_name,prediction
 2023_02_GB_ATL,Александр Кеменов,46
 2023_02_GB_ATL,Андрей Маланцев,30
 2023_02_GB_ATL,謙吾 金杉,36
-2023_02_LV_BUF, ,50
 2023_02_LV_BUF, ,63
+2023_02_LV_BUF, ,50
 2023_02_LV_BUF,Aaron Goodwin,85
 2023_02_LV_BUF,Aaron Lindsey,75
 2023_02_LV_BUF,Aaron Nessel,90
@@ -11318,8 +11318,8 @@ game_id,screen_name,prediction
 2023_02_LV_BUF,Dan Haverkamp,50
 2023_02_LV_BUF,Dan Ramallo,71
 2023_02_LV_BUF,Dan Skutt,84
-2023_02_LV_BUF,Daniel ,80
 2023_02_LV_BUF,Daniel ,69
+2023_02_LV_BUF,Daniel ,80
 2023_02_LV_BUF,Daniel Barkley,63
 2023_02_LV_BUF,Daniel Dubicki,75
 2023_02_LV_BUF,Daniel Houston,72
@@ -11370,7 +11370,7 @@ game_id,screen_name,prediction
 2023_02_LV_BUF,G Freimund,98
 2023_02_LV_BUF,Gannon Traynor,50
 2023_02_LV_BUF,Gaurav Fernandes,68
-2023_02_LV_BUF,George Kostal [Alumni],67
+2023_02_LV_BUF,George Kostal,67
 2023_02_LV_BUF,God Thanatos,100
 2023_02_LV_BUF,Grant ,50
 2023_02_LV_BUF,Greg ,68
@@ -11831,7 +11831,7 @@ game_id,screen_name,prediction
 2023_02_BAL_CIN,G Freimund,64
 2023_02_BAL_CIN,Gannon Traynor,50
 2023_02_BAL_CIN,Gaurav Fernandes,63
-2023_02_BAL_CIN,George Kostal [Alumni],52
+2023_02_BAL_CIN,George Kostal,52
 2023_02_BAL_CIN,God Thanatos,70
 2023_02_BAL_CIN,Grant ,50
 2023_02_BAL_CIN,Greg ,56
@@ -11871,8 +11871,8 @@ game_id,screen_name,prediction
 2023_02_BAL_CIN,Jason Fitzgerald,45
 2023_02_BAL_CIN,Jason Hanrahan,58
 2023_02_BAL_CIN,Jason Huffman,46
-2023_02_BAL_CIN,Jason Lee,54
 2023_02_BAL_CIN,Jason Lee,44
+2023_02_BAL_CIN,Jason Lee,54
 2023_02_BAL_CIN,Jason Wassel,84
 2023_02_BAL_CIN,Jay Morrison,52
 2023_02_BAL_CIN,Jay Tek,72
@@ -12240,8 +12240,8 @@ game_id,screen_name,prediction
 2023_02_SEA_DET,Dan Haverkamp,50
 2023_02_SEA_DET,Dan Ramallo,75
 2023_02_SEA_DET,Dan Skutt,74
-2023_02_SEA_DET,Daniel ,60
 2023_02_SEA_DET,Daniel ,67
+2023_02_SEA_DET,Daniel ,60
 2023_02_SEA_DET,Daniel Barkley,54
 2023_02_SEA_DET,Daniel Dubicki,60
 2023_02_SEA_DET,Daniel Houston,63
@@ -12292,7 +12292,7 @@ game_id,screen_name,prediction
 2023_02_SEA_DET,G Freimund,50
 2023_02_SEA_DET,Gannon Traynor,50
 2023_02_SEA_DET,Gaurav Fernandes,63
-2023_02_SEA_DET,George Kostal [Alumni],68
+2023_02_SEA_DET,George Kostal,68
 2023_02_SEA_DET,God Thanatos,100
 2023_02_SEA_DET,Grant ,50
 2023_02_SEA_DET,Greg ,58
@@ -12332,8 +12332,8 @@ game_id,screen_name,prediction
 2023_02_SEA_DET,Jason Fitzgerald,64
 2023_02_SEA_DET,Jason Hanrahan,61
 2023_02_SEA_DET,Jason Huffman,70
-2023_02_SEA_DET,Jason Lee,66
 2023_02_SEA_DET,Jason Lee,71
+2023_02_SEA_DET,Jason Lee,66
 2023_02_SEA_DET,Jason Wassel,70
 2023_02_SEA_DET,Jay Morrison,55
 2023_02_SEA_DET,Jay Tek,71
@@ -12753,7 +12753,7 @@ game_id,screen_name,prediction
 2023_02_IND_HOU,G Freimund,34
 2023_02_IND_HOU,Gannon Traynor,50
 2023_02_IND_HOU,Gaurav Fernandes,58
-2023_02_IND_HOU,George Kostal [Alumni],49
+2023_02_IND_HOU,George Kostal,49
 2023_02_IND_HOU,God Thanatos,30
 2023_02_IND_HOU,Grant ,50
 2023_02_IND_HOU,Greg ,48
@@ -12793,8 +12793,8 @@ game_id,screen_name,prediction
 2023_02_IND_HOU,Jason Fitzgerald,47
 2023_02_IND_HOU,Jason Hanrahan,50
 2023_02_IND_HOU,Jason Huffman,50
-2023_02_IND_HOU,Jason Lee,40
 2023_02_IND_HOU,Jason Lee,49
+2023_02_IND_HOU,Jason Lee,40
 2023_02_IND_HOU,Jason Wassel,43
 2023_02_IND_HOU,Jay Morrison,46
 2023_02_IND_HOU,Jay Tek,63
@@ -13045,8 +13045,8 @@ game_id,screen_name,prediction
 2023_02_IND_HOU,William kourkos,53
 2023_02_IND_HOU,Yannik Schlepper,40
 2023_02_IND_HOU,Zac Rogers,60
-2023_02_IND_HOU,Zach ,53
 2023_02_IND_HOU,Zach ,42
+2023_02_IND_HOU,Zach ,53
 2023_02_IND_HOU,Zach Nguyen,51
 2023_02_IND_HOU,Zach P,50
 2023_02_IND_HOU,Zachary Miley,48
@@ -13162,8 +13162,8 @@ game_id,screen_name,prediction
 2023_02_KC_JAX,Dan Haverkamp,50
 2023_02_KC_JAX,Dan Ramallo,39
 2023_02_KC_JAX,Dan Skutt,50
-2023_02_KC_JAX,Daniel ,10
 2023_02_KC_JAX,Daniel ,42
+2023_02_KC_JAX,Daniel ,10
 2023_02_KC_JAX,Daniel Barkley,53
 2023_02_KC_JAX,Daniel Dubicki,55
 2023_02_KC_JAX,Daniel Houston,33
@@ -13214,7 +13214,7 @@ game_id,screen_name,prediction
 2023_02_KC_JAX,G Freimund,39
 2023_02_KC_JAX,Gannon Traynor,50
 2023_02_KC_JAX,Gaurav Fernandes,40
-2023_02_KC_JAX,George Kostal [Alumni],39
+2023_02_KC_JAX,George Kostal,39
 2023_02_KC_JAX,God Thanatos,28
 2023_02_KC_JAX,Grant ,50
 2023_02_KC_JAX,Greg ,46
@@ -13506,8 +13506,8 @@ game_id,screen_name,prediction
 2023_02_KC_JAX,William kourkos,30
 2023_02_KC_JAX,Yannik Schlepper,35
 2023_02_KC_JAX,Zac Rogers,40
-2023_02_KC_JAX,Zach ,60
 2023_02_KC_JAX,Zach ,41
+2023_02_KC_JAX,Zach ,60
 2023_02_KC_JAX,Zach Nguyen,40
 2023_02_KC_JAX,Zach P,70
 2023_02_KC_JAX,Zachary Miley,35
@@ -13517,8 +13517,8 @@ game_id,screen_name,prediction
 2023_02_KC_JAX,Александр Кеменов,43
 2023_02_KC_JAX,Андрей Маланцев,30
 2023_02_KC_JAX,謙吾 金杉,50
-2023_02_CHI_TB, ,57
 2023_02_CHI_TB, ,50
+2023_02_CHI_TB, ,57
 2023_02_CHI_TB,Aaron Goodwin,60
 2023_02_CHI_TB,Aaron Lindsey,58
 2023_02_CHI_TB,Aaron Nessel,65
@@ -13675,7 +13675,7 @@ game_id,screen_name,prediction
 2023_02_CHI_TB,G Freimund,43
 2023_02_CHI_TB,Gannon Traynor,50
 2023_02_CHI_TB,Gaurav Fernandes,63
-2023_02_CHI_TB,George Kostal [Alumni],55
+2023_02_CHI_TB,George Kostal,55
 2023_02_CHI_TB,God Thanatos,70
 2023_02_CHI_TB,Grant ,50
 2023_02_CHI_TB,Greg ,57
@@ -13715,8 +13715,8 @@ game_id,screen_name,prediction
 2023_02_CHI_TB,Jason Fitzgerald,47
 2023_02_CHI_TB,Jason Hanrahan,52
 2023_02_CHI_TB,Jason Huffman,46
-2023_02_CHI_TB,Jason Lee,39
 2023_02_CHI_TB,Jason Lee,52
+2023_02_CHI_TB,Jason Lee,39
 2023_02_CHI_TB,Jason Wassel,39
 2023_02_CHI_TB,Jay Morrison,66
 2023_02_CHI_TB,Jay Tek,56
@@ -13978,8 +13978,8 @@ game_id,screen_name,prediction
 2023_02_CHI_TB,Александр Кеменов,58
 2023_02_CHI_TB,Андрей Маланцев,75
 2023_02_CHI_TB,謙吾 金杉,50
-2023_02_LAC_TEN, ,39
 2023_02_LAC_TEN, ,50
+2023_02_LAC_TEN, ,39
 2023_02_LAC_TEN,Aaron Goodwin,39
 2023_02_LAC_TEN,Aaron Lindsey,43
 2023_02_LAC_TEN,Aaron Nessel,39
@@ -14136,7 +14136,7 @@ game_id,screen_name,prediction
 2023_02_LAC_TEN,G Freimund,33
 2023_02_LAC_TEN,Gannon Traynor,50
 2023_02_LAC_TEN,Gaurav Fernandes,40
-2023_02_LAC_TEN,George Kostal [Alumni],43
+2023_02_LAC_TEN,George Kostal,43
 2023_02_LAC_TEN,God Thanatos,26
 2023_02_LAC_TEN,Grant ,50
 2023_02_LAC_TEN,Greg ,31
@@ -14597,7 +14597,7 @@ game_id,screen_name,prediction
 2023_02_NYG_ARI,G Freimund,39
 2023_02_NYG_ARI,Gannon Traynor,50
 2023_02_NYG_ARI,Gaurav Fernandes,39
-2023_02_NYG_ARI,George Kostal [Alumni],48
+2023_02_NYG_ARI,George Kostal,48
 2023_02_NYG_ARI,God Thanatos,0
 2023_02_NYG_ARI,Grant ,50
 2023_02_NYG_ARI,Greg ,38
@@ -14637,8 +14637,8 @@ game_id,screen_name,prediction
 2023_02_NYG_ARI,Jason Fitzgerald,42
 2023_02_NYG_ARI,Jason Hanrahan,31
 2023_02_NYG_ARI,Jason Huffman,38
-2023_02_NYG_ARI,Jason Lee,17
 2023_02_NYG_ARI,Jason Lee,32
+2023_02_NYG_ARI,Jason Lee,17
 2023_02_NYG_ARI,Jason Wassel,40
 2023_02_NYG_ARI,Jay Morrison,0
 2023_02_NYG_ARI,Jay Tek,29
@@ -15059,7 +15059,7 @@ game_id,screen_name,prediction
 2023_02_SF_LA,G Freimund,0
 2023_02_SF_LA,Gannon Traynor,50
 2023_02_SF_LA,Gaurav Fernandes,36
-2023_02_SF_LA,George Kostal [Alumni],35
+2023_02_SF_LA,George Kostal,35
 2023_02_SF_LA,God Thanatos,0
 2023_02_SF_LA,Grant ,50
 2023_02_SF_LA,Greg ,32
@@ -15469,8 +15469,8 @@ game_id,screen_name,prediction
 2023_02_NYJ_DAL,Dan Haverkamp,50
 2023_02_NYJ_DAL,Dan Ramallo,88
 2023_02_NYJ_DAL,Dan Skutt,71
-2023_02_NYJ_DAL,Daniel ,90
 2023_02_NYJ_DAL,Daniel ,75
+2023_02_NYJ_DAL,Daniel ,90
 2023_02_NYJ_DAL,Daniel Barkley,89
 2023_02_NYJ_DAL,Daniel Dubicki,85
 2023_02_NYJ_DAL,Daniel Houston,80
@@ -15521,7 +15521,7 @@ game_id,screen_name,prediction
 2023_02_NYJ_DAL,G Freimund,100
 2023_02_NYJ_DAL,Gannon Traynor,50
 2023_02_NYJ_DAL,Gaurav Fernandes,77
-2023_02_NYJ_DAL,George Kostal [Alumni],77
+2023_02_NYJ_DAL,George Kostal,77
 2023_02_NYJ_DAL,God Thanatos,100
 2023_02_NYJ_DAL,Grant ,50
 2023_02_NYJ_DAL,Greg ,72
@@ -15561,8 +15561,8 @@ game_id,screen_name,prediction
 2023_02_NYJ_DAL,Jason Fitzgerald,75
 2023_02_NYJ_DAL,Jason Hanrahan,82
 2023_02_NYJ_DAL,Jason Huffman,70
-2023_02_NYJ_DAL,Jason Lee,74
 2023_02_NYJ_DAL,Jason Lee,86
+2023_02_NYJ_DAL,Jason Lee,74
 2023_02_NYJ_DAL,Jason Wassel,39
 2023_02_NYJ_DAL,Jay Morrison,100
 2023_02_NYJ_DAL,Jay Tek,70
@@ -15824,8 +15824,8 @@ game_id,screen_name,prediction
 2023_02_NYJ_DAL,Александр Кеменов,76
 2023_02_NYJ_DAL,Андрей Маланцев,75
 2023_02_NYJ_DAL,謙吾 金杉,50
-2023_02_WAS_DEN, ,50
 2023_02_WAS_DEN, ,40
+2023_02_WAS_DEN, ,50
 2023_02_WAS_DEN,Aaron Goodwin,58
 2023_02_WAS_DEN,Aaron Lindsey,61
 2023_02_WAS_DEN,Aaron Nessel,55
@@ -15984,7 +15984,7 @@ game_id,screen_name,prediction
 2023_02_WAS_DEN,G Freimund,84
 2023_02_WAS_DEN,Gannon Traynor,50
 2023_02_WAS_DEN,Gaurav Fernandes,65
-2023_02_WAS_DEN,George Kostal [Alumni],61
+2023_02_WAS_DEN,George Kostal,61
 2023_02_WAS_DEN,God Thanatos,79
 2023_02_WAS_DEN,Grant ,50
 2023_02_WAS_DEN,Greg ,59
@@ -16447,7 +16447,7 @@ game_id,screen_name,prediction
 2023_02_MIA_NE,G Freimund,25
 2023_02_MIA_NE,Gannon Traynor,50
 2023_02_MIA_NE,Gaurav Fernandes,60
-2023_02_MIA_NE,George Kostal [Alumni],48
+2023_02_MIA_NE,George Kostal,48
 2023_02_MIA_NE,God Thanatos,25
 2023_02_MIA_NE,Grant ,50
 2023_02_MIA_NE,Greg ,41
@@ -16487,8 +16487,8 @@ game_id,screen_name,prediction
 2023_02_MIA_NE,Jason Fitzgerald,38
 2023_02_MIA_NE,Jason Hanrahan,48
 2023_02_MIA_NE,Jason Huffman,40
-2023_02_MIA_NE,Jason Lee,34
 2023_02_MIA_NE,Jason Lee,41
+2023_02_MIA_NE,Jason Lee,34
 2023_02_MIA_NE,Jason Wassel,0
 2023_02_MIA_NE,Jay Morrison,52
 2023_02_MIA_NE,Jay Tek,37
@@ -16858,8 +16858,8 @@ game_id,screen_name,prediction
 2023_02_NO_CAR,Dan Haverkamp,50
 2023_02_NO_CAR,Dan Ramallo,30
 2023_02_NO_CAR,Dan Skutt,50
-2023_02_NO_CAR,Daniel ,25
 2023_02_NO_CAR,Daniel ,38
+2023_02_NO_CAR,Daniel ,25
 2023_02_NO_CAR,Daniel Barkley,36
 2023_02_NO_CAR,Daniel Dubicki,45
 2023_02_NO_CAR,Daniel Houston,41
@@ -16910,7 +16910,7 @@ game_id,screen_name,prediction
 2023_02_NO_CAR,G Freimund,29
 2023_02_NO_CAR,Gannon Traynor,50
 2023_02_NO_CAR,Gaurav Fernandes,35
-2023_02_NO_CAR,George Kostal [Alumni],46
+2023_02_NO_CAR,George Kostal,46
 2023_02_NO_CAR,God Thanatos,37
 2023_02_NO_CAR,Grant ,50
 2023_02_NO_CAR,Greg ,44
@@ -17215,8 +17215,8 @@ game_id,screen_name,prediction
 2023_02_NO_CAR,Александр Кеменов,43
 2023_02_NO_CAR,Андрей Маланцев,35
 2023_02_NO_CAR,謙吾 金杉,50
-2023_02_CLE_PIT, ,50
 2023_02_CLE_PIT, ,29
+2023_02_CLE_PIT, ,50
 2023_02_CLE_PIT,Aaron Goodwin,39
 2023_02_CLE_PIT,Aaron Lindsey,40
 2023_02_CLE_PIT,Aaron Nessel,45
@@ -17323,8 +17323,8 @@ game_id,screen_name,prediction
 2023_02_CLE_PIT,Dan Haverkamp,50
 2023_02_CLE_PIT,Dan Ramallo,27
 2023_02_CLE_PIT,Dan Skutt,41
-2023_02_CLE_PIT,Daniel ,49
 2023_02_CLE_PIT,Daniel ,25
+2023_02_CLE_PIT,Daniel ,49
 2023_02_CLE_PIT,Daniel Barkley,53
 2023_02_CLE_PIT,Daniel Dubicki,45
 2023_02_CLE_PIT,Daniel Houston,52
@@ -17375,7 +17375,7 @@ game_id,screen_name,prediction
 2023_02_CLE_PIT,G Freimund,34
 2023_02_CLE_PIT,Gannon Traynor,50
 2023_02_CLE_PIT,Gaurav Fernandes,34
-2023_02_CLE_PIT,George Kostal [Alumni],45
+2023_02_CLE_PIT,George Kostal,45
 2023_02_CLE_PIT,God Thanatos,46
 2023_02_CLE_PIT,Grant ,50
 2023_02_CLE_PIT,Greg ,43
@@ -18141,8 +18141,8 @@ game_id,screen_name,prediction
 2023_03_IND_BAL,Connor Oelschlager,50
 2023_03_IND_BAL,Craig Schallert,65
 2023_03_IND_BAL,Damian Hernández,100
-2023_03_IND_BAL,Daniel ,75
 2023_03_IND_BAL,Daniel ,98
+2023_03_IND_BAL,Daniel ,75
 2023_03_IND_BAL,Daniel Barkley,70
 2023_03_IND_BAL,Daniel Dubicki,50
 2023_03_IND_BAL,Daniel Houston,72
@@ -18187,7 +18187,7 @@ game_id,screen_name,prediction
 2023_03_IND_BAL,Fynn Starke,71
 2023_03_IND_BAL,G Freimund,100
 2023_03_IND_BAL,Gaurav Fernandes,59
-2023_03_IND_BAL,George Kostal [Alumni],69
+2023_03_IND_BAL,George Kostal,69
 2023_03_IND_BAL,God Thanatos,100
 2023_03_IND_BAL,Greg ,70
 2023_03_IND_BAL,Greg Kenyon,100
@@ -18602,7 +18602,7 @@ game_id,screen_name,prediction
 2023_03_TEN_CLE,Fynn Starke,36
 2023_03_TEN_CLE,G Freimund,77
 2023_03_TEN_CLE,Gaurav Fernandes,34
-2023_03_TEN_CLE,George Kostal [Alumni],47
+2023_03_TEN_CLE,George Kostal,47
 2023_03_TEN_CLE,God Thanatos,75
 2023_03_TEN_CLE,Greg ,56
 2023_03_TEN_CLE,Greg Kenyon,56
@@ -19017,7 +19017,7 @@ game_id,screen_name,prediction
 2023_03_ATL_DET,Fynn Starke,53
 2023_03_ATL_DET,G Freimund,65
 2023_03_ATL_DET,Gaurav Fernandes,65
-2023_03_ATL_DET,George Kostal [Alumni],59
+2023_03_ATL_DET,George Kostal,59
 2023_03_ATL_DET,God Thanatos,55
 2023_03_ATL_DET,Greg ,64
 2023_03_ATL_DET,Greg Kenyon,65
@@ -19209,8 +19209,8 @@ game_id,screen_name,prediction
 2023_03_ATL_DET,Ron Marmalefsky,55
 2023_03_ATL_DET,Rotem Dvir,61
 2023_03_ATL_DET,Rupert Barker,63
-2023_03_ATL_DET,Russell Miller,50
 2023_03_ATL_DET,Russell Miller,36
+2023_03_ATL_DET,Russell Miller,50
 2023_03_ATL_DET,Ryan Gibbs,55
 2023_03_ATL_DET,Ryan Harrison,50
 2023_03_ATL_DET,Ryan Kinsey,68
@@ -19432,7 +19432,7 @@ game_id,screen_name,prediction
 2023_03_NO_GB,Fynn Starke,55
 2023_03_NO_GB,G Freimund,62
 2023_03_NO_GB,Gaurav Fernandes,63
-2023_03_NO_GB,George Kostal [Alumni],49
+2023_03_NO_GB,George Kostal,49
 2023_03_NO_GB,God Thanatos,40
 2023_03_NO_GB,Greg ,57
 2023_03_NO_GB,Greg Kenyon,55
@@ -19847,7 +19847,7 @@ game_id,screen_name,prediction
 2023_03_HOU_JAX,Fynn Starke,74
 2023_03_HOU_JAX,G Freimund,100
 2023_03_HOU_JAX,Gaurav Fernandes,63
-2023_03_HOU_JAX,George Kostal [Alumni],68
+2023_03_HOU_JAX,George Kostal,68
 2023_03_HOU_JAX,God Thanatos,100
 2023_03_HOU_JAX,Greg ,71
 2023_03_HOU_JAX,Greg Kenyon,100
@@ -20122,8 +20122,8 @@ game_id,screen_name,prediction
 2023_03_HOU_JAX,Zack Vandiver,77
 2023_03_HOU_JAX,Александр Кеменов,73
 2023_03_HOU_JAX,Андрей Маланцев,70
-2023_03_DEN_MIA, ,50
 2023_03_DEN_MIA, ,60
+2023_03_DEN_MIA, ,50
 2023_03_DEN_MIA,Aaron Cross,50
 2023_03_DEN_MIA,Aaron Goodwin,87
 2023_03_DEN_MIA,Aaron Lindsey,75
@@ -20262,7 +20262,7 @@ game_id,screen_name,prediction
 2023_03_DEN_MIA,Fynn Starke,62
 2023_03_DEN_MIA,G Freimund,55
 2023_03_DEN_MIA,Gaurav Fernandes,65
-2023_03_DEN_MIA,George Kostal [Alumni],64
+2023_03_DEN_MIA,George Kostal,64
 2023_03_DEN_MIA,God Thanatos,100
 2023_03_DEN_MIA,Greg ,71
 2023_03_DEN_MIA,Greg Kenyon,100
@@ -20677,7 +20677,7 @@ game_id,screen_name,prediction
 2023_03_LAC_MIN,Fynn Starke,43
 2023_03_LAC_MIN,G Freimund,43
 2023_03_LAC_MIN,Gaurav Fernandes,35
-2023_03_LAC_MIN,George Kostal [Alumni],49
+2023_03_LAC_MIN,George Kostal,49
 2023_03_LAC_MIN,God Thanatos,35
 2023_03_LAC_MIN,Greg ,44
 2023_03_LAC_MIN,Greg Kenyon,61
@@ -21092,7 +21092,7 @@ game_id,screen_name,prediction
 2023_03_NE_NYJ,Fynn Starke,40
 2023_03_NE_NYJ,G Freimund,42
 2023_03_NE_NYJ,Gaurav Fernandes,36
-2023_03_NE_NYJ,George Kostal [Alumni],41
+2023_03_NE_NYJ,George Kostal,41
 2023_03_NE_NYJ,God Thanatos,30
 2023_03_NE_NYJ,Greg ,46
 2023_03_NE_NYJ,Greg Kenyon,45
@@ -21284,8 +21284,8 @@ game_id,screen_name,prediction
 2023_03_NE_NYJ,Ron Marmalefsky,52
 2023_03_NE_NYJ,Rotem Dvir,38
 2023_03_NE_NYJ,Rupert Barker,42
-2023_03_NE_NYJ,Russell Miller,42
 2023_03_NE_NYJ,Russell Miller,50
+2023_03_NE_NYJ,Russell Miller,42
 2023_03_NE_NYJ,Ryan Gibbs,42
 2023_03_NE_NYJ,Ryan Harrison,50
 2023_03_NE_NYJ,Ryan Kinsey,40
@@ -21507,7 +21507,7 @@ game_id,screen_name,prediction
 2023_03_BUF_WAS,Fynn Starke,30
 2023_03_BUF_WAS,G Freimund,0
 2023_03_BUF_WAS,Gaurav Fernandes,34
-2023_03_BUF_WAS,George Kostal [Alumni],33
+2023_03_BUF_WAS,George Kostal,33
 2023_03_BUF_WAS,God Thanatos,0
 2023_03_BUF_WAS,Greg ,36
 2023_03_BUF_WAS,Greg Kenyon,40
@@ -21545,8 +21545,8 @@ game_id,screen_name,prediction
 2023_03_BUF_WAS,Jason Coleman,50
 2023_03_BUF_WAS,Jason Hanrahan,30
 2023_03_BUF_WAS,Jason Huffman,32
-2023_03_BUF_WAS,Jason Lee,35
 2023_03_BUF_WAS,Jason Lee,30
+2023_03_BUF_WAS,Jason Lee,35
 2023_03_BUF_WAS,Jay Morrison,42
 2023_03_BUF_WAS,Jay Tek,50
 2023_03_BUF_WAS,Jaycen Sussman,15
@@ -21922,7 +21922,7 @@ game_id,screen_name,prediction
 2023_03_CAR_SEA,Fynn Starke,70
 2023_03_CAR_SEA,G Freimund,100
 2023_03_CAR_SEA,Gaurav Fernandes,67
-2023_03_CAR_SEA,George Kostal [Alumni],65
+2023_03_CAR_SEA,George Kostal,65
 2023_03_CAR_SEA,God Thanatos,60
 2023_03_CAR_SEA,Greg ,71
 2023_03_CAR_SEA,Greg Kenyon,71
@@ -22337,7 +22337,7 @@ game_id,screen_name,prediction
 2023_03_DAL_ARI,Fynn Starke,0
 2023_03_DAL_ARI,G Freimund,0
 2023_03_DAL_ARI,Gaurav Fernandes,0
-2023_03_DAL_ARI,George Kostal [Alumni],21
+2023_03_DAL_ARI,George Kostal,21
 2023_03_DAL_ARI,God Thanatos,0
 2023_03_DAL_ARI,Greg ,23
 2023_03_DAL_ARI,Greg Kenyon,0
@@ -22706,8 +22706,8 @@ game_id,screen_name,prediction
 2023_03_CHI_KC,Connor Oelschlager,100
 2023_03_CHI_KC,Craig Schallert,78
 2023_03_CHI_KC,Damian Hernández,100
-2023_03_CHI_KC,Daniel ,100
 2023_03_CHI_KC,Daniel ,90
+2023_03_CHI_KC,Daniel ,100
 2023_03_CHI_KC,Daniel Barkley,85
 2023_03_CHI_KC,Daniel Dubicki,50
 2023_03_CHI_KC,Daniel Houston,83
@@ -22752,7 +22752,7 @@ game_id,screen_name,prediction
 2023_03_CHI_KC,Fynn Starke,100
 2023_03_CHI_KC,G Freimund,100
 2023_03_CHI_KC,Gaurav Fernandes,100
-2023_03_CHI_KC,George Kostal [Alumni],80
+2023_03_CHI_KC,George Kostal,80
 2023_03_CHI_KC,God Thanatos,100
 2023_03_CHI_KC,Greg ,81
 2023_03_CHI_KC,Greg Kenyon,100
@@ -23167,7 +23167,7 @@ game_id,screen_name,prediction
 2023_03_PIT_LV,Fynn Starke,45
 2023_03_PIT_LV,G Freimund,50
 2023_03_PIT_LV,Gaurav Fernandes,64
-2023_03_PIT_LV,George Kostal [Alumni],54
+2023_03_PIT_LV,George Kostal,54
 2023_03_PIT_LV,God Thanatos,40
 2023_03_PIT_LV,Greg ,56
 2023_03_PIT_LV,Greg Kenyon,35
@@ -23585,7 +23585,7 @@ game_id,screen_name,prediction
 2023_03_PHI_TB,Fynn Starke,41
 2023_03_PHI_TB,G Freimund,0
 2023_03_PHI_TB,Gaurav Fernandes,0
-2023_03_PHI_TB,George Kostal [Alumni],38
+2023_03_PHI_TB,George Kostal,38
 2023_03_PHI_TB,God Thanatos,0
 2023_03_PHI_TB,Greg ,29
 2023_03_PHI_TB,Greg Kenyon,44
@@ -24005,7 +24005,7 @@ game_id,screen_name,prediction
 2023_03_LA_CIN,Fynn Starke,47
 2023_03_LA_CIN,G Freimund,50
 2023_03_LA_CIN,Gaurav Fernandes,36
-2023_03_LA_CIN,George Kostal [Alumni],52
+2023_03_LA_CIN,George Kostal,52
 2023_03_LA_CIN,God Thanatos,0
 2023_03_LA_CIN,Greg ,57
 2023_03_LA_CIN,Greg Kenyon,43
@@ -24762,7 +24762,7 @@ game_id,screen_name,prediction
 2023_04_ATL_JAX,Frank Arthurs,58
 2023_04_ATL_JAX,Fynn Starke,50
 2023_04_ATL_JAX,G Freimund,85
-2023_04_ATL_JAX,George Kostal [Alumni],58
+2023_04_ATL_JAX,George Kostal,58
 2023_04_ATL_JAX,God Thanatos,100
 2023_04_ATL_JAX,Greg ,59
 2023_04_ATL_JAX,Greg Kenyon,50
@@ -25143,7 +25143,7 @@ game_id,screen_name,prediction
 2023_04_MIA_BUF,Frank Arthurs,55
 2023_04_MIA_BUF,Fynn Starke,50
 2023_04_MIA_BUF,G Freimund,51
-2023_04_MIA_BUF,George Kostal [Alumni],52
+2023_04_MIA_BUF,George Kostal,52
 2023_04_MIA_BUF,God Thanatos,50
 2023_04_MIA_BUF,Greg ,46
 2023_04_MIA_BUF,Greg Kenyon,50
@@ -25526,7 +25526,7 @@ game_id,screen_name,prediction
 2023_04_MIN_CAR,Frank Arthurs,31
 2023_04_MIN_CAR,Fynn Starke,50
 2023_04_MIN_CAR,G Freimund,37
-2023_04_MIN_CAR,George Kostal [Alumni],35
+2023_04_MIN_CAR,George Kostal,35
 2023_04_MIN_CAR,God Thanatos,0
 2023_04_MIN_CAR,Greg ,39
 2023_04_MIN_CAR,Greg Kenyon,50
@@ -25909,7 +25909,7 @@ game_id,screen_name,prediction
 2023_04_DEN_CHI,Frank Arthurs,42
 2023_04_DEN_CHI,Fynn Starke,50
 2023_04_DEN_CHI,G Freimund,54
-2023_04_DEN_CHI,George Kostal [Alumni],45
+2023_04_DEN_CHI,George Kostal,45
 2023_04_DEN_CHI,God Thanatos,0
 2023_04_DEN_CHI,Greg ,44
 2023_04_DEN_CHI,Greg Kenyon,50
@@ -25948,8 +25948,8 @@ game_id,screen_name,prediction
 2023_04_DEN_CHI,Jason Fitzgerald,50
 2023_04_DEN_CHI,Jason Hanrahan,41
 2023_04_DEN_CHI,Jason Huffman,40
-2023_04_DEN_CHI,Jason Lee,58
 2023_04_DEN_CHI,Jason Lee,42
+2023_04_DEN_CHI,Jason Lee,58
 2023_04_DEN_CHI,Jay Morrison,48
 2023_04_DEN_CHI,Jaycen Sussman,45
 2023_04_DEN_CHI,Jean Dias,36
@@ -26292,7 +26292,7 @@ game_id,screen_name,prediction
 2023_04_BAL_CLE,Frank Arthurs,47
 2023_04_BAL_CLE,Fynn Starke,50
 2023_04_BAL_CLE,G Freimund,47
-2023_04_BAL_CLE,George Kostal [Alumni],49
+2023_04_BAL_CLE,George Kostal,49
 2023_04_BAL_CLE,God Thanatos,50
 2023_04_BAL_CLE,Greg ,54
 2023_04_BAL_CLE,Greg Kenyon,50
@@ -26331,8 +26331,8 @@ game_id,screen_name,prediction
 2023_04_BAL_CLE,Jason Fitzgerald,50
 2023_04_BAL_CLE,Jason Hanrahan,50
 2023_04_BAL_CLE,Jason Huffman,50
-2023_04_BAL_CLE,Jason Lee,38
 2023_04_BAL_CLE,Jason Lee,54
+2023_04_BAL_CLE,Jason Lee,38
 2023_04_BAL_CLE,Jay Morrison,65
 2023_04_BAL_CLE,Jaycen Sussman,55
 2023_04_BAL_CLE,Jean Dias,26
@@ -26675,7 +26675,7 @@ game_id,screen_name,prediction
 2023_04_PIT_HOU,Frank Arthurs,41
 2023_04_PIT_HOU,Fynn Starke,50
 2023_04_PIT_HOU,G Freimund,56
-2023_04_PIT_HOU,George Kostal [Alumni],45
+2023_04_PIT_HOU,George Kostal,45
 2023_04_PIT_HOU,God Thanatos,50
 2023_04_PIT_HOU,Greg ,56
 2023_04_PIT_HOU,Greg Kenyon,50
@@ -27059,7 +27059,7 @@ game_id,screen_name,prediction
 2023_04_LA_IND,Frank Arthurs,45
 2023_04_LA_IND,Fynn Starke,50
 2023_04_LA_IND,G Freimund,48
-2023_04_LA_IND,George Kostal [Alumni],48
+2023_04_LA_IND,George Kostal,48
 2023_04_LA_IND,God Thanatos,0
 2023_04_LA_IND,Greg ,47
 2023_04_LA_IND,Greg Kenyon,50
@@ -27442,7 +27442,7 @@ game_id,screen_name,prediction
 2023_04_TB_NO,Frank Arthurs,57
 2023_04_TB_NO,Fynn Starke,50
 2023_04_TB_NO,G Freimund,48
-2023_04_TB_NO,George Kostal [Alumni],46
+2023_04_TB_NO,George Kostal,46
 2023_04_TB_NO,God Thanatos,50
 2023_04_TB_NO,Greg ,58
 2023_04_TB_NO,Greg Kenyon,50
@@ -27481,8 +27481,8 @@ game_id,screen_name,prediction
 2023_04_TB_NO,Jason Fitzgerald,50
 2023_04_TB_NO,Jason Hanrahan,62
 2023_04_TB_NO,Jason Huffman,56
-2023_04_TB_NO,Jason Lee,65
 2023_04_TB_NO,Jason Lee,70
+2023_04_TB_NO,Jason Lee,65
 2023_04_TB_NO,Jay Morrison,65
 2023_04_TB_NO,Jaycen Sussman,54
 2023_04_TB_NO,Jean Dias,61
@@ -27826,7 +27826,7 @@ game_id,screen_name,prediction
 2023_04_WAS_PHI,Frank Arthurs,85
 2023_04_WAS_PHI,Fynn Starke,50
 2023_04_WAS_PHI,G Freimund,100
-2023_04_WAS_PHI,George Kostal [Alumni],70
+2023_04_WAS_PHI,George Kostal,70
 2023_04_WAS_PHI,God Thanatos,100
 2023_04_WAS_PHI,Greg ,72
 2023_04_WAS_PHI,Greg Kenyon,50
@@ -28170,8 +28170,8 @@ game_id,screen_name,prediction
 2023_04_CIN_TEN,Craig Schallert,36
 2023_04_CIN_TEN,Cristian F,50
 2023_04_CIN_TEN,Damian Hernández,17
-2023_04_CIN_TEN,Daniel ,32
 2023_04_CIN_TEN,Daniel ,43
+2023_04_CIN_TEN,Daniel ,32
 2023_04_CIN_TEN,Daniel Barkley,50
 2023_04_CIN_TEN,Daniel Houston,42
 2023_04_CIN_TEN,Daniel Kelly,50
@@ -28209,7 +28209,7 @@ game_id,screen_name,prediction
 2023_04_CIN_TEN,Frank Arthurs,37
 2023_04_CIN_TEN,Fynn Starke,50
 2023_04_CIN_TEN,G Freimund,39
-2023_04_CIN_TEN,George Kostal [Alumni],43
+2023_04_CIN_TEN,George Kostal,43
 2023_04_CIN_TEN,God Thanatos,0
 2023_04_CIN_TEN,Greg ,44
 2023_04_CIN_TEN,Greg Kenyon,50
@@ -28554,8 +28554,8 @@ game_id,screen_name,prediction
 2023_04_LV_LAC,Craig Schallert,63
 2023_04_LV_LAC,Cristian F,50
 2023_04_LV_LAC,Damian Hernández,83
-2023_04_LV_LAC,Daniel ,70
 2023_04_LV_LAC,Daniel ,90
+2023_04_LV_LAC,Daniel ,70
 2023_04_LV_LAC,Daniel Barkley,50
 2023_04_LV_LAC,Daniel Houston,72
 2023_04_LV_LAC,Daniel Kelly,73
@@ -28593,7 +28593,7 @@ game_id,screen_name,prediction
 2023_04_LV_LAC,Frank Arthurs,77
 2023_04_LV_LAC,Fynn Starke,50
 2023_04_LV_LAC,G Freimund,74
-2023_04_LV_LAC,George Kostal [Alumni],63
+2023_04_LV_LAC,George Kostal,63
 2023_04_LV_LAC,God Thanatos,100
 2023_04_LV_LAC,Greg ,63
 2023_04_LV_LAC,Greg Kenyon,100
@@ -28632,8 +28632,8 @@ game_id,screen_name,prediction
 2023_04_LV_LAC,Jason Fitzgerald,82
 2023_04_LV_LAC,Jason Hanrahan,73
 2023_04_LV_LAC,Jason Huffman,55
-2023_04_LV_LAC,Jason Lee,70
 2023_04_LV_LAC,Jason Lee,66
+2023_04_LV_LAC,Jason Lee,70
 2023_04_LV_LAC,Jay Morrison,100
 2023_04_LV_LAC,Jaycen Sussman,60
 2023_04_LV_LAC,Jean Dias,71
@@ -28938,8 +28938,8 @@ game_id,screen_name,prediction
 2023_04_NE_DAL,Craig Schallert,61
 2023_04_NE_DAL,Cristian F,50
 2023_04_NE_DAL,Damian Hernández,83
-2023_04_NE_DAL,Daniel ,70
 2023_04_NE_DAL,Daniel ,60
+2023_04_NE_DAL,Daniel ,70
 2023_04_NE_DAL,Daniel Barkley,50
 2023_04_NE_DAL,Daniel Houston,74
 2023_04_NE_DAL,Daniel Kelly,65
@@ -28977,7 +28977,7 @@ game_id,screen_name,prediction
 2023_04_NE_DAL,Frank Arthurs,77
 2023_04_NE_DAL,Fynn Starke,50
 2023_04_NE_DAL,G Freimund,58
-2023_04_NE_DAL,George Kostal [Alumni],62
+2023_04_NE_DAL,George Kostal,62
 2023_04_NE_DAL,God Thanatos,100
 2023_04_NE_DAL,Greg ,77
 2023_04_NE_DAL,Greg Kenyon,100
@@ -29016,8 +29016,8 @@ game_id,screen_name,prediction
 2023_04_NE_DAL,Jason Fitzgerald,64
 2023_04_NE_DAL,Jason Hanrahan,69
 2023_04_NE_DAL,Jason Huffman,50
-2023_04_NE_DAL,Jason Lee,75
 2023_04_NE_DAL,Jason Lee,66
+2023_04_NE_DAL,Jason Lee,75
 2023_04_NE_DAL,Jay Morrison,100
 2023_04_NE_DAL,Jaycen Sussman,47
 2023_04_NE_DAL,Jean Dias,64
@@ -29361,7 +29361,7 @@ game_id,screen_name,prediction
 2023_04_ARI_SF,Frank Arthurs,90
 2023_04_ARI_SF,Fynn Starke,50
 2023_04_ARI_SF,G Freimund,100
-2023_04_ARI_SF,George Kostal [Alumni],74
+2023_04_ARI_SF,George Kostal,74
 2023_04_ARI_SF,God Thanatos,100
 2023_04_ARI_SF,Greg ,100
 2023_04_ARI_SF,Greg Kenyon,100
@@ -29747,7 +29747,7 @@ game_id,screen_name,prediction
 2023_04_KC_NYJ,Frank Arthurs,10
 2023_04_KC_NYJ,Fynn Starke,50
 2023_04_KC_NYJ,G Freimund,0
-2023_04_KC_NYJ,George Kostal [Alumni],23
+2023_04_KC_NYJ,George Kostal,23
 2023_04_KC_NYJ,God Thanatos,0
 2023_04_KC_NYJ,Greg ,0
 2023_04_KC_NYJ,Greg Kenyon,0
@@ -30095,8 +30095,8 @@ game_id,screen_name,prediction
 2023_04_SEA_NYG,Craig Schallert,40
 2023_04_SEA_NYG,Cristian F,50
 2023_04_SEA_NYG,Damian Hernández,83
-2023_04_SEA_NYG,Daniel ,47
 2023_04_SEA_NYG,Daniel ,10
+2023_04_SEA_NYG,Daniel ,47
 2023_04_SEA_NYG,Daniel Barkley,50
 2023_04_SEA_NYG,Daniel Houston,35
 2023_04_SEA_NYG,Daniel Kelly,57
@@ -30135,7 +30135,7 @@ game_id,screen_name,prediction
 2023_04_SEA_NYG,Frank Arthurs,35
 2023_04_SEA_NYG,Fynn Starke,50
 2023_04_SEA_NYG,G Freimund,29
-2023_04_SEA_NYG,George Kostal [Alumni],46
+2023_04_SEA_NYG,George Kostal,46
 2023_04_SEA_NYG,God Thanatos,0
 2023_04_SEA_NYG,Greg ,44
 2023_04_SEA_NYG,Greg Kenyon,0
@@ -30517,7 +30517,7 @@ game_id,screen_name,prediction
 2023_05_CHI_WAS,Fede Fede,92
 2023_05_CHI_WAS,Frank Arthurs,69
 2023_05_CHI_WAS,G Freimund,60
-2023_05_CHI_WAS,George Kostal [Alumni],69
+2023_05_CHI_WAS,George Kostal,69
 2023_05_CHI_WAS,Good Picker,0
 2023_05_CHI_WAS,Great Picker,0
 2023_05_CHI_WAS,Greg ,50
@@ -30553,8 +30553,8 @@ game_id,screen_name,prediction
 2023_05_CHI_WAS,Jason Coleman,50
 2023_05_CHI_WAS,Jason Hanrahan,72
 2023_05_CHI_WAS,Jason Huffman,50
-2023_05_CHI_WAS,Jason Lee,44
 2023_05_CHI_WAS,Jason Lee,72
+2023_05_CHI_WAS,Jason Lee,44
 2023_05_CHI_WAS,Jay Morrison,100
 2023_05_CHI_WAS,Jaycen Sussman,49
 2023_05_CHI_WAS,Jean Dias,66
@@ -30858,8 +30858,8 @@ game_id,screen_name,prediction
 2023_05_JAX_BUF,Connor Oelschlager,75
 2023_05_JAX_BUF,Craig Schallert,64
 2023_05_JAX_BUF,Damian Hernández,83
-2023_05_JAX_BUF,Daniel ,67
 2023_05_JAX_BUF,Daniel ,85
+2023_05_JAX_BUF,Daniel ,67
 2023_05_JAX_BUF,Daniel Dubicki,50
 2023_05_JAX_BUF,Daniel Houston,65
 2023_05_JAX_BUF,Daniel Kelly,70
@@ -30896,7 +30896,7 @@ game_id,screen_name,prediction
 2023_05_JAX_BUF,Fede Fede,80
 2023_05_JAX_BUF,Frank Arthurs,68
 2023_05_JAX_BUF,G Freimund,100
-2023_05_JAX_BUF,George Kostal [Alumni],64
+2023_05_JAX_BUF,George Kostal,64
 2023_05_JAX_BUF,Good Picker,0
 2023_05_JAX_BUF,Great Picker,0
 2023_05_JAX_BUF,Greg ,71
@@ -31250,8 +31250,8 @@ game_id,screen_name,prediction
 2023_05_HOU_ATL,Connor Oelschlager,55
 2023_05_HOU_ATL,Craig Schallert,43
 2023_05_HOU_ATL,Damian Hernández,17
-2023_05_HOU_ATL,Daniel ,40
 2023_05_HOU_ATL,Daniel ,48
+2023_05_HOU_ATL,Daniel ,40
 2023_05_HOU_ATL,Daniel Dubicki,50
 2023_05_HOU_ATL,Daniel Houston,45
 2023_05_HOU_ATL,Daniel Kelly,42
@@ -31288,7 +31288,7 @@ game_id,screen_name,prediction
 2023_05_HOU_ATL,Fede Fede,47
 2023_05_HOU_ATL,Frank Arthurs,54
 2023_05_HOU_ATL,G Freimund,45
-2023_05_HOU_ATL,George Kostal [Alumni],55
+2023_05_HOU_ATL,George Kostal,55
 2023_05_HOU_ATL,Good Picker,0
 2023_05_HOU_ATL,Great Picker,100
 2023_05_HOU_ATL,Greg ,42
@@ -31642,8 +31642,8 @@ game_id,screen_name,prediction
 2023_05_CAR_DET,Connor Oelschlager,83
 2023_05_CAR_DET,Craig Schallert,72
 2023_05_CAR_DET,Damian Hernández,83
-2023_05_CAR_DET,Daniel ,73
 2023_05_CAR_DET,Daniel ,88
+2023_05_CAR_DET,Daniel ,73
 2023_05_CAR_DET,Daniel Dubicki,50
 2023_05_CAR_DET,Daniel Houston,77
 2023_05_CAR_DET,Daniel Kelly,59
@@ -31680,7 +31680,7 @@ game_id,screen_name,prediction
 2023_05_CAR_DET,Fede Fede,95
 2023_05_CAR_DET,Frank Arthurs,78
 2023_05_CAR_DET,G Freimund,59
-2023_05_CAR_DET,George Kostal [Alumni],75
+2023_05_CAR_DET,George Kostal,75
 2023_05_CAR_DET,Good Picker,0
 2023_05_CAR_DET,Great Picker,0
 2023_05_CAR_DET,Greg ,72
@@ -32072,7 +32072,7 @@ game_id,screen_name,prediction
 2023_05_TEN_IND,Fede Fede,52
 2023_05_TEN_IND,Frank Arthurs,47
 2023_05_TEN_IND,G Freimund,51
-2023_05_TEN_IND,George Kostal [Alumni],47
+2023_05_TEN_IND,George Kostal,47
 2023_05_TEN_IND,Good Picker,100
 2023_05_TEN_IND,Great Picker,0
 2023_05_TEN_IND,Greg ,53
@@ -32110,8 +32110,8 @@ game_id,screen_name,prediction
 2023_05_TEN_IND,Jason Coleman,50
 2023_05_TEN_IND,Jason Hanrahan,48
 2023_05_TEN_IND,Jason Huffman,55
-2023_05_TEN_IND,Jason Lee,38
 2023_05_TEN_IND,Jason Lee,47
+2023_05_TEN_IND,Jason Lee,38
 2023_05_TEN_IND,Jay Morrison,45
 2023_05_TEN_IND,Jaycen Sussman,45
 2023_05_TEN_IND,JC Basketball,65
@@ -32464,7 +32464,7 @@ game_id,screen_name,prediction
 2023_05_NYG_MIA,Fede Fede,100
 2023_05_NYG_MIA,Frank Arthurs,85
 2023_05_NYG_MIA,G Freimund,100
-2023_05_NYG_MIA,George Kostal [Alumni],76
+2023_05_NYG_MIA,George Kostal,76
 2023_05_NYG_MIA,Good Picker,0
 2023_05_NYG_MIA,Great Picker,0
 2023_05_NYG_MIA,Greg ,75
@@ -32502,8 +32502,8 @@ game_id,screen_name,prediction
 2023_05_NYG_MIA,Jason Coleman,50
 2023_05_NYG_MIA,Jason Hanrahan,90
 2023_05_NYG_MIA,Jason Huffman,100
-2023_05_NYG_MIA,Jason Lee,79
 2023_05_NYG_MIA,Jason Lee,82
+2023_05_NYG_MIA,Jason Lee,79
 2023_05_NYG_MIA,Jay Morrison,100
 2023_05_NYG_MIA,Jaycen Sussman,80
 2023_05_NYG_MIA,JC Basketball,50
@@ -32856,7 +32856,7 @@ game_id,screen_name,prediction
 2023_05_NO_NE,Fede Fede,52
 2023_05_NO_NE,Frank Arthurs,51
 2023_05_NO_NE,G Freimund,52
-2023_05_NO_NE,George Kostal [Alumni],52
+2023_05_NO_NE,George Kostal,52
 2023_05_NO_NE,Good Picker,0
 2023_05_NO_NE,Great Picker,0
 2023_05_NO_NE,Greg ,47
@@ -33248,7 +33248,7 @@ game_id,screen_name,prediction
 2023_05_BAL_PIT,Fede Fede,34
 2023_05_BAL_PIT,Frank Arthurs,35
 2023_05_BAL_PIT,G Freimund,0
-2023_05_BAL_PIT,George Kostal [Alumni],36
+2023_05_BAL_PIT,George Kostal,36
 2023_05_BAL_PIT,Good Picker,100
 2023_05_BAL_PIT,Great Picker,100
 2023_05_BAL_PIT,Greg ,31
@@ -33641,7 +33641,7 @@ game_id,screen_name,prediction
 2023_05_CIN_ARI,Fede Fede,37
 2023_05_CIN_ARI,Frank Arthurs,41
 2023_05_CIN_ARI,G Freimund,37
-2023_05_CIN_ARI,George Kostal [Alumni],43
+2023_05_CIN_ARI,George Kostal,43
 2023_05_CIN_ARI,Good Picker,100
 2023_05_CIN_ARI,Great Picker,100
 2023_05_CIN_ARI,Greg ,46
@@ -33679,8 +33679,8 @@ game_id,screen_name,prediction
 2023_05_CIN_ARI,Jason Coleman,50
 2023_05_CIN_ARI,Jason Hanrahan,43
 2023_05_CIN_ARI,Jason Huffman,55
-2023_05_CIN_ARI,Jason Lee,28
 2023_05_CIN_ARI,Jason Lee,44
+2023_05_CIN_ARI,Jason Lee,28
 2023_05_CIN_ARI,Jay Morrison,0
 2023_05_CIN_ARI,Jaycen Sussman,52
 2023_05_CIN_ARI,JC Basketball,40
@@ -34034,7 +34034,7 @@ game_id,screen_name,prediction
 2023_05_PHI_LA,Fede Fede,34
 2023_05_PHI_LA,Frank Arthurs,39
 2023_05_PHI_LA,G Freimund,0
-2023_05_PHI_LA,George Kostal [Alumni],40
+2023_05_PHI_LA,George Kostal,40
 2023_05_PHI_LA,Good Picker,100
 2023_05_PHI_LA,Great Picker,100
 2023_05_PHI_LA,Greg ,30
@@ -34427,7 +34427,7 @@ game_id,screen_name,prediction
 2023_05_NYJ_DEN,Fede Fede,56
 2023_05_NYJ_DEN,Frank Arthurs,53
 2023_05_NYJ_DEN,G Freimund,46
-2023_05_NYJ_DEN,George Kostal [Alumni],53
+2023_05_NYJ_DEN,George Kostal,53
 2023_05_NYJ_DEN,Good Picker,0
 2023_05_NYJ_DEN,Great Picker,0
 2023_05_NYJ_DEN,Greg ,47
@@ -34781,8 +34781,8 @@ game_id,screen_name,prediction
 2023_05_KC_MIN,Connor Oelschlager,10
 2023_05_KC_MIN,Craig Schallert,32
 2023_05_KC_MIN,Damian Hernández,17
-2023_05_KC_MIN,Daniel ,16
 2023_05_KC_MIN,Daniel ,35
+2023_05_KC_MIN,Daniel ,16
 2023_05_KC_MIN,Daniel Dubicki,50
 2023_05_KC_MIN,Daniel Houston,35
 2023_05_KC_MIN,Daniel Kelly,59
@@ -34820,7 +34820,7 @@ game_id,screen_name,prediction
 2023_05_KC_MIN,Fede Fede,28
 2023_05_KC_MIN,Frank Arthurs,40
 2023_05_KC_MIN,G Freimund,0
-2023_05_KC_MIN,George Kostal [Alumni],36
+2023_05_KC_MIN,George Kostal,36
 2023_05_KC_MIN,Good Picker,100
 2023_05_KC_MIN,Great Picker,100
 2023_05_KC_MIN,Greg ,37
@@ -35214,7 +35214,7 @@ game_id,screen_name,prediction
 2023_05_DAL_SF,Fede Fede,65
 2023_05_DAL_SF,Frank Arthurs,57
 2023_05_DAL_SF,G Freimund,54
-2023_05_DAL_SF,George Kostal [Alumni],51
+2023_05_DAL_SF,George Kostal,51
 2023_05_DAL_SF,Good Picker,0
 2023_05_DAL_SF,Great Picker,0
 2023_05_DAL_SF,Greg ,59
@@ -35252,8 +35252,8 @@ game_id,screen_name,prediction
 2023_05_DAL_SF,Jason Coleman,50
 2023_05_DAL_SF,Jason Hanrahan,56
 2023_05_DAL_SF,Jason Huffman,100
-2023_05_DAL_SF,Jason Lee,63
 2023_05_DAL_SF,Jason Lee,45
+2023_05_DAL_SF,Jason Lee,63
 2023_05_DAL_SF,Jay Morrison,100
 2023_05_DAL_SF,Jaycen Sussman,56
 2023_05_DAL_SF,JC Basketball,70
@@ -35608,7 +35608,7 @@ game_id,screen_name,prediction
 2023_05_GB_LV,Fede Fede,49
 2023_05_GB_LV,Frank Arthurs,48
 2023_05_GB_LV,G Freimund,28
-2023_05_GB_LV,George Kostal [Alumni],48
+2023_05_GB_LV,George Kostal,48
 2023_05_GB_LV,Good Picker,100
 2023_05_GB_LV,Great Picker,100
 2023_05_GB_LV,Greg ,44
@@ -38494,8 +38494,8 @@ game_id,screen_name,prediction
 2023_06_IND_JAX,Nicholas Brown,65
 2023_06_IND_JAX,nick jay,57
 2023_06_IND_JAX,Nick Wittkop,67
-2023_06_IND_JAX,Noah Blankespoor,50
 2023_06_IND_JAX,Noah Blankespoor,62
+2023_06_IND_JAX,Noah Blankespoor,50
 2023_06_IND_JAX,Noah Cacovski,58
 2023_06_IND_JAX,Ole Berg,58
 2023_06_IND_JAX,Otie Sullivan,58
@@ -38723,8 +38723,8 @@ game_id,screen_name,prediction
 2023_06_CAR_MIA,Jason Fitzgerald,100
 2023_06_CAR_MIA,Jason Hanrahan,89
 2023_06_CAR_MIA,Jason Huffman,96
-2023_06_CAR_MIA,Jason Lee,83
 2023_06_CAR_MIA,Jason Lee,86
+2023_06_CAR_MIA,Jason Lee,83
 2023_06_CAR_MIA,Jay Morrison,100
 2023_06_CAR_MIA,Jay Ragan III,50
 2023_06_CAR_MIA,Jaycen Sussman,66
@@ -40087,8 +40087,8 @@ game_id,screen_name,prediction
 2023_06_DET_TB,Jason Fitzgerald,45
 2023_06_DET_TB,Jason Hanrahan,38
 2023_06_DET_TB,Jason Huffman,30
-2023_06_DET_TB,Jason Lee,36
 2023_06_DET_TB,Jason Lee,30
+2023_06_DET_TB,Jason Lee,36
 2023_06_DET_TB,Jay Morrison,54
 2023_06_DET_TB,Jay Ragan III,50
 2023_06_DET_TB,Jaycen Sussman,52
@@ -40199,8 +40199,8 @@ game_id,screen_name,prediction
 2023_06_DET_TB,Nicholas Brown,44
 2023_06_DET_TB,nick jay,34
 2023_06_DET_TB,Nick Wittkop,55
-2023_06_DET_TB,Noah Blankespoor,35
 2023_06_DET_TB,Noah Blankespoor,50
+2023_06_DET_TB,Noah Blankespoor,35
 2023_06_DET_TB,Noah Cacovski,35
 2023_06_DET_TB,Ole Berg,56
 2023_06_DET_TB,Otie Sullivan,41
@@ -40540,8 +40540,8 @@ game_id,screen_name,prediction
 2023_06_NYG_BUF,Nicholas Brown,88
 2023_06_NYG_BUF,nick jay,89
 2023_06_NYG_BUF,Nick Wittkop,90
-2023_06_NYG_BUF,Noah Blankespoor,75
 2023_06_NYG_BUF,Noah Blankespoor,50
+2023_06_NYG_BUF,Noah Blankespoor,75
 2023_06_NYG_BUF,Noah Cacovski,91
 2023_06_NYG_BUF,Noah Epstein,50
 2023_06_NYG_BUF,Ole Berg,81
@@ -41382,7 +41382,7 @@ game_id,screen_name,prediction
 2023_07_DET_BAL,Faraz Farnia,40
 2023_07_DET_BAL,Fede Fede,53
 2023_07_DET_BAL,Frank Arthurs,45
-2023_07_DET_BAL,George Kostal [Alumni],52
+2023_07_DET_BAL,George Kostal,52
 2023_07_DET_BAL,God Thanatos,50
 2023_07_DET_BAL,Greg ,56
 2023_07_DET_BAL,Greg Kenyon,34
@@ -41710,7 +41710,7 @@ game_id,screen_name,prediction
 2023_07_LV_CHI,Faraz Farnia,55
 2023_07_LV_CHI,Fede Fede,41
 2023_07_LV_CHI,Frank Arthurs,44
-2023_07_LV_CHI,George Kostal [Alumni],46
+2023_07_LV_CHI,George Kostal,46
 2023_07_LV_CHI,God Thanatos,35
 2023_07_LV_CHI,Greg ,44
 2023_07_LV_CHI,Greg Kenyon,28
@@ -42038,7 +42038,7 @@ game_id,screen_name,prediction
 2023_07_CLE_IND,Faraz Farnia,20
 2023_07_CLE_IND,Fede Fede,38
 2023_07_CLE_IND,Frank Arthurs,35
-2023_07_CLE_IND,George Kostal [Alumni],41
+2023_07_CLE_IND,George Kostal,41
 2023_07_CLE_IND,God Thanatos,0
 2023_07_CLE_IND,Greg ,43
 2023_07_CLE_IND,Greg Kenyon,53
@@ -42366,7 +42366,7 @@ game_id,screen_name,prediction
 2023_07_BUF_NE,Faraz Farnia,0
 2023_07_BUF_NE,Fede Fede,18
 2023_07_BUF_NE,Frank Arthurs,26
-2023_07_BUF_NE,George Kostal [Alumni],29
+2023_07_BUF_NE,George Kostal,29
 2023_07_BUF_NE,God Thanatos,50
 2023_07_BUF_NE,Greg ,21
 2023_07_BUF_NE,Greg Kenyon,0
@@ -42694,7 +42694,7 @@ game_id,screen_name,prediction
 2023_07_WAS_NYG,Faraz Farnia,59
 2023_07_WAS_NYG,Fede Fede,38
 2023_07_WAS_NYG,Frank Arthurs,43
-2023_07_WAS_NYG,George Kostal [Alumni],42
+2023_07_WAS_NYG,George Kostal,42
 2023_07_WAS_NYG,God Thanatos,0
 2023_07_WAS_NYG,Greg ,47
 2023_07_WAS_NYG,Greg Kenyon,30
@@ -43022,7 +43022,7 @@ game_id,screen_name,prediction
 2023_07_ATL_TB,Faraz Farnia,63
 2023_07_ATL_TB,Fede Fede,55
 2023_07_ATL_TB,Frank Arthurs,58
-2023_07_ATL_TB,George Kostal [Alumni],58
+2023_07_ATL_TB,George Kostal,58
 2023_07_ATL_TB,God Thanatos,100
 2023_07_ATL_TB,Greg ,56
 2023_07_ATL_TB,Greg Kenyon,50
@@ -43351,7 +43351,7 @@ game_id,screen_name,prediction
 2023_07_PIT_LA,Faraz Farnia,60
 2023_07_PIT_LA,Fede Fede,63
 2023_07_PIT_LA,Frank Arthurs,63
-2023_07_PIT_LA,George Kostal [Alumni],62
+2023_07_PIT_LA,George Kostal,62
 2023_07_PIT_LA,God Thanatos,100
 2023_07_PIT_LA,Greg ,63
 2023_07_PIT_LA,Greg Kenyon,67
@@ -43681,7 +43681,7 @@ game_id,screen_name,prediction
 2023_07_ARI_SEA,Faraz Farnia,89
 2023_07_ARI_SEA,Fede Fede,88
 2023_07_ARI_SEA,Frank Arthurs,78
-2023_07_ARI_SEA,George Kostal [Alumni],77
+2023_07_ARI_SEA,George Kostal,77
 2023_07_ARI_SEA,God Thanatos,100
 2023_07_ARI_SEA,Greg ,69
 2023_07_ARI_SEA,Greg Kenyon,76
@@ -44011,7 +44011,7 @@ game_id,screen_name,prediction
 2023_07_GB_DEN,Faraz Farnia,31
 2023_07_GB_DEN,Fede Fede,48
 2023_07_GB_DEN,Frank Arthurs,53
-2023_07_GB_DEN,George Kostal [Alumni],49
+2023_07_GB_DEN,George Kostal,49
 2023_07_GB_DEN,God Thanatos,50
 2023_07_GB_DEN,Greg ,47
 2023_07_GB_DEN,Greg Kenyon,44
@@ -44342,7 +44342,7 @@ game_id,screen_name,prediction
 2023_07_LAC_KC,Faraz Farnia,47
 2023_07_LAC_KC,Fede Fede,71
 2023_07_LAC_KC,Frank Arthurs,68
-2023_07_LAC_KC,George Kostal [Alumni],67
+2023_07_LAC_KC,George Kostal,67
 2023_07_LAC_KC,God Thanatos,60
 2023_07_LAC_KC,Greg ,65
 2023_07_LAC_KC,Greg Kenyon,70
@@ -44674,7 +44674,7 @@ game_id,screen_name,prediction
 2023_07_MIA_PHI,Faraz Farnia,58
 2023_07_MIA_PHI,Fede Fede,54
 2023_07_MIA_PHI,Frank Arthurs,55
-2023_07_MIA_PHI,George Kostal [Alumni],48
+2023_07_MIA_PHI,George Kostal,48
 2023_07_MIA_PHI,God Thanatos,50
 2023_07_MIA_PHI,Greg ,52
 2023_07_MIA_PHI,Greg Kenyon,0
@@ -45008,7 +45008,7 @@ game_id,screen_name,prediction
 2023_07_SF_MIN,Faraz Farnia,0
 2023_07_SF_MIN,Fede Fede,11
 2023_07_SF_MIN,Frank Arthurs,20
-2023_07_SF_MIN,George Kostal [Alumni],27
+2023_07_SF_MIN,George Kostal,27
 2023_07_SF_MIN,God Thanatos,0
 2023_07_SF_MIN,Greg ,31
 2023_07_SF_MIN,Greg Kenyon,0
@@ -45339,7 +45339,7 @@ game_id,screen_name,prediction
 2023_08_TB_BUF,Faraz Farnia,84
 2023_08_TB_BUF,Fede Fede,87
 2023_08_TB_BUF,Frank Arthurs,78
-2023_08_TB_BUF,George Kostal [Alumni],65
+2023_08_TB_BUF,George Kostal,65
 2023_08_TB_BUF,God Thanatos,100
 2023_08_TB_BUF,Good Picker,0
 2023_08_TB_BUF,Great Picker,0
@@ -45650,7 +45650,7 @@ game_id,screen_name,prediction
 2023_08_HOU_CAR,Faraz Farnia,37
 2023_08_HOU_CAR,Fede Fede,40
 2023_08_HOU_CAR,Frank Arthurs,42
-2023_08_HOU_CAR,George Kostal [Alumni],45
+2023_08_HOU_CAR,George Kostal,45
 2023_08_HOU_CAR,God Thanatos,0
 2023_08_HOU_CAR,Good Picker,100
 2023_08_HOU_CAR,Great Picker,100
@@ -45976,7 +45976,7 @@ game_id,screen_name,prediction
 2023_08_LA_DAL,Faraz Farnia,82
 2023_08_LA_DAL,Fede Fede,77
 2023_08_LA_DAL,Frank Arthurs,72
-2023_08_LA_DAL,George Kostal [Alumni],65
+2023_08_LA_DAL,George Kostal,65
 2023_08_LA_DAL,God Thanatos,100
 2023_08_LA_DAL,Good Picker,0
 2023_08_LA_DAL,Great Picker,0
@@ -46005,8 +46005,8 @@ game_id,screen_name,prediction
 2023_08_LA_DAL,Jason Fitzgerald,69
 2023_08_LA_DAL,Jason Hanrahan,71
 2023_08_LA_DAL,Jason Huffman,58
-2023_08_LA_DAL,Jason Lee,76
 2023_08_LA_DAL,Jason Lee,65
+2023_08_LA_DAL,Jason Lee,76
 2023_08_LA_DAL,Jay Morrison,100
 2023_08_LA_DAL,Jean Dias,58
 2023_08_LA_DAL,Jeff Dauphinais,71
@@ -46302,7 +46302,7 @@ game_id,screen_name,prediction
 2023_08_MIN_GB,Faraz Farnia,34
 2023_08_MIN_GB,Fede Fede,47
 2023_08_MIN_GB,Frank Arthurs,49
-2023_08_MIN_GB,George Kostal [Alumni],49
+2023_08_MIN_GB,George Kostal,49
 2023_08_MIN_GB,God Thanatos,50
 2023_08_MIN_GB,Good Picker,100
 2023_08_MIN_GB,Great Picker,100
@@ -46628,7 +46628,7 @@ game_id,screen_name,prediction
 2023_08_NO_IND,Faraz Farnia,4
 2023_08_NO_IND,Fede Fede,51
 2023_08_NO_IND,Frank Arthurs,47
-2023_08_NO_IND,George Kostal [Alumni],49
+2023_08_NO_IND,George Kostal,49
 2023_08_NO_IND,God Thanatos,50
 2023_08_NO_IND,Good Picker,0
 2023_08_NO_IND,Great Picker,100
@@ -46954,7 +46954,7 @@ game_id,screen_name,prediction
 2023_08_NE_MIA,Faraz Farnia,100
 2023_08_NE_MIA,Fede Fede,91
 2023_08_NE_MIA,Frank Arthurs,75
-2023_08_NE_MIA,George Kostal [Alumni],66
+2023_08_NE_MIA,George Kostal,66
 2023_08_NE_MIA,God Thanatos,100
 2023_08_NE_MIA,Good Picker,0
 2023_08_NE_MIA,Great Picker,0
@@ -47248,8 +47248,8 @@ game_id,screen_name,prediction
 2023_08_NYJ_NYG,Connor McCormack,35
 2023_08_NYJ_NYG,Craig Schallert,42
 2023_08_NYJ_NYG,Damian Hernández,50
-2023_08_NYJ_NYG,Daniel ,43
 2023_08_NYJ_NYG,Daniel ,45
+2023_08_NYJ_NYG,Daniel ,43
 2023_08_NYJ_NYG,Daniel Houston,49
 2023_08_NYJ_NYG,Daniel Kelly,39
 2023_08_NYJ_NYG,Daniel L,37
@@ -47281,7 +47281,7 @@ game_id,screen_name,prediction
 2023_08_NYJ_NYG,Faraz Farnia,38
 2023_08_NYJ_NYG,Fede Fede,41
 2023_08_NYJ_NYG,Frank Arthurs,41
-2023_08_NYJ_NYG,George Kostal [Alumni],49
+2023_08_NYJ_NYG,George Kostal,49
 2023_08_NYJ_NYG,God Thanatos,0
 2023_08_NYJ_NYG,Good Picker,100
 2023_08_NYJ_NYG,Great Picker,100
@@ -47580,8 +47580,8 @@ game_id,screen_name,prediction
 2023_08_JAX_PIT,Daniel Kelly,42
 2023_08_JAX_PIT,Daniel L,45
 2023_08_JAX_PIT,Daniel Nebenführ,42
-2023_08_JAX_PIT,Daniel Putman,46
 2023_08_JAX_PIT,Daniel Putman,50
+2023_08_JAX_PIT,Daniel Putman,46
 2023_08_JAX_PIT,Daniel Waldman,50
 2023_08_JAX_PIT,Darren Knowles,38
 2023_08_JAX_PIT,David Howman,47
@@ -47607,7 +47607,7 @@ game_id,screen_name,prediction
 2023_08_JAX_PIT,Faraz Farnia,29
 2023_08_JAX_PIT,Fede Fede,49
 2023_08_JAX_PIT,Frank Arthurs,46
-2023_08_JAX_PIT,George Kostal [Alumni],42
+2023_08_JAX_PIT,George Kostal,42
 2023_08_JAX_PIT,God Thanatos,0
 2023_08_JAX_PIT,Good Picker,100
 2023_08_JAX_PIT,Great Picker,100
@@ -47933,7 +47933,7 @@ game_id,screen_name,prediction
 2023_08_ATL_TEN,Faraz Farnia,40
 2023_08_ATL_TEN,Fede Fede,52
 2023_08_ATL_TEN,Frank Arthurs,46
-2023_08_ATL_TEN,George Kostal [Alumni],53
+2023_08_ATL_TEN,George Kostal,53
 2023_08_ATL_TEN,God Thanatos,50
 2023_08_ATL_TEN,Good Picker,100
 2023_08_ATL_TEN,Great Picker,100
@@ -48232,8 +48232,8 @@ game_id,screen_name,prediction
 2023_08_PHI_WAS,Daniel Kelly,32
 2023_08_PHI_WAS,Daniel L,26
 2023_08_PHI_WAS,Daniel Nebenführ,22
-2023_08_PHI_WAS,Daniel Putman,28
 2023_08_PHI_WAS,Daniel Putman,50
+2023_08_PHI_WAS,Daniel Putman,28
 2023_08_PHI_WAS,Daniel Waldman,50
 2023_08_PHI_WAS,Darren Knowles,23
 2023_08_PHI_WAS,David Howman,40
@@ -48259,7 +48259,7 @@ game_id,screen_name,prediction
 2023_08_PHI_WAS,Faraz Farnia,0
 2023_08_PHI_WAS,Fede Fede,27
 2023_08_PHI_WAS,Frank Arthurs,29
-2023_08_PHI_WAS,George Kostal [Alumni],35
+2023_08_PHI_WAS,George Kostal,35
 2023_08_PHI_WAS,God Thanatos,0
 2023_08_PHI_WAS,Good Picker,100
 2023_08_PHI_WAS,Great Picker,100
@@ -48288,8 +48288,8 @@ game_id,screen_name,prediction
 2023_08_PHI_WAS,Jason Fitzgerald,19
 2023_08_PHI_WAS,Jason Hanrahan,22
 2023_08_PHI_WAS,Jason Huffman,30
-2023_08_PHI_WAS,Jason Lee,32
 2023_08_PHI_WAS,Jason Lee,28
+2023_08_PHI_WAS,Jason Lee,32
 2023_08_PHI_WAS,Jay Morrison,0
 2023_08_PHI_WAS,Jean Dias,31
 2023_08_PHI_WAS,Jeff Dauphinais,35
@@ -48586,7 +48586,7 @@ game_id,screen_name,prediction
 2023_08_CLE_SEA,Faraz Farnia,68
 2023_08_CLE_SEA,Fede Fede,55
 2023_08_CLE_SEA,Frank Arthurs,62
-2023_08_CLE_SEA,George Kostal [Alumni],55
+2023_08_CLE_SEA,George Kostal,55
 2023_08_CLE_SEA,God Thanatos,57
 2023_08_CLE_SEA,Good Picker,0
 2023_08_CLE_SEA,Great Picker,100
@@ -48913,7 +48913,7 @@ game_id,screen_name,prediction
 2023_08_BAL_ARI,Faraz Farnia,29
 2023_08_BAL_ARI,Fede Fede,8
 2023_08_BAL_ARI,Frank Arthurs,21
-2023_08_BAL_ARI,George Kostal [Alumni],26
+2023_08_BAL_ARI,George Kostal,26
 2023_08_BAL_ARI,God Thanatos,0
 2023_08_BAL_ARI,Good Picker,100
 2023_08_BAL_ARI,Great Picker,100
@@ -49240,7 +49240,7 @@ game_id,screen_name,prediction
 2023_08_KC_DEN,Faraz Farnia,0
 2023_08_KC_DEN,Fede Fede,9
 2023_08_KC_DEN,Frank Arthurs,29
-2023_08_KC_DEN,George Kostal [Alumni],27
+2023_08_KC_DEN,George Kostal,27
 2023_08_KC_DEN,God Thanatos,2
 2023_08_KC_DEN,Good Picker,100
 2023_08_KC_DEN,Great Picker,100
@@ -49534,14 +49534,14 @@ game_id,screen_name,prediction
 2023_08_CIN_SF,Connor McCormack,72
 2023_08_CIN_SF,Craig Schallert,53
 2023_08_CIN_SF,Damian Hernández,50
-2023_08_CIN_SF,Daniel ,62
 2023_08_CIN_SF,Daniel ,65
+2023_08_CIN_SF,Daniel ,62
 2023_08_CIN_SF,Daniel Houston,63
 2023_08_CIN_SF,Daniel Kelly,62
 2023_08_CIN_SF,Daniel L,66
 2023_08_CIN_SF,Daniel Nebenführ,60
-2023_08_CIN_SF,Daniel Putman,70
 2023_08_CIN_SF,Daniel Putman,50
+2023_08_CIN_SF,Daniel Putman,70
 2023_08_CIN_SF,Daniel Waldman,50
 2023_08_CIN_SF,Darren Knowles,71
 2023_08_CIN_SF,David Howman,45
@@ -49567,7 +49567,7 @@ game_id,screen_name,prediction
 2023_08_CIN_SF,Faraz Farnia,53
 2023_08_CIN_SF,Fede Fede,63
 2023_08_CIN_SF,Frank Arthurs,63
-2023_08_CIN_SF,George Kostal [Alumni],58
+2023_08_CIN_SF,George Kostal,58
 2023_08_CIN_SF,God Thanatos,35
 2023_08_CIN_SF,Good Picker,0
 2023_08_CIN_SF,Great Picker,0
@@ -49596,8 +49596,8 @@ game_id,screen_name,prediction
 2023_08_CIN_SF,Jason Fitzgerald,69
 2023_08_CIN_SF,Jason Hanrahan,57
 2023_08_CIN_SF,Jason Huffman,60
-2023_08_CIN_SF,Jason Lee,65
 2023_08_CIN_SF,Jason Lee,62
+2023_08_CIN_SF,Jason Lee,65
 2023_08_CIN_SF,Jay Morrison,0
 2023_08_CIN_SF,Jean Dias,62
 2023_08_CIN_SF,Jeff Dauphinais,56
@@ -49894,7 +49894,7 @@ game_id,screen_name,prediction
 2023_08_CHI_LAC,Faraz Farnia,74
 2023_08_CHI_LAC,Fede Fede,76
 2023_08_CHI_LAC,Frank Arthurs,78
-2023_08_CHI_LAC,George Kostal [Alumni],67
+2023_08_CHI_LAC,George Kostal,67
 2023_08_CHI_LAC,God Thanatos,100
 2023_08_CHI_LAC,Good Picker,0
 2023_08_CHI_LAC,Great Picker,0
@@ -50221,7 +50221,7 @@ game_id,screen_name,prediction
 2023_08_LV_DET,Faraz Farnia,100
 2023_08_LV_DET,Fede Fede,89
 2023_08_LV_DET,Frank Arthurs,74
-2023_08_LV_DET,George Kostal [Alumni],71
+2023_08_LV_DET,George Kostal,71
 2023_08_LV_DET,God Thanatos,100
 2023_08_LV_DET,Good Picker,0
 2023_08_LV_DET,Grace Yang,81
@@ -50535,7 +50535,7 @@ game_id,screen_name,prediction
 2023_09_TEN_PIT,Faraz Farnia,74
 2023_09_TEN_PIT,Fede Fede,59
 2023_09_TEN_PIT,Frank Arthurs,57
-2023_09_TEN_PIT,George Kostal [Alumni],49
+2023_09_TEN_PIT,George Kostal,49
 2023_09_TEN_PIT,God Thanatos,35
 2023_09_TEN_PIT,Grace Yang,31
 2023_09_TEN_PIT,Greg Kenyon,45
@@ -50823,7 +50823,7 @@ game_id,screen_name,prediction
 2023_09_MIA_KC,Faraz Farnia,52
 2023_09_MIA_KC,Fede Fede,61
 2023_09_MIA_KC,Frank Arthurs,51
-2023_09_MIA_KC,George Kostal [Alumni],53
+2023_09_MIA_KC,George Kostal,53
 2023_09_MIA_KC,God Thanatos,0
 2023_09_MIA_KC,Grace Yang,22
 2023_09_MIA_KC,Greg Kenyon,43
@@ -50847,8 +50847,8 @@ game_id,screen_name,prediction
 2023_09_MIA_KC,Jason Fitzgerald,50
 2023_09_MIA_KC,Jason Hanrahan,53
 2023_09_MIA_KC,Jason Huffman,70
-2023_09_MIA_KC,Jason Lee,47
 2023_09_MIA_KC,Jason Lee,42
+2023_09_MIA_KC,Jason Lee,47
 2023_09_MIA_KC,Jay Morrison,0
 2023_09_MIA_KC,Jaycen Sussman,60
 2023_09_MIA_KC,Jean Dias,59
@@ -51129,7 +51129,7 @@ game_id,screen_name,prediction
 2023_09_MIN_ATL,Faraz Farnia,50
 2023_09_MIN_ATL,Fede Fede,67
 2023_09_MIN_ATL,Frank Arthurs,63
-2023_09_MIN_ATL,George Kostal [Alumni],55
+2023_09_MIN_ATL,George Kostal,55
 2023_09_MIN_ATL,God Thanatos,100
 2023_09_MIN_ATL,Grace Yang,55
 2023_09_MIN_ATL,Greg Kenyon,39
@@ -51437,7 +51437,7 @@ game_id,screen_name,prediction
 2023_09_SEA_BAL,Faraz Farnia,59
 2023_09_SEA_BAL,Fede Fede,75
 2023_09_SEA_BAL,Frank Arthurs,70
-2023_09_SEA_BAL,George Kostal [Alumni],66
+2023_09_SEA_BAL,George Kostal,66
 2023_09_SEA_BAL,God Thanatos,100
 2023_09_SEA_BAL,Grace Yang,76
 2023_09_SEA_BAL,Greg Kenyon,65
@@ -51745,7 +51745,7 @@ game_id,screen_name,prediction
 2023_09_ARI_CLE,Faraz Farnia,68
 2023_09_ARI_CLE,Fede Fede,82
 2023_09_ARI_CLE,Frank Arthurs,85
-2023_09_ARI_CLE,George Kostal [Alumni],71
+2023_09_ARI_CLE,George Kostal,71
 2023_09_ARI_CLE,God Thanatos,100
 2023_09_ARI_CLE,Grace Yang,100
 2023_09_ARI_CLE,Greg Kenyon,65
@@ -52053,7 +52053,7 @@ game_id,screen_name,prediction
 2023_09_LA_GB,Faraz Farnia,43
 2023_09_LA_GB,Fede Fede,59
 2023_09_LA_GB,Frank Arthurs,60
-2023_09_LA_GB,George Kostal [Alumni],52
+2023_09_LA_GB,George Kostal,52
 2023_09_LA_GB,God Thanatos,100
 2023_09_LA_GB,Grace Yang,31
 2023_09_LA_GB,Greg Kenyon,50
@@ -52361,7 +52361,7 @@ game_id,screen_name,prediction
 2023_09_TB_HOU,Faraz Farnia,38
 2023_09_TB_HOU,Fede Fede,63
 2023_09_TB_HOU,Frank Arthurs,57
-2023_09_TB_HOU,George Kostal [Alumni],53
+2023_09_TB_HOU,George Kostal,53
 2023_09_TB_HOU,God Thanatos,100
 2023_09_TB_HOU,Grace Yang,71
 2023_09_TB_HOU,Greg Kenyon,50
@@ -52669,7 +52669,7 @@ game_id,screen_name,prediction
 2023_09_WAS_NE,Faraz Farnia,39
 2023_09_WAS_NE,Fede Fede,55
 2023_09_WAS_NE,Frank Arthurs,57
-2023_09_WAS_NE,George Kostal [Alumni],57
+2023_09_WAS_NE,George Kostal,57
 2023_09_WAS_NE,God Thanatos,50
 2023_09_WAS_NE,Grace Yang,75
 2023_09_WAS_NE,Greg Kenyon,50
@@ -52977,7 +52977,7 @@ game_id,screen_name,prediction
 2023_09_CHI_NO,Faraz Farnia,86
 2023_09_CHI_NO,Fede Fede,79
 2023_09_CHI_NO,Frank Arthurs,78
-2023_09_CHI_NO,George Kostal [Alumni],68
+2023_09_CHI_NO,George Kostal,68
 2023_09_CHI_NO,God Thanatos,100
 2023_09_CHI_NO,Grace Yang,87
 2023_09_CHI_NO,Greg Kenyon,50
@@ -53285,7 +53285,7 @@ game_id,screen_name,prediction
 2023_09_IND_CAR,Faraz Farnia,56
 2023_09_IND_CAR,Fede Fede,48
 2023_09_IND_CAR,Frank Arthurs,47
-2023_09_IND_CAR,George Kostal [Alumni],47
+2023_09_IND_CAR,George Kostal,47
 2023_09_IND_CAR,God Thanatos,0
 2023_09_IND_CAR,Grace Yang,17
 2023_09_IND_CAR,Greg Kenyon,50
@@ -53593,7 +53593,7 @@ game_id,screen_name,prediction
 2023_09_NYG_LV,Faraz Farnia,61
 2023_09_NYG_LV,Fede Fede,58
 2023_09_NYG_LV,Frank Arthurs,53
-2023_09_NYG_LV,George Kostal [Alumni],49
+2023_09_NYG_LV,George Kostal,49
 2023_09_NYG_LV,God Thanatos,50
 2023_09_NYG_LV,Grace Yang,86
 2023_09_NYG_LV,Greg Kenyon,53
@@ -53901,7 +53901,7 @@ game_id,screen_name,prediction
 2023_09_DAL_PHI,Faraz Farnia,100
 2023_09_DAL_PHI,Fede Fede,65
 2023_09_DAL_PHI,Frank Arthurs,57
-2023_09_DAL_PHI,George Kostal [Alumni],56
+2023_09_DAL_PHI,George Kostal,56
 2023_09_DAL_PHI,God Thanatos,100
 2023_09_DAL_PHI,Grace Yang,59
 2023_09_DAL_PHI,Greg Kenyon,60
@@ -54210,7 +54210,7 @@ game_id,screen_name,prediction
 2023_09_BUF_CIN,Faraz Farnia,61
 2023_09_BUF_CIN,Fede Fede,57
 2023_09_BUF_CIN,Frank Arthurs,58
-2023_09_BUF_CIN,George Kostal [Alumni],53
+2023_09_BUF_CIN,George Kostal,53
 2023_09_BUF_CIN,God Thanatos,100
 2023_09_BUF_CIN,Grace Yang,100
 2023_09_BUF_CIN,Greg Kenyon,60
@@ -54520,7 +54520,7 @@ game_id,screen_name,prediction
 2023_09_LAC_NYJ,Faraz Farnia,40
 2023_09_LAC_NYJ,Fede Fede,37
 2023_09_LAC_NYJ,Frank Arthurs,36
-2023_09_LAC_NYJ,George Kostal [Alumni],41
+2023_09_LAC_NYJ,George Kostal,41
 2023_09_LAC_NYJ,God Thanatos,0
 2023_09_LAC_NYJ,Grace Yang,65
 2023_09_LAC_NYJ,Greg Kenyon,30
@@ -54820,7 +54820,7 @@ game_id,screen_name,prediction
 2023_10_CAR_CHI,Faraz Farnia,54
 2023_10_CAR_CHI,Fede Fede,62
 2023_10_CAR_CHI,Frank Arthurs,61
-2023_10_CAR_CHI,George Kostal [Alumni],53
+2023_10_CAR_CHI,George Kostal,53
 2023_10_CAR_CHI,God Thanatos,50
 2023_10_CAR_CHI,Greg Kenyon,50
 2023_10_CAR_CHI,Griffin Shelor,69
@@ -55100,7 +55100,7 @@ game_id,screen_name,prediction
 2023_10_IND_NE,Faraz Farnia,40
 2023_10_IND_NE,Fede Fede,47
 2023_10_IND_NE,Frank Arthurs,47
-2023_10_IND_NE,George Kostal [Alumni],48
+2023_10_IND_NE,George Kostal,48
 2023_10_IND_NE,God Thanatos,50
 2023_10_IND_NE,Greg Kenyon,45
 2023_10_IND_NE,Griffin Shelor,34
@@ -55391,7 +55391,7 @@ game_id,screen_name,prediction
 2023_10_CLE_BAL,Faraz Farnia,62
 2023_10_CLE_BAL,Fede Fede,78
 2023_10_CLE_BAL,Frank Arthurs,69
-2023_10_CLE_BAL,George Kostal [Alumni],68
+2023_10_CLE_BAL,George Kostal,68
 2023_10_CLE_BAL,God Thanatos,50
 2023_10_CLE_BAL,Greg Kenyon,65
 2023_10_CLE_BAL,Griffin Shelor,95
@@ -55688,7 +55688,7 @@ game_id,screen_name,prediction
 2023_10_HOU_CIN,Faraz Farnia,86
 2023_10_HOU_CIN,Fede Fede,81
 2023_10_HOU_CIN,Frank Arthurs,68
-2023_10_HOU_CIN,George Kostal [Alumni],67
+2023_10_HOU_CIN,George Kostal,67
 2023_10_HOU_CIN,God Thanatos,50
 2023_10_HOU_CIN,Greg Kenyon,65
 2023_10_HOU_CIN,Griffin Shelor,85
@@ -55985,7 +55985,7 @@ game_id,screen_name,prediction
 2023_10_SF_JAX,Faraz Farnia,0
 2023_10_SF_JAX,Fede Fede,38
 2023_10_SF_JAX,Frank Arthurs,40
-2023_10_SF_JAX,George Kostal [Alumni],45
+2023_10_SF_JAX,George Kostal,45
 2023_10_SF_JAX,God Thanatos,50
 2023_10_SF_JAX,Greg Kenyon,30
 2023_10_SF_JAX,Griffin Shelor,22
@@ -56007,8 +56007,8 @@ game_id,screen_name,prediction
 2023_10_SF_JAX,Jason Hanrahan,42
 2023_10_SF_JAX,Jason Huffman,64
 2023_10_SF_JAX,Jason Lee,36
-2023_10_SF_JAX,Jason Lee,40
 2023_10_SF_JAX,Jason Lee,54
+2023_10_SF_JAX,Jason Lee,40
 2023_10_SF_JAX,Jay Morrison,100
 2023_10_SF_JAX,Jaycen Sussman,35
 2023_10_SF_JAX,Jean Dias,43
@@ -56282,7 +56282,7 @@ game_id,screen_name,prediction
 2023_10_NO_MIN,Faraz Farnia,38
 2023_10_NO_MIN,Fede Fede,35
 2023_10_NO_MIN,Frank Arthurs,43
-2023_10_NO_MIN,George Kostal [Alumni],52
+2023_10_NO_MIN,George Kostal,52
 2023_10_NO_MIN,God Thanatos,50
 2023_10_NO_MIN,Greg Kenyon,66
 2023_10_NO_MIN,Griffin Shelor,52
@@ -56579,7 +56579,7 @@ game_id,screen_name,prediction
 2023_10_GB_PIT,Faraz Farnia,47
 2023_10_GB_PIT,Fede Fede,64
 2023_10_GB_PIT,Frank Arthurs,60
-2023_10_GB_PIT,George Kostal [Alumni],59
+2023_10_GB_PIT,George Kostal,59
 2023_10_GB_PIT,God Thanatos,50
 2023_10_GB_PIT,Greg Kenyon,57
 2023_10_GB_PIT,Griffin Shelor,49
@@ -56600,8 +56600,8 @@ game_id,screen_name,prediction
 2023_10_GB_PIT,Jason Fitzgerald,56
 2023_10_GB_PIT,Jason Hanrahan,59
 2023_10_GB_PIT,Jason Huffman,50
-2023_10_GB_PIT,Jason Lee,46
 2023_10_GB_PIT,Jason Lee,62
+2023_10_GB_PIT,Jason Lee,46
 2023_10_GB_PIT,Jason Lee,53
 2023_10_GB_PIT,Jay Morrison,100
 2023_10_GB_PIT,Jaycen Sussman,60
@@ -56876,7 +56876,7 @@ game_id,screen_name,prediction
 2023_10_TEN_TB,Faraz Farnia,73
 2023_10_TEN_TB,Fede Fede,62
 2023_10_TEN_TB,Frank Arthurs,56
-2023_10_TEN_TB,George Kostal [Alumni],51
+2023_10_TEN_TB,George Kostal,51
 2023_10_TEN_TB,God Thanatos,50
 2023_10_TEN_TB,Greg Kenyon,66
 2023_10_TEN_TB,Griffin Shelor,63
@@ -56898,8 +56898,8 @@ game_id,screen_name,prediction
 2023_10_TEN_TB,Jason Hanrahan,54
 2023_10_TEN_TB,Jason Huffman,50
 2023_10_TEN_TB,Jason Lee,62
-2023_10_TEN_TB,Jason Lee,57
 2023_10_TEN_TB,Jason Lee,58
+2023_10_TEN_TB,Jason Lee,57
 2023_10_TEN_TB,Jay Morrison,100
 2023_10_TEN_TB,Jaycen Sussman,45
 2023_10_TEN_TB,Jean Dias,56
@@ -57173,7 +57173,7 @@ game_id,screen_name,prediction
 2023_10_ATL_ARI,Faraz Farnia,59
 2023_10_ATL_ARI,Fede Fede,43
 2023_10_ATL_ARI,Frank Arthurs,46
-2023_10_ATL_ARI,George Kostal [Alumni],47
+2023_10_ATL_ARI,George Kostal,47
 2023_10_ATL_ARI,God Thanatos,50
 2023_10_ATL_ARI,Greg Kenyon,44
 2023_10_ATL_ARI,Griffin Shelor,36
@@ -57470,7 +57470,7 @@ game_id,screen_name,prediction
 2023_10_DET_LAC,Faraz Farnia,49
 2023_10_DET_LAC,Fede Fede,43
 2023_10_DET_LAC,Frank Arthurs,44
-2023_10_DET_LAC,George Kostal [Alumni],40
+2023_10_DET_LAC,George Kostal,40
 2023_10_DET_LAC,God Thanatos,50
 2023_10_DET_LAC,Greg Kenyon,24
 2023_10_DET_LAC,Griffin Shelor,52
@@ -57767,7 +57767,7 @@ game_id,screen_name,prediction
 2023_10_NYG_DAL,Faraz Farnia,100
 2023_10_NYG_DAL,Fede Fede,100
 2023_10_NYG_DAL,Frank Arthurs,90
-2023_10_NYG_DAL,George Kostal [Alumni],82
+2023_10_NYG_DAL,George Kostal,82
 2023_10_NYG_DAL,God Thanatos,50
 2023_10_NYG_DAL,Greg Kenyon,100
 2023_10_NYG_DAL,Griffin Shelor,98
@@ -58031,8 +58031,8 @@ game_id,screen_name,prediction
 2023_10_WAS_SEA,Connor McCormack,85
 2023_10_WAS_SEA,Craig Schallert,67
 2023_10_WAS_SEA,Damian Hernández,50
-2023_10_WAS_SEA,Daniel ,70
 2023_10_WAS_SEA,Daniel ,77
+2023_10_WAS_SEA,Daniel ,70
 2023_10_WAS_SEA,Daniel Houston,68
 2023_10_WAS_SEA,Daniel Kelly,43
 2023_10_WAS_SEA,Daniel L,69
@@ -58064,7 +58064,7 @@ game_id,screen_name,prediction
 2023_10_WAS_SEA,Faraz Farnia,72
 2023_10_WAS_SEA,Fede Fede,75
 2023_10_WAS_SEA,Frank Arthurs,70
-2023_10_WAS_SEA,George Kostal [Alumni],64
+2023_10_WAS_SEA,George Kostal,64
 2023_10_WAS_SEA,God Thanatos,50
 2023_10_WAS_SEA,Greg Kenyon,59
 2023_10_WAS_SEA,Griffin Shelor,82
@@ -58361,7 +58361,7 @@ game_id,screen_name,prediction
 2023_10_NYJ_LV,Faraz Farnia,47
 2023_10_NYJ_LV,Fede Fede,46
 2023_10_NYJ_LV,Frank Arthurs,52
-2023_10_NYJ_LV,George Kostal [Alumni],53
+2023_10_NYJ_LV,George Kostal,53
 2023_10_NYJ_LV,God Thanatos,50
 2023_10_NYJ_LV,Greg Kenyon,62
 2023_10_NYJ_LV,Griffin Shelor,41
@@ -58659,7 +58659,7 @@ game_id,screen_name,prediction
 2023_10_DEN_BUF,Faraz Farnia,100
 2023_10_DEN_BUF,Fede Fede,81
 2023_10_DEN_BUF,Frank Arthurs,76
-2023_10_DEN_BUF,George Kostal [Alumni],64
+2023_10_DEN_BUF,George Kostal,64
 2023_10_DEN_BUF,God Thanatos,50
 2023_10_DEN_BUF,Greg Kenyon,66
 2023_10_DEN_BUF,Griffin Shelor,87
@@ -58947,7 +58947,7 @@ game_id,screen_name,prediction
 2023_11_CIN_BAL,Faraz Farnia,41
 2023_11_CIN_BAL,Fede Fede,87
 2023_11_CIN_BAL,Frank Arthurs,68
-2023_11_CIN_BAL,George Kostal [Alumni],62
+2023_11_CIN_BAL,George Kostal,62
 2023_11_CIN_BAL,Greg Kenyon,60
 2023_11_CIN_BAL,Griffin Shelor,69
 2023_11_CIN_BAL,Hayden Dillon,46
@@ -59219,7 +59219,7 @@ game_id,screen_name,prediction
 2023_11_DAL_CAR,Faraz Farnia,0
 2023_11_DAL_CAR,Fede Fede,0
 2023_11_DAL_CAR,Frank Arthurs,19
-2023_11_DAL_CAR,George Kostal [Alumni],23
+2023_11_DAL_CAR,George Kostal,23
 2023_11_DAL_CAR,God Thanatos,50
 2023_11_DAL_CAR,Greg Kenyon,0
 2023_11_DAL_CAR,Griffin Shelor,2
@@ -59502,7 +59502,7 @@ game_id,screen_name,prediction
 2023_11_PIT_CLE,Faraz Farnia,37
 2023_11_PIT_CLE,Fede Fede,57
 2023_11_PIT_CLE,Frank Arthurs,59
-2023_11_PIT_CLE,George Kostal [Alumni],49
+2023_11_PIT_CLE,George Kostal,49
 2023_11_PIT_CLE,God Thanatos,50
 2023_11_PIT_CLE,Greg Kenyon,65
 2023_11_PIT_CLE,Griffin Shelor,49
@@ -59784,7 +59784,7 @@ game_id,screen_name,prediction
 2023_11_CHI_DET,Faraz Farnia,100
 2023_11_CHI_DET,Fede Fede,98
 2023_11_CHI_DET,Frank Arthurs,78
-2023_11_CHI_DET,George Kostal [Alumni],76
+2023_11_CHI_DET,George Kostal,76
 2023_11_CHI_DET,God Thanatos,100
 2023_11_CHI_DET,Greg Kenyon,100
 2023_11_CHI_DET,Griffin Shelor,87
@@ -60067,7 +60067,7 @@ game_id,screen_name,prediction
 2023_11_LAC_GB,Faraz Farnia,30
 2023_11_LAC_GB,Fede Fede,40
 2023_11_LAC_GB,Frank Arthurs,43
-2023_11_LAC_GB,George Kostal [Alumni],44
+2023_11_LAC_GB,George Kostal,44
 2023_11_LAC_GB,God Thanatos,0
 2023_11_LAC_GB,Greg Kenyon,50
 2023_11_LAC_GB,Griffin Shelor,28
@@ -60349,7 +60349,7 @@ game_id,screen_name,prediction
 2023_11_ARI_HOU,Faraz Farnia,45
 2023_11_ARI_HOU,Fede Fede,84
 2023_11_ARI_HOU,Frank Arthurs,66
-2023_11_ARI_HOU,George Kostal [Alumni],65
+2023_11_ARI_HOU,George Kostal,65
 2023_11_ARI_HOU,God Thanatos,100
 2023_11_ARI_HOU,Greg Kenyon,50
 2023_11_ARI_HOU,Griffin Shelor,49
@@ -60372,8 +60372,8 @@ game_id,screen_name,prediction
 2023_11_ARI_HOU,Jason Huffman,50
 2023_11_ARI_HOU,Jason Huffman,50
 2023_11_ARI_HOU,Jason Lee,50
-2023_11_ARI_HOU,Jason Lee,63
 2023_11_ARI_HOU,Jason Lee,70
+2023_11_ARI_HOU,Jason Lee,63
 2023_11_ARI_HOU,Jay Morrison,0
 2023_11_ARI_HOU,Jaycen Sussman,60
 2023_11_ARI_HOU,Jean Dias,59
@@ -60631,7 +60631,7 @@ game_id,screen_name,prediction
 2023_11_TEN_JAX,Faraz Farnia,89
 2023_11_TEN_JAX,Fede Fede,76
 2023_11_TEN_JAX,Frank Arthurs,71
-2023_11_TEN_JAX,George Kostal [Alumni],68
+2023_11_TEN_JAX,George Kostal,68
 2023_11_TEN_JAX,God Thanatos,100
 2023_11_TEN_JAX,Greg Kenyon,50
 2023_11_TEN_JAX,Griffin Shelor,79
@@ -60914,7 +60914,7 @@ game_id,screen_name,prediction
 2023_11_LV_MIA,Faraz Farnia,100
 2023_11_LV_MIA,Fede Fede,98
 2023_11_LV_MIA,Frank Arthurs,87
-2023_11_LV_MIA,George Kostal [Alumni],75
+2023_11_LV_MIA,George Kostal,75
 2023_11_LV_MIA,God Thanatos,100
 2023_11_LV_MIA,Greg Kenyon,50
 2023_11_LV_MIA,Griffin Shelor,94
@@ -60937,8 +60937,8 @@ game_id,screen_name,prediction
 2023_11_LV_MIA,Jason Huffman,90
 2023_11_LV_MIA,Jason Huffman,90
 2023_11_LV_MIA,Jason Lee,50
-2023_11_LV_MIA,Jason Lee,91
 2023_11_LV_MIA,Jason Lee,85
+2023_11_LV_MIA,Jason Lee,91
 2023_11_LV_MIA,Jay Morrison,100
 2023_11_LV_MIA,Jaycen Sussman,69
 2023_11_LV_MIA,Jean Dias,82
@@ -61197,7 +61197,7 @@ game_id,screen_name,prediction
 2023_11_NYG_WAS,Faraz Farnia,100
 2023_11_NYG_WAS,Fede Fede,82
 2023_11_NYG_WAS,Frank Arthurs,78
-2023_11_NYG_WAS,George Kostal [Alumni],74
+2023_11_NYG_WAS,George Kostal,74
 2023_11_NYG_WAS,God Thanatos,100
 2023_11_NYG_WAS,Greg Kenyon,100
 2023_11_NYG_WAS,Griffin Shelor,96
@@ -61480,7 +61480,7 @@ game_id,screen_name,prediction
 2023_11_TB_SF,Faraz Farnia,63
 2023_11_TB_SF,Fede Fede,91
 2023_11_TB_SF,Frank Arthurs,86
-2023_11_TB_SF,George Kostal [Alumni],77
+2023_11_TB_SF,George Kostal,77
 2023_11_TB_SF,God Thanatos,100
 2023_11_TB_SF,Greg Kenyon,100
 2023_11_TB_SF,Griffin Shelor,93
@@ -61763,7 +61763,7 @@ game_id,screen_name,prediction
 2023_11_NYJ_BUF,Faraz Farnia,77
 2023_11_NYJ_BUF,Fede Fede,65
 2023_11_NYJ_BUF,Frank Arthurs,76
-2023_11_NYJ_BUF,George Kostal [Alumni],67
+2023_11_NYJ_BUF,George Kostal,67
 2023_11_NYJ_BUF,God Thanatos,100
 2023_11_NYJ_BUF,Greg Kenyon,75
 2023_11_NYJ_BUF,Griffin Shelor,78
@@ -62015,8 +62015,8 @@ game_id,screen_name,prediction
 2023_11_SEA_LA,Christopher Tea,50
 2023_11_SEA_LA,Connor McCormack,53
 2023_11_SEA_LA,Craig Schallert,42
-2023_11_SEA_LA,Daniel ,33
 2023_11_SEA_LA,Daniel ,47
+2023_11_SEA_LA,Daniel ,33
 2023_11_SEA_LA,Daniel Houston,44
 2023_11_SEA_LA,Daniel Kelly,42
 2023_11_SEA_LA,Daniel L,53
@@ -62046,7 +62046,7 @@ game_id,screen_name,prediction
 2023_11_SEA_LA,Faraz Farnia,42
 2023_11_SEA_LA,Fede Fede,46
 2023_11_SEA_LA,Frank Arthurs,53
-2023_11_SEA_LA,George Kostal [Alumni],49
+2023_11_SEA_LA,George Kostal,49
 2023_11_SEA_LA,God Thanatos,50
 2023_11_SEA_LA,Greg Kenyon,60
 2023_11_SEA_LA,Griffin Shelor,46
@@ -62329,7 +62329,7 @@ game_id,screen_name,prediction
 2023_11_MIN_DEN,Faraz Farnia,46
 2023_11_MIN_DEN,Fede Fede,58
 2023_11_MIN_DEN,Frank Arthurs,55
-2023_11_MIN_DEN,George Kostal [Alumni],52
+2023_11_MIN_DEN,George Kostal,52
 2023_11_MIN_DEN,God Thanatos,50
 2023_11_MIN_DEN,Greg Kenyon,50
 2023_11_MIN_DEN,Griffin Shelor,48
@@ -62614,7 +62614,7 @@ game_id,screen_name,prediction
 2023_11_PHI_KC,Faraz Farnia,29
 2023_11_PHI_KC,Fede Fede,53
 2023_11_PHI_KC,Frank Arthurs,60
-2023_11_PHI_KC,George Kostal [Alumni],56
+2023_11_PHI_KC,George Kostal,56
 2023_11_PHI_KC,God Thanatos,100
 2023_11_PHI_KC,Greg Kenyon,50
 2023_11_PHI_KC,Griffin Shelor,62
@@ -63867,7 +63867,7 @@ game_id,screen_name,prediction
 2023_12_NO_ATL,Faraz Farnia,36
 2023_12_NO_ATL,Fede Fede,48
 2023_12_NO_ATL,Frank Arthurs,47
-2023_12_NO_ATL,George Kostal [Alumni],48
+2023_12_NO_ATL,George Kostal,48
 2023_12_NO_ATL,Greg Kenyon,10
 2023_12_NO_ATL,Hayden Dillon,54
 2023_12_NO_ATL,Heitor Costard,45
@@ -64126,7 +64126,7 @@ game_id,screen_name,prediction
 2023_12_PIT_CIN,Faraz Farnia,48
 2023_12_PIT_CIN,Fede Fede,42
 2023_12_PIT_CIN,Frank Arthurs,46
-2023_12_PIT_CIN,George Kostal [Alumni],49
+2023_12_PIT_CIN,George Kostal,49
 2023_12_PIT_CIN,Greg Kenyon,40
 2023_12_PIT_CIN,Hayden Dillon,23
 2023_12_PIT_CIN,Heitor Costard,45
@@ -64386,7 +64386,7 @@ game_id,screen_name,prediction
 2023_12_JAX_HOU,Faraz Farnia,48
 2023_12_JAX_HOU,Fede Fede,59
 2023_12_JAX_HOU,Frank Arthurs,51
-2023_12_JAX_HOU,George Kostal [Alumni],49
+2023_12_JAX_HOU,George Kostal,49
 2023_12_JAX_HOU,Greg Kenyon,56
 2023_12_JAX_HOU,Hayden Dillon,56
 2023_12_JAX_HOU,Heitor Costard,45
@@ -64646,7 +64646,7 @@ game_id,screen_name,prediction
 2023_12_TB_IND,Faraz Farnia,51
 2023_12_TB_IND,Fede Fede,52
 2023_12_TB_IND,Frank Arthurs,56
-2023_12_TB_IND,George Kostal [Alumni],55
+2023_12_TB_IND,George Kostal,55
 2023_12_TB_IND,Greg Kenyon,52
 2023_12_TB_IND,Hayden Dillon,45
 2023_12_TB_IND,Heitor Costard,55
@@ -64905,7 +64905,7 @@ game_id,screen_name,prediction
 2023_12_NE_NYG,Faraz Farnia,42
 2023_12_NE_NYG,Fede Fede,39
 2023_12_NE_NYG,Frank Arthurs,35
-2023_12_NE_NYG,George Kostal [Alumni],42
+2023_12_NE_NYG,George Kostal,42
 2023_12_NE_NYG,Greg Kenyon,55
 2023_12_NE_NYG,Hayden Dillon,50
 2023_12_NE_NYG,Heitor Costard,45
@@ -65165,7 +65165,7 @@ game_id,screen_name,prediction
 2023_12_CAR_TEN,Faraz Farnia,39
 2023_12_CAR_TEN,Fede Fede,64
 2023_12_CAR_TEN,Frank Arthurs,61
-2023_12_CAR_TEN,George Kostal [Alumni],59
+2023_12_CAR_TEN,George Kostal,59
 2023_12_CAR_TEN,Greg Kenyon,54
 2023_12_CAR_TEN,Hayden Dillon,56
 2023_12_CAR_TEN,Heitor Costard,55
@@ -65425,7 +65425,7 @@ game_id,screen_name,prediction
 2023_12_LA_ARI,Faraz Farnia,63
 2023_12_LA_ARI,Fede Fede,51
 2023_12_LA_ARI,Frank Arthurs,43
-2023_12_LA_ARI,George Kostal [Alumni],52
+2023_12_LA_ARI,George Kostal,52
 2023_12_LA_ARI,Greg Kenyon,43
 2023_12_LA_ARI,Hayden Dillon,50
 2023_12_LA_ARI,Heitor Costard,55
@@ -65685,7 +65685,7 @@ game_id,screen_name,prediction
 2023_12_CLE_DEN,Faraz Farnia,69
 2023_12_CLE_DEN,Fede Fede,54
 2023_12_CLE_DEN,Frank Arthurs,51
-2023_12_CLE_DEN,George Kostal [Alumni],54
+2023_12_CLE_DEN,George Kostal,54
 2023_12_CLE_DEN,Greg Kenyon,46
 2023_12_CLE_DEN,Hayden Dillon,61
 2023_12_CLE_DEN,Heitor Costard,46
@@ -65945,7 +65945,7 @@ game_id,screen_name,prediction
 2023_12_KC_LV,Faraz Farnia,0
 2023_12_KC_LV,Fede Fede,2
 2023_12_KC_LV,Frank Arthurs,21
-2023_12_KC_LV,George Kostal [Alumni],31
+2023_12_KC_LV,George Kostal,31
 2023_12_KC_LV,Greg Kenyon,0
 2023_12_KC_LV,Hayden Dillon,35
 2023_12_KC_LV,Heitor Costard,30
@@ -66205,7 +66205,7 @@ game_id,screen_name,prediction
 2023_12_BUF_PHI,Faraz Farnia,62
 2023_12_BUF_PHI,Fede Fede,66
 2023_12_BUF_PHI,Frank Arthurs,55
-2023_12_BUF_PHI,George Kostal [Alumni],56
+2023_12_BUF_PHI,George Kostal,56
 2023_12_BUF_PHI,Greg Kenyon,46
 2023_12_BUF_PHI,Griffin Shelor,50
 2023_12_BUF_PHI,Hayden Dillon,57
@@ -66314,8 +66314,8 @@ game_id,screen_name,prediction
 2023_12_BUF_PHI,Ni Ro,60
 2023_12_BUF_PHI,Nicholas Brown,62
 2023_12_BUF_PHI,nick jay,73
-2023_12_BUF_PHI,Noah Blankespoor,40
 2023_12_BUF_PHI,Noah Blankespoor,50
+2023_12_BUF_PHI,Noah Blankespoor,40
 2023_12_BUF_PHI,Paolo Mondini,55
 2023_12_BUF_PHI,Papa Gorgio,58
 2023_12_BUF_PHI,Patrick Mulcahy,56
@@ -66466,7 +66466,7 @@ game_id,screen_name,prediction
 2023_12_BAL_LAC,Faraz Farnia,44
 2023_12_BAL_LAC,Fede Fede,18
 2023_12_BAL_LAC,Frank Arthurs,30
-2023_12_BAL_LAC,George Kostal [Alumni],43
+2023_12_BAL_LAC,George Kostal,43
 2023_12_BAL_LAC,Greg Kenyon,25
 2023_12_BAL_LAC,Griffin Shelor,2
 2023_12_BAL_LAC,Hayden Dillon,37
@@ -66729,7 +66729,7 @@ game_id,screen_name,prediction
 2023_12_CHI_MIN,Faraz Farnia,66
 2023_12_CHI_MIN,Fede Fede,43
 2023_12_CHI_MIN,Frank Arthurs,64
-2023_12_CHI_MIN,George Kostal [Alumni],57
+2023_12_CHI_MIN,George Kostal,57
 2023_12_CHI_MIN,Greg Kenyon,75
 2023_12_CHI_MIN,Griffin Shelor,98
 2023_12_CHI_MIN,Hayden Dillon,65
@@ -66745,12 +66745,12 @@ game_id,screen_name,prediction
 2023_12_CHI_MIN,Jake Danilson,43
 2023_12_CHI_MIN,Jannis ,65
 2023_12_CHI_MIN,Jason Coleman,50
-2023_12_CHI_MIN,Jason Fitzgerald,64
 2023_12_CHI_MIN,Jason Fitzgerald,50
+2023_12_CHI_MIN,Jason Fitzgerald,64
 2023_12_CHI_MIN,Jason Hanrahan,56
 2023_12_CHI_MIN,Jason Huffman,50
-2023_12_CHI_MIN,Jason Lee,39
 2023_12_CHI_MIN,Jason Lee,62
+2023_12_CHI_MIN,Jason Lee,39
 2023_12_CHI_MIN,Jay Morrison,100
 2023_12_CHI_MIN,Jean Dias,50
 2023_12_CHI_MIN,Jeff Dauphinais,61
@@ -66984,7 +66984,7 @@ game_id,screen_name,prediction
 2023_13_SEA_DAL,Ezzie Goldish,90
 2023_13_SEA_DAL,Fede Fede,98
 2023_13_SEA_DAL,Frank Arthurs,82
-2023_13_SEA_DAL,George Kostal [Alumni],68
+2023_13_SEA_DAL,George Kostal,68
 2023_13_SEA_DAL,Greg Kenyon,50
 2023_13_SEA_DAL,Hayden Dillon,42
 2023_13_SEA_DAL,Heitor Costard,85
@@ -67216,7 +67216,7 @@ game_id,screen_name,prediction
 2023_13_DEN_HOU,Faraz Farnia,63
 2023_13_DEN_HOU,Fede Fede,61
 2023_13_DEN_HOU,Frank Arthurs,59
-2023_13_DEN_HOU,George Kostal [Alumni],61
+2023_13_DEN_HOU,George Kostal,61
 2023_13_DEN_HOU,Greg Kenyon,47
 2023_13_DEN_HOU,Griffin Shelor,62
 2023_13_DEN_HOU,Hayden Dillon,59
@@ -67458,7 +67458,7 @@ game_id,screen_name,prediction
 2023_13_LAC_NE,Faraz Farnia,13
 2023_13_LAC_NE,Fede Fede,26
 2023_13_LAC_NE,Frank Arthurs,30
-2023_13_LAC_NE,George Kostal [Alumni],33
+2023_13_LAC_NE,George Kostal,33
 2023_13_LAC_NE,Greg Kenyon,26
 2023_13_LAC_NE,Griffin Shelor,11
 2023_13_LAC_NE,Hayden Dillon,43
@@ -67699,7 +67699,7 @@ game_id,screen_name,prediction
 2023_13_DET_NO,Faraz Farnia,28
 2023_13_DET_NO,Fede Fede,17
 2023_13_DET_NO,Frank Arthurs,33
-2023_13_DET_NO,George Kostal [Alumni],37
+2023_13_DET_NO,George Kostal,37
 2023_13_DET_NO,Greg Kenyon,27
 2023_13_DET_NO,Griffin Shelor,31
 2023_13_DET_NO,Hayden Dillon,39
@@ -67941,7 +67941,7 @@ game_id,screen_name,prediction
 2023_13_ATL_NYJ,Faraz Farnia,35
 2023_13_ATL_NYJ,Fede Fede,49
 2023_13_ATL_NYJ,Frank Arthurs,47
-2023_13_ATL_NYJ,George Kostal [Alumni],47
+2023_13_ATL_NYJ,George Kostal,47
 2023_13_ATL_NYJ,Greg Kenyon,43
 2023_13_ATL_NYJ,Griffin Shelor,51
 2023_13_ATL_NYJ,Hayden Dillon,46
@@ -68183,7 +68183,7 @@ game_id,screen_name,prediction
 2023_13_ARI_PIT,Faraz Farnia,62
 2023_13_ARI_PIT,Fede Fede,60
 2023_13_ARI_PIT,Frank Arthurs,71
-2023_13_ARI_PIT,George Kostal [Alumni],63
+2023_13_ARI_PIT,George Kostal,63
 2023_13_ARI_PIT,Greg Kenyon,61
 2023_13_ARI_PIT,Griffin Shelor,75
 2023_13_ARI_PIT,Hayden Dillon,77
@@ -68201,8 +68201,8 @@ game_id,screen_name,prediction
 2023_13_ARI_PIT,Jason Fitzgerald,79
 2023_13_ARI_PIT,Jason Hanrahan,66
 2023_13_ARI_PIT,Jason Huffman,50
-2023_13_ARI_PIT,Jason Lee,70
 2023_13_ARI_PIT,Jason Lee,63
+2023_13_ARI_PIT,Jason Lee,70
 2023_13_ARI_PIT,Jeff Dauphinais,68
 2023_13_ARI_PIT,Jeffrey Tan,50
 2023_13_ARI_PIT,Jeremy Brooks,60
@@ -68425,7 +68425,7 @@ game_id,screen_name,prediction
 2023_13_IND_TEN,Faraz Farnia,36
 2023_13_IND_TEN,Fede Fede,53
 2023_13_IND_TEN,Frank Arthurs,48
-2023_13_IND_TEN,George Kostal [Alumni],51
+2023_13_IND_TEN,George Kostal,51
 2023_13_IND_TEN,Greg Kenyon,40
 2023_13_IND_TEN,Griffin Shelor,47
 2023_13_IND_TEN,Hayden Dillon,35
@@ -68667,7 +68667,7 @@ game_id,screen_name,prediction
 2023_13_MIA_WAS,Faraz Farnia,0
 2023_13_MIA_WAS,Fede Fede,2
 2023_13_MIA_WAS,Frank Arthurs,17
-2023_13_MIA_WAS,George Kostal [Alumni],24
+2023_13_MIA_WAS,George Kostal,24
 2023_13_MIA_WAS,Greg Kenyon,0
 2023_13_MIA_WAS,Griffin Shelor,16
 2023_13_MIA_WAS,Hayden Dillon,33
@@ -68908,7 +68908,7 @@ game_id,screen_name,prediction
 2023_13_CAR_TB,Faraz Farnia,75
 2023_13_CAR_TB,Fede Fede,87
 2023_13_CAR_TB,Frank Arthurs,67
-2023_13_CAR_TB,George Kostal [Alumni],62
+2023_13_CAR_TB,George Kostal,62
 2023_13_CAR_TB,Greg Kenyon,100
 2023_13_CAR_TB,Griffin Shelor,76
 2023_13_CAR_TB,Hayden Dillon,72
@@ -69151,7 +69151,7 @@ game_id,screen_name,prediction
 2023_13_CLE_LA,Faraz Farnia,100
 2023_13_CLE_LA,Fede Fede,65
 2023_13_CLE_LA,Frank Arthurs,65
-2023_13_CLE_LA,George Kostal [Alumni],56
+2023_13_CLE_LA,George Kostal,56
 2023_13_CLE_LA,Greg Kenyon,42
 2023_13_CLE_LA,Griffin Shelor,73
 2023_13_CLE_LA,Hayden Dillon,48
@@ -69396,7 +69396,7 @@ game_id,screen_name,prediction
 2023_13_SF_PHI,Faraz Farnia,59
 2023_13_SF_PHI,Fede Fede,37
 2023_13_SF_PHI,Frank Arthurs,41
-2023_13_SF_PHI,George Kostal [Alumni],52
+2023_13_SF_PHI,George Kostal,52
 2023_13_SF_PHI,Greg Kenyon,60
 2023_13_SF_PHI,Griffin Shelor,51
 2023_13_SF_PHI,Hayden Dillon,31
@@ -69641,7 +69641,7 @@ game_id,screen_name,prediction
 2023_13_KC_GB,Faraz Farnia,0
 2023_13_KC_GB,Fede Fede,10
 2023_13_KC_GB,Frank Arthurs,27
-2023_13_KC_GB,George Kostal [Alumni],32
+2023_13_KC_GB,George Kostal,32
 2023_13_KC_GB,Greg Kenyon,40
 2023_13_KC_GB,Griffin Shelor,17
 2023_13_KC_GB,Hayden Dillon,33
@@ -69887,7 +69887,7 @@ game_id,screen_name,prediction
 2023_13_CIN_JAX,Faraz Farnia,74
 2023_13_CIN_JAX,Fede Fede,98
 2023_13_CIN_JAX,Frank Arthurs,81
-2023_13_CIN_JAX,George Kostal [Alumni],72
+2023_13_CIN_JAX,George Kostal,72
 2023_13_CIN_JAX,Greg Kenyon,100
 2023_13_CIN_JAX,Griffin Shelor,85
 2023_13_CIN_JAX,Hayden Dillon,42
@@ -70358,7 +70358,7 @@ game_id,screen_name,prediction
 2023_14_TB_ATL,Ezzie Goldish,57
 2023_14_TB_ATL,Fede Fede,47
 2023_14_TB_ATL,Frank Arthurs,51
-2023_14_TB_ATL,George Kostal [Alumni],53
+2023_14_TB_ATL,George Kostal,53
 2023_14_TB_ATL,Greg Kenyon,50
 2023_14_TB_ATL,Griffin Shelor,60
 2023_14_TB_ATL,Hayden Dillon,56
@@ -70598,7 +70598,7 @@ game_id,screen_name,prediction
 2023_14_LA_BAL,Ezzie Goldish,70
 2023_14_LA_BAL,Fede Fede,94
 2023_14_LA_BAL,Frank Arthurs,76
-2023_14_LA_BAL,George Kostal [Alumni],76
+2023_14_LA_BAL,George Kostal,76
 2023_14_LA_BAL,Greg Kenyon,50
 2023_14_LA_BAL,Griffin Shelor,86
 2023_14_LA_BAL,Hayden Dillon,61
@@ -70839,7 +70839,7 @@ game_id,screen_name,prediction
 2023_14_DET_CHI,Ezzie Goldish,36
 2023_14_DET_CHI,Fede Fede,53
 2023_14_DET_CHI,Frank Arthurs,36
-2023_14_DET_CHI,George Kostal [Alumni],41
+2023_14_DET_CHI,George Kostal,41
 2023_14_DET_CHI,Greg Kenyon,50
 2023_14_DET_CHI,Griffin Shelor,17
 2023_14_DET_CHI,Hayden Dillon,43
@@ -71079,7 +71079,7 @@ game_id,screen_name,prediction
 2023_14_IND_CIN,Ezzie Goldish,49
 2023_14_IND_CIN,Fede Fede,47
 2023_14_IND_CIN,Frank Arthurs,57
-2023_14_IND_CIN,George Kostal [Alumni],48
+2023_14_IND_CIN,George Kostal,48
 2023_14_IND_CIN,Greg Kenyon,50
 2023_14_IND_CIN,Griffin Shelor,52
 2023_14_IND_CIN,Hayden Dillon,43
@@ -71319,7 +71319,7 @@ game_id,screen_name,prediction
 2023_14_JAX_CLE,Ezzie Goldish,60
 2023_14_JAX_CLE,Fede Fede,55
 2023_14_JAX_CLE,Frank Arthurs,58
-2023_14_JAX_CLE,George Kostal [Alumni],57
+2023_14_JAX_CLE,George Kostal,57
 2023_14_JAX_CLE,Greg Kenyon,50
 2023_14_JAX_CLE,Griffin Shelor,65
 2023_14_JAX_CLE,Hayden Dillon,57
@@ -71560,7 +71560,7 @@ game_id,screen_name,prediction
 2023_14_CAR_NO,Ezzie Goldish,70
 2023_14_CAR_NO,Fede Fede,77
 2023_14_CAR_NO,Frank Arthurs,71
-2023_14_CAR_NO,George Kostal [Alumni],67
+2023_14_CAR_NO,George Kostal,67
 2023_14_CAR_NO,Greg Kenyon,50
 2023_14_CAR_NO,Griffin Shelor,79
 2023_14_CAR_NO,Hayden Dillon,41
@@ -71800,7 +71800,7 @@ game_id,screen_name,prediction
 2023_14_HOU_NYJ,Ezzie Goldish,36
 2023_14_HOU_NYJ,Fede Fede,16
 2023_14_HOU_NYJ,Frank Arthurs,40
-2023_14_HOU_NYJ,George Kostal [Alumni],40
+2023_14_HOU_NYJ,George Kostal,40
 2023_14_HOU_NYJ,Greg Kenyon,50
 2023_14_HOU_NYJ,Griffin Shelor,28
 2023_14_HOU_NYJ,Hayden Dillon,27
@@ -72041,7 +72041,7 @@ game_id,screen_name,prediction
 2023_14_MIN_LV,Ezzie Goldish,36
 2023_14_MIN_LV,Fede Fede,34
 2023_14_MIN_LV,Frank Arthurs,41
-2023_14_MIN_LV,George Kostal [Alumni],42
+2023_14_MIN_LV,George Kostal,42
 2023_14_MIN_LV,Greg Kenyon,50
 2023_14_MIN_LV,Griffin Shelor,35
 2023_14_MIN_LV,Hayden Dillon,39
@@ -72284,7 +72284,7 @@ game_id,screen_name,prediction
 2023_14_SEA_SF,Ezzie Goldish,86
 2023_14_SEA_SF,Fede Fede,99
 2023_14_SEA_SF,Frank Arthurs,90
-2023_14_SEA_SF,George Kostal [Alumni],77
+2023_14_SEA_SF,George Kostal,77
 2023_14_SEA_SF,Greg Kenyon,50
 2023_14_SEA_SF,Griffin Shelor,89
 2023_14_SEA_SF,Hayden Dillon,38
@@ -72527,7 +72527,7 @@ game_id,screen_name,prediction
 2023_14_BUF_KC,Ezzie Goldish,60
 2023_14_BUF_KC,Fede Fede,66
 2023_14_BUF_KC,Frank Arthurs,52
-2023_14_BUF_KC,George Kostal [Alumni],53
+2023_14_BUF_KC,George Kostal,53
 2023_14_BUF_KC,Greg Kenyon,50
 2023_14_BUF_KC,Griffin Shelor,67
 2023_14_BUF_KC,Hayden Dillon,48
@@ -72770,7 +72770,7 @@ game_id,screen_name,prediction
 2023_14_DEN_LAC,Ezzie Goldish,60
 2023_14_DEN_LAC,Fede Fede,48
 2023_14_DEN_LAC,Frank Arthurs,59
-2023_14_DEN_LAC,George Kostal [Alumni],57
+2023_14_DEN_LAC,George Kostal,57
 2023_14_DEN_LAC,Greg Kenyon,50
 2023_14_DEN_LAC,Griffin Shelor,78
 2023_14_DEN_LAC,Hayden Dillon,44
@@ -73013,7 +73013,7 @@ game_id,screen_name,prediction
 2023_14_PHI_DAL,Ezzie Goldish,52
 2023_14_PHI_DAL,Fede Fede,48
 2023_14_PHI_DAL,Frank Arthurs,61
-2023_14_PHI_DAL,George Kostal [Alumni],56
+2023_14_PHI_DAL,George Kostal,56
 2023_14_PHI_DAL,Greg Kenyon,50
 2023_14_PHI_DAL,Griffin Shelor,68
 2023_14_PHI_DAL,Hayden Dillon,43
@@ -73227,8 +73227,8 @@ game_id,screen_name,prediction
 2023_14_TEN_MIA,Christian Word,90
 2023_14_TEN_MIA,Connor McCormack,100
 2023_14_TEN_MIA,Craig Schallert,74
-2023_14_TEN_MIA,Daniel ,90
 2023_14_TEN_MIA,Daniel ,100
+2023_14_TEN_MIA,Daniel ,90
 2023_14_TEN_MIA,Daniel Houston,83
 2023_14_TEN_MIA,Daniel Kelly,66
 2023_14_TEN_MIA,Daniel L,87
@@ -73257,7 +73257,7 @@ game_id,screen_name,prediction
 2023_14_TEN_MIA,Ezzie Goldish,90
 2023_14_TEN_MIA,Fede Fede,96
 2023_14_TEN_MIA,Frank Arthurs,88
-2023_14_TEN_MIA,George Kostal [Alumni],79
+2023_14_TEN_MIA,George Kostal,79
 2023_14_TEN_MIA,Greg Kenyon,50
 2023_14_TEN_MIA,Griffin Shelor,98
 2023_14_TEN_MIA,Hayden Dillon,58
@@ -73357,8 +73357,8 @@ game_id,screen_name,prediction
 2023_14_TEN_MIA,Ni Ro,85
 2023_14_TEN_MIA,Nicholas Brown,87
 2023_14_TEN_MIA,nick jay,89
-2023_14_TEN_MIA,Noah Blankespoor,50
 2023_14_TEN_MIA,Noah Blankespoor,70
+2023_14_TEN_MIA,Noah Blankespoor,50
 2023_14_TEN_MIA,Olivia DeBoy,50
 2023_14_TEN_MIA,Paolo Mondini,90
 2023_14_TEN_MIA,Papa Gorgio,82
@@ -73376,8 +73376,8 @@ game_id,screen_name,prediction
 2023_14_TEN_MIA,Rotem Dvir,99
 2023_14_TEN_MIA,Ruben Flores,88
 2023_14_TEN_MIA,Rupert Barker,50
-2023_14_TEN_MIA,Russell Miller,95
 2023_14_TEN_MIA,Russell Miller,50
+2023_14_TEN_MIA,Russell Miller,95
 2023_14_TEN_MIA,Ryan Kinsey,75
 2023_14_TEN_MIA,ryan salsbury,90
 2023_14_TEN_MIA,Ryan Soukup,66
@@ -73502,7 +73502,7 @@ game_id,screen_name,prediction
 2023_14_GB_NYG,Ezzie Goldish,20
 2023_14_GB_NYG,Fede Fede,3
 2023_14_GB_NYG,Frank Arthurs,28
-2023_14_GB_NYG,George Kostal [Alumni],25
+2023_14_GB_NYG,George Kostal,25
 2023_14_GB_NYG,Greg Kenyon,50
 2023_14_GB_NYG,Griffin Shelor,15
 2023_14_GB_NYG,Hayden Dillon,60
@@ -75344,8 +75344,8 @@ game_id,screen_name,prediction
 2023_15_NYJ_MIA,Jake Danilson,63
 2023_15_NYJ_MIA,Jannis ,50
 2023_15_NYJ_MIA,Jason Coleman,50
-2023_15_NYJ_MIA,Jason Fitzgerald,50
 2023_15_NYJ_MIA,Jason Fitzgerald,61
+2023_15_NYJ_MIA,Jason Fitzgerald,50
 2023_15_NYJ_MIA,Jason Huffman,50
 2023_15_NYJ_MIA,Jason Lee,76
 2023_15_NYJ_MIA,Jason Lee,92
@@ -77864,8 +77864,8 @@ game_id,screen_name,prediction
 2023_16_BUF_LAC,Christian Word,41
 2023_16_BUF_LAC,Connor McCormack,14
 2023_16_BUF_LAC,Craig Schallert,11
-2023_16_BUF_LAC,Daniel ,20
 2023_16_BUF_LAC,Daniel ,0
+2023_16_BUF_LAC,Daniel ,20
 2023_16_BUF_LAC,Daniel Houston,21
 2023_16_BUF_LAC,Daniel Kelly,24
 2023_16_BUF_LAC,Daniel L,14
@@ -78543,8 +78543,8 @@ game_id,screen_name,prediction
 2023_16_CLE_HOU,Christian Word,42
 2023_16_CLE_HOU,Connor McCormack,64
 2023_16_CLE_HOU,Craig Schallert,33
-2023_16_CLE_HOU,Daniel ,45
 2023_16_CLE_HOU,Daniel ,34
+2023_16_CLE_HOU,Daniel ,45
 2023_16_CLE_HOU,Daniel Houston,45
 2023_16_CLE_HOU,Daniel Kelly,37
 2023_16_CLE_HOU,Daniel L,43
@@ -79267,8 +79267,8 @@ game_id,screen_name,prediction
 2023_16_SEA_TEN,Jason Coleman,50
 2023_16_SEA_TEN,Jason Fitzgerald,39
 2023_16_SEA_TEN,Jason Huffman,50
-2023_16_SEA_TEN,Jason Lee,40
 2023_16_SEA_TEN,Jason Lee,64
+2023_16_SEA_TEN,Jason Lee,40
 2023_16_SEA_TEN,Jeff Dauphinais,38
 2023_16_SEA_TEN,Jeffrey Tan,50
 2023_16_SEA_TEN,Jeremy Brooks,38
@@ -79494,8 +79494,8 @@ game_id,screen_name,prediction
 2023_16_JAX_TB,Jason Coleman,50
 2023_16_JAX_TB,Jason Fitzgerald,53
 2023_16_JAX_TB,Jason Huffman,50
-2023_16_JAX_TB,Jason Lee,53
 2023_16_JAX_TB,Jason Lee,67
+2023_16_JAX_TB,Jason Lee,53
 2023_16_JAX_TB,Jeff Dauphinais,46
 2023_16_JAX_TB,Jeffrey Tan,50
 2023_16_JAX_TB,Jeremy Brooks,55
@@ -80410,8 +80410,8 @@ game_id,screen_name,prediction
 2023_16_LV_KC,Jason Coleman,50
 2023_16_LV_KC,Jason Fitzgerald,74
 2023_16_LV_KC,Jason Huffman,50
-2023_16_LV_KC,Jason Lee,90
 2023_16_LV_KC,Jason Lee,78
+2023_16_LV_KC,Jason Lee,90
 2023_16_LV_KC,Jeff Dauphinais,81
 2023_16_LV_KC,Jeffrey Tan,50
 2023_16_LV_KC,Jeremy Brooks,84
@@ -80870,8 +80870,8 @@ game_id,screen_name,prediction
 2023_16_BAL_SF,Jason Coleman,50
 2023_16_BAL_SF,Jason Fitzgerald,48
 2023_16_BAL_SF,Jason Huffman,50
-2023_16_BAL_SF,Jason Lee,54
 2023_16_BAL_SF,Jason Lee,66
+2023_16_BAL_SF,Jason Lee,54
 2023_16_BAL_SF,Jeff Dauphinais,63
 2023_16_BAL_SF,Jeffrey Tan,50
 2023_16_BAL_SF,Jeremy Brooks,71
@@ -81763,8 +81763,8 @@ game_id,screen_name,prediction
 2023_17_NE_BUF,R Montgomery,100
 2023_17_NE_BUF,Ramiro Bentes,95
 2023_17_NE_BUF,Robert Greer,91
-2023_17_NE_BUF,robert martin,50
 2023_17_NE_BUF,Robert Martin,85
+2023_17_NE_BUF,robert martin,50
 2023_17_NE_BUF,Roe Henson,87
 2023_17_NE_BUF,Roman Torres,81
 2023_17_NE_BUF,Rômulo Torres,100
@@ -82098,8 +82098,8 @@ game_id,screen_name,prediction
 2023_17_TEN_HOU,Jannis ,50
 2023_17_TEN_HOU,Jason Coleman,50
 2023_17_TEN_HOU,Jason Fitzgerald,65
-2023_17_TEN_HOU,Jason Lee,69
 2023_17_TEN_HOU,Jason Lee,66
+2023_17_TEN_HOU,Jason Lee,69
 2023_17_TEN_HOU,Jeff Dauphinais,66
 2023_17_TEN_HOU,Jeffrey Tan,50
 2023_17_TEN_HOU,Jeremy Brooks,55
@@ -83105,8 +83105,8 @@ game_id,screen_name,prediction
 2023_17_NO_TB,Christian Word,63
 2023_17_NO_TB,Connor McCormack,65
 2023_17_NO_TB,Craig Schallert,65
-2023_17_NO_TB,Daniel ,55
 2023_17_NO_TB,Daniel ,72
+2023_17_NO_TB,Daniel ,55
 2023_17_NO_TB,Daniel Houston,61
 2023_17_NO_TB,Daniel L,55
 2023_17_NO_TB,Daniel Nebenführ,60
@@ -83222,8 +83222,8 @@ game_id,screen_name,prediction
 2023_17_NO_TB,R Montgomery,76
 2023_17_NO_TB,Ramiro Bentes,55
 2023_17_NO_TB,Robert Greer,57
-2023_17_NO_TB,Robert Martin,45
 2023_17_NO_TB,robert martin,50
+2023_17_NO_TB,Robert Martin,45
 2023_17_NO_TB,Roe Henson,58
 2023_17_NO_TB,Roman Torres,63
 2023_17_NO_TB,Rômulo Torres,57
@@ -85574,8 +85574,8 @@ game_id,screen_name,prediction
 2023_18_ATL_NO,Christian Word,45
 2023_18_ATL_NO,Connor McCormack,62
 2023_18_ATL_NO,Craig Schallert,67
-2023_18_ATL_NO,Daniel ,63
 2023_18_ATL_NO,Daniel ,55
+2023_18_ATL_NO,Daniel ,63
 2023_18_ATL_NO,Daniel Houston,63
 2023_18_ATL_NO,Daniel Kelly,62
 2023_18_ATL_NO,Daniel L,61
@@ -87805,8 +87805,8 @@ game_id,screen_name,prediction
 2023_19_MIA_KC,Christian Word,71
 2023_19_MIA_KC,Connor McCormack,86
 2023_19_MIA_KC,Craig Schallert,79
-2023_19_MIA_KC,Daniel ,71
 2023_19_MIA_KC,Daniel ,75
+2023_19_MIA_KC,Daniel ,71
 2023_19_MIA_KC,Daniel Houston,58
 2023_19_MIA_KC,Daniel Kelly,50
 2023_19_MIA_KC,Daniel L,64
@@ -88419,8 +88419,8 @@ game_id,screen_name,prediction
 2023_19_PIT_BUF,Jake Danilson,80
 2023_19_PIT_BUF,Jannis ,50
 2023_19_PIT_BUF,Jason Fitzgerald,94
-2023_19_PIT_BUF,Jason Lee,87
 2023_19_PIT_BUF,Jason Lee,79
+2023_19_PIT_BUF,Jason Lee,87
 2023_19_PIT_BUF,Jeff Dauphinais,81
 2023_19_PIT_BUF,Jeffrey Tan,50
 2023_19_PIT_BUF,Jeremy Roell,65
@@ -88805,8 +88805,8 @@ game_id,screen_name,prediction
 2023_20_HOU_BAL,Ivan Patel,81
 2023_20_HOU_BAL,J ,100
 2023_20_HOU_BAL,Jake Danilson,100
-2023_20_HOU_BAL,Jason Lee,77
 2023_20_HOU_BAL,Jason Lee,85
+2023_20_HOU_BAL,Jason Lee,77
 2023_20_HOU_BAL,Jeff Dauphinais,75
 2023_20_HOU_BAL,Jeremy Roell,60
 2023_20_HOU_BAL,Jesse Wolfersberger,79
@@ -88975,8 +88975,8 @@ game_id,screen_name,prediction
 2023_20_GB_SF,Ivan Patel,100
 2023_20_GB_SF,J ,100
 2023_20_GB_SF,Jake Danilson,100
-2023_20_GB_SF,Jason Lee,77
 2023_20_GB_SF,Jason Lee,85
+2023_20_GB_SF,Jason Lee,77
 2023_20_GB_SF,Jeff Dauphinais,88
 2023_20_GB_SF,Jeremy Roell,65
 2023_20_GB_SF,Jesse Wolfersberger,72
@@ -89502,8 +89502,8 @@ game_id,screen_name,prediction
 2023_21_KC_BAL,Jacob Allred,0
 2023_21_KC_BAL,Jake Danilson,100
 2023_21_KC_BAL,Jason Coleman,45
-2023_21_KC_BAL,Jason Lee,81
 2023_21_KC_BAL,Jason Lee,59
+2023_21_KC_BAL,Jason Lee,81
 2023_21_KC_BAL,Jeff Dauphinais,50
 2023_21_KC_BAL,Jeremy Roell,50
 2023_21_KC_BAL,Jericho S,53
