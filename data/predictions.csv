@@ -15362,8 +15362,8 @@ game_id,screen_name,prediction
 2023_02_SF_LA,Александр Кеменов,33
 2023_02_SF_LA,Андрей Маланцев,5
 2023_02_SF_LA,謙吾 金杉,50
-2023_02_NYJ_DAL, ,50
 2023_02_NYJ_DAL, ,75
+2023_02_NYJ_DAL, ,50
 2023_02_NYJ_DAL,Aaron Goodwin,65
 2023_02_NYJ_DAL,Aaron Lindsey,79
 2023_02_NYJ_DAL,Aaron Nessel,81
@@ -72402,8 +72402,8 @@ game_id,screen_name,prediction
 2023_14_SEA_SF,Rômulo Torres,88
 2023_14_SEA_SF,Rotem Dvir,90
 2023_14_SEA_SF,Ruben Flores,100
-2023_14_SEA_SF,Russell Miller,100
 2023_14_SEA_SF,Russell Miller,50
+2023_14_SEA_SF,Russell Miller,100
 2023_14_SEA_SF,Ryan Kinsey,63
 2023_14_SEA_SF,ryan salsbury,89
 2023_14_SEA_SF,Ryan Soukup,68
@@ -76762,8 +76762,8 @@ game_id,screen_name,prediction
 2023_15_DAL_BUF,Jason Fitzgerald,54
 2023_15_DAL_BUF,Jason Fitzgerald,50
 2023_15_DAL_BUF,Jason Huffman,50
-2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jason Lee,58
+2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jeff Dauphinais,43
 2023_15_DAL_BUF,Jeffrey Tan,50
 2023_15_DAL_BUF,Jeremy Brooks,45
@@ -84792,8 +84792,8 @@ game_id,screen_name,prediction
 2023_18_TB_CAR,Jannis ,23
 2023_18_TB_CAR,Jason Coleman,50
 2023_18_TB_CAR,Jason Fitzgerald,26
-2023_18_TB_CAR,Jason Lee,29
 2023_18_TB_CAR,Jason Lee,21
+2023_18_TB_CAR,Jason Lee,29
 2023_18_TB_CAR,Jaxon Drew,50
 2023_18_TB_CAR,Jeff Dauphinais,29
 2023_18_TB_CAR,Jeffrey Tan,50
