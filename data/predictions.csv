@@ -1094,8 +1094,8 @@ game_id,screen_name,prediction
 2023_01_CAR_ATL,robert camin,79
 2023_01_CAR_ATL,robert clark,50
 2023_01_CAR_ATL,Robert Greer,63
-2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,robert martin,50
+2023_01_CAR_ATL,Robert Martin,55
 2023_01_CAR_ATL,Robert Reynolds,50
 2023_01_CAR_ATL,Robert Sasso,50
 2023_01_CAR_ATL,Roe Henson,75
@@ -2829,8 +2829,8 @@ game_id,screen_name,prediction
 2023_01_JAX_IND,Joel Hane,28
 2023_01_JAX_IND,Joey Kunkle,22
 2023_01_JAX_IND,John Akey,33
-2023_01_JAX_IND,John Bray,45
 2023_01_JAX_IND,John Bray,50
+2023_01_JAX_IND,John Bray,45
 2023_01_JAX_IND,John Christman,0
 2023_01_JAX_IND,John Edwards,36
 2023_01_JAX_IND,John Kostal,35
@@ -60089,8 +60089,8 @@ game_id,screen_name,prediction
 2023_11_LAC_GB,Jason Hanrahan,44
 2023_11_LAC_GB,Jason Huffman,32
 2023_11_LAC_GB,Jason Huffman,32
-2023_11_LAC_GB,Jason Lee,30
 2023_11_LAC_GB,Jason Lee,41
+2023_11_LAC_GB,Jason Lee,30
 2023_11_LAC_GB,Jason Lee,50
 2023_11_LAC_GB,Jay Morrison,100
 2023_11_LAC_GB,Jaycen Sussman,54
@@ -62068,8 +62068,8 @@ game_id,screen_name,prediction
 2023_11_SEA_LA,Jason Hanrahan,50
 2023_11_SEA_LA,Jason Huffman,50
 2023_11_SEA_LA,Jason Huffman,50
-2023_11_SEA_LA,Jason Lee,49
 2023_11_SEA_LA,Jason Lee,61
+2023_11_SEA_LA,Jason Lee,49
 2023_11_SEA_LA,Jason Lee,50
 2023_11_SEA_LA,Jay Morrison,0
 2023_11_SEA_LA,Jaycen Sussman,53
@@ -68201,8 +68201,8 @@ game_id,screen_name,prediction
 2023_13_ARI_PIT,Jason Fitzgerald,79
 2023_13_ARI_PIT,Jason Hanrahan,66
 2023_13_ARI_PIT,Jason Huffman,50
-2023_13_ARI_PIT,Jason Lee,70
 2023_13_ARI_PIT,Jason Lee,63
+2023_13_ARI_PIT,Jason Lee,70
 2023_13_ARI_PIT,Jeff Dauphinais,68
 2023_13_ARI_PIT,Jeffrey Tan,50
 2023_13_ARI_PIT,Jeremy Brooks,60
@@ -76762,8 +76762,8 @@ game_id,screen_name,prediction
 2023_15_DAL_BUF,Jason Fitzgerald,50
 2023_15_DAL_BUF,Jason Fitzgerald,54
 2023_15_DAL_BUF,Jason Huffman,50
-2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jason Lee,58
+2023_15_DAL_BUF,Jason Lee,49
 2023_15_DAL_BUF,Jeff Dauphinais,43
 2023_15_DAL_BUF,Jeffrey Tan,50
 2023_15_DAL_BUF,Jeremy Brooks,45
@@ -84469,8 +84469,8 @@ game_id,screen_name,prediction
 2023_18_PIT_BAL,R Montgomery,50
 2023_18_PIT_BAL,Ramiro Bentes,45
 2023_18_PIT_BAL,Robert Greer,51
-2023_18_PIT_BAL,Robert Martin,48
 2023_18_PIT_BAL,robert martin,50
+2023_18_PIT_BAL,Robert Martin,48
 2023_18_PIT_BAL,Roe Henson,37
 2023_18_PIT_BAL,Roman Torres,46
 2023_18_PIT_BAL,Rômulo Torres,40
@@ -93974,8 +93974,8 @@ game_id,screen_name,prediction
 2024_01_MIN_NYG,Aron Goldman,50
 2024_01_MIN_NYG,Ashok Kumar,60
 2024_01_MIN_NYG,Austin ,42
-2024_01_MIN_NYG,Austin Smith,50
 2024_01_MIN_NYG,Austin Smith,47
+2024_01_MIN_NYG,Austin Smith,50
 2024_01_MIN_NYG,Avery Corneliusen,1
 2024_01_MIN_NYG,Barron Balyeat,50
 2024_01_MIN_NYG,Ben Alcantara,56
@@ -104221,8 +104221,8 @@ game_id,screen_name,prediction
 2024_03_HOU_MIN,Craig Schallert,38
 2024_03_HOU_MIN,Damian Hernández,50
 2024_03_HOU_MIN,Dan Goldman,50
-2024_03_HOU_MIN,Daniel ,41
 2024_03_HOU_MIN,Daniel ,47
+2024_03_HOU_MIN,Daniel ,41
 2024_03_HOU_MIN,Daniel Kelly,56
 2024_03_HOU_MIN,Daniel L,47
 2024_03_HOU_MIN,Daniel Nebenführ,43
@@ -106291,8 +106291,8 @@ game_id,screen_name,prediction
 2024_03_MIA_SEA,Craig Schallert,64
 2024_03_MIA_SEA,Damian Hernández,50
 2024_03_MIA_SEA,Dan Goldman,50
-2024_03_MIA_SEA,Daniel ,60
 2024_03_MIA_SEA,Daniel ,70
+2024_03_MIA_SEA,Daniel ,60
 2024_03_MIA_SEA,Daniel Kelly,61
 2024_03_MIA_SEA,Daniel L,66
 2024_03_MIA_SEA,Daniel Nebenführ,72
@@ -106981,8 +106981,8 @@ game_id,screen_name,prediction
 2024_03_BAL_DAL,Craig Schallert,55
 2024_03_BAL_DAL,Damian Hernández,50
 2024_03_BAL_DAL,Dan Goldman,50
-2024_03_BAL_DAL,Daniel ,54
 2024_03_BAL_DAL,Daniel ,52
+2024_03_BAL_DAL,Daniel ,54
 2024_03_BAL_DAL,Daniel Kelly,38
 2024_03_BAL_DAL,Daniel L,50
 2024_03_BAL_DAL,Daniel Nebenführ,50
@@ -107671,8 +107671,8 @@ game_id,screen_name,prediction
 2024_03_KC_ATL,Craig Schallert,40
 2024_03_KC_ATL,Damian Hernández,50
 2024_03_KC_ATL,Dan Goldman,50
-2024_03_KC_ATL,Daniel ,43
 2024_03_KC_ATL,Daniel ,16
+2024_03_KC_ATL,Daniel ,43
 2024_03_KC_ATL,Daniel Kelly,31
 2024_03_KC_ATL,Daniel L,40
 2024_03_KC_ATL,Daniel Nebenführ,36
@@ -108369,8 +108369,8 @@ game_id,screen_name,prediction
 2024_03_WAS_CIN,Craig Schallert,68
 2024_03_WAS_CIN,Damian Hernández,50
 2024_03_WAS_CIN,Dan Goldman,50
-2024_03_WAS_CIN,Daniel ,69
 2024_03_WAS_CIN,Daniel ,75
+2024_03_WAS_CIN,Daniel ,69
 2024_03_WAS_CIN,Daniel Kelly,64
 2024_03_WAS_CIN,Daniel L,76
 2024_03_WAS_CIN,Daniel Nebenführ,75
@@ -109173,8 +109173,8 @@ game_id,screen_name,prediction
 2024_04_NO_ATL,Liam Durkin,50
 2024_04_NO_ATL,Lozo1016 ,59
 2024_04_NO_ATL,Luca Bagnara,45
-2024_04_NO_ATL,Lucas Espinosa,60
 2024_04_NO_ATL,Lucas Espinosa,62
+2024_04_NO_ATL,Lucas Espinosa,60
 2024_04_NO_ATL,Luke Benz,70
 2024_04_NO_ATL,Luke Stanke,58
 2024_04_NO_ATL,Luke Vacca,50
@@ -111917,8 +111917,8 @@ game_id,screen_name,prediction
 2024_04_NE_SF,Brian Kardell,100
 2024_04_NE_SF,Bryan Knowles,96
 2024_04_NE_SF,Bryer Cashman,77
-2024_04_NE_SF,Caelan Thomas,80
 2024_04_NE_SF,Caelan Thomas,71
+2024_04_NE_SF,Caelan Thomas,80
 2024_04_NE_SF,Cam Lopez,78
 2024_04_NE_SF,Camden Kay,82
 2024_04_NE_SF,Carter Chylek,85
@@ -112237,8 +112237,8 @@ game_id,screen_name,prediction
 2024_04_KC_LAC,Brian Kardell,30
 2024_04_KC_LAC,Bryan Knowles,47
 2024_04_KC_LAC,Bryer Cashman,26
-2024_04_KC_LAC,Caelan Thomas,35
 2024_04_KC_LAC,Caelan Thomas,20
+2024_04_KC_LAC,Caelan Thomas,35
 2024_04_KC_LAC,Cam Lopez,19
 2024_04_KC_LAC,Camden Kay,23
 2024_04_KC_LAC,Carter Chylek,20
@@ -113010,8 +113010,8 @@ game_id,screen_name,prediction
 2024_04_BUF_BAL,Liam Durkin,50
 2024_04_BUF_BAL,Lozo1016 ,49
 2024_04_BUF_BAL,Luca Bagnara,47
-2024_04_BUF_BAL,Lucas Espinosa,48
 2024_04_BUF_BAL,Lucas Espinosa,37
+2024_04_BUF_BAL,Lucas Espinosa,48
 2024_04_BUF_BAL,Luke Benz,29
 2024_04_BUF_BAL,Luke Stanke,45
 2024_04_BUF_BAL,Luke Vacca,62
@@ -113856,8 +113856,8 @@ game_id,screen_name,prediction
 2024_05_TB_ATL,Brian Hampton,37
 2024_05_TB_ATL,Bryan Knowles,64
 2024_05_TB_ATL,Bryer Cashman,63
-2024_05_TB_ATL,Caelan Thomas,20
 2024_05_TB_ATL,Caelan Thomas,47
+2024_05_TB_ATL,Caelan Thomas,20
 2024_05_TB_ATL,Cam Lopez,40
 2024_05_TB_ATL,Camden Kay,55
 2024_05_TB_ATL,Carter Chylek,41
@@ -115121,8 +115121,8 @@ game_id,screen_name,prediction
 2024_05_BUF_HOU,Brian Hampton,50
 2024_05_BUF_HOU,Bryan Knowles,65
 2024_05_BUF_HOU,Bryer Cashman,47
-2024_05_BUF_HOU,Caelan Thomas,34
 2024_05_BUF_HOU,Caelan Thomas,50
+2024_05_BUF_HOU,Caelan Thomas,34
 2024_05_BUF_HOU,Camden Kay,45
 2024_05_BUF_HOU,Carter Chylek,59
 2024_05_BUF_HOU,Charlie Beurskens,39
@@ -116063,8 +116063,8 @@ game_id,screen_name,prediction
 2024_05_CLE_WAS,Brian Hampton,50
 2024_05_CLE_WAS,Bryan Knowles,71
 2024_05_CLE_WAS,Bryer Cashman,59
-2024_05_CLE_WAS,Caelan Thomas,61
 2024_05_CLE_WAS,Caelan Thomas,59
+2024_05_CLE_WAS,Caelan Thomas,61
 2024_05_CLE_WAS,Camden Kay,59
 2024_05_CLE_WAS,Carter Chylek,59
 2024_05_CLE_WAS,Charlie Beurskens,61
@@ -116691,8 +116691,8 @@ game_id,screen_name,prediction
 2024_05_ARI_SF,Brian Hampton,50
 2024_05_ARI_SF,Bryan Knowles,98
 2024_05_ARI_SF,Bryer Cashman,70
-2024_05_ARI_SF,Caelan Thomas,80
 2024_05_ARI_SF,Caelan Thomas,73
+2024_05_ARI_SF,Caelan Thomas,80
 2024_05_ARI_SF,Camden Kay,74
 2024_05_ARI_SF,Carter Chylek,75
 2024_05_ARI_SF,Charlie Beurskens,71
@@ -118265,8 +118265,8 @@ game_id,screen_name,prediction
 2024_06_SF_SEA,Brian Hershaft,45
 2024_06_SF_SEA,Bryan Knowles,56
 2024_06_SF_SEA,Bryer Cashman,32
-2024_06_SF_SEA,Caelan Thomas,50
 2024_06_SF_SEA,Caelan Thomas,36
+2024_06_SF_SEA,Caelan Thomas,50
 2024_06_SF_SEA,Camden Kay,33
 2024_06_SF_SEA,Carter Chylek,35
 2024_06_SF_SEA,Charlie Beurskens,35
@@ -122587,8 +122587,8 @@ game_id,screen_name,prediction
 2024_07_NE_JAX,Brian Hershaft,57
 2024_07_NE_JAX,Bryan Knowles,59
 2024_07_NE_JAX,Bryer Cashman,67
-2024_07_NE_JAX,Caelan Thomas,68
 2024_07_NE_JAX,Caelan Thomas,69
+2024_07_NE_JAX,Caelan Thomas,68
 2024_07_NE_JAX,Camden Kay,67
 2024_07_NE_JAX,Carter Chylek,60
 2024_07_NE_JAX,Charlie Beurskens,56
@@ -123144,8 +123144,8 @@ game_id,screen_name,prediction
 2024_07_TEN_BUF,Brian Hershaft,85
 2024_07_TEN_BUF,Bryan Knowles,92
 2024_07_TEN_BUF,Bryer Cashman,78
-2024_07_TEN_BUF,Caelan Thomas,76
 2024_07_TEN_BUF,Caelan Thomas,79
+2024_07_TEN_BUF,Caelan Thomas,76
 2024_07_TEN_BUF,Camden Kay,80
 2024_07_TEN_BUF,Carter Chylek,100
 2024_07_TEN_BUF,Charlie Beurskens,69
@@ -124265,8 +124265,8 @@ game_id,screen_name,prediction
 2024_07_DET_MIN,Brian Hershaft,50
 2024_07_DET_MIN,Bryan Knowles,64
 2024_07_DET_MIN,Bryer Cashman,45
-2024_07_DET_MIN,Caelan Thomas,46
 2024_07_DET_MIN,Caelan Thomas,50
+2024_07_DET_MIN,Caelan Thomas,46
 2024_07_DET_MIN,Camden Kay,47
 2024_07_DET_MIN,Carter Chylek,45
 2024_07_DET_MIN,Charlie Beurskens,45
@@ -124545,8 +124545,8 @@ game_id,screen_name,prediction
 2024_07_PHI_NYG,Brian Hershaft,34
 2024_07_PHI_NYG,Bryan Knowles,57
 2024_07_PHI_NYG,Bryer Cashman,34
-2024_07_PHI_NYG,Caelan Thomas,36
 2024_07_PHI_NYG,Caelan Thomas,40
+2024_07_PHI_NYG,Caelan Thomas,36
 2024_07_PHI_NYG,Camden Kay,40
 2024_07_PHI_NYG,Carter Chylek,35
 2024_07_PHI_NYG,Charlie Beurskens,50
