@@ -6980,3 +6980,5 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2024_19_LAC_HOU,2024,WC,19,2025-01-11,Saturday,16:30,LAC,,HOU,,Home,,,,2025011100,,,202501110htx,,,,6,6,,,,,,,,,0,closed,astroturf,,,,,,,Jim Harbaugh,DeMeco Ryans,,HOU00,NRG Stadium
 2024_19_PIT_BAL,2024,WC,19,2025-01-11,Saturday,20:00,PIT,,BAL,,Home,,,,2025011101,,,202501110rav,,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Tomlin,John Harbaugh,,BAL00,M&T Bank Stadium
 2024_19_DEN_BUF,2024,WC,19,2025-01-12,Sunday,13:00,DEN,,BUF,,Home,,,,2025011200,,,202501120buf,,,,7,7,,,,,,,,,0,outdoors,a_turf,,,,,,,Sean Payton,Sean McDermott,,BUF00,New Era Field
+2024_19_GB_PHI,2024,WC,19,2025-01-12,Sunday,16:30,GB,,PHI,,Home,,,,2025011201,,,202501120phi,,,,7,7,,,,,,,,,0,outdoors,"",,,,,,,Matt LaFleur,Nick Sirianni,,PHI00,Lincoln Financial Field
+2024_19_WAS_TB,2024,WC,19,2025-01-12,Sunday,20:00,WAS,,TB,,Home,,,,2025011202,,,202501120tam,,,,7,7,,,,,,,,,0,outdoors,"",,,,,,,Dan Quinn,Todd Bowles,,TAM00,Raymond James Stadium
