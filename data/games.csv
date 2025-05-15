@@ -7001,11 +7001,11 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2025_01_PIT_NYJ,2025,REG,1,2025-09-07,Sunday,13:00,PIT,,NYJ,,Home,,,,2025090706,,,202509070nyj,,,,7,7,-155,130,-3,-110,-110,39.5,-110,-110,0,outdoors,fieldturf,,,,,,,Mike Tomlin,Aaron Glenn,,NYC01,MetLife Stadium
 2025_01_NYG_WAS,2025,REG,1,2025-09-07,Sunday,13:00,NYG,,WAS,,Home,,,,2025090707,,,202509070was,,,,7,7,270,-350,7,-110,-110,45.5,-110,-110,1,outdoors,grass,,,,,,,Brian Daboll,Dan Quinn,,WAS00,FedExField
 2025_01_TEN_DEN,2025,REG,1,2025-09-07,Sunday,16:05,TEN,,DEN,,Home,,,,2025090708,,,202509070den,,,,7,7,280,-350,7,-110,-110,41.5,-110,-110,0,outdoors,grass,,,,,,,Brian Callahan,Sean Payton,,DEN00,Empower Field at Mile High
-2025_01_SF_SEA,2025,REG,1,2025-09-07,Sunday,16:05,SF,,SEA,,Home,,,,2025090709,,,202509070sea,,,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Mike Macdonald,,SEA00,Lumen Field
+2025_01_SF_SEA,2025,REG,1,2025-09-07,Sunday,16:05,SF,,SEA,,Home,,,,2025090709,,,202509070sea,,,,7,7,-125,105,-1.5,-115,-105,45.5,-110,-110,1,outdoors,fieldturf,,,,,,,Kyle Shanahan,Mike Macdonald,,SEA00,Lumen Field
 2025_01_DET_GB,2025,REG,1,2025-09-07,Sunday,16:25,DET,,GB,,Home,,,,2025090710,,,202509070gnb,,,,7,7,-115,-105,-1.5,-105,-115,49.5,-110,-110,1,outdoors,grass,,,,,,,Dan Campbell,Matt LaFleur,,GNB00,Lambeau Field
-2025_01_HOU_LA,2025,REG,1,2025-09-07,Sunday,16:25,HOU,,LA,,Home,,,,2025090711,,,202509070ram,,,,7,7,,,,,,,,,0,dome,matrixturf,,,,,,,DeMeco Ryans,Sean McVay,,LAX01,SoFi Stadium
-2025_01_BAL_BUF,2025,REG,1,2025-09-07,Sunday,20:20,BAL,,BUF,,Home,,,,2025090712,,,202509070buf,,,,7,7,,,,,,,,,0,outdoors,a_turf,,,,,,,John Harbaugh,Sean McDermott,,BUF00,New Era Field
-2025_01_MIN_CHI,2025,REG,1,2025-09-08,Monday,20:15,MIN,,CHI,,Home,,,,2025090800,,,202509080chi,,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Ben Johnson,,CHI98,Soldier Field
+2025_01_HOU_LA,2025,REG,1,2025-09-07,Sunday,16:25,HOU,,LA,,Home,,,,2025090711,,,202509070ram,,,,7,7,125,-150,2.5,-105,-115,46.5,-110,-110,0,dome,matrixturf,,,,,,,DeMeco Ryans,Sean McVay,,LAX01,SoFi Stadium
+2025_01_BAL_BUF,2025,REG,1,2025-09-07,Sunday,20:20,BAL,,BUF,,Home,,,,2025090712,,,202509070buf,,,,7,7,105,-125,1.5,-110,-110,51.5,-105,-115,0,outdoors,a_turf,,,,,,,John Harbaugh,Sean McDermott,,BUF00,New Era Field
+2025_01_MIN_CHI,2025,REG,1,2025-09-08,Monday,20:15,MIN,,CHI,,Home,,,,2025090800,,,202509080chi,,,,7,7,-115,-105,-1.5,-105,-115,44.5,-110,-110,1,outdoors,grass,,,,,,,Kevin O'Connell,Ben Johnson,,CHI98,Soldier Field
 2025_02_WAS_GB,2025,REG,2,2025-09-11,Thursday,20:15,WAS,,GB,,Home,,,,2025091100,,,202509110gnb,,,,4,4,100,-120,1.5,-110,-110,48.5,-110,-110,0,outdoors,grass,,,,,,,Dan Quinn,Matt LaFleur,,GNB00,Lambeau Field
 2025_02_CLE_BAL,2025,REG,2,2025-09-14,Sunday,13:00,CLE,,BAL,,Home,,,,2025091400,,,202509140rav,,,,7,7,455,-625,12.5,-110,-110,44.5,-110,-110,1,outdoors,grass,,,,,,,Kevin Stefanski,John Harbaugh,,BAL00,M&T Bank Stadium
 2025_02_JAX_CIN,2025,REG,2,2025-09-14,Sunday,13:00,JAX,,CIN,,Home,,,,2025091401,,,202509140cin,,,,7,7,185,-225,5.5,-110,-110,49.5,-115,-105,0,outdoors,fieldturf,,,,,,,Liam Coen,Zac Taylor,,CIN00,Paycor Stadium
