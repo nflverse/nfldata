@@ -7013,12 +7013,12 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2025_02_CHI_DET,2025,REG,2,2025-09-14,Sunday,13:00,CHI,,DET,,Home,,,,2025091403,,,202509140det,,,,6,7,180,-218,4.5,-105,-115,48.5,-110,-110,1,dome,fieldturf,,,,,,,Ben Johnson,Dan Campbell,,DET00,Ford Field
 2025_02_NE_MIA,2025,REG,2,2025-09-14,Sunday,13:00,NE,,MIA,,Home,,,,2025091404,,,202509140mia,,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Mike Vrabel,Mike McDaniel,,MIA00,Hard Rock Stadium
 2025_02_SF_NO,2025,REG,2,2025-09-14,Sunday,13:00,SF,,NO,,Home,,,,2025091405,,,202509140nor,,,,7,7,,,,,,,,,0,dome,sportturf,,,,,,,Kyle Shanahan,Kellen Moore,,NOR00,Mercedes-Benz Superdome
-2025_02_BUF_NYJ,2025,REG,2,2025-09-14,Sunday,13:00,BUF,,NYJ,,Home,,,,2025091406,,,202509140nyj,,,,7,7,,,,,,,,,1,outdoors,fieldturf,,,,,,,Sean McDermott,Aaron Glenn,,NYC01,MetLife Stadium
+2025_02_BUF_NYJ,2025,REG,2,2025-09-14,Sunday,13:00,BUF,,NYJ,,Home,,,,2025091406,,,202509140nyj,,,,7,7,-375,300,-8.5,-110,-110,44.5,-110,-110,1,outdoors,fieldturf,,,,,,,Sean McDermott,Aaron Glenn,,NYC01,MetLife Stadium
 2025_02_SEA_PIT,2025,REG,2,2025-09-14,Sunday,13:00,SEA,,PIT,,Home,,,,2025091407,,,202509140pit,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Mike Macdonald,Mike Tomlin,,PIT00,Acrisure Stadium
 2025_02_LA_TEN,2025,REG,2,2025-09-14,Sunday,13:00,LA,,TEN,,Home,,,,2025091408,,,202509140oti,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Sean McVay,Brian Callahan,,NAS00,Nissan Stadium
 2025_02_CAR_ARI,2025,REG,2,2025-09-14,Sunday,16:05,CAR,,ARI,,Home,,,,2025091409,,,202509140crd,,,,7,7,,,,,,,,,0,closed,grass,,,,,,,Dave Canales,Jonathan Gannon,,PHO00,State Farm Stadium
 2025_02_DEN_IND,2025,REG,2,2025-09-14,Sunday,16:05,DEN,,IND,,Home,,,,2025091410,,,202509140clt,,,,7,7,,,,,,,,,0,closed,fieldturf,,,,,,,Sean Payton,Shane Steichen,,IND00,Lucas Oil Stadium
-2025_02_PHI_KC,2025,REG,2,2025-09-14,Sunday,16:25,PHI,,KC,,Home,,,,2025091411,,,202509140kan,,,,10,9,,,,,,,,,0,outdoors,grass,,,,,,,Nick Sirianni,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
+2025_02_PHI_KC,2025,REG,2,2025-09-14,Sunday,16:25,PHI,,KC,,Home,,,,2025091411,,,202509140kan,,,,10,9,100,-120,1.5,-110,-110,45.5,-110,-110,0,outdoors,grass,,,,,,,Nick Sirianni,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
 2025_02_ATL_MIN,2025,REG,2,2025-09-14,Sunday,20:20,ATL,,MIN,,Home,,,,2025091412,,,202509140min,,,,7,6,,,,,,,,,0,dome,sportturf,,,,,,,Raheem Morris,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2025_02_LAC_LV,2025,REG,2,2025-09-15,Monday,10:00,LAC,,LV,,Home,,,,2025091501,,,202509150rai,,,,10,8,-155,130,-3,-110,-110,44.5,-110,-110,1,dome,grass,,,,,,,Jim Harbaugh,Pete Carroll,,VEG00,Allegiant Stadium
 2025_02_TB_HOU,2025,REG,2,2025-09-15,Monday,19:00,TB,,HOU,,Home,,,,2025091500,,,202509150htx,,,,8,8,102,-122,1.5,-112,-108,46.5,-110,-110,0,closed,astroturf,,,,,,,Todd Bowles,DeMeco Ryans,,HOU00,NRG Stadium
