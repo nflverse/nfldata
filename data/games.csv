@@ -7179,7 +7179,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2025_13_ATL_NYJ,2025,REG,13,2025-11-30,Sunday,13:00,ATL,,NYJ,,Home,,,,2025113004,,,202511300nyj,,,,7,7,-122,102,-1.5,-110,-110,43.5,-110,-110,0,outdoors,fieldturf,,,,,,,Raheem Morris,Aaron Glenn,,NYC01,MetLife Stadium
 2025_13_ARI_TB,2025,REG,13,2025-11-30,Sunday,13:00,ARI,,TB,,Home,,,,2025113005,,,202511300tam,,,,7,7,145,-175,3.5,-110,-110,48.5,-110,-110,0,outdoors,grass,,,,,,,Jonathan Gannon,Todd Bowles,,TAM00,Raymond James Stadium
 2025_13_JAX_TEN,2025,REG,13,2025-11-30,Sunday,13:00,JAX,,TEN,,Home,,,,2025113006,,,202511300oti,,,,7,7,-120,100,-1.5,-108,-112,45.5,-110,-110,1,outdoors,grass,,,,,,,Liam Coen,Brian Callahan,,NAS00,Nissan Stadium
-2025_13_MIN_SEA,2025,REG,13,2025-11-30,Sunday,16:05,MIN,,SEA,,Home,,,,2025113007,,,202511300sea,,,,7,7,100,-120,1.5,-115,-105,43.5,-110,-110,0,outdoors,fieldturf,,,,,,,Kevin O'Connell,Mike Macdonald,,SEA00,Lumen Field
+2025_13_MIN_SEA,2025,REG,13,2025-11-30,Sunday,16:05,MIN,,SEA,,Home,,,,2025113007,,,202511300sea,,,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Kevin O'Connell,Mike Macdonald,,SEA00,Lumen Field
 2025_13_LV_LAC,2025,REG,13,2025-11-30,Sunday,16:25,LV,,LAC,,Home,,,,2025113008,,,202511300sdg,,,,7,14,215,-265,6.5,-110,-110,44.5,-112,-108,1,dome,matrixturf,,,,,,,Pete Carroll,Jim Harbaugh,,LAX01,SoFi Stadium
 2025_13_BUF_PIT,2025,REG,13,2025-11-30,Sunday,16:25,BUF,,PIT,,Home,,,,2025113009,,,202511300pit,,,,10,7,-198,164,-4.5,-115,-105,46.5,-110,-110,0,outdoors,grass,,,,,,,Sean McDermott,Mike Tomlin,,PIT00,Acrisure Stadium
 2025_13_DEN_WAS,2025,REG,13,2025-11-30,Sunday,20:20,DEN,,WAS,,Home,,,,2025113010,,,202511300was,,,,14,14,110,-130,2.5,-110,-110,46.5,-110,-110,0,outdoors,grass,,,,,,,Sean Payton,Dan Quinn,,WAS00,FedExField
