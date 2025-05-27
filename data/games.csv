@@ -7247,7 +7247,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2025_17_CHI_SF,2025,REG,17,2025-12-28,Sunday,20:20,CHI,,SF,,Home,,,,2025122806,,,202512280sfo,,,,9,6,150,-180,3.5,-110,-110,46.5,-110,-110,0,outdoors,grass,,,,,,,Ben Johnson,Kyle Shanahan,,SFO01,Levi's Stadium
 2025_17_LA_ATL,2025,REG,17,2025-12-29,Monday,20:15,LA,,ATL,,Home,,,,2025122900,,,202512290atl,,,,11,8,-162,136,-3,-110,-110,46.5,-110,-110,0,closed,fieldturf,,,,,,,Sean McVay,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2025_18_NO_ATL,2025,REG,18,2026-01-04,Sunday,13:00,NO,,ATL,,Home,,,,2025010400,,,202501040atl,,,,6,6,180,-218,4.5,-105,-115,,,,1,closed,fieldturf,,,,,,,Kellen Moore,Raheem Morris,,ATL97,Mercedes-Benz Stadium
-2025_18_NYJ_BUF,2025,REG,18,2026-01-04,Sunday,13:00,NYJ,,BUF,,Home,,,,2025010401,,,202501040buf,,,,6,6,310,-395,9.5,-110,-110,,,,1,outdoors,a_turf,,,,,,,Aaron Glenn,Sean McDermott,,BUF00,New Era Field
+2025_18_NYJ_BUF,2025,REG,18,2026-01-04,Sunday,13:00,NYJ,,BUF,,Home,,,,2025010401,,,202501040buf,,,,6,6,300,-380,9.5,-110,-110,,,,1,outdoors,a_turf,,,,,,,Aaron Glenn,Sean McDermott,,BUF00,New Era Field
 2025_18_DET_CHI,2025,REG,18,2026-01-04,Sunday,13:00,DET,,CHI,,Home,,,,2025010402,,,202501040chi,,,,5,9,-120,100,-1.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Campbell,Ben Johnson,,CHI98,Soldier Field
 2025_18_CLE_CIN,2025,REG,18,2026-01-04,Sunday,13:00,CLE,,CIN,,Home,,,,2025010403,,,202501040cin,,,,6,7,295,-375,8.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Kevin Stefanski,Zac Taylor,,CIN00,Paycor Stadium
 2025_18_LAC_DEN,2025,REG,18,2026-01-04,Sunday,13:00,LAC,,DEN,,Home,,,,2025010404,,,202501040den,,,,7,7,110,-130,2.5,-110,-110,,,,1,outdoors,grass,,,,,,,Jim Harbaugh,Sean Payton,,DEN00,Empower Field at Mile High
