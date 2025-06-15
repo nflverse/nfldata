@@ -7253,12 +7253,12 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2025_18_LAC_DEN,2025,REG,18,2026-01-04,Sunday,13:00,LAC,,DEN,,Home,,,,2025010404,,,202501040den,,,,7,7,110,-130,2.5,-110,-110,,,,1,outdoors,grass,,,,,,,Jim Harbaugh,Sean Payton,,DEN00,Empower Field at Mile High
 2025_18_IND_HOU,2025,REG,18,2026-01-04,Sunday,13:00,IND,,HOU,,Home,,,,2025010405,,,202501040htx,,,,6,10,164,-198,4.5,-110,-110,,,,1,closed,astroturf,,,,,,,Shane Steichen,DeMeco Ryans,,HOU00,NRG Stadium
 2025_18_TEN_JAX,2025,REG,18,2026-01-04,Sunday,13:00,TEN,,JAX,,Home,,,,2025010406,,,202501040jax,,,,6,6,164,-198,4.5,-110,-110,,,,1,outdoors,grass,,,,,,,Brian Callahan,Liam Coen,,JAX00,TIAA Bank Stadium
-2025_18_ARI_LA,2025,REG,18,2026-01-04,Sunday,13:00,ARI,,LA,,Home,,,,2025010407,,,202501040ram,,,,7,7,145,-175,3.5,-110,-110,,,,1,dome,matrixturf,,,,,,,Jonathan Gannon,Sean McVay,,LAX01,SoFi Stadium
+2025_18_ARI_LA,2025,REG,18,2026-01-04,Sunday,13:00,ARI,,LA,,Home,,,,2025010407,,,202501040ram,,,,7,7,145,-175,3.5,-110,-110,45.5,-110,-110,1,dome,matrixturf,,,,,,,Jonathan Gannon,Sean McVay,,LAX01,SoFi Stadium
 2025_18_KC_LV,2025,REG,18,2026-01-04,Sunday,13:00,KC,,LV,,Home,,,,2025010408,,,202501040rai,,,,10,6,-238,195,-6,-110,-110,,,,1,dome,grass,,,,,,,Andy Reid,Pete Carroll,,VEG00,Allegiant Stadium
 2025_18_GB_MIN,2025,REG,18,2026-01-04,Sunday,13:00,GB,,MIN,,Home,,,,2025010409,,,202501040min,,,,6,6,-122,102,-1.5,-105,-115,,,,1,dome,sportturf,,,,,,,Matt LaFleur,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2025_18_MIA_NE,2025,REG,18,2026-01-04,Sunday,13:00,MIA,,NE,,Home,,,,2025010410,,,202501040nwe,,,,6,7,110,-130,2.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Mike McDaniel,Mike Vrabel,,BOS00,Gillette Stadium
 2025_18_DAL_NYG,2025,REG,18,2026-01-04,Sunday,13:00,DAL,,NYG,,Home,,,,2025010411,,,202501040nyg,,,,6,6,-122,102,-1.5,-110,-110,,,,1,outdoors,fieldturf,,,,,,,Brian Schottenheimer,Brian Daboll,,NYC01,MetLife Stadium
 2025_18_WAS_PHI,2025,REG,18,2026-01-04,Sunday,13:00,WAS,,PHI,,Home,,,,2025010412,,,202501040phi,,,,6,6,164,-198,4.5,-110,-110,,,,1,outdoors,grass,,,,,,,Dan Quinn,Nick Sirianni,,PHI00,Lincoln Financial Field
 2025_18_BAL_PIT,2025,REG,18,2026-01-04,Sunday,13:00,BAL,,PIT,,Home,,,,2025010413,,,202501040pit,,,,10,10,-205,170,-4.5,-110,-110,,,,1,outdoors,grass,,,,,,,John Harbaugh,Mike Tomlin,,PIT00,Acrisure Stadium
-2025_18_SEA_SF,2025,REG,18,2026-01-04,Sunday,13:00,SEA,,SF,,Home,,,,2025010414,,,202501040sfo,,,,9,5,164,-198,4.5,-110,-110,,,,1,outdoors,grass,,,,,,,Mike Macdonald,Kyle Shanahan,,SFO01,Levi's Stadium
+2025_18_SEA_SF,2025,REG,18,2026-01-04,Sunday,13:00,SEA,,SF,,Home,,,,2025010414,,,202501040sfo,,,,9,5,164,-198,4.5,-110,-110,44.5,-105,-115,1,outdoors,grass,,,,,,,Mike Macdonald,Kyle Shanahan,,SFO01,Levi's Stadium
 2025_18_CAR_TB,2025,REG,18,2026-01-04,Sunday,13:00,CAR,,TB,,Home,,,,2025010415,,,202501040tam,,,,6,6,240,-298,7,-115,-105,,,,1,outdoors,grass,,,,,,,Dave Canales,Todd Bowles,,TAM00,Raymond James Stadium
