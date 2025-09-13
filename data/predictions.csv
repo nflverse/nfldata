@@ -963,8 +963,8 @@ game_id,screen_name,prediction
 2025_01_CIN_CLE,Connor McCormack,20
 2025_01_CIN_CLE,Craig Schallert,37
 2025_01_CIN_CLE,Dan Walsh,15
-2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,45
+2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel Anim,50
 2025_01_CIN_CLE,Daniel Kelly,31
@@ -1280,8 +1280,8 @@ game_id,screen_name,prediction
 2025_01_MIA_IND,Connor McCormack,46
 2025_01_MIA_IND,Craig Schallert,43
 2025_01_MIA_IND,Dan Walsh,44
-2025_01_MIA_IND,Daniel ,38
 2025_01_MIA_IND,Daniel ,52
+2025_01_MIA_IND,Daniel ,38
 2025_01_MIA_IND,Daniel ,53
 2025_01_MIA_IND,Daniel Anim,50
 2025_01_MIA_IND,Daniel Kelly,37
@@ -1597,8 +1597,8 @@ game_id,screen_name,prediction
 2025_01_CAR_JAX,Connor McCormack,59
 2025_01_CAR_JAX,Craig Schallert,60
 2025_01_CAR_JAX,Dan Walsh,41
-2025_01_CAR_JAX,Daniel ,64
 2025_01_CAR_JAX,Daniel ,63
+2025_01_CAR_JAX,Daniel ,64
 2025_01_CAR_JAX,Daniel ,69
 2025_01_CAR_JAX,Daniel Anim,50
 2025_01_CAR_JAX,Daniel Kelly,61
@@ -2233,8 +2233,8 @@ game_id,screen_name,prediction
 2025_01_ARI_NO,Connor McCormack,20
 2025_01_ARI_NO,Craig Schallert,37
 2025_01_ARI_NO,Dan Walsh,0
-2025_01_ARI_NO,Daniel ,14
 2025_01_ARI_NO,Daniel ,30
+2025_01_ARI_NO,Daniel ,14
 2025_01_ARI_NO,Daniel ,26
 2025_01_ARI_NO,Daniel Anim,49
 2025_01_ARI_NO,Daniel Kelly,33
@@ -2868,8 +2868,8 @@ game_id,screen_name,prediction
 2025_01_NYG_WAS,Connor McCormack,85
 2025_01_NYG_WAS,Craig Schallert,66
 2025_01_NYG_WAS,Dan Walsh,74
-2025_01_NYG_WAS,Daniel ,85
 2025_01_NYG_WAS,Daniel ,68
+2025_01_NYG_WAS,Daniel ,85
 2025_01_NYG_WAS,Daniel ,73
 2025_01_NYG_WAS,Daniel Anim,50
 2025_01_NYG_WAS,Daniel Kelly,62
@@ -4467,8 +4467,8 @@ game_id,screen_name,prediction
 2025_01_BAL_BUF,Connor McCormack,49
 2025_01_BAL_BUF,Craig Schallert,56
 2025_01_BAL_BUF,Dan Walsh,58
-2025_01_BAL_BUF,Daniel ,52
 2025_01_BAL_BUF,Daniel ,56
+2025_01_BAL_BUF,Daniel ,52
 2025_01_BAL_BUF,Daniel ,45
 2025_01_BAL_BUF,Daniel Anim,50
 2025_01_BAL_BUF,Daniel Kelly,37
@@ -5112,9 +5112,9 @@ game_id,screen_name,prediction
 2025_02_WAS_GB,Connor McCormack,58
 2025_02_WAS_GB,Craig Schallert,68
 2025_02_WAS_GB,Dan Walsh,45
-2025_02_WAS_GB,Daniel ,70
-2025_02_WAS_GB,Daniel ,58
 2025_02_WAS_GB,Daniel ,64
+2025_02_WAS_GB,Daniel ,58
+2025_02_WAS_GB,Daniel ,70
 2025_02_WAS_GB,Daniel Anim,50
 2025_02_WAS_GB,Daniel Kelly,59
 2025_02_WAS_GB,Daniel Nebenführ,65
