@@ -963,8 +963,8 @@ game_id,screen_name,prediction
 2025_01_CIN_CLE,Connor McCormack,20
 2025_01_CIN_CLE,Craig Schallert,37
 2025_01_CIN_CLE,Dan Walsh,15
-2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,45
+2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel Anim,50
 2025_01_CIN_CLE,Daniel Kelly,31
@@ -1280,8 +1280,8 @@ game_id,screen_name,prediction
 2025_01_MIA_IND,Connor McCormack,46
 2025_01_MIA_IND,Craig Schallert,43
 2025_01_MIA_IND,Dan Walsh,44
-2025_01_MIA_IND,Daniel ,38
 2025_01_MIA_IND,Daniel ,52
+2025_01_MIA_IND,Daniel ,38
 2025_01_MIA_IND,Daniel ,53
 2025_01_MIA_IND,Daniel Anim,50
 2025_01_MIA_IND,Daniel Kelly,37
@@ -2868,8 +2868,8 @@ game_id,screen_name,prediction
 2025_01_NYG_WAS,Connor McCormack,85
 2025_01_NYG_WAS,Craig Schallert,66
 2025_01_NYG_WAS,Dan Walsh,74
-2025_01_NYG_WAS,Daniel ,85
 2025_01_NYG_WAS,Daniel ,68
+2025_01_NYG_WAS,Daniel ,85
 2025_01_NYG_WAS,Daniel ,73
 2025_01_NYG_WAS,Daniel Anim,50
 2025_01_NYG_WAS,Daniel Kelly,62
@@ -3187,8 +3187,8 @@ game_id,screen_name,prediction
 2025_01_TEN_DEN,Connor McCormack,60
 2025_01_TEN_DEN,Craig Schallert,74
 2025_01_TEN_DEN,Dan Walsh,75
-2025_01_TEN_DEN,Daniel ,63
 2025_01_TEN_DEN,Daniel ,85
+2025_01_TEN_DEN,Daniel ,63
 2025_01_TEN_DEN,Daniel ,85
 2025_01_TEN_DEN,Daniel Anim,50
 2025_01_TEN_DEN,Daniel Kelly,73
@@ -3507,8 +3507,8 @@ game_id,screen_name,prediction
 2025_01_SF_SEA,Connor McCormack,41
 2025_01_SF_SEA,Craig Schallert,57
 2025_01_SF_SEA,Dan Walsh,38
-2025_01_SF_SEA,Daniel ,34
 2025_01_SF_SEA,Daniel ,50
+2025_01_SF_SEA,Daniel ,34
 2025_01_SF_SEA,Daniel ,44
 2025_01_SF_SEA,Daniel Anim,50
 2025_01_SF_SEA,Daniel Kelly,58
@@ -4147,9 +4147,9 @@ game_id,screen_name,prediction
 2025_01_HOU_LA,Connor McCormack,60
 2025_01_HOU_LA,Craig Schallert,63
 2025_01_HOU_LA,Dan Walsh,64
-2025_01_HOU_LA,Daniel ,46
-2025_01_HOU_LA,Daniel ,63
 2025_01_HOU_LA,Daniel ,54
+2025_01_HOU_LA,Daniel ,63
+2025_01_HOU_LA,Daniel ,46
 2025_01_HOU_LA,Daniel Anim,50
 2025_01_HOU_LA,Daniel Kelly,35
 2025_01_HOU_LA,Daniel Nebenführ,55
@@ -5102,8 +5102,8 @@ game_id,screen_name,prediction
 2025_02_WAS_GB,Chris Gadbois,75
 2025_02_WAS_GB,Chris Hellings,65
 2025_02_WAS_GB,Chris Lee,58
-2025_02_WAS_GB,Chris Loomis,50
 2025_02_WAS_GB,Chris Loomis,69
+2025_02_WAS_GB,Chris Loomis,50
 2025_02_WAS_GB,Chris Miller,50
 2025_02_WAS_GB,Cody King,50
 2025_02_WAS_GB,Cody Laney,58
@@ -5112,9 +5112,9 @@ game_id,screen_name,prediction
 2025_02_WAS_GB,Connor McCormack,58
 2025_02_WAS_GB,Craig Schallert,68
 2025_02_WAS_GB,Dan Walsh,45
-2025_02_WAS_GB,Daniel ,70
-2025_02_WAS_GB,Daniel ,58
 2025_02_WAS_GB,Daniel ,64
+2025_02_WAS_GB,Daniel ,58
+2025_02_WAS_GB,Daniel ,70
 2025_02_WAS_GB,Daniel Anim,50
 2025_02_WAS_GB,Daniel Kelly,59
 2025_02_WAS_GB,Daniel Nebenführ,65
