@@ -1,0 +1,57 @@
+on:
+  workflow_dispatch:
+  push:
+    paths: ["data/trades.csv"]
+
+name: Release trades
+permissions: read-all
+
+jobs:
+  update_games:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.NFLVERSE_GH_TOKEN }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+          extra-repositories: 'https://nflverse.r-universe.dev'
+
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: nflverse/nflverse-data, any::dplyr
+
+      - name: Release games data
+        run: |
+          cli::rule("Start games data update process")
+          # Load currently released data
+          released <- nflreadr::rds_from_url(paste0(
+            "https://github.com/nflverse/nflverse-data/",
+            "releases/download/trades/trades.rds"
+          ))
+
+          # Load data in nfldata repo
+          repo_data <- data.table::fread("data/games.csv")
+
+          # The workflow should only trigger if the data changed but it doesn't hurt
+          # to make sure we only update the data if the comparison shows that something
+          # really has changed
+          if (!all.equal(as.data.frame(released), as.data.frame(repo_data))) {
+            cli::cli_alert_info("Going to release updated trades data.")
+            nflversedata::nflverse_save(
+              data_frame = repo_data,
+              file_name = "trades",
+              nflverse_type = "trades, via Lee Sharpe & PFR",
+              release_tag = "trades",
+              file_types = c("rds", "csv", "parquet", "qs", "csv.gz"),
+            )
+          } else {
+            cli::cli_alert_success("Nothing changed. Trades data is up to date.")
+          }
+          cli::rule("Process complete")
+        shell: Rscript {0}
