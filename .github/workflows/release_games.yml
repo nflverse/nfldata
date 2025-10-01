@@ -3,7 +3,7 @@ on:
   push:
     paths: ["data/games.rds"]
 
-name: Update Games and Schedules
+name: Update nflverse-data@schedule release
 permissions: read-all
 
 jobs:
