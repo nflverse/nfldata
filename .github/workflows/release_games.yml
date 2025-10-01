@@ -7,7 +7,7 @@ name: Update Games and Schedules
 permissions: read-all
 
 jobs:
-  update_games:
+  release_games:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.NFLVERSE_GH_TOKEN }}
