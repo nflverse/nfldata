@@ -1,13 +1,13 @@
 on:
   workflow_dispatch:
   push:
-    paths: ["data/games.rds"]
+    paths: ["data/trades.csv"]
 
-name: Update Games and Schedules
+name: Update nflverse-data@trades release
 permissions: read-all
 
 jobs:
-  update_games:
+  release_trades:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.NFLVERSE_GH_TOKEN }}
@@ -32,27 +32,26 @@ jobs:
           # Load currently released data
           released <- nflreadr::rds_from_url(paste0(
             "https://github.com/nflverse/nflverse-data/",
-            "releases/download/schedules/games.rds"
+            "releases/download/trades/trades.rds"
           ))
 
           # Load data in nfldata repo
-          repo_data <- readRDS("data/games.rds")
+          repo_data <- data.table::fread("data/trades.csv")
 
           # The workflow should only trigger if the data changed but it doesn't hurt
           # to make sure we only update the data if the comparison shows that something
           # really has changed
-          if (!identical(released, repo_data)) {
-            cli::cli_alert_info("Going to release updated games data.")
-            out <- dplyr::rows_upsert(released, repo_data, by = "game_id")
+          if (!all.equal(as.data.frame(released), as.data.frame(repo_data))) {
+            cli::cli_alert_info("Going to release updated trades data.")
             nflversedata::nflverse_save(
-              data_frame = out,
-              file_name = "games",
-              nflverse_type = "games and schedules",
-              release_tag = "schedules",
+              data_frame = repo_data,
+              file_name = "trades",
+              nflverse_type = "trades, via Lee Sharpe & PFR",
+              release_tag = "trades",
               file_types = c("rds", "csv", "parquet", "qs", "csv.gz"),
             )
           } else {
-            cli::cli_alert_success("Nothing changed. Games data is up to date.")
+            cli::cli_alert_success("Nothing changed. Trades data is up to date.")
           }
           cli::rule("Process complete")
         shell: Rscript {0}
