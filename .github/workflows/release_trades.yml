@@ -7,7 +7,7 @@ name: Release trades
 permissions: read-all
 
 jobs:
-  update_games:
+  release_trades:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.NFLVERSE_GH_TOKEN }}
@@ -36,7 +36,7 @@ jobs:
           ))
 
           # Load data in nfldata repo
-          repo_data <- data.table::fread("data/games.csv")
+          repo_data <- data.table::fread("data/trades.csv")
 
           # The workflow should only trigger if the data changed but it doesn't hurt
           # to make sure we only update the data if the comparison shows that something
