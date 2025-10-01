@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          packages: nflverse/nflverse-data
+          packages: nflverse/nflverse-data, any::dplyr
 
       - name: Release games data
         run: |
