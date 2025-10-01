@@ -3,7 +3,7 @@ on:
   push:
     paths: ["data/trades.csv"]
 
-name: Release trades
+name: Update nflverse-data@trades release
 permissions: read-all
 
 jobs:
