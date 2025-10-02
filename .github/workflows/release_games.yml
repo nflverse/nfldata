@@ -41,7 +41,7 @@ jobs:
           # The workflow should only trigger if the data changed but it doesn't hurt
           # to make sure we only update the data if the comparison shows that something
           # really has changed
-          if (!all.equal(as.data.frame(released), as.data.frame(repo_data))) {
+          if (!identical(data.frame(released), data.frame(repo_data))) {
             cli::cli_alert_info("Going to release updated games data.")
             out <- dplyr::rows_upsert(released, repo_data, by = "game_id")
             nflversedata::nflverse_save(
