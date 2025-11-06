@@ -1597,9 +1597,9 @@ game_id,screen_name,prediction
 2025_01_CAR_JAX,Connor McCormack,59
 2025_01_CAR_JAX,Craig Schallert,60
 2025_01_CAR_JAX,Dan Walsh,41
-2025_01_CAR_JAX,Daniel ,64
-2025_01_CAR_JAX,Daniel ,69
 2025_01_CAR_JAX,Daniel ,63
+2025_01_CAR_JAX,Daniel ,69
+2025_01_CAR_JAX,Daniel ,64
 2025_01_CAR_JAX,Daniel Anim,50
 2025_01_CAR_JAX,Daniel Kelly,61
 2025_01_CAR_JAX,Daniel Nebenführ,60
@@ -7533,8 +7533,8 @@ game_id,screen_name,prediction
 2025_02_LA_TEN,Craig Schallert,37
 2025_02_LA_TEN,Dan Walsh,16
 2025_02_LA_TEN,Daniel ,29
-2025_02_LA_TEN,Daniel ,23
 2025_02_LA_TEN,Daniel ,37
+2025_02_LA_TEN,Daniel ,23
 2025_02_LA_TEN,Daniel Kelly,30
 2025_02_LA_TEN,Daniel Nebenführ,50
 2025_02_LA_TEN,Daniel Waldman,36
@@ -19995,8 +19995,8 @@ game_id,screen_name,prediction
 2025_05_WAS_LAC,Anna McCauley,50
 2025_05_WAS_LAC,Ashok Kumar,40
 2025_05_WAS_LAC,Austin ,63
-2025_05_WAS_LAC,Austin Smith,57
 2025_05_WAS_LAC,Austin Smith,50
+2025_05_WAS_LAC,Austin Smith,57
 2025_05_WAS_LAC,Ben Baldwin,59
 2025_05_WAS_LAC,Ben Bose,50
 2025_05_WAS_LAC,Ben Gardner,61
@@ -31715,8 +31715,8 @@ game_id,screen_name,prediction
 2025_09_IND_PIT,Connor McCormack,44
 2025_09_IND_PIT,Craig Schallert,26
 2025_09_IND_PIT,Dan Walsh,21
-2025_09_IND_PIT,Daniel ,42
 2025_09_IND_PIT,Daniel ,38
+2025_09_IND_PIT,Daniel ,42
 2025_09_IND_PIT,Daniel ,28
 2025_09_IND_PIT,Daniel Kelly,38
 2025_09_IND_PIT,Daniel Nebenführ,27
@@ -32334,8 +32334,8 @@ game_id,screen_name,prediction
 2025_09_JAX_LV,Craig Schallert,32
 2025_09_JAX_LV,Dan Walsh,27
 2025_09_JAX_LV,Daniel ,45
-2025_09_JAX_LV,Daniel ,45
 2025_09_JAX_LV,Daniel ,32
+2025_09_JAX_LV,Daniel ,45
 2025_09_JAX_LV,Daniel Kelly,29
 2025_09_JAX_LV,Daniel Nebenführ,33
 2025_09_JAX_LV,Daniel Schaller,50
