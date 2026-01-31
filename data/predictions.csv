@@ -963,8 +963,8 @@ game_id,screen_name,prediction
 2025_01_CIN_CLE,Connor McCormack,20
 2025_01_CIN_CLE,Craig Schallert,37
 2025_01_CIN_CLE,Dan Walsh,15
-2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,45
+2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel ,30
 2025_01_CIN_CLE,Daniel Anim,50
 2025_01_CIN_CLE,Daniel Kelly,31
@@ -1598,8 +1598,8 @@ game_id,screen_name,prediction
 2025_01_CAR_JAX,Craig Schallert,60
 2025_01_CAR_JAX,Dan Walsh,41
 2025_01_CAR_JAX,Daniel ,64
-2025_01_CAR_JAX,Daniel ,63
 2025_01_CAR_JAX,Daniel ,69
+2025_01_CAR_JAX,Daniel ,63
 2025_01_CAR_JAX,Daniel Anim,50
 2025_01_CAR_JAX,Daniel Kelly,61
 2025_01_CAR_JAX,Daniel Nebenführ,60
@@ -2234,8 +2234,8 @@ game_id,screen_name,prediction
 2025_01_ARI_NO,Craig Schallert,37
 2025_01_ARI_NO,Dan Walsh,0
 2025_01_ARI_NO,Daniel ,14
-2025_01_ARI_NO,Daniel ,30
 2025_01_ARI_NO,Daniel ,26
+2025_01_ARI_NO,Daniel ,30
 2025_01_ARI_NO,Daniel Anim,49
 2025_01_ARI_NO,Daniel Kelly,33
 2025_01_ARI_NO,Daniel Nebenführ,22
@@ -3188,8 +3188,8 @@ game_id,screen_name,prediction
 2025_01_TEN_DEN,Craig Schallert,74
 2025_01_TEN_DEN,Dan Walsh,75
 2025_01_TEN_DEN,Daniel ,85
-2025_01_TEN_DEN,Daniel ,63
 2025_01_TEN_DEN,Daniel ,85
+2025_01_TEN_DEN,Daniel ,63
 2025_01_TEN_DEN,Daniel Anim,50
 2025_01_TEN_DEN,Daniel Kelly,73
 2025_01_TEN_DEN,Daniel Nebenführ,72
@@ -4148,8 +4148,8 @@ game_id,screen_name,prediction
 2025_01_HOU_LA,Craig Schallert,63
 2025_01_HOU_LA,Dan Walsh,64
 2025_01_HOU_LA,Daniel ,54
-2025_01_HOU_LA,Daniel ,46
 2025_01_HOU_LA,Daniel ,63
+2025_01_HOU_LA,Daniel ,46
 2025_01_HOU_LA,Daniel Anim,50
 2025_01_HOU_LA,Daniel Kelly,35
 2025_01_HOU_LA,Daniel Nebenführ,55
@@ -4417,8 +4417,8 @@ game_id,screen_name,prediction
 2025_01_BAL_BUF,Andrew Jung,52
 2025_01_BAL_BUF,Andrew Paredes,50
 2025_01_BAL_BUF,Angelo Maccarone,49
-2025_01_BAL_BUF,Anna McCauley,55
 2025_01_BAL_BUF,Anna McCauley,50
+2025_01_BAL_BUF,Anna McCauley,55
 2025_01_BAL_BUF,Anthony Green,50
 2025_01_BAL_BUF,Asami Tachibana,60
 2025_01_BAL_BUF,Ashok Kumar,43
@@ -5427,9 +5427,9 @@ game_id,screen_name,prediction
 2025_02_CLE_BAL,Connor McCormack,91
 2025_02_CLE_BAL,Craig Schallert,78
 2025_02_CLE_BAL,Dan Walsh,89
-2025_02_CLE_BAL,Daniel ,91
-2025_02_CLE_BAL,Daniel ,95
 2025_02_CLE_BAL,Daniel ,92
+2025_02_CLE_BAL,Daniel ,95
+2025_02_CLE_BAL,Daniel ,91
 2025_02_CLE_BAL,Daniel Kelly,100
 2025_02_CLE_BAL,Daniel Nebenführ,50
 2025_02_CLE_BAL,Daniel Waldman,75
@@ -6217,8 +6217,8 @@ game_id,screen_name,prediction
 2025_02_CHI_DET,Connor McCormack,56
 2025_02_CHI_DET,Craig Schallert,65
 2025_02_CHI_DET,Dan Walsh,58
-2025_02_CHI_DET,Daniel ,76
 2025_02_CHI_DET,Daniel ,75
+2025_02_CHI_DET,Daniel ,76
 2025_02_CHI_DET,Daniel ,60
 2025_02_CHI_DET,Daniel Kelly,38
 2025_02_CHI_DET,Daniel Nebenführ,50
@@ -7524,8 +7524,8 @@ game_id,screen_name,prediction
 2025_02_LA_TEN,Chris Freiman,31
 2025_02_LA_TEN,Chris Gadbois,25
 2025_02_LA_TEN,Chris Hellings,20
-2025_02_LA_TEN,Chris Loomis,35
 2025_02_LA_TEN,Chris Loomis,50
+2025_02_LA_TEN,Chris Loomis,35
 2025_02_LA_TEN,Cody Laney,31
 2025_02_LA_TEN,Cole McAndrew,29
 2025_02_LA_TEN,Connah Grant,50
@@ -7795,8 +7795,8 @@ game_id,screen_name,prediction
 2025_02_CAR_ARI,Connor McCormack,100
 2025_02_CAR_ARI,Craig Schallert,68
 2025_02_CAR_ARI,Dan Walsh,43
-2025_02_CAR_ARI,Daniel ,80
 2025_02_CAR_ARI,Daniel ,75
+2025_02_CAR_ARI,Daniel ,80
 2025_02_CAR_ARI,Daniel ,61
 2025_02_CAR_ARI,Daniel Kelly,66
 2025_02_CAR_ARI,Daniel Nebenführ,50
@@ -8315,8 +8315,8 @@ game_id,screen_name,prediction
 2025_02_PHI_KC,Chris Freiman,47
 2025_02_PHI_KC,Chris Gadbois,61
 2025_02_PHI_KC,Chris Hellings,37
-2025_02_PHI_KC,Chris Loomis,52
 2025_02_PHI_KC,Chris Loomis,50
+2025_02_PHI_KC,Chris Loomis,52
 2025_02_PHI_KC,Cody Laney,55
 2025_02_PHI_KC,Cole McAndrew,15
 2025_02_PHI_KC,Connah Grant,50
@@ -10436,8 +10436,8 @@ game_id,screen_name,prediction
 2025_03_CIN_MIN,Craig Schallert,53
 2025_03_CIN_MIN,Dan Walsh,59
 2025_03_CIN_MIN,Daniel ,45
-2025_03_CIN_MIN,Daniel ,58
 2025_03_CIN_MIN,Daniel ,65
+2025_03_CIN_MIN,Daniel ,58
 2025_03_CIN_MIN,Daniel Kelly,69
 2025_03_CIN_MIN,Daniel Nebenführ,60
 2025_03_CIN_MIN,Daniel Waldman,51
@@ -11430,8 +11430,8 @@ game_id,screen_name,prediction
 2025_03_IND_TEN,Anna McCauley,50
 2025_03_IND_TEN,Ashok Kumar,25
 2025_03_IND_TEN,Austin ,37
-2025_03_IND_TEN,Austin Smith,35
 2025_03_IND_TEN,Austin Smith,50
+2025_03_IND_TEN,Austin Smith,35
 2025_03_IND_TEN,B D,33
 2025_03_IND_TEN,Ben Baldwin,33
 2025_03_IND_TEN,Ben Gardner,25
@@ -12499,8 +12499,8 @@ game_id,screen_name,prediction
 2025_03_DAL_CHI,Cole McAndrew,25
 2025_03_DAL_CHI,Craig Schallert,38
 2025_03_DAL_CHI,Dan Walsh,59
-2025_03_DAL_CHI,Daniel ,49
 2025_03_DAL_CHI,Daniel ,50
+2025_03_DAL_CHI,Daniel ,49
 2025_03_DAL_CHI,Daniel ,45
 2025_03_DAL_CHI,Daniel Kelly,39
 2025_03_DAL_CHI,Daniel Nebenführ,44
@@ -13498,8 +13498,8 @@ game_id,screen_name,prediction
 2025_04_SEA_ARI,Anna McCauley,51
 2025_04_SEA_ARI,Ashok Kumar,56
 2025_04_SEA_ARI,Austin ,37
-2025_04_SEA_ARI,Austin Smith,50
 2025_04_SEA_ARI,Austin Smith,40
+2025_04_SEA_ARI,Austin Smith,50
 2025_04_SEA_ARI,Avery Corneliusen,43
 2025_04_SEA_ARI,B D,55
 2025_04_SEA_ARI,Ben Baldwin,47
@@ -14033,8 +14033,8 @@ game_id,screen_name,prediction
 2025_04_WAS_ATL,Cristian Felipe,50
 2025_04_WAS_ATL,Dan Walsh,59
 2025_04_WAS_ATL,Daniel ,63
-2025_04_WAS_ATL,Daniel ,35
 2025_04_WAS_ATL,Daniel ,55
+2025_04_WAS_ATL,Daniel ,35
 2025_04_WAS_ATL,Daniel Kelly,66
 2025_04_WAS_ATL,Daniel Nebenführ,61
 2025_04_WAS_ATL,Daniel Waldman,34
@@ -14969,8 +14969,8 @@ game_id,screen_name,prediction
 2025_04_CAR_NE,Anna McCauley,75
 2025_04_CAR_NE,Ashok Kumar,71
 2025_04_CAR_NE,Austin ,59
-2025_04_CAR_NE,Austin Smith,50
 2025_04_CAR_NE,Austin Smith,70
+2025_04_CAR_NE,Austin Smith,50
 2025_04_CAR_NE,Avery Corneliusen,37
 2025_04_CAR_NE,Ben Baldwin,68
 2025_04_CAR_NE,Ben Gardner,58
@@ -15734,8 +15734,8 @@ game_id,screen_name,prediction
 2025_04_IND_LA,Cristian Felipe,50
 2025_04_IND_LA,Dan Walsh,44
 2025_04_IND_LA,Daniel ,69
-2025_04_IND_LA,Daniel ,60
 2025_04_IND_LA,Daniel ,66
+2025_04_IND_LA,Daniel ,60
 2025_04_IND_LA,Daniel Kelly,63
 2025_04_IND_LA,Daniel Nebenführ,71
 2025_04_IND_LA,Daniel Waldman,47
@@ -16220,8 +16220,8 @@ game_id,screen_name,prediction
 2025_04_BAL_KC,Cristian Felipe,50
 2025_04_BAL_KC,Dan Walsh,42
 2025_04_BAL_KC,Daniel ,41
-2025_04_BAL_KC,Daniel ,39
 2025_04_BAL_KC,Daniel ,51
+2025_04_BAL_KC,Daniel ,39
 2025_04_BAL_KC,Daniel Kelly,21
 2025_04_BAL_KC,Daniel Nebenführ,44
 2025_04_BAL_KC,Daniel Waldman,40
@@ -18357,8 +18357,8 @@ game_id,screen_name,prediction
 2025_05_LV_IND,Anna McCauley,75
 2025_05_LV_IND,Ashok Kumar,79
 2025_05_LV_IND,Austin ,75
-2025_05_LV_IND,Austin Smith,70
 2025_05_LV_IND,Austin Smith,50
+2025_05_LV_IND,Austin Smith,70
 2025_05_LV_IND,Ben Baldwin,76
 2025_05_LV_IND,Ben Bose,50
 2025_05_LV_IND,Ben Gardner,71
@@ -18591,8 +18591,8 @@ game_id,screen_name,prediction
 2025_05_NYG_NO,Anna McCauley,50
 2025_05_NYG_NO,Ashok Kumar,40
 2025_05_NYG_NO,Austin ,38
-2025_05_NYG_NO,Austin Smith,50
 2025_05_NYG_NO,Austin Smith,47
+2025_05_NYG_NO,Austin Smith,50
 2025_05_NYG_NO,Ben Baldwin,52
 2025_05_NYG_NO,Ben Bose,50
 2025_05_NYG_NO,Ben Gardner,24
@@ -20028,8 +20028,8 @@ game_id,screen_name,prediction
 2025_05_WAS_LAC,Connor McCormack,67
 2025_05_WAS_LAC,Craig Schallert,66
 2025_05_WAS_LAC,Dan Walsh,66
-2025_05_WAS_LAC,Daniel ,57
 2025_05_WAS_LAC,Daniel ,62
+2025_05_WAS_LAC,Daniel ,57
 2025_05_WAS_LAC,Daniel ,70
 2025_05_WAS_LAC,Daniel Acosta,50
 2025_05_WAS_LAC,Daniel Kelly,38
@@ -20263,8 +20263,8 @@ game_id,screen_name,prediction
 2025_05_NE_BUF,Connor McCormack,91
 2025_05_NE_BUF,Craig Schallert,72
 2025_05_NE_BUF,Dan Walsh,77
-2025_05_NE_BUF,Daniel ,85
 2025_05_NE_BUF,Daniel ,70
+2025_05_NE_BUF,Daniel ,85
 2025_05_NE_BUF,Daniel ,75
 2025_05_NE_BUF,Daniel Acosta,50
 2025_05_NE_BUF,Daniel Kelly,75
@@ -23522,8 +23522,8 @@ game_id,screen_name,prediction
 2025_06_DET_KC,Craig Schallert,43
 2025_06_DET_KC,Dan Walsh,31
 2025_06_DET_KC,Daniel ,50
-2025_06_DET_KC,Daniel ,42
 2025_06_DET_KC,Daniel ,58
+2025_06_DET_KC,Daniel ,42
 2025_06_DET_KC,Daniel Kelly,69
 2025_06_DET_KC,Daniel Nebenführ,40
 2025_06_DET_KC,Daniel Waldman,39
@@ -27065,8 +27065,8 @@ game_id,screen_name,prediction
 2025_07_TB_DET,Connor McCormack,47
 2025_07_TB_DET,Craig Schallert,63
 2025_07_TB_DET,Dan Walsh,75
-2025_07_TB_DET,Daniel ,75
 2025_07_TB_DET,Daniel ,72
+2025_07_TB_DET,Daniel ,75
 2025_07_TB_DET,Daniel ,75
 2025_07_TB_DET,Daniel Kelly,36
 2025_07_TB_DET,Daniel Nebenführ,70
@@ -27726,8 +27726,8 @@ game_id,screen_name,prediction
 2025_08_MIA_ATL,Craig Schallert,77
 2025_08_MIA_ATL,Dan Walsh,91
 2025_08_MIA_ATL,Daniel ,79
-2025_08_MIA_ATL,Daniel ,80
 2025_08_MIA_ATL,Daniel ,71
+2025_08_MIA_ATL,Daniel ,80
 2025_08_MIA_ATL,Daniel Kelly,35
 2025_08_MIA_ATL,Daniel Nebenführ,85
 2025_08_MIA_ATL,Daniel Waldman,50
@@ -28148,8 +28148,8 @@ game_id,screen_name,prediction
 2025_08_BUF_CAR,Craig Schallert,22
 2025_08_BUF_CAR,Dan Walsh,15
 2025_08_BUF_CAR,Daniel ,25
-2025_08_BUF_CAR,Daniel ,15
 2025_08_BUF_CAR,Daniel ,13
+2025_08_BUF_CAR,Daniel ,15
 2025_08_BUF_CAR,Daniel Kelly,26
 2025_08_BUF_CAR,Daniel Nebenführ,22
 2025_08_BUF_CAR,Daniel Waldman,41
@@ -29203,8 +29203,8 @@ game_id,screen_name,prediction
 2025_08_TB_NO,Craig Schallert,31
 2025_08_TB_NO,Dan Walsh,19
 2025_08_TB_NO,Daniel ,34
-2025_08_TB_NO,Daniel ,35
 2025_08_TB_NO,Daniel ,13
+2025_08_TB_NO,Daniel ,35
 2025_08_TB_NO,Daniel Kelly,36
 2025_08_TB_NO,Daniel Nebenführ,23
 2025_08_TB_NO,Daniel Waldman,51
@@ -30050,8 +30050,8 @@ game_id,screen_name,prediction
 2025_08_WAS_KC,Craig Schallert,78
 2025_08_WAS_KC,Dan Walsh,91
 2025_08_WAS_KC,Daniel ,88
-2025_08_WAS_KC,Daniel ,78
 2025_08_WAS_KC,Daniel ,85
+2025_08_WAS_KC,Daniel ,78
 2025_08_WAS_KC,Daniel Kelly,79
 2025_08_WAS_KC,Daniel Nebenführ,88
 2025_08_WAS_KC,Daniel Waldman,53
@@ -30168,8 +30168,8 @@ game_id,screen_name,prediction
 2025_08_WAS_KC,Patrick Young,73
 2025_08_WAS_KC,Paul Moore,74
 2025_08_WAS_KC,Pierce Mulholland,100
-2025_08_WAS_KC,Ramsey Haddad,90
 2025_08_WAS_KC,Ramsey Haddad,96
+2025_08_WAS_KC,Ramsey Haddad,90
 2025_08_WAS_KC,Reed Zahradnik,90
 2025_08_WAS_KC,Rex johnson,100
 2025_08_WAS_KC,Robert Greer,80
@@ -30684,9 +30684,9 @@ game_id,screen_name,prediction
 2025_09_MIN_DET,Connor McCormack,95
 2025_09_MIN_DET,Craig Schallert,98
 2025_09_MIN_DET,Dan Walsh,85
+2025_09_MIN_DET,Daniel ,80
 2025_09_MIN_DET,Daniel ,84
 2025_09_MIN_DET,Daniel ,73
-2025_09_MIN_DET,Daniel ,80
 2025_09_MIN_DET,Daniel Kelly,72
 2025_09_MIN_DET,Daniel Nebenführ,80
 2025_09_MIN_DET,Daniel Schaller,50
@@ -31095,8 +31095,8 @@ game_id,screen_name,prediction
 2025_09_DEN_HOU,Craig Schallert,37
 2025_09_DEN_HOU,Dan Walsh,43
 2025_09_DEN_HOU,Daniel ,52
-2025_09_DEN_HOU,Daniel ,56
 2025_09_DEN_HOU,Daniel ,42
+2025_09_DEN_HOU,Daniel ,56
 2025_09_DEN_HOU,Daniel Kelly,31
 2025_09_DEN_HOU,Daniel Nebenführ,50
 2025_09_DEN_HOU,Daniel Schaller,50
@@ -31710,8 +31710,8 @@ game_id,screen_name,prediction
 2025_09_IND_PIT,Craig Schallert,26
 2025_09_IND_PIT,Dan Walsh,21
 2025_09_IND_PIT,Daniel ,28
-2025_09_IND_PIT,Daniel ,38
 2025_09_IND_PIT,Daniel ,42
+2025_09_IND_PIT,Daniel ,38
 2025_09_IND_PIT,Daniel Kelly,38
 2025_09_IND_PIT,Daniel Nebenführ,27
 2025_09_IND_PIT,Daniel Schaller,50
@@ -33057,8 +33057,8 @@ game_id,screen_name,prediction
 2025_09_ARI_DAL,Patrick Young,75
 2025_09_ARI_DAL,Paul Moore,66
 2025_09_ARI_DAL,Pierce Mulholland,61
-2025_09_ARI_DAL,Ramsey Haddad,56
 2025_09_ARI_DAL,Ramsey Haddad,63
+2025_09_ARI_DAL,Ramsey Haddad,56
 2025_09_ARI_DAL,Reed Zahradnik,55
 2025_09_ARI_DAL,Rex johnson,65
 2025_09_ARI_DAL,Robert Greer,59
@@ -33148,8 +33148,8 @@ game_id,screen_name,prediction
 2025_10_LV_DEN,Craig Schallert,78
 2025_10_LV_DEN,Dan Walsh,89
 2025_10_LV_DEN,Daniel ,44
-2025_10_LV_DEN,Daniel ,80
 2025_10_LV_DEN,Daniel ,82
+2025_10_LV_DEN,Daniel ,80
 2025_10_LV_DEN,Daniel Kelly,69
 2025_10_LV_DEN,Daniel Nebenführ,84
 2025_10_LV_DEN,Daniel Schaller,50
@@ -34468,8 +34468,8 @@ game_id,screen_name,prediction
 2025_10_BAL_MIN,Nick Wittkop,40
 2025_10_BAL_MIN,Noah Baragar,50
 2025_10_BAL_MIN,Noah Baragar,50
-2025_10_BAL_MIN,Noah Baragar,50
 2025_10_BAL_MIN,noah baragar,17
+2025_10_BAL_MIN,Noah Baragar,50
 2025_10_BAL_MIN,Noah Cacovski,45
 2025_10_BAL_MIN,Odin Nonstad,30
 2025_10_BAL_MIN,Paige Bigelow,65
@@ -34968,8 +34968,8 @@ game_id,screen_name,prediction
 2025_10_ARI_SEA,Connor McCormack,87
 2025_10_ARI_SEA,Craig Schallert,72
 2025_10_ARI_SEA,Dan Walsh,86
-2025_10_ARI_SEA,Daniel ,79
 2025_10_ARI_SEA,Daniel ,81
+2025_10_ARI_SEA,Daniel ,79
 2025_10_ARI_SEA,Daniel ,73
 2025_10_ARI_SEA,Daniel Kelly,73
 2025_10_ARI_SEA,Daniel Nebenführ,76
@@ -35979,8 +35979,8 @@ game_id,screen_name,prediction
 2025_11_NYJ_NE,Connor McCormack,50
 2025_11_NYJ_NE,Craig Schallert,84
 2025_11_NYJ_NE,Dan Walsh,50
-2025_11_NYJ_NE,Daniel ,100
 2025_11_NYJ_NE,Daniel ,85
+2025_11_NYJ_NE,Daniel ,100
 2025_11_NYJ_NE,Daniel ,92
 2025_11_NYJ_NE,Daniel Kelly,67
 2025_11_NYJ_NE,Daniel Nebenführ,76
@@ -37519,8 +37519,8 @@ game_id,screen_name,prediction
 2025_11_HOU_TEN,Connor McCormack,34
 2025_11_HOU_TEN,Craig Schallert,23
 2025_11_HOU_TEN,Dan Walsh,27
-2025_11_HOU_TEN,Daniel ,30
 2025_11_HOU_TEN,Daniel ,26
+2025_11_HOU_TEN,Daniel ,30
 2025_11_HOU_TEN,Daniel ,12
 2025_11_HOU_TEN,Daniel Kelly,60
 2025_11_HOU_TEN,Daniel Nebenführ,50
@@ -38095,8 +38095,8 @@ game_id,screen_name,prediction
 2025_11_BAL_CLE,Connor McCormack,12
 2025_11_BAL_CLE,Craig Schallert,28
 2025_11_BAL_CLE,Dan Walsh,7
-2025_11_BAL_CLE,Daniel ,20
 2025_11_BAL_CLE,Daniel ,15
+2025_11_BAL_CLE,Daniel ,20
 2025_11_BAL_CLE,Daniel ,25
 2025_11_BAL_CLE,Daniel Kelly,20
 2025_11_BAL_CLE,Daniel Nebenführ,50
@@ -39249,8 +39249,8 @@ game_id,screen_name,prediction
 2025_12_PIT_CHI,Connor McCormack,53
 2025_12_PIT_CHI,Craig Schallert,65
 2025_12_PIT_CHI,Dan Walsh,72
-2025_12_PIT_CHI,Daniel ,55
 2025_12_PIT_CHI,Daniel ,60
+2025_12_PIT_CHI,Daniel ,55
 2025_12_PIT_CHI,Daniel Kelly,64
 2025_12_PIT_CHI,Daniel Nebenführ,62
 2025_12_PIT_CHI,Daniel Waldman,49
@@ -39438,8 +39438,8 @@ game_id,screen_name,prediction
 2025_12_NE_CIN,Connor McCormack,5
 2025_12_NE_CIN,Craig Schallert,23
 2025_12_NE_CIN,Dan Walsh,0
-2025_12_NE_CIN,Daniel ,27
 2025_12_NE_CIN,Daniel ,16
+2025_12_NE_CIN,Daniel ,27
 2025_12_NE_CIN,Daniel Kelly,23
 2025_12_NE_CIN,Daniel Nebenführ,22
 2025_12_NE_CIN,Daniel Waldman,50
@@ -41519,8 +41519,8 @@ game_id,screen_name,prediction
 2025_13_GB_DET,Connor McCormack,47
 2025_13_GB_DET,Craig Schallert,65
 2025_13_GB_DET,Dan Walsh,50
-2025_13_GB_DET,Daniel ,63
 2025_13_GB_DET,Daniel ,54
+2025_13_GB_DET,Daniel ,63
 2025_13_GB_DET,Daniel Kelly,31
 2025_13_GB_DET,Daniel Nebenführ,40
 2025_13_GB_DET,Daniel Waldman,50
@@ -42635,8 +42635,8 @@ game_id,screen_name,prediction
 2025_13_HOU_IND,Connor McCormack,44
 2025_13_HOU_IND,Craig Schallert,55
 2025_13_HOU_IND,Dan Walsh,50
-2025_13_HOU_IND,Daniel ,60
 2025_13_HOU_IND,Daniel ,58
+2025_13_HOU_IND,Daniel ,60
 2025_13_HOU_IND,Daniel Kelly,32
 2025_13_HOU_IND,Daniel Nebenführ,50
 2025_13_HOU_IND,Daniel Waldman,57
@@ -43722,8 +43722,8 @@ game_id,screen_name,prediction
 2025_13_LV_LAC,Connor McCormack,92
 2025_13_LV_LAC,Craig Schallert,76
 2025_13_LV_LAC,Dan Walsh,50
-2025_13_LV_LAC,Daniel ,82
 2025_13_LV_LAC,Daniel ,85
+2025_13_LV_LAC,Daniel ,82
 2025_13_LV_LAC,Daniel Kelly,75
 2025_13_LV_LAC,Daniel Nebenführ,50
 2025_13_LV_LAC,Daniel Waldman,56
@@ -44269,8 +44269,8 @@ game_id,screen_name,prediction
 2025_13_NYG_NE,Connor McCormack,94
 2025_13_NYG_NE,Craig Schallert,75
 2025_13_NYG_NE,Dan Walsh,50
-2025_13_NYG_NE,Daniel ,85
 2025_13_NYG_NE,Daniel ,75
+2025_13_NYG_NE,Daniel ,85
 2025_13_NYG_NE,Daniel Kelly,33
 2025_13_NYG_NE,Daniel Nebenführ,50
 2025_13_NYG_NE,Daniel Waldman,50
@@ -44994,8 +44994,8 @@ game_id,screen_name,prediction
 2025_14_CIN_BUF,Chris Hellings,69
 2025_14_CIN_BUF,Connor McCormack,81
 2025_14_CIN_BUF,Craig Schallert,66
-2025_14_CIN_BUF,Daniel ,75
 2025_14_CIN_BUF,Daniel ,73
+2025_14_CIN_BUF,Daniel ,75
 2025_14_CIN_BUF,Daniel Kelly,65
 2025_14_CIN_BUF,Daniel Waldman,44
 2025_14_CIN_BUF,Danny Gardner,61
@@ -47846,8 +47846,8 @@ game_id,screen_name,prediction
 2025_15_LAC_KC,Cole McAndrew,69
 2025_15_LAC_KC,Connor McCormack,49
 2025_15_LAC_KC,Craig Schallert,67
-2025_15_LAC_KC,Daniel ,65
 2025_15_LAC_KC,Daniel ,73
+2025_15_LAC_KC,Daniel ,65
 2025_15_LAC_KC,Daniel Kelly,72
 2025_15_LAC_KC,Daniel Nebenführ,80
 2025_15_LAC_KC,Daniel Waldman,63
@@ -50864,8 +50864,8 @@ game_id,screen_name,prediction
 2025_16_CIN_MIA,Cole McAndrew,24
 2025_16_CIN_MIA,Connor McCormack,14
 2025_16_CIN_MIA,Craig Schallert,42
-2025_16_CIN_MIA,Daniel ,40
 2025_16_CIN_MIA,Daniel ,35
+2025_16_CIN_MIA,Daniel ,40
 2025_16_CIN_MIA,Daniel Kelly,65
 2025_16_CIN_MIA,Daniel Nebenführ,50
 2025_16_CIN_MIA,Daniel Waldman,50
@@ -52457,8 +52457,8 @@ game_id,screen_name,prediction
 2025_16_SF_IND,Cole McAndrew,12
 2025_16_SF_IND,Connor McCormack,11
 2025_16_SF_IND,Craig Schallert,36
-2025_16_SF_IND,Daniel ,32
 2025_16_SF_IND,Daniel ,30
+2025_16_SF_IND,Daniel ,32
 2025_16_SF_IND,Daniel Kelly,36
 2025_16_SF_IND,Daniel Nebenführ,50
 2025_16_SF_IND,Daniel Waldman,50
@@ -54847,8 +54847,8 @@ game_id,screen_name,prediction
 2025_17_PHI_BUF,Chris Gadbois,55
 2025_17_PHI_BUF,Chris Hellings,46
 2025_17_PHI_BUF,Craig Schallert,64
-2025_17_PHI_BUF,Daniel ,67
 2025_17_PHI_BUF,Daniel ,49
+2025_17_PHI_BUF,Daniel ,67
 2025_17_PHI_BUF,Daniel Kelly,38
 2025_17_PHI_BUF,Daniel Waldman,51
 2025_17_PHI_BUF,Danny Gardner,59
@@ -59232,8 +59232,8 @@ game_id,screen_name,prediction
 2025_21_NE_DEN,Amanda Duckworth,28
 2025_21_NE_DEN,Andres Navarro,25
 2025_21_NE_DEN,Andrew Himebaugh,15
-2025_21_NE_DEN,Anna McCauley,30
 2025_21_NE_DEN,Anna McCauley,50
+2025_21_NE_DEN,Anna McCauley,30
 2025_21_NE_DEN,Austin Smith,29
 2025_21_NE_DEN,Ben Baldwin,35
 2025_21_NE_DEN,Ben Kramer,50
