@@ -49,7 +49,7 @@ jobs:
               file_name = "games",
               nflverse_type = "games and schedules",
               release_tag = "schedules",
-              file_types = c("rds", "csv", "parquet", "qs", "csv.gz"),
+              file_types = c("rds", "csv", "parquet", "csv.gz"),
             )
           } else {
             cli::cli_alert_success("Nothing changed. Games data is up to date.")
