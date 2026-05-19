@@ -48,7 +48,7 @@ jobs:
               file_name = "trades",
               nflverse_type = "trades, via Lee Sharpe & PFR",
               release_tag = "trades",
-              file_types = c("rds", "csv", "parquet", "qs", "csv.gz"),
+              file_types = c("rds", "csv", "parquet", "csv.gz"),
             )
           } else {
             cli::cli_alert_success("Nothing changed. Trades data is up to date.")
