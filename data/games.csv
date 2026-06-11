@@ -7369,7 +7369,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_06_DAL_GB,2026,REG,6,2026-10-18,Sunday,20:20,DAL,,GB,,Home,,,,2026101811,,,202610180gnb,,,,10,7,,,,,,,,,0,outdoors,grass,,,,,,,Brian Schottenheimer,Matt LaFleur,,GNB00,Lambeau Field
 2026_06_WAS_SF,2026,REG,6,2026-10-19,Monday,20:15,WAS,,SF,,Home,,,,2026101900,,,202610190sfo,,,,8,8,,,,,,,,,0,outdoors,grass,,,,,,,Dan Quinn,Kyle Shanahan,,SFO01,Levi's Stadium
 2026_07_NE_CHI,2026,REG,7,2026-10-22,Thursday,20:15,NE,,CHI,,Home,,,,2026102200,,,202610220chi,,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike Vrabel,Ben Johnson,,CHI98,Soldier Field
-2026_07_PIT_NO,2026,REG,7,2026-10-25,Sunday,09:30,PIT,,NO,,Neutral,,,,2026102500,,,202610250nor,,,,7,7,-132,112,-1.5,-115,-105,,,,0,dome,sportturf,,,,,,,Mike McCarthy,Kellen Moore,,NOR00,Stade de France
+2026_07_PIT_NO,2026,REG,7,2026-10-25,Sunday,09:30,PIT,,NO,,Neutral,,,,2026102500,,,202610250nor,,,,7,7,-132,112,-1.5,-115,-105,40.5,-105,-115,0,dome,sportturf,,,,,,,Mike McCarthy,Kellen Moore,,NOR00,Stade de France
 2026_07_SF_ATL,2026,REG,7,2026-10-25,Sunday,13:00,SF,,ATL,,Home,,,,2026102501,,,202610250atl,,,,6,7,,,,,,,,,0,"",fieldturf,,,,,,,Kyle Shanahan,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2026_07_CIN_BAL,2026,REG,7,2026-10-25,Sunday,13:00,CIN,,BAL,,Home,,,,2026102502,,,202610250rav,,,,14,7,,,,,,,,,1,outdoors,grass,,,,,,,Zac Taylor,Jesse Minter,,BAL00,M&T Bank Stadium
 2026_07_TB_CAR,2026,REG,7,2026-10-25,Sunday,13:00,TB,,CAR,,Home,,,,2026102503,,,202610250car,,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Todd Bowles,Dave Canales,,CAR00,Bank of America Stadium
