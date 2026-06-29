@@ -7355,7 +7355,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_05_BAL_ATL,2026,REG,5,2026-10-11,Sunday,20:20,BAL,,ATL,,Home,,,,2026101112,,,202610110atl,,,,7,6,,,,,,,,,0,"",fieldturf,,,,,,,Jesse Minter,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2026_05_BUF_LA,2026,REG,5,2026-10-12,Monday,20:15,BUF,,LA,,Home,,,,2026101200,,,202610120ram,,,,8,8,,,,,,,,,0,dome,matrixturf,,,,,,,Sean McDermott,Sean McVay,,LAX01,SoFi Stadium
 2026_06_SEA_DEN,2026,REG,6,2026-10-15,Thursday,20:15,SEA,,DEN,,Home,,,,2026101500,,,202610150den,,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Mike Macdonald,Sean Payton,,DEN00,Empower Field at Mile High
-2026_06_HOU_JAX,2026,REG,6,2026-10-18,Sunday,09:30,HOU,,JAX,,Neutral,,,,2026101800,,,202610180jax,,,,7,7,-108,-108,1.5,-122,100,40.5,-105,-115,1,outdoors,grass,,,,,,,DeMeco Ryans,Liam Coen,,JAX00,Wembley Stadium
+2026_06_HOU_JAX,2026,REG,6,2026-10-18,Sunday,09:30,HOU,,JAX,,Neutral,,,,2026101800,,,202610180jax,,,,7,7,-110,-106,1.5,-122,100,40.5,-105,-115,1,outdoors,grass,,,,,,,DeMeco Ryans,Liam Coen,,JAX00,Wembley Stadium
 2026_06_CHI_ATL,2026,REG,6,2026-10-18,Sunday,13:00,CHI,,ATL,,Home,,,,2026101801,,,202610180atl,,,,7,7,,,,,,,,,0,"",fieldturf,,,,,,,Ben Johnson,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2026_06_BAL_CLE,2026,REG,6,2026-10-18,Sunday,13:00,BAL,,CLE,,Home,,,,2026101802,,,202610180cle,,,,7,7,,,,,,,,,1,outdoors,grass,,,,,,,Jesse Minter,Todd Monken,,CLE00,Huntington Bank Field
 2026_06_TEN_IND,2026,REG,6,2026-10-18,Sunday,13:00,TEN,,IND,,Home,,,,2026101803,,,202610180clt,,,,7,7,,,,,,,,,1,"",fieldturf,,,,,,,Robert Saleh,Shane Steichen,,IND00,Lucas Oil Stadium
