@@ -7295,7 +7295,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_02_CAR_ATL,2026,REG,2,2026-09-20,Sunday,13:00,CAR,,ATL,,Home,,,,2026092000,,,202609200atl,,,,7,7,,,,,,,,,1,"",fieldturf,,,,,,,Dave Canales,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2026_02_NO_BAL,2026,REG,2,2026-09-20,Sunday,13:00,NO,,BAL,,Home,,,,2026092001,,,202609200rav,,,,7,7,310,-395,7.5,-108,-112,46.5,-110,-110,0,outdoors,grass,,,,,,,Kellen Moore,Jesse Minter,,BAL00,M&T Bank Stadium
 2026_02_MIN_CHI,2026,REG,2,2026-09-20,Sunday,13:00,MIN,,CHI,,Home,,,,2026092002,,,202609200chi,,,,7,7,150,-180,3.5,-115,-105,45.5,-110,-110,1,outdoors,grass,,,,,,,Kevin O'Connell,Ben Johnson,,CHI98,Soldier Field
-2026_02_CIN_HOU,2026,REG,2,2026-09-20,Sunday,13:00,CIN,,HOU,,Home,,,,2026092003,,,202609200htx,,,,7,7,,,,,,,,,0,"",astroturf,,,,,,,Zac Taylor,DeMeco Ryans,,HOU00,Reliant Stadium
+2026_02_CIN_HOU,2026,REG,2,2026-09-20,Sunday,13:00,CIN,,HOU,,Home,,,,2026092003,,,202609200htx,,,,7,7,114,-135,2.5,-110,-110,46.5,-110,-110,0,"",astroturf,,,,,,,Zac Taylor,DeMeco Ryans,,HOU00,Reliant Stadium
 2026_02_PIT_NE,2026,REG,2,2026-09-20,Sunday,13:00,PIT,,NE,,Home,,,,2026092004,,,202609200nwe,,,,7,11,185,-225,4.5,-112,-108,43.5,-110,-110,0,outdoors,fieldturf,,,,,,,Mike McCarthy,Mike Vrabel,,BOS00,Gillette Stadium
 2026_02_GB_NYJ,2026,REG,2,2026-09-20,Sunday,13:00,GB,,NYJ,,Home,,,,2026092005,,,202609200nyj,,,,7,7,-270,220,-6,-110,-110,42.5,-110,-110,0,outdoors,fieldturf,,,,,,,Matt LaFleur,Aaron Glenn,,NYC01,MetLife Stadium
 2026_02_CLE_TB,2026,REG,2,2026-09-20,Sunday,13:00,CLE,,TB,,Home,,,,2026092006,,,202609200tam,,,,7,7,230,-285,6.5,-110,-110,42.5,-110,-110,0,outdoors,grass,,,,,,,Todd Monken,Todd Bowles,,TAM00,Raymond James Stadium
