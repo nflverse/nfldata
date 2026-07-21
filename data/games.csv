@@ -7306,7 +7306,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_02_WAS_DAL,2026,REG,2,2026-09-20,Sunday,16:25,WAS,,DAL,,Home,,,,2026092011,,,202609200dal,,,,7,7,170,-205,4.5,-115,-105,51.5,-110,-110,1,"",matrixturf,,,,,,,Dan Quinn,Brian Schottenheimer,,DAL00,AT&T Stadium
 2026_02_MIA_SF,2026,REG,2,2026-09-20,Sunday,16:25,MIA,,SF,,Home,,,,2026092012,,,202609200sfo,,,,7,10,425,-575,10.5,-110,-110,46.5,-110,-110,0,outdoors,grass,,,,,,,Jeff Hafley,Kyle Shanahan,,SFO01,Levi's Stadium
 2026_02_IND_KC,2026,REG,2,2026-09-20,Sunday,20:20,IND,,KC,,Home,,,,2026092013,,,202609200kan,,,,7,6,225,-278,6.5,-110,-110,47.5,-110,-110,0,outdoors,grass,,,,,,,Shane Steichen,Andy Reid,,KAN00,GEHA Field at Arrowhead Stadium
-2026_02_NYG_LA,2026,REG,2,2026-09-21,Monday,20:15,NYG,,LA,,Home,,,,2026092100,,,202609210ram,,,,8,11,,,,,,,,,0,dome,matrixturf,,,,,,,John Harbaugh,Sean McVay,,LAX01,SoFi Stadium
+2026_02_NYG_LA,2026,REG,2,2026-09-21,Monday,20:15,NYG,,LA,,Home,,,,2026092100,,,202609210ram,,,,8,11,300,-380,8.5,-110,-110,48.5,-110,-110,0,dome,matrixturf,,,,,,,John Harbaugh,Sean McVay,,LAX01,SoFi Stadium
 2026_03_ATL_GB,2026,REG,3,2026-09-24,Thursday,20:15,ATL,,GB,,Home,,,,2026092400,,,202609240gnb,,,,4,4,,,,,,,,,0,outdoors,grass,,,,,,,Raheem Morris,Matt LaFleur,,GNB00,Lambeau Field
 2026_03_LAC_BUF,2026,REG,3,2026-09-27,Sunday,13:00,LAC,,BUF,,Home,,,,2026092700,,,202609270buf,,,,7,10,,,,,,,,,0,outdoors,a_turf,,,,,,,Jim Harbaugh,Sean McDermott,,BUF00,Highmark Stadium
 2026_03_CAR_CLE,2026,REG,3,2026-09-27,Sunday,13:00,CAR,,CLE,,Home,,,,2026092701,,,202609270cle,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Dave Canales,Todd Monken,,CLE00,Huntington Bank Field
@@ -7324,7 +7324,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_03_LA_DEN,2026,REG,3,2026-09-27,Sunday,20:20,LA,,DEN,,Home,,,,2026092713,,,202609270den,,,,6,7,,,,,,,,,0,outdoors,grass,,,,,,,Sean McVay,Sean Payton,,DEN00,Empower Field at Mile High
 2026_03_PHI_CHI,2026,REG,3,2026-09-28,Monday,20:15,PHI,,CHI,,Home,,,,2026092800,,,202609280chi,,,,8,8,-102,-118,1.5,-115,-105,46.5,-110,-110,0,outdoors,grass,,,,,,,Nick Sirianni,Ben Johnson,,CHI98,Soldier Field
 2026_04_PIT_CLE,2026,REG,4,2026-10-01,Thursday,20:15,PIT,,CLE,,Home,,,,2026100100,,,202610010cle,,,,4,4,,,,,,,,,1,outdoors,grass,,,,,,,Mike McCarthy,Todd Monken,,CLE00,Huntington Bank Field
-2026_04_IND_WAS,2026,REG,4,2026-10-04,Sunday,09:30,IND,,WAS,,Neutral,,,,2026100400,,,202610040was,,,,7,7,-102,-116,1.5,-115,-105,49.5,-110,-110,0,outdoors,grass,,,,,,,Shane Steichen,Dan Quinn,,WAS00,Tottenham Hotspur Stadium
+2026_04_IND_WAS,2026,REG,4,2026-10-04,Sunday,09:30,IND,,WAS,,Neutral,,,,2026100400,,,202610040was,,,,7,7,-102,-118,1.5,-115,-105,50.5,-110,-110,0,outdoors,grass,,,,,,,Shane Steichen,Dan Quinn,,WAS00,Tottenham Hotspur Stadium
 2026_04_TEN_BAL,2026,REG,4,2026-10-04,Sunday,13:00,TEN,,BAL,,Home,,,,2026100401,,,202610040rav,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Robert Saleh,Jesse Minter,,BAL00,M&T Bank Stadium
 2026_04_NE_BUF,2026,REG,4,2026-10-04,Sunday,13:00,NE,,BUF,,Home,,,,2026100402,,,202610040buf,,,,7,7,,,,,,,,,1,outdoors,a_turf,,,,,,,Mike Vrabel,Sean McDermott,,BUF00,Highmark Stadium
 2026_04_NYJ_CHI,2026,REG,4,2026-10-04,Sunday,13:00,NYJ,,CHI,,Home,,,,2026100403,,,202610040chi,,,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Aaron Glenn,Ben Johnson,,CHI98,Soldier Field
@@ -7340,7 +7340,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_04_DET_CAR,2026,REG,4,2026-10-04,Sunday,20:20,DET,,CAR,,Home,,,,2026100413,,,202610040car,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Dan Campbell,Dave Canales,,CAR00,Bank of America Stadium
 2026_04_ATL_NO,2026,REG,4,2026-10-05,Monday,20:15,ATL,,NO,,Home,,,,2026100500,,,202610050nor,,,,11,8,,,,,,,,,1,dome,sportturf,,,,,,,Raheem Morris,Kellen Moore,,NOR00,Caesars Superdome
 2026_05_TB_DAL,2026,REG,5,2026-10-08,Thursday,20:15,TB,,DAL,,Home,,,,2026100800,,,202610080dal,,,,4,4,,,,,,,,,0,"",matrixturf,,,,,,,Todd Bowles,Brian Schottenheimer,,DAL00,AT&T Stadium
-2026_05_PHI_JAX,2026,REG,5,2026-10-11,Sunday,09:30,PHI,,JAX,,Home,,,,2026101100,,,202610110jax,,,,7,7,-124,106,-1.5,-108,-112,44.5,-120,-102,0,outdoors,grass,,,,,,,Nick Sirianni,Liam Coen,,JAX00,Tottenham Hotspur Stadium
+2026_05_PHI_JAX,2026,REG,5,2026-10-11,Sunday,09:30,PHI,,JAX,,Home,,,,2026101100,,,202610110jax,,,,7,7,-125,105,-1.5,-110,-110,45.5,-110,-110,0,outdoors,grass,,,,,,,Nick Sirianni,Liam Coen,,JAX00,Tottenham Hotspur Stadium
 2026_05_CIN_MIA,2026,REG,5,2026-10-11,Sunday,13:00,CIN,,MIA,,Home,,,,2026101101,,,202610110mia,,,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,Zac Taylor,Jeff Hafley,,MIA00,Hard Rock Stadium
 2026_05_LV_NE,2026,REG,5,2026-10-11,Sunday,13:00,LV,,NE,,Home,,,,2026101102,,,202610110nwe,,,,7,7,,,,,,,,,0,outdoors,fieldturf,,,,,,,Klint Kubliak,Mike Vrabel,,BOS00,Gillette Stadium
 2026_05_MIN_NO,2026,REG,5,2026-10-11,Sunday,13:00,MIN,,NO,,Home,,,,2026101103,,,202610110nor,,,,7,6,,,,,,,,,0,dome,sportturf,,,,,,,Kevin O'Connell,Kellen Moore,,NOR00,Caesars Superdome
