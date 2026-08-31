@@ -7412,7 +7412,7 @@ game_id,season,game_type,week,gameday,weekday,gametime,away_team,away_score,home
 2026_09_TB_CHI,2026,REG,9,2026-11-08,Sunday,20:20,TB,,CHI,,Home,,,,2026110812,,,202611080chi,,401873050,,7,6,,,,,,,,,0,outdoors,grass,,,,,,,Todd Bowles,Ben Johnson,,CHI98,Soldier Field
 2026_09_BUF_MIN,2026,REG,9,2026-11-09,Monday,20:15,BUF,,MIN,,Home,,,,2026110900,,,202611090min,,401873051,,8,8,,,,,,,,,0,dome,sportturf,,,,,,,Sean McDermott,Kevin O'Connell,,MIN01,U.S. Bank Stadium
 2026_10_WAS_NYG,2026,REG,10,2026-11-12,Thursday,20:15,WAS,,NYG,,Home,,,,2026111200,,,202611120nyg,,401873052,,4,4,,,,,,,,,1,outdoors,fieldturf,,,,,,,Dan Quinn,John Harbaugh,,NYC01,MetLife Stadium
-2026_10_NE_DET,2026,REG,10,2026-11-15,Sunday,09:30,NE,,DET,,Neutral,,,,2026111500,,,202611150det,,401873053,,7,7,-102,-116,1.5,-120,-102,49.5,-104,-118,0,dome,fieldturf,,,,,,,Mike Vrabel,Dan Campbell,,MUN01,FC Bayern Munich Stadium
+2026_10_NE_DET,2026,REG,10,2026-11-15,Sunday,09:30,NE,,DET,,Neutral,,,,2026111500,,,202611150det,,401873053,,7,7,-122,104,-1.5,-110,-110,49.5,-105,-115,0,dome,fieldturf,,,,,,,Mike Vrabel,Dan Campbell,,MUN01,FC Bayern Munich Stadium
 2026_10_KC_ATL,2026,REG,10,2026-11-15,Sunday,13:00,KC,,ATL,,Home,,,,2026111501,,,202611150atl,,401873058,,7,7,,,,,,,,,0,"",fieldturf,,,,,,,Andy Reid,Raheem Morris,,ATL97,Mercedes-Benz Stadium
 2026_10_HOU_CLE,2026,REG,10,2026-11-15,Sunday,13:00,HOU,,CLE,,Home,,,,2026111502,,,202611150cle,,401873056,,7,7,,,,,,,,,0,outdoors,grass,,,,,,,DeMeco Ryans,Todd Monken,,CLE00,Huntington Bank Field
 2026_10_MIN_GB,2026,REG,10,2026-11-15,Sunday,13:00,MIN,,GB,,Home,,,,2026111503,,,202611150gnb,,401873060,,6,7,,,,,,,,,1,outdoors,grass,,,,,,,Kevin O'Connell,Matt LaFleur,,GNB00,Lambeau Field
