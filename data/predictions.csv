@@ -419,8 +419,8 @@ game_id,screen_name,prediction
 2026_01_SF_LA,Robert Sasso,67
 2026_01_SF_LA,Roe Henson,70
 2026_01_SF_LA,Roman Torres,45
-2026_01_SF_LA,Ron Marmalefsky,0
 2026_01_SF_LA,Ron Marmalefsky,50
+2026_01_SF_LA,Ron Marmalefsky,0
 2026_01_SF_LA,Ruben Flores,77
 2026_01_SF_LA,Ryan Sarti,55
 2026_01_SF_LA,Sam Brothers,64
@@ -665,8 +665,8 @@ game_id,screen_name,prediction
 2026_01_CHI_CAR,Robert Sasso,38
 2026_01_CHI_CAR,Roe Henson,34
 2026_01_CHI_CAR,Roman Torres,35
-2026_01_CHI_CAR,Ron Marmalefsky,37
 2026_01_CHI_CAR,Ron Marmalefsky,50
+2026_01_CHI_CAR,Ron Marmalefsky,37
 2026_01_CHI_CAR,Ruben Flores,35
 2026_01_CHI_CAR,Ryan Sarti,35
 2026_01_CHI_CAR,Sam Brothers,48
@@ -1166,8 +1166,8 @@ game_id,screen_name,prediction
 2026_01_NO_DET,Robert Sasso,77
 2026_01_NO_DET,Roe Henson,80
 2026_01_NO_DET,Roman Torres,75
-2026_01_NO_DET,Ron Marmalefsky,82
 2026_01_NO_DET,Ron Marmalefsky,50
+2026_01_NO_DET,Ron Marmalefsky,82
 2026_01_NO_DET,Ruben Flores,70
 2026_01_NO_DET,Ryan Sarti,80
 2026_01_NO_DET,Sam Brothers,77
@@ -1417,8 +1417,8 @@ game_id,screen_name,prediction
 2026_01_BUF_HOU,Robert Sasso,43
 2026_01_BUF_HOU,Roe Henson,43
 2026_01_BUF_HOU,Roman Torres,55
-2026_01_BUF_HOU,Ron Marmalefsky,43
 2026_01_BUF_HOU,Ron Marmalefsky,50
+2026_01_BUF_HOU,Ron Marmalefsky,43
 2026_01_BUF_HOU,Ruben Flores,19
 2026_01_BUF_HOU,Ryan Sarti,55
 2026_01_BUF_HOU,Sam Brothers,51
@@ -1667,8 +1667,8 @@ game_id,screen_name,prediction
 2026_01_BAL_IND,Robert Sasso,33
 2026_01_BAL_IND,Roe Henson,35
 2026_01_BAL_IND,Roman Torres,40
-2026_01_BAL_IND,Ron Marmalefsky,50
 2026_01_BAL_IND,Ron Marmalefsky,32
+2026_01_BAL_IND,Ron Marmalefsky,50
 2026_01_BAL_IND,Ruben Flores,16
 2026_01_BAL_IND,Ryan Sarti,35
 2026_01_BAL_IND,Sam Brothers,47
@@ -2668,8 +2668,8 @@ game_id,screen_name,prediction
 2026_01_ARI_LAC,Robert Sasso,84
 2026_01_ARI_LAC,Roe Henson,85
 2026_01_ARI_LAC,Roman Torres,90
-2026_01_ARI_LAC,Ron Marmalefsky,50
 2026_01_ARI_LAC,Ron Marmalefsky,84
+2026_01_ARI_LAC,Ron Marmalefsky,50
 2026_01_ARI_LAC,Ruben Flores,76
 2026_01_ARI_LAC,Ryan Sarti,100
 2026_01_ARI_LAC,Sam Brothers,74
@@ -3173,8 +3173,8 @@ game_id,screen_name,prediction
 2026_01_GB_MIN,Robert Sasso,52
 2026_01_GB_MIN,Roe Henson,60
 2026_01_GB_MIN,Roman Torres,45
-2026_01_GB_MIN,Ron Marmalefsky,0
 2026_01_GB_MIN,Ron Marmalefsky,50
+2026_01_GB_MIN,Ron Marmalefsky,0
 2026_01_GB_MIN,Ruben Flores,28
 2026_01_GB_MIN,Ryan Sarti,45
 2026_01_GB_MIN,Sam Brothers,49
@@ -3270,9 +3270,9 @@ game_id,screen_name,prediction
 2026_01_WAS_PHI,Craig Schallert,74
 2026_01_WAS_PHI,Cristian Felipe,50
 2026_01_WAS_PHI,Dakota Kitchens,72
+2026_01_WAS_PHI,Daniel ,68
 2026_01_WAS_PHI,Daniel ,77
 2026_01_WAS_PHI,Daniel ,72
-2026_01_WAS_PHI,Daniel ,68
 2026_01_WAS_PHI,Daniel Nebenführ,50
 2026_01_WAS_PHI,Danny Gardner,77
 2026_01_WAS_PHI,Darren Knowles,71
@@ -3302,8 +3302,8 @@ game_id,screen_name,prediction
 2026_01_WAS_PHI,George K,66
 2026_01_WAS_PHI,Gonçalo Pina,72
 2026_01_WAS_PHI,Grant Kintner,100
-2026_01_WAS_PHI,Griffin Shelor,61
 2026_01_WAS_PHI,Griffin Shelor,50
+2026_01_WAS_PHI,Griffin Shelor,61
 2026_01_WAS_PHI,Hailey Rivard,100
 2026_01_WAS_PHI,Heitor Costard,65
 2026_01_WAS_PHI,Hiro Boitelle,75
@@ -3425,8 +3425,8 @@ game_id,screen_name,prediction
 2026_01_WAS_PHI,Robert Sasso,73
 2026_01_WAS_PHI,Roe Henson,77
 2026_01_WAS_PHI,Roman Torres,70
-2026_01_WAS_PHI,Ron Marmalefsky,50
 2026_01_WAS_PHI,Ron Marmalefsky,64
+2026_01_WAS_PHI,Ron Marmalefsky,50
 2026_01_WAS_PHI,Ruben Flores,72
 2026_01_WAS_PHI,Ryan Sarti,55
 2026_01_WAS_PHI,Sam Brothers,71
@@ -3523,8 +3523,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Cristian Felipe,50
 2026_01_DAL_NYG,Dakota Kitchens,66
 2026_01_DAL_NYG,Daniel ,45
-2026_01_DAL_NYG,Daniel ,39
 2026_01_DAL_NYG,Daniel ,22
+2026_01_DAL_NYG,Daniel ,39
 2026_01_DAL_NYG,Daniel Nebenführ,50
 2026_01_DAL_NYG,Danny Gardner,61
 2026_01_DAL_NYG,Darren Knowles,38
@@ -3678,8 +3678,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Robert Sasso,36
 2026_01_DAL_NYG,Roe Henson,34
 2026_01_DAL_NYG,Roman Torres,45
-2026_01_DAL_NYG,Ron Marmalefsky,50
 2026_01_DAL_NYG,Ron Marmalefsky,0
+2026_01_DAL_NYG,Ron Marmalefsky,50
 2026_01_DAL_NYG,Ruben Flores,43
 2026_01_DAL_NYG,Ryan Sarti,30
 2026_01_DAL_NYG,Sam Brothers,37
@@ -3775,9 +3775,9 @@ game_id,screen_name,prediction
 2026_01_DEN_KC,Craig Schallert,46
 2026_01_DEN_KC,Cristian Felipe,50
 2026_01_DEN_KC,Dakota Kitchens,65
-2026_01_DEN_KC,Daniel ,46
-2026_01_DEN_KC,Daniel ,52
 2026_01_DEN_KC,Daniel ,55
+2026_01_DEN_KC,Daniel ,52
+2026_01_DEN_KC,Daniel ,46
 2026_01_DEN_KC,Daniel Nebenführ,50
 2026_01_DEN_KC,Danny Gardner,28
 2026_01_DEN_KC,Darren Knowles,54
@@ -3809,8 +3809,8 @@ game_id,screen_name,prediction
 2026_01_DEN_KC,George K,51
 2026_01_DEN_KC,Gonçalo Pina,60
 2026_01_DEN_KC,Grant Kintner,2
-2026_01_DEN_KC,Griffin Shelor,54
 2026_01_DEN_KC,Griffin Shelor,50
+2026_01_DEN_KC,Griffin Shelor,54
 2026_01_DEN_KC,Hailey Rivard,25
 2026_01_DEN_KC,Heitor Costard,51
 2026_01_DEN_KC,Hiro Boitelle,55
@@ -4035,8 +4035,8 @@ game_id,screen_name,prediction
 2026_02_DET_BUF,Craig Schallert,67
 2026_02_DET_BUF,Cristian Felipe,50
 2026_02_DET_BUF,Dakota Kitchens,68
-2026_02_DET_BUF,Daniel ,60
 2026_02_DET_BUF,Daniel ,71
+2026_02_DET_BUF,Daniel ,60
 2026_02_DET_BUF,Daniel ,74
 2026_02_DET_BUF,Daniel Nebenführ,50
 2026_02_DET_BUF,Danny Gardner,65
@@ -4069,8 +4069,8 @@ game_id,screen_name,prediction
 2026_02_DET_BUF,George K,54
 2026_02_DET_BUF,Gonçalo Pina,43
 2026_02_DET_BUF,Grant Kintner,98
-2026_02_DET_BUF,Griffin Shelor,50
 2026_02_DET_BUF,Griffin Shelor,61
+2026_02_DET_BUF,Griffin Shelor,50
 2026_02_DET_BUF,Hailey Rivard,75
 2026_02_DET_BUF,Heitor Costard,50
 2026_02_DET_BUF,Hiro Boitelle,65
