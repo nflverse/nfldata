@@ -768,7 +768,7 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2025,NFC,NFC West,SEA,14,3,0,0.823529,1,483,292,191,0.470588,0.49827,1,
 2025,NFC,NFC West,SF,12,5,0,0.705882,3,437,371,66,0.416667,0.49827,6,LostDV
 2026,AFC,AFC East,BUF,2,0,0,1.0,1,77,62,15,0.25,0.441176,,
-2026,AFC,AFC East,MIA,0,1,0,0.0,4,13,27,-14,0.0,0.647059,,
+2026,AFC,AFC East,MIA,0,2,0,0.0,4,26,62,-36,0.0,0.647059,,
 2026,AFC,AFC East,NE,1,1,0,0.5,2,30,16,14,0.5,0.588235,,
 2026,AFC,AFC East,NYJ,1,1,0,0.5,3,40,30,10,0.0,0.558824,,
 2026,AFC,AFC North,BAL,1,1,0,0.5,3,58,47,11,0.0,0.382353,,
@@ -798,4 +798,4 @@ season,conf,division,team,wins,losses,ties,pct,div_rank,scored,allowed,net,sov,s
 2026,NFC,NFC West,ARI,1,0,0,1.0,2,26,14,12,0.0,0.588235,,
 2026,NFC,NFC West,LA,0,1,0,0.0,4,7,27,-20,0.0,0.705882,,
 2026,NFC,NFC West,SEA,1,0,0,1.0,3,13,10,3,0.5,0.588235,,
-2026,NFC,NFC West,SF,1,0,0,1.0,1,27,7,20,0.0,0.558824,,
+2026,NFC,NFC West,SF,2,0,0,1.0,1,62,20,42,0.0,0.558824,,
