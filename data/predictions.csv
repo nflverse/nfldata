@@ -2668,8 +2668,8 @@ game_id,screen_name,prediction
 2026_01_ARI_LAC,Robert Sasso,84
 2026_01_ARI_LAC,Roe Henson,85
 2026_01_ARI_LAC,Roman Torres,90
-2026_01_ARI_LAC,Ron Marmalefsky,50
 2026_01_ARI_LAC,Ron Marmalefsky,84
+2026_01_ARI_LAC,Ron Marmalefsky,50
 2026_01_ARI_LAC,Ruben Flores,76
 2026_01_ARI_LAC,Ryan Sarti,100
 2026_01_ARI_LAC,Sam Brothers,74
@@ -3522,9 +3522,9 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Craig Schallert,43
 2026_01_DAL_NYG,Cristian Felipe,50
 2026_01_DAL_NYG,Dakota Kitchens,66
-2026_01_DAL_NYG,Daniel ,22
 2026_01_DAL_NYG,Daniel ,39
 2026_01_DAL_NYG,Daniel ,45
+2026_01_DAL_NYG,Daniel ,22
 2026_01_DAL_NYG,Daniel Nebenführ,50
 2026_01_DAL_NYG,Danny Gardner,61
 2026_01_DAL_NYG,Darren Knowles,38
@@ -3555,8 +3555,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,George K,36
 2026_01_DAL_NYG,Gonçalo Pina,54
 2026_01_DAL_NYG,Grant Kintner,0
-2026_01_DAL_NYG,Griffin Shelor,57
 2026_01_DAL_NYG,Griffin Shelor,50
+2026_01_DAL_NYG,Griffin Shelor,57
 2026_01_DAL_NYG,Hailey Rivard,0
 2026_01_DAL_NYG,Heitor Costard,45
 2026_01_DAL_NYG,Hiro Boitelle,60
@@ -3569,8 +3569,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Jack Tuohy,37
 2026_01_DAL_NYG,Jacob Kaye,16
 2026_01_DAL_NYG,Jacob Thompson,50
-2026_01_DAL_NYG,Jake ,91
 2026_01_DAL_NYG,Jake ,44
+2026_01_DAL_NYG,Jake ,91
 2026_01_DAL_NYG,Jake Flynn,32
 2026_01_DAL_NYG,Jake Ford,40
 2026_01_DAL_NYG,James Latini,40
@@ -3809,8 +3809,8 @@ game_id,screen_name,prediction
 2026_01_DEN_KC,George K,51
 2026_01_DEN_KC,Gonçalo Pina,60
 2026_01_DEN_KC,Grant Kintner,2
-2026_01_DEN_KC,Griffin Shelor,50
 2026_01_DEN_KC,Griffin Shelor,54
+2026_01_DEN_KC,Griffin Shelor,50
 2026_01_DEN_KC,Hailey Rivard,25
 2026_01_DEN_KC,Heitor Costard,51
 2026_01_DEN_KC,Hiro Boitelle,55
@@ -4035,9 +4035,9 @@ game_id,screen_name,prediction
 2026_02_DET_BUF,Craig Schallert,67
 2026_02_DET_BUF,Cristian Felipe,50
 2026_02_DET_BUF,Dakota Kitchens,68
-2026_02_DET_BUF,Daniel ,74
 2026_02_DET_BUF,Daniel ,71
 2026_02_DET_BUF,Daniel ,60
+2026_02_DET_BUF,Daniel ,74
 2026_02_DET_BUF,Daniel Nebenführ,50
 2026_02_DET_BUF,Danny Gardner,65
 2026_02_DET_BUF,Darren Knowles,69
@@ -4083,8 +4083,8 @@ game_id,screen_name,prediction
 2026_02_DET_BUF,Jack Tuohy,50
 2026_02_DET_BUF,Jacob Kaye,79
 2026_02_DET_BUF,Jacob Thompson,50
-2026_02_DET_BUF,Jake ,70
 2026_02_DET_BUF,Jake ,18
+2026_02_DET_BUF,Jake ,70
 2026_02_DET_BUF,Jake Flynn,67
 2026_02_DET_BUF,Jake Ford,66
 2026_02_DET_BUF,James Latini,60
@@ -4295,9 +4295,9 @@ game_id,screen_name,prediction
 2026_02_CAR_ATL,Chris Hellings,34
 2026_02_CAR_ATL,Connor McCormack,46
 2026_02_CAR_ATL,Craig Schallert,48
-2026_02_CAR_ATL,Daniel ,4
 2026_02_CAR_ATL,Daniel ,46
 2026_02_CAR_ATL,Daniel ,49
+2026_02_CAR_ATL,Daniel ,4
 2026_02_CAR_ATL,Danny Gardner,30
 2026_02_CAR_ATL,Darren Knowles,37
 2026_02_CAR_ATL,Darryl Sheppard,55
