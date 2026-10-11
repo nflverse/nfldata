@@ -3270,8 +3270,8 @@ game_id,screen_name,prediction
 2026_01_WAS_PHI,Craig Schallert,74
 2026_01_WAS_PHI,Cristian Felipe,50
 2026_01_WAS_PHI,Dakota Kitchens,72
-2026_01_WAS_PHI,Daniel ,77
 2026_01_WAS_PHI,Daniel ,72
+2026_01_WAS_PHI,Daniel ,77
 2026_01_WAS_PHI,Daniel ,68
 2026_01_WAS_PHI,Daniel Nebenführ,50
 2026_01_WAS_PHI,Danny Gardner,77
@@ -3522,9 +3522,9 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Craig Schallert,43
 2026_01_DAL_NYG,Cristian Felipe,50
 2026_01_DAL_NYG,Dakota Kitchens,66
-2026_01_DAL_NYG,Daniel ,45
-2026_01_DAL_NYG,Daniel ,39
 2026_01_DAL_NYG,Daniel ,22
+2026_01_DAL_NYG,Daniel ,39
+2026_01_DAL_NYG,Daniel ,45
 2026_01_DAL_NYG,Daniel Nebenführ,50
 2026_01_DAL_NYG,Danny Gardner,61
 2026_01_DAL_NYG,Darren Knowles,38
@@ -7433,9 +7433,9 @@ game_id,screen_name,prediction
 2026_03_ATL_GB,Chris Hellings,65
 2026_03_ATL_GB,Connor McCormack,57
 2026_03_ATL_GB,Craig Schallert,75
-2026_03_ATL_GB,Daniel ,67
-2026_03_ATL_GB,Daniel ,65
 2026_03_ATL_GB,Daniel ,86
+2026_03_ATL_GB,Daniel ,65
+2026_03_ATL_GB,Daniel ,67
 2026_03_ATL_GB,Danny Gardner,100
 2026_03_ATL_GB,Dante Reigns,100
 2026_03_ATL_GB,Darren Knowles,78
