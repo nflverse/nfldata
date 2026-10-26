@@ -3522,9 +3522,9 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Craig Schallert,43
 2026_01_DAL_NYG,Cristian Felipe,50
 2026_01_DAL_NYG,Dakota Kitchens,66
+2026_01_DAL_NYG,Daniel ,45
 2026_01_DAL_NYG,Daniel ,22
 2026_01_DAL_NYG,Daniel ,39
-2026_01_DAL_NYG,Daniel ,45
 2026_01_DAL_NYG,Daniel Nebenführ,50
 2026_01_DAL_NYG,Danny Gardner,61
 2026_01_DAL_NYG,Darren Knowles,38
@@ -3555,8 +3555,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,George K,36
 2026_01_DAL_NYG,Gonçalo Pina,54
 2026_01_DAL_NYG,Grant Kintner,0
-2026_01_DAL_NYG,Griffin Shelor,50
 2026_01_DAL_NYG,Griffin Shelor,57
+2026_01_DAL_NYG,Griffin Shelor,50
 2026_01_DAL_NYG,Hailey Rivard,0
 2026_01_DAL_NYG,Heitor Costard,45
 2026_01_DAL_NYG,Hiro Boitelle,60
@@ -3678,8 +3678,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Robert Sasso,36
 2026_01_DAL_NYG,Roe Henson,34
 2026_01_DAL_NYG,Roman Torres,45
-2026_01_DAL_NYG,Ron Marmalefsky,50
 2026_01_DAL_NYG,Ron Marmalefsky,0
+2026_01_DAL_NYG,Ron Marmalefsky,50
 2026_01_DAL_NYG,Ruben Flores,43
 2026_01_DAL_NYG,Ryan Sarti,30
 2026_01_DAL_NYG,Sam Brothers,37
@@ -3775,8 +3775,8 @@ game_id,screen_name,prediction
 2026_01_DEN_KC,Craig Schallert,46
 2026_01_DEN_KC,Cristian Felipe,50
 2026_01_DEN_KC,Dakota Kitchens,65
-2026_01_DEN_KC,Daniel ,52
 2026_01_DEN_KC,Daniel ,46
+2026_01_DEN_KC,Daniel ,52
 2026_01_DEN_KC,Daniel ,55
 2026_01_DEN_KC,Daniel Nebenführ,50
 2026_01_DEN_KC,Danny Gardner,28
@@ -7433,9 +7433,9 @@ game_id,screen_name,prediction
 2026_03_ATL_GB,Chris Hellings,65
 2026_03_ATL_GB,Connor McCormack,57
 2026_03_ATL_GB,Craig Schallert,75
-2026_03_ATL_GB,Daniel ,65
 2026_03_ATL_GB,Daniel ,67
 2026_03_ATL_GB,Daniel ,86
+2026_03_ATL_GB,Daniel ,65
 2026_03_ATL_GB,Danny Gardner,100
 2026_03_ATL_GB,Dante Reigns,100
 2026_03_ATL_GB,Darren Knowles,78
@@ -8649,8 +8649,8 @@ game_id,screen_name,prediction
 2026_03_KC_MIA,Chris Hellings,17
 2026_03_KC_MIA,Connor McCormack,3
 2026_03_KC_MIA,Craig Schallert,21
-2026_03_KC_MIA,Daniel ,18
 2026_03_KC_MIA,Daniel ,10
+2026_03_KC_MIA,Daniel ,18
 2026_03_KC_MIA,Daniel ,13
 2026_03_KC_MIA,Danny Gardner,0
 2026_03_KC_MIA,Dante Reigns,0
@@ -12234,9 +12234,9 @@ game_id,screen_name,prediction
 2026_04_LA_PHI,Christopher Tossas,45
 2026_04_LA_PHI,Connor McCormack,47
 2026_04_LA_PHI,Craig Schallert,47
-2026_04_LA_PHI,Daniel ,30
-2026_04_LA_PHI,Daniel ,40
 2026_04_LA_PHI,Daniel ,39
+2026_04_LA_PHI,Daniel ,40
+2026_04_LA_PHI,Daniel ,30
 2026_04_LA_PHI,Danny Gardner,39
 2026_04_LA_PHI,Darren Knowles,31
 2026_04_LA_PHI,Darryl Sheppard,35
@@ -17351,9 +17351,9 @@ game_id,screen_name,prediction
 2026_06_TEN_IND,Chris Hellings,77
 2026_06_TEN_IND,Connor McCormack,60
 2026_06_TEN_IND,Craig Schallert,72
-2026_06_TEN_IND,Daniel ,59
-2026_06_TEN_IND,Daniel ,71
 2026_06_TEN_IND,Daniel ,70
+2026_06_TEN_IND,Daniel ,71
+2026_06_TEN_IND,Daniel ,59
 2026_06_TEN_IND,Danny Gardner,75
 2026_06_TEN_IND,Darren Knowles,76
 2026_06_TEN_IND,David Desroches,70
@@ -17442,8 +17442,8 @@ game_id,screen_name,prediction
 2026_06_TEN_IND,Matthew Worth,100
 2026_06_TEN_IND,Matthias ,58
 2026_06_TEN_IND,Matthias S,61
-2026_06_TEN_IND,McCade Pearson,50
 2026_06_TEN_IND,McCade Pearson,79
+2026_06_TEN_IND,McCade Pearson,50
 2026_06_TEN_IND,michael jentsch,69
 2026_06_TEN_IND,Michael Marsh,90
 2026_06_TEN_IND,Michele Hall,80
@@ -18371,8 +18371,8 @@ game_id,screen_name,prediction
 2026_06_ARI_LA,Matthew Worth,100
 2026_06_ARI_LA,Matthias ,73
 2026_06_ARI_LA,Matthias S,76
-2026_06_ARI_LA,McCade Pearson,87
 2026_06_ARI_LA,McCade Pearson,50
+2026_06_ARI_LA,McCade Pearson,87
 2026_06_ARI_LA,michael jentsch,86
 2026_06_ARI_LA,Michael Marsh,95
 2026_06_ARI_LA,Michele Hall,75
