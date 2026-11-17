@@ -2514,8 +2514,8 @@ game_id,screen_name,prediction
 2026_01_ARI_LAC,Cristian Felipe,50
 2026_01_ARI_LAC,Dakota Kitchens,100
 2026_01_ARI_LAC,Daniel ,80
-2026_01_ARI_LAC,Daniel ,80
 2026_01_ARI_LAC,Daniel ,89
+2026_01_ARI_LAC,Daniel ,80
 2026_01_ARI_LAC,Daniel Nebenführ,50
 2026_01_ARI_LAC,Danny Gardner,100
 2026_01_ARI_LAC,Darren Knowles,88
@@ -3678,8 +3678,8 @@ game_id,screen_name,prediction
 2026_01_DAL_NYG,Robert Sasso,36
 2026_01_DAL_NYG,Roe Henson,34
 2026_01_DAL_NYG,Roman Torres,45
-2026_01_DAL_NYG,Ron Marmalefsky,0
 2026_01_DAL_NYG,Ron Marmalefsky,50
+2026_01_DAL_NYG,Ron Marmalefsky,0
 2026_01_DAL_NYG,Ruben Flores,43
 2026_01_DAL_NYG,Ryan Sarti,30
 2026_01_DAL_NYG,Sam Brothers,37
@@ -3775,8 +3775,8 @@ game_id,screen_name,prediction
 2026_01_DEN_KC,Craig Schallert,46
 2026_01_DEN_KC,Cristian Felipe,50
 2026_01_DEN_KC,Dakota Kitchens,65
-2026_01_DEN_KC,Daniel ,52
 2026_01_DEN_KC,Daniel ,55
+2026_01_DEN_KC,Daniel ,52
 2026_01_DEN_KC,Daniel ,46
 2026_01_DEN_KC,Daniel Nebenführ,50
 2026_01_DEN_KC,Danny Gardner,28
@@ -4035,8 +4035,8 @@ game_id,screen_name,prediction
 2026_02_DET_BUF,Craig Schallert,67
 2026_02_DET_BUF,Cristian Felipe,50
 2026_02_DET_BUF,Dakota Kitchens,68
-2026_02_DET_BUF,Daniel ,74
 2026_02_DET_BUF,Daniel ,71
+2026_02_DET_BUF,Daniel ,74
 2026_02_DET_BUF,Daniel ,60
 2026_02_DET_BUF,Daniel Nebenführ,50
 2026_02_DET_BUF,Danny Gardner,65
@@ -5131,8 +5131,8 @@ game_id,screen_name,prediction
 2026_02_PIT_NE,Chris Hellings,70
 2026_02_PIT_NE,Connor McCormack,54
 2026_02_PIT_NE,Craig Schallert,73
-2026_02_PIT_NE,Daniel ,65
 2026_02_PIT_NE,Daniel ,72
+2026_02_PIT_NE,Daniel ,65
 2026_02_PIT_NE,Daniel ,67
 2026_02_PIT_NE,Danny Gardner,90
 2026_02_PIT_NE,Darren Knowles,69
@@ -9455,8 +9455,8 @@ game_id,screen_name,prediction
 2026_03_ARI_SF,Connor McCormack,90
 2026_03_ARI_SF,Craig Schallert,73
 2026_03_ARI_SF,Daniel ,77
-2026_03_ARI_SF,Daniel ,87
 2026_03_ARI_SF,Daniel ,69
+2026_03_ARI_SF,Daniel ,87
 2026_03_ARI_SF,Danny Gardner,86
 2026_03_ARI_SF,Dante Reigns,100
 2026_03_ARI_SF,Darren Knowles,85
@@ -15293,8 +15293,8 @@ game_id,screen_name,prediction
 2026_05_HOU_TEN,Chris Hellings,27
 2026_05_HOU_TEN,Connor McCormack,33
 2026_05_HOU_TEN,Craig Schallert,27
-2026_05_HOU_TEN,Daniel ,28
 2026_05_HOU_TEN,Daniel ,25
+2026_05_HOU_TEN,Daniel ,28
 2026_05_HOU_TEN,Daniel ,23
 2026_05_HOU_TEN,Danny Gardner,0
 2026_05_HOU_TEN,Dante Reigns,50
@@ -18466,8 +18466,8 @@ game_id,screen_name,prediction
 2026_06_LAC_KC,Connor McCormack,77
 2026_06_LAC_KC,Craig Schallert,74
 2026_06_LAC_KC,Daniel ,80
-2026_06_LAC_KC,Daniel ,77
 2026_06_LAC_KC,Daniel ,68
+2026_06_LAC_KC,Daniel ,77
 2026_06_LAC_KC,Danny Gardner,61
 2026_06_LAC_KC,Darren Knowles,83
 2026_06_LAC_KC,David Desroches,72
@@ -22300,8 +22300,8 @@ game_id,screen_name,prediction
 2026_08_ARI_DAL,Connor McCormack,64
 2026_08_ARI_DAL,Craig Schallert,69
 2026_08_ARI_DAL,Daniel ,73
-2026_08_ARI_DAL,Daniel ,79
 2026_08_ARI_DAL,Daniel ,69
+2026_08_ARI_DAL,Daniel ,79
 2026_08_ARI_DAL,Danny Gardner,50
 2026_08_ARI_DAL,Darren Knowles,78
 2026_08_ARI_DAL,David Desroches,72
@@ -25072,8 +25072,8 @@ game_id,screen_name,prediction
 2026_09_DET_MIA,Chris Hellings,18
 2026_09_DET_MIA,Connor McCormack,14
 2026_09_DET_MIA,Craig Schallert,33
-2026_09_DET_MIA,Daniel ,50
 2026_09_DET_MIA,Daniel ,26
+2026_09_DET_MIA,Daniel ,50
 2026_09_DET_MIA,Daniel ,0
 2026_09_DET_MIA,Danny Gardner,19
 2026_09_DET_MIA,Darren Knowles,22
@@ -28853,8 +28853,8 @@ game_id,screen_name,prediction
 2026_10_PIT_CIN,Luís Guilherme Fernandes Pereira,50
 2026_10_PIT_CIN,Luke ,60
 2026_10_PIT_CIN,Luke McCormick,0
-2026_10_PIT_CIN,Luke Nelson,98
 2026_10_PIT_CIN,Luke Nelson,62
+2026_10_PIT_CIN,Luke Nelson,98
 2026_10_PIT_CIN,Luke Vacca,72
 2026_10_PIT_CIN,Manuel Gil,50
 2026_10_PIT_CIN,Mark Hejduk,64
