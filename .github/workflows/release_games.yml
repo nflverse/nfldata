@@ -34,16 +34,20 @@ jobs:
             "https://github.com/nflverse/nflverse-data/",
             "releases/download/schedules/games.rds"
           ))
-
           # Load data in nfldata repo
           repo_data <- readRDS("data/games.rds")
-
           # The workflow should only trigger if the data changed but it doesn't hurt
           # to make sure we only update the data if the comparison shows that something
           # really has changed
           if (!identical(data.frame(released), data.frame(repo_data))) {
             cli::cli_alert_info("Going to release updated games data.")
-            out <- dplyr::rows_upsert(released, repo_data, by = "game_id")
+            # Failed downloads make nflreadr return a 0 row dataframe.
+            # In that case we just use repo data and push it
+            out <- if (nrow(released) > 0) {
+              dplyr::rows_upsert(released, repo_data, by = "game_id")
+            } else {
+              repo_data
+            }
             nflversedata::nflverse_save(
               data_frame = out,
               file_name = "games",
