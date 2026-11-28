@@ -4,31 +4,42 @@ on:
     paths: ["data/trades.csv"]
 
 name: Update nflverse-data@trades release
-permissions: read-all
+# Lee pushes data updates every few minutes on game days: queue releases
+# instead of running two at once.
+concurrency:
+  group: release-trades
+  cancel-in-progress: false
+
+permissions:
+  contents: read
 
 jobs:
   release_trades:
     runs-on: ubuntu-latest
-    env:
-      GH_TOKEN: ${{ secrets.NFLVERSE_GH_TOKEN }}
+    container: ghcr.io/nflverse/r-runner:latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
+      # Checkout (depth 1, the repo history is several GB) + nflverse
+      # packages at their latest commit
+      - uses: nflverse/actions/setup@v1
         with:
-          use-public-rspm: true
-          extra-repositories: 'https://nflverse.r-universe.dev'
+          packages: nflverse/nflverse-data nflverse/nflreadr
 
-      - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
+      # write access to nflverse-data only. Minted after setup, which
+      # installs unpinned GitHub code.
+      - id: upload-token
+        uses: nflverse/actions/app-token@v1
         with:
-          packages: nflverse/nflverse-data, any::dplyr
+          client-id: ${{ vars.NFLVERSE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.NFLVERSE_APP_PRIVATE_KEY }}
+          repositories: nflverse-data
+          contents: write
 
-      - name: Release games data
+      - name: Release trades data
+        env:
+          # used by the gh cli for release uploads
+          GH_TOKEN: ${{ steps.upload-token.outputs.token }}
         run: |
-          cli::rule("Start games data update process")
+          cli::rule("Start trades data update process")
           # Load currently released data
           released <- nflreadr::rds_from_url(paste0(
             "https://github.com/nflverse/nflverse-data/",
